@@ -18,7 +18,7 @@ This script provides automated interaction with web applications, specifically f
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://your-repository-url
+   git clone https://github.com/ThaiLe1220/eugene_nf_selenium
    ```
 2. Install the required Python packages:
    ```

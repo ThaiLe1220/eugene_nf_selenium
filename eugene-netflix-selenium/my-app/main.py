@@ -1,4 +1,5 @@
 import time
+import os
 from dotenv import load_dotenv
 
 from selenium import webdriver
@@ -241,12 +242,15 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
             movies_ids.append(movie_id)
 
 for i, link in enumerate(netflix_links):
-    if 9 <= i <= 49:
+    start_index = 0
+    end_index = 49
+
+    if start_index <= i <= end_index:
         start_time = time.time()  # Start time tracking
         try:
             driver.get(link)
-            time.sleep(4)
-            if i == 9:
+            time.sleep(5)
+            if i == start_index:
                 click_setting_button(wait)
                 extension_sign_in(driver, wait)
                 driver.switch_to.window(driver.window_handles[0])
@@ -256,7 +260,7 @@ for i, link in enumerate(netflix_links):
 
             export_translation(driver, wait, i)
             close_all_tabs(driver)
-            time.sleep(3)
+            time.sleep(2)
         except WebDriverException:
             print(f"{link} Inaccessible")
 

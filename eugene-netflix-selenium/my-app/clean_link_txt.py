@@ -15,11 +15,15 @@ def clean_netflix_links(input_file, output_file):
                 cleaned_link = f"https://www.netflix.com/watch/{movie_id}"
                 cleaned_links.append(cleaned_link)
 
-    # Writing the cleaned links to the output file
+    # Sort the links in descending order based on the numeric part of the ID
+    sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
+
+    # Writing the sorted and cleaned links to the output file
     with open(output_file, "w") as file:
-        for link in cleaned_links:
+        for link in sorted_links:
             file.write(link + "\n")
 
 
-# Replace 'movies_links.txt' with the path to your input file and specify the output file name
+# Replace './source/movies_links.txt' and './source/movies_links_cleaned.txt'
+# with the paths to your input and output files, respectively
 clean_netflix_links("./source/movies_links.txt", "./source/movies_links_cleaned.txt")
