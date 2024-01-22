@@ -120,7 +120,7 @@ def extension_sign_in(cur_driver, cur_wait):
     # time.sleep(3)
     cur_driver.switch_to.window(main_window_handle)
     # close_all_tabs(cur_driver)
-    time.sleep(7)
+    time.sleep(5)
 
 
 def choose_vietnamese_translation(cur_driver, cur_wait):
@@ -254,6 +254,7 @@ for i, link in enumerate(netflix_links):
                 click_setting_button(wait)
                 extension_sign_in(driver, wait)
                 driver.switch_to.window(driver.window_handles[0])
+                time.sleep(5)
                 choose_vietnamese_translation(driver, wait)
                 choose_machine_translation(driver)
                 close_setting_button(driver)
@@ -263,6 +264,10 @@ for i, link in enumerate(netflix_links):
             time.sleep(2)
         except WebDriverException:
             print(f"{link} Inaccessible")
+            with open(
+                "./source/movies_links_inaccessed.txt", "a", encoding="utf-8"
+            ) as file:
+                file.write(link + "\n")
 
         elapsed_time = time.time() - start_time  # Calculate elapsed time
         print(
