@@ -252,7 +252,6 @@ netflix_authenticate(driver, nf_username, nf_password)
 netflix_links = []
 movies_ids = []
 
-# Read the links from the movies_links.txt file and add them to the list
 with open("./source/movies_links_cleaned.txt", "r") as file:
     for line in file:
         line = line.strip()
@@ -262,7 +261,7 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
             movies_ids.append(movie_id)
 
 for i, link in enumerate(netflix_links):
-    start_index = 775
+    start_index = 0
     end_index = 1092
 
     if start_index <= i <= end_index:
@@ -274,11 +273,11 @@ for i, link in enumerate(netflix_links):
                 click_setting_button(wait)
                 # extension_sign_in(driver, wait)
                 # driver.switch_to.window(driver.window_handles[0])
-                choose_language_translation(driver, wait, "Vietnamese")
+                choose_language_translation(driver, wait, "Spanish")
                 # choose_machine_translation(driver)
                 close_setting_button(driver)
 
-            export_translation(driver, wait, i, "Vietnamese")
+            export_translation(driver, wait, i, "Spanish")
             close_all_tabs(driver)
             time.sleep(0.5)
         except WebDriverException:
