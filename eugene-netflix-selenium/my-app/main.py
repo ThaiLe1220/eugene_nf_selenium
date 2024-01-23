@@ -252,7 +252,8 @@ netflix_authenticate(driver, nf_username, nf_password)
 netflix_links = []
 movies_ids = []
 
-with open("./source/movies_links_cleaned.txt", "r") as file:
+# with open("./source/movies_links_cleaned.txt", "r") as file:
+with open("./source/movies_links_inaccessed_cleaned.txt", "r") as file:
     for line in file:
         line = line.strip()
         if line.startswith("https://www.netflix.com/watch/"):
@@ -262,7 +263,7 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
 
 for i, link in enumerate(netflix_links):
     start_index = 0
-    end_index = 1092
+    end_index = 302
 
     if start_index <= i <= end_index:
         start_time = time.time()  # Start time tracking

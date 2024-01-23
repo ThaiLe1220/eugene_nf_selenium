@@ -7,6 +7,7 @@ def clean_text(text):
     target = text.replace("\n                    ", " ").strip()
     target = target.replace("\n", " ")
     target = target.replace("\u200E", "")
+    target = target.replace('"', "")
     return target
 
 
