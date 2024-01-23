@@ -20,24 +20,26 @@ def google_authenticate(cur_driver, username, password):
         "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button&ifkv=ASKXGp2ElErrlp6KI4Coxg5NIA00uJNFj2s1WJiy5hUdDcMorxOJm5AZa_RgOe8x0MyvF-Uwk56RNQ&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-854968125%3A1705915296809620&theme=glif"
     )
     time.sleep(1)
-    new_tab = [
-        tab
-        for tab in cur_driver.window_handles
-        if tab != cur_driver.current_window_handle
-    ][0]
-    cur_driver.switch_to.window(new_tab)
-    cur_driver.close()
-    cur_driver.switch_to.window(cur_driver.window_handles[0])
-    time.sleep(2)
-    email_field = cur_driver.find_element(By.ID, "identifierId")
-    email_field.click()
-    email_field.send_keys(username)
-    email_field.send_keys(Keys.RETURN)
-    time.sleep(4)
-    password_field = cur_driver.find_element(By.NAME, "Passwd")
-    password_field.send_keys(password)
-    password_field.send_keys(Keys.RETURN)
-    time.sleep(3)
+    if len(cur_driver.window_handles) > 1:
+        new_tab = [
+            tab
+            for tab in cur_driver.window_handles
+            if tab != cur_driver.current_window_handle
+        ][0]
+        cur_driver.switch_to.window(new_tab)
+        cur_driver.close()
+        cur_driver.switch_to.window(cur_driver.window_handles[0])
+        time.sleep(2)
+        # email_field = cur_driver.find_element(By.ID, "identifierId")
+        # email_field.click()
+        # email_field.send_keys(username)
+        # email_field.send_keys(Keys.RETURN)
+        # time.sleep(4)
+        # password_field = cur_driver.find_element(By.NAME, "Passwd")
+        # password_field.send_keys(password)
+        # password_field.send_keys(Keys.RETURN)
+        # time.sleep(3)
+    time.sleep(1)
 
 
 def netflix_authenticate(cur_driven, username, password):
@@ -64,7 +66,6 @@ def click_setting_button(cur_wait):
         )
     )
     settings_button.click()
-    time.sleep(1)
 
 
 def close_all_tabs(cur_driver):
@@ -88,39 +89,41 @@ def extension_sign_in(cur_driver, cur_wait):
     )
     sign_in_button.click()
     time.sleep(5)
-    new_tab = [
-        tab
-        for tab in cur_driver.window_handles
-        if tab != cur_driver.current_window_handle
-    ][0]
-    cur_driver.switch_to.window(new_tab)
-    main_window_handle = cur_driver.current_window_handle
+    if len(cur_driver.window_handles) > 1:
+        new_tab = [
+            tab
+            for tab in cur_driver.window_handles
+            if tab != cur_driver.current_window_handle
+        ][0]
+        cur_driver.switch_to.window(new_tab)
+        main_window_handle = cur_driver.current_window_handle
 
-    cur_wait.until(
-        EC.presence_of_element_located(
-            (
-                By.CSS_SELECTOR,
-                ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
+        cur_wait.until(
+            EC.presence_of_element_located(
+                (
+                    By.CSS_SELECTOR,
+                    ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
+                )
             )
         )
-    )
-    gg_login_button = cur_driver.find_element(
-        By.CSS_SELECTOR,
-        ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
-    )
+        gg_login_button = cur_driver.find_element(
+            By.CSS_SELECTOR,
+            ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
+        )
 
-    gg_login_button.click()
-    time.sleep(4)
-    for handle in cur_driver.window_handles:
-        if handle != main_window_handle:
-            cur_driver.switch_to.window(handle)
-    # time.sleep(3)
-    # email_select = cur_driver.find_element(By.CSS_SELECTOR, ".WBW9sf")
-    # email_select.click()
-    # time.sleep(3)
+        gg_login_button.click()
+        time.sleep(4)
+        time.sleep(10)
+        for handle in cur_driver.window_handles:
+            if handle != main_window_handle:
+                cur_driver.switch_to.window(handle)
+        # time.sleep(3)
+        # email_select = cur_driver.find_element(By.CSS_SELECTOR, ".WBW9sf")
+        # email_select.click()
+        # time.sleep(3)
+
     cur_driver.switch_to.window(main_window_handle)
-    # close_all_tabs(cur_driver)
-    time.sleep(5)
+    time.sleep(50)
 
 
 def choose_vietnamese_translation(cur_driver, cur_wait):
@@ -145,7 +148,6 @@ def choose_vietnamese_translation(cur_driver, cur_wait):
     actions = ActionChains(cur_driver)
     actions.move_to_element(vietnamese_option).perform()
     vietnamese_option.click()
-    time.sleep(1)
 
 
 def choose_machine_translation(cur_driver):
@@ -172,7 +174,6 @@ def close_setting_button(cur_driver):
         By.CSS_SELECTOR, ".lln-close-modal.lln-close-modal-btn"
     )
     cur_driver.execute_script("arguments[0].click();", settings_button)
-    time.sleep(1)
 
 
 def export_translation(cur_driver, cur_wait, i):
@@ -187,13 +188,13 @@ def export_translation(cur_driver, cur_wait, i):
     )
     export_button.click()
 
-    time.sleep(1)
-    choose_export_machine_translation(cur_driver)
+    # time.sleep(1)
+    # choose_export_machine_translation(cur_driver)
     export_option = cur_wait.until(
         EC.element_to_be_clickable((By.ID, "llnExportModalExportBtn"))
     )
     export_option.click()
-    time.sleep(7)
+    time.sleep(4)
 
     if len(cur_driver.window_handles) > 1:
         new_tab = [
@@ -210,8 +211,6 @@ def export_translation(cur_driver, cur_wait, i):
 
         print(f"\nThe HTML of the page has been saved as {filename}")
         process_and_save_data(movies_ids[i])
-
-    time.sleep(1)
 
 
 load_dotenv()
@@ -242,26 +241,24 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
             movies_ids.append(movie_id)
 
 for i, link in enumerate(netflix_links):
-    start_index = 0
-    end_index = 49
+    start_index = 900
+    end_index = 1090
 
     if start_index <= i <= end_index:
         start_time = time.time()  # Start time tracking
         try:
             driver.get(link)
-            time.sleep(5)
+            time.sleep(7)
             if i == start_index:
                 click_setting_button(wait)
-                extension_sign_in(driver, wait)
-                driver.switch_to.window(driver.window_handles[0])
-                time.sleep(5)
+                # extension_sign_in(driver, wait)
+                # driver.switch_to.window(driver.window_handles[0])
                 choose_vietnamese_translation(driver, wait)
-                choose_machine_translation(driver)
+                # choose_machine_translation(driver)
                 close_setting_button(driver)
 
             export_translation(driver, wait, i)
             close_all_tabs(driver)
-            time.sleep(2)
         except WebDriverException:
             print(f"{link} Inaccessible")
             with open(

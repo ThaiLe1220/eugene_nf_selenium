@@ -17,10 +17,11 @@ def clean_netflix_links(input_file, output_file):
 
     # Sort the links in descending order based on the numeric part of the ID
     sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
+    unique_sorted_links = sorted(set(link.strip() for link in sorted_links))
 
     # Writing the sorted and cleaned links to the output file
     with open(output_file, "w") as file:
-        for link in sorted_links:
+        for link in unique_sorted_links:
             file.write(link + "\n")
 
 

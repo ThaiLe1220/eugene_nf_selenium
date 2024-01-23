@@ -37,9 +37,13 @@ def process_and_save_data(movies_id):
             cols = row.find_all("td")
             time = cols[0].get_text(strip=True)
             subtitle = process_subtitle(cols[1])
-            translation = clean_text(cols[2].get_text())
 
             # Check for machine translation
+            if len(cols) >= 3:
+                translation = clean_text(cols[2].get_text())
+            else:
+                translation = ""
+
             if len(cols) == 4:
                 machine_translation = clean_text(cols[3].get_text())
             else:
