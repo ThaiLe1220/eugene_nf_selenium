@@ -1,4634 +1,3476 @@
 [
   {
-    "subtitle": {
-      "time": "4:52",
-      "subtitle": "Stop!",
-      "translation": "Dừng lại!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Stop!",
+      "vi": "Dừng lại!"
     }
   },
   {
-    "subtitle": {
-      "time": "5:01",
-      "subtitle": "Kill Lara Croft",
-      "translation": "Giết Lara Croft!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Kill Lara Croft",
+      "vi": "Giết Lara Croft!"
     }
   },
   {
-    "subtitle": {
-      "time": "5:12",
-      "subtitle": "[man on disk] ♪ hey, y'all ♪  Lara's party mix",
-      "translation": "NHẠC CHƠI CỦA LARA",
-      "machine_translation": ""
+    "translation": {
+      "en": "[man on disk] ♪ hey, y'all ♪  Lara's party mix",
+      "vi": "NHẠC CHƠI CỦA LARA"
     }
   },
   {
-    "subtitle": {
-      "time": "5:33",
-      "subtitle": "Oh, bugger!",
-      "translation": "Chết tiệt!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, bugger!",
+      "vi": "Chết tiệt!"
     }
   },
   {
-    "subtitle": {
-      "time": "5:36",
-      "subtitle": "Not live rounds, Lara.",
-      "translation": "Lara đừng sử dụng đạn thật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Not live rounds, Lara.",
+      "vi": "Lara đừng sử dụng đạn thật."
     }
   },
   {
-    "subtitle": {
-      "time": "5:39",
-      "subtitle": "He's in real pain right now.",
-      "translation": "Nó hư hại thật rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He's in real pain right now.",
+      "vi": "Nó hư hại thật rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "5:42",
-      "subtitle": "This is a major remodel. This is a disaster.",
-      "translation": "Nó là một bản tái thiết kế tầm cỡ. Đây là một thảm họa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is a major remodel. This is a disaster.",
+      "vi": "Nó là một bản tái thiết kế tầm cỡ. Đây là một thảm họa."
     }
   },
   {
-    "subtitle": {
-      "time": "5:46",
-      "subtitle": "Was it programmed to stop before it took my head off?",
-      "translation": "Nó có được lập trình để dừng lại trước khi căt bay đầu tôi không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Was it programmed to stop before it took my head off?",
+      "vi": "Nó có được lập trình để dừng lại trước khi căt bay đầu tôi không?"
     }
   },
   {
-    "subtitle": {
-      "time": "5:50",
-      "subtitle": "Well, that would be a, no.",
-      "translation": "À, thật ra là không.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, that would be a, no.",
+      "vi": "À, thật ra là không."
     }
   },
   {
-    "subtitle": {
-      "time": "5:55",
-      "subtitle": "But you said make it more challenging, so--",
-      "translation": "Nhưng cô nói làm cho nó khó khăn hơn mà",
-      "machine_translation": ""
+    "translation": {
+      "en": "But you said make it more challenging, so--",
+      "vi": "Nhưng cô nói làm cho nó khó khăn hơn mà"
     }
   },
   {
-    "subtitle": {
-      "time": "5:58",
-      "subtitle": "-Hence, the live fire. -Yeah.",
-      "translation": "Do đó, tôi dùng đạn thật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Hence, the live fire. -Yeah.",
+      "vi": "Do đó, tôi dùng đạn thật."
     }
   },
   {
-    "subtitle": {
-      "time": "6:05",
-      "subtitle": "Live rounds again.",
-      "translation": "Đạn thật lần nữa hả?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Live rounds again.",
+      "vi": "Đạn thật lần nữa hả?"
     }
   },
   {
-    "subtitle": {
-      "time": "6:08",
-      "subtitle": "Poor Simon, what has she done to you?",
-      "translation": "Tội nghiệp Simon. Cô ấy làm gì với mày thế này?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Poor Simon, what has she done to you?",
+      "vi": "Tội nghiệp Simon. Cô ấy làm gì với mày thế này?"
     }
   },
   {
-    "subtitle": {
-      "time": "7:09",
-      "subtitle": "Very funny.",
-      "translation": "Buồn cười quá. Tôi chỉ cố gắng để biến cô thành một phụ nữ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Very funny.",
+      "vi": "Buồn cười quá. Tôi chỉ cố gắng để biến cô thành một phụ nữ."
     }
   },
   {
-    "subtitle": {
-      "time": "7:11",
-      "subtitle": "I'm only trying to turn you into a lady.",
-      "translation": "Tôi chỉ cố gắng để biến cô thành một phụ nữ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I'm only trying to turn you into a lady.",
+      "vi": "Tôi chỉ cố gắng để biến cô thành một phụ nữ."
     }
   },
   {
-    "subtitle": {
-      "time": "7:16",
-      "subtitle": "-And a lady should be modest. -Yes, a lady should be modest.",
-      "translation": "Và một phụ nữ nên khiêm tốn. Vâng, một phụ nữ nên khiêm tốn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-And a lady should be modest. -Yes, a lady should be modest.",
+      "vi": "Và một phụ nữ nên khiêm tốn. Vâng, một phụ nữ nên khiêm tốn."
     }
   },
   {
-    "subtitle": {
-      "time": "7:36",
-      "subtitle": "[man] Brothers and sisters,",
-      "translation": "Anh chị em...",
-      "machine_translation": ""
+    "translation": {
+      "en": "[man] Brothers and sisters,",
+      "vi": "Anh chị em..."
     }
   },
   {
-    "subtitle": {
-      "time": "7:38",
-      "subtitle": "Today is the 15th of May--",
-      "translation": "hôm nay là ngày 15 tháng Năm,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Today is the 15th of May--",
+      "vi": "hôm nay là ngày 15 tháng Năm,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:42",
-      "subtitle": "The first day of the planetary alignment--",
-      "translation": "ngày đầu tiên của sự thẳng hàng của các hành tinh,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The first day of the planetary alignment--",
+      "vi": "ngày đầu tiên của sự thẳng hàng của các hành tinh,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:46",
-      "subtitle": "And we are still no nearer to discovering the location of the key.",
-      "translation": "mà chúng ta vẫn không tìm thấy vị trí của chìa khóa ở đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And we are still no nearer to discovering the location of the key.",
+      "vi": "mà chúng ta vẫn không tìm thấy vị trí của chìa khóa ở đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "7:51",
-      "subtitle": "It seems we are running out of time.",
-      "translation": "Giống như... chúng ta sắp hết thời gian rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It seems we are running out of time.",
+      "vi": "Giống như... chúng ta sắp hết thời gian rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "7:55",
-      "subtitle": "This is not acceptable.",
-      "translation": "Điều này là không thể chấp nhận.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is not acceptable.",
+      "vi": "Điều này là không thể chấp nhận."
     }
   },
   {
-    "subtitle": {
-      "time": "8:00",
-      "subtitle": "Mr. Powell, your explanation for this is?",
-      "translation": "Anh Powell, làm ơn giải thích điều này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Mr. Powell, your explanation for this is?",
+      "vi": "Anh Powell, làm ơn giải thích điều này."
     }
   },
   {
-    "subtitle": {
-      "time": "8:05",
-      "subtitle": "I have no explanation. Certainly no excuses.",
-      "translation": "Tôi không có lời giải thích. Chắc chắn không có gì để bao biện.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I have no explanation. Certainly no excuses.",
+      "vi": "Tôi không có lời giải thích. Chắc chắn không có gì để bao biện."
     }
   },
   {
-    "subtitle": {
-      "time": "8:09",
-      "subtitle": "Except to once again respectfully remind the council...",
-      "translation": "Ngoại trừ một lần nữa trân trọng nhắc nhở hội đồng",
-      "machine_translation": ""
+    "translation": {
+      "en": "Except to once again respectfully remind the council...",
+      "vi": "Ngoại trừ một lần nữa trân trọng nhắc nhở hội đồng"
     }
   },
   {
-    "subtitle": {
-      "time": "8:13",
-      "subtitle": "That we are working from clues based on ancient cosmological models,",
-      "translation": "chúng tôi đang làm việc từ những manh mối dựa trên các mẫu vũ trụ học cổ xưa ...",
-      "machine_translation": ""
+    "translation": {
+      "en": "That we are working from clues based on ancient cosmological models,",
+      "vi": "chúng tôi đang làm việc từ những manh mối dựa trên các mẫu vũ trụ học cổ xưa ..."
     }
   },
   {
-    "subtitle": {
-      "time": "8:18",
-      "subtitle": "Predating Aristotle.",
-      "translation": "trước thời Aristotle.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Predating Aristotle.",
+      "vi": "trước thời Aristotle."
     }
   },
   {
-    "subtitle": {
-      "time": "8:21",
-      "subtitle": "But I'm happy to announce that we're almost ready.",
-      "translation": "Nhưng tôi vui mừng thông báo rằng chúng ta gần sẳn sàng",
-      "machine_translation": ""
+    "translation": {
+      "en": "But I'm happy to announce that we're almost ready.",
+      "vi": "Nhưng tôi vui mừng thông báo rằng chúng ta gần sẳn sàng"
     }
   },
   {
-    "subtitle": {
-      "time": "8:25",
-      "subtitle": "And I am supremely confident...",
-      "translation": "Và tôi vô cùng tự tin",
-      "machine_translation": ""
+    "translation": {
+      "en": "And I am supremely confident...",
+      "vi": "Và tôi vô cùng tự tin"
     }
   },
   {
-    "subtitle": {
-      "time": "8:28",
-      "subtitle": "That we will have our answer in time for the relevant planetary alignment.",
-      "translation": "rằng chẳng bao lâu chúng ta sẽ có câu trả lời cho sự thẳng hàng của các hành tinh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "That we will have our answer in time for the relevant planetary alignment.",
+      "vi": "rằng chẳng bao lâu chúng ta sẽ có câu trả lời cho sự thẳng hàng của các hành tinh."
     }
   },
   {
-    "subtitle": {
-      "time": "8:33",
-      "subtitle": "So, we will have possession of the key in...",
-      "translation": "Vậy thì, chúng ta sẽ sở hữu chiếc chìa khóa trong...",
-      "machine_translation": ""
+    "translation": {
+      "en": "So, we will have possession of the key in...",
+      "vi": "Vậy thì, chúng ta sẽ sở hữu chiếc chìa khóa trong..."
     }
   },
   {
-    "subtitle": {
-      "time": "8:37",
-      "subtitle": "One week.",
-      "translation": "một tuần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "One week.",
+      "vi": "một tuần."
     }
   },
   {
-    "subtitle": {
-      "time": "8:39",
-      "subtitle": "Yes, indeed. One week.",
-      "translation": "Vâng, chắc chắn. Một tuần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, indeed. One week.",
+      "vi": "Vâng, chắc chắn. Một tuần."
     }
   },
   {
-    "subtitle": {
-      "time": "8:43",
-      "subtitle": "This is good news, Mr. Powell, but remember:",
-      "translation": "Đây là tin tốt, Anh Powell, nhưng hãy nhớ",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is good news, Mr. Powell, but remember:",
+      "vi": "Đây là tin tốt, Anh Powell, nhưng hãy nhớ"
     }
   },
   {
-    "subtitle": {
-      "time": "8:48",
-      "subtitle": "We have only a single opportunity...",
-      "translation": "chúng ta chỉ có một cơ hội duy nhất...",
-      "machine_translation": ""
+    "translation": {
+      "en": "We have only a single opportunity...",
+      "vi": "chúng ta chỉ có một cơ hội duy nhất..."
     }
   },
   {
-    "subtitle": {
-      "time": "8:51",
-      "subtitle": "To retrieve the two halves of the triangle.",
-      "translation": "để lấy hai mảnh của tam giác.",
-      "machine_translation": ""
+    "translation": {
+      "en": "To retrieve the two halves of the triangle.",
+      "vi": "để lấy hai mảnh của tam giác."
     }
   },
   {
-    "subtitle": {
-      "time": "8:54",
-      "subtitle": "And if we fail,",
-      "translation": "Và nếu chúng ta thất bại ...",
-      "machine_translation": ""
+    "translation": {
+      "en": "And if we fail,",
+      "vi": "Và nếu chúng ta thất bại ..."
     }
   },
   {
-    "subtitle": {
-      "time": "8:57",
-      "subtitle": "We must wait another 5,000 years.",
-      "translation": "chúng ta phải chờ đợi thêm 5.000 năm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We must wait another 5,000 years.",
+      "vi": "chúng ta phải chờ đợi thêm 5.000 năm."
     }
   },
   {
-    "subtitle": {
-      "time": "9:03",
-      "subtitle": "I don't know about you, but that's more time...",
-      "translation": "Tôi không biết ông thì sao, nhưng đó lâu hơn",
-      "machine_translation": ""
+    "translation": {
+      "en": "I don't know about you, but that's more time...",
+      "vi": "Tôi không biết ông thì sao, nhưng đó lâu hơn"
     }
   },
   {
-    "subtitle": {
-      "time": "9:05",
-      "subtitle": "Than I am prepared to commit to this enterprise.",
-      "translation": "tôi chuẩn bị để dính vào tổ chức này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Than I am prepared to commit to this enterprise.",
+      "vi": "tôi chuẩn bị để dính vào tổ chức này."
     }
   },
   {
-    "subtitle": {
-      "time": "9:07",
-      "subtitle": "-[chuckles] -We shall be ready.",
-      "translation": "Chúng ta sẽ sẵn sàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[chuckles] -We shall be ready.",
+      "vi": "Chúng ta sẽ sẵn sàng."
     }
   },
   {
-    "subtitle": {
-      "time": "9:13",
-      "subtitle": "Trust me.",
-      "translation": "Tin tôi đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Trust me.",
+      "vi": "Tin tôi đi."
     }
   },
   {
-    "subtitle": {
-      "time": "9:26",
-      "subtitle": "We're not, we're not ready, are we? No.",
-      "translation": "- Chắc chưa xong phải không? - Chưa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We're not, we're not ready, are we? No.",
+      "vi": "- Chắc chưa xong phải không? - Chưa."
     }
   },
   {
-    "subtitle": {
-      "time": "9:35",
-      "subtitle": "Good morning, Lara. And what a beautiful morning it is.",
-      "translation": "Chào buổi sáng, Lara. Và thật là một buổi sáng đẹp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Good morning, Lara. And what a beautiful morning it is.",
+      "vi": "Chào buổi sáng, Lara. Và thật là một buổi sáng đẹp."
     }
   },
   {
-    "subtitle": {
-      "time": "9:41",
-      "subtitle": "Back to work, I'm afraid.",
-      "translation": "Phải trở lại làm việc rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Back to work, I'm afraid.",
+      "vi": "Phải trở lại làm việc rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "9:44",
-      "subtitle": "It's adventure time.",
-      "translation": "Đến thời gian phiêu lưu rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's adventure time.",
+      "vi": "Đến thời gian phiêu lưu rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "9:49",
-      "subtitle": "Egypt again.",
-      "translation": "Lại Ai Cập nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Egypt again.",
+      "vi": "Lại Ai Cập nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "9:52",
-      "subtitle": "It's nothing but pyramids and sand.",
-      "translation": "Đâu có gì nhưng kim tự tháp và cát.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's nothing but pyramids and sand.",
+      "vi": "Đâu có gì nhưng kim tự tháp và cát."
     }
   },
   {
-    "subtitle": {
-      "time": "9:54",
-      "subtitle": "I know, gets everywhere, in the cracks.",
-      "translation": "Tôi biết. Ở khắp mọi nơi. Trong các vết nứt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I know, gets everywhere, in the cracks.",
+      "vi": "Tôi biết. Ở khắp mọi nơi. Trong các vết nứt."
     }
   },
   {
-    "subtitle": {
-      "time": "10:00",
-      "subtitle": "Spanish galleon?",
-      "translation": "Thuyền buồm Tây Ban Nha?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Spanish galleon?",
+      "vi": "Thuyền buồm Tây Ban Nha?"
     }
   },
   {
-    "subtitle": {
-      "time": "10:05",
-      "subtitle": "Do you know what day it is, Hillary?",
-      "translation": "Hillary, biết hôm nay là ngày gì không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Do you know what day it is, Hillary?",
+      "vi": "Hillary, biết hôm nay là ngày gì không?"
     }
   },
   {
-    "subtitle": {
-      "time": "10:08",
-      "subtitle": "Yes, of course.",
-      "translation": "Vâng, tất nhiên.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, of course.",
+      "vi": "Vâng, tất nhiên."
     }
   },
   {
-    "subtitle": {
-      "time": "10:13",
-      "subtitle": "The 15th.",
-      "translation": "Ngày 15.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The 15th.",
+      "vi": "Ngày 15."
     }
   },
   {
-    "subtitle": {
-      "time": "10:16",
-      "subtitle": "And that is never a good day.",
-      "translation": "Và không bao giờ là một ngày tốt lành.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And that is never a good day.",
+      "vi": "Và không bao giờ là một ngày tốt lành."
     }
   },
   {
-    "subtitle": {
-      "time": "10:42",
-      "subtitle": "I miss you, daddy.",
-      "translation": "Ba, con nhớ Ba.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I miss you, daddy.",
+      "vi": "Ba, con nhớ Ba."
     }
   },
   {
-    "subtitle": {
-      "time": "10:46",
-      "subtitle": "I wish we could get back the time that was stolen from us.",
-      "translation": "Con ước chúng ta có thể trở lại thời gian mà chúng ta đã bị đánh mất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I wish we could get back the time that was stolen from us.",
+      "vi": "Con ước chúng ta có thể trở lại thời gian mà chúng ta đã bị đánh mất."
     }
   },
   {
-    "subtitle": {
-      "time": "11:13",
-      "subtitle": "[Lara] My father would love to have seen this.",
-      "translation": "Cha tôi sẽ thích nhìn cái này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Lara] My father would love to have seen this.",
+      "vi": "Cha tôi sẽ thích nhìn cái này."
     }
   },
   {
-    "subtitle": {
-      "time": "11:18",
-      "subtitle": "Tonight Pluto and Neptune align with Uranus.",
-      "translation": "Đêm nay sao Diêm Vương và sao Hải Vương kết hợp với Thiên vương tinh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Tonight Pluto and Neptune align with Uranus.",
+      "vi": "Đêm nay sao Diêm Vương và sao Hải Vương kết hợp với Thiên vương tinh."
     }
   },
   {
-    "subtitle": {
-      "time": "11:22",
-      "subtitle": "It's the first stage of the alignment of all nine planets,",
-      "translation": "Đây là giai đoạn đầu của sự thẳng hàng của cả chín hành tình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's the first stage of the alignment of all nine planets,",
+      "vi": "Đây là giai đoạn đầu của sự thẳng hàng của cả chín hành tình."
     }
   },
   {
-    "subtitle": {
-      "time": "11:25",
-      "subtitle": "culminating in a full solar eclipse.",
-      "translation": "lên tới đỉnh điểm trong nhật thực toàn bộ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "culminating in a full solar eclipse.",
+      "vi": "lên tới đỉnh điểm trong nhật thực toàn bộ."
     }
   },
   {
-    "subtitle": {
-      "time": "11:28",
-      "subtitle": "It only happens once every 5,000 years.",
-      "translation": "Nó chỉ xảy ra một lần mỗi 5.000 năm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It only happens once every 5,000 years.",
+      "vi": "Nó chỉ xảy ra một lần mỗi 5.000 năm."
     }
   },
   {
-    "subtitle": {
-      "time": "11:31",
-      "subtitle": "When is the eclipse?",
-      "translation": "Khi nào là nhật thực?",
-      "machine_translation": ""
+    "translation": {
+      "en": "When is the eclipse?",
+      "vi": "Khi nào là nhật thực?"
     }
   },
   {
-    "subtitle": {
-      "time": "11:33",
-      "subtitle": "In one week from today.",
-      "translation": "Một tuần từ ngày hôm nay.",
-      "machine_translation": ""
+    "translation": {
+      "en": "In one week from today.",
+      "vi": "Một tuần từ ngày hôm nay."
     }
   },
   {
-    "subtitle": {
-      "time": "11:36",
-      "subtitle": "But there is plenty to look out for until then.",
-      "translation": "Nhưng có nhiều thứ phải để mắt đến từ giờ đền đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But there is plenty to look out for until then.",
+      "vi": "Nhưng có nhiều thứ phải để mắt đến từ giờ đền đó."
     }
   },
   {
-    "subtitle": {
-      "time": "11:41",
-      "subtitle": "Incredible.",
-      "translation": "Đáng kinh ngạc.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Incredible.",
+      "vi": "Đáng kinh ngạc."
     }
   },
   {
-    "subtitle": {
-      "time": "12:16",
-      "subtitle": "[Man] I wish you could remember her.",
-      "translation": "Ba ước mong con có thể nhớ được mẹ. Mẹ thương con rất nhiều.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Man] I wish you could remember her.",
+      "vi": "Ba ước mong con có thể nhớ được mẹ. Mẹ thương con rất nhiều."
     }
   },
   {
-    "subtitle": {
-      "time": "12:17",
-      "subtitle": "-She loved you so much. -Mummy!",
-      "translation": "Ba ước mong con có thể nhớ được mẹ. Mẹ thương con rất nhiều. Mẹ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-She loved you so much. -Mummy!",
+      "vi": "Ba ước mong con có thể nhớ được mẹ. Mẹ thương con rất nhiều. Mẹ."
     }
   },
   {
-    "subtitle": {
-      "time": "12:23",
-      "subtitle": "I wish I could remember her too.",
-      "translation": "Con ước con có thể nhớ được mẹ luôn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I wish I could remember her too.",
+      "vi": "Con ước con có thể nhớ được mẹ luôn."
     }
   },
   {
-    "subtitle": {
-      "time": "12:25",
-      "subtitle": "I still have you, daddy. Yes, you do.",
-      "translation": "- Con vẫn có ba. - Đúng rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I still have you, daddy. Yes, you do.",
+      "vi": "- Con vẫn có ba. - Đúng rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "12:35",
-      "subtitle": "The exact alignment of the planets necessary to activate the triangle...",
-      "translation": "Sự thẳng hàng của các hành tinh cần chính xác để kích hoạt tam giác.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The exact alignment of the planets necessary to activate the triangle...",
+      "vi": "Sự thẳng hàng của các hành tinh cần chính xác để kích hoạt tam giác."
     }
   },
   {
-    "subtitle": {
-      "time": "12:39",
-      "subtitle": "Only occurs once every 5,000 years.",
-      "translation": "chỉ xảy ra mỗi 5.000 năm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Only occurs once every 5,000 years.",
+      "vi": "chỉ xảy ra mỗi 5.000 năm."
     }
   },
   {
-    "subtitle": {
-      "time": "12:44",
-      "subtitle": "But that will prove to be just long enough...",
-      "translation": "Nhưng nó lại đủ lâu để",
-      "machine_translation": ""
+    "translation": {
+      "en": "But that will prove to be just long enough...",
+      "vi": "Nhưng nó lại đủ lâu để"
     }
   },
   {
-    "subtitle": {
-      "time": "12:48",
-      "subtitle": "For little Lara Croft to grow up...",
-      "translation": "cho Lara Croft nhỏ lớn khôn",
-      "machine_translation": ""
+    "translation": {
+      "en": "For little Lara Croft to grow up...",
+      "vi": "cho Lara Croft nhỏ lớn khôn"
     }
   },
   {
-    "subtitle": {
-      "time": "12:51",
-      "subtitle": "[echoes] and to find it.",
-      "translation": "và tìm thấy nó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[echoes] and to find it.",
+      "vi": "và tìm thấy nó."
     }
   },
   {
-    "subtitle": {
-      "time": "14:55",
-      "subtitle": "[Lara] Bryce!",
-      "translation": "Bryce!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Lara] Bryce!",
+      "vi": "Bryce!"
     }
   },
   {
-    "subtitle": {
-      "time": "14:59",
-      "subtitle": "[Knock on door] Hello, fellas.",
-      "translation": "Xin chào các bạn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Knock on door] Hello, fellas.",
+      "vi": "Xin chào các bạn."
     }
   },
   {
-    "subtitle": {
-      "time": "15:01",
-      "subtitle": "-How's business? -Bryce!",
-      "translation": "- Làm ăn sao rồi? - Bryce!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-How's business? -Bryce!",
+      "vi": "- Làm ăn sao rồi? - Bryce!"
     }
   },
   {
-    "subtitle": {
-      "time": "15:04",
-      "subtitle": "[knocking] okay, okay. I'm coming. I'm coming.",
-      "translation": "Được rồi được rồi. Tôi đang đến. Tôi đang đến.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[knocking] okay, okay. I'm coming. I'm coming.",
+      "vi": "Được rồi được rồi. Tôi đang đến. Tôi đang đến."
     }
   },
   {
-    "subtitle": {
-      "time": "15:11",
-      "subtitle": "We have 83 rooms. Why can't you live in the house?",
-      "translation": "Chúng ta có 83 phòng. Tại sao anh không thể sống trong nhà?",
-      "machine_translation": ""
+    "translation": {
+      "en": "We have 83 rooms. Why can't you live in the house?",
+      "vi": "Chúng ta có 83 phòng. Tại sao anh không thể sống trong nhà?"
     }
   },
   {
-    "subtitle": {
-      "time": "15:14",
-      "subtitle": "Well, I'm a free spirit, me.",
-      "translation": "Tại tôi có một tinh thần tự do,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, I'm a free spirit, me.",
+      "vi": "Tại tôi có một tinh thần tự do,"
     }
   },
   {
-    "subtitle": {
-      "time": "15:16",
-      "subtitle": "Right.",
-      "translation": "Ờ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right.",
+      "vi": "Ờ."
     }
   },
   {
-    "subtitle": {
-      "time": "15:19",
-      "subtitle": "[sniffing] What's that smell?",
-      "translation": "Mùi gì vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "[sniffing] What's that smell?",
+      "vi": "Mùi gì vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "15:22",
-      "subtitle": "5:00 a.m. Let's go.",
-      "translation": "5:00 giờ sáng. Đi nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "5:00 a.m. Let's go.",
+      "vi": "5:00 giờ sáng. Đi nào."
     }
   },
   {
-    "subtitle": {
-      "time": "15:28",
-      "subtitle": "This had better be good.",
-      "translation": "Cái này phải tốt",
-      "machine_translation": ""
+    "translation": {
+      "en": "This had better be good.",
+      "vi": "Cái này phải tốt"
     }
   },
   {
-    "subtitle": {
-      "time": "15:34",
-      "subtitle": "[yawns] It's a clock.",
-      "translation": "Nó là một cái đồng hồ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[yawns] It's a clock.",
+      "vi": "Nó là một cái đồng hồ."
     }
   },
   {
-    "subtitle": {
-      "time": "15:36",
-      "subtitle": "I found it last night. It was ticking.",
-      "translation": "Tôi tìm thấy nó đêm qua. Nó kêu tích tắc.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I found it last night. It was ticking.",
+      "vi": "Tôi tìm thấy nó đêm qua. Nó kêu tích tắc."
     }
   },
   {
-    "subtitle": {
-      "time": "15:43",
-      "subtitle": "Must be one of them ticking clocks?",
-      "translation": "Chắc nó là một trong mấy cái đồng hồ tích tắc hả?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Must be one of them ticking clocks?",
+      "vi": "Chắc nó là một trong mấy cái đồng hồ tích tắc hả?"
     }
   },
   {
-    "subtitle": {
-      "time": "15:47",
-      "subtitle": "It was hidden in a secret room.",
-      "translation": "Nó được giấu trong một căn phòng bí mật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It was hidden in a secret room.",
+      "vi": "Nó được giấu trong một căn phòng bí mật."
     }
   },
   {
-    "subtitle": {
-      "time": "15:50",
-      "subtitle": "Bryce, don't start.",
-      "translation": "Đừng có gây như thế nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bryce, don't start.",
+      "vi": "Đừng có gây như thế nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "15:55",
-      "subtitle": "Well, Lara, it's a clock. It ticks. It tells the time. It's wrong.",
-      "translation": "Lara, nó là một cái đồng hồ. Nó tích tắc. Nó dùng để báo giờ. Nó báo sai giờ rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, Lara, it's a clock. It ticks. It tells the time. It's wrong.",
+      "vi": "Lara, nó là một cái đồng hồ. Nó tích tắc. Nó dùng để báo giờ. Nó báo sai giờ rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "16:00",
-      "subtitle": "It started ticking last night during the first stage of the alignment.",
-      "translation": "Nó tích tắc. đêm qua trong giai đoạn đầu tiên của sự thẳng hàng của các hành tinh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It started ticking last night during the first stage of the alignment.",
+      "vi": "Nó tích tắc. đêm qua trong giai đoạn đầu tiên của sự thẳng hàng của các hành tinh."
     }
   },
   {
-    "subtitle": {
-      "time": "16:10",
-      "subtitle": "[sighs] Well, gonna need some coffee.",
-      "translation": "Tôi sẽ cần cà phê.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[sighs] Well, gonna need some coffee.",
+      "vi": "Tôi sẽ cần cà phê."
     }
   },
   {
-    "subtitle": {
-      "time": "16:16",
-      "subtitle": "[whirs] Okay, in we go.",
-      "translation": "Được rồi, chúng ta vào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[whirs] Okay, in we go.",
+      "vi": "Được rồi, chúng ta vào."
     }
   },
   {
-    "subtitle": {
-      "time": "16:22",
-      "subtitle": "Looks pretty ordinary to me.",
-      "translation": "Trong có vẻ bình thường.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Looks pretty ordinary to me.",
+      "vi": "Trong có vẻ bình thường."
     }
   },
   {
-    "subtitle": {
-      "time": "16:24",
-      "subtitle": "Well, keep looking.",
-      "translation": "Cứ nhìn đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, keep looking.",
+      "vi": "Cứ nhìn đi."
     }
   },
   {
-    "subtitle": {
-      "time": "16:30",
-      "subtitle": "Your coffee, sir. Decaf latte with nonfat milk.",
-      "translation": "Thưa anh, cà phê của anh. Cà phê với sữa không béo.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Your coffee, sir. Decaf latte with nonfat milk.",
+      "vi": "Thưa anh, cà phê của anh. Cà phê với sữa không béo."
     }
   },
   {
-    "subtitle": {
-      "time": "16:36",
-      "subtitle": "Oh, champion. Steaming sump oil.",
-      "translation": "Tuyệt quá, cà phê ngon.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, champion. Steaming sump oil.",
+      "vi": "Tuyệt quá, cà phê ngon."
     }
   },
   {
-    "subtitle": {
-      "time": "16:44",
-      "subtitle": "Wait. What did you do?",
-      "translation": "Đợi đã. Anh đã làm gì?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Wait. What did you do?",
+      "vi": "Đợi đã. Anh đã làm gì?"
     }
   },
   {
-    "subtitle": {
-      "time": "16:47",
-      "subtitle": "-I don't know. What did I do? -Where is that?",
-      "translation": "- Tôi không biết. Tôi đã làm gì? - Cái đó là ở đâu thế?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-I don't know. What did I do? -Where is that?",
+      "vi": "- Tôi không biết. Tôi đã làm gì? - Cái đó là ở đâu thế?"
     }
   },
   {
-    "subtitle": {
-      "time": "16:50",
-      "subtitle": "I don't know. I just took my hand off the fiber optics.",
-      "translation": "Tôi không biết. Tôi vừa bỏ tay ra khỏi sợi quang.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I don't know. I just took my hand off the fiber optics.",
+      "vi": "Tôi không biết. Tôi vừa bỏ tay ra khỏi sợi quang."
     }
   },
   {
-    "subtitle": {
-      "time": "16:53",
-      "subtitle": "-[Hillary] what is that? -[Bryce] Oh, bugger!",
-      "translation": "Cái gì vậy? - Chết tiệt! - Chết tiệt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Hillary] what is that? -[Bryce] Oh, bugger!",
+      "vi": "Cái gì vậy? - Chết tiệt! - Chết tiệt."
     }
   },
   {
-    "subtitle": {
-      "time": "16:58",
-      "subtitle": "Bugger.",
-      "translation": "- Chết tiệt! - Chết tiệt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bugger.",
+      "vi": "- Chết tiệt! - Chết tiệt."
     }
   },
   {
-    "subtitle": {
-      "time": "17:03",
-      "subtitle": "Screw 13 to quadrant four.",
-      "translation": "Đinh 13 đến góc phần bốn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Screw 13 to quadrant four.",
+      "vi": "Đinh 13 đến góc phần bốn."
     }
   },
   {
-    "subtitle": {
-      "time": "17:07",
-      "subtitle": "Screw 14 to quadrant three. Oh, please.",
-      "translation": "- Đinh 14 đến góc phần ba. - Làm ơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Screw 14 to quadrant three. Oh, please.",
+      "vi": "- Đinh 14 đến góc phần ba. - Làm ơn."
     }
   },
   {
-    "subtitle": {
-      "time": "17:13",
-      "subtitle": "It's my map so I know where they all came from.",
-      "translation": "Nó bản đồ của tôi, nên tôi biết nó đến từ đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's my map so I know where they all came from.",
+      "vi": "Nó bản đồ của tôi, nên tôi biết nó đến từ đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "17:17",
-      "subtitle": "It's camouflage.",
-      "translation": "Nó là ngụy trang.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's camouflage.",
+      "vi": "Nó là ngụy trang."
     }
   },
   {
-    "subtitle": {
-      "time": "17:30",
-      "subtitle": "Okay.",
-      "translation": "Được rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Okay.",
+      "vi": "Được rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "17:42",
-      "subtitle": "Hidden within.",
-      "translation": "Ẩn bên trong.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hidden within.",
+      "vi": "Ẩn bên trong."
     }
   },
   {
-    "subtitle": {
-      "time": "17:47",
-      "subtitle": "[scoffs] What is that?",
-      "translation": "Cái gì vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "[scoffs] What is that?",
+      "vi": "Cái gì vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "17:53",
-      "subtitle": "The all seeing eye.",
-      "translation": "Mắt Thần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The all seeing eye.",
+      "vi": "Mắt Thần."
     }
   },
   {
-    "subtitle": {
-      "time": "18:08",
-      "subtitle": "Lot 121, a Louis XV ormolu mounted bracket clock.",
-      "translation": "Lô 121, đồng hồ gắn khung mạ vàng của Louis XV",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lot 121, a Louis XV ormolu mounted bracket clock.",
+      "vi": "Lô 121, đồng hồ gắn khung mạ vàng của Louis XV"
     }
   },
   {
-    "subtitle": {
-      "time": "18:13",
-      "subtitle": "Showing on my left, 1,800,000 pounds.",
-      "translation": "được đặt bên trái của tôi, £ 1.800.000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Showing on my left, 1,800,000 pounds.",
+      "vi": "được đặt bên trái của tôi, £ 1.800.000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:17",
-      "subtitle": "1,800,000. Thank you. One million eight. 1,900,000.",
-      "translation": "£1,800,000. Cảm ơn . £1,800,000. £1,900,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "1,800,000. Thank you. One million eight. 1,900,000.",
+      "vi": "£1,800,000. Cảm ơn . £1,800,000. £1,900,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:21",
-      "subtitle": "Two million pounds. Two million pounds now.",
-      "translation": "£2,000,000. £2,000,000, hiện giờ. £2,100,000. £2,100,000, hiện giờ...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Two million pounds. Two million pounds now.",
+      "vi": "£2,000,000. £2,000,000, hiện giờ. £2,100,000. £2,100,000, hiện giờ..."
     }
   },
   {
-    "subtitle": {
-      "time": "18:24",
-      "subtitle": "2,100,000. 2,100,000 now. 2,100,000 pounds.",
-      "translation": "£2,100,000. £2,100,000, hiện giờ... £2,100,000. Có ai hơn £2,100,000?",
-      "machine_translation": ""
+    "translation": {
+      "en": "2,100,000. 2,100,000 now. 2,100,000 pounds.",
+      "vi": "£2,100,000. £2,100,000, hiện giờ... £2,100,000. Có ai hơn £2,100,000?"
     }
   },
   {
-    "subtitle": {
-      "time": "18:28",
-      "subtitle": "Any advance on 2,100,000 pounds?",
-      "translation": "£2,100,000. Có ai hơn £2,100,000?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Any advance on 2,100,000 pounds?",
+      "vi": "£2,100,000. Có ai hơn £2,100,000?"
     }
   },
   {
-    "subtitle": {
-      "time": "18:31",
-      "subtitle": "Any more? Two million one. 2,200,000. Thank you, sir.",
-      "translation": "Nữa không? £ 2.100.000. £ 2.200.000. Cảm ơn ngài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Any more? Two million one. 2,200,000. Thank you, sir.",
+      "vi": "Nữa không? £ 2.100.000. £ 2.200.000. Cảm ơn ngài."
     }
   },
   {
-    "subtitle": {
-      "time": "18:34",
-      "subtitle": "2,200,000 pounds now.",
-      "translation": "£2,200,000 hiện giờ. Ơ £2,200,000. £2,300,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "2,200,000 pounds now.",
+      "vi": "£2,200,000 hiện giờ. Ơ £2,200,000. £2,300,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:37",
-      "subtitle": "At 2,200,000. 2,300,000.",
-      "translation": "Ơ £2,200,000. £2,300,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "At 2,200,000. 2,300,000.",
+      "vi": "Ơ £2,200,000. £2,300,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:40",
-      "subtitle": "Two million three. 2,400,000.",
-      "translation": "£2,300,000. £2,400,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Two million three. 2,400,000.",
+      "vi": "£2,300,000. £2,400,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:42",
-      "subtitle": "Lady's bid, 2,400,000 pounds. 2,400,000.",
-      "translation": "Phần đặt của quý cô, £2,400,000 hiện giờ. £2,400,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lady's bid, 2,400,000 pounds. 2,400,000.",
+      "vi": "Phần đặt của quý cô, £2,400,000 hiện giờ. £2,400,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:47",
-      "subtitle": "Against you, sir. Two million five? No.",
-      "translation": "Anh có chống lại không? Hai triệu năm? Thế £2,400,000. Phần đặt của quý cô, £2,400,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Against you, sir. Two million five? No.",
+      "vi": "Anh có chống lại không? Hai triệu năm? Thế £2,400,000. Phần đặt của quý cô, £2,400,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:49",
-      "subtitle": "2,400,000 pounds, then. Lady's bid at two million four. 2,500,000 pounds.",
-      "translation": "Thế £2,400,000. Phần đặt của quý cô, £2,400,000. £2,500,000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "2,400,000 pounds, then. Lady's bid at two million four. 2,500,000 pounds.",
+      "vi": "Thế £2,400,000. Phần đặt của quý cô, £2,400,000. £2,500,000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:55",
-      "subtitle": "In a new place at 2,500,000 pounds. [relieved sigh]",
-      "translation": "Giá mới là £ 2.500.000.",
-      "machine_translation": ""
+    "translation": {
+      "en": "In a new place at 2,500,000 pounds. [relieved sigh]",
+      "vi": "Giá mới là £ 2.500.000."
     }
   },
   {
-    "subtitle": {
-      "time": "18:58",
-      "subtitle": "Any more at 2,500,000 pounds? Sold.",
-      "translation": "Có ai hơn £ 2.500.000 không? Đã bán.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Any more at 2,500,000 pounds? Sold.",
+      "vi": "Có ai hơn £ 2.500.000 không? Đã bán."
     }
   },
   {
-    "subtitle": {
-      "time": "19:05",
-      "subtitle": "[auctioneer continues] Lara, my dear.",
-      "translation": "Lara, thân mến.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[auctioneer continues] Lara, my dear.",
+      "vi": "Lara, thân mến."
     }
   },
   {
-    "subtitle": {
-      "time": "19:09",
-      "subtitle": "-Mr. Wilson. -Let's go into my study. Let me take that for you.",
-      "translation": "- Ông Wilson. - Hãy vào phòng làm việc. Để ông cầm cái đó cho.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Mr. Wilson. -Let's go into my study. Let me take that for you.",
+      "vi": "- Ông Wilson. - Hãy vào phòng làm việc. Để ông cầm cái đó cho."
     }
   },
   {
-    "subtitle": {
-      "time": "19:12",
-      "subtitle": "Lara Croft. I don't believe it.",
-      "translation": "Lara Croft. Tôi không thể tin được.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara Croft. I don't believe it.",
+      "vi": "Lara Croft. Tôi không thể tin được."
     }
   },
   {
-    "subtitle": {
-      "time": "19:17",
-      "subtitle": "-I'll just be a minute. -Hi.",
-      "translation": "- Con vào ngày thôi. - Chào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-I'll just be a minute. -Hi.",
+      "vi": "- Con vào ngày thôi. - Chào."
     }
   },
   {
-    "subtitle": {
-      "time": "19:24",
-      "subtitle": "You still pretending to be a photo journalist?",
-      "translation": "Bạn vẫn giả vờ là một phóng viên ảnh?",
-      "machine_translation": ""
+    "translation": {
+      "en": "You still pretending to be a photo journalist?",
+      "vi": "Bạn vẫn giả vờ là một phóng viên ảnh?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:27",
-      "subtitle": "You know, I think it's really cool that you still have a day job,",
-      "translation": "Cô biết không, tôi nghĩ thật là ngầu khi cô vẫn công việc chính thức...",
-      "machine_translation": ""
+    "translation": {
+      "en": "You know, I think it's really cool that you still have a day job,",
+      "vi": "Cô biết không, tôi nghĩ thật là ngầu khi cô vẫn công việc chính thức..."
     }
   },
   {
-    "subtitle": {
-      "time": "19:32",
-      "subtitle": "Even though it's obviously just for show.",
-      "translation": "mặc dù nó rõ ràng là chỉ để làm cảnh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Even though it's obviously just for show.",
+      "vi": "mặc dù nó rõ ràng là chỉ để làm cảnh."
     }
   },
   {
-    "subtitle": {
-      "time": "19:36",
-      "subtitle": "So, Alex, are you still pretending to be an archaeologist?",
-      "translation": "Vậy, Alex, anh vẫn giả vờ là một nhà khảo cổ học?",
-      "machine_translation": ""
+    "translation": {
+      "en": "So, Alex, are you still pretending to be an archaeologist?",
+      "vi": "Vậy, Alex, anh vẫn giả vờ là một nhà khảo cổ học?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:45",
-      "subtitle": "do we always have to fight like this?",
-      "translation": "Chúng ta có cần phải luôn cãi nhau?",
-      "machine_translation": ""
+    "translation": {
+      "en": "do we always have to fight like this?",
+      "vi": "Chúng ta có cần phải luôn cãi nhau?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:46",
-      "subtitle": "I mean, maybe we don't.",
-      "translation": "Ý tôi là, có lẽ chúng ta đừng nữa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "I mean, maybe we don't.",
+      "vi": "Ý tôi là, có lẽ chúng ta đừng nữa?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:49",
-      "subtitle": "-Maybe we do. -Why?",
-      "translation": "- Có lẽ chúng ta vẫn nên tiếp túc - Tại sao?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Maybe we do. -Why?",
+      "vi": "- Có lẽ chúng ta vẫn nên tiếp túc - Tại sao?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:52",
-      "subtitle": "-You stole my prayer wheels. -Stole? Stole?",
-      "translation": "- Anh đánh cắp mâm cầu nguyện của tôi. - Đánh cắp? Đánh cắp?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-You stole my prayer wheels. -Stole? Stole?",
+      "vi": "- Anh đánh cắp mâm cầu nguyện của tôi. - Đánh cắp? Đánh cắp?"
     }
   },
   {
-    "subtitle": {
-      "time": "19:55",
-      "subtitle": "From you? You know, that's funny. You know, it's--",
-      "translation": "Từ cô? Buồn cười thật đấy. Nó...",
-      "machine_translation": ""
+    "translation": {
+      "en": "From you? You know, that's funny. You know, it's--",
+      "vi": "Từ cô? Buồn cười thật đấy. Nó..."
     }
   },
   {
-    "subtitle": {
-      "time": "19:56",
-      "subtitle": "It's not like you ever really owned them or anything.",
-      "translation": "Cô đâu có nợ họ cái gì.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's not like you ever really owned them or anything.",
+      "vi": "Cô đâu có nợ họ cái gì."
     }
   },
   {
-    "subtitle": {
-      "time": "20:01",
-      "subtitle": "Hey, you're the tomb raider.",
-      "translation": "Này, cô mới là kẻ cướp mộ nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hey, you're the tomb raider.",
+      "vi": "Này, cô mới là kẻ cướp mộ nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "20:04",
-      "subtitle": "[Man] Mr. West, we are ready for you.",
-      "translation": "Ông West, chúng tôi đã sẵn sàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Man] Mr. West, we are ready for you.",
+      "vi": "Ông West, chúng tôi đã sẵn sàng."
     }
   },
   {
-    "subtitle": {
-      "time": "20:05",
-      "subtitle": "Oh, I think your clients need you.",
-      "translation": "Oh, tôi nghĩ khách hàng đang chờ anh đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, I think your clients need you.",
+      "vi": "Oh, tôi nghĩ khách hàng đang chờ anh đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "20:09",
-      "subtitle": "Go ahead. You're wanted on the floor.",
-      "translation": "Đi đi. Người ta cần anh kìa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Go ahead. You're wanted on the floor.",
+      "vi": "Đi đi. Người ta cần anh kìa."
     }
   },
   {
-    "subtitle": {
-      "time": "20:13",
-      "subtitle": "After all, as you once said so memorably, \"it's all just a business.\"",
-      "translation": "Dù sao, anh cũng đã từng nói, \"Tất cả chỉ là chuyện làm ăn thôi.\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "After all, as you once said so memorably, \"it's all just a business.\"",
+      "vi": "Dù sao, anh cũng đã từng nói, \"Tất cả chỉ là chuyện làm ăn thôi.\""
     }
   },
   {
-    "subtitle": {
-      "time": "20:17",
-      "subtitle": "Right? So, go do business.",
-      "translation": "Đúng không nào? Vậy đi mà làm ăn đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right? So, go do business.",
+      "vi": "Đúng không nào? Vậy đi mà làm ăn đi."
     }
   },
   {
-    "subtitle": {
-      "time": "20:19",
-      "subtitle": "Go.",
-      "translation": "Đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Go.",
+      "vi": "Đi."
     }
   },
   {
-    "subtitle": {
-      "time": "20:44",
-      "subtitle": "Lara, this is a unique object.",
-      "translation": "Lara, đây là thứ độc nhất vô nhị.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, this is a unique object.",
+      "vi": "Lara, đây là thứ độc nhất vô nhị."
     }
   },
   {
-    "subtitle": {
-      "time": "20:50",
-      "subtitle": "Only one of the dials is working.",
-      "translation": "Chỉ một mặt của đồng hồ hoạt động.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Only one of the dials is working.",
+      "vi": "Chỉ một mặt của đồng hồ hoạt động."
     }
   },
   {
-    "subtitle": {
-      "time": "20:53",
-      "subtitle": "It glows like the eye, lesser.",
-      "translation": "Nó cũng sáng, nhưng không bằng con mắt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It glows like the eye, lesser.",
+      "vi": "Nó cũng sáng, nhưng không bằng con mắt."
     }
   },
   {
-    "subtitle": {
-      "time": "20:56",
-      "subtitle": "But it seems to be getting brighter.",
-      "translation": "Mà hình như càng ngày nó càng sáng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But it seems to be getting brighter.",
+      "vi": "Mà hình như càng ngày nó càng sáng."
     }
   },
   {
-    "subtitle": {
-      "time": "20:59",
-      "subtitle": "And it's also running backwards--",
-      "translation": "Và nó còn chạy ngược nữa...",
-      "machine_translation": ""
+    "translation": {
+      "en": "And it's also running backwards--",
+      "vi": "Và nó còn chạy ngược nữa..."
     }
   },
   {
-    "subtitle": {
-      "time": "21:01",
-      "subtitle": "Like it's not so much keeping time, but counting down to something.",
-      "translation": "có vẻ như nó không phải là chỉ giờ, mà nó đếm ngược đến một thời điểm nào đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Like it's not so much keeping time, but counting down to something.",
+      "vi": "có vẻ như nó không phải là chỉ giờ, mà nó đếm ngược đến một thời điểm nào đó."
     }
   },
   {
-    "subtitle": {
-      "time": "21:04",
-      "subtitle": "-Yes. -And look at the back.",
-      "translation": "- Phải. - Và ở mặt sau. Nó vừa với một cái gì đó, như một chiếc chìa khóa chẳng hạn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Yes. -And look at the back.",
+      "vi": "- Phải. - Và ở mặt sau. Nó vừa với một cái gì đó, như một chiếc chìa khóa chẳng hạn."
     }
   },
   {
-    "subtitle": {
-      "time": "21:07",
-      "subtitle": "It's as though it fits into something, almost like a key.",
-      "translation": "Nó vừa với một cái gì đó, như một chiếc chìa khóa chẳng hạn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's as though it fits into something, almost like a key.",
+      "vi": "Nó vừa với một cái gì đó, như một chiếc chìa khóa chẳng hạn."
     }
   },
   {
-    "subtitle": {
-      "time": "21:13",
-      "subtitle": "Yes. Yes, fascinating. Incredibly beautiful.",
-      "translation": "Vâng. Thật mê hoặc. Đẹp đến không ngờ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes. Yes, fascinating. Incredibly beautiful.",
+      "vi": "Vâng. Thật mê hoặc. Đẹp đến không ngờ."
     }
   },
   {
-    "subtitle": {
-      "time": "21:20",
-      "subtitle": "My father once told me of a magical triangle stamped with the all seeing eye.",
-      "translation": "Có lần cha cháu đã kể cho nghe về một tam giác thần kỳ có hình Con Mắt Thần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "My father once told me of a magical triangle stamped with the all seeing eye.",
+      "vi": "Có lần cha cháu đã kể cho nghe về một tam giác thần kỳ có hình Con Mắt Thần."
     }
   },
   {
-    "subtitle": {
-      "time": "21:24",
-      "subtitle": "He said it gave its possessor extraordinary power--",
-      "translation": "Ông nói người có nó sẽ có quyền lực vô biên,",
-      "machine_translation": ""
+    "translation": {
+      "en": "He said it gave its possessor extraordinary power--",
+      "vi": "Ông nói người có nó sẽ có quyền lực vô biên,"
     }
   },
   {
-    "subtitle": {
-      "time": "21:26",
-      "subtitle": "The power to control time.",
-      "translation": "có khả năng khống chế được thời gian.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The power to control time.",
+      "vi": "có khả năng khống chế được thời gian."
     }
   },
   {
-    "subtitle": {
-      "time": "21:29",
-      "subtitle": "He called it the triangle of light. Have you heard of it?",
-      "translation": "Cha cháu gọi nó là Tam Giác Ánh Sáng. Bác đã nghe nói về nó chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "He called it the triangle of light. Have you heard of it?",
+      "vi": "Cha cháu gọi nó là Tam Giác Ánh Sáng. Bác đã nghe nói về nó chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "21:33",
-      "subtitle": "No. No, I haven't.",
-      "translation": "Chưa. Bác chưa được nghe.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No. No, I haven't.",
+      "vi": "Chưa. Bác chưa được nghe."
     }
   },
   {
-    "subtitle": {
-      "time": "21:40",
-      "subtitle": "He always steered his own course, your father.",
-      "translation": "Bố cháu, ông ấy luôn sống cách biệt với mọi người.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He always steered his own course, your father.",
+      "vi": "Bố cháu, ông ấy luôn sống cách biệt với mọi người."
     }
   },
   {
-    "subtitle": {
-      "time": "21:45",
-      "subtitle": "He was a great man.",
-      "translation": "Ông ấy là một vĩ nhân.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He was a great man.",
+      "vi": "Ông ấy là một vĩ nhân."
     }
   },
   {
-    "subtitle": {
-      "time": "21:50",
-      "subtitle": "Would you like some port?",
-      "translation": "Cháu uống một chút nhé?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Would you like some port?",
+      "vi": "Cháu uống một chút nhé?"
     }
   },
   {
-    "subtitle": {
-      "time": "21:53",
-      "subtitle": "-It's really very fine. -No.",
-      "translation": "- Ngon lắm đấy. - Không ạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-It's really very fine. -No.",
+      "vi": "- Ngon lắm đấy. - Không ạ."
     }
   },
   {
-    "subtitle": {
-      "time": "21:56",
-      "subtitle": "I can't help you, Lara.",
-      "translation": "Bác không giúp được cháu, Lara à.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I can't help you, Lara.",
+      "vi": "Bác không giúp được cháu, Lara à."
     }
   },
   {
-    "subtitle": {
-      "time": "21:59",
-      "subtitle": "This clock truly is a mystery.",
-      "translation": "Cái đồng hồ này là một bí ẩn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This clock truly is a mystery.",
+      "vi": "Cái đồng hồ này là một bí ẩn."
     }
   },
   {
-    "subtitle": {
-      "time": "22:24",
-      "subtitle": "-[Lara] Hello. -Lara?",
-      "translation": "- Alô? - Lara?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Lara] Hello. -Lara?",
+      "vi": "- Alô? - Lara?"
     }
   },
   {
-    "subtitle": {
-      "time": "22:25",
-      "subtitle": "Hello, it's Mr. Wilson.",
-      "translation": "Là bác Wilson đây, Xin chào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hello, it's Mr. Wilson.",
+      "vi": "Là bác Wilson đây, Xin chào."
     }
   },
   {
-    "subtitle": {
-      "time": "22:28",
-      "subtitle": "Yes. Well, I-- you see, I had a second thought...",
-      "translation": "À, bác... đã nghĩ lại",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes. Well, I-- you see, I had a second thought...",
+      "vi": "À, bác... đã nghĩ lại"
     }
   },
   {
-    "subtitle": {
-      "time": "22:31",
-      "subtitle": "About that clock.",
-      "translation": "về cái đồng hồ đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "About that clock.",
+      "vi": "về cái đồng hồ đó."
     }
   },
   {
-    "subtitle": {
-      "time": "22:34",
-      "subtitle": "There is a man who may be able to help you.",
-      "translation": "Có lẽ có một người có thể giúp cháu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "There is a man who may be able to help you.",
+      "vi": "Có lẽ có một người có thể giúp cháu."
     }
   },
   {
-    "subtitle": {
-      "time": "22:37",
-      "subtitle": "I gave him your number. His name is Manfred Powell. You should see him.",
-      "translation": "Bác đã cho ông ta số điện thoại của cháu. Tên ông ta là Manfred Powell.  Cháu nên gặp ông ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I gave him your number. His name is Manfred Powell. You should see him.",
+      "vi": "Bác đã cho ông ta số điện thoại của cháu. Tên ông ta là Manfred Powell.  Cháu nên gặp ông ta."
     }
   },
   {
-    "subtitle": {
-      "time": "22:42",
-      "subtitle": "Oh, thank you. I will.",
-      "translation": "Cảm ơn bác, cháu sẽ đi",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, thank you. I will.",
+      "vi": "Cảm ơn bác, cháu sẽ đi"
     }
   },
   {
-    "subtitle": {
-      "time": "22:45",
-      "subtitle": "-Good-bye, Lara. -You take care.",
-      "translation": "- Tạm biệt, Lara. - Bác giữ gìn nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Good-bye, Lara. -You take care.",
+      "vi": "- Tạm biệt, Lara. - Bác giữ gìn nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "22:48",
-      "subtitle": "Thank you. [explosion]",
-      "translation": "Cảm ơn cháu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Thank you. [explosion]",
+      "vi": "Cảm ơn cháu."
     }
   },
   {
-    "subtitle": {
-      "time": "23:11",
-      "subtitle": "Forgive me.",
-      "translation": "Hãy tha thứ cho tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Forgive me.",
+      "vi": "Hãy tha thứ cho tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "23:27",
-      "subtitle": "Lady Croft.",
-      "translation": "Quý cô Croft.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lady Croft.",
+      "vi": "Quý cô Croft."
     }
   },
   {
-    "subtitle": {
-      "time": "23:29",
-      "subtitle": "-Mr. Powell. -Oh, no, no, no. Good heavens, no.",
-      "translation": "- Ah, ông Powell. - Không, không, không phải.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Mr. Powell. -Oh, no, no, no. Good heavens, no.",
+      "vi": "- Ah, ông Powell. - Không, không, không phải."
     }
   },
   {
-    "subtitle": {
-      "time": "23:32",
-      "subtitle": "I'm actually his associate, Mr. Pimms.",
-      "translation": "Tôi chỉ là trợ lí của ông ấy, ông Pimms.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I'm actually his associate, Mr. Pimms.",
+      "vi": "Tôi chỉ là trợ lí của ông ấy, ông Pimms."
     }
   },
   {
-    "subtitle": {
-      "time": "23:36",
-      "subtitle": "-Mr. Pimms? -Yeah, like the beverage.",
-      "translation": "- Ông Pimms? - Vâng, như tên một loại đồ uống vậy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Mr. Pimms? -Yeah, like the beverage.",
+      "vi": "- Ông Pimms? - Vâng, như tên một loại đồ uống vậy."
     }
   },
   {
-    "subtitle": {
-      "time": "23:49",
-      "subtitle": "Yeah, she's here.",
-      "translation": "Thưa cô ấy đến rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yeah, she's here.",
+      "vi": "Thưa cô ấy đến rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "23:54",
-      "subtitle": "What does Mr. Powell do?",
-      "translation": "Ông Powell làm nghề gì vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "What does Mr. Powell do?",
+      "vi": "Ông Powell làm nghề gì vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "23:58",
-      "subtitle": "He's a lawyer. I'm his law clerk...",
-      "translation": "Ông ấy là luật sư và tôi là trợ lí của ông ấy",
-      "machine_translation": ""
+    "translation": {
+      "en": "He's a lawyer. I'm his law clerk...",
+      "vi": "Ông ấy là luật sư và tôi là trợ lí của ông ấy"
     }
   },
   {
-    "subtitle": {
-      "time": "24:00",
-      "subtitle": "And fairly recent appointment, but enjoying it, all the varied work.",
-      "translation": "Tôi mới được bổ nhiệm, có rất nhiều việc nhưng tôi rất là thích.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And fairly recent appointment, but enjoying it, all the varied work.",
+      "vi": "Tôi mới được bổ nhiệm, có rất nhiều việc nhưng tôi rất là thích."
     }
   },
   {
-    "subtitle": {
-      "time": "24:06",
-      "subtitle": "-A lawyer. -Isn't it obvious?",
-      "translation": "- Luật sư à? - Vẫn chưa rõ ràng sao?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-A lawyer. -Isn't it obvious?",
+      "vi": "- Luật sư à? - Vẫn chưa rõ ràng sao?"
     }
   },
   {
-    "subtitle": {
-      "time": "24:10",
-      "subtitle": "Lady Croft, my pleasure. Manfred powell, Q.C.",
-      "translation": "Quý cô Croft, thật hân hạnh. - Manfred Powell, QC - Xin chào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lady Croft, my pleasure. Manfred powell, Q.C.",
+      "vi": "Quý cô Croft, thật hân hạnh. - Manfred Powell, QC - Xin chào."
     }
   },
   {
-    "subtitle": {
-      "time": "24:15",
-      "subtitle": "-Good morning. -I believe you are quite an authority...",
-      "translation": "- Manfred Powell, QC - Xin chào. Tôi tin rằng cô là người rất am hiểu về những điều cổ xưa và huyền bí.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Good morning. -I believe you are quite an authority...",
+      "vi": "- Manfred Powell, QC - Xin chào. Tôi tin rằng cô là người rất am hiểu về những điều cổ xưa và huyền bí."
     }
   },
   {
-    "subtitle": {
-      "time": "24:17",
-      "subtitle": "-On things ancient and mythological. -Well, I travel.",
-      "translation": "Tôi tin rằng cô là người rất am hiểu về những điều cổ xưa và huyền bí. Tôi đi du lịch suốt mà.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-On things ancient and mythological. -Well, I travel.",
+      "vi": "Tôi tin rằng cô là người rất am hiểu về những điều cổ xưa và huyền bí. Tôi đi du lịch suốt mà."
     }
   },
   {
-    "subtitle": {
-      "time": "24:21",
-      "subtitle": "No, no, Mr. Wilson said you were quite the archaeologist.",
-      "translation": "Không. Ông Wilson nói với tôi cô là một nhà khảo cổ học thì đúng hơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No, no, Mr. Wilson said you were quite the archaeologist.",
+      "vi": "Không. Ông Wilson nói với tôi cô là một nhà khảo cổ học thì đúng hơn."
     }
   },
   {
-    "subtitle": {
-      "time": "24:24",
-      "subtitle": "Please.",
-      "translation": "Mời cô.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Please.",
+      "vi": "Mời cô."
     }
   },
   {
-    "subtitle": {
-      "time": "24:26",
-      "subtitle": "Oh, he's very sweet.",
-      "translation": "Ông ấy quá lời rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, he's very sweet.",
+      "vi": "Ông ấy quá lời rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "24:29",
-      "subtitle": "He knew your father, I believe.",
-      "translation": "Hình như ông ấy biết cha cô thì phải?",
-      "machine_translation": ""
+    "translation": {
+      "en": "He knew your father, I believe.",
+      "vi": "Hình như ông ấy biết cha cô thì phải?"
     }
   },
   {
-    "subtitle": {
-      "time": "24:34",
-      "subtitle": "Yes, they were great friends.",
-      "translation": "Vâng, họ từng là bạn thân.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, they were great friends.",
+      "vi": "Vâng, họ từng là bạn thân."
     }
   },
   {
-    "subtitle": {
-      "time": "24:36",
-      "subtitle": "I had the honor of meeting him myself once, in Venice.",
-      "translation": "Tôi đã vinh hạnh được gặp ông ấy một lần, ở Venice.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I had the honor of meeting him myself once, in Venice.",
+      "vi": "Tôi đã vinh hạnh được gặp ông ấy một lần, ở Venice."
     }
   },
   {
-    "subtitle": {
-      "time": "24:41",
-      "subtitle": "I was so sorry to hear about his death.",
-      "translation": "Tôi rất tiếc khi nghe tin ông ấy qua đời.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I was so sorry to hear about his death.",
+      "vi": "Tôi rất tiếc khi nghe tin ông ấy qua đời."
     }
   },
   {
-    "subtitle": {
-      "time": "24:49",
-      "subtitle": "This is the clock I spoke of.",
-      "translation": "Đây là chiếc đồng hồ tôi đã nói.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is the clock I spoke of.",
+      "vi": "Đây là chiếc đồng hồ tôi đã nói."
     }
   },
   {
-    "subtitle": {
-      "time": "24:55",
-      "subtitle": "Very interesting.",
-      "translation": "Thật thú vị.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Very interesting.",
+      "vi": "Thật thú vị."
     }
   },
   {
-    "subtitle": {
-      "time": "25:00",
-      "subtitle": "It's a shame you only brought photographs.",
-      "translation": "Cô chỉ mang ảnh thôi sao.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's a shame you only brought photographs.",
+      "vi": "Cô chỉ mang ảnh thôi sao."
     }
   },
   {
-    "subtitle": {
-      "time": "25:04",
-      "subtitle": "Nevertheless, it is fascinating.",
-      "translation": "Dù sao, cũng thật mê hoặc.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Nevertheless, it is fascinating.",
+      "vi": "Dù sao, cũng thật mê hoặc."
     }
   },
   {
-    "subtitle": {
-      "time": "25:08",
-      "subtitle": "You said it started ticking the night of the alignment.",
-      "translation": "Cô nói nó bắt đầu kêu tích tắc vào đêm các hành tinh thẳng hàng?",
-      "machine_translation": ""
+    "translation": {
+      "en": "You said it started ticking the night of the alignment.",
+      "vi": "Cô nói nó bắt đầu kêu tích tắc vào đêm các hành tinh thẳng hàng?"
     }
   },
   {
-    "subtitle": {
-      "time": "25:10",
-      "subtitle": "Yes.",
-      "translation": "Vâng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes.",
+      "vi": "Vâng."
     }
   },
   {
-    "subtitle": {
-      "time": "25:16",
-      "subtitle": "You said you were a lawyer?",
-      "translation": "- Ông nói mình là luật sư à? - Vâng",
-      "machine_translation": ""
+    "translation": {
+      "en": "You said you were a lawyer?",
+      "vi": "- Ông nói mình là luật sư à? - Vâng"
     }
   },
   {
-    "subtitle": {
-      "time": "25:19",
-      "subtitle": "-Yes. -And the study of clocks is a hobby?",
-      "translation": "Ông có sở thích riêng là nghiên cứu đồng hồ sao?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Yes. -And the study of clocks is a hobby?",
+      "vi": "Ông có sở thích riêng là nghiên cứu đồng hồ sao?"
     }
   },
   {
-    "subtitle": {
-      "time": "25:23",
-      "subtitle": "This is an obsession.",
-      "translation": "Đó là niềm đam mê của tôi",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is an obsession.",
+      "vi": "Đó là niềm đam mê của tôi"
     }
   },
   {
-    "subtitle": {
-      "time": "25:26",
-      "subtitle": "Really my specialty. My practice centers around antiquities.",
-      "translation": "Hay nói đúng hơn là chuyên môn. Tôi hay nghiên cứu đồ cổ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Really my specialty. My practice centers around antiquities.",
+      "vi": "Hay nói đúng hơn là chuyên môn. Tôi hay nghiên cứu đồ cổ."
     }
   },
   {
-    "subtitle": {
-      "time": "25:30",
-      "subtitle": "But the origin of this clock...",
-      "translation": "Nhưng nguồn gốc chiếc đồng hồ này",
-      "machine_translation": ""
+    "translation": {
+      "en": "But the origin of this clock...",
+      "vi": "Nhưng nguồn gốc chiếc đồng hồ này"
     }
   },
   {
-    "subtitle": {
-      "time": "25:33",
-      "subtitle": "Completely eludes me.",
-      "translation": "thì tôi không hề biết gì.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Completely eludes me.",
+      "vi": "thì tôi không hề biết gì."
     }
   },
   {
-    "subtitle": {
-      "time": "25:38",
-      "subtitle": "I think I've never seen anything quite so beautiful that I know so little about.",
-      "translation": "Tôi chưa từng thấy vật nào đẹp đến thế. Vậy mà tôi chẳng biết gì cả.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I think I've never seen anything quite so beautiful that I know so little about.",
+      "vi": "Tôi chưa từng thấy vật nào đẹp đến thế. Vậy mà tôi chẳng biết gì cả."
     }
   },
   {
-    "subtitle": {
-      "time": "25:48",
-      "subtitle": "This is a pleasurable torment.",
-      "translation": "Đúng là một sự khó khăn dễ chịu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is a pleasurable torment.",
+      "vi": "Đúng là một sự khó khăn dễ chịu."
     }
   },
   {
-    "subtitle": {
-      "time": "25:51",
-      "subtitle": "My ignorance amuses me.",
-      "translation": "Sự kém hiểu biết của mình làm tôi thú vị.",
-      "machine_translation": ""
+    "translation": {
+      "en": "My ignorance amuses me.",
+      "vi": "Sự kém hiểu biết của mình làm tôi thú vị."
     }
   },
   {
-    "subtitle": {
-      "time": "25:56",
-      "subtitle": "\"My ignorance amuses me.\"",
-      "translation": "\"Sự kém hiểu biết của mình làm tôi thú vị.\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "\"My ignorance amuses me.\"",
+      "vi": "\"Sự kém hiểu biết của mình làm tôi thú vị.\""
     }
   },
   {
-    "subtitle": {
-      "time": "26:02",
-      "subtitle": "Yes, well, I've always found your ignorance quite amusing.",
-      "translation": "Đúng rồi, tôi luôn thấy sự kém hiểu biết của anh khá là buồn cười.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, well, I've always found your ignorance quite amusing.",
+      "vi": "Đúng rồi, tôi luôn thấy sự kém hiểu biết của anh khá là buồn cười."
     }
   },
   {
-    "subtitle": {
-      "time": "26:06",
-      "subtitle": "Powell, however, is not ignorant.",
-      "translation": "Tuy nhiên, còn lâu Powell mới kém hiểu biết.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Powell, however, is not ignorant.",
+      "vi": "Tuy nhiên, còn lâu Powell mới kém hiểu biết."
     }
   },
   {
-    "subtitle": {
-      "time": "26:10",
-      "subtitle": "He's a liar.",
-      "translation": "Hắn là kẻ nói dối.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He's a liar.",
+      "vi": "Hắn là kẻ nói dối."
     }
   },
   {
-    "subtitle": {
-      "time": "26:26",
-      "subtitle": "-Anything you need? -No. Thank you, Hillary.",
-      "translation": "- Cô cần gì nữa không? - Không, cảm ơn, Hillary.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Anything you need? -No. Thank you, Hillary.",
+      "vi": "- Cô cần gì nữa không? - Không, cảm ơn, Hillary."
     }
   },
   {
-    "subtitle": {
-      "time": "26:29",
-      "subtitle": "-Don't you stay up too late. -I won't.",
-      "translation": "- Đừng thức quá khuya đấy. - Không đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Don't you stay up too late. -I won't.",
+      "vi": "- Đừng thức quá khuya đấy. - Không đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "27:13",
-      "subtitle": "Forward team, wait for my command.",
-      "translation": "Đội Alpha, chờ lệnh của tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Forward team, wait for my command.",
+      "vi": "Đội Alpha, chờ lệnh của tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "27:21",
-      "subtitle": "[man 2] In position awaiting your order.",
-      "translation": "Vào vị trí, đang chờ lệnh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[man 2] In position awaiting your order.",
+      "vi": "Vào vị trí, đang chờ lệnh."
     }
   },
   {
-    "subtitle": {
-      "time": "28:47",
-      "subtitle": "Bastards! [gunshots]",
-      "translation": "Bọn khốn!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bastards! [gunshots]",
+      "vi": "Bọn khốn!"
     }
   },
   {
-    "subtitle": {
-      "time": "28:50",
-      "subtitle": "Bloody hell!",
-      "translation": "Trời đất ơi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bloody hell!",
+      "vi": "Trời đất ơi!"
     }
   },
   {
-    "subtitle": {
-      "time": "28:57",
-      "subtitle": "On the left. On the left.",
-      "translation": "Bên trái! Bên trái!",
-      "machine_translation": ""
+    "translation": {
+      "en": "On the left. On the left.",
+      "vi": "Bên trái! Bên trái!"
     }
   },
   {
-    "subtitle": {
-      "time": "29:19",
-      "subtitle": "-[beeping] -Come on, Simon, come on!",
-      "translation": "Coi nào, Simon!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[beeping] -Come on, Simon, come on!",
+      "vi": "Coi nào, Simon!"
     }
   },
   {
-    "subtitle": {
-      "time": "29:27",
-      "subtitle": "Come on. Come on!",
-      "translation": "GAME OVER",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come on. Come on!",
+      "vi": "GAME OVER"
     }
   },
   {
-    "subtitle": {
-      "time": "31:19",
-      "subtitle": "[Bryce] Lara, Lara, are you there? Pick up!",
-      "translation": "Lara, cô có đó không? Trả lời đi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Bryce] Lara, Lara, are you there? Pick up!",
+      "vi": "Lara, cô có đó không? Trả lời đi!"
     }
   },
   {
-    "subtitle": {
-      "time": "31:22",
-      "subtitle": "Lara, can you hear me? Are you okay?",
-      "translation": "Lara, cô có nghe không? Có sao không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, can you hear me? Are you okay?",
+      "vi": "Lara, cô có nghe không? Có sao không?"
     }
   },
   {
-    "subtitle": {
-      "time": "31:27",
-      "subtitle": "Bryce, I'm in the equipment room.",
-      "translation": "Tôi đang ở phòng máy. Chúng đang đánh cắp chiếc đồng hồ của tôi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bryce, I'm in the equipment room.",
+      "vi": "Tôi đang ở phòng máy. Chúng đang đánh cắp chiếc đồng hồ của tôi!"
     }
   },
   {
-    "subtitle": {
-      "time": "31:29",
-      "subtitle": "-They're stealing my bloody clock. -I know. I saw them.",
-      "translation": "Tôi đang ở phòng máy. Chúng đang đánh cắp chiếc đồng hồ của tôi! Tôi biết. Tôi thấy rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-They're stealing my bloody clock. -I know. I saw them.",
+      "vi": "Tôi đang ở phòng máy. Chúng đang đánh cắp chiếc đồng hồ của tôi! Tôi biết. Tôi thấy rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "31:35",
-      "subtitle": "Bryce, you have to be my eyes.",
-      "translation": "- Anh phải quan sát giúp tôi. - Cô có vũ khí không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bryce, you have to be my eyes.",
+      "vi": "- Anh phải quan sát giúp tôi. - Cô có vũ khí không?"
     }
   },
   {
-    "subtitle": {
-      "time": "31:38",
-      "subtitle": "-Are you armed? -After a fashion, yes.",
-      "translation": "- Anh phải quan sát giúp tôi. - Cô có vũ khí không? Không được tối tân lắm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Are you armed? -After a fashion, yes.",
+      "vi": "- Anh phải quan sát giúp tôi. - Cô có vũ khí không? Không được tối tân lắm."
     }
   },
   {
-    "subtitle": {
-      "time": "31:43",
-      "subtitle": "All right, three bad guys. Number one standing by the Aston Martin.",
-      "translation": "Được rồi, có ba gã xấu xa. Tên thứ nhất đang đứng gần chiếc Aston Martin.",
-      "machine_translation": ""
+    "translation": {
+      "en": "All right, three bad guys. Number one standing by the Aston Martin.",
+      "vi": "Được rồi, có ba gã xấu xa. Tên thứ nhất đang đứng gần chiếc Aston Martin."
     }
   },
   {
-    "subtitle": {
-      "time": "31:47",
-      "subtitle": "Right.",
-      "translation": "Rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right.",
+      "vi": "Rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "31:51",
-      "subtitle": "-Bingo! -[gunfire]",
-      "translation": "Trúng rồi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Bingo! -[gunfire]",
+      "vi": "Trúng rồi!"
     }
   },
   {
-    "subtitle": {
-      "time": "32:09",
-      "subtitle": "-Next. -Okay, number two, crouched by the McLaren.",
-      "translation": "- Tiếp theo. - Được rồi, tên thứ hai, đang nấp sau chiếc McLaren.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Next. -Okay, number two, crouched by the McLaren.",
+      "vi": "- Tiếp theo. - Được rồi, tên thứ hai, đang nấp sau chiếc McLaren."
     }
   },
   {
-    "subtitle": {
-      "time": "32:16",
-      "subtitle": "Oh, bugger!",
-      "translation": "Oh, chết tiệt!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, bugger!",
+      "vi": "Oh, chết tiệt!"
     }
   },
   {
-    "subtitle": {
-      "time": "32:28",
-      "subtitle": "-Are you okay? -I just found my car keys.",
-      "translation": "- Chị có sao không? - Chị vừa tìm được chìa khóa xe ô tô.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Are you okay? -I just found my car keys.",
+      "vi": "- Chị có sao không? - Chị vừa tìm được chìa khóa xe ô tô."
     }
   },
   {
-    "subtitle": {
-      "time": "32:45",
-      "subtitle": "You're done, mate. Nice one.",
-      "translation": "Chiếu tướng, anh bạn à. Cú đá được đấy!",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're done, mate. Nice one.",
+      "vi": "Chiếu tướng, anh bạn à. Cú đá được đấy!"
     }
   },
   {
-    "subtitle": {
-      "time": "34:06",
-      "subtitle": "I think they've all gone.",
-      "translation": "Tôi nghĩ chúng đi cả rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I think they've all gone.",
+      "vi": "Tôi nghĩ chúng đi cả rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "34:09",
-      "subtitle": "Well, they got what they came for.",
-      "translation": "Chúng lấy mất chiếc đồng hồ rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, they got what they came for.",
+      "vi": "Chúng lấy mất chiếc đồng hồ rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "34:12",
-      "subtitle": "Sorry about that.",
-      "translation": "Xin lỗi vì chuyện đó nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Sorry about that.",
+      "vi": "Xin lỗi vì chuyện đó nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "34:15",
-      "subtitle": "[gulps] That's fine.",
-      "translation": "Không sao mà.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[gulps] That's fine.",
+      "vi": "Không sao mà."
     }
   },
   {
-    "subtitle": {
-      "time": "34:58",
-      "subtitle": "Hello? [rap, indistinct]",
-      "translation": "Alô?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hello? [rap, indistinct]",
+      "vi": "Alô?"
     }
   },
   {
-    "subtitle": {
-      "time": "35:05",
-      "subtitle": "What the hell happened here?",
-      "translation": "Chuyện quái quỉ gì xảy ra ở đây vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "What the hell happened here?",
+      "vi": "Chuyện quái quỉ gì xảy ra ở đây vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "35:16",
-      "subtitle": "-Morning. -Lady Lara Croft?",
-      "translation": "- Xin chào. - Ai là cô Lara Croft?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Morning. -Lady Lara Croft?",
+      "vi": "- Xin chào. - Ai là cô Lara Croft?"
     }
   },
   {
-    "subtitle": {
-      "time": "35:19",
-      "subtitle": "Yes. You have something for me?",
-      "translation": "Tôi đây. Có gì cho tôi à?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes. You have something for me?",
+      "vi": "Tôi đây. Có gì cho tôi à?"
     }
   },
   {
-    "subtitle": {
-      "time": "35:31",
-      "subtitle": "I woke up this morning, and I just hated everything.",
-      "translation": "À, sáng nay tôi tỉnh dậy và tôi thấy mọi thứ thật đáng ghét.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I woke up this morning, and I just hated everything.",
+      "vi": "À, sáng nay tôi tỉnh dậy và tôi thấy mọi thứ thật đáng ghét."
     }
   },
   {
-    "subtitle": {
-      "time": "35:35",
-      "subtitle": "Right. Thanks.",
-      "translation": "Vâng. Cảm ơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right. Thanks.",
+      "vi": "Vâng. Cảm ơn."
     }
   },
   {
-    "subtitle": {
-      "time": "35:42",
-      "subtitle": "Who's Stribling, Clive and Winterset then?",
-      "translation": "Ai là Stribling, Clive và Winterset vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Who's Stribling, Clive and Winterset then?",
+      "vi": "Ai là Stribling, Clive và Winterset vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "35:46",
-      "subtitle": "Sounds like a bunch of lawyers. They are a bunch of lawyers.",
-      "translation": "- Sao nghe giống đống luật sư vậy. - Họ là đống luật sư mà.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Sounds like a bunch of lawyers. They are a bunch of lawyers.",
+      "vi": "- Sao nghe giống đống luật sư vậy. - Họ là đống luật sư mà."
     }
   },
   {
-    "subtitle": {
-      "time": "35:50",
-      "subtitle": "-Well, I'll shut my face again. -You are nosy.",
-      "translation": "- Tôi sẽ im lặng nữa vậy. - Anh tò mò quá đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Well, I'll shut my face again. -You are nosy.",
+      "vi": "- Tôi sẽ im lặng nữa vậy. - Anh tò mò quá đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "35:54",
-      "subtitle": "I'm not nosy. I just saw the name and asked her what the name was.",
-      "translation": "Đâu có. Tôi chỉ thấy cái tên. Mấy cái tên nhìn buồn cười. Tôi chỉ hỏi cô ấy mấy cái tên là sao thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I'm not nosy. I just saw the name and asked her what the name was.",
+      "vi": "Đâu có. Tôi chỉ thấy cái tên. Mấy cái tên nhìn buồn cười. Tôi chỉ hỏi cô ấy mấy cái tên là sao thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "36:03",
-      "subtitle": "It's from my father.",
-      "translation": "Thư của bố tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's from my father.",
+      "vi": "Thư của bố tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "36:08",
-      "subtitle": "It was written before he died...",
-      "translation": "Ông đã viết nó trước khi mất...",
-      "machine_translation": ""
+    "translation": {
+      "en": "It was written before he died...",
+      "vi": "Ông đã viết nó trước khi mất..."
     }
   },
   {
-    "subtitle": {
-      "time": "36:10",
-      "subtitle": "And delivered today as per his instructions.",
-      "translation": "và thư được gửi tới ngày hôm nay theo yêu cầu của ông.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And delivered today as per his instructions.",
+      "vi": "và thư được gửi tới ngày hôm nay theo yêu cầu của ông."
     }
   },
   {
-    "subtitle": {
-      "time": "36:14",
-      "subtitle": "Blimey!",
-      "translation": "- Thế à! - Trời ơi...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Blimey!",
+      "vi": "- Thế à! - Trời ơi..."
     }
   },
   {
-    "subtitle": {
-      "time": "36:26",
-      "subtitle": "[Lara reading] \"To see a world in a grain of sand...",
-      "translation": "\"Con hãy nhìn cả thế giới trong một hạt cát",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Lara reading] \"To see a world in a grain of sand...",
+      "vi": "\"Con hãy nhìn cả thế giới trong một hạt cát"
     }
   },
   {
-    "subtitle": {
-      "time": "36:29",
-      "subtitle": "And a heaven in a wild flower,",
-      "translation": "và thiên đàng trên một cánh hoa...",
-      "machine_translation": ""
+    "translation": {
+      "en": "And a heaven in a wild flower,",
+      "vi": "và thiên đàng trên một cánh hoa..."
     }
   },
   {
-    "subtitle": {
-      "time": "36:32",
-      "subtitle": "Hold infinity in the palm of your hand,",
-      "translation": "\"Hãy giữ không gian vô định trong lòng bàn tay con",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hold infinity in the palm of your hand,",
+      "vi": "\"Hãy giữ không gian vô định trong lòng bàn tay con"
     }
   },
   {
-    "subtitle": {
-      "time": "36:35",
-      "subtitle": "And eternity in an hour.",
-      "translation": "và sự thiên thu trong một giờ đồng hồ\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "And eternity in an hour.",
+      "vi": "và sự thiên thu trong một giờ đồng hồ\""
     }
   },
   {
-    "subtitle": {
-      "time": "37:07",
-      "subtitle": "The all seeing eye.",
-      "translation": "Con Mắt Thần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The all seeing eye.",
+      "vi": "Con Mắt Thần."
     }
   },
   {
-    "subtitle": {
-      "time": "37:32",
-      "subtitle": "[Lord Croft's voice] My darling daughter,",
-      "translation": "\"Con gái yêu của bố...",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Lord Croft's voice] My darling daughter,",
+      "vi": "\"Con gái yêu của bố..."
     }
   },
   {
-    "subtitle": {
-      "time": "37:34",
-      "subtitle": "I knew you'd figure this out.",
-      "translation": "\"Bố biết là rồi con cũng sẽ tìm ra nó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I knew you'd figure this out.",
+      "vi": "\"Bố biết là rồi con cũng sẽ tìm ra nó."
     }
   },
   {
-    "subtitle": {
-      "time": "37:37",
-      "subtitle": "If you are reading this letter, I am no longer with you,",
-      "translation": "\"Khi con đọc được lá thư này, bố đã không còn ở bên con nữa\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "If you are reading this letter, I am no longer with you,",
+      "vi": "\"Khi con đọc được lá thư này, bố đã không còn ở bên con nữa\""
     }
   },
   {
-    "subtitle": {
-      "time": "37:39",
-      "subtitle": "And I miss you... And love you always and forever.",
-      "translation": "Nhưng bố luôn luôn nhớ con và mãi mãi yêu con.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And I miss you... And love you always and forever.",
+      "vi": "Nhưng bố luôn luôn nhớ con và mãi mãi yêu con."
     }
   },
   {
-    "subtitle": {
-      "time": "37:44",
-      "subtitle": "It also means I have failed...",
-      "translation": "Điều đó cũng có nghĩa bố đã thất bại",
-      "machine_translation": ""
+    "translation": {
+      "en": "It also means I have failed...",
+      "vi": "Điều đó cũng có nghĩa bố đã thất bại"
     }
   },
   {
-    "subtitle": {
-      "time": "37:48",
-      "subtitle": "And must place an awful burden on your shoulders.",
-      "translation": "và phải đặt trên vai con một gánh nặng khủng khiếp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And must place an awful burden on your shoulders.",
+      "vi": "và phải đặt trên vai con một gánh nặng khủng khiếp."
     }
   },
   {
-    "subtitle": {
-      "time": "37:51",
-      "subtitle": "Lara, by now I am sure you will have discovered the clock I concealed.",
-      "translation": "\"Lara, đến lúc này bố chắc chắn rằng con đã tìm ra chiếc đồng hồ mà bố giấu.''",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, by now I am sure you will have discovered the clock I concealed.",
+      "vi": "\"Lara, đến lúc này bố chắc chắn rằng con đã tìm ra chiếc đồng hồ mà bố giấu.''"
     }
   },
   {
-    "subtitle": {
-      "time": "37:57",
-      "subtitle": "The clock is the key, Lara.",
-      "translation": "Chiếc đồng hồ là chìa khóa, Lara.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The clock is the key, Lara.",
+      "vi": "Chiếc đồng hồ là chìa khóa, Lara."
     }
   },
   {
-    "subtitle": {
-      "time": "38:00",
-      "subtitle": "It will unlock the hiding place of two pieces of a sacred icon.",
-      "translation": "Nó sẽ mở ra cánh cửa dẫn vào nơi giấu hai mảnh của biểu tượng thiêng liêng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It will unlock the hiding place of two pieces of a sacred icon.",
+      "vi": "Nó sẽ mở ra cánh cửa dẫn vào nơi giấu hai mảnh của biểu tượng thiêng liêng."
     }
   },
   {
-    "subtitle": {
-      "time": "38:06",
-      "subtitle": "This is the magical triangle I told you about when you were a little girl.",
-      "translation": "Đó là tam giác thần kỳ mà bố đã kể cho con nghe khi con còn nhỏ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is the magical triangle I told you about when you were a little girl.",
+      "vi": "Đó là tam giác thần kỳ mà bố đã kể cho con nghe khi con còn nhỏ."
     }
   },
   {
-    "subtitle": {
-      "time": "38:09",
-      "subtitle": "The triangle of light. But it is no bedtime story.",
-      "translation": "\"Tam Giác Ánh Sáng. Nhưng đó không phải câu chuyện cổ tích.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The triangle of light. But it is no bedtime story.",
+      "vi": "\"Tam Giác Ánh Sáng. Nhưng đó không phải câu chuyện cổ tích."
     }
   },
   {
-    "subtitle": {
-      "time": "38:14",
-      "subtitle": "The triangle was forged from metal found in the crater of a meteor...",
-      "translation": "\"Tam giác được làm từ kim loại tìm thấy trong cái hố",
-      "machine_translation": ""
+    "translation": {
+      "en": "The triangle was forged from metal found in the crater of a meteor...",
+      "vi": "\"Tam giác được làm từ kim loại tìm thấy trong cái hố"
     }
   },
   {
-    "subtitle": {
-      "time": "38:18",
-      "subtitle": "That had fallen to earth at the exact moment...",
-      "translation": "\"của một thiên thể rơi xuống trái đất",
-      "machine_translation": ""
+    "translation": {
+      "en": "That had fallen to earth at the exact moment...",
+      "vi": "\"của một thiên thể rơi xuống trái đất"
     }
   },
   {
-    "subtitle": {
-      "time": "38:20",
-      "subtitle": "Of the previous alignment of the nine planets.",
-      "translation": "\"trong lần thẳng hàng trước của chín hành tinh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Of the previous alignment of the nine planets.",
+      "vi": "\"trong lần thẳng hàng trước của chín hành tinh."
     }
   },
   {
-    "subtitle": {
-      "time": "38:23",
-      "subtitle": "The people of the light built a great city in this crater...",
-      "translation": "\"Các cư dân ánh sáng đã xây dựng thành phố trong miệng núi lửa",
-      "machine_translation": ""
+    "translation": {
+      "en": "The people of the light built a great city in this crater...",
+      "vi": "\"Các cư dân ánh sáng đã xây dựng thành phố trong miệng núi lửa"
     }
   },
   {
-    "subtitle": {
-      "time": "38:26",
-      "subtitle": "Where they worshipped the triangle for its ability to control time.",
-      "translation": "\"Đó là nơi họ thờ kính Tam Giác Thần vì khả năng chế ngự thời gian của nó",
-      "machine_translation": ""
+    "translation": {
+      "en": "Where they worshipped the triangle for its ability to control time.",
+      "vi": "\"Đó là nơi họ thờ kính Tam Giác Thần vì khả năng chế ngự thời gian của nó"
     }
   },
   {
-    "subtitle": {
-      "time": "38:30",
-      "subtitle": "It gave its possessor a power that could be used for good or great evil.",
-      "translation": "\"Ai sở hữu nó sẽ có quyền năng vô hạn để làm việc thiện hay việc ác.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It gave its possessor a power that could be used for good or great evil.",
+      "vi": "\"Ai sở hữu nó sẽ có quyền năng vô hạn để làm việc thiện hay việc ác."
     }
   },
   {
-    "subtitle": {
-      "time": "38:35",
-      "subtitle": "The abuse of this power led to the destruction of the city.",
-      "translation": "\"Việc lạm dụng khả năng của nó đã khiến thành phố của họ bị phá hủy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The abuse of this power led to the destruction of the city.",
+      "vi": "\"Việc lạm dụng khả năng của nó đã khiến thành phố của họ bị phá hủy."
     }
   },
   {
-    "subtitle": {
-      "time": "38:41",
-      "subtitle": "To be sure no man would ever again wield this power,",
-      "translation": "\"Và để đảm bảo sau này không ai lợi dụng những quyền năng đó,",
-      "machine_translation": ""
+    "translation": {
+      "en": "To be sure no man would ever again wield this power,",
+      "vi": "\"Và để đảm bảo sau này không ai lợi dụng những quyền năng đó,"
     }
   },
   {
-    "subtitle": {
-      "time": "38:45",
-      "subtitle": "They split the triangle into two pieces...",
-      "translation": "\"Nó bị đập vỡ làm 2 mảnh",
-      "machine_translation": ""
+    "translation": {
+      "en": "They split the triangle into two pieces...",
+      "vi": "\"Nó bị đập vỡ làm 2 mảnh"
     }
   },
   {
-    "subtitle": {
-      "time": "38:47",
-      "subtitle": "And hid them at opposite ends of the earth.",
-      "translation": "và giấu ở chúng ở hai cực khác nhau của Trái Đất\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "And hid them at opposite ends of the earth.",
+      "vi": "và giấu ở chúng ở hai cực khác nhau của Trái Đất\""
     }
   },
   {
-    "subtitle": {
-      "time": "38:51",
-      "subtitle": "Lara, do you remember the jasmine that only grows...",
-      "translation": "\"Lara, con có nhớ bụi hoa lài chỉ nở trước một ngôi đền",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, do you remember the jasmine that only grows...",
+      "vi": "\"Lara, con có nhớ bụi hoa lài chỉ nở trước một ngôi đền"
     }
   },
   {
-    "subtitle": {
-      "time": "38:54",
-      "subtitle": "In one temple along the ancient khmer trail in Cambodia?",
-      "translation": "dọc đường mòn ở Campuchia không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "In one temple along the ancient khmer trail in Cambodia?",
+      "vi": "dọc đường mòn ở Campuchia không?"
     }
   },
   {
-    "subtitle": {
-      "time": "38:58",
-      "subtitle": "Find that and you will have found the entrance to the tomb of the dancing light,",
-      "translation": "\"Con hãy tìm nó. Nó sẽ chỉ cho con đường \"vào Hầm Mộ của Ánh Sáng Nhảy Múa",
-      "machine_translation": ""
+    "translation": {
+      "en": "Find that and you will have found the entrance to the tomb of the dancing light,",
+      "vi": "\"Con hãy tìm nó. Nó sẽ chỉ cho con đường \"vào Hầm Mộ của Ánh Sáng Nhảy Múa"
     }
   },
   {
-    "subtitle": {
-      "time": "39:02",
-      "subtitle": "Where the first half of the triangle is hidden.",
-      "translation": "\"Nơi giấu mảnh đầu tiên của Tam Giác Thần\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "Where the first half of the triangle is hidden.",
+      "vi": "\"Nơi giấu mảnh đầu tiên của Tam Giác Thần\""
     }
   },
   {
-    "subtitle": {
-      "time": "39:05",
-      "subtitle": "You must be there at the exact moment...",
-      "translation": "Con phải đến đó chính xác...",
-      "machine_translation": ""
+    "translation": {
+      "en": "You must be there at the exact moment...",
+      "vi": "Con phải đến đó chính xác..."
     }
   },
   {
-    "subtitle": {
-      "time": "39:08",
-      "subtitle": "of the second phase of the planetary alignment.",
-      "translation": "vào giai đoạn thứ hai trong quá trình thẳng hàng của các hành tinh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "of the second phase of the planetary alignment.",
+      "vi": "vào giai đoạn thứ hai trong quá trình thẳng hàng của các hành tinh."
     }
   },
   {
-    "subtitle": {
-      "time": "39:11",
-      "subtitle": "You must hurry. You have very little time.",
-      "translation": "\"Phải nhanh lên, con không còn nhiều thời gian nữa đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You must hurry. You have very little time.",
+      "vi": "\"Phải nhanh lên, con không còn nhiều thời gian nữa đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "39:14",
-      "subtitle": "And as the planets move into alignment,",
-      "translation": "\"Khi các hành tinh thẳng hàng",
-      "machine_translation": ""
+    "translation": {
+      "en": "And as the planets move into alignment,",
+      "vi": "\"Khi các hành tinh thẳng hàng"
     }
   },
   {
-    "subtitle": {
-      "time": "39:16",
-      "subtitle": "The world will be in great danger,",
-      "translation": "''cả thế giới sẽ gặp nguy hiểm lớn",
-      "machine_translation": ""
+    "translation": {
+      "en": "The world will be in great danger,",
+      "vi": "''cả thế giới sẽ gặp nguy hiểm lớn"
     }
   },
   {
-    "subtitle": {
-      "time": "39:19",
-      "subtitle": "for the secret society known as the Illuminati--",
-      "translation": "\"bởi một ban hội bí mật được biết đến là Illuminati...",
-      "machine_translation": ""
+    "translation": {
+      "en": "for the secret society known as the Illuminati--",
+      "vi": "\"bởi một ban hội bí mật được biết đến là Illuminati..."
     }
   },
   {
-    "subtitle": {
-      "time": "39:23",
-      "subtitle": "Devious dangerous men, who seek to fulfill an ancient prophecy...",
-      "translation": "\"Những kẻ quỷ quyệt, nguy hiểm ''sẽ tìm cách thực hiện một lời tiên tri xưa bằng cách ghép hai mảnh tam giác lại",
-      "machine_translation": ""
+    "translation": {
+      "en": "Devious dangerous men, who seek to fulfill an ancient prophecy...",
+      "vi": "\"Những kẻ quỷ quyệt, nguy hiểm ''sẽ tìm cách thực hiện một lời tiên tri xưa bằng cách ghép hai mảnh tam giác lại"
     }
   },
   {
-    "subtitle": {
-      "time": "39:27",
-      "subtitle": "by reuniting the two halves...",
-      "translation": "''sẽ tìm cách thực hiện một lời tiên tri xưa bằng cách ghép hai mảnh tam giác lại",
-      "machine_translation": ""
+    "translation": {
+      "en": "by reuniting the two halves...",
+      "vi": "''sẽ tìm cách thực hiện một lời tiên tri xưa bằng cách ghép hai mảnh tam giác lại"
     }
   },
   {
-    "subtitle": {
-      "time": "39:30",
-      "subtitle": "And attaining the triangle's awesome and terrible powers.",
-      "translation": "''để sở hữu quyền năng khủng khiếp của Tam Giác Thần",
-      "machine_translation": ""
+    "translation": {
+      "en": "And attaining the triangle's awesome and terrible powers.",
+      "vi": "''để sở hữu quyền năng khủng khiếp của Tam Giác Thần"
     }
   },
   {
-    "subtitle": {
-      "time": "39:35",
-      "subtitle": "This you must prevent at all costs.",
-      "translation": "\"Bằng mọi giá con phải chặn chúng lại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This you must prevent at all costs.",
+      "vi": "\"Bằng mọi giá con phải chặn chúng lại."
     }
   },
   {
-    "subtitle": {
-      "time": "39:39",
-      "subtitle": "So, Lara, I am asking you to complete my work--",
-      "translation": "\"Vậy nên, Lara, ta đang yêu cầu còn hoàn thành công việc của cha",
-      "machine_translation": ""
+    "translation": {
+      "en": "So, Lara, I am asking you to complete my work--",
+      "vi": "\"Vậy nên, Lara, ta đang yêu cầu còn hoàn thành công việc của cha"
     }
   },
   {
-    "subtitle": {
-      "time": "39:44",
-      "subtitle": "To find and destroy both halves of the triangle.",
-      "translation": "\"là tìm và phá hủy cả hai mảnh của Tam Giác Thần.''",
-      "machine_translation": ""
+    "translation": {
+      "en": "To find and destroy both halves of the triangle.",
+      "vi": "\"là tìm và phá hủy cả hai mảnh của Tam Giác Thần.''"
     }
   },
   {
-    "subtitle": {
-      "time": "39:51",
-      "subtitle": "How are you going to get to Cambodia and get the clock back in 15 hours?",
-      "translation": "Cô làm thế nào để đến Camphuchia và lấy lại chiếc đồng hồ trong...15 tiếng?",
-      "machine_translation": ""
+    "translation": {
+      "en": "How are you going to get to Cambodia and get the clock back in 15 hours?",
+      "vi": "Cô làm thế nào để đến Camphuchia và lấy lại chiếc đồng hồ trong...15 tiếng?"
     }
   },
   {
-    "subtitle": {
-      "time": "39:56",
-      "subtitle": "I'll be calling in a favor.",
-      "translation": "Tôi sẽ phải nhờ một ân huệ",
-      "machine_translation": ""
+    "translation": {
+      "en": "I'll be calling in a favor.",
+      "vi": "Tôi sẽ phải nhờ một ân huệ"
     }
   },
   {
-    "subtitle": {
-      "time": "39:59",
-      "subtitle": "What kind of favor? Well, that is a secret.",
-      "translation": "- Ân huệ kiểu gì? - À, đó là bí mật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "What kind of favor? Well, that is a secret.",
+      "vi": "- Ân huệ kiểu gì? - À, đó là bí mật."
     }
   },
   {
-    "subtitle": {
-      "time": "40:03",
-      "subtitle": "If I told you, I'd have to kill you.",
-      "translation": "Nếu nói cho anh biết tôi e sẽ phải giết anh đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "If I told you, I'd have to kill you.",
+      "vi": "Nếu nói cho anh biết tôi e sẽ phải giết anh đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "40:15",
-      "subtitle": "[Man on radio] Lady Croft, are you on target? Over.",
-      "translation": "Cô Croft, cô vào vị trí chưa? Hết.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Man on radio] Lady Croft, are you on target? Over.",
+      "vi": "Cô Croft, cô vào vị trí chưa? Hết."
     }
   },
   {
-    "subtitle": {
-      "time": "40:18",
-      "subtitle": "Right on target. Thank you, boys. Over and out.",
-      "translation": "Đã vào vị trí. Cảm ơn các anh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right on target. Thank you, boys. Over and out.",
+      "vi": "Đã vào vị trí. Cảm ơn các anh."
     }
   },
   {
-    "subtitle": {
-      "time": "41:02",
-      "subtitle": "How predictable.",
-      "translation": "Biết ngay là ông mà.",
-      "machine_translation": ""
+    "translation": {
+      "en": "How predictable.",
+      "vi": "Biết ngay là ông mà."
     }
   },
   {
-    "subtitle": {
-      "time": "41:09",
-      "subtitle": "Alex West.",
-      "translation": "Alex West.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Alex West.",
+      "vi": "Alex West."
     }
   },
   {
-    "subtitle": {
-      "time": "41:11",
-      "subtitle": "What are you doing here?",
-      "translation": "Anh làm gì ở đây thế này?",
-      "machine_translation": ""
+    "translation": {
+      "en": "What are you doing here?",
+      "vi": "Anh làm gì ở đây thế này?"
     }
   },
   {
-    "subtitle": {
-      "time": "41:54",
-      "subtitle": "We have 72 minutes to the next alignment.",
-      "translation": "Còn 72 phút nữa là đến lần thẳng hàng tiếp theo.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We have 72 minutes to the next alignment.",
+      "vi": "Còn 72 phút nữa là đến lần thẳng hàng tiếp theo."
     }
   },
   {
-    "subtitle": {
-      "time": "41:57",
-      "subtitle": "We have to work faster.",
-      "translation": "Phải tiến hành công việc nhanh hơn đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We have to work faster.",
+      "vi": "Phải tiến hành công việc nhanh hơn đi."
     }
   },
   {
-    "subtitle": {
-      "time": "42:11",
-      "subtitle": "-Come on, guys! -[workers chanting]",
-      "translation": "Nhanh lên nào, mọi người!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Come on, guys! -[workers chanting]",
+      "vi": "Nhanh lên nào, mọi người!"
     }
   },
   {
-    "subtitle": {
-      "time": "42:51",
-      "subtitle": "[Alex] Come on, guys! Come on, pull!",
-      "translation": "Cố lên nào, mọi người! Kéo đi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] Come on, guys! Come on, pull!",
+      "vi": "Cố lên nào, mọi người! Kéo đi!"
     }
   },
   {
-    "subtitle": {
-      "time": "42:53",
-      "subtitle": "Pull! It's coming!",
-      "translation": "Kéo đi! Gần được rồi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Pull! It's coming!",
+      "vi": "Kéo đi! Gần được rồi!"
     }
   },
   {
-    "subtitle": {
-      "time": "43:08",
-      "subtitle": "Good.",
-      "translation": "Tốt lắm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Good.",
+      "vi": "Tốt lắm."
     }
   },
   {
-    "subtitle": {
-      "time": "43:42",
-      "subtitle": "So, any sign of Lady Croft?",
-      "translation": "Có thấy bóng dáng cô Croft chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "So, any sign of Lady Croft?",
+      "vi": "Có thấy bóng dáng cô Croft chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "43:45",
-      "subtitle": "Not yet.",
-      "translation": "Chưa thấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Not yet.",
+      "vi": "Chưa thấy."
     }
   },
   {
-    "subtitle": {
-      "time": "43:47",
-      "subtitle": "Lara's overrated. She's good, don't get me wrong,",
-      "translation": "Lara được đánh giá quá cao. Cô ấy khá đâ, tôi công nhận",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara's overrated. She's good, don't get me wrong,",
+      "vi": "Lara được đánh giá quá cao. Cô ấy khá đâ, tôi công nhận"
     }
   },
   {
-    "subtitle": {
-      "time": "43:50",
-      "subtitle": "But she's in it for the glory,",
-      "translation": "Nhưng cô ta chỉ làm vì tiếng tăm thôi...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But she's in it for the glory,",
+      "vi": "Nhưng cô ta chỉ làm vì tiếng tăm thôi..."
     }
   },
   {
-    "subtitle": {
-      "time": "43:53",
-      "subtitle": "-whereas I'm in it for the money. -Fortunately.",
-      "translation": "Còn tôi là vì tiền. Cũng may.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-whereas I'm in it for the money. -Fortunately.",
+      "vi": "Còn tôi là vì tiền. Cũng may."
     }
   },
   {
-    "subtitle": {
-      "time": "43:58",
-      "subtitle": "-Into the belly of the beast. -And out of the demon's ass.",
-      "translation": "- Vào bụng quái vật. - Và ra từ mông quỷ",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Into the belly of the beast. -And out of the demon's ass.",
+      "vi": "- Vào bụng quái vật. - Và ra từ mông quỷ"
     }
   },
   {
-    "subtitle": {
-      "time": "45:09",
-      "subtitle": "Jasmine.",
-      "translation": "Hoa lài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Jasmine.",
+      "vi": "Hoa lài."
     }
   },
   {
-    "subtitle": {
-      "time": "46:57",
-      "subtitle": "Remember, what we are looking for is hidden not only in space...",
-      "translation": "Hãy nhớ, điều ta tìm không chỉ trong không gian mà",
-      "machine_translation": ""
+    "translation": {
+      "en": "Remember, what we are looking for is hidden not only in space...",
+      "vi": "Hãy nhớ, điều ta tìm không chỉ trong không gian mà"
     }
   },
   {
-    "subtitle": {
-      "time": "47:01",
-      "subtitle": "But also in time.",
-      "translation": "cả thời gian nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But also in time.",
+      "vi": "cả thời gian nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "47:03",
-      "subtitle": "The clock is the key.",
-      "translation": "Chiếc đồng hồ chính là chìa khóa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The clock is the key.",
+      "vi": "Chiếc đồng hồ chính là chìa khóa."
     }
   },
   {
-    "subtitle": {
-      "time": "47:14",
-      "subtitle": "My god.",
-      "translation": "Chúa ơi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "My god.",
+      "vi": "Chúa ơi!"
     }
   },
   {
-    "subtitle": {
-      "time": "47:24",
-      "subtitle": "\"Return the iron to the stone's embrace,",
-      "translation": "\"Hãy trả con mắt vào trong vòng tay của đá",
-      "machine_translation": ""
+    "translation": {
+      "en": "\"Return the iron to the stone's embrace,",
+      "vi": "\"Hãy trả con mắt vào trong vòng tay của đá"
     }
   },
   {
-    "subtitle": {
-      "time": "47:28",
-      "subtitle": "the wheel of heaven will turn.",
-      "translation": "\"và bánh xe trời sẽ chuyển động.",
-      "machine_translation": ""
+    "translation": {
+      "en": "the wheel of heaven will turn.",
+      "vi": "\"và bánh xe trời sẽ chuyển động."
     }
   },
   {
-    "subtitle": {
-      "time": "47:30",
-      "subtitle": "Exhume the light from its watery grave,",
-      "translation": "\"Hãy mang ánh sáng từ đáy mồ bằng nước",
-      "machine_translation": ""
+    "translation": {
+      "en": "Exhume the light from its watery grave,",
+      "vi": "\"Hãy mang ánh sáng từ đáy mồ bằng nước"
     }
   },
   {
-    "subtitle": {
-      "time": "47:34",
-      "subtitle": "to receive the gift of heaven...",
-      "translation": "\"để nhận ân huệ từ trời cao",
-      "machine_translation": ""
+    "translation": {
+      "en": "to receive the gift of heaven...",
+      "vi": "\"để nhận ân huệ từ trời cao"
     }
   },
   {
-    "subtitle": {
-      "time": "47:37",
-      "subtitle": "As you are condemned to the depths of hell.\"",
-      "translation": "\"khi chính ngươi sẽ bị đưa xuống tận cùng địa ngục.",
-      "machine_translation": ""
+    "translation": {
+      "en": "As you are condemned to the depths of hell.\"",
+      "vi": "\"khi chính ngươi sẽ bị đưa xuống tận cùng địa ngục."
     }
   },
   {
-    "subtitle": {
-      "time": "47:42",
-      "subtitle": "Right. So, pretty much touch anything and you get your head chopped off.",
-      "translation": "Đúng rồi, chạm vào cái gì cũng sẽ bị chặt đầu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Right. So, pretty much touch anything and you get your head chopped off.",
+      "vi": "Đúng rồi, chạm vào cái gì cũng sẽ bị chặt đầu."
     }
   },
   {
-    "subtitle": {
-      "time": "47:47",
-      "subtitle": "[Powell] We have two minutes, Mr. West.",
-      "translation": "Chúng ta chỉ còn hai phút nữa, ông West.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Powell] We have two minutes, Mr. West.",
+      "vi": "Chúng ta chỉ còn hai phút nữa, ông West."
     }
   },
   {
-    "subtitle": {
-      "time": "47:50",
-      "subtitle": "You're the tomb raider. Figure it out.",
-      "translation": "Ông là chuyên gia cướp lăng mộ. Hãy tìm ra cách.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're the tomb raider. Figure it out.",
+      "vi": "Ông là chuyên gia cướp lăng mộ. Hãy tìm ra cách."
     }
   },
   {
-    "subtitle": {
-      "time": "48:08",
-      "subtitle": "Tempus fugit.",
-      "translation": "Tempus fugit.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Tempus fugit.",
+      "vi": "Tempus fugit."
     }
   },
   {
-    "subtitle": {
-      "time": "48:11",
-      "subtitle": "Yes, \"time flies.\"",
-      "translation": "Phải rồi, thời gian trôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, \"time flies.\"",
+      "vi": "Phải rồi, thời gian trôi."
     }
   },
   {
-    "subtitle": {
-      "time": "48:15",
-      "subtitle": "[Alex] It's the swords!",
-      "translation": "Những thanh kiếm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] It's the swords!",
+      "vi": "Những thanh kiếm."
     }
   },
   {
-    "subtitle": {
-      "time": "48:17",
-      "subtitle": "Come on, guys, get up here. Give me a hand here.",
-      "translation": "Nào các anh em, lên đây. Giúp tôi một tay nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come on, guys, get up here. Give me a hand here.",
+      "vi": "Nào các anh em, lên đây. Giúp tôi một tay nào."
     }
   },
   {
-    "subtitle": {
-      "time": "48:25",
-      "subtitle": "That's it. Come on. Coming down.",
-      "translation": "Đúng rồi, cho nó xuống nhé. Chuyển xuống hết.",
-      "machine_translation": ""
+    "translation": {
+      "en": "That's it. Come on. Coming down.",
+      "vi": "Đúng rồi, cho nó xuống nhé. Chuyển xuống hết."
     }
   },
   {
-    "subtitle": {
-      "time": "48:29",
-      "subtitle": "I want them all down. Take them, carry them across the ladders.",
-      "translation": "Chuyển xuống hết. Chuyển xuống nấc thang ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I want them all down. Take them, carry them across the ladders.",
+      "vi": "Chuyển xuống hết. Chuyển xuống nấc thang ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "48:34",
-      "subtitle": "-Come on, guys, let's hustle. -[men chattering]",
-      "translation": "Nhanh lên nào!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Come on, guys, let's hustle. -[men chattering]",
+      "vi": "Nhanh lên nào!"
     }
   },
   {
-    "subtitle": {
-      "time": "48:37",
-      "subtitle": "[Alex] All right, now slide them into the slots over there.",
-      "translation": "Được rồi, giờ tra vào các rãnh ở đây đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] All right, now slide them into the slots over there.",
+      "vi": "Được rồi, giờ tra vào các rãnh ở đây đi."
     }
   },
   {
-    "subtitle": {
-      "time": "48:42",
-      "subtitle": "[Powell] We place the clock here at the exact moment of alignment.",
-      "translation": "Ta sẽ để đồng hồ ở đây, ngay vào thời điểm thẳng hàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Powell] We place the clock here at the exact moment of alignment.",
+      "vi": "Ta sẽ để đồng hồ ở đây, ngay vào thời điểm thẳng hàng."
     }
   },
   {
-    "subtitle": {
-      "time": "48:46",
-      "subtitle": "[Alex] Come on, let's go! Move it!",
-      "translation": "Nhanh lên, làm ngay đi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] Come on, let's go! Move it!",
+      "vi": "Nhanh lên, làm ngay đi!"
     }
   },
   {
-    "subtitle": {
-      "time": "48:51",
-      "subtitle": "Too slow, ladies, too slow. Come on.",
-      "translation": "Chậm quá, các quý cô, chậm quá. Nhanh lên nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Too slow, ladies, too slow. Come on.",
+      "vi": "Chậm quá, các quý cô, chậm quá. Nhanh lên nào."
     }
   },
   {
-    "subtitle": {
-      "time": "49:01",
-      "subtitle": "-[Alex] That's it. -Count it down.",
-      "translation": "- Đúng rồi. - Đếm ngược thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Alex] That's it. -Count it down.",
+      "vi": "- Đúng rồi. - Đếm ngược thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "49:04",
-      "subtitle": "-The timing needs to be exact. -No shit.",
-      "translation": "- Thời điểm phải thật chính xác. - Khỏi nói.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-The timing needs to be exact. -No shit.",
+      "vi": "- Thời điểm phải thật chính xác. - Khỏi nói."
     }
   },
   {
-    "subtitle": {
-      "time": "49:32",
-      "subtitle": "[Alex] Sixty seconds to go.",
-      "translation": "Còn 60 giây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] Sixty seconds to go.",
+      "vi": "Còn 60 giây."
     }
   },
   {
-    "subtitle": {
-      "time": "49:34",
-      "subtitle": "59... 58... 57...",
-      "translation": "59, 58, 57...",
-      "machine_translation": ""
+    "translation": {
+      "en": "59... 58... 57...",
+      "vi": "59, 58, 57..."
     }
   },
   {
-    "subtitle": {
-      "time": "49:38",
-      "subtitle": "56... 55... 54...",
-      "translation": "56... 55, 54, 53...",
-      "machine_translation": ""
+    "translation": {
+      "en": "56... 55... 54...",
+      "vi": "56... 55, 54, 53..."
     }
   },
   {
-    "subtitle": {
-      "time": "49:43",
-      "subtitle": "53... 52... 51...",
-      "translation": "55, 54, 53... 52, 51...",
-      "machine_translation": ""
+    "translation": {
+      "en": "53... 52... 51...",
+      "vi": "55, 54, 53... 52, 51..."
     }
   },
   {
-    "subtitle": {
-      "time": "49:47",
-      "subtitle": "Fifty seconds.",
-      "translation": "50 giây",
-      "machine_translation": ""
+    "translation": {
+      "en": "Fifty seconds.",
+      "vi": "50 giây"
     }
   },
   {
-    "subtitle": {
-      "time": "49:56",
-      "subtitle": "Cease fire! Hold your fire!",
-      "translation": "Ngừng bắn! Dừng lại!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Cease fire! Hold your fire!",
+      "vi": "Ngừng bắn! Dừng lại!"
     }
   },
   {
-    "subtitle": {
-      "time": "50:03",
-      "subtitle": "-Keep counting. -You're making a big mistake!",
-      "translation": "- Cứ đếm đi. - Các người nhầm to rồi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Keep counting. -You're making a big mistake!",
+      "vi": "- Cứ đếm đi. - Các người nhầm to rồi!"
     }
   },
   {
-    "subtitle": {
-      "time": "50:06",
-      "subtitle": "41... 40...",
-      "translation": "41, 40...",
-      "machine_translation": ""
+    "translation": {
+      "en": "41... 40...",
+      "vi": "41, 40..."
     }
   },
   {
-    "subtitle": {
-      "time": "50:09",
-      "subtitle": "-Alex West. -39...",
-      "translation": "- 39... - Alex West.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Alex West. -39...",
+      "vi": "- 39... - Alex West."
     }
   },
   {
-    "subtitle": {
-      "time": "50:12",
-      "subtitle": "38... 37...",
-      "translation": "- 38... - Chào, Lara.",
-      "machine_translation": ""
+    "translation": {
+      "en": "38... 37...",
+      "vi": "- 38... - Chào, Lara."
     }
   },
   {
-    "subtitle": {
-      "time": "50:13",
-      "subtitle": "-Hey, Lara. -Tourist visa?",
-      "translation": "- 37... - Visa du lịch đấy à?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Hey, Lara. -Tourist visa?",
+      "vi": "- 37... - Visa du lịch đấy à?"
     }
   },
   {
-    "subtitle": {
-      "time": "50:15",
-      "subtitle": "-No, I'm working. -Lady Croft, tell me,",
-      "translation": "- Không, tôi đi công tác đấy chứ. - Cô Croft...",
-      "machine_translation": ""
+    "translation": {
+      "en": "-No, I'm working. -Lady Croft, tell me,",
+      "vi": "- Không, tôi đi công tác đấy chứ. - Cô Croft..."
     }
   },
   {
-    "subtitle": {
-      "time": "50:18",
-      "subtitle": "is there a good reason why I kept you alive?",
-      "translation": "Có lí do gì khiến tôi nên để cô sống nhỉ? Phải. Vì đó không phải là con mắt thật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "is there a good reason why I kept you alive?",
+      "vi": "Có lí do gì khiến tôi nên để cô sống nhỉ? Phải. Vì đó không phải là con mắt thật."
     }
   },
   {
-    "subtitle": {
-      "time": "50:21",
-      "subtitle": "[Alex continues counting] Yes. That is not the true eye.",
-      "translation": "Phải. Vì đó không phải là con mắt thật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex continues counting] Yes. That is not the true eye.",
+      "vi": "Phải. Vì đó không phải là con mắt thật."
     }
   },
   {
-    "subtitle": {
-      "time": "50:24",
-      "subtitle": "This is the true eye.",
-      "translation": "- Đây là mắt thật. - Không đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is the true eye.",
+      "vi": "- Đây là mắt thật. - Không đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "50:26",
-      "subtitle": "It's not, actually. It's a mirror image.",
-      "translation": "- Đây là mắt thật. - Không đâu. - Là hình tượng trưng thôi - Cô Croft",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's not, actually. It's a mirror image.",
+      "vi": "- Đây là mắt thật. - Không đâu. - Là hình tượng trưng thôi - Cô Croft"
     }
   },
   {
-    "subtitle": {
-      "time": "50:29",
-      "subtitle": "Miss Croft, I think you're trying to cheat me out of my little ray of sunshine.",
-      "translation": "Hình như cô đang tìm cách lừa tôi thì phải.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Miss Croft, I think you're trying to cheat me out of my little ray of sunshine.",
+      "vi": "Hình như cô đang tìm cách lừa tôi thì phải."
     }
   },
   {
-    "subtitle": {
-      "time": "50:32",
-      "subtitle": "Why would I try and cheat you out of anything now?",
-      "translation": "Tôi lừa ông để làm gì?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Why would I try and cheat you out of anything now?",
+      "vi": "Tôi lừa ông để làm gì?"
     }
   },
   {
-    "subtitle": {
-      "time": "50:34",
-      "subtitle": "I need you to get the piece so I can steal it from you later.",
-      "translation": "Tôi rất cần ông lấy nó để tôi còn lấy lại từ ông chứ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I need you to get the piece so I can steal it from you later.",
+      "vi": "Tôi rất cần ông lấy nó để tôi còn lấy lại từ ông chứ."
     }
   },
   {
-    "subtitle": {
-      "time": "50:37",
-      "subtitle": "You're bluffing.",
-      "translation": "Cô nói dối. Julius, hãy ghi nhận nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're bluffing.",
+      "vi": "Cô nói dối. Julius, hãy ghi nhận nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "50:38",
-      "subtitle": "Julius, make a mental note: kill miss Croft if she attempts any such thing.",
-      "translation": "Cô nói dối. Julius, hãy ghi nhận nhé. Phải giết cô Croft ngay, nếu cô ấy cố làm gì đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Julius, make a mental note: kill miss Croft if she attempts any such thing.",
+      "vi": "Cô nói dối. Julius, hãy ghi nhận nhé. Phải giết cô Croft ngay, nếu cô ấy cố làm gì đó."
     }
   },
   {
-    "subtitle": {
-      "time": "50:42",
-      "subtitle": "Yes, sir, Mr. Powell.",
-      "translation": "Rõ, thưa sếp Powell.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, sir, Mr. Powell.",
+      "vi": "Rõ, thưa sếp Powell."
     }
   },
   {
-    "subtitle": {
-      "time": "50:44",
-      "subtitle": "We can do it my way, or we can all come back in time for the next alignment,",
-      "translation": "Có thể làm theo tôi hay là đợi lần sau khi các hành tinh thẳng hàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We can do it my way, or we can all come back in time for the next alignment,",
+      "vi": "Có thể làm theo tôi hay là đợi lần sau khi các hành tinh thẳng hàng."
     }
   },
   {
-    "subtitle": {
-      "time": "50:48",
-      "subtitle": "and you are welcome to try and kill me then.",
-      "translation": "Lúc đó thì tha hồ mà giết tôi nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and you are welcome to try and kill me then.",
+      "vi": "Lúc đó thì tha hồ mà giết tôi nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "50:51",
-      "subtitle": "In, say another 5,000 years.",
-      "translation": "Tận những 5.000 năm nữa đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "In, say another 5,000 years.",
+      "vi": "Tận những 5.000 năm nữa đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "50:58",
-      "subtitle": "12... 11...",
-      "translation": "12, 11...",
-      "machine_translation": ""
+    "translation": {
+      "en": "12... 11...",
+      "vi": "12, 11..."
     }
   },
   {
-    "subtitle": {
-      "time": "51:02",
-      "subtitle": "Ten... Nine... Eight...",
-      "translation": "mười... chín, tám...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Ten... Nine... Eight...",
+      "vi": "mười... chín, tám..."
     }
   },
   {
-    "subtitle": {
-      "time": "51:07",
-      "subtitle": "Seven... Six... Five...",
-      "translation": "bảy, sáu, năm...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Seven... Six... Five...",
+      "vi": "bảy, sáu, năm..."
     }
   },
   {
-    "subtitle": {
-      "time": "51:12",
-      "subtitle": "Four... Three...",
-      "translation": "bốn, ba...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Four... Three...",
+      "vi": "bốn, ba..."
     }
   },
   {
-    "subtitle": {
-      "time": "51:17",
-      "subtitle": "Two... One...",
-      "translation": "hai một...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Two... One...",
+      "vi": "hai một..."
     }
   },
   {
-    "subtitle": {
-      "time": "51:22",
-      "subtitle": "Zero.",
-      "translation": "số không.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Zero.",
+      "vi": "số không."
     }
   },
   {
-    "subtitle": {
-      "time": "51:28",
-      "subtitle": "Well, I guess she was right.",
-      "translation": "Tôi nghĩ cô ấy nói đúng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, I guess she was right.",
+      "vi": "Tôi nghĩ cô ấy nói đúng."
     }
   },
   {
-    "subtitle": {
-      "time": "51:40",
-      "subtitle": "The log must pierce the urn.",
-      "translation": "Khúc gỗ phải đập vỡ lư nước.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The log must pierce the urn.",
+      "vi": "Khúc gỗ phải đập vỡ lư nước."
     }
   },
   {
-    "subtitle": {
-      "time": "51:47",
-      "subtitle": "Come on!",
-      "translation": "Nhanh nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come on!",
+      "vi": "Nhanh nào."
     }
   },
   {
-    "subtitle": {
-      "time": "51:51",
-      "subtitle": "[Alex] It's slowing down. It's never gonna make it.",
-      "translation": "Nó chậm lại rồi. Nó sẽ không thể làm được.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Alex] It's slowing down. It's never gonna make it.",
+      "vi": "Nó chậm lại rồi. Nó sẽ không thể làm được."
     }
   },
   {
-    "subtitle": {
-      "time": "52:44",
-      "subtitle": "Pure light, fire and water.",
-      "translation": "Ánh sáng, lửa và nước nguyên chất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Pure light, fire and water.",
+      "vi": "Ánh sáng, lửa và nước nguyên chất."
     }
   },
   {
-    "subtitle": {
-      "time": "54:18",
-      "subtitle": "-Get the clock. -Got it.",
-      "translation": "Lấy đồng hồ đi. Xong ngay.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Get the clock. -Got it.",
+      "vi": "Lấy đồng hồ đi. Xong ngay."
     }
   },
   {
-    "subtitle": {
-      "time": "59:21",
-      "subtitle": "-[Alex] Hold it right there! -[gun cocks]",
-      "translation": "Đứng yên đó!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Alex] Hold it right there! -[gun cocks]",
+      "vi": "Đứng yên đó!"
     }
   },
   {
-    "subtitle": {
-      "time": "59:25",
-      "subtitle": "Lara, give it up.",
-      "translation": "Đưa nó đây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, give it up.",
+      "vi": "Đưa nó đây."
     }
   },
   {
-    "subtitle": {
-      "time": "59:30",
-      "subtitle": "Are you going to shoot me, Alex?",
-      "translation": "Anh định bắn tôi à, Alex?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Are you going to shoot me, Alex?",
+      "vi": "Anh định bắn tôi à, Alex?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:31",
-      "subtitle": "My phone is wet.",
-      "translation": "Điện thoại tôi ướt mất rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "My phone is wet.",
+      "vi": "Điện thoại tôi ướt mất rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:42",
-      "subtitle": "[Cell phone ringing] Yes? Lady Croft. How are you?",
-      "translation": "Vâng? - Cô Croft, cô thế nào rồi?",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Cell phone ringing] Yes? Lady Croft. How are you?",
+      "vi": "Vâng? - Cô Croft, cô thế nào rồi?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:48",
-      "subtitle": "-Alive. -And kicking, I hope.",
-      "translation": "Vẫn sống. Và khỏe, tôi mong là thế.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Alive. -And kicking, I hope.",
+      "vi": "Vẫn sống. Và khỏe, tôi mong là thế."
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:51",
-      "subtitle": "-And you? -Superlative.",
-      "translation": "- Phải, còn ông? - Cực đỉnh. Mà hơi lạc đề rồi đấy. Cô đang giữ nửa miếng tam giác của tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-And you? -Superlative.",
+      "vi": "- Phải, còn ông? - Cực đỉnh. Mà hơi lạc đề rồi đấy. Cô đang giữ nửa miếng tam giác của tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:54",
-      "subtitle": "Of course, I digress. You have my half of the triangle.",
-      "translation": "Mà hơi lạc đề rồi đấy. Cô đang giữ nửa miếng tam giác của tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Of course, I digress. You have my half of the triangle.",
+      "vi": "Mà hơi lạc đề rồi đấy. Cô đang giữ nửa miếng tam giác của tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:00:57",
-      "subtitle": "And you have my father's clock.",
-      "translation": "Còn ông lại giữ chiếc đồng hồ của cha tôi. Nghe này, cô gái. Có vật này nhưng thiếu vật kia thì cũng vô dụng thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And you have my father's clock.",
+      "vi": "Còn ông lại giữ chiếc đồng hồ của cha tôi. Nghe này, cô gái. Có vật này nhưng thiếu vật kia thì cũng vô dụng thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:00",
-      "subtitle": "Listen, my dear. Without each other we are quite useless at this point.",
-      "translation": "Nghe này, cô gái. Có vật này nhưng thiếu vật kia thì cũng vô dụng thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Listen, my dear. Without each other we are quite useless at this point.",
+      "vi": "Nghe này, cô gái. Có vật này nhưng thiếu vật kia thì cũng vô dụng thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:03",
-      "subtitle": "We should reevaluate our positions.",
-      "translation": "Ta nên đánh giá lại vị trí của mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We should reevaluate our positions.",
+      "vi": "Ta nên đánh giá lại vị trí của mình."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:05",
-      "subtitle": "Like it or not, you and I are in business together.",
-      "translation": "Có muốn hay không, cô và tôi cùng chung mục đích.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Like it or not, you and I are in business together.",
+      "vi": "Có muốn hay không, cô và tôi cùng chung mục đích."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:08",
-      "subtitle": "We should have a business meeting.",
-      "translation": "Chúng ta nên gặp nhau để nói chuyện. Ông muốn có cơ hội khác để thủ tiêu tôi thì có.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We should have a business meeting.",
+      "vi": "Chúng ta nên gặp nhau để nói chuyện. Ông muốn có cơ hội khác để thủ tiêu tôi thì có."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:10",
-      "subtitle": "You mean you'd love to have another opportunity to try and kill me.",
-      "translation": "Ông muốn có cơ hội khác để thủ tiêu tôi thì có.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You mean you'd love to have another opportunity to try and kill me.",
+      "vi": "Ông muốn có cơ hội khác để thủ tiêu tôi thì có."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:14",
-      "subtitle": "Oh, that's harsh.",
-      "translation": "Quá lời rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, that's harsh.",
+      "vi": "Quá lời rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:17",
-      "subtitle": "But perhaps. Wait and see.",
-      "translation": "Nhưng biết đâu đấy, cô cứ chờ xem.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But perhaps. Wait and see.",
+      "vi": "Nhưng biết đâu đấy, cô cứ chờ xem."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:20",
-      "subtitle": "Come to Venice, via Dolorosa.",
-      "translation": "Hãy đến Venice đường Dolorosa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come to Venice, via Dolorosa.",
+      "vi": "Hãy đến Venice đường Dolorosa."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:24",
-      "subtitle": "Wonderful. Bye then.",
-      "translation": "Hay đấy. Tạm biệt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Wonderful. Bye then.",
+      "vi": "Hay đấy. Tạm biệt."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:30",
-      "subtitle": "Harder.",
-      "translation": "Mạnh hơn đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Harder.",
+      "vi": "Mạnh hơn đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:35",
-      "subtitle": "[Voice on tv] Here it comes. Hide, everybody.",
-      "translation": "Nó đến đấy. Trốn đi, mọi người. Coi chưng. Hình như nó loại máy gì đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Voice on tv] Here it comes. Hide, everybody.",
+      "vi": "Nó đến đấy. Trốn đi, mọi người. Coi chưng. Hình như nó loại máy gì đó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:38",
-      "subtitle": "Look out. It's some sort of machine. [Phone rings]",
-      "translation": "Coi chưng. Hình như nó loại máy gì đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Look out. It's some sort of machine. [Phone rings]",
+      "vi": "Coi chưng. Hình như nó loại máy gì đó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:42",
-      "subtitle": "-[Lara] Bryce? Bryce, it's me. -Hello?",
-      "translation": "- Bryce, tôi đây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Lara] Bryce? Bryce, it's me. -Hello?",
+      "vi": "- Bryce, tôi đây."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:44",
-      "subtitle": "[Tv mutes] Bryce, it's Lara.",
-      "translation": "- Alô? - Bryce, Lara đây. Tôi đã tìm ra ngôi đền.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Tv mutes] Bryce, it's Lara.",
+      "vi": "- Alô? - Bryce, Lara đây. Tôi đã tìm ra ngôi đền."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:47",
-      "subtitle": "-I found the temple. Ran into Mr. Powell. -[sighs]",
-      "translation": "- Alô? - Bryce, Lara đây. Tôi đã tìm ra ngôi đền. - Chạm trán với lão Powell. - Cô đã lấy lại được đồng hồ chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-I found the temple. Ran into Mr. Powell. -[sighs]",
+      "vi": "- Alô? - Bryce, Lara đây. Tôi đã tìm ra ngôi đền. - Chạm trán với lão Powell. - Cô đã lấy lại được đồng hồ chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:50",
-      "subtitle": "-Did you get the clock. -No, but I got the first piece.",
-      "translation": "- Chạm trán với lão Powell. - Cô đã lấy lại được đồng hồ chưa? Chưa. Nhưng tôi có mảnh thứ nhất rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Did you get the clock. -No, but I got the first piece.",
+      "vi": "- Chạm trán với lão Powell. - Cô đã lấy lại được đồng hồ chưa? Chưa. Nhưng tôi có mảnh thứ nhất rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:53",
-      "subtitle": "Oh, beautiful, smashing.",
-      "translation": "Oh, tuyệt vời, hết ý.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, beautiful, smashing.",
+      "vi": "Oh, tuyệt vời, hết ý."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:56",
-      "subtitle": "-Seems I'm level pegging with Mr. Powell. -Well,",
-      "translation": "Dường như tôi cũng ngang ngữa với lão Powell.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Seems I'm level pegging with Mr. Powell. -Well,",
+      "vi": "Dường như tôi cũng ngang ngữa với lão Powell."
     }
   },
   {
-    "subtitle": {
-      "time": "1:01:58",
-      "subtitle": "-won't he just want to kill you now? -No, silly.",
-      "translation": "Cẩn thận, hắn giết cô mất? Không đâu, ngốc à.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-won't he just want to kill you now? -No, silly.",
+      "vi": "Cẩn thận, hắn giết cô mất? Không đâu, ngốc à."
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:01",
-      "subtitle": "His problem is that he needs the piece that I have.",
-      "translation": "Vấn đề là hắn cần mảnh tam giác tôi đang giữ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "His problem is that he needs the piece that I have.",
+      "vi": "Vấn đề là hắn cần mảnh tam giác tôi đang giữ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:04",
-      "subtitle": "-Until then, I'm his new best friend. -What about the other half?",
-      "translation": "Từ giờ đến lúc đó, tôi là bạn thân nhất của hắn. Thế còn mảnh kia? Lần thẳng hàng cuối cùng",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Until then, I'm his new best friend. -What about the other half?",
+      "vi": "Từ giờ đến lúc đó, tôi là bạn thân nhất của hắn. Thế còn mảnh kia? Lần thẳng hàng cuối cùng"
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:08",
-      "subtitle": "The final alignment is in 66 hours and 53 minutes,",
-      "translation": "Thế còn mảnh kia? Lần thẳng hàng cuối cùng là trong 66 giờ và 53 phút tới, chúng ta vẫn chưa biết được",
-      "machine_translation": ""
+    "translation": {
+      "en": "The final alignment is in 66 hours and 53 minutes,",
+      "vi": "Thế còn mảnh kia? Lần thẳng hàng cuối cùng là trong 66 giờ và 53 phút tới, chúng ta vẫn chưa biết được"
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:12",
-      "subtitle": "And we've still got no idea where the second piece is hidden.",
-      "translation": "mảnh thứ hai được giấu ở đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And we've still got no idea where the second piece is hidden.",
+      "vi": "mảnh thứ hai được giấu ở đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:16",
-      "subtitle": "He's going to tell me where the second piece is.",
-      "translation": "Hắn sẽ cho ta biết nó ở đâu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He's going to tell me where the second piece is.",
+      "vi": "Hắn sẽ cho ta biết nó ở đâu."
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:18",
-      "subtitle": "-He will? -Bryce, trust me. Pack for venice.",
-      "translation": "- Thật à? - Tin tôi đi. Chuẩn bị đi Venice thôi. Đi đâu cơ? Alô? Lara?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-He will? -Bryce, trust me. Pack for venice.",
+      "vi": "- Thật à? - Tin tôi đi. Chuẩn bị đi Venice thôi. Đi đâu cơ? Alô? Lara?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:22",
-      "subtitle": "Pack for where? Hello? Lara?",
-      "translation": "Đi đâu cơ? Alô? Lara?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Pack for where? Hello? Lara?",
+      "vi": "Đi đâu cơ? Alô? Lara?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:27",
-      "subtitle": "[scoffs] Bye then.",
-      "translation": "Tạm biệt vậy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[scoffs] Bye then.",
+      "vi": "Tạm biệt vậy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:02:58",
-      "subtitle": "Drink.",
-      "translation": "Uống đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Drink.",
+      "vi": "Uống đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:03",
-      "subtitle": "Rest.",
-      "translation": "Rồi nghỉ ngơi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Rest.",
+      "vi": "Rồi nghỉ ngơi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:06",
-      "subtitle": "There's no rest for the wicked.",
-      "translation": "Kẻ ác thì có bao giờ nghỉ đâu ạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "There's no rest for the wicked.",
+      "vi": "Kẻ ác thì có bao giờ nghỉ đâu ạ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:09",
-      "subtitle": "You got what you came for?",
-      "translation": "Cô đã có thứ cô cần chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "You got what you came for?",
+      "vi": "Cô đã có thứ cô cần chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:12",
-      "subtitle": "-I did, yes. -Too bad.",
-      "translation": "- Rồi ạ. - Quá tệ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-I did, yes. -Too bad.",
+      "vi": "- Rồi ạ. - Quá tệ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:15",
-      "subtitle": "-Bad for the world. -The world is safe now.",
-      "translation": "Quá tệ cho cả thế giới này. Cả thế giới sẽ được an toàn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Bad for the world. -The world is safe now.",
+      "vi": "Quá tệ cho cả thế giới này. Cả thế giới sẽ được an toàn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:19",
-      "subtitle": "Little bit safer, perhaps,",
-      "translation": "An toàn hơn một chút...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Little bit safer, perhaps,",
+      "vi": "An toàn hơn một chút..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:22",
-      "subtitle": "Because you will go on.",
-      "translation": "bởi vì cô sẽ tiếp tục tiến lên.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Because you will go on.",
+      "vi": "bởi vì cô sẽ tiếp tục tiến lên."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:25",
-      "subtitle": "Your father said you will never give up.",
-      "translation": "Cha cô nói cô không bao giờ chịu đầu hàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Your father said you will never give up.",
+      "vi": "Cha cô nói cô không bao giờ chịu đầu hàng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:28",
-      "subtitle": "My father? You knew my father?",
-      "translation": "Cha tôi? Thầy biết ông sao?",
-      "machine_translation": ""
+    "translation": {
+      "en": "My father? You knew my father?",
+      "vi": "Cha tôi? Thầy biết ông sao?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:32",
-      "subtitle": "Now, drink. Finish your tea.",
-      "translation": "Giờ hãy uống đi. Uống hết cốc trà đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Now, drink. Finish your tea.",
+      "vi": "Giờ hãy uống đi. Uống hết cốc trà đó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:38",
-      "subtitle": "-It tastes quite bad, -[laughs]",
-      "translation": "Mùi vị thì không ngon, nhưng thuốc đắng dã tật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-It tastes quite bad, -[laughs]",
+      "vi": "Mùi vị thì không ngon, nhưng thuốc đắng dã tật."
     }
   },
   {
-    "subtitle": {
-      "time": "1:03:40",
-      "subtitle": "but it is good for you, see?",
-      "translation": "Mùi vị thì không ngon, nhưng thuốc đắng dã tật. Thấy chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "but it is good for you, see?",
+      "vi": "Mùi vị thì không ngon, nhưng thuốc đắng dã tật. Thấy chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:24",
-      "subtitle": "Good evening.",
-      "translation": "Xin chào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Good evening.",
+      "vi": "Xin chào."
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:29",
-      "subtitle": "You're with the Illuminati.",
-      "translation": "Ông ở trong hội Illuminati",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're with the Illuminati.",
+      "vi": "Ông ở trong hội Illuminati"
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:34",
-      "subtitle": "Beg your pardon? There's no such thing. It's just a bedtime story.",
-      "translation": "Sao cơ? Làm gì có thứ đó. Chỉ là chuyện hoang đường thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Beg your pardon? There's no such thing. It's just a bedtime story.",
+      "vi": "Sao cơ? Làm gì có thứ đó. Chỉ là chuyện hoang đường thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:46",
-      "subtitle": "Illuminati.",
-      "translation": "Illuminati.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Illuminati.",
+      "vi": "Illuminati."
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:49",
-      "subtitle": "The people of the light.",
-      "translation": "Những cư dân của ánh sáng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The people of the light.",
+      "vi": "Những cư dân của ánh sáng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:54",
-      "subtitle": "Have you brought my triangle?",
-      "translation": "Cô có mang theo mảnh tam giác đó không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Have you brought my triangle?",
+      "vi": "Cô có mang theo mảnh tam giác đó không?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:04:56",
-      "subtitle": "No, of course you haven't. You've hidden it somewhere.",
-      "translation": "Dĩ nhiên là không. Chắc chắn cô đã giấu nó ở đâu rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No, of course you haven't. You've hidden it somewhere.",
+      "vi": "Dĩ nhiên là không. Chắc chắn cô đã giấu nó ở đâu rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:01",
-      "subtitle": "Well, you can keep the triangle you have,",
-      "translation": "Cô có thể giữ mảnh tam giác đó",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, you can keep the triangle you have,",
+      "vi": "Cô có thể giữ mảnh tam giác đó"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:05",
-      "subtitle": "and I will keep your father's clock, and we can be partners.",
-      "translation": "và tôi giữ chiếc đồng hồ của bố cô và chúng ta hợp tác với nhau.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and I will keep your father's clock, and we can be partners.",
+      "vi": "và tôi giữ chiếc đồng hồ của bố cô và chúng ta hợp tác với nhau."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:08",
-      "subtitle": "Who sits here?",
-      "translation": "Ai ngồi ở đây?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Who sits here?",
+      "vi": "Ai ngồi ở đây?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:12",
-      "subtitle": "We can be partners and go for the big prize--",
-      "translation": "Chúng ta có thể hợp tác để đạt được mục đích cuối cùng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We can be partners and go for the big prize--",
+      "vi": "Chúng ta có thể hợp tác để đạt được mục đích cuối cùng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:15",
-      "subtitle": "The triangle of light.",
-      "translation": "Tam Giác Ánh Sáng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The triangle of light.",
+      "vi": "Tam Giác Ánh Sáng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:17",
-      "subtitle": "Yes, but who sits here?",
-      "translation": "Rồi, nhưng ai ngồi ở đây?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes, but who sits here?",
+      "vi": "Rồi, nhưng ai ngồi ở đây?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:21",
-      "subtitle": "It's an incredible dream, an awesome power.",
-      "translation": "Thật là một giấc mơ khó tin, một quyền lực vô song.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's an incredible dream, an awesome power.",
+      "vi": "Thật là một giấc mơ khó tin, một quyền lực vô song."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:25",
-      "subtitle": "It could set right so many wrongs.",
-      "translation": "Nó có thể sửa đổi bao nhiêu điều sai lầm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It could set right so many wrongs.",
+      "vi": "Nó có thể sửa đổi bao nhiêu điều sai lầm."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:29",
-      "subtitle": "I don't think you sit here, do you?",
-      "translation": "Ông không ngồi ở đây phải không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "I don't think you sit here, do you?",
+      "vi": "Ông không ngồi ở đây phải không?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:42",
-      "subtitle": "I sit here,",
-      "translation": "Tôi ngồi đây...",
-      "machine_translation": ""
+    "translation": {
+      "en": "I sit here,",
+      "vi": "Tôi ngồi đây..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:45",
-      "subtitle": "on God's right hand, as it were.",
-      "translation": "phía bên tay phải Chúa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "on God's right hand, as it were.",
+      "vi": "phía bên tay phải Chúa."
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:50",
-      "subtitle": "In fact, I now sit...",
-      "translation": "Thật ra, tôi đang ngồi đúng chỗ bố cô đã ngồi ngày xưa",
-      "machine_translation": ""
+    "translation": {
+      "en": "In fact, I now sit...",
+      "vi": "Thật ra, tôi đang ngồi đúng chỗ bố cô đã ngồi ngày xưa"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:52",
-      "subtitle": "exactly where your father sat.",
-      "translation": "tôi đang ngồi đúng chỗ bố cô đã ngồi ngày xưa",
-      "machine_translation": ""
+    "translation": {
+      "en": "exactly where your father sat.",
+      "vi": "tôi đang ngồi đúng chỗ bố cô đã ngồi ngày xưa"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05:59",
-      "subtitle": "You're lying.",
-      "translation": "Ông nói dối.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're lying.",
+      "vi": "Ông nói dối."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:01",
-      "subtitle": "No. No, he mentored me in the order.",
-      "translation": "Không, chính ông ấy đã dạy dỗ tôi trong hội.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No. No, he mentored me in the order.",
+      "vi": "Không, chính ông ấy đã dạy dỗ tôi trong hội."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:08",
-      "subtitle": "It was truly an honor.",
-      "translation": "Quả là một vinh dự.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It was truly an honor.",
+      "vi": "Quả là một vinh dự."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:10",
-      "subtitle": "I don't believe you.",
-      "translation": "Tôi không tin ông.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I don't believe you.",
+      "vi": "Tôi không tin ông."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:14",
-      "subtitle": "My father was not with the Illuminati. He would have told me.",
-      "translation": "Cha tôi không ở trong hội Illuminati. - Nếu thế ông ấy đã nói tôi. - Cha cô có rất nhiều bí mật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "My father was not with the Illuminati. He would have told me.",
+      "vi": "Cha tôi không ở trong hội Illuminati. - Nếu thế ông ấy đã nói tôi. - Cha cô có rất nhiều bí mật."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:17",
-      "subtitle": "He had a great many secrets.",
-      "translation": "- Nếu thế ông ấy đã nói tôi. - Cha cô có rất nhiều bí mật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He had a great many secrets.",
+      "vi": "- Nếu thế ông ấy đã nói tôi. - Cha cô có rất nhiều bí mật."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:22",
-      "subtitle": "Not from me.",
-      "translation": "Không phải với tôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Not from me.",
+      "vi": "Không phải với tôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:24",
-      "subtitle": "Especially from you.",
-      "translation": "Nhất là đối với cô.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Especially from you.",
+      "vi": "Nhất là đối với cô."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:31",
-      "subtitle": "-I know what you want, Lara. -Oh, I doubt it.",
-      "translation": "Tôi biết cô muốn gì, Lara. Oh, tôi không nghĩ thế.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-I know what you want, Lara. -Oh, I doubt it.",
+      "vi": "Tôi biết cô muốn gì, Lara. Oh, tôi không nghĩ thế."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:45",
-      "subtitle": "Another life with your father,",
-      "translation": "Một cuộc đời khác với cha cô.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Another life with your father,",
+      "vi": "Một cuộc đời khác với cha cô."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:48",
-      "subtitle": "a second chance.",
-      "translation": "cơ hội thứ hai.",
-      "machine_translation": ""
+    "translation": {
+      "en": "a second chance.",
+      "vi": "cơ hội thứ hai."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:51",
-      "subtitle": "It'll be within my power to give.",
-      "translation": "Tôi sẽ làm được việc ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It'll be within my power to give.",
+      "vi": "Tôi sẽ làm được việc ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:55",
-      "subtitle": "The triangle gives its possessor...",
-      "translation": "Vì Tam Giác Thần cho ai sở hữu nó",
-      "machine_translation": ""
+    "translation": {
+      "en": "The triangle gives its possessor...",
+      "vi": "Vì Tam Giác Thần cho ai sở hữu nó"
     }
   },
   {
-    "subtitle": {
-      "time": "1:06:58",
-      "subtitle": "The power of God--",
-      "translation": "quyền năng của Chúa trời...",
-      "machine_translation": ""
+    "translation": {
+      "en": "The power of God--",
+      "vi": "quyền năng của Chúa trời..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:01",
-      "subtitle": "To move back and forth through time, undo the past.",
-      "translation": "đi ngược lại thời gian, sửa lại quá khứ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "To move back and forth through time, undo the past.",
+      "vi": "đi ngược lại thời gian, sửa lại quá khứ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:06",
-      "subtitle": "Help me, and you will get what I know you want--",
-      "translation": "Giúp tôi và cô sẽ có được điều mà cô muốn,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Help me, and you will get what I know you want--",
+      "vi": "Giúp tôi và cô sẽ có được điều mà cô muốn,"
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:11",
-      "subtitle": "To have your father returned to you.",
-      "translation": "để cha cô trở về với cô.",
-      "machine_translation": ""
+    "translation": {
+      "en": "To have your father returned to you.",
+      "vi": "để cha cô trở về với cô."
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:17",
-      "subtitle": "And how do I know once I gave you that piece...",
-      "translation": "Làm sao tôi biết được nếu tôi đưa mảnh đó cho ông,",
-      "machine_translation": ""
+    "translation": {
+      "en": "And how do I know once I gave you that piece...",
+      "vi": "Làm sao tôi biết được nếu tôi đưa mảnh đó cho ông,"
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:21",
-      "subtitle": "that you wouldn't then just try to kill me?",
-      "translation": "ông lại giết luôn tôi thì sao?",
-      "machine_translation": ""
+    "translation": {
+      "en": "that you wouldn't then just try to kill me?",
+      "vi": "ông lại giết luôn tôi thì sao?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:26",
-      "subtitle": "Would it make it easier for you--",
-      "translation": "Có dễ hơn cho cô không...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Would it make it easier for you--",
+      "vi": "Có dễ hơn cho cô không..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:30",
-      "subtitle": "On more familiar ground-- if I killed you now?",
-      "translation": "ở một lĩnh vực quen thuộc hơn, nếu tôi giết cô ngay luôn?",
-      "machine_translation": ""
+    "translation": {
+      "en": "On more familiar ground-- if I killed you now?",
+      "vi": "ở một lĩnh vực quen thuộc hơn, nếu tôi giết cô ngay luôn?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:07:36",
-      "subtitle": "Will you reconsider?",
-      "translation": "Cô sẽ xem xét lại chứ?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Will you reconsider?",
+      "vi": "Cô sẽ xem xét lại chứ?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:38",
-      "subtitle": "Hello, Alex.",
-      "translation": "- Chào, Alex. - Chắc em nghĩ",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hello, Alex.",
+      "vi": "- Chào, Alex. - Chắc em nghĩ"
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:40",
-      "subtitle": "I suppose you think I'm a greedy, unscrupulous sellout...",
-      "translation": "- Chào, Alex. - Chắc em nghĩ anh chỉ là kẻ tham lam, vô đạo đức,",
-      "machine_translation": ""
+    "translation": {
+      "en": "I suppose you think I'm a greedy, unscrupulous sellout...",
+      "vi": "- Chào, Alex. - Chắc em nghĩ anh chỉ là kẻ tham lam, vô đạo đức,"
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:43",
-      "subtitle": "And do just about anything for money. Yes, that's right.",
-      "translation": "- bán rẻ mọi thứ chỉ vì tiền? - Đúng vậy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And do just about anything for money. Yes, that's right.",
+      "vi": "- bán rẻ mọi thứ chỉ vì tiền? - Đúng vậy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:48",
-      "subtitle": "Well, the money bit's true, I guess.",
-      "translation": "- À, phần tiền thì đúng thật.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, the money bit's true, I guess.",
+      "vi": "- À, phần tiền thì đúng thật."
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:54",
-      "subtitle": "Is it, Alex?",
-      "translation": "Thế sao, Alex?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Is it, Alex?",
+      "vi": "Thế sao, Alex?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:08:57",
-      "subtitle": "If you cross me, we may not be able to remain friends.",
-      "translation": "Nếu anh phản tôi, chưa chắc chúng ta có thể tiếp tục làm bạn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "If you cross me, we may not be able to remain friends.",
+      "vi": "Nếu anh phản tôi, chưa chắc chúng ta có thể tiếp tục làm bạn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:06",
-      "subtitle": "-Always a pleasure. -[sighs]",
-      "translation": "Tôi rất sẵn lòng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Always a pleasure. -[sighs]",
+      "vi": "Tôi rất sẵn lòng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:11",
-      "subtitle": "Now for a cold shower.",
-      "translation": "Giờ tắm cái cho mát.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Now for a cold shower.",
+      "vi": "Giờ tắm cái cho mát."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:14",
-      "subtitle": "-[Pimms] I think we're in big trouble. -Hold this, will you?",
-      "translation": "Chúng ta có chuyện lớn rồi đây. - Giữ hộ tôi cái này? - Cám ơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[Pimms] I think we're in big trouble. -Hold this, will you?",
+      "vi": "Chúng ta có chuyện lớn rồi đây. - Giữ hộ tôi cái này? - Cám ơn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:17",
-      "subtitle": "Thank you. They already think we have Lady Croft's piece of the triangle.",
-      "translation": "Họ nghĩ rằng chúng ta đã có mảnh tam giác của cô Croft.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Thank you. They already think we have Lady Croft's piece of the triangle.",
+      "vi": "Họ nghĩ rằng chúng ta đã có mảnh tam giác của cô Croft."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:21",
-      "subtitle": "Yes. They think it's in that box you're carrying right now.",
-      "translation": "Đúng vậy. Họ nghĩ nó ở trong cái hộp mà cậu đang cầm kia kìa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Yes. They think it's in that box you're carrying right now.",
+      "vi": "Đúng vậy. Họ nghĩ nó ở trong cái hộp mà cậu đang cầm kia kìa."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:25",
-      "subtitle": "-Is it? -Why don't you worry about something else?",
-      "translation": "Có không? Sao cậu không lo việc gì khác đi?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Is it? -Why don't you worry about something else?",
+      "vi": "Có không? Sao cậu không lo việc gì khác đi?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:28",
-      "subtitle": "Of course it's not.",
-      "translation": "Tất nhiên là không có rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Of course it's not.",
+      "vi": "Tất nhiên là không có rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:31",
-      "subtitle": "I don't understand. What chance of success do we have without the piece?",
-      "translation": "Tôi không hiểu. Cơ hội thành công là bao nhiêu nếu ta không có mảnh ghép.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I don't understand. What chance of success do we have without the piece?",
+      "vi": "Tôi không hiểu. Cơ hội thành công là bao nhiêu nếu ta không có mảnh ghép."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:35",
-      "subtitle": "Zero. Don't dwell on it.",
-      "translation": "Số không. Đừng nghĩ đến nó nữa. Nhưng...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Zero. Don't dwell on it.",
+      "vi": "Số không. Đừng nghĩ đến nó nữa. Nhưng..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:42",
-      "subtitle": "Lady Croft.",
-      "translation": "Cô Croft.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lady Croft.",
+      "vi": "Cô Croft."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:46",
-      "subtitle": "What a nice surprise.",
-      "translation": "Quả là ngạc nhiên thú vị.",
-      "machine_translation": ""
+    "translation": {
+      "en": "What a nice surprise.",
+      "vi": "Quả là ngạc nhiên thú vị."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:50",
-      "subtitle": "Thank you.",
-      "translation": "Cảm ơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Thank you.",
+      "vi": "Cảm ơn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:55",
-      "subtitle": "Now, time to save the universe again then, is it?",
-      "translation": "Lại tới giờ cứu vũ trụ, phải không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Now, time to save the universe again then, is it?",
+      "vi": "Lại tới giờ cứu vũ trụ, phải không?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:09:58",
-      "subtitle": "Absolutely.",
-      "translation": "Chứ sao nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Absolutely.",
+      "vi": "Chứ sao nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "1:10:34",
-      "subtitle": "Are we sure she's really necessary?",
-      "translation": "Có chắc là cần đến cô ta không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Are we sure she's really necessary?",
+      "vi": "Có chắc là cần đến cô ta không?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:10:38",
-      "subtitle": "Well, one tomb raider is good. Two, better.",
-      "translation": "Một tên cướp mộ đã tốt, hai thì càng tốt hơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, one tomb raider is good. Two, better.",
+      "vi": "Một tên cướp mộ đã tốt, hai thì càng tốt hơn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:10:49",
-      "subtitle": "Me bum's gone to sleep again, all down the left cheek.",
-      "translation": "Mông tôi lại tê rồi, hết cả bên trái.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Me bum's gone to sleep again, all down the left cheek.",
+      "vi": "Mông tôi lại tê rồi, hết cả bên trái."
     }
   },
   {
-    "subtitle": {
-      "time": "1:10:53",
-      "subtitle": "Really? That's fascinating.",
-      "translation": "Thật sao? Khá cuốn hút đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Really? That's fascinating.",
+      "vi": "Thật sao? Khá cuốn hút đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:11:02",
-      "subtitle": "-How much longer? -A few hours.",
-      "translation": "- Còn bao lâu nữa? - Vài giờ thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-How much longer? -A few hours.",
+      "vi": "- Còn bao lâu nữa? - Vài giờ thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:11:04",
-      "subtitle": "We have to take the last hour over land. Helicopters won't fly near the ruined city.",
-      "translation": "Giờ cuối cùng phải đi bằng đường bộ. Trực thăng không thể bay gần thành phố cổ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We have to take the last hour over land. Helicopters won't fly near the ruined city.",
+      "vi": "Giờ cuối cùng phải đi bằng đường bộ. Trực thăng không thể bay gần thành phố cổ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:11:11",
-      "subtitle": "It's a dead zone.",
-      "translation": "Đó là vùng đất chết.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's a dead zone.",
+      "vi": "Đó là vùng đất chết."
     }
   },
   {
-    "subtitle": {
-      "time": "1:11:54",
-      "subtitle": "We take all doggies, da",
-      "translation": "Chúng tôi sẽ mua tất cả chó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We take all doggies, da",
+      "vi": "Chúng tôi sẽ mua tất cả chó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:11:58",
-      "subtitle": "Much-o U.S. Greenback, da. All doggies.",
-      "translation": "Trả rất nhiều tiền Mỹ nhé? Lấy hết lũ chó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Much-o U.S. Greenback, da. All doggies.",
+      "vi": "Trả rất nhiều tiền Mỹ nhé? Lấy hết lũ chó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:13:57",
-      "subtitle": "Welcome to the dead zone.",
-      "translation": "Chào mừng đến vùng đất chết.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Welcome to the dead zone.",
+      "vi": "Chào mừng đến vùng đất chết."
     }
   },
   {
-    "subtitle": {
-      "time": "1:14:14",
-      "subtitle": "[grunts] It's not a country. It's an ice cube!",
-      "translation": "Đây không phải một đất nước mà là một cục đá.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[grunts] It's not a country. It's an ice cube!",
+      "vi": "Đây không phải một đất nước mà là một cục đá."
     }
   },
   {
-    "subtitle": {
-      "time": "1:14:19",
-      "subtitle": "Come on!",
-      "translation": "Đi thôi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come on!",
+      "vi": "Đi thôi!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:15:49",
-      "subtitle": "All right. Let's go.",
-      "translation": "Được rồi. Đi thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "All right. Let's go.",
+      "vi": "Được rồi. Đi thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:16:44",
-      "subtitle": "Go on, get it!",
-      "translation": "Đi, đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Go on, get it!",
+      "vi": "Đi, đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:16:54",
-      "subtitle": "Holy shit.",
-      "translation": "Trơi ơi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Holy shit.",
+      "vi": "Trơi ơi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:16:58",
-      "subtitle": "It's a time storm. Time is broken here.",
-      "translation": "Bão thời gian. Thời gian bị đứt đoạn ở đây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's a time storm. Time is broken here.",
+      "vi": "Bão thời gian. Thời gian bị đứt đoạn ở đây."
     }
   },
   {
-    "subtitle": {
-      "time": "1:17:02",
-      "subtitle": "We must find the eye! All of you! Hurry!",
-      "translation": "Chúng ta phải tìm con mắt thần! Tất cả! Nhanh lên!",
-      "machine_translation": ""
+    "translation": {
+      "en": "We must find the eye! All of you! Hurry!",
+      "vi": "Chúng ta phải tìm con mắt thần! Tất cả! Nhanh lên!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:17:06",
-      "subtitle": "We're running out of time! Hurry! Hurry!",
-      "translation": "Chúng ta sắp hết giờ rồi! Nhanh lên! Nhanh lên!",
-      "machine_translation": ""
+    "translation": {
+      "en": "We're running out of time! Hurry! Hurry!",
+      "vi": "Chúng ta sắp hết giờ rồi! Nhanh lên! Nhanh lên!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:17:28",
-      "subtitle": "It's begun.",
-      "translation": "Bắt đầu rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's begun.",
+      "vi": "Bắt đầu rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:17:33",
-      "subtitle": "Fifty bucks says the piece is inside the sun.",
-      "translation": "Cá 50 đô với cô là mảnh kia ở trong mặt trời.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Fifty bucks says the piece is inside the sun.",
+      "vi": "Cá 50 đô với cô là mảnh kia ở trong mặt trời."
     }
   },
   {
-    "subtitle": {
-      "time": "1:18:19",
-      "subtitle": "For God's sake, hurry! The eclipse will be over in a few minutes!",
-      "translation": "Vì Chúa, nhanh lên! Nhật thực sẽ hết trong vài phút nữa thôi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "For God's sake, hurry! The eclipse will be over in a few minutes!",
+      "vi": "Vì Chúa, nhanh lên! Nhật thực sẽ hết trong vài phút nữa thôi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:18:30",
-      "subtitle": "Alex, give me the clock. I know what to do.",
-      "translation": "Alex, đưa cái đồng hồ đây. Tôi biết phải làm gì.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Alex, give me the clock. I know what to do.",
+      "vi": "Alex, đưa cái đồng hồ đây. Tôi biết phải làm gì."
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:27",
-      "subtitle": "-[grunting] -Has she got the piece?",
-      "translation": "Cô ta có mảnh tam giác chưa?",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[grunting] -Has she got the piece?",
+      "vi": "Cô ta có mảnh tam giác chưa?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:40",
-      "subtitle": "We will now unite these two parts--",
-      "translation": "Giờ chúng ta sẽ ráp hai mảnh lại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We will now unite these two parts--",
+      "vi": "Giờ chúng ta sẽ ráp hai mảnh lại."
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:44",
-      "subtitle": "The past and the present.",
-      "translation": "Quá khứ và hiện tại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The past and the present.",
+      "vi": "Quá khứ và hiện tại."
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:49",
-      "subtitle": "At last, we of the Illuminati...",
-      "translation": "Cuồi cùng thì, chúng ta người của hội Illuminati",
-      "machine_translation": ""
+    "translation": {
+      "en": "At last, we of the Illuminati...",
+      "vi": "Cuồi cùng thì, chúng ta người của hội Illuminati"
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:52",
-      "subtitle": "Will control time and fulfill the sacred promise to our ancestors.",
-      "translation": "sẽ chế ngự được thời gian và thực hiện lời thề xưa với tổ tiên.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Will control time and fulfill the sacred promise to our ancestors.",
+      "vi": "sẽ chế ngự được thời gian và thực hiện lời thề xưa với tổ tiên."
     }
   },
   {
-    "subtitle": {
-      "time": "1:19:58",
-      "subtitle": "-Soon, the entire world will bow-- -Enough of this twaddle.",
-      "translation": "- Chẳng mấy chốc cả thế giới sẽ quỳ... - Nói lăng nhăng thế đủ rồi đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Soon, the entire world will bow-- -Enough of this twaddle.",
+      "vi": "- Chẳng mấy chốc cả thế giới sẽ quỳ... - Nói lăng nhăng thế đủ rồi đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:07",
-      "subtitle": "Come on! Come on!",
-      "translation": "Đi nào! Đi nào!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Come on! Come on!",
+      "vi": "Đi nào! Đi nào!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:36",
-      "subtitle": "Not quite what you hoped for, Mr. Powell?",
-      "translation": "Không phải điều ông mong đợi phải không ông Powell?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Not quite what you hoped for, Mr. Powell?",
+      "vi": "Không phải điều ông mong đợi phải không ông Powell?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:43",
-      "subtitle": "Oh, Lara,",
-      "translation": "Lara...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, Lara,",
+      "vi": "Lara..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:46",
-      "subtitle": "I have a gut instinct about this.",
-      "translation": "tôi đã linh cảm về chuyện này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I have a gut instinct about this.",
+      "vi": "tôi đã linh cảm về chuyện này."
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:50",
-      "subtitle": "After all, you are the daughter of a genius.",
-      "translation": "Dù sao cô cũng là con gái của một thiên tài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "After all, you are the daughter of a genius.",
+      "vi": "Dù sao cô cũng là con gái của một thiên tài."
     }
   },
   {
-    "subtitle": {
-      "time": "1:20:53",
-      "subtitle": "Let me test my theory.",
-      "translation": "Hãy để tôi kiểm tra giả thuyết của mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Let me test my theory.",
+      "vi": "Hãy để tôi kiểm tra giả thuyết của mình."
     }
   },
   {
-    "subtitle": {
-      "time": "1:21:46",
-      "subtitle": "You had to let him go. No more bubbles.",
-      "translation": "Buông anh ta ra đi. Làm gì còn bong bóng nữa",
-      "machine_translation": ""
+    "translation": {
+      "en": "You had to let him go. No more bubbles.",
+      "vi": "Buông anh ta ra đi. Làm gì còn bong bóng nữa"
     }
   },
   {
-    "subtitle": {
-      "time": "1:21:51",
-      "subtitle": "You show me how to complete the triangle, we can change his fate.",
-      "translation": "Hãy chỉ cho tôi cách hoàn thiện Tam Giác Thần... và chúng ta có thể thay đổi số phận anh ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You show me how to complete the triangle, we can change his fate.",
+      "vi": "Hãy chỉ cho tôi cách hoàn thiện Tam Giác Thần... và chúng ta có thể thay đổi số phận anh ta."
     }
   },
   {
-    "subtitle": {
-      "time": "1:21:57",
-      "subtitle": "If you deliver me the power of god, I will spare him.",
-      "translation": "Hãy trao cho tôi quyền năng của Chúa tôi sẽ tha mạng cho anh ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "If you deliver me the power of god, I will spare him.",
+      "vi": "Hãy trao cho tôi quyền năng của Chúa tôi sẽ tha mạng cho anh ta."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:01",
-      "subtitle": "It's only a little trip back in time.",
-      "translation": "Chỉ là chuyến du lịch ngược thời gian ngắn ngủi. Tôi chắc chắn rằng cô đã tìm ra câu trả lời cho vấn đề này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's only a little trip back in time.",
+      "vi": "Chỉ là chuyến du lịch ngược thời gian ngắn ngủi. Tôi chắc chắn rằng cô đã tìm ra câu trả lời cho vấn đề này."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:04",
-      "subtitle": "But I'm pretty sure you've figured out the answer to the problem.",
-      "translation": "Tôi chắc chắn rằng cô đã tìm ra câu trả lời cho vấn đề này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But I'm pretty sure you've figured out the answer to the problem.",
+      "vi": "Tôi chắc chắn rằng cô đã tìm ra câu trả lời cho vấn đề này."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:10",
-      "subtitle": "And then, of course, there's the loss of your father.",
-      "translation": "Và dĩ nhiên rồi, còn cái chết của cha cô nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And then, of course, there's the loss of your father.",
+      "vi": "Và dĩ nhiên rồi, còn cái chết của cha cô nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:14",
-      "subtitle": "I can change that.",
-      "translation": "Tôi cũng có thể thay đổi được.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I can change that.",
+      "vi": "Tôi cũng có thể thay đổi được."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:30",
-      "subtitle": "You'd better be ready for this.",
-      "translation": "Hy vọng ông sẵn sàng cho việc này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You'd better be ready for this.",
+      "vi": "Hy vọng ông sẵn sàng cho việc này."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22:37",
-      "subtitle": "-Unhook your laser sight. -Do it.",
-      "translation": "- Thào kính nhắm ra. - Làm đi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Unhook your laser sight. -Do it.",
+      "vi": "- Thào kính nhắm ra. - Làm đi!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:23:18",
-      "subtitle": "\"To see a world in a grain of sand.\"",
-      "translation": "\"Thấy cả thế giới trong một hạt cát.\"",
-      "machine_translation": ""
+    "translation": {
+      "en": "\"To see a world in a grain of sand.\"",
+      "vi": "\"Thấy cả thế giới trong một hạt cát.\""
     }
   },
   {
-    "subtitle": {
-      "time": "1:23:53",
-      "subtitle": "Daddy?",
-      "translation": "Ba?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Daddy?",
+      "vi": "Ba?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:23:59",
-      "subtitle": "Lara.",
-      "translation": "Lara.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara.",
+      "vi": "Lara."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:03",
-      "subtitle": "Is this real?",
-      "translation": "Có thật không ba?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Is this real?",
+      "vi": "Có thật không ba?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:07",
-      "subtitle": "It is a crossing...",
-      "translation": "Đây chỉ là giao điểm giữa...",
-      "machine_translation": ""
+    "translation": {
+      "en": "It is a crossing...",
+      "vi": "Đây chỉ là giao điểm giữa..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:10",
-      "subtitle": "Of my past and your present.",
-      "translation": "quá khứ của ba và hiện tại của con.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Of my past and your present.",
+      "vi": "quá khứ của ba và hiện tại của con."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:13",
-      "subtitle": "Why did you not tell me about the Illuminati?",
-      "translation": "Sao ba không cho con biết về hội Illuminati?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Why did you not tell me about the Illuminati?",
+      "vi": "Sao ba không cho con biết về hội Illuminati?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:15",
-      "subtitle": "-You were only a child. -You could have written in your journals.",
-      "translation": "Lúc đó con còn quá nhỏ. Ba có thể viết nó trong nhật kí mà.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-You were only a child. -You could have written in your journals.",
+      "vi": "Lúc đó con còn quá nhỏ. Ba có thể viết nó trong nhật kí mà."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:19",
-      "subtitle": "You never mentioned it-- not once. I burst to tell you everything.",
-      "translation": "- Chưa bao giờ ba nhắc về nó. - Ba rất muốn cho con biết về mọi thứ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "You never mentioned it-- not once. I burst to tell you everything.",
+      "vi": "- Chưa bao giờ ba nhắc về nó. - Ba rất muốn cho con biết về mọi thứ,"
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:24",
-      "subtitle": "But in the fierceness of my own battles,",
-      "translation": "Nhưng trong những cuộc đấu tranh của ba... Ba chỉ muốn nói điều có thể truyền cảm hứng cho con...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But in the fierceness of my own battles,",
+      "vi": "Nhưng trong những cuộc đấu tranh của ba... Ba chỉ muốn nói điều có thể truyền cảm hứng cho con..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:27",
-      "subtitle": "I strove to tell you only that which would inspire you and keep you safe.",
-      "translation": "Ba chỉ muốn nói điều có thể truyền cảm hứng cho con... và giữ cho con được an toàn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I strove to tell you only that which would inspire you and keep you safe.",
+      "vi": "Ba chỉ muốn nói điều có thể truyền cảm hứng cho con... và giữ cho con được an toàn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:32",
-      "subtitle": "I love you so much.",
-      "translation": "Ba yêu con nhiều lắm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I love you so much.",
+      "vi": "Ba yêu con nhiều lắm."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:35",
-      "subtitle": "But I've missed you.",
-      "translation": "Nhưng con nhớ ba.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But I've missed you.",
+      "vi": "Nhưng con nhớ ba."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:38",
-      "subtitle": "And I have missed you.",
-      "translation": "Ba cũng rất nhớ con.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And I have missed you.",
+      "vi": "Ba cũng rất nhớ con."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:43",
-      "subtitle": "I know why you came here--",
-      "translation": "Ba biết tại sao con đến đây, tại sao con sử dụng quyền năng của ánh sáng. Nhưng đây là điều không thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I know why you came here--",
+      "vi": "Ba biết tại sao con đến đây, tại sao con sử dụng quyền năng của ánh sáng. Nhưng đây là điều không thể."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:45",
-      "subtitle": "Why you took the power of the light-- but this must not happen.",
-      "translation": "tại sao con sử dụng quyền năng của ánh sáng. Nhưng đây là điều không thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Why you took the power of the light-- but this must not happen.",
+      "vi": "tại sao con sử dụng quyền năng của ánh sáng. Nhưng đây là điều không thể."
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:49",
-      "subtitle": "Why? Why can't we use the power just this once?",
-      "translation": "Tại sao? Sao không thể sử dụng quyền năng này một lần?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Why? Why can't we use the power just this once?",
+      "vi": "Tại sao? Sao không thể sử dụng quyền năng này một lần?"
     }
   },
   {
-    "subtitle": {
-      "time": "1:24:54",
-      "subtitle": "-Why can't you stay? -We can't change time.",
-      "translation": "Sao ba không thể ở lại? Chúng ta không thể nào thay đổi thời gian.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Why can't you stay? -We can't change time.",
+      "vi": "Sao ba không thể ở lại? Chúng ta không thể nào thay đổi thời gian."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:00",
-      "subtitle": "But time was stolen from us...",
-      "translation": "Nhưng thời gian đã đánh cắp ba...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But time was stolen from us...",
+      "vi": "Nhưng thời gian đã đánh cắp ba..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:04",
-      "subtitle": "And it's not fair.",
-      "translation": "như thế không công bằng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And it's not fair.",
+      "vi": "như thế không công bằng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:06",
-      "subtitle": "No, it's not fair.",
-      "translation": "Phải, không công bằng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No, it's not fair.",
+      "vi": "Phải, không công bằng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:09",
-      "subtitle": "But you have stolen time itself,",
-      "translation": "Nhưng chính con cũng đã đánh cắp thời gian...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But you have stolen time itself,",
+      "vi": "Nhưng chính con cũng đã đánh cắp thời gian..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:12",
-      "subtitle": "And you must give it back.",
-      "translation": "và con phải trả lại nó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And you must give it back.",
+      "vi": "và con phải trả lại nó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:16",
-      "subtitle": "You must destroy the triangle.",
-      "translation": "Con phải phá hủy Tam Giác Thần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You must destroy the triangle.",
+      "vi": "Con phải phá hủy Tam Giác Thần."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:21",
-      "subtitle": "Suddenly I feel so alone.",
-      "translation": "Bỗng nhiên con cảm thấy mình cô độc.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Suddenly I feel so alone.",
+      "vi": "Bỗng nhiên con cảm thấy mình cô độc."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25:24",
-      "subtitle": "You're never alone. I am with you always, just as I've always been.",
-      "translation": "Con không bao giờ cô độc. Ba luôn ở bên con, luôn là như vậy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You're never alone. I am with you always, just as I've always been.",
+      "vi": "Con không bao giờ cô độc. Ba luôn ở bên con, luôn là như vậy."
     }
   },
   {
-    "subtitle": {
-      "time": "1:26:56",
-      "subtitle": "No! [grunts]",
-      "translation": "Không.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No! [grunts]",
+      "vi": "Không."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:12",
-      "subtitle": "-[soldier] Move out! -[groaning]",
-      "translation": "Đi thôi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[soldier] Move out! -[groaning]",
+      "vi": "Đi thôi!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:22",
-      "subtitle": "Lara!",
-      "translation": "Lara.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara!",
+      "vi": "Lara."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:25",
-      "subtitle": "Wait!",
-      "translation": "Đợi đã!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Wait!",
+      "vi": "Đợi đã!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:29",
-      "subtitle": "Your father begged for his life when we caught him betraying us.",
-      "translation": "Ba cô đã van xin được sống. Khi chúng tôi phát hiện ra ông ấy phản bội.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Your father begged for his life when we caught him betraying us.",
+      "vi": "Ba cô đã van xin được sống. Khi chúng tôi phát hiện ra ông ấy phản bội."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:32",
-      "subtitle": "He pleaded like a baby.",
-      "translation": "Ông ta đã van xin như một đứa trẻ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He pleaded like a baby.",
+      "vi": "Ông ta đã van xin như một đứa trẻ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:35",
-      "subtitle": "Surrender.",
-      "translation": "Hãy đầu hàng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Surrender.",
+      "vi": "Hãy đầu hàng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:38",
-      "subtitle": "Never.",
-      "translation": "Không bao giờ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Never.",
+      "vi": "Không bao giờ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:43",
-      "subtitle": "He seemed particularly concerned that I shouldn't... Take this.",
-      "translation": "Ông ấy có vẻ như không muốn tôi lấy đi vật này.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He seemed particularly concerned that I shouldn't... Take this.",
+      "vi": "Ông ấy có vẻ như không muốn tôi lấy đi vật này."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:53",
-      "subtitle": "Lara, no! The place is coming down! This is insane!",
-      "translation": "Lara, đừng quay lại. Nơi này sắp sập rồi. - Thật điên rồ! - Đưa họ ra khỏi đây đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lara, no! The place is coming down! This is insane!",
+      "vi": "Lara, đừng quay lại. Nơi này sắp sập rồi. - Thật điên rồ! - Đưa họ ra khỏi đây đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:27:58",
-      "subtitle": "Get them out of here.",
-      "translation": "- Thật điên rồ! - Đưa họ ra khỏi đây đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Get them out of here.",
+      "vi": "- Thật điên rồ! - Đưa họ ra khỏi đây đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:28:04",
-      "subtitle": "You just hurry.",
-      "translation": "Cô nhanh lên nhé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You just hurry.",
+      "vi": "Cô nhanh lên nhé."
     }
   },
   {
-    "subtitle": {
-      "time": "1:28:18",
-      "subtitle": "There you go-- safe and sound.",
-      "translation": "Cứ thế đi... đây cho an toàn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "There you go-- safe and sound.",
+      "vi": "Cứ thế đi... đây cho an toàn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:28:32",
-      "subtitle": "No guns.",
-      "translation": "Không chơi súng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No guns.",
+      "vi": "Không chơi súng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:31:31",
-      "subtitle": "Oh, my god!",
-      "translation": "Ôi, lạy Chúa tôi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, my god!",
+      "vi": "Ôi, lạy Chúa tôi!"
     }
   },
   {
-    "subtitle": {
-      "time": "1:31:36",
-      "subtitle": "Quiet.",
-      "translation": "Yên lặng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Quiet.",
+      "vi": "Yên lặng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:31:51",
-      "subtitle": "LORD RICHARD CROFT MISSING IN THE FIELD MAY 15 1985",
-      "translation": "NGÀI RICHARD CROFT MẤT TÍCH KHI LÀM VIỆC",
-      "machine_translation": ""
+    "translation": {
+      "en": "LORD RICHARD CROFT MISSING IN THE FIELD MAY 15 1985",
+      "vi": "NGÀI RICHARD CROFT MẤT TÍCH KHI LÀM VIỆC"
     }
   },
   {
-    "subtitle": {
-      "time": "1:31:53",
-      "subtitle": "LOST BUT NEVER FORGOTTEN",
-      "translation": "15 THÁNG 5, 1985 MẤT NHƯNG KHÔNG LÃNG QUÊN",
-      "machine_translation": ""
+    "translation": {
+      "en": "LOST BUT NEVER FORGOTTEN",
+      "vi": "15 THÁNG 5, 1985 MẤT NHƯNG KHÔNG LÃNG QUÊN"
     }
   },
   {
-    "subtitle": {
-      "time": "1:32:10",
-      "subtitle": "What?",
-      "translation": "Gì thế?",
-      "machine_translation": ""
+    "translation": {
+      "en": "What?",
+      "vi": "Gì thế?"
     }
   }
 ]
