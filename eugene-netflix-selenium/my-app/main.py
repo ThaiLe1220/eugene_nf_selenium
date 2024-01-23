@@ -274,11 +274,11 @@ for i, link in enumerate(netflix_links):
                 click_setting_button(wait)
                 # extension_sign_in(driver, wait)
                 # driver.switch_to.window(driver.window_handles[0])
-                choose_language_translation(driver, wait, "Vietnamese")
+                choose_language_translation(driver, wait, "Spanish")
                 # choose_machine_translation(driver)
                 close_setting_button(driver)
 
-            export_translation(driver, wait, i, "Vietnamese")
+            export_translation(driver, wait, i, "Spanish")
             close_all_tabs(driver)
             time.sleep(0.5)
         except WebDriverException:
