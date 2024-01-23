@@ -21,8 +21,8 @@ def process_subtitle(td):
     return processed_subtitle.strip()
 
 
-def process_and_save_data(movies_id):
-    file_path = f"./markup/{movies_id}.html"
+def process_and_save_data(movies_id, lang_code):
+    file_path = f"./markup/en-{lang_code}/{movies_id}.html"
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             html_content = file.read()
@@ -49,20 +49,31 @@ def process_and_save_data(movies_id):
             else:
                 machine_translation = ""  # No machine translation available
 
+            # translations.append(
+            #     {
+            #         "subtitle": {
+            #             "time": time,
+            #             "subtitle": subtitle,
+            #             "translation": translation,
+            #             "machine_translation": machine_translation,
+            #         }
+            #     }
+            # )
+
             translations.append(
                 {
-                    "subtitle": {
-                        "time": time,
-                        "subtitle": subtitle,
-                        "translation": translation,
-                        "machine_translation": machine_translation,
+                    "translation": {
+                        "en": subtitle,
+                        f"{lang_code}": translation,
                     }
                 }
             )
 
-        with open(f"./data/{movies_id}.json", "w", encoding="utf-8") as f:
+        with open(
+            f"./data/en-{lang_code}/{movies_id}.json", "w", encoding="utf-8"
+        ) as f:
             json.dump(translations, f, indent=2, ensure_ascii=False)
-            print(f"The subtitle has been saved as ./data/{movies_id}.json")
+            print(f"The subtitle has been saved as ./data/en-es/{movies_id}.json")
 
     except FileNotFoundError:
         print(f"File not found: {file_path}")

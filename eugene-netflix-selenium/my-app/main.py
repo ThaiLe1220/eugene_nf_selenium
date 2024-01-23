@@ -13,6 +13,22 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from extract_html import process_and_save_data
 
+lang = [
+    ("Vietnamese", "vi"),
+    ("Spanish", "es"),
+    ("English", "en"),
+    ("Vietnamese", "vi"),
+    ("French", "fr"),
+    ("German", "de"),
+    ("Italian", "it"),
+    ("Korean", "ko"),
+    ("Japanese", "ja"),
+    ("Chinese (Simplified)", "zh"),
+    ("Portuguese", "pt"),
+    ("Thai", "th"),
+    ("Russian", "th"),
+]
+
 
 def google_authenticate(cur_driver, username, password):
     print(" [ google_authenticate() ] ", end="")
@@ -126,8 +142,8 @@ def extension_sign_in(cur_driver, cur_wait):
     time.sleep(50)
 
 
-def choose_vietnamese_translation(cur_driver, cur_wait):
-    print(" [ choose_vietnamese_translation() ] ", end="")
+def choose_language_translation(cur_driver, cur_wait, language):
+    print(f" [ choose_language_translation() for {language} ] ", end="")
     translation_language_dropdown = cur_wait.until(
         EC.element_to_be_clickable(
             (
@@ -142,12 +158,12 @@ def choose_vietnamese_translation(cur_driver, cur_wait):
     cur_wait.until(
         EC.visibility_of_element_located((By.CSS_SELECTOR, ".select2-results__options"))
     )
-    vietnamese_option = cur_driver.find_element(
-        By.XPATH, "//li[contains(., 'Vietnamese')]"
+    language_option = cur_driver.find_element(
+        By.XPATH, f"//li[contains(., '{language}')]"
     )
     actions = ActionChains(cur_driver)
-    actions.move_to_element(vietnamese_option).perform()
-    vietnamese_option.click()
+    actions.move_to_element(language_option).perform()
+    language_option.click()
 
 
 def choose_machine_translation(cur_driver):
@@ -176,7 +192,7 @@ def close_setting_button(cur_driver):
     cur_driver.execute_script("arguments[0].click();", settings_button)
 
 
-def export_translation(cur_driver, cur_wait, i):
+def export_translation(cur_driver, cur_wait, i, language):
     print(" [ export_translation() ] ", end="")
     export_button = cur_wait.until(
         EC.element_to_be_clickable(
@@ -194,7 +210,7 @@ def export_translation(cur_driver, cur_wait, i):
         EC.element_to_be_clickable((By.ID, "llnExportModalExportBtn"))
     )
     export_option.click()
-    time.sleep(4)
+    time.sleep(1.5)
 
     if len(cur_driver.window_handles) > 1:
         new_tab = [
@@ -204,13 +220,18 @@ def export_translation(cur_driver, cur_wait, i):
         ][0]
         cur_driver.switch_to.window(new_tab)
 
+        lang_code = None
+        for lang_name, code in lang:
+            if lang_name == language:
+                lang_code = code
+                break
+
         page_source = driver.page_source
-        filename = f"./markup/{movies_ids[i]}.html"
+        filename = f"./markup/en-{lang_code}/{movies_ids[i]}.html"
         with open(filename, "w", encoding="utf-8") as file:
             file.write(page_source)
 
         print(f"\nThe HTML of the page has been saved as {filename}")
-        process_and_save_data(movies_ids[i])
 
 
 load_dotenv()
@@ -241,24 +262,25 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
             movies_ids.append(movie_id)
 
 for i, link in enumerate(netflix_links):
-    start_index = 900
-    end_index = 1090
+    start_index = 775
+    end_index = 1092
 
     if start_index <= i <= end_index:
         start_time = time.time()  # Start time tracking
         try:
             driver.get(link)
-            time.sleep(7)
+            time.sleep(8.5)
             if i == start_index:
                 click_setting_button(wait)
                 # extension_sign_in(driver, wait)
                 # driver.switch_to.window(driver.window_handles[0])
-                choose_vietnamese_translation(driver, wait)
+                choose_language_translation(driver, wait, "Vietnamese")
                 # choose_machine_translation(driver)
                 close_setting_button(driver)
 
-            export_translation(driver, wait, i)
+            export_translation(driver, wait, i, "Vietnamese")
             close_all_tabs(driver)
+            time.sleep(0.5)
         except WebDriverException:
             print(f"{link} Inaccessible")
             with open(

@@ -27,4 +27,8 @@ def clean_netflix_links(input_file, output_file):
 
 # Replace './source/movies_links.txt' and './source/movies_links_cleaned.txt'
 # with the paths to your input and output files, respectively
-clean_netflix_links("./source/movies_links.txt", "./source/movies_links_cleaned.txt")
+# clean_netflix_links("./source/movies_links.txt", "./source/movies_links_cleaned.txt")
+clean_netflix_links(
+    "./source/movies_links_inaccessed.txt",
+    "./source/movies_links_inaccessed_cleaned.txt",
+)
