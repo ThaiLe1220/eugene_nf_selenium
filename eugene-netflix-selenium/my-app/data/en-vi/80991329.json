@@ -1,18 +1,14 @@
 [
   {
-    "subtitle": {
-      "time": "6s",
-      "subtitle": "-[spurts] -[grunts, snores]",
-      "translation": "LOẠT PHIM DO NETFLIX SẢN XUẤT",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[spurts] -[grunts, snores]",
+      "vi": "LOẠT PHIM DO NETFLIX SẢN XUẤT"
     }
   },
   {
-    "subtitle": {
-      "time": "1:10",
-      "subtitle": "Whoa!",
-      "translation": "Ngon quá!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Whoa!",
+      "vi": "Ngon quá!"
     }
   }
 ]

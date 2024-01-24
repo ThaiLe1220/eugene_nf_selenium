@@ -1,1130 +1,848 @@
 [
   {
-    "subtitle": {
-      "time": "12s",
-      "subtitle": "[narrator] In a distant world’s time of need,",
-      "translation": "Vào thời điểm cần thiết ở một thế giới xa xôi,",
-      "machine_translation": ""
+    "translation": {
+      "en": "[narrator] In a distant world’s time of need,",
+      "vi": "Vào thời điểm cần thiết ở một thế giới xa xôi,"
     }
   },
   {
-    "subtitle": {
-      "time": "15s",
-      "subtitle": "an ancient prophecy summoned the Toa.",
-      "translation": "lời tiên tri cổ triệu hồi các vị thần Toa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "an ancient prophecy summoned the Toa.",
+      "vi": "lời tiên tri cổ triệu hồi các vị thần Toa."
     }
   },
   {
-    "subtitle": {
-      "time": "18s",
-      "subtitle": "Six legendary heroes,",
-      "translation": "Sáu vị anh hùng huyền thoại,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Six legendary heroes,",
+      "vi": "Sáu vị anh hùng huyền thoại,"
     }
   },
   {
-    "subtitle": {
-      "time": "21s",
-      "subtitle": "each powered by the energy of the island’s elements.",
-      "translation": "mỗi người đều mang sức mạnh nguyên tố của hòn đảo.",
-      "machine_translation": ""
+    "translation": {
+      "en": "each powered by the energy of the island’s elements.",
+      "vi": "mỗi người đều mang sức mạnh nguyên tố của hòn đảo."
     }
   },
   {
-    "subtitle": {
-      "time": "26s",
-      "subtitle": "Tahu, Toa of Fire.",
-      "translation": "Tahu, Thần Lửa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Tahu, Toa of Fire.",
+      "vi": "Tahu, Thần Lửa."
     }
   },
   {
-    "subtitle": {
-      "time": "28s",
-      "subtitle": "Kopaka, Toa of Ice.",
-      "translation": "Kopaka, Thần Băng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Kopaka, Toa of Ice.",
+      "vi": "Kopaka, Thần Băng."
     }
   },
   {
-    "subtitle": {
-      "time": "33s",
-      "subtitle": "Pohatu, Toa of Stone.",
-      "translation": "Pohatu, Thần Đá.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Pohatu, Toa of Stone.",
+      "vi": "Pohatu, Thần Đá."
     }
   },
   {
-    "subtitle": {
-      "time": "37s",
-      "subtitle": "Gali, Toa of Water.",
-      "translation": "Gali, Thần Nước.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Gali, Toa of Water.",
+      "vi": "Gali, Thần Nước."
     }
   },
   {
-    "subtitle": {
-      "time": "40s",
-      "subtitle": "Onua, Toa of Earth.",
-      "translation": "Onua, Thần Đất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Onua, Toa of Earth.",
+      "vi": "Onua, Thần Đất."
     }
   },
   {
-    "subtitle": {
-      "time": "45s",
-      "subtitle": "Lewa, Toa of the Jungle.",
-      "translation": "Lewa, Thần Rừng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Lewa, Toa of the Jungle.",
+      "vi": "Lewa, Thần Rừng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:14",
-      "subtitle": "Much has happened, I know.",
-      "translation": "Ta biết nhiều chuyện đã xảy ra.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Much has happened, I know.",
+      "vi": "Ta biết nhiều chuyện đã xảy ra."
     }
   },
   {
-    "subtitle": {
-      "time": "1:18",
-      "subtitle": "After so many thousands of years,",
-      "translation": "Sau hàng nghìn năm...",
-      "machine_translation": ""
+    "translation": {
+      "en": "After so many thousands of years,",
+      "vi": "Sau hàng nghìn năm..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:22",
-      "subtitle": "your families have returned",
-      "translation": "gia đình của các con đã quay lại...",
-      "machine_translation": ""
+    "translation": {
+      "en": "your families have returned",
+      "vi": "gia đình của các con đã quay lại..."
     }
   },
   {
-    "subtitle": {
-      "time": "1:25",
-      "subtitle": "to rebuild the Mask Makers’ City.",
-      "translation": "để gây dựng lại Thành phố của Thợ làm mặt nạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "to rebuild the Mask Makers’ City.",
+      "vi": "để gây dựng lại Thành phố của Thợ làm mặt nạ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:30",
-      "subtitle": "If must seem strange.",
-      "translation": "Điều đó hẳn là lạ thường.",
-      "machine_translation": ""
+    "translation": {
+      "en": "If must seem strange.",
+      "vi": "Điều đó hẳn là lạ thường."
     }
   },
   {
-    "subtitle": {
-      "time": "1:33",
-      "subtitle": "You have only known the region of the Jungle.",
-      "translation": "Con chỉ biết đến vùng Rừng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You have only known the region of the Jungle.",
+      "vi": "Con chỉ biết đến vùng Rừng."
     }
   },
   {
-    "subtitle": {
-      "time": "1:36",
-      "subtitle": "And you, the regions of Stone and Ice and Water.",
-      "translation": "Còn các con, chỉ biết tới vùng Đá, Băng và Nước.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And you, the regions of Stone and Ice and Water.",
+      "vi": "Còn các con, chỉ biết tới vùng Đá, Băng và Nước."
     }
   },
   {
-    "subtitle": {
-      "time": "1:42",
-      "subtitle": "But we are Okotans,",
-      "translation": "Nhưng chúng ta là cư dân Okoto,",
-      "machine_translation": ""
+    "translation": {
+      "en": "But we are Okotans,",
+      "vi": "Nhưng chúng ta là cư dân Okoto,"
     }
   },
   {
-    "subtitle": {
-      "time": "1:44",
-      "subtitle": "and once, this was the centre of our world.",
-      "translation": "và nơi đây đã từng là trung tâm của thế giới chúng ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and once, this was the centre of our world.",
+      "vi": "và nơi đây đã từng là trung tâm của thế giới chúng ta."
     }
   },
   {
-    "subtitle": {
-      "time": "1:49",
-      "subtitle": "And now we have returned.",
-      "translation": "Và giờ chúng ta đã trở lại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And now we have returned.",
+      "vi": "Và giờ chúng ta đã trở lại."
     }
   },
   {
-    "subtitle": {
-      "time": "1:52",
-      "subtitle": "I’m sure you have questions, but wait.",
-      "translation": "Ta chắc chắn các con đều có những câu hỏi, nhưng khoan.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I’m sure you have questions, but wait.",
+      "vi": "Ta chắc chắn các con đều có những câu hỏi, nhưng khoan."
     }
   },
   {
-    "subtitle": {
-      "time": "1:57",
-      "subtitle": "First, let me tell you how we came to return to our city",
-      "translation": "Trước tiên, để ta kể cho các con nghe làm cách nào chúng ta trở lại thành phố...",
-      "machine_translation": ""
+    "translation": {
+      "en": "First, let me tell you how we came to return to our city",
+      "vi": "Trước tiên, để ta kể cho các con nghe làm cách nào chúng ta trở lại thành phố..."
     }
   },
   {
-    "subtitle": {
-      "time": "2:02",
-      "subtitle": "and give you a taste of what may lay ahead.",
-      "translation": "và cho các con biết về chuyện sắp xảy ra.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and give you a taste of what may lay ahead.",
+      "vi": "và cho các con biết về chuyện sắp xảy ra."
     }
   },
   {
-    "subtitle": {
-      "time": "2:06",
-      "subtitle": "Sit.",
-      "translation": "Ngồi đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Sit.",
+      "vi": "Ngồi đi."
     }
   },
   {
-    "subtitle": {
-      "time": "2:08",
-      "subtitle": "Once, this was a beautiful city.",
-      "translation": "Nơi này từng là một thành phố xinh đẹp...",
-      "machine_translation": ""
+    "translation": {
+      "en": "Once, this was a beautiful city.",
+      "vi": "Nơi này từng là một thành phố xinh đẹp..."
     }
   },
   {
-    "subtitle": {
-      "time": "2:13",
-      "subtitle": "And I like to think it will be again.",
-      "translation": "và ta hy vọng nó sẽ đẹp trở lại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And I like to think it will be again.",
+      "vi": "và ta hy vọng nó sẽ đẹp trở lại."
     }
   },
   {
-    "subtitle": {
-      "time": "2:17",
-      "subtitle": "But that will depend on more than your parents.",
-      "translation": "Nhưng điều đó không chỉ phụ thuộc... vào cha mẹ các con.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But that will depend on more than your parents.",
+      "vi": "Nhưng điều đó không chỉ phụ thuộc... vào cha mẹ các con."
     }
   },
   {
-    "subtitle": {
-      "time": "2:21",
-      "subtitle": "It will depend on six heroes, from another time and place!",
-      "translation": "Điều đó sẽ phụ thuộc vào sáu vị anh hùng, đến từ không gian và thời gian khác.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It will depend on six heroes, from another time and place!",
+      "vi": "Điều đó sẽ phụ thuộc vào sáu vị anh hùng, đến từ không gian và thời gian khác."
     }
   },
   {
-    "subtitle": {
-      "time": "2:26",
-      "subtitle": "And it will depend on if they can harness the elements that give our planet life.",
-      "translation": "Và còn phụ thuộc liệu họ có chế ngự được nguyên tố đã ban sự sống cho hành tinh ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And it will depend on if they can harness the elements that give our planet life.",
+      "vi": "Và còn phụ thuộc liệu họ có chế ngự được nguyên tố đã ban sự sống cho hành tinh ta."
     }
   },
   {
-    "subtitle": {
-      "time": "2:33",
-      "subtitle": "You know them from the regions where you live.",
-      "translation": "Các con biết họ đến từ những vùng các con đang sinh sống:",
-      "machine_translation": ""
+    "translation": {
+      "en": "You know them from the regions where you live.",
+      "vi": "Các con biết họ đến từ những vùng các con đang sinh sống:"
     }
   },
   {
-    "subtitle": {
-      "time": "2:36",
-      "subtitle": "Fire, Water,",
-      "translation": "Lửa, Nước, Rừng,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Fire, Water,",
+      "vi": "Lửa, Nước, Rừng,"
     }
   },
   {
-    "subtitle": {
-      "time": "2:39",
-      "subtitle": "Jungle, Earth, Stone and Ice.",
-      "translation": "Lửa, Nước, Rừng, Đất, Đá và Băng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Jungle, Earth, Stone and Ice.",
+      "vi": "Lửa, Nước, Rừng, Đất, Đá và Băng."
     }
   },
   {
-    "subtitle": {
-      "time": "2:43",
-      "subtitle": "For you, they are just corners of our island,",
-      "translation": "Với các con, chúng chỉ là những ngóc ngách của hòn đảo.",
-      "machine_translation": ""
+    "translation": {
+      "en": "For you, they are just corners of our island,",
+      "vi": "Với các con, chúng chỉ là những ngóc ngách của hòn đảo."
     }
   },
   {
-    "subtitle": {
-      "time": "2:47",
-      "subtitle": "but to the Toa, they are lifeblood.",
-      "translation": "Nhưng với các vị thần Toa, chúng chính là nguồn sống.",
-      "machine_translation": ""
+    "translation": {
+      "en": "but to the Toa, they are lifeblood.",
+      "vi": "Nhưng với các vị thần Toa, chúng chính là nguồn sống."
     }
   },
   {
-    "subtitle": {
-      "time": "2:51",
-      "subtitle": "But before there was trouble, there was peace.",
-      "translation": "Nhưng trước khi có rắc rối xảy ra, nơi đây từng rất bình yên.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But before there was trouble, there was peace.",
+      "vi": "Nhưng trước khi có rắc rối xảy ra, nơi đây từng rất bình yên."
     }
   },
   {
-    "subtitle": {
-      "time": "2:57",
-      "subtitle": "And maybe that’s where we should begin.",
-      "translation": "Và có lẽ đó là điểm ta nên bắt đầu câu chuyện.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And maybe that’s where we should begin.",
+      "vi": "Và có lẽ đó là điểm ta nên bắt đầu câu chuyện."
     }
   },
   {
-    "subtitle": {
-      "time": "3:01",
-      "subtitle": "More than a thousand years ago,",
-      "translation": "Hơn một nghìn năm trước...",
-      "machine_translation": ""
+    "translation": {
+      "en": "More than a thousand years ago,",
+      "vi": "Hơn một nghìn năm trước..."
     }
   },
   {
-    "subtitle": {
-      "time": "3:04",
-      "subtitle": "this was a peaceful and vibrant place.",
-      "translation": "nơi đây đã rất thanh bình và tràn đầy sinh khí.",
-      "machine_translation": ""
+    "translation": {
+      "en": "this was a peaceful and vibrant place.",
+      "vi": "nơi đây đã rất thanh bình và tràn đầy sinh khí."
     }
   },
   {
-    "subtitle": {
-      "time": "3:08",
-      "subtitle": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
-      "translation": "Hai người bảo hộ của Đảo ta, Ekimu và anh trai ngài ấy, Makuta,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
+      "vi": "Hai người bảo hộ của Đảo ta, Ekimu và anh trai ngài ấy, Makuta,"
     }
   },
   {
-    "subtitle": {
-      "time": "3:13",
-      "subtitle": "harnessed the power of the elements and forged them into masks.",
-      "translation": "chế ngự được sức mạnh nguyên tố và kết hợp chúng vào mặt nạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "harnessed the power of the elements and forged them into masks.",
+      "vi": "chế ngự được sức mạnh nguyên tố và kết hợp chúng vào mặt nạ."
     }
   },
   {
-    "subtitle": {
-      "time": "3:22",
-      "subtitle": "But Makuta grew jealous of his brother and hungry for the power.",
-      "translation": "Nhưng Makuta trở nên đố kỵ với em trai mình và khao khát sức mạnh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But Makuta grew jealous of his brother and hungry for the power.",
+      "vi": "Nhưng Makuta trở nên đố kỵ với em trai mình và khao khát sức mạnh."
     }
   },
   {
-    "subtitle": {
-      "time": "3:28",
-      "subtitle": "So unbeknownst to his brother, Ekimu,",
-      "translation": "Vì vậy Makuta đã vi phạm một luật cấm kỵ",
-      "machine_translation": ""
+    "translation": {
+      "en": "So unbeknownst to his brother, Ekimu,",
+      "vi": "Vì vậy Makuta đã vi phạm một luật cấm kỵ"
     }
   },
   {
-    "subtitle": {
-      "time": "3:31",
-      "subtitle": "the jealous Makuta broke a sacred law",
-      "translation": "mà người em trai của hắn, Ekimu, không hề hay biết",
-      "machine_translation": ""
+    "translation": {
+      "en": "the jealous Makuta broke a sacred law",
+      "vi": "mà người em trai của hắn, Ekimu, không hề hay biết"
     }
   },
   {
-    "subtitle": {
-      "time": "3:35",
-      "subtitle": "and created a mask that combined the power of all the elements.",
-      "translation": "và tạo ra một mặt nạ kết hợp sức mạnh tất cả các nguyên tố.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and created a mask that combined the power of all the elements.",
+      "vi": "và tạo ra một mặt nạ kết hợp sức mạnh tất cả các nguyên tố."
     }
   },
   {
-    "subtitle": {
-      "time": "3:41",
-      "subtitle": "He called it the Mask of Ultimate Power.",
-      "translation": "Hắn gọi nó là Mặt nạ Quyền năng Tối thượng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He called it the Mask of Ultimate Power.",
+      "vi": "Hắn gọi nó là Mặt nạ Quyền năng Tối thượng."
     }
   },
   {
-    "subtitle": {
-      "time": "3:48",
-      "subtitle": "But, as the power of the mask surged through Makuta,",
-      "translation": "Nhưng khi sức mạnh của mặt nạ truyền khắp người Makuta,",
-      "machine_translation": ""
+    "translation": {
+      "en": "But, as the power of the mask surged through Makuta,",
+      "vi": "Nhưng khi sức mạnh của mặt nạ truyền khắp người Makuta,"
     }
   },
   {
-    "subtitle": {
-      "time": "3:53",
-      "subtitle": "he became dark and evil.",
-      "translation": "hắn trở thành bóng tối và ác quỷ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "he became dark and evil.",
+      "vi": "hắn trở thành bóng tối và ác quỷ."
     }
   },
   {
-    "subtitle": {
-      "time": "3:58",
-      "subtitle": "Knowing he had to act quickly, Ekimu took the sacred hammer",
-      "translation": "Biết mình phải hành động nhanh, Ekimu cầm lấy chiếc búa thiêng",
-      "machine_translation": ""
+    "translation": {
+      "en": "Knowing he had to act quickly, Ekimu took the sacred hammer",
+      "vi": "Biết mình phải hành động nhanh, Ekimu cầm lấy chiếc búa thiêng"
     }
   },
   {
-    "subtitle": {
-      "time": "4:02",
-      "subtitle": "and knocked the mask from the face of his brother.",
-      "translation": "và đánh văng mặt nạ khỏi mặt anh trai ngài ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and knocked the mask from the face of his brother.",
+      "vi": "và đánh văng mặt nạ khỏi mặt anh trai ngài ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "4:06",
-      "subtitle": "Ekimu saved Okoto, but the cost was great.",
-      "translation": "Ekimu đã cứu Okoto, nhưng cái giá phải trả rất đắt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Ekimu saved Okoto, but the cost was great.",
+      "vi": "Ekimu đã cứu Okoto, nhưng cái giá phải trả rất đắt."
     }
   },
   {
-    "subtitle": {
-      "time": "4:11",
-      "subtitle": "Both Ekimu and Makuta were plunged into endless sleep.",
-      "translation": "Cả Ekimu và Makuta đều chìm vào giấc ngủ vĩnh hằng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Both Ekimu and Makuta were plunged into endless sleep.",
+      "vi": "Cả Ekimu và Makuta đều chìm vào giấc ngủ vĩnh hằng."
     }
   },
   {
-    "subtitle": {
-      "time": "4:18",
-      "subtitle": "Our ancestors laid Ekimu to rest.",
-      "translation": "Tổ tiên ta đã để cho Ekimu yên nghỉ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Our ancestors laid Ekimu to rest.",
+      "vi": "Tổ tiên ta đã để cho Ekimu yên nghỉ."
     }
   },
   {
-    "subtitle": {
-      "time": "4:22",
-      "subtitle": "The masks, too powerful to be trusted to mortals,",
-      "translation": "Những chiếc mặt nạ quá quyền năng để được con người tin tưởng,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The masks, too powerful to be trusted to mortals,",
+      "vi": "Những chiếc mặt nạ quá quyền năng để được con người tin tưởng,"
     }
   },
   {
-    "subtitle": {
-      "time": "4:27",
-      "subtitle": "were hidden away forever.",
-      "translation": "nên đã bị giấu đi mãi mãi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "were hidden away forever.",
+      "vi": "nên đã bị giấu đi mãi mãi."
     }
   },
   {
-    "subtitle": {
-      "time": "4:29",
-      "subtitle": "And after Ekimu was sealed into a secret tomb,",
-      "translation": "Và sau khi Ekimu bị phong ấn vào trong lăng mộ bí mật,",
-      "machine_translation": ""
+    "translation": {
+      "en": "And after Ekimu was sealed into a secret tomb,",
+      "vi": "Và sau khi Ekimu bị phong ấn vào trong lăng mộ bí mật,"
     }
   },
   {
-    "subtitle": {
-      "time": "4:34",
-      "subtitle": "the Mask Makers’ City was abandoned.",
-      "translation": "Thành phố của Thợ làm mặt nạ bị bỏ hoang.",
-      "machine_translation": ""
+    "translation": {
+      "en": "the Mask Makers’ City was abandoned.",
+      "vi": "Thành phố của Thợ làm mặt nạ bị bỏ hoang."
     }
   },
   {
-    "subtitle": {
-      "time": "4:38",
-      "subtitle": "Although Makuta lay buried deep beneath our island,",
-      "translation": "Dù Makuta bị chôn vùi sâu bên dưới hòn đảo của chúng ta,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Although Makuta lay buried deep beneath our island,",
+      "vi": "Dù Makuta bị chôn vùi sâu bên dưới hòn đảo của chúng ta,"
     }
   },
   {
-    "subtitle": {
-      "time": "4:43",
-      "subtitle": "his spirit remained powerful.",
-      "translation": "nhưng linh hồn của hắn vẫn rất mạnh mẽ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "his spirit remained powerful.",
+      "vi": "nhưng linh hồn của hắn vẫn rất mạnh mẽ."
     }
   },
   {
-    "subtitle": {
-      "time": "4:47",
-      "subtitle": "He summoned dark forces to find his Mask and awaken him.",
-      "translation": "Hắn triệu hồi đội quân bóng tối để tìm mặt nạ và đánh thức hắn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He summoned dark forces to find his Mask and awaken him.",
+      "vi": "Hắn triệu hồi đội quân bóng tối để tìm mặt nạ và đánh thức hắn."
     }
   },
   {
-    "subtitle": {
-      "time": "4:53",
-      "subtitle": "If Makuta’s minions managed to awaken him,",
-      "translation": "Nếu thuộc hạ của Makuta đánh thức được hắn,",
-      "machine_translation": ""
+    "translation": {
+      "en": "If Makuta’s minions managed to awaken him,",
+      "vi": "Nếu thuộc hạ của Makuta đánh thức được hắn,"
     }
   },
   {
-    "subtitle": {
-      "time": "4:58",
-      "subtitle": "our island would be plunged into darkness.",
-      "translation": "hòn đảo của chúng ta sẽ bị nhấn chìm trong bóng tối.",
-      "machine_translation": ""
+    "translation": {
+      "en": "our island would be plunged into darkness.",
+      "vi": "hòn đảo của chúng ta sẽ bị nhấn chìm trong bóng tối."
     }
   },
   {
-    "subtitle": {
-      "time": "5:02",
-      "subtitle": "So we, the protectors,",
-      "translation": "Vì vậy, chúng ta, những người bảo hộ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "So we, the protectors,",
+      "vi": "Vì vậy, chúng ta, những người bảo hộ,"
     }
   },
   {
-    "subtitle": {
-      "time": "5:05",
-      "subtitle": "gathered and performed an ancient rite.",
-      "translation": "đã tập hợp lại và thực hiện một nghi lễ cổ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "gathered and performed an ancient rite.",
+      "vi": "đã tập hợp lại và thực hiện một nghi lễ cổ."
     }
   },
   {
-    "subtitle": {
-      "time": "5:09",
-      "subtitle": "Their legend was carved into the walls of our temples,",
-      "translation": "Huyền thoại của họ đã được khắc lên các bức tường trong đền của chúng ta,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Their legend was carved into the walls of our temples,",
+      "vi": "Huyền thoại của họ đã được khắc lên các bức tường trong đền của chúng ta,"
     }
   },
   {
-    "subtitle": {
-      "time": "5:14",
-      "subtitle": "and their names were kept alive in our rituals.",
-      "translation": "và tên tuổi họ vẫn sống mãi trong nghi lễ của ta.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and their names were kept alive in our rituals.",
+      "vi": "và tên tuổi họ vẫn sống mãi trong nghi lễ của ta."
     }
   },
   {
-    "subtitle": {
-      "time": "5:18",
-      "subtitle": "These were the Toa.",
-      "translation": "Họ là những vị thần Toa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "These were the Toa.",
+      "vi": "Họ là những vị thần Toa."
     }
   },
   {
-    "subtitle": {
-      "time": "5:21",
-      "subtitle": "And it would be up to them to save Okoto.",
-      "translation": "Và trách nhiệm của họ là cứu lấy Okoto.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And it would be up to them to save Okoto.",
+      "vi": "Và trách nhiệm của họ là cứu lấy Okoto."
     }
   },
   {
-    "subtitle": {
-      "time": "5:26",
-      "subtitle": "The Toa of the Jungle, Lewa, was fast on his feet and quick witted,",
-      "translation": "Thần Rừng, Lewa, có đôi chân chạy nhanh và đầu óc nhanh nhạy,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The Toa of the Jungle, Lewa, was fast on his feet and quick witted,",
+      "vi": "Thần Rừng, Lewa, có đôi chân chạy nhanh và đầu óc nhanh nhạy,"
     }
   },
   {
-    "subtitle": {
-      "time": "5:31",
-      "subtitle": "like the Jungle that gave him his power.",
-      "translation": "như sức mạnh nguyên tố mà Rừng đã ban cho ngài ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "like the Jungle that gave him his power.",
+      "vi": "như sức mạnh nguyên tố mà Rừng đã ban cho ngài ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "5:34",
-      "subtitle": "He was constantly changing, and the most playful of the group.",
-      "translation": "Ngài ấy thay đổi liên tục, và là người ham chơi nhất nhóm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "He was constantly changing, and the most playful of the group.",
+      "vi": "Ngài ấy thay đổi liên tục, và là người ham chơi nhất nhóm."
     }
   },
   {
-    "subtitle": {
-      "time": "5:38",
-      "subtitle": "The brooding Pohatu was the most serious of the group.",
-      "translation": "Pohatu là người nghiêm nghị nhất nhóm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The brooding Pohatu was the most serious of the group.",
+      "vi": "Pohatu là người nghiêm nghị nhất nhóm."
     }
   },
   {
-    "subtitle": {
-      "time": "5:43",
-      "subtitle": "And while the Toa of Stone was rarely happy,",
-      "translation": "Thần Đá hiếm khi vui vẻ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "And while the Toa of Stone was rarely happy,",
+      "vi": "Thần Đá hiếm khi vui vẻ,"
     }
   },
   {
-    "subtitle": {
-      "time": "5:46",
-      "subtitle": "he was fearless and powerful.",
-      "translation": "ngài gan dạ và hùng mạnh.",
-      "machine_translation": ""
+    "translation": {
+      "en": "he was fearless and powerful.",
+      "vi": "ngài gan dạ và hùng mạnh."
     }
   },
   {
-    "subtitle": {
-      "time": "5:51",
-      "subtitle": "Kopaka, the Toa of Ice, was fearless and strong,",
-      "translation": "Kopaka, Thần Băng, cũng gan dạ và mạnh mẽ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Kopaka, the Toa of Ice, was fearless and strong,",
+      "vi": "Kopaka, Thần Băng, cũng gan dạ và mạnh mẽ,"
     }
   },
   {
-    "subtitle": {
-      "time": "5:57",
-      "subtitle": "but he could be as inflexible and cold",
-      "translation": "nhưng ngài có thể cứng rắn và trở nên lạnh lẽo",
-      "machine_translation": ""
+    "translation": {
+      "en": "but he could be as inflexible and cold",
+      "vi": "nhưng ngài có thể cứng rắn và trở nên lạnh lẽo"
     }
   },
   {
-    "subtitle": {
-      "time": "6:02",
-      "subtitle": "as the element that gave him power.",
-      "translation": "như nguyên tố đã trao sức mạnh cho ngài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "as the element that gave him power.",
+      "vi": "như nguyên tố đã trao sức mạnh cho ngài."
     }
   },
   {
-    "subtitle": {
-      "time": "6:06",
-      "subtitle": "Gali was as powerful as the others,",
-      "translation": "Gali cũng quyền năng như những người khác,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Gali was as powerful as the others,",
+      "vi": "Gali cũng quyền năng như những người khác,"
     }
   },
   {
-    "subtitle": {
-      "time": "6:10",
-      "subtitle": "but as resilient as the Water that was her element.",
-      "translation": "nhưng có khả năng phục hồi nhanh như nguyên tố Nước của bà ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "but as resilient as the Water that was her element.",
+      "vi": "nhưng có khả năng phục hồi nhanh như nguyên tố Nước của bà ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "6:14",
-      "subtitle": "The silent, powerful Onua, the Toa of Earth,",
-      "translation": "Thần Đất, Onua, ít nói và quyền năng,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The silent, powerful Onua, the Toa of Earth,",
+      "vi": "Thần Đất, Onua, ít nói và quyền năng,"
     }
   },
   {
-    "subtitle": {
-      "time": "6:19",
-      "subtitle": "would provide a foundation.",
-      "translation": "sẽ cung cấp nền móng,",
-      "machine_translation": ""
+    "translation": {
+      "en": "would provide a foundation.",
+      "vi": "sẽ cung cấp nền móng,"
     }
   },
   {
-    "subtitle": {
-      "time": "6:22",
-      "subtitle": "Like the Earth that gave him power,",
-      "translation": "như Đất đã trao sức mạnh cho ngài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Like the Earth that gave him power,",
+      "vi": "như Đất đã trao sức mạnh cho ngài."
     }
   },
   {
-    "subtitle": {
-      "time": "6:25",
-      "subtitle": "he was immovable and enduring.",
-      "translation": "Ngài không thể bị lay chuyển và bền bỉ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "he was immovable and enduring.",
+      "vi": "Ngài không thể bị lay chuyển và bền bỉ."
     }
   },
   {
-    "subtitle": {
-      "time": "6:29",
-      "subtitle": "There was Tahu, the Toa of Fire,",
-      "translation": "Còn có Tahu, Thần Lửa,",
-      "machine_translation": ""
+    "translation": {
+      "en": "There was Tahu, the Toa of Fire,",
+      "vi": "Còn có Tahu, Thần Lửa,"
     }
   },
   {
-    "subtitle": {
-      "time": "6:33",
-      "subtitle": "who saw himself as a leader",
-      "translation": "người tự cho mình là chỉ huy",
-      "machine_translation": ""
+    "translation": {
+      "en": "who saw himself as a leader",
+      "vi": "người tự cho mình là chỉ huy"
     }
   },
   {
-    "subtitle": {
-      "time": "6:36",
-      "subtitle": "even before he knew there were others like him.",
-      "translation": "kể cả trước khi ngài biết có những người khác cũng giống mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "even before he knew there were others like him.",
+      "vi": "kể cả trước khi ngài biết có những người khác cũng giống mình."
     }
   },
   {
-    "subtitle": {
-      "time": "6:40",
-      "subtitle": "With the help of their Protectors,",
-      "translation": "Với sự hỗ trợ của Người bảo hộ của họ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "With the help of their Protectors,",
+      "vi": "Với sự hỗ trợ của Người bảo hộ của họ,"
     }
   },
   {
-    "subtitle": {
-      "time": "6:43",
-      "subtitle": "the Toa found the Masks of Power.",
-      "translation": "các vị thần Toa đã tìm thấy Mặt nạ Quyền năng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "the Toa found the Masks of Power.",
+      "vi": "các vị thần Toa đã tìm thấy Mặt nạ Quyền năng."
     }
   },
   {
-    "subtitle": {
-      "time": "6:54",
-      "subtitle": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
-      "translation": "Khi họ đeo Mặt nạ Quyền năng lên, lời tiên tri cổ đã được thực hiện.",
-      "machine_translation": ""
+    "translation": {
+      "en": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
+      "vi": "Khi họ đeo Mặt nạ Quyền năng lên, lời tiên tri cổ đã được thực hiện."
     }
   },
   {
-    "subtitle": {
-      "time": "7:00",
-      "subtitle": "And for the first time,",
-      "translation": "Và lần đầu tiên,",
-      "machine_translation": ""
+    "translation": {
+      "en": "And for the first time,",
+      "vi": "Và lần đầu tiên,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:01",
-      "subtitle": "the Toa experienced the elemental power that each of them was born to wield.",
-      "translation": "thần Toa cảm nhận được sức mạnh nguyên tố mà mỗi người họ sinh ra đã được thừa hưởng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "the Toa experienced the elemental power that each of them was born to wield.",
+      "vi": "thần Toa cảm nhận được sức mạnh nguyên tố mà mỗi người họ sinh ra đã được thừa hưởng."
     }
   },
   {
-    "subtitle": {
-      "time": "7:21",
-      "subtitle": "The Toa had power, but they needed the wisdom of Ekimu.",
-      "translation": "Thần Toa có được sức mạnh, nhưng họ cần sự thông thái của Ekimu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The Toa had power, but they needed the wisdom of Ekimu.",
+      "vi": "Thần Toa có được sức mạnh, nhưng họ cần sự thông thái của Ekimu."
     }
   },
   {
-    "subtitle": {
-      "time": "7:27",
-      "subtitle": "Only he could guide them to their true destiny.",
-      "translation": "Chỉ ngài ấy mới có thể dẫn dắt họ đến với đúng vận mệnh của mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Only he could guide them to their true destiny.",
+      "vi": "Chỉ ngài ấy mới có thể dẫn dắt họ đến với đúng vận mệnh của mình."
     }
   },
   {
-    "subtitle": {
-      "time": "7:32",
-      "subtitle": "The Toa’s search for Ekimu brought them here,",
-      "translation": "Việc tìm kiếm Ekimu của thần Toa mang họ đến đây,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The Toa’s search for Ekimu brought them here,",
+      "vi": "Việc tìm kiếm Ekimu của thần Toa mang họ đến đây,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:36",
-      "subtitle": "to the Mask Makers’ City.",
-      "translation": "đến với Thành phố của Thợ làm mặt nạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "to the Mask Makers’ City.",
+      "vi": "đến với Thành phố của Thợ làm mặt nạ."
     }
   },
   {
-    "subtitle": {
-      "time": "7:39",
-      "subtitle": "But when they arrived, it didn’t look like it does now.",
-      "translation": "Nhưng khi họ đến nơi, thành phố trông không giống bây giờ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But when they arrived, it didn’t look like it does now.",
+      "vi": "Nhưng khi họ đến nơi, thành phố trông không giống bây giờ."
     }
   },
   {
-    "subtitle": {
-      "time": "7:43",
-      "subtitle": "Then, it was a dark place, overrun with evil creatures.",
-      "translation": "Khi đó, nó là một nơi tối tăm, bị những sinh vật xấu xa cai trị.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Then, it was a dark place, overrun with evil creatures.",
+      "vi": "Khi đó, nó là một nơi tối tăm, bị những sinh vật xấu xa cai trị."
     }
   },
   {
-    "subtitle": {
-      "time": "7:50",
-      "subtitle": "And around every corner lay a trap!",
-      "translation": "Và mọi ngóc ngách đều bị đặt bẫy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And around every corner lay a trap!",
+      "vi": "Và mọi ngóc ngách đều bị đặt bẫy."
     }
   },
   {
-    "subtitle": {
-      "time": "7:55",
-      "subtitle": "And for the first time in a thousand years,",
-      "translation": "Và lần đầu tiên trong suốt một nghìn năm,",
-      "machine_translation": ""
+    "translation": {
+      "en": "And for the first time in a thousand years,",
+      "vi": "Và lần đầu tiên trong suốt một nghìn năm,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:59",
-      "subtitle": "the footsteps of the living echoed through the Mask Makers’ City",
-      "translation": "tiếng bước chân của kẻ sống vang vọng khắp Thành phố của Thợ làm mặt nạ",
-      "machine_translation": ""
+    "translation": {
+      "en": "the footsteps of the living echoed through the Mask Makers’ City",
+      "vi": "tiếng bước chân của kẻ sống vang vọng khắp Thành phố của Thợ làm mặt nạ"
     }
   },
   {
-    "subtitle": {
-      "time": "8:03",
-      "subtitle": "that we abandoned so many centuries before.",
-      "translation": "mà ta đã bỏ hoang từ nhiều thế kỷ trước.",
-      "machine_translation": ""
+    "translation": {
+      "en": "that we abandoned so many centuries before.",
+      "vi": "mà ta đã bỏ hoang từ nhiều thế kỷ trước."
     }
   },
   {
-    "subtitle": {
-      "time": "8:08",
-      "subtitle": "One by one,",
-      "translation": "Các vị thần Toa tiêu diệt từng tên thuộc hạ",
-      "machine_translation": ""
+    "translation": {
+      "en": "One by one,",
+      "vi": "Các vị thần Toa tiêu diệt từng tên thuộc hạ"
     }
   },
   {
-    "subtitle": {
-      "time": "8:10",
-      "subtitle": "the Toa vanquished the creatures Makuta had sent to stop them,",
-      "translation": "Các vị thần Toa tiêu diệt từng tên thuộc hạ mà Makuta đã cử đến để ngăn họ...",
-      "machine_translation": ""
+    "translation": {
+      "en": "the Toa vanquished the creatures Makuta had sent to stop them,",
+      "vi": "Các vị thần Toa tiêu diệt từng tên thuộc hạ mà Makuta đã cử đến để ngăn họ..."
     }
   },
   {
-    "subtitle": {
-      "time": "8:15",
-      "subtitle": "finally defeating the fearsome Skull Scorpions",
-      "translation": "cuối cùng họ đã đánh bại những con Bọ cạp Đầu sọ đáng sợ",
-      "machine_translation": ""
+    "translation": {
+      "en": "finally defeating the fearsome Skull Scorpions",
+      "vi": "cuối cùng họ đã đánh bại những con Bọ cạp Đầu sọ đáng sợ"
     }
   },
   {
-    "subtitle": {
-      "time": "8:19",
-      "subtitle": "and reaching Ekimu’s tomb.",
-      "translation": "và tới được lăng mộ của Ekimu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and reaching Ekimu’s tomb.",
+      "vi": "và tới được lăng mộ của Ekimu."
     }
   },
   {
-    "subtitle": {
-      "time": "8:23",
-      "subtitle": "The Toa realised that their history and our planet's were entwined.",
-      "translation": "Các vị thần Toa nhận thấy lịch sử của họ và hành tinh chúng ta có mối quan hệ chặt chẽ với nhau.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The Toa realised that their history and our planet's were entwined.",
+      "vi": "Các vị thần Toa nhận thấy lịch sử của họ và hành tinh chúng ta có mối quan hệ chặt chẽ với nhau."
     }
   },
   {
-    "subtitle": {
-      "time": "8:30",
-      "subtitle": "As they looked upon the sleeping Mask Maker,",
-      "translation": "Khi họ nhìn xuống người Thợ làm mặt nạ đang ngủ say,",
-      "machine_translation": ""
+    "translation": {
+      "en": "As they looked upon the sleeping Mask Maker,",
+      "vi": "Khi họ nhìn xuống người Thợ làm mặt nạ đang ngủ say,"
     }
   },
   {
-    "subtitle": {
-      "time": "8:33",
-      "subtitle": "somehow, they knew how to awaken him.",
-      "translation": "bằng cách nào đó, họ biết cách đánh thức ngài ấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "somehow, they knew how to awaken him.",
+      "vi": "bằng cách nào đó, họ biết cách đánh thức ngài ấy."
     }
   },
   {
-    "subtitle": {
-      "time": "8:41",
-      "subtitle": "The six heroes had travelled far into the ancient city,",
-      "translation": "Sáu vị anh hùng đã đi sâu vào trong thành phố cổ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The six heroes had travelled far into the ancient city,",
+      "vi": "Sáu vị anh hùng đã đi sâu vào trong thành phố cổ,"
     }
   },
   {
-    "subtitle": {
-      "time": "8:46",
-      "subtitle": "defeating many enemies.",
-      "translation": "đánh bại nhiều kẻ địch.",
-      "machine_translation": ""
+    "translation": {
+      "en": "defeating many enemies.",
+      "vi": "đánh bại nhiều kẻ địch."
     }
   },
   {
-    "subtitle": {
-      "time": "8:48",
-      "subtitle": "But only by retrieving the Mask of Creation",
-      "translation": "Nhưng chỉ khi tìm lại được Mặt nạ Chế tác",
-      "machine_translation": ""
+    "translation": {
+      "en": "But only by retrieving the Mask of Creation",
+      "vi": "Nhưng chỉ khi tìm lại được Mặt nạ Chế tác"
     }
   },
   {
-    "subtitle": {
-      "time": "8:53",
-      "subtitle": "would Ekimu stand a chance against his brother.",
-      "translation": "thì Ekimu mới có cơ hội chống lại anh trai ngài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "would Ekimu stand a chance against his brother.",
+      "vi": "thì Ekimu mới có cơ hội chống lại anh trai ngài."
     }
   },
   {
-    "subtitle": {
-      "time": "9:00",
-      "subtitle": "Makuta’s most powerful minions fought",
-      "translation": "Các thuộc hạ mạnh nhất của Makuta chiến đấu ngăn các vị thần Toa",
-      "machine_translation": ""
+    "translation": {
+      "en": "Makuta’s most powerful minions fought",
+      "vi": "Các thuộc hạ mạnh nhất của Makuta chiến đấu ngăn các vị thần Toa"
     }
   },
   {
-    "subtitle": {
-      "time": "9:03",
-      "subtitle": "to keep the Toa from the Mask Makers’ forge.",
-      "translation": "đến lò rèn của Thợ làm mặt nạ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "to keep the Toa from the Mask Makers’ forge.",
+      "vi": "đến lò rèn của Thợ làm mặt nạ,"
     }
   },
   {
-    "subtitle": {
-      "time": "9:06",
-      "subtitle": "But the Toa were ready.",
-      "translation": "nhưng các vị thần Toa đã sẵn sàng...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But the Toa were ready.",
+      "vi": "nhưng các vị thần Toa đã sẵn sàng..."
     }
   },
   {
-    "subtitle": {
-      "time": "9:08",
-      "subtitle": "Or so they thought.",
-      "translation": "Hoặc là họ nghĩ vậy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Or so they thought.",
+      "vi": "Hoặc là họ nghĩ vậy."
     }
   },
   {
-    "subtitle": {
-      "time": "9:11",
-      "subtitle": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
-      "translation": "Họ bắt được Thợ xay Đầu sọ trước khi hắn phá hủy mặt nạ của Ekimu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
+      "vi": "Họ bắt được Thợ xay Đầu sọ trước khi hắn phá hủy mặt nạ của Ekimu."
     }
   },
   {
-    "subtitle": {
-      "time": "9:15",
-      "subtitle": "But the creature was as cunning as he was powerful,",
-      "translation": "Nhưng tên đó vừa mạnh vừa xảo quyệt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But the creature was as cunning as he was powerful,",
+      "vi": "Nhưng tên đó vừa mạnh vừa xảo quyệt."
     }
   },
   {
-    "subtitle": {
-      "time": "9:20",
-      "subtitle": "and, knowing the Toa would stop him from destroying the mask,",
-      "translation": "Và biết các vị thần Toa sẽ ngăn hắn phá hủy mặt nạ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "and, knowing the Toa would stop him from destroying the mask,",
+      "vi": "Và biết các vị thần Toa sẽ ngăn hắn phá hủy mặt nạ,"
     }
   },
   {
-    "subtitle": {
-      "time": "9:24",
-      "subtitle": "he put it on and felt its power surge through him.",
-      "translation": "nên hắn đeo mặt nạ lên và cảm nhận quyền năng của nó truyền khắp cơ thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "he put it on and felt its power surge through him.",
+      "vi": "nên hắn đeo mặt nạ lên và cảm nhận quyền năng của nó truyền khắp cơ thể."
     }
   },
   {
-    "subtitle": {
-      "time": "9:31",
-      "subtitle": "Filled with the Mask Maker’s power,",
-      "translation": "Được tiếp sức mạnh của Thợ làm mặt nạ,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Filled with the Mask Maker’s power,",
+      "vi": "Được tiếp sức mạnh của Thợ làm mặt nạ,"
     }
   },
   {
-    "subtitle": {
-      "time": "9:33",
-      "subtitle": "the Skull Grinder knocked the masks from the faces of the Toa.",
-      "translation": "tên Thợ xay Đầu sọ đánh văng mặt nạ khỏi mặt của các vị thần Toa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "the Skull Grinder knocked the masks from the faces of the Toa.",
+      "vi": "tên Thợ xay Đầu sọ đánh văng mặt nạ khỏi mặt của các vị thần Toa."
     }
   },
   {
-    "subtitle": {
-      "time": "9:37",
-      "subtitle": "Without their masks, the heroes had lost their power.",
-      "translation": "Không có mặt nạ, các vị anh hùng mất đi sức mạnh của mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Without their masks, the heroes had lost their power.",
+      "vi": "Không có mặt nạ, các vị anh hùng mất đi sức mạnh của mình."
     }
   },
   {
-    "subtitle": {
-      "time": "9:42",
-      "subtitle": "But they knew they must fight on, even if victory seemed impossible.",
-      "translation": "Nhưng họ biết họ phải tiếp tục chiến đấu, kể cả khi chiến thắng dường như là điều bất khả thi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But they knew they must fight on, even if victory seemed impossible.",
+      "vi": "Nhưng họ biết họ phải tiếp tục chiến đấu, kể cả khi chiến thắng dường như là điều bất khả thi."
     }
   },
   {
-    "subtitle": {
-      "time": "9:49",
-      "subtitle": "The heroes fought bravely until they had nothing more to give.",
-      "translation": "Các vị anh hùng chiến đấu ngoan cường cho tới khi họ không còn gì nữa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "The heroes fought bravely until they had nothing more to give.",
+      "vi": "Các vị anh hùng chiến đấu ngoan cường cho tới khi họ không còn gì nữa."
     }
   },
   {
-    "subtitle": {
-      "time": "9:53",
-      "subtitle": "But their valiant effort gave Ekimu the time he needed.",
-      "translation": "Nhưng nỗ lực đầy can đảm của họ đã giúp Ekimu có đủ thời gian ngài cần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But their valiant effort gave Ekimu the time he needed.",
+      "vi": "Nhưng nỗ lực đầy can đảm của họ đã giúp Ekimu có đủ thời gian ngài cần."
     }
   },
   {
-    "subtitle": {
-      "time": "9:59",
-      "subtitle": "Now wielding his ancient hammer,",
-      "translation": "Cầm cây búa cổ của mình,",
-      "machine_translation": ""
+    "translation": {
+      "en": "Now wielding his ancient hammer,",
+      "vi": "Cầm cây búa cổ của mình,"
     }
   },
   {
-    "subtitle": {
-      "time": "10:02",
-      "subtitle": "Ekimu took back the Mask of Creation",
-      "translation": "Cầm cây búa cổ của mình, Ekimu đã lấy lại Mặt nạ Chế tác",
-      "machine_translation": ""
+    "translation": {
+      "en": "Ekimu took back the Mask of Creation",
+      "vi": "Cầm cây búa cổ của mình, Ekimu đã lấy lại Mặt nạ Chế tác"
     }
   },
   {
-    "subtitle": {
-      "time": "10:05",
-      "subtitle": "and regained the power he once had.",
-      "translation": "và khôi phục sức mạnh ngài từng có.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and regained the power he once had.",
+      "vi": "và khôi phục sức mạnh ngài từng có."
     }
   },
   {
-    "subtitle": {
-      "time": "10:10",
-      "subtitle": "The six Toa had done their duty,",
-      "translation": "Sáu vị thần Toa đã hoàn thành nhiệm vụ của mình,",
-      "machine_translation": ""
+    "translation": {
+      "en": "The six Toa had done their duty,",
+      "vi": "Sáu vị thần Toa đã hoàn thành nhiệm vụ của mình,"
     }
   },
   {
-    "subtitle": {
-      "time": "10:12",
-      "subtitle": "awakened Ekimu and retrieved the Mask of Creation.",
-      "translation": "đánh thức Ekimu và lấy lại Mặt nạ Chế tác.",
-      "machine_translation": ""
+    "translation": {
+      "en": "awakened Ekimu and retrieved the Mask of Creation.",
+      "vi": "đánh thức Ekimu và lấy lại Mặt nạ Chế tác."
     }
   },
   {
-    "subtitle": {
-      "time": "10:18",
-      "subtitle": "But evil was not defeated.",
-      "translation": "Nhưng kẻ xấu xa vẫn chưa bị đánh bại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But evil was not defeated.",
+      "vi": "Nhưng kẻ xấu xa vẫn chưa bị đánh bại."
     }
   },
   {
-    "subtitle": {
-      "time": "10:21",
-      "subtitle": "Their true fate was still waiting, deep inside the darkness.",
-      "translation": "Vận mệnh thật sự của họ vẫn đang chờ... sâu bên trong bóng tối.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Their true fate was still waiting, deep inside the darkness.",
+      "vi": "Vận mệnh thật sự của họ vẫn đang chờ... sâu bên trong bóng tối."
     }
   },
   {
-    "subtitle": {
-      "time": "10:28",
-      "subtitle": "Prophecy had brought the Toa to Okoto.",
-      "translation": "Lời tiên tri đã đưa các vị thần Toa tới Okoto.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Prophecy had brought the Toa to Okoto.",
+      "vi": "Lời tiên tri đã đưa các vị thần Toa tới Okoto."
     }
   },
   {
-    "subtitle": {
-      "time": "10:32",
-      "subtitle": "But what they’d experienced made them more than just heroes.",
-      "translation": "Nhưng những gì họ đã trải qua khiến họ không chỉ là các vị anh hùng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But what they’d experienced made them more than just heroes.",
+      "vi": "Nhưng những gì họ đã trải qua khiến họ không chỉ là các vị anh hùng."
     }
   },
   {
-    "subtitle": {
-      "time": "10:37",
-      "subtitle": "They have become legends.",
-      "translation": "Họ đã trở thành những huyền thoại.",
-      "machine_translation": ""
+    "translation": {
+      "en": "They have become legends.",
+      "vi": "Họ đã trở thành những huyền thoại."
     }
   },
   {
-    "subtitle": {
-      "time": "10:40",
-      "subtitle": "But the challenges that lie ahead are huge,",
-      "translation": "Nhưng thử thách phía trước vẫn còn rất lớn...",
-      "machine_translation": ""
+    "translation": {
+      "en": "But the challenges that lie ahead are huge,",
+      "vi": "Nhưng thử thách phía trước vẫn còn rất lớn..."
     }
   },
   {
-    "subtitle": {
-      "time": "10:45",
-      "subtitle": "and the future of our entire world is at stake.",
-      "translation": "và tương lai của cả thế giới chúng ta đang bị đe dọa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "and the future of our entire world is at stake.",
+      "vi": "và tương lai của cả thế giới chúng ta đang bị đe dọa."
     }
   },
   {
-    "subtitle": {
-      "time": "10:49",
-      "subtitle": "Their journey beings anew.",
-      "translation": "Họ bắt đầu hành trình mới.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Their journey beings anew.",
+      "vi": "Họ bắt đầu hành trình mới."
     }
   },
   {
-    "subtitle": {
-      "time": "10:53",
-      "subtitle": "With their new armour and weapons, forged by the Mask Maker himself,",
-      "translation": "Cùng với vũ khí và áo giáp mới của họ, được đích thân Thợ làm mặt nạ rèn,",
-      "machine_translation": ""
+    "translation": {
+      "en": "With their new armour and weapons, forged by the Mask Maker himself,",
+      "vi": "Cùng với vũ khí và áo giáp mới của họ, được đích thân Thợ làm mặt nạ rèn,"
     }
   },
   {
-    "subtitle": {
-      "time": "10:59",
-      "subtitle": "the quest continues.",
-      "translation": "nhiệm vụ tiếp tục được thực hiện",
-      "machine_translation": ""
+    "translation": {
+      "en": "the quest continues.",
+      "vi": "nhiệm vụ tiếp tục được thực hiện"
     }
   },
   {
-    "subtitle": {
-      "time": "11:01",
-      "subtitle": "as the Toa begin the Search for One.",
-      "translation": "khi các vị thần Toa bắt đầu Cuộc tìm kiếm Một Thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "as the Toa begin the Search for One.",
+      "vi": "khi các vị thần Toa bắt đầu Cuộc tìm kiếm Một Thể."
     }
   }
 ]

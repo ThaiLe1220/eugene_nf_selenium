@@ -1,1194 +1,896 @@
 [
   {
-    "subtitle": {
-      "time": "10s",
-      "subtitle": "-[meowing] -♪ No matter what we wear ♪ ♪ We're gonna be right there ♪",
-      "translation": "Dù mặc gì đi nữa, ta sẽ ở ngay đó",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[meowing] -♪ No matter what we wear ♪ ♪ We're gonna be right there ♪",
+      "vi": "Dù mặc gì đi nữa, ta sẽ ở ngay đó"
     }
   },
   {
-    "subtitle": {
-      "time": "14s",
-      "subtitle": "-♪ Jump to it, jump to it ♪ -[Charm Alarms chirping]",
-      "translation": "Cứ bắt đầu nào, tới luôn đi",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Jump to it, jump to it ♪ -[Charm Alarms chirping]",
+      "vi": "Cứ bắt đầu nào, tới luôn đi"
     }
   },
   {
-    "subtitle": {
-      "time": "17s",
-      "subtitle": "♪ So let's suit up And save the day ♪",
-      "translation": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ So let's suit up And save the day ♪",
+      "vi": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui"
     }
   },
   {
-    "subtitle": {
-      "time": "22s",
-      "subtitle": "♪ Gowns and crowns are always fun, And when it's time to get things done ♪",
-      "translation": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui Nhưng khi cần xong việc Công chúa mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ Gowns and crowns are always fun, And when it's time to get things done ♪",
+      "vi": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui Nhưng khi cần xong việc Công chúa mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "26s",
-      "subtitle": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
-      "translation": "Nhưng khi cần xong việc Công chúa mặc quần! Được, tiến! Lướt hay lái hay nhảy máy bay",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
+      "vi": "Nhưng khi cần xong việc Công chúa mặc quần! Được, tiến! Lướt hay lái hay nhảy máy bay"
     }
   },
   {
-    "subtitle": {
-      "time": "29s",
-      "subtitle": "-♪ Let's go! ♪ -♪ Glide or sail, or hop a plane ♪",
-      "translation": "Được, tiến! Lướt hay lái hay nhảy máy bay",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Let's go! ♪ -♪ Glide or sail, or hop a plane ♪",
+      "vi": "Được, tiến! Lướt hay lái hay nhảy máy bay"
     }
   },
   {
-    "subtitle": {
-      "time": "31s",
-      "subtitle": "♪ We'll change the world The Princess way ♪",
-      "translation": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ We'll change the world The Princess way ♪",
+      "vi": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "34s",
-      "subtitle": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
-      "translation": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần! Phải đó!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
+      "vi": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần! Phải đó!"
     }
   },
   {
-    "subtitle": {
-      "time": "36s",
-      "subtitle": "♪ With the Fruitdoms in our hands ♪ ♪ These Princesses wear pants! ♪",
-      "translation": "Với Xứ Trái Cây trong tay ta Các công chúa này mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ With the Fruitdoms in our hands ♪ ♪ These Princesses wear pants! ♪",
+      "vi": "Với Xứ Trái Cây trong tay ta Các công chúa này mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "41s",
-      "subtitle": "[all] Princess Power!",
-      "translation": "Quyền năng công chúa!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[all] Princess Power!",
+      "vi": "Quyền năng công chúa!"
     }
   },
   {
-    "subtitle": {
-      "time": "48s",
-      "subtitle": "Okay, Fussy, your \"mani-purry\" is done.",
-      "translation": "Rồi, Fussy à. Móng của mày xong rồi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Okay, Fussy, your \"mani-purry\" is done.",
+      "vi": "Rồi, Fussy à. Móng của mày xong rồi."
     }
   },
   {
-    "subtitle": {
-      "time": "54s",
-      "subtitle": "Did you say \"purr-fect\"? Glad we agree.",
-      "translation": "Thấy hoàn hảo à? Mừng là ta đồng ý.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Did you say \"purr-fect\"? Glad we agree.",
+      "vi": "Thấy hoàn hảo à? Mừng là ta đồng ý."
     }
   },
   {
-    "subtitle": {
-      "time": "56s",
-      "subtitle": "Penny darling, I was just downstairs checking in on, ah, ah!",
-      "translation": "Penny cưng, ta vừa ở dưới nhà xem…",
-      "machine_translation": ""
+    "translation": {
+      "en": "Penny darling, I was just downstairs checking in on, ah, ah!",
+      "vi": "Penny cưng, ta vừa ở dưới nhà xem…"
     }
   },
   {
-    "subtitle": {
-      "time": "1:05",
-      "subtitle": "Uh, I was gonna clean that up.",
-      "translation": "Con đã định dọn dẹp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Uh, I was gonna clean that up.",
+      "vi": "Con đã định dọn dẹp."
     }
   },
   {
-    "subtitle": {
-      "time": "1:09",
-      "subtitle": "Penny, I'm not asking for perfection,",
-      "translation": "Penny, ta không đòi hoàn hảo.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Penny, I'm not asking for perfection,",
+      "vi": "Penny, ta không đòi hoàn hảo."
     }
   },
   {
-    "subtitle": {
-      "time": "1:12",
-      "subtitle": "but yes... [chuckles] please do clean that up, and...",
-      "translation": "Nhưng phải đó, làm ơn dọn dẹp đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "but yes... [chuckles] please do clean that up, and...",
+      "vi": "Nhưng phải đó, làm ơn dọn dẹp đi."
     }
   },
   {
-    "subtitle": {
-      "time": "1:16",
-      "subtitle": "that.",
-      "translation": "Và… đống đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "that.",
+      "vi": "Và… đống đó."
     }
   },
   {
-    "subtitle": {
-      "time": "1:18",
-      "subtitle": "Take the mess and make it less. Consider it done.",
-      "translation": "Dọn đống bừa bãi. Con sẽ làm ngay ạ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Take the mess and make it less. Consider it done.",
+      "vi": "Dọn đống bừa bãi. Con sẽ làm ngay ạ."
     }
   },
   {
-    "subtitle": {
-      "time": "1:21",
-      "subtitle": "Thank you.",
-      "translation": "Cảm ơn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Thank you.",
+      "vi": "Cảm ơn."
     }
   },
   {
-    "subtitle": {
-      "time": "1:23",
-      "subtitle": "And I've got just the thing.",
-      "translation": "Có đúng thứ mình cần.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And I've got just the thing.",
+      "vi": "Có đúng thứ mình cần."
     }
   },
   {
-    "subtitle": {
-      "time": "1:34",
-      "subtitle": "My newest creation is ready! Behold! The Super-Duper Clutter Picker-Upper!",
-      "translation": "Sáng chế mới nhất sẵn sàng rồi. Nhìn này, chất Siêu Kết nối Hỗn tạp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "My newest creation is ready! Behold! The Super-Duper Clutter Picker-Upper!",
+      "vi": "Sáng chế mới nhất sẵn sàng rồi. Nhìn này, chất Siêu Kết nối Hỗn tạp."
     }
   },
   {
-    "subtitle": {
-      "time": "1:44",
-      "subtitle": "This solution will make a bubble that can pick up any mess anywhere any time.",
-      "translation": "Dung dịch này tạo ra bong bóng dọn đồ bất kỳ lúc nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This solution will make a bubble that can pick up any mess anywhere any time.",
+      "vi": "Dung dịch này tạo ra bong bóng dọn đồ bất kỳ lúc nào."
     }
   },
   {
-    "subtitle": {
-      "time": "1:48",
-      "subtitle": "It'll revolutionize cleaning all over the Fruitdom!",
-      "translation": "Cải tiến việc dọn dẹp ở Xứ Trái Cây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It'll revolutionize cleaning all over the Fruitdom!",
+      "vi": "Cải tiến việc dọn dẹp ở Xứ Trái Cây."
     }
   },
   {
-    "subtitle": {
-      "time": "1:54",
-      "subtitle": "It's unstoppable, it's unpoppable!",
-      "translation": "Không thể cản. Không thể chọc vỡ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's unstoppable, it's unpoppable!",
+      "vi": "Không thể cản. Không thể chọc vỡ."
     }
   },
   {
-    "subtitle": {
-      "time": "2:04",
-      "subtitle": "But not Fussy-proof. I guess it's back to the drawing board.",
-      "translation": "Không cản nổi Fussy. Chắc phải chế tạo từ đầu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But not Fussy-proof. I guess it's back to the drawing board.",
+      "vi": "Không cản nổi Fussy. Chắc phải chế tạo từ đầu."
     }
   },
   {
-    "subtitle": {
-      "time": "2:09",
-      "subtitle": "[gasps] The Charm Alarm!",
-      "translation": "Báo động!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[gasps] The Charm Alarm!",
+      "vi": "Báo động!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:15",
-      "subtitle": "Kira needs us!",
-      "translation": "Kira cần bọn mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Kira needs us!",
+      "vi": "Kira cần bọn mình."
     }
   },
   {
-    "subtitle": {
-      "time": "2:20",
-      "subtitle": "-[purrs] -Come on, Fussy!",
-      "translation": "Đi nào, Fussy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[purrs] -Come on, Fussy!",
+      "vi": "Đi nào, Fussy."
     }
   },
   {
-    "subtitle": {
-      "time": "2:25",
-      "subtitle": "♪ Let's go, let's go Na na na na na na ♪ ♪ When the trouble in our world Feels too big for one alone ♪",
-      "translation": "Đi thôi! Nào! Khi một mình khó đương đầu rắc rối ở thế giới của ta",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ Let's go, let's go Na na na na na na ♪ ♪ When the trouble in our world Feels too big for one alone ♪",
+      "vi": "Đi thôi! Nào! Khi một mình khó đương đầu rắc rối ở thế giới của ta"
     }
   },
   {
-    "subtitle": {
-      "time": "2:32",
-      "subtitle": "-♪ Yeah! ♪ -♪ Na na na na na na ♪",
-      "translation": "Phải rồi! Nào!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Yeah! ♪ -♪ Na na na na na na ♪",
+      "vi": "Phải rồi! Nào!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:33",
-      "subtitle": "-♪ We jump right into action ♪ -♪ That's right! ♪",
-      "translation": "Ta hành động tức thì",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ We jump right into action ♪ -♪ That's right! ♪",
+      "vi": "Ta hành động tức thì"
     }
   },
   {
-    "subtitle": {
-      "time": "2:35",
-      "subtitle": "-♪ To help those in need ♪ -♪ Okay! ♪",
-      "translation": "Giúp người cần giúp!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ To help those in need ♪ -♪ Okay! ♪",
+      "vi": "Giúp người cần giúp!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:36",
-      "subtitle": "♪ Every mistake we make ♪ -♪ Is just a step along the way ♪ -Whoo-hoo!",
-      "translation": "Mọi sai lầm chỉ là một bước để tiến lên!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ Every mistake we make ♪ -♪ Is just a step along the way ♪ -Whoo-hoo!",
+      "vi": "Mọi sai lầm chỉ là một bước để tiến lên!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:40",
-      "subtitle": "♪ So let's go, go, go, Come on let's take on the day ♪",
-      "translation": "Vậy tiến lên nào! Đi nào, hãy đối đầu khó khăn!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ So let's go, go, go, Come on let's take on the day ♪",
+      "vi": "Vậy tiến lên nào! Đi nào, hãy đối đầu khó khăn!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:45",
-      "subtitle": "-♪ Let's take on the day ♪ -♪ Yeah! ♪ ♪ We'll just try 'til we get it right! ♪",
-      "translation": "Hãy đối đầu khó khăn! Ta sẽ cố cho đến khi làm đúng!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Let's take on the day ♪ -♪ Yeah! ♪ ♪ We'll just try 'til we get it right! ♪",
+      "vi": "Hãy đối đầu khó khăn! Ta sẽ cố cho đến khi làm đúng!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:51",
-      "subtitle": "♪ And never give up the fight! ♪ ♪ 'Cause that's the Princess way! ♪",
-      "translation": "Và đừng bao giờ từ bỏ đấu tranh Vì đó là cách thức của công chúa!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ And never give up the fight! ♪ ♪ 'Cause that's the Princess way! ♪",
+      "vi": "Và đừng bao giờ từ bỏ đấu tranh Vì đó là cách thức của công chúa!"
     }
   },
   {
-    "subtitle": {
-      "time": "2:56",
-      "subtitle": "Princesses, I need your help!",
-      "translation": "Công chúa, giúp với nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Princesses, I need your help!",
+      "vi": "Công chúa, giúp với nào."
     }
   },
   {
-    "subtitle": {
-      "time": "2:58",
-      "subtitle": "Mr. Scrumples ran up the fireplace. He's too scared to come down and too high for me to reach him!",
-      "translation": "Scrumples chạy lên ống khói. Nó sợ chả dám xuống, quá cao với tớ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Mr. Scrumples ran up the fireplace. He's too scared to come down and too high for me to reach him!",
+      "vi": "Scrumples chạy lên ống khói. Nó sợ chả dám xuống, quá cao với tớ."
     }
   },
   {
-    "subtitle": {
-      "time": "3:03",
-      "subtitle": "A trapped Teenykin?",
-      "translation": "Thú cưng bị mắc kẹt? Đó là một thảm họa lớn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "A trapped Teenykin?",
+      "vi": "Thú cưng bị mắc kẹt? Đó là một thảm họa lớn."
     }
   },
   {
-    "subtitle": {
-      "time": "3:05",
-      "subtitle": "That's a huge-ikin disaster! Of course we'll help!",
-      "translation": "Thú cưng bị mắc kẹt? Đó là một thảm họa lớn. Dĩ nhiên sẽ giúp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "That's a huge-ikin disaster! Of course we'll help!",
+      "vi": "Thú cưng bị mắc kẹt? Đó là một thảm họa lớn. Dĩ nhiên sẽ giúp."
     }
   },
   {
-    "subtitle": {
-      "time": "3:09",
-      "subtitle": "We Pinkie Tea Promise to help those in need. [all] With our Princess Power, we'll always succeed!",
-      "translation": "Ta hứa sẽ giúp ai cần giúp. Luôn thành công nhờ quyền năng công chúa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We Pinkie Tea Promise to help those in need. [all] With our Princess Power, we'll always succeed!",
+      "vi": "Ta hứa sẽ giúp ai cần giúp. Luôn thành công nhờ quyền năng công chúa."
     }
   },
   {
-    "subtitle": {
-      "time": "3:23",
-      "subtitle": "To the Kiwi Fruitdom!",
-      "translation": "Đến Xứ Kiwi nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "To the Kiwi Fruitdom!",
+      "vi": "Đến Xứ Kiwi nào."
     }
   },
   {
-    "subtitle": {
-      "time": "3:32",
-      "subtitle": "[Penny] Wow, that's a big fireplace.",
-      "translation": "Chà. Ống khói lớn đấy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Penny] Wow, that's a big fireplace.",
+      "vi": "Chà. Ống khói lớn đấy."
     }
   },
   {
-    "subtitle": {
-      "time": "3:35",
-      "subtitle": "We're supposed to find one little hamster inside?",
-      "translation": "Phải tìm chuột lang nhỏ ở trong à?",
-      "machine_translation": ""
+    "translation": {
+      "en": "We're supposed to find one little hamster inside?",
+      "vi": "Phải tìm chuột lang nhỏ ở trong à?"
     }
   },
   {
-    "subtitle": {
-      "time": "3:38",
-      "subtitle": "Challenge accepted.",
-      "translation": "Chấp nhận thử thách.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Challenge accepted.",
+      "vi": "Chấp nhận thử thách."
     }
   },
   {
-    "subtitle": {
-      "time": "3:47",
-      "subtitle": "Work with me, pal! I'm trying to get you unstuck!",
-      "translation": "Hợp tác đi, tao cố giúp mày thoát.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Work with me, pal! I'm trying to get you unstuck!",
+      "vi": "Hợp tác đi, tao cố giúp mày thoát."
     }
   },
   {
-    "subtitle": {
-      "time": "3:58",
-      "subtitle": "Ugh, now I'm stuck too! Fireplace: one. Bea: zero.",
-      "translation": "Giờ mình cũng bị kẹt. Ống khói, một. Bea, không.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Ugh, now I'm stuck too! Fireplace: one. Bea: zero.",
+      "vi": "Giờ mình cũng bị kẹt. Ống khói, một. Bea, không."
     }
   },
   {
-    "subtitle": {
-      "time": "4:04",
-      "subtitle": "A little help, Princesses?",
-      "translation": "Các cậu giúp nhé?",
-      "machine_translation": ""
+    "translation": {
+      "en": "A little help, Princesses?",
+      "vi": "Các cậu giúp nhé?"
     }
   },
   {
-    "subtitle": {
-      "time": "4:05",
-      "subtitle": "Any chance you've got a rope in that kit?",
-      "translation": "Cậu có dây thừng không?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Any chance you've got a rope in that kit?",
+      "vi": "Cậu có dây thừng không?"
     }
   },
   {
-    "subtitle": {
-      "time": "4:08",
-      "subtitle": "Not yet. But I'll fashion up a be-dazzlous one before I can say... Ta-da!",
-      "translation": "Chưa, mà trước khi nói tèn ten tớ sẽ chế ra dây thừng sành điệu!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Not yet. But I'll fashion up a be-dazzlous one before I can say... Ta-da!",
+      "vi": "Chưa, mà trước khi nói tèn ten tớ sẽ chế ra dây thừng sành điệu!"
     }
   },
   {
-    "subtitle": {
-      "time": "4:13",
-      "subtitle": "Hold on, Bea!",
-      "translation": "Chờ đó, Bea.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Hold on, Bea!",
+      "vi": "Chờ đó, Bea."
     }
   },
   {
-    "subtitle": {
-      "time": "4:21",
-      "subtitle": "Nice pull, Rita.",
-      "translation": "Rita kéo được đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Nice pull, Rita.",
+      "vi": "Rita kéo được đó."
     }
   },
   {
-    "subtitle": {
-      "time": "4:23",
-      "subtitle": "[pants] Thanks. My fashions are fantabulous and functional.",
-      "translation": "Cảm ơn. Thời trang của tớ rất tuyệt và tiện dụng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[pants] Thanks. My fashions are fantabulous and functional.",
+      "vi": "Cảm ơn. Thời trang của tớ rất tuyệt và tiện dụng."
     }
   },
   {
-    "subtitle": {
-      "time": "4:28",
-      "subtitle": "I tried, but I think Mr. Scrumples only likes you.",
-      "translation": "Tớ đã cố nhưng Scrumples chỉ thích cậu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I tried, but I think Mr. Scrumples only likes you.",
+      "vi": "Tớ đã cố nhưng Scrumples chỉ thích cậu."
     }
   },
   {
-    "subtitle": {
-      "time": "4:31",
-      "subtitle": "Bee stings!",
-      "translation": "Ôi trời!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Bee stings!",
+      "vi": "Ôi trời!"
     }
   },
   {
-    "subtitle": {
-      "time": "4:33",
-      "subtitle": "If I were a bird, I'd soar up and carry him out!",
-      "translation": "Tớ mà là chim, tớ sẽ bay lên và bế nó ra.",
-      "machine_translation": ""
+    "translation": {
+      "en": "If I were a bird, I'd soar up and carry him out!",
+      "vi": "Tớ mà là chim, tớ sẽ bay lên và bế nó ra."
     }
   },
   {
-    "subtitle": {
-      "time": "4:38",
-      "subtitle": "But I can't.",
-      "translation": "Mà không thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But I can't.",
+      "vi": "Mà không thể."
     }
   },
   {
-    "subtitle": {
-      "time": "4:39",
-      "subtitle": "But my unstoppable, unpoppable bubble can!",
-      "translation": "Nhưng bong bóng vô địch của tớ có thể.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But my unstoppable, unpoppable bubble can!",
+      "vi": "Nhưng bong bóng vô địch của tớ có thể."
     }
   },
   {
-    "subtitle": {
-      "time": "4:43",
-      "subtitle": "Your unpoppable, boppable w-w-what?",
-      "translation": "Bong bóng vô địch cái gì cơ?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Your unpoppable, boppable w-w-what?",
+      "vi": "Bong bóng vô địch cái gì cơ?"
     }
   },
   {
-    "subtitle": {
-      "time": "4:47",
-      "subtitle": "I can send a bubble up the chimney that'll pick up Mr. Scrumples and float him out the top!",
-      "translation": "Tớ thả bong bóng lên ống khói đón Scrumples và nâng nó ra ngoài.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I can send a bubble up the chimney that'll pick up Mr. Scrumples and float him out the top!",
+      "vi": "Tớ thả bong bóng lên ống khói đón Scrumples và nâng nó ra ngoài."
     }
   },
   {
-    "subtitle": {
-      "time": "4:52",
-      "subtitle": "Then I can catch him when he comes out! And I'll bring four extra paws so I can't miss.",
-      "translation": "Rồi tớ đón nó khi nó bay ra. Tớ sẽ mang thêm bốn chân để không trượt.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Then I can catch him when he comes out! And I'll bring four extra paws so I can't miss.",
+      "vi": "Rồi tớ đón nó khi nó bay ra. Tớ sẽ mang thêm bốn chân để không trượt."
     }
   },
   {
-    "subtitle": {
-      "time": "4:57",
-      "subtitle": "-Come on, Fussy. -[shrieks]",
-      "translation": "Đi nào, Fussy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-Come on, Fussy. -[shrieks]",
+      "vi": "Đi nào, Fussy."
     }
   },
   {
-    "subtitle": {
-      "time": "4:59",
-      "subtitle": "This'll be my strongest bubble yet.",
-      "translation": "Bong bóng mạnh nhất của tớ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "This'll be my strongest bubble yet.",
+      "vi": "Bong bóng mạnh nhất của tớ."
     }
   },
   {
-    "subtitle": {
-      "time": "5:15",
-      "subtitle": "Heads up, Kira! It's comin'!",
-      "translation": "Kira cẩn thận. Bong bóng đang đến.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Heads up, Kira! It's comin'!",
+      "vi": "Kira cẩn thận. Bong bóng đang đến."
     }
   },
   {
-    "subtitle": {
-      "time": "5:17",
-      "subtitle": "Let's go to the balcony and see if it works.",
-      "translation": "Ra ban công xem hiệu quả không.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Let's go to the balcony and see if it works.",
+      "vi": "Ra ban công xem hiệu quả không."
     }
   },
   {
-    "subtitle": {
-      "time": "5:22",
-      "subtitle": "Fussy, do you see Mr. Scrumples? Is he close?",
-      "translation": "Fussy, thấy Scrumples chứ? Nó có ở gần không vậy?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Fussy, do you see Mr. Scrumples? Is he close?",
+      "vi": "Fussy, thấy Scrumples chứ? Nó có ở gần không vậy?"
     }
   },
   {
-    "subtitle": {
-      "time": "5:31",
-      "subtitle": "[gasps] Fussy!",
-      "translation": "Fussy!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[gasps] Fussy!",
+      "vi": "Fussy!"
     }
   },
   {
-    "subtitle": {
-      "time": "5:35",
-      "subtitle": "Oh. The bubble got you. I'm so glad.",
-      "translation": "Bong bóng đón được mày. Mừng quá!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh. The bubble got you. I'm so glad.",
+      "vi": "Bong bóng đón được mày. Mừng quá!"
     }
   },
   {
-    "subtitle": {
-      "time": "5:40",
-      "subtitle": "[gasps] And now it got me!",
-      "translation": "Nó hút cả mình.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[gasps] And now it got me!",
+      "vi": "Nó hút cả mình."
     }
   },
   {
-    "subtitle": {
-      "time": "5:46",
-      "subtitle": "Princesses, look!",
-      "translation": "Các cậu nhìn kìa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Princesses, look!",
+      "vi": "Các cậu nhìn kìa."
     }
   },
   {
-    "subtitle": {
-      "time": "5:53",
-      "subtitle": "Well, on the plus side, your bubble worked.",
-      "translation": "Bong bóng của cậu hiệu quả.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, on the plus side, your bubble worked.",
+      "vi": "Bong bóng của cậu hiệu quả."
     }
   },
   {
-    "subtitle": {
-      "time": "5:55",
-      "subtitle": "Too well!",
-      "translation": "Quá hiệu quả.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Too well!",
+      "vi": "Quá hiệu quả."
     }
   },
   {
-    "subtitle": {
-      "time": "5:57",
-      "subtitle": "We gotta stop them before they float away! Or before Fussy pops that bubble!",
-      "translation": "Phải chặn họ kẻo họ bay xa. Hoặc trước khi Fussy làm nổ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "We gotta stop them before they float away! Or before Fussy pops that bubble!",
+      "vi": "Phải chặn họ kẻo họ bay xa. Hoặc trước khi Fussy làm nổ."
     }
   },
   {
-    "subtitle": {
-      "time": "6:01",
-      "subtitle": "To the Pineapple plane!",
-      "translation": "Hãy ra máy bay dứa nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "To the Pineapple plane!",
+      "vi": "Hãy ra máy bay dứa nào."
     }
   },
   {
-    "subtitle": {
-      "time": "6:06",
-      "subtitle": "Everything looks so tiny from up here.",
-      "translation": "Từ trên nhìn gì cũng bé.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Everything looks so tiny from up here.",
+      "vi": "Từ trên nhìn gì cũng bé."
     }
   },
   {
-    "subtitle": {
-      "time": "6:08",
-      "subtitle": "It's kinda soothing, don't you think?",
-      "translation": "Dễ chịu ghê, phải chứ?",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's kinda soothing, don't you think?",
+      "vi": "Dễ chịu ghê, phải chứ?"
     }
   },
   {
-    "subtitle": {
-      "time": "6:17",
-      "subtitle": "Fussy, no! If you pop this bubble, we all fall.",
-      "translation": "Đừng, Fussy! Vỡ bong bóng là ta rơi xuống.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Fussy, no! If you pop this bubble, we all fall.",
+      "vi": "Đừng, Fussy! Vỡ bong bóng là ta rơi xuống."
     }
   },
   {
-    "subtitle": {
-      "time": "6:27",
-      "subtitle": "Make a beeline for that bubble!",
-      "translation": "Bay thẳng tới bong bóng đó!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Make a beeline for that bubble!",
+      "vi": "Bay thẳng tới bong bóng đó!"
     }
   },
   {
-    "subtitle": {
-      "time": "6:38",
-      "subtitle": "Science snag. When we get close, the propeller blows it away!",
-      "translation": "Trục trặc khoa học. Ta đến gần, cánh quạt thổi bay nó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Science snag. When we get close, the propeller blows it away!",
+      "vi": "Trục trặc khoa học. Ta đến gần, cánh quạt thổi bay nó."
     }
   },
   {
-    "subtitle": {
-      "time": "6:42",
-      "subtitle": "Oh, ruffles! It's spinning out of control toward the Pineapple Fruitdom!",
-      "translation": "Tệ quá! Nó đang mất kiểm soát, bay về Xứ Dứa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, ruffles! It's spinning out of control toward the Pineapple Fruitdom!",
+      "vi": "Tệ quá! Nó đang mất kiểm soát, bay về Xứ Dứa."
     }
   },
   {
-    "subtitle": {
-      "time": "6:54",
-      "subtitle": "Don't worry, Fussy. We're safe, I promise.",
-      "translation": "Fussy đừng lo. Ta an toàn mà. Tao hứa.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Don't worry, Fussy. We're safe, I promise.",
+      "vi": "Fussy đừng lo. Ta an toàn mà. Tao hứa."
     }
   },
   {
-    "subtitle": {
-      "time": "6:59",
-      "subtitle": "This is an epic case of bubble trouble!",
-      "translation": "Sự cố bong bóng hoành tráng!",
-      "machine_translation": ""
+    "translation": {
+      "en": "This is an epic case of bubble trouble!",
+      "vi": "Sự cố bong bóng hoành tráng!"
     }
   },
   {
-    "subtitle": {
-      "time": "7:01",
-      "subtitle": "And it's not over! Now the bubble's headed right for that pelican!",
-      "translation": "Và chưa xong. Giờ bong bóng hướng về phía bồ nông đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And it's not over! Now the bubble's headed right for that pelican!",
+      "vi": "Và chưa xong. Giờ bong bóng hướng về phía bồ nông đó."
     }
   },
   {
-    "subtitle": {
-      "time": "7:07",
-      "subtitle": "Uh-oh. That pelican can burst our bubble with his beak.",
-      "translation": "Bồ nông dễ làm vỡ bong bóng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Uh-oh. That pelican can burst our bubble with his beak.",
+      "vi": "Bồ nông dễ làm vỡ bong bóng."
     }
   },
   {
-    "subtitle": {
-      "time": "7:12",
-      "subtitle": "Think, think, think.",
-      "translation": "Suy nghĩ đi nào.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Think, think, think.",
+      "vi": "Suy nghĩ đi nào."
     }
   },
   {
-    "subtitle": {
-      "time": "7:14",
-      "subtitle": "If I were a bird, what would shoo me away?",
-      "translation": "Nếu là chim, điều gì sẽ đuổi mình đi?",
-      "machine_translation": ""
+    "translation": {
+      "en": "If I were a bird, what would shoo me away?",
+      "vi": "Nếu là chim, điều gì sẽ đuổi mình đi?"
     }
   },
   {
-    "subtitle": {
-      "time": "7:18",
-      "subtitle": "A coyote!",
-      "translation": "Sói đồng cỏ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "A coyote!",
+      "vi": "Sói đồng cỏ."
     }
   },
   {
-    "subtitle": {
-      "time": "7:29",
-      "subtitle": "Wait! You don't want to peck that bubble.",
-      "translation": "Khoan đã! Mày có đừng mổ vỡ bong bóng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Wait! You don't want to peck that bubble.",
+      "vi": "Khoan đã! Mày có đừng mổ vỡ bong bóng."
     }
   },
   {
-    "subtitle": {
-      "time": "7:33",
-      "subtitle": "You want to peck a tantalizing tuna fish tea sandwich.",
-      "translation": "Mày sẽ muốn mổ bánh mì trà kẹp cá ngừ hấp dẫn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You want to peck a tantalizing tuna fish tea sandwich.",
+      "vi": "Mày sẽ muốn mổ bánh mì trà kẹp cá ngừ hấp dẫn."
     }
   },
   {
-    "subtitle": {
-      "time": "7:44",
-      "subtitle": "Phew!",
-      "translation": "Phù.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Phew!",
+      "vi": "Phù."
     }
   },
   {
-    "subtitle": {
-      "time": "7:46",
-      "subtitle": "[sighs] That was too, too, too close.",
-      "translation": "Suýt nữa thì tiêu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[sighs] That was too, too, too close.",
+      "vi": "Suýt nữa thì tiêu."
     }
   },
   {
-    "subtitle": {
-      "time": "7:49",
-      "subtitle": "And interesting. The pelican's added weight made the bubble lower a little.",
-      "translation": "Và thật thú vị. Bồ nông làm bong bóng nặng và hạ thấp.",
-      "machine_translation": ""
+    "translation": {
+      "en": "And interesting. The pelican's added weight made the bubble lower a little.",
+      "vi": "Và thật thú vị. Bồ nông làm bong bóng nặng và hạ thấp."
     }
   },
   {
-    "subtitle": {
-      "time": "7:54",
-      "subtitle": "So if my calculations are correct, if we add more weight to the bubble,",
-      "translation": "Nếu tớ tính đúng, khi ta thêm trọng lượng vào bong bóng,",
-      "machine_translation": ""
+    "translation": {
+      "en": "So if my calculations are correct, if we add more weight to the bubble,",
+      "vi": "Nếu tớ tính đúng, khi ta thêm trọng lượng vào bong bóng,"
     }
   },
   {
-    "subtitle": {
-      "time": "7:58",
-      "subtitle": "it'll get lower and lower until it lands!",
-      "translation": "nó sẽ hạ thấp dần tới khi đáp đất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "it'll get lower and lower until it lands!",
+      "vi": "nó sẽ hạ thấp dần tới khi đáp đất."
     }
   },
   {
-    "subtitle": {
-      "time": "8:01",
-      "subtitle": "Science success!",
-      "translation": "Thành công khoa học.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Science success!",
+      "vi": "Thành công khoa học."
     }
   },
   {
-    "subtitle": {
-      "time": "8:03",
-      "subtitle": "Okay! So how do we put things in the bubble if we can't get close to it?",
-      "translation": "Rồi. Vậy làm sao ta đưa đồ vào nếu không thể đến gần bong bóng?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Okay! So how do we put things in the bubble if we can't get close to it?",
+      "vi": "Rồi. Vậy làm sao ta đưa đồ vào nếu không thể đến gần bong bóng?"
     }
   },
   {
-    "subtitle": {
-      "time": "8:09",
-      "subtitle": "Oh, oh, oh! I know! It's all in the wrist. And the kit.",
-      "translation": "Biết rồi! Tất cả nhờ cổ tay và bộ dụng cụ.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Oh, oh, oh! I know! It's all in the wrist. And the kit.",
+      "vi": "Biết rồi! Tất cả nhờ cổ tay và bộ dụng cụ."
     }
   },
   {
-    "subtitle": {
-      "time": "8:14",
-      "subtitle": "I can fashion up a be-dazzlous slingshot!",
-      "translation": "Tớ sẽ tạo súng cao su đỉnh cao.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I can fashion up a be-dazzlous slingshot!",
+      "vi": "Tớ sẽ tạo súng cao su đỉnh cao."
     }
   },
   {
-    "subtitle": {
-      "time": "8:17",
-      "subtitle": "Sweet! But where do we find stuff to sling?",
-      "translation": "Hay đó, mà kiếm đâu ra đồ để bắn?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Sweet! But where do we find stuff to sling?",
+      "vi": "Hay đó, mà kiếm đâu ra đồ để bắn?"
     }
   },
   {
-    "subtitle": {
-      "time": "8:20",
-      "subtitle": "Check around your feet!",
-      "translation": "Xem quanh chân cậu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Check around your feet!",
+      "vi": "Xem quanh chân cậu."
     }
   },
   {
-    "subtitle": {
-      "time": "8:22",
-      "subtitle": "[gasps] This thing is loaded with stuff! Here you go, Rita!",
-      "translation": "Máy bay chứa đầy đồ. Tới đây nào, Rita.",
-      "machine_translation": ""
+    "translation": {
+      "en": "[gasps] This thing is loaded with stuff! Here you go, Rita!",
+      "vi": "Máy bay chứa đầy đồ. Tới đây nào, Rita."
     }
   },
   {
-    "subtitle": {
-      "time": "8:40",
-      "subtitle": "True story: you gotta keep stuff around 'cause you'll never know when you'll have to Princess on the go.",
-      "translation": "Phải giữ đồ xung quanh vì ta đâu biết khi nào chúng sẽ hữu dụng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "True story: you gotta keep stuff around 'cause you'll never know when you'll have to Princess on the go.",
+      "vi": "Phải giữ đồ xung quanh vì ta đâu biết khi nào chúng sẽ hữu dụng."
     }
   },
   {
-    "subtitle": {
-      "time": "8:45",
-      "subtitle": "Okay, for real, those boots look so good on you.",
-      "translation": "Được rồi, thật đấy, đôi bốt đó trông rất hợp với cậu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Okay, for real, those boots look so good on you.",
+      "vi": "Được rồi, thật đấy, đôi bốt đó trông rất hợp với cậu."
     }
   },
   {
-    "subtitle": {
-      "time": "8:57",
-      "subtitle": "It's working! Oh, but I'm out of stuff to sling!",
-      "translation": "Hiệu quả rồi. Nhưng tớ hết đồ để bắn.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's working! Oh, but I'm out of stuff to sling!",
+      "vi": "Hiệu quả rồi. Nhưng tớ hết đồ để bắn."
     }
   },
   {
-    "subtitle": {
-      "time": "9:00",
-      "subtitle": "Me too! Everything else is bolted down.",
-      "translation": "Tớ cũng vậy. Đồ còn lại bị gắn xuống.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Me too! Everything else is bolted down.",
+      "vi": "Tớ cũng vậy. Đồ còn lại bị gắn xuống."
     }
   },
   {
-    "subtitle": {
-      "time": "9:04",
-      "subtitle": "Well, I'm not bolted down.",
-      "translation": "Chà, tớ không bị gắn xuống.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Well, I'm not bolted down.",
+      "vi": "Chà, tớ không bị gắn xuống."
     }
   },
   {
-    "subtitle": {
-      "time": "9:06",
-      "subtitle": "Penny, fly over the bubble. I'm going in!",
-      "translation": "Penny, bay qua bong bóng. Tớ vào đó đây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Penny, fly over the bubble. I'm going in!",
+      "vi": "Penny, bay qua bong bóng. Tớ vào đó đây."
     }
   },
   {
-    "subtitle": {
-      "time": "9:10",
-      "subtitle": "What? That sounds like the worst idea since socks with sandals!",
-      "translation": "Gì? Ý tưởng tệ nhất kể từ vụ tất với xăng đan.",
-      "machine_translation": ""
+    "translation": {
+      "en": "What? That sounds like the worst idea since socks with sandals!",
+      "vi": "Gì? Ý tưởng tệ nhất kể từ vụ tất với xăng đan."
     }
   },
   {
-    "subtitle": {
-      "time": "9:13",
-      "subtitle": "Are you sure?",
-      "translation": "Cậu chắc chứ?",
-      "machine_translation": ""
+    "translation": {
+      "en": "Are you sure?",
+      "vi": "Cậu chắc chứ?"
     }
   },
   {
-    "subtitle": {
-      "time": "9:15",
-      "subtitle": "You got nothing to show for it if you don’t go for it.",
-      "translation": "Không thực hiện thì có gì để mà thể hiện.",
-      "machine_translation": ""
+    "translation": {
+      "en": "You got nothing to show for it if you don’t go for it.",
+      "vi": "Không thực hiện thì có gì để mà thể hiện."
     }
   },
   {
-    "subtitle": {
-      "time": "9:19",
-      "subtitle": "Get ready, Bea!",
-      "translation": "Bea sẵn sàng đi.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Get ready, Bea!",
+      "vi": "Bea sẵn sàng đi."
     }
   },
   {
-    "subtitle": {
-      "time": "9:23",
-      "subtitle": "One, two, three.",
-      "translation": "Một, hai, ba!",
-      "machine_translation": ""
+    "translation": {
+      "en": "One, two, three.",
+      "vi": "Một, hai, ba!"
     }
   },
   {
-    "subtitle": {
-      "time": "9:28",
-      "subtitle": "Go!",
-      "translation": "Tiến nào!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Go!",
+      "vi": "Tiến nào!"
     }
   },
   {
-    "subtitle": {
-      "time": "9:31",
-      "subtitle": "Ugh! Am I late for tea? -[Fussy meows] -Oops! Sorry, Fussy.",
-      "translation": "Tớ muộn giờ trà à? Ối! Xin lỗi, Fussy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Ugh! Am I late for tea? -[Fussy meows] -Oops! Sorry, Fussy.",
+      "vi": "Tớ muộn giờ trà à? Ối! Xin lỗi, Fussy."
     }
   },
   {
-    "subtitle": {
-      "time": "9:38",
-      "subtitle": "-[meows] -Teenykin-tastic timing!",
-      "translation": "Canh thời điểm rất xuất sắc.",
-      "machine_translation": ""
+    "translation": {
+      "en": "-[meows] -Teenykin-tastic timing!",
+      "vi": "Canh thời điểm rất xuất sắc."
     }
   },
   {
-    "subtitle": {
-      "time": "9:41",
-      "subtitle": "Especially since we're so low in the sky. I think we might be landing.",
-      "translation": "Nhất là vì ta ở rất thấp, có lẽ sắp xuống đất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Especially since we're so low in the sky. I think we might be landing.",
+      "vi": "Nhất là vì ta ở rất thấp, có lẽ sắp xuống đất."
     }
   },
   {
-    "subtitle": {
-      "time": "9:44",
-      "subtitle": "Please return your seats to their full upright position.",
-      "translation": "Hãy đưa ghế về vị trí thẳng đứng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Please return your seats to their full upright position.",
+      "vi": "Hãy đưa ghế về vị trí thẳng đứng."
     }
   },
   {
-    "subtitle": {
-      "time": "9:47",
-      "subtitle": "Gutter ball. I didn't get us low enough to land.",
-      "translation": "Thôi rồi. Tớ đẩy chưa đủ để ta xuống đất.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Gutter ball. I didn't get us low enough to land.",
+      "vi": "Thôi rồi. Tớ đẩy chưa đủ để ta xuống đất."
     }
   },
   {
-    "subtitle": {
-      "time": "9:52",
-      "subtitle": "But Penny's bedroom is right there!",
-      "translation": "Phòng ngủ của Penny ở đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But Penny's bedroom is right there!",
+      "vi": "Phòng ngủ của Penny ở đó."
     }
   },
   {
-    "subtitle": {
-      "time": "9:54",
-      "subtitle": "And if this bubble was a puzzle piece, it would fit right inside Penny's bedroom window!",
-      "translation": "Nếu bong bóng này là mảnh ghép, nó sẽ vừa khít cửa sổ phòng ngủ của Penny!",
-      "machine_translation": ""
+    "translation": {
+      "en": "And if this bubble was a puzzle piece, it would fit right inside Penny's bedroom window!",
+      "vi": "Nếu bong bóng này là mảnh ghép, nó sẽ vừa khít cửa sổ phòng ngủ của Penny!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:00",
-      "subtitle": "But we're not floating towards Penny's window.",
-      "translation": "Nhưng ta đâu có bay về phía đó.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But we're not floating towards Penny's window.",
+      "vi": "Nhưng ta đâu có bay về phía đó."
     }
   },
   {
-    "subtitle": {
-      "time": "10:03",
-      "subtitle": "We will be! Everybody, run with me!",
-      "translation": "Chúng ta sẽ. Tất cả chạy cùng tớ nào!",
-      "machine_translation": ""
+    "translation": {
+      "en": "We will be! Everybody, run with me!",
+      "vi": "Chúng ta sẽ. Tất cả chạy cùng tớ nào!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:14",
-      "subtitle": "For real? They're exercising now?",
-      "translation": "Thật à? Họ đang tập thể dục à?",
-      "machine_translation": ""
+    "translation": {
+      "en": "For real? They're exercising now?",
+      "vi": "Thật à? Họ đang tập thể dục à?"
     }
   },
   {
-    "subtitle": {
-      "time": "10:16",
-      "subtitle": "No. They're controlling the bubble's direction!",
-      "translation": "Không. Họ đang kiểm soát hướng bong bóng.",
-      "machine_translation": ""
+    "translation": {
+      "en": "No. They're controlling the bubble's direction!",
+      "vi": "Không. Họ đang kiểm soát hướng bong bóng."
     }
   },
   {
-    "subtitle": {
-      "time": "10:20",
-      "subtitle": "It's bubble brilliant!",
-      "translation": "Thật là xuất sắc mà!",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's bubble brilliant!",
+      "vi": "Thật là xuất sắc mà!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:25",
-      "subtitle": "Brace yourself for impact!",
-      "translation": "Chuẩn bị va chạm!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Brace yourself for impact!",
+      "vi": "Chuẩn bị va chạm!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:27",
-      "subtitle": "Three, two, one!",
-      "translation": "Ba, hai, một!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Three, two, one!",
+      "vi": "Ba, hai, một!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:32",
-      "subtitle": "[Bea] Ricochet bank shot for the win!",
-      "translation": "Bật nảy trúng mục tiêu!",
-      "machine_translation": ""
+    "translation": {
+      "en": "[Bea] Ricochet bank shot for the win!",
+      "vi": "Bật nảy trúng mục tiêu!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:38",
-      "subtitle": "Goal!",
-      "translation": "Vào rồi!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Goal!",
+      "vi": "Vào rồi!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:45",
-      "subtitle": "Game, set, and match, Bea!",
-      "translation": "Rắc rối, tung chiêu, thành công. Bea!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Game, set, and match, Bea!",
+      "vi": "Rắc rối, tung chiêu, thành công. Bea!"
     }
   },
   {
-    "subtitle": {
-      "time": "10:48",
-      "subtitle": "Now, we can burst that bubble and set you free!",
-      "translation": "Giờ làm vỡ bong bóng và giải thoát cho các cậu.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Now, we can burst that bubble and set you free!",
+      "vi": "Giờ làm vỡ bong bóng và giải thoát cho các cậu."
     }
   },
   {
-    "subtitle": {
-      "time": "10:52",
-      "subtitle": "Wait! If you touch the bubble, you'll get pulled inside too!",
-      "translation": "Khoan, đụng vào là cậu bị hút vào trong.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Wait! If you touch the bubble, you'll get pulled inside too!",
+      "vi": "Khoan, đụng vào là cậu bị hút vào trong."
     }
   },
   {
-    "subtitle": {
-      "time": "10:56",
-      "subtitle": "But nothing's Fussy-proof.",
-      "translation": "Mà đâu cản được Fussy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "But nothing's Fussy-proof.",
+      "vi": "Mà đâu cản được Fussy."
     }
   },
   {
-    "subtitle": {
-      "time": "10:58",
-      "subtitle": "It's your time to shine, Fussy!",
-      "translation": "Tới lúc toả sáng, Fussy.",
-      "machine_translation": ""
+    "translation": {
+      "en": "It's your time to shine, Fussy!",
+      "vi": "Tới lúc toả sáng, Fussy."
     }
   },
   {
-    "subtitle": {
-      "time": "11:05",
-      "subtitle": "Duck!",
-      "translation": "Cúi xuống!",
-      "machine_translation": ""
+    "translation": {
+      "en": "Duck!",
+      "vi": "Cúi xuống!"
     }
   },
   {
-    "subtitle": {
-      "time": "11:09",
-      "subtitle": "I think you meant \"cat.\"",
-      "translation": "Chắc ý cậu là \"mèo\" tới.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I think you meant \"cat.\"",
+      "vi": "Chắc ý cậu là \"mèo\" tới."
     }
   },
   {
-    "subtitle": {
-      "time": "11:12",
-      "subtitle": "Huh. This is new.",
-      "translation": "Chà, mới mẻ quá.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Huh. This is new.",
+      "vi": "Chà, mới mẻ quá."
     }
   },
   {
-    "subtitle": {
-      "time": "11:15",
-      "subtitle": "I never know what kind of surprise I'll find in here.",
-      "translation": "Chưa từng biết sẽ có bất ngờ gì ở đây.",
-      "machine_translation": ""
+    "translation": {
+      "en": "I never know what kind of surprise I'll find in here.",
+      "vi": "Chưa từng biết sẽ có bất ngờ gì ở đây."
     }
   },
   {
-    "subtitle": {
-      "time": "11:18",
-      "subtitle": "At least it keeps things interesting. Hey, pelican. Boots off the bed.",
-      "translation": "Ít ra luôn thú vị. Bồ nông, đừng đi bốt trên giường.",
-      "machine_translation": ""
+    "translation": {
+      "en": "At least it keeps things interesting. Hey, pelican. Boots off the bed.",
+      "vi": "Ít ra luôn thú vị. Bồ nông, đừng đi bốt trên giường."
     }
   },
   {
-    "subtitle": {
-      "time": "11:28",
-      "subtitle": "Need help cleaning up, Penny? I would love some help.",
-      "translation": "- Penny cần giúp dọn dẹp chứ? - Thích lắm.",
-      "machine_translation": ""
+    "translation": {
+      "en": "Need help cleaning up, Penny? I would love some help.",
+      "vi": "- Penny cần giúp dọn dẹp chứ? - Thích lắm."
     }
   },
   {
-    "subtitle": {
-      "time": "11:49",
-      "subtitle": "♪ No matter what we wear We're gonna be right there ♪",
-      "translation": "Dù mặc gì đi nữa, ta sẽ ở ngay đó",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ No matter what we wear We're gonna be right there ♪",
+      "vi": "Dù mặc gì đi nữa, ta sẽ ở ngay đó"
     }
   },
   {
-    "subtitle": {
-      "time": "11:53",
-      "subtitle": "-♪ Jump to it ♪ -♪ Jump to it ♪",
-      "translation": "Cứ bắt đầu nào, tới luôn đi",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Jump to it ♪ -♪ Jump to it ♪",
+      "vi": "Cứ bắt đầu nào, tới luôn đi"
     }
   },
   {
-    "subtitle": {
-      "time": "11:56",
-      "subtitle": "♪ So let's suit up And save the day ♪",
-      "translation": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ So let's suit up And save the day ♪",
+      "vi": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui"
     }
   },
   {
-    "subtitle": {
-      "time": "12:01",
-      "subtitle": "♪ Gowns and crowns are always fun, And when it's time to get things done ♪",
-      "translation": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui Nhưng khi cần xong việc Công chúa mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ Gowns and crowns are always fun, And when it's time to get things done ♪",
+      "vi": "Hãy bận đồ rồi xử lý công chuyện Áo choàng và vương miện luôn rất vui Nhưng khi cần xong việc Công chúa mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "12:06",
-      "subtitle": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
-      "translation": "Nhưng khi cần xong việc Công chúa mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
+      "vi": "Nhưng khi cần xong việc Công chúa mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "12:08",
-      "subtitle": "-♪ Let's go! ♪ -♪ Glide or sail, or hop a plane ♪",
-      "translation": "Được, tiến! Lướt hay lái hay nhảy máy bay",
-      "machine_translation": ""
+    "translation": {
+      "en": "-♪ Let's go! ♪ -♪ Glide or sail, or hop a plane ♪",
+      "vi": "Được, tiến! Lướt hay lái hay nhảy máy bay"
     }
   },
   {
-    "subtitle": {
-      "time": "12:10",
-      "subtitle": "♪ We'll change the world The Princess way ♪ -♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
-      "translation": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ We'll change the world The Princess way ♪ -♪ Princesses wear pants! ♪ -♪ Yeah! ♪",
+      "vi": "Ta thay đổi thế giới kiểu công chúa Công chúa mặc quần!"
     }
   },
   {
-    "subtitle": {
-      "time": "12:15",
-      "subtitle": "♪ With the Fruitdoms in our hands ♪",
-      "translation": "Phải đó! Với Xứ Trái Cây trong tay ta",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ With the Fruitdoms in our hands ♪",
+      "vi": "Phải đó! Với Xứ Trái Cây trong tay ta"
     }
   },
   {
-    "subtitle": {
-      "time": "12:18",
-      "subtitle": "♪ These Princesses wear pants! ♪",
-      "translation": "Các công chúa này mặc quần!",
-      "machine_translation": ""
+    "translation": {
+      "en": "♪ These Princesses wear pants! ♪",
+      "vi": "Các công chúa này mặc quần!"
     }
   }
 ]

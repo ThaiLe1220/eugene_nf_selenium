@@ -74,25 +74,29 @@ def process_and_save_data(movies_id, lang_code):
             f"./data/en-{lang_code}/{movies_id}.json", "w", encoding="utf-8"
         ) as f:
             json.dump(translations, f, indent=2, ensure_ascii=False)
-            print(f"The subtitle has been saved as ./data/en-es/{movies_id}.json")
+            print(
+                f"The subtitle has been saved as ./data/en-{lang_code}/{movies_id}.json"
+            )
 
     except FileNotFoundError:
         print(f"File not found: {file_path}")
-        # Skip the rest of the processing if file is not found
+        with open(f"./markup/note.txt", "a", encoding="utf-8") as file:
+            file.write(f"Failed to extract {file_path}")
 
 
-# netflix_links = []
-# movies_ids = []
+netflix_links = []
+movies_ids = []
 
-# # Read the links from the movies_links.txt file and add them to the list
-# with open("./source/movies_links_cleaned.txt", "r") as file:
-#     for line in file:
-#         line = line.strip()
-#         if line.startswith("https://www.netflix.com/watch/"):
-#             netflix_links.append(line)
-#             movie_id = line.split("/")[-1]
-#             movies_ids.append(movie_id)
+# Read the links from the movies_links.txt file and add them to the list
+with open("./source/movies_links_cleaned.txt", "r") as file:
+    for line in file:
+        line = line.strip()
+        if line.startswith("https://www.netflix.com/watch/"):
+            netflix_links.append(line)
+            movie_id = line.split("/")[-1]
+            movies_ids.append(movie_id)
 
 
-# for i, link in enumerate(netflix_links):
-#     process_and_save_data(movies_ids[i])
+for i, link in enumerate(netflix_links):
+    if i >= 0:
+        process_and_save_data(movies_ids[i], "es")
