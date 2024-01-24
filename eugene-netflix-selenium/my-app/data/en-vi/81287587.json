@@ -61,7 +61,7 @@
   },
   {
     "translation": {
-      "en": "say hello to MIT bio-engineer.",
+      "en": "say hello to MIT bio- engineer.",
       "vi": "chào kỹ sư sinh học tốt nghiệp MIT nào."
     }
   },
@@ -151,18 +151,6 @@
   },
   {
     "translation": {
-      "en": "-Richard! -Richard!",
-      "vi": "- Richard! - Richard!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Richard.",
-      "vi": "Richard."
-    }
-  },
-  {
-    "translation": {
       "en": "How would you solve that one?",
       "vi": "Cháu giải câu đó thế nào?"
     }
@@ -223,7 +211,7 @@
   },
   {
     "translation": {
-      "en": "It's a one-way trip, Richard. There's no coming back.",
+      "en": "It's a one- way trip, Richard. There's no coming back.",
       "vi": "Đó là chuyến đi một chiều, Richard. Không quay lại. Anh sẽ chết trên đó."
     }
   },
@@ -307,7 +295,7 @@
   },
   {
     "translation": {
-      "en": "T-minus 15 seconds.",
+      "en": "T- minus 15 seconds.",
       "vi": "Còn 15 giây."
     }
   },
@@ -343,13 +331,13 @@
   },
   {
     "translation": {
-      "en": "-You good? -Yeah.",
+      "en": "- You good? - Yeah.",
       "vi": "- Khỏe chứ? - Ừ."
     }
   },
   {
     "translation": {
-      "en": "-Good luck. -Thank you.",
+      "en": "- Good luck. - Thank you.",
       "vi": "- Chúc may mắn. - Cảm ơn."
     }
   },
@@ -385,7 +373,7 @@
   },
   {
     "translation": {
-      "en": "On-ship reproduction will occur",
+      "en": "On- ship reproduction will occur",
       "vi": "Sinh sản trên tàu sẽ diễn ra"
     }
   },
@@ -583,13 +571,13 @@
   },
   {
     "translation": {
-      "en": "Try \"Nutrition\".",
+      "en": "Try Nutrition.",
       "vi": "Thử mục Dinh dưỡng."
     }
   },
   {
     "translation": {
-      "en": "-It's not there. -Is it some kind of vitamin?",
+      "en": "- It's not there. - Is it some kind of vitamin?",
       "vi": "- Không có. - Một loại vitamin à?"
     }
   },
@@ -607,13 +595,13 @@
   },
   {
     "translation": {
-      "en": "\"…the active ingredient in daily beverage A.02.\"",
+      "en": "…the active ingredient in daily beverage A.02.",
       "vi": "Thành phần hoạt tính trong thức uống hàng ngày A.02."
     }
   },
   {
     "translation": {
-      "en": "\"Combine with blue alkaline syrup to counter stomach irritation.\"",
+      "en": "Combine with blue alkaline syrup to counter stomach irritation.",
       "vi": "Kết hợp với sirô kiềm xanh để chống lại kích thích bao tử."
     }
   },
@@ -626,12 +614,12 @@
   {
     "translation": {
       "en": "It's the blue.",
-      "vi": "Là \"Chất Xanh\" đó."
+      "vi": "Là Chất Xanh đó."
     }
   },
   {
     "translation": {
-      "en": "\"…effect is enhanced when consuming it with food.\"",
+      "en": "…effect is enhanced when consuming it with food.",
       "vi": "…tác dụng được tăng cường khi dùng cùng thức ăn."
     }
   },
@@ -649,19 +637,19 @@
   },
   {
     "translation": {
-      "en": "\"…personality becomes dull and docile.\"",
+      "en": "…personality becomes dull and docile.",
       "vi": "…tính cách trở nên ù lì và dễ bảo…"
     }
   },
   {
     "translation": {
-      "en": "\"Eliminates sexual desire and sensation…\"",
+      "en": "Eliminates sexual desire and sensation…",
       "vi": "…loại trừ khao khát và cảm giác tình dục…"
     }
   },
   {
     "translation": {
-      "en": "\"Decreased pleasure response…\"",
+      "en": "Decreased pleasure response…",
       "vi": "…giảm phản ứng khoái lạc…"
     }
   },
@@ -769,13 +757,13 @@
   },
   {
     "translation": {
-      "en": "In Pod-23. Unmarked behind a wall.",
+      "en": "In Pod- 23. Unmarked behind a wall.",
       "vi": "Ở ô 23. Không đánh dấu, nằm trong tường."
     }
   },
   {
     "translation": {
-      "en": "-What's inside? -I don't know yet.",
+      "en": "- What's inside? - I don't know yet.",
       "vi": "- Có gì bên trong? - Tớ chưa biết."
     }
   },
@@ -811,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "-Yes, but… -Where's my pleasure?",
+      "en": "- Yes, but… - Where's my pleasure?",
       "vi": "- Có, nhưng… - Khoái lạc của tớ đâu?"
     }
   },
@@ -829,7 +817,7 @@
   },
   {
     "translation": {
-      "en": "-A bolt. -A bite.",
+      "en": "- A bolt. - A bite.",
       "vi": "- Một tia điện. - Một cú cắn."
     }
   },
@@ -907,7 +895,7 @@
   },
   {
     "translation": {
-      "en": "Pod-23.",
+      "en": "Pod- 23.",
       "vi": "Ô 23."
     }
   },
@@ -1047,12 +1035,6 @@
     "translation": {
       "en": "That's all for now.",
       "vi": "Tạm thời là như vậy."
-    }
-  },
-  {
-    "translation": {
-      "en": "Sela?",
-      "vi": "Sela?"
     }
   },
   {
@@ -1267,7 +1249,7 @@
   },
   {
     "translation": {
-      "en": "-Here you go. -Thanks.",
+      "en": "- Here you go. - Thanks.",
       "vi": "- Đây. - Cảm ơn."
     }
   },
@@ -1303,26 +1285,8 @@
   },
   {
     "translation": {
-      "en": "-You okay? -I'm fine.",
+      "en": "- You okay? - I'm fine.",
       "vi": "- Cháu ổn chứ? - Cháu ổn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Zac!",
-      "vi": "Zac!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Zac.",
-      "vi": "Zac."
-    }
-  },
-  {
-    "translation": {
-      "en": "Zac.",
-      "vi": "Zac."
     }
   },
   {
@@ -1363,12 +1327,6 @@
   },
   {
     "translation": {
-      "en": "Christopher.",
-      "vi": "Christopher."
-    }
-  },
-  {
-    "translation": {
       "en": "You seen Zac?",
       "vi": "Cháu thấy Zac không?"
     }
@@ -1399,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "-Are you? -Why would I?",
+      "en": "- Are you? - Why would I?",
       "vi": "Cậu ấy không uống Chất Xanh nữa. Còn cháu? Sao cháu phải uống?"
     }
   },
@@ -1477,7 +1435,7 @@
   },
   {
     "translation": {
-      "en": "-There's a big difference. -Well, I don't see it.",
+      "en": "- There's a big difference. - Well, I don't see it.",
       "vi": "- Có khác biệt lớn. - Cháu chẳng thấy."
     }
   },
@@ -1495,7 +1453,7 @@
   },
   {
     "translation": {
-      "en": "-All right, put this on. -Why?",
+      "en": "- All right, put this on. - Why?",
       "vi": "- Được rồi, mặc cái này vào. - Tại sao?"
     }
   },
@@ -1561,7 +1519,7 @@
   },
   {
     "translation": {
-      "en": "-Kai, you ready in the systems room? -Yes.",
+      "en": "- Kai, you ready in the systems room? - Yes.",
       "vi": "Kai, cháu sẵn sàng trong phòng hệ thống chưa? Rồi."
     }
   },
@@ -1675,18 +1633,6 @@
   },
   {
     "translation": {
-      "en": "Richard!",
-      "vi": "Richard!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Richard!",
-      "vi": "Richard!"
-    }
-  },
-  {
-    "translation": {
       "en": "Richard! Do you read me, Richard? What happened?",
       "vi": "- Richard! Chú nghe không? Richard! - Chuyện gì vậy? Tớ không biết."
     }
@@ -1717,14 +1663,14 @@
   },
   {
     "translation": {
-      "en": "-Negative. No effect. -Communications.",
+      "en": "- Negative. No effect. - Communications.",
       "vi": "Không được. Không có tác dụng. Liên lạc."
     }
   },
   {
     "translation": {
       "en": "The whole system's down. We're not transmitting or receiving.",
-      "vi": "TÌNH TRẠNG LIÊN LẠC [GHI CHÉP LỖI] Cả hệ thống sập rồi. Ta không phát hay nhận được."
+      "vi": "TÌNH TRẠNG LIÊN LẠC  Cả hệ thống sập rồi. Ta không phát hay nhận được."
     }
   },
   {
@@ -1777,7 +1723,7 @@
   },
   {
     "translation": {
-      "en": "-You didn't see it? -I was facing the other way.",
+      "en": "- You didn't see it? - I was facing the other way.",
       "vi": "- Thật ra đã có chuyện gì? - Cậu không thấy à? Lúc đó tớ quay qua hướng kia."
     }
   },
@@ -1849,7 +1795,7 @@
   },
   {
     "translation": {
-      "en": "-Something alien. -What?",
+      "en": "- Something alien. - What?",
       "vi": "- Người vũ trụ. - Cái gì?"
     }
   },
@@ -2005,13 +1951,7 @@
   },
   {
     "translation": {
-      "en": "Christopher.",
-      "vi": "Christopher."
-    }
-  },
-  {
-    "translation": {
-      "en": "-Congratulations. -Thank you.",
+      "en": "- Congratulations. - Thank you.",
       "vi": "- Chúc mừng. - Cảm ơn cậu."
     }
   },
@@ -2131,7 +2071,7 @@
   },
   {
     "translation": {
-      "en": "-Why? -It's in the program.",
+      "en": "- Why? - It's in the program.",
       "vi": "- Tại sao? - Chương trình quy định vậy."
     }
   },
@@ -2173,7 +2113,7 @@
   },
   {
     "translation": {
-      "en": "-We only have genetic donors. -It's the same.",
+      "en": "- We only have genetic donors. - It's the same.",
       "vi": "- Chúng ta chỉ có người hiến gen. - Như nhau cả thôi."
     }
   },
@@ -2215,7 +2155,7 @@
   },
   {
     "translation": {
-      "en": "-And we thought that you and Richard… -I didn't do anything with Richard.",
+      "en": "- And we thought that you and Richard… - I didn't do anything with Richard.",
       "vi": "- Và nghĩ là cậu và Richard… - Tớ chẳng làm gì với Richard."
     }
   },
@@ -2425,7 +2365,7 @@
   },
   {
     "translation": {
-      "en": "-Can you fix it? -Yes.",
+      "en": "- Can you fix it? - Yes.",
       "vi": "- Cậu sửa được không? - Có."
     }
   },
@@ -2479,14 +2419,8 @@
   },
   {
     "translation": {
-      "en": "- Richard. -Yeah.",
+      "en": "- Richard. - Yeah.",
       "vi": "- Richard. - Ừ."
-    }
-  },
-  {
-    "translation": {
-      "en": "Kai!",
-      "vi": "Kai!"
     }
   },
   {
@@ -2545,12 +2479,6 @@
   },
   {
     "translation": {
-      "en": "Sela?",
-      "vi": "Sela?"
-    }
-  },
-  {
-    "translation": {
       "en": "You in there?",
       "vi": "Cậu có trong đó chứ?"
     }
@@ -2577,12 +2505,6 @@
     "translation": {
       "en": "Yeah.",
       "vi": "Ừ."
-    }
-  },
-  {
-    "translation": {
-      "en": "Sela?",
-      "vi": "Sela?"
     }
   },
   {
@@ -2629,7 +2551,7 @@
   },
   {
     "translation": {
-      "en": "-I was trying to help you. -Why don't you help the rest of the crew?",
+      "en": "- I was trying to help you. - Why don't you help the rest of the crew?",
       "vi": "Cậu ấy tính đến đây tìm cậu. Tớ đang cố giúp cậu. Vì sao cậu không giúp các thành viên khác?"
     }
   },
@@ -2671,7 +2593,7 @@
   },
   {
     "translation": {
-      "en": "-No. -Good.",
+      "en": "- No. - Good.",
       "vi": "- Không. - Tốt."
     }
   },
@@ -2683,7 +2605,7 @@
   },
   {
     "translation": {
-      "en": "-Stay away from her. -I'll do what I want.",
+      "en": "- Stay away from her. - I'll do what I want.",
       "vi": "Tớ đang nói với tư cách bạn bè. Tránh xa cậu ấy đi. Tớ sẽ làm gì tớ muốn."
     }
   },
@@ -2731,7 +2653,7 @@
   },
   {
     "translation": {
-      "en": "-Kai. -What?",
+      "en": "- Kai. - What?",
       "vi": "- Kai. - Cái gì?"
     }
   },
@@ -2749,19 +2671,19 @@
   },
   {
     "translation": {
-      "en": "-Let go! -Let it go.",
+      "en": "- Let go! - Let it go.",
       "vi": "- Bỏ ra! - Bỏ nó ra!"
     }
   },
   {
     "translation": {
-      "en": "-Let it go! -Come on!",
+      "en": "- Let it go! - Come on!",
       "vi": "- Bỏ ra! - Thôi nào!"
     }
   },
   {
     "translation": {
-      "en": "-Let go! -Stop!",
+      "en": "- Let go! - Stop!",
       "vi": "- Bỏ ra! - Dừng lại!"
     }
   },
@@ -2953,7 +2875,7 @@
   },
   {
     "translation": {
-      "en": "-Why not? -I just don't.",
+      "en": "- Why not? - I just don't.",
       "vi": "- Tại sao không? - Không thích."
     }
   },
@@ -3019,7 +2941,7 @@
   },
   {
     "translation": {
-      "en": "Shut your fat, pus-filled face.",
+      "en": "Shut your fat, pus- filled face.",
       "vi": "- video giám sát và thấy. - Im miệng đi, đồ mặt phệ."
     }
   },
@@ -3097,13 +3019,13 @@
   },
   {
     "translation": {
-      "en": "-He's chief officer. -You're not a commander.",
+      "en": "- He's chief officer. - You're not a commander.",
       "vi": "Cậu ấy là chỉ huy trưởng. Cậu không phải chỉ huy."
     }
   },
   {
     "translation": {
-      "en": "-You're not a leader. -I'm trying to keep us on track.",
+      "en": "- You're not a leader. - I'm trying to keep us on track.",
       "vi": "- Cậu không phải lãnh đạo. - Tớ đang cố giữ mọi người đúng hướng."
     }
   },
@@ -3115,7 +3037,7 @@
   },
   {
     "translation": {
-      "en": "-I'll make more food. -That's our food, too.",
+      "en": "- I'll make more food. - That's our food, too.",
       "vi": "- Tớ sẽ tạo thêm thực phẩm. - Thực phẩm cũng của bọn tớ."
     }
   },
@@ -3235,7 +3157,7 @@
   },
   {
     "translation": {
-      "en": "-Who's in the systems room? -No one.",
+      "en": "- Who's in the systems room? - No one.",
       "vi": "- Ai ở trong phòng hệ thống? - Không ai cả."
     }
   },
@@ -3271,7 +3193,7 @@
   },
   {
     "translation": {
-      "en": "-Get behind it. -Try to close the door.",
+      "en": "- Get behind it. - Try to close the door.",
       "vi": "- Nó ở phía sau. - Cố giữ nó lại."
     }
   },
@@ -3307,19 +3229,19 @@
   },
   {
     "translation": {
-      "en": "-There was really something in there? -What was it?",
+      "en": "- There was really something in there? - What was it?",
       "vi": "- Nếu thật sự có thứ gì trong đó… - Nó là gì?"
     }
   },
   {
     "translation": {
-      "en": "-I don't know. -Not Christopher?",
+      "en": "- I don't know. - Not Christopher?",
       "vi": "- Tớ không biết. - Không phải Christopher à?"
     }
   },
   {
     "translation": {
-      "en": "-No. -What did it look like?",
+      "en": "- No. - What did it look like?",
       "vi": "- Không. - Trông nó thế nào?"
     }
   },
@@ -3349,7 +3271,7 @@
   },
   {
     "translation": {
-      "en": "- Copy that. -Let's try a different angle.",
+      "en": "- Copy that. - Let's try a different angle.",
       "vi": "- Nghe rõ. - Thử góc quay khác đi."
     }
   },
@@ -3367,7 +3289,7 @@
   },
   {
     "translation": {
-      "en": "-Everything all right? -No.",
+      "en": "- Everything all right? - No.",
       "vi": "- Mọi việc ổn chứ? - Không."
     }
   },
@@ -3391,7 +3313,7 @@
   },
   {
     "translation": {
-      "en": "-They fought it. -What?",
+      "en": "- They fought it. - What?",
       "vi": "- Họ đã đánh nó. - Gì?"
     }
   },
@@ -3451,12 +3373,6 @@
   },
   {
     "translation": {
-      "en": "Christopher.",
-      "vi": "Christopher."
-    }
-  },
-  {
-    "translation": {
       "en": "It was supposed to be me.",
       "vi": "Lẽ ra là tớ."
     }
@@ -3493,7 +3409,7 @@
   },
   {
     "translation": {
-      "en": "A little spark. -A sting? -A stab.",
+      "en": "A little spark. - A sting? - A stab.",
       "vi": "Một tia lửa điện. Một cú chích nhức nhối."
     }
   },
@@ -3505,7 +3421,7 @@
   },
   {
     "translation": {
-      "en": "-I know I could. -He'd be surprised.",
+      "en": "- I know I could. - He'd be surprised.",
       "vi": "- Tớ biết tớ có thể. - Ông ta sẽ bất ngờ."
     }
   },
@@ -3871,7 +3787,7 @@
   },
   {
     "translation": {
-      "en": "- Copy that. -He was electrocuted.",
+      "en": "- Copy that. - He was electrocuted.",
       "vi": "Nghe rõ. Chú ấy bị giật điện."
     }
   },
@@ -3889,12 +3805,6 @@
   },
   {
     "translation": {
-      "en": "Christopher.",
-      "vi": "Christopher."
-    }
-  },
-  {
-    "translation": {
       "en": "It was supposed to be me.",
       "vi": "Lẽ ra là tớ."
     }
@@ -3907,13 +3817,13 @@
   },
   {
     "translation": {
-      "en": "-A little spark. -A sting, a stab.",
+      "en": "- A little spark. - A sting, a stab.",
       "vi": "Một tia lửa điện. Một cú chích nhức nhối."
     }
   },
   {
     "translation": {
-      "en": "- This one? -Yes.",
+      "en": "- This one? - Yes.",
       "vi": "- Cái này hả? - Phải."
     }
   },
@@ -4027,7 +3937,7 @@
   },
   {
     "translation": {
-      "en": "-That's not true. -He shouldn't have.",
+      "en": "- That's not true. - He shouldn't have.",
       "vi": "- rồi Christopher đem nó vào trong. - Không đúng. Cậu ta không nên."
     }
   },
@@ -4195,7 +4105,7 @@
   },
   {
     "translation": {
-      "en": "-Kill it. -We have to find it. -It could be you. -Or you.",
+      "en": "- Kill it. - We have to find it. - It could be you. - Or you.",
       "vi": "Giết nó. Ta phải tìm ra nó."
     }
   },
@@ -4213,19 +4123,19 @@
   },
   {
     "translation": {
-      "en": "-It's him. -It's him.",
+      "en": "- It's him. - It's him.",
       "vi": "- Là cậu ta. - Cậu ta."
     }
   },
   {
     "translation": {
-      "en": "-It's him! -Him…",
+      "en": "- It's him! - Him…",
       "vi": "- Là cậu ta! Cậu ta… - Là cậu ta…"
     }
   },
   {
     "translation": {
-      "en": "-Get him! -Get him!",
+      "en": "- Get him! - Get him!",
       "vi": "- Bắt cậu ta! - Bắt cậu ta lại!"
     }
   },
@@ -4249,7 +4159,7 @@
   },
   {
     "translation": {
-      "en": "-I don't know. -He did.",
+      "en": "- I don't know. - He did.",
       "vi": "- Tớ không biết. - Có đấy."
     }
   },
@@ -4339,7 +4249,7 @@
   },
   {
     "translation": {
-      "en": "-Maybe later we can detain him. -That's right.",
+      "en": "- Maybe later we can detain him. - That's right.",
       "vi": "Đằng nào cậu ta cũng muốn thế. Sau đó ta có thể bắt cậu ta lại. Đúng thế."
     }
   },
@@ -4381,13 +4291,13 @@
   },
   {
     "translation": {
-      "en": "-I do? -He said you did.",
+      "en": "- I do? - He said you did.",
       "vi": "- Tớ ư? - Chú ấy nói cậu biết."
     }
   },
   {
     "translation": {
-      "en": "-Who did? -Richard.",
+      "en": "- Who did? - Richard.",
       "vi": "- Ai nói? - Richard."
     }
   },
@@ -4579,7 +4489,7 @@
   },
   {
     "translation": {
-      "en": "-No, he's not. -They're moving.",
+      "en": "- No, he's not. - They're moving.",
       "vi": "- Không đâu. - Họ đang di chuyển."
     }
   },
@@ -4591,7 +4501,7 @@
   },
   {
     "translation": {
-      "en": "-What do we do? -We stay in here.",
+      "en": "- What do we do? - We stay in here.",
       "vi": "Ta làm gì đây? - Ta ở trong này. - Không."
     }
   },
@@ -4665,12 +4575,6 @@
     "translation": {
       "en": "Get back, Sela!",
       "vi": "Lùi lại, Sela!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Zac.",
-      "vi": "Zac."
     }
   },
   {
@@ -4849,7 +4753,7 @@
   },
   {
     "translation": {
-      "en": "-Shut up. -Shut up.",
+      "en": "- Shut up. - Shut up.",
       "vi": "- Câm đi. - Câm đi."
     }
   },
@@ -4867,7 +4771,7 @@
   },
   {
     "translation": {
-      "en": "-Shut up! -Shut up!",
+      "en": "- Shut up! - Shut up!",
       "vi": "- Câm đi. - Câm đi, câm đi…"
     }
   },
@@ -4939,7 +4843,7 @@
   },
   {
     "translation": {
-      "en": "-No way they could fit. -Check all of them.",
+      "en": "- No way they could fit. - Check all of them.",
       "vi": "- Họ không thể lọt vừa. - Kiểm tra tất cả."
     }
   },
@@ -4957,7 +4861,7 @@
   },
   {
     "translation": {
-      "en": "-What? -Get out of the way.",
+      "en": "- What? - Get out of the way.",
       "vi": "- Cái gì? - Tránh đường."
     }
   },
@@ -5079,12 +4983,6 @@
     "translation": {
       "en": "Hatch stopped.",
       "vi": "Cửa đã dừng."
-    }
-  },
-  {
-    "translation": {
-      "en": "Tayo.",
-      "vi": "Tayo."
     }
   },
   {

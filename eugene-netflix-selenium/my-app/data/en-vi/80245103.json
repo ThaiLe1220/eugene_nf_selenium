@@ -1,43 +1,31 @@
 [
   {
     "translation": {
-      "en": "[woman] Roy!",
-      "vi": "Roy!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Roy!",
-      "vi": "Roy!"
-    }
-  },
-  {
-    "translation": {
-      "en": "[woman] I just want to--",
+      "en": "I just want to--",
       "vi": "Em chỉ định…"
     }
   },
   {
     "translation": {
-      "en": "[man] Just all day and all night, you've been riding me.",
+      "en": "Just all day and all night, you've been riding me.",
       "vi": "Cô cứ cằn nhằn tôi cả ngày lẫn đêm."
     }
   },
   {
     "translation": {
-      "en": "-[woman] Don't get upset I-- -[man] Don't get upset when you wake me--",
+      "en": "- Don't get upset I-- - Don't get upset when you wake me--",
       "vi": "- Đừng cáu, em… - Đừng cáu khi cô gọi tôi dậy…"
     }
   },
   {
     "translation": {
-      "en": "-[woman] I don't like when you-- -[man] I don't care who hears anything.",
+      "en": "- I don't like when you-- - I don't care who hears anything.",
       "vi": "- Em không muốn anh… - Không cần biết ai nghe tôi không."
     }
   },
   {
     "translation": {
-      "en": "-[man] Come here! -[slaps]",
+      "en": "- Come here! -",
       "vi": "- Đừng! Không. - Ra đây!"
     }
   },
@@ -49,7 +37,7 @@
   },
   {
     "translation": {
-      "en": "[reporter] People gather by the thousands",
+      "en": "People gather by the thousands",
       "vi": "Hàng ngàn người tập trung ở đây"
     }
   },
@@ -97,7 +85,7 @@
   },
   {
     "translation": {
-      "en": "[salesman] Elegance, if you will.",
+      "en": "Elegance, if you will.",
       "vi": "Đội lên rất tao nhã."
     }
   },
@@ -139,7 +127,7 @@
   },
   {
     "translation": {
-      "en": "You're Mr. Halston. [gasps]",
+      "en": "You're Mr. Halston.",
       "vi": "Anh là Ngài Halston."
     }
   },
@@ -151,7 +139,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Fuck Jackie Kennedy.",
+      "en": "Fuck Jackie Kennedy.",
       "vi": "Jackie Kennedy chết tiệt."
     }
   },
@@ -193,13 +181,13 @@
   },
   {
     "translation": {
-      "en": "[man] Halston, the second-quarter report came in.",
+      "en": "Halston, the second- quarter report came in.",
       "vi": "Halston, báo cáo quý hai đã có."
     }
   },
   {
     "translation": {
-      "en": "-It's not good. -Mm-hmm.",
+      "en": "- It's not good. - Mm- hmm.",
       "vi": "Không ổn rồi."
     }
   },
@@ -211,7 +199,7 @@
   },
   {
     "translation": {
-      "en": "-We're trending up, is what you're saying. -No, that is not what I'm saying.",
+      "en": "- We're trending up, is what you're saying. - No, that is not what I'm saying.",
       "vi": "- Ý ông là chúng ta đang cải thiện. - Tôi không nói thế."
     }
   },
@@ -307,7 +295,7 @@
   },
   {
     "translation": {
-      "en": "-Then let me buy you something else. -No, thanks.",
+      "en": "- Then let me buy you something else. - No, thanks.",
       "vi": "- Vậy để tôi mời loại khác. - Không, cảm ơn."
     }
   },
@@ -331,7 +319,7 @@
   },
   {
     "translation": {
-      "en": "-Eric. -And what do you do, Eric?",
+      "en": "- Eric. - And what do you do, Eric?",
       "vi": "- Eric. - Và anh làm gì, Eric?"
     }
   },
@@ -463,12 +451,6 @@
   },
   {
     "translation": {
-      "en": "Ed.",
-      "vi": "Ed."
-    }
-  },
-  {
-    "translation": {
       "en": "Ed is my name.",
       "vi": "Ed là tên của tôi."
     }
@@ -483,12 +465,6 @@
     "translation": {
       "en": "Though Eric's not your real name, is it?",
       "vi": "Dù Eric không phải tên thật của anh?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Roy.",
-      "vi": "Roy."
     }
   },
   {
@@ -547,7 +523,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] I had a magical childhood.",
+      "en": "I had a magical childhood.",
       "vi": "Tôi có một tuổi thơ kỳ diệu."
     }
   },
@@ -631,13 +607,13 @@
   },
   {
     "translation": {
-      "en": "[Ed] Who?",
+      "en": "Who?",
       "vi": "Ai thế?"
     }
   },
   {
     "translation": {
-      "en": "[Halston] Recently, Ralph Lifshitz walks into Bloomingdale's",
+      "en": "Recently, Ralph Lifshitz walks into Bloomingdale's",
       "vi": "Mới đây, Ralph Lifshitz bước vào Bloomingdale's"
     }
   },
@@ -649,25 +625,25 @@
   },
   {
     "translation": {
-      "en": "and a label that says \"Polo.\"",
-      "vi": "và chúng mang nhãn hiệu \"Polo\"."
+      "en": "and a label that says Polo.",
+      "vi": "và chúng mang nhãn hiệu Polo."
     }
   },
   {
     "translation": {
-      "en": "They said, \"If you make them one inch narrower",
-      "vi": "Họ nói \"Nếu anh may chúng hẹp hơn 2,54cm"
+      "en": "They said, If you make them one inch narrower",
+      "vi": "Họ nói Nếu anh may chúng hẹp hơn 2,54cm"
     }
   },
   {
     "translation": {
-      "en": "and you swap your label for ours, we'll sell them.\"",
-      "vi": "và đổi sang nhãn hiệu của chúng tôi, chúng tôi sẽ bán\"."
+      "en": "and you swap your label for ours, we'll sell them.",
+      "vi": "và đổi sang nhãn hiệu của chúng tôi, chúng tôi sẽ bán."
     }
   },
   {
     "translation": {
-      "en": "[Halston] He said no.",
+      "en": "He said no.",
       "vi": "Anh ta từ chối."
     }
   },
@@ -685,26 +661,26 @@
   },
   {
     "translation": {
-      "en": "They say, \"We made a mistake.\"",
+      "en": "They say, We made a mistake.",
       "vi": "Họ nói đã phạm sai lầm."
     }
   },
   {
     "translation": {
-      "en": "[Halston] \"We love your ties. We're haunted by them.\"",
-      "vi": "\"Chúng tôi thích cà vạt của anh. Ấn tượng khó phai\"."
+      "en": "We love your ties. We're haunted by them.",
+      "vi": "Chúng tôi thích cà vạt của anh. Ấn tượng khó phai."
     }
   },
   {
     "translation": {
-      "en": "\"You can keep your label. You can keep them one inch wider.\"",
-      "vi": "\"Anh có thể giữ nguyên nhãn hiệu. Để chúng rộng hơn 2,54cm\"."
+      "en": "You can keep your label. You can keep them one inch wider.",
+      "vi": "Anh có thể giữ nguyên nhãn hiệu. Để chúng rộng hơn 2,54cm."
     }
   },
   {
     "translation": {
-      "en": "\"And we want you to make shirts to go with them.\"",
-      "vi": "\"Và chúng tôi muốn anh làm áo để phối với dòng cà vạt này\"."
+      "en": "And we want you to make shirts to go with them.",
+      "vi": "Và chúng tôi muốn anh làm áo để phối với dòng cà vạt này."
     }
   },
   {
@@ -745,13 +721,13 @@
   },
   {
     "translation": {
-      "en": "[man] So, a store within a store?",
+      "en": "So, a store within a store?",
       "vi": "Vậy, một cửa hàng trong một cửa hàng?"
     }
   },
   {
     "translation": {
-      "en": "[Halston] See? Simple.",
+      "en": "See? Simple.",
       "vi": "Thấy chứ? Đơn giản thôi."
     }
   },
@@ -759,12 +735,6 @@
     "translation": {
       "en": "But to sell what?",
       "vi": "Nhưng để bán cái gì?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Halston.",
-      "vi": "Halston."
     }
   },
   {
@@ -817,14 +787,8 @@
   },
   {
     "translation": {
-      "en": "-You? -No.",
+      "en": "- You? - No.",
       "vi": "- Anh? - Không."
-    }
-  },
-  {
-    "translation": {
-      "en": "Halston.",
-      "vi": "Halston."
     }
   },
   {
@@ -847,7 +811,7 @@
   },
   {
     "translation": {
-      "en": "[Ed] Okay, so then what happened? How many did you sell?",
+      "en": "Okay, so then what happened? How many did you sell?",
       "vi": "Vậy sau đó thì sao? Anh bán được bao nhiêu?"
     }
   },
@@ -883,7 +847,7 @@
   },
   {
     "translation": {
-      "en": "-But what are you gonna do? -Keep going.",
+      "en": "- But what are you gonna do? - Keep going.",
       "vi": "Vậy anh định làm gì? Bước tiếp."
     }
   },
@@ -919,8 +883,8 @@
   },
   {
     "translation": {
-      "en": "I mean, here's the thing though. I know you love \"yes\" people.",
-      "vi": "Đây là vấn đề. Tôi biết anh thích người nói \"đồng ý\"."
+      "en": "I mean, here's the thing though. I know you love yes people.",
+      "vi": "Đây là vấn đề. Tôi biết anh thích người nói đồng ý."
     }
   },
   {
@@ -991,8 +955,8 @@
   },
   {
     "translation": {
-      "en": "and say, \"That's a Halston.\"",
-      "vi": "và thốt lên \"Hãng Halston?\""
+      "en": "and say, That's a Halston.",
+      "vi": "và thốt lên Hãng Halston?"
     }
   },
   {
@@ -1021,43 +985,43 @@
   },
   {
     "translation": {
-      "en": "For instance, someone might come up to me and say, \"Hello, Lisa. How are you?\"",
-      "vi": "Ví dụ, có người đến gặp tôi và nói \"Xin chào, Lisa. Cô khỏe không?\""
+      "en": "For instance, someone might come up to me and say, Hello, Lisa. How are you?",
+      "vi": "Ví dụ, có người đến gặp tôi và nói Xin chào, Lisa. Cô khỏe không?"
     }
   },
   {
     "translation": {
-      "en": "And I'll say, \"I'm fine, thank you, but it's Liza. It has a 'Z' in it.\"",
-      "vi": "Và tôi nói \"Tôi khoẻ, cảm ơn, nhưng tôi là Liza. Có chữ 'Z' trong đó\"."
+      "en": "And I'll say, I'm fine, thank you, but it's Liza. It has a 'Z' in it.",
+      "vi": "Và tôi nói Tôi khoẻ, cảm ơn, nhưng tôi là Liza. Có chữ 'Z' trong đó."
     }
   },
   {
     "translation": {
-      "en": "Or someone might say, \"Lisa, what a nice hat you have on.\"",
-      "vi": "Hoặc có ai đó nói \"Lisa, mũ cô đẹp quá\"."
+      "en": "Or someone might say, Lisa, what a nice hat you have on.",
+      "vi": "Hoặc có ai đó nói Lisa, mũ cô đẹp quá."
     }
   },
   {
     "translation": {
-      "en": "And I'll say, \"Thank you very much, but my name is Liza.\"",
-      "vi": "Và tôi nói \"Cảm ơn rất nhiều, nhưng tên tôi là Liza\"."
+      "en": "And I'll say, Thank you very much, but my name is Liza.",
+      "vi": "Và tôi nói Cảm ơn rất nhiều, nhưng tên tôi là Liza."
     }
   },
   {
     "translation": {
-      "en": "-[man] Liza! -\"And that's my hair.\"",
-      "vi": "- Liza! - \"Và đó là tóc của tôi\"."
+      "en": "- Liza! - And that's my hair.",
+      "vi": "- Liza! - Và đó là tóc của tôi."
     }
   },
   {
     "translation": {
-      "en": "-Brava! -[woman] Wonderful!",
+      "en": "- Brava! - Wonderful!",
       "vi": "- Hoan hô! - Tuyệt!"
     }
   },
   {
     "translation": {
-      "en": "-Liza! -[Liza] Hm?",
+      "en": "- Liza! - Hm?",
       "vi": "Liza!"
     }
   },
@@ -1099,19 +1063,19 @@
   },
   {
     "translation": {
-      "en": "[Liza] Oh.",
+      "en": "Oh.",
       "vi": "Ôi."
     }
   },
   {
     "translation": {
-      "en": "-I love him already. [chuckles] -I knew you would.",
+      "en": "- I love him already.  - I knew you would.",
       "vi": "- Tôi yêu anh ấy rồi. - Tôi biết ngay."
     }
   },
   {
     "translation": {
-      "en": "[Halston] Exactly. The collection was a disaster, and I knew it.",
+      "en": "Exactly. The collection was a disaster, and I knew it.",
       "vi": "Chính xác. Bộ sưu tập là một thảm họa và tôi biết điều đó."
     }
   },
@@ -1177,8 +1141,8 @@
   },
   {
     "translation": {
-      "en": "We're walking away. Saying, \"No. I wanna be taken seriously on my own.\"",
-      "vi": "Chúng ta bước đi. Nói \"Không. Tôi muốn tự mình làm nên tên tuổi\"."
+      "en": "We're walking away. Saying, No. I wanna be taken seriously on my own.",
+      "vi": "Chúng ta bước đi. Nói Không. Tôi muốn tự mình làm nên tên tuổi."
     }
   },
   {
@@ -1249,7 +1213,7 @@
   },
   {
     "translation": {
-      "en": "-Hardly. -[chuckles]",
+      "en": "- Hardly. -",
       "vi": "Không hề."
     }
   },
@@ -1267,7 +1231,7 @@
   },
   {
     "translation": {
-      "en": "-[Halston] Ready? -Mm-hmm.",
+      "en": "- Ready? - Mm- hmm.",
       "vi": "Sẵn sàng?"
     }
   },
@@ -1285,7 +1249,7 @@
   },
   {
     "translation": {
-      "en": "Oh my God! [laughs]",
+      "en": "Oh my God!",
       "vi": "Ôi Chúa ơi!"
     }
   },
@@ -1309,7 +1273,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] This place will be your blank canvas. Third floor is the sewing room.",
+      "en": "This place will be your blank canvas. Third floor is the sewing room.",
       "vi": "Đây sẽ là nơi cho anh thỏa sức sáng tạo. Tầng ba là phòng may vá."
     }
   },
@@ -1363,7 +1327,7 @@
   },
   {
     "translation": {
-      "en": "Like Shangri-La on the Upper East Side.",
+      "en": "Like Shangri- La on the Upper East Side.",
       "vi": "Như Shangri-La ở Khu Thượng Đông."
     }
   },
@@ -1375,7 +1339,7 @@
   },
   {
     "translation": {
-      "en": "Uh-oh.",
+      "en": "Uh- oh.",
       "vi": "Ôi."
     }
   },
@@ -1393,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "-Not true! Not true. -Mmm.",
+      "en": "- Not true! Not true. - Mmm.",
       "vi": "Không đúng!"
     }
   },
@@ -1429,7 +1393,7 @@
   },
   {
     "translation": {
-      "en": "[sighs] Halston, you can't afford me.",
+      "en": "Halston, you can't afford me.",
       "vi": "Halston, anh không đủ tiền trả tôi."
     }
   },
@@ -1459,8 +1423,8 @@
   },
   {
     "translation": {
-      "en": "\"Oh, it's spectacular. Who designed it?\"",
-      "vi": "\"Thật tuyệt vời. Ai thiết kế nơi này?\""
+      "en": "Oh, it's spectacular. Who designed it?",
+      "vi": "Thật tuyệt vời. Ai thiết kế nơi này?"
     }
   },
   {
@@ -1471,19 +1435,19 @@
   },
   {
     "translation": {
-      "en": "-Do you mean that? -Have I ever lied to you?",
+      "en": "- Do you mean that? - Have I ever lied to you?",
       "vi": "- Thật không? - Tôi đã bao giờ nói dối anh chưa?"
     }
   },
   {
     "translation": {
-      "en": "-Okay. -Oh, my hero. My hero!",
+      "en": "- Okay. - Oh, my hero. My hero!",
       "vi": "- Được rồi. - Ôi, anh hùng của tôi."
     }
   },
   {
     "translation": {
-      "en": "-Knock it off. -So, what do you think?",
+      "en": "- Knock it off. - So, what do you think?",
       "vi": "- Thôi đi. - Vậy anh nghĩ sao?"
     }
   },
@@ -1513,7 +1477,7 @@
   },
   {
     "translation": {
-      "en": "-Where? -68th and Madison.",
+      "en": "- Where? - 68th and Madison.",
       "vi": "- Ở đâu? - Giao lộ 68 và Madison."
     }
   },
@@ -1531,7 +1495,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Joe Eula's gonna be my illustrator. He's fantastic.",
+      "en": "Joe Eula's gonna be my illustrator. He's fantastic.",
       "vi": "Joe Eula sẽ là họa sĩ vẽ tranh minh họa. Ông ấy tuyệt vời."
     }
   },
@@ -1561,8 +1525,8 @@
   },
   {
     "translation": {
-      "en": "\"Get rid of that. Lower that neckline.\"",
-      "vi": "\"Bỏ cái đó đi. Hạ thấp đường viền cổ áo\"."
+      "en": "Get rid of that. Lower that neckline.",
+      "vi": "Bỏ cái đó đi. Hạ thấp đường viền cổ áo."
     }
   },
   {
@@ -1579,7 +1543,7 @@
   },
   {
     "translation": {
-      "en": "-Sorry. -Elsa Peretti.",
+      "en": "- Sorry. - Elsa Peretti.",
       "vi": "- Xin lỗi. - Elsa Peretti."
     }
   },
@@ -1609,7 +1573,7 @@
   },
   {
     "translation": {
-      "en": "-I thought Liza was your muse? -Well, you can't have too many muses.",
+      "en": "- I thought Liza was your muse? - Well, you can't have too many muses.",
       "vi": "- Tôi tưởng Liza là nàng thơ của anh? - Không thể có quá nhiều nàng thơ."
     }
   },
@@ -1633,13 +1597,13 @@
   },
   {
     "translation": {
-      "en": "-Excuse me. Did you do this? -Yes. -Did you do this? -Yes. I…",
+      "en": "- Excuse me. Did you do this? - Yes. - Did you do this? - Yes. I…",
       "vi": "- Xin lỗi, cậu làm cái này sao? - Vâng. Tôi thiết kế mấy cái váy này."
     }
   },
   {
     "translation": {
-      "en": "[Halston] The team's all in place. Last thing I need to do is find the money.",
+      "en": "The team's all in place. Last thing I need to do is find the money.",
       "vi": "Cả đội đã vào vị trí. Điều cuối cùng tôi cần làm là tìm nguồn tiền."
     }
   },
@@ -1651,7 +1615,7 @@
   },
   {
     "translation": {
-      "en": "I just need a teensy-weensy million dollars.",
+      "en": "I just need a teensy- weensy million dollars.",
       "vi": "Tôi chỉ cần một triệu đô la thôi."
     }
   },
@@ -1671,12 +1635,6 @@
     "translation": {
       "en": "and ask them.",
       "vi": "và hỏi họ."
-    }
-  },
-  {
-    "translation": {
-      "en": "Arthur Vanderbilt, Charles Engelhard, Baron de Rothschild.",
-      "vi": "Arthur Vanderbilt, Charles Engelhard, Baron de Rothschild."
     }
   },
   {
@@ -1717,7 +1675,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Mrs. Marsh, when was the last time anyone asked you,",
+      "en": "Mrs. Marsh, when was the last time anyone asked you,",
       "vi": "Bà Marsh, bà có nhớ lần cuối có người hỏi bà,"
     }
   },
@@ -1741,8 +1699,8 @@
   },
   {
     "translation": {
-      "en": "and I'd say, \"Tell me your troubles. What's bothering you? What do you need?\"",
-      "vi": "\"Hãy kể tôi nghe những rắc rối của bà. Điều gì làm phiền bà? Bà cần gì?\""
+      "en": "and I'd say, Tell me your troubles. What's bothering you? What do you need?",
+      "vi": "Hãy kể tôi nghe những rắc rối của bà. Điều gì làm phiền bà? Bà cần gì?"
     }
   },
   {
@@ -1771,8 +1729,8 @@
   },
   {
     "translation": {
-      "en": "The way my ex-husband used to put it was, \"What the fuck do you want?\"",
-      "vi": "Chồng cũ của tôi thường nói kiểu \"Cô muốn cái quái gì?\""
+      "en": "The way my ex- husband used to put it was, What the fuck do you want?",
+      "vi": "Chồng cũ của tôi thường nói kiểu Cô muốn cái quái gì?"
     }
   },
   {
@@ -1843,7 +1801,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Come.",
+      "en": "Come.",
       "vi": "Nào."
     }
   },
@@ -2005,13 +1963,13 @@
   },
   {
     "translation": {
-      "en": "-[woman] Dai, Halston. -Okay, Halston, easy.",
+      "en": "- Dai, Halston. - Okay, Halston, easy.",
       "vi": "Thôi nào, Halston. Được rồi, Halston, bình tĩnh."
     }
   },
   {
     "translation": {
-      "en": "Don't \"easy\" me, Joe.",
+      "en": "Don't easy me, Joe.",
       "vi": "Đừng bảo tôi bình tĩnh."
     }
   },
@@ -2035,7 +1993,7 @@
   },
   {
     "translation": {
-      "en": "-Take it off. -Maybe in the right color?",
+      "en": "- Take it off. - Maybe in the right color?",
       "vi": "- Cởi ra. - Có lẽ nên đổi màu?"
     }
   },
@@ -2053,7 +2011,7 @@
   },
   {
     "translation": {
-      "en": "-Sorry. -No, don't say sorry. Do better.",
+      "en": "- Sorry. - No, don't say sorry. Do better.",
       "vi": "- Xin lỗi. - Không, đừng xin lỗi. Làm tốt hơn."
     }
   },
@@ -2077,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "-That's what's happening! -Why don't we take a break?",
+      "en": "- That's what's happening! - Why don't we take a break?",
       "vi": "- Đó là điều đang xảy ra. - Sao ta không nghỉ chút nhỉ?"
     }
   },
@@ -2209,7 +2167,7 @@
   },
   {
     "translation": {
-      "en": "-That's your title. -Yeah.",
+      "en": "- That's your title. - Yeah.",
       "vi": "- Đó là chức danh của cậu. - Đúng."
     }
   },
@@ -2251,13 +2209,7 @@
   },
   {
     "translation": {
-      "en": "[Joe] Halston.",
-      "vi": "Halston."
-    }
-  },
-  {
-    "translation": {
-      "en": "[Joel] Jesus!",
+      "en": "Jesus!",
       "vi": "Lạy Chúa."
     }
   },
@@ -2281,7 +2233,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] No. What are you doing?",
+      "en": "No. What are you doing?",
       "vi": "Không, cậu đang làm gì?"
     }
   },
@@ -2485,14 +2437,8 @@
   },
   {
     "translation": {
-      "en": "-Okay? -Okay.",
+      "en": "- Okay? - Okay.",
       "vi": "- Được không? - Rồi."
-    }
-  },
-  {
-    "translation": {
-      "en": "Halston.",
-      "vi": "Halston."
     }
   },
   {
@@ -2527,7 +2473,7 @@
   },
   {
     "translation": {
-      "en": "-Boiling dyes on the stove. -Oh, I love it.",
+      "en": "- Boiling dyes on the stove. - Oh, I love it.",
       "vi": "- Đun sôi thuốc nhuộm trên bếp. - Ôi, tôi thích nó."
     }
   },
@@ -2623,7 +2569,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Yeah, let me see.",
+      "en": "Yeah, let me see.",
       "vi": "Ừ, để tôi xem."
     }
   },
@@ -2671,7 +2617,7 @@
   },
   {
     "translation": {
-      "en": "[Halston] Thank you.",
+      "en": "Thank you.",
       "vi": "Cảm ơn tất cả."
     }
   },
@@ -2689,7 +2635,7 @@
   },
   {
     "translation": {
-      "en": "-Well, Halston, these are not bad. -They're not good.",
+      "en": "- Well, Halston, these are not bad. - They're not good.",
       "vi": "- Halston, chúng không tệ. - Chúng không tốt."
     }
   },
@@ -2701,14 +2647,14 @@
   },
   {
     "translation": {
-      "en": "Senti. \"Effortless and elegant,",
-      "vi": "Nghe này. \"Thoải mái và thanh lịch,"
+      "en": "Senti. Effortless and elegant,",
+      "vi": "Nghe này. Thoải mái và thanh lịch,"
     }
   },
   {
     "translation": {
-      "en": "Halston is an exciting new voice in women's fashion.\"",
-      "vi": "Halston là một làn gió mới thú vị trong làng thời trang nữ\"."
+      "en": "Halston is an exciting new voice in women's fashion.",
+      "vi": "Halston là một làn gió mới thú vị trong làng thời trang nữ."
     }
   },
   {
@@ -2719,8 +2665,8 @@
   },
   {
     "translation": {
-      "en": "\"The look they've assembled here is thrown together or contrived.\"",
-      "vi": "\"Hình ảnh họ kết hợp trông hỗn độn hay giả tạo\"."
+      "en": "The look they've assembled here is thrown together or contrived.",
+      "vi": "Hình ảnh họ kết hợp trông hỗn độn hay giả tạo."
     }
   },
   {
@@ -2731,8 +2677,8 @@
   },
   {
     "translation": {
-      "en": "This one says, \"'You're either young or old,' says Halston.\"",
-      "vi": "Người này viết \"'Bạn trẻ trung hoặc già cỗi', Halston nói\"."
+      "en": "This one says, 'You're either young or old,' says Halston.",
+      "vi": "Người này viết 'Bạn trẻ trung hoặc già cỗi', Halston nói."
     }
   },
   {
@@ -2839,13 +2785,13 @@
   },
   {
     "translation": {
-      "en": "-Am I that abrasive? -You want me to answer that question?",
+      "en": "- Am I that abrasive? - You want me to answer that question?",
       "vi": "- Tôi ghê gớm quá ư? - Anh muốn tôi trả lời câu hỏi đó?"
     }
   },
   {
     "translation": {
-      "en": "-[Elsa] Halston. -Who is it? Do they have any money?",
+      "en": "- Halston. - Who is it? Do they have any money?",
       "vi": "- Halston. - Ai vậy? Họ có tiền không?"
     }
   },
@@ -2935,7 +2881,7 @@
   },
   {
     "translation": {
-      "en": "It just takes one \"yes\"",
+      "en": "It just takes one yes",
       "vi": "Chỉ cần một lời đồng ý"
     }
   },
@@ -2989,8 +2935,8 @@
   },
   {
     "translation": {
-      "en": "But I don't think I can sit through another Liza with a \"Z.\"",
-      "vi": "Nhưng tôi không nghĩ mình có thể ngồi xem Liza with a \"Z\" lần nữa."
+      "en": "But I don't think I can sit through another Liza with a Z.",
+      "vi": "Nhưng tôi không nghĩ mình có thể ngồi xem Liza with a Z lần nữa."
     }
   },
   {
@@ -3079,13 +3025,13 @@
   },
   {
     "translation": {
-      "en": "\"I think you know me very well, Ed.\" What is it with the voice?",
-      "vi": "\"Tôi nghĩ anh hiểu tôi rất rõ, Ed\". Có chuyện gì với giọng nói vậy?"
+      "en": "I think you know me very well, Ed. What is it with the voice?",
+      "vi": "Tôi nghĩ anh hiểu tôi rất rõ, Ed. Có chuyện gì với giọng nói vậy?"
     }
   },
   {
     "translation": {
-      "en": "-What voice? -That one.",
+      "en": "- What voice? - That one.",
       "vi": "- Giọng gì? - Giọng đó."
     }
   },
@@ -3115,7 +3061,7 @@
   },
   {
     "translation": {
-      "en": "-Me? -Yes, I make you insecure.",
+      "en": "- Me? - Yes, I make you insecure.",
       "vi": "- Tôi? - Đúng, tôi làm anh bất an."
     }
   },
@@ -3193,7 +3139,7 @@
   },
   {
     "translation": {
-      "en": "-You're… you're interested in every day? -Mm-hmm.",
+      "en": "- You're… you're interested in every day? - Mm- hmm.",
       "vi": "Cô quan tâm đến hằng ngày?"
     }
   },
@@ -3201,12 +3147,6 @@
     "translation": {
       "en": "Then let me show you something I've been developing.",
       "vi": "Vậy để tôi cho cô xem thứ tôi đang phát triển."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elsa.",
-      "vi": "Elsa."
     }
   },
   {

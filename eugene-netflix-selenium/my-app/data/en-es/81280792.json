@@ -1,0 +1,842 @@
+[
+  {
+    "translation": {
+      "en": "Who is it?",
+      "es": "¿Quién es?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you? What do you want?",
+      "es": "¿Quién eres? ¿Qué quieres?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Revenge!",
+      "es": "¡Venganza!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no.",
+      "es": "No."
+    }
+  },
+  {
+    "translation": {
+      "en": "Zane. Wake up, Zane. Cole's about to beat your high score.",
+      "es": "Zane, despierta. ¡Cole superará tu récord!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jay.",
+      "es": "¡Jay!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just had a terrible nightmare.",
+      "es": "- Tuve una pesadilla. - No fue un sueño, Zane."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh I'm afraid it's not a dream, Zane. It's real.",
+      "es": "- Tuve una pesadilla. - No fue un sueño, Zane. Es real. ¡Cole superará tu puntaje!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cole's about to beat your high score!",
+      "es": "Es real. ¡Cole superará tu puntaje!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not that. I had a nightmare",
+      "es": "Eso no. Soné que pasará algo terrible."
+    }
+  },
+  {
+    "translation": {
+      "en": "something terrible's going to happen.",
+      "es": "Soné que pasará algo terrible."
+    }
+  },
+  {
+    "translation": {
+      "en": "There was an evil serpent with a weapon, and it zapped me with it, and there was an ice castle, and a dragon, and...",
+      "es": "Una serpiente me golpeó con un arma, y había un castillo de hielo, un dragón y…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Relax, Zane.",
+      "es": "¡Relájate, Zane!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was just a dream.",
+      "es": "Fue solo un sueño."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a vision.",
+      "es": "¡Fue una visión!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zane, when was the last time one of your visions actually came true?",
+      "es": "Zane, ¿cuál de tus visiones se ha hecho realidad?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All of my visions have come true.",
+      "es": "Todas se han hecho realidad."
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, like which?",
+      "es": "¿Como cuál?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like the vision about the Titanium Dragon, and the vision before that, about the Green Ninja,",
+      "es": "Como la del dragón de titanio, y la del ninja verde,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the time before that, about the-- Okay, okay, but this is different.",
+      "es": "- y la de… - ¡Está bien! Pero esto es diferente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, seriously, Cole's about to beat your Lava Zombie score,",
+      "es": "Cole superará tu puntaje en Lava Zombie"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I don't wanna miss it. So come on.",
+      "es": "y no me lo perderé, ¡vamos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wasted True Potential.",
+      "es": "Potencial desperdiciado."
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the guy on the left.",
+      "es": "¡A tu izquierda!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cole, you're on fire!",
+      "es": "Cole, ¡vas muy bien!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoo- hoo! You did it!",
+      "es": "- ¡Lo lograste! - ¡Muy bien!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was awesome!",
+      "es": "¡Eso fue genial!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoo- hoo! Lava Zombie king.",
+      "es": "¡Rey de Lava Zombie! - ¡Muy bien! - ¡Sí!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aw, man. We missed it.",
+      "es": "¡Cielos! ¡Nos lo perdimos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Congratulations, Cole. That is quite an achievement.",
+      "es": "Felicitaciones, Cole. Es todo un logro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, buddy. No hard feelings?",
+      "es": "Gracias. ¿No estás enojado?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course not.",
+      "es": "Claro que no."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, good. Because my arm is pretty sore. I'm sore just from watching.",
+      "es": "- Bien, porque me duele el brazo. - A mí me duele solo de ver."
+    }
+  },
+  {
+    "translation": {
+      "en": "Know what I'm thinking?  Hot tub!",
+      "es": "- ¿Saben en qué estoy pensando? - ¡Bañera!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kai, a little heat, please?",
+      "es": "Kai, un poco de calor, por favor."
+    }
+  },
+  {
+    "translation": {
+      "en": "But of course.",
+      "es": "Claro que sí."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the life.",
+      "es": "Esto sí es vida."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, we earned it, pal.",
+      "es": "Nos lo ganamos."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fighting all those bad guys, saving Ninjago.",
+      "es": "Peleando contra los malos, salvando Ninjago."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't believe we're back to this.",
+      "es": "No puedo creer que volvamos a esto."
+    }
+  },
+  {
+    "translation": {
+      "en": "- What? - After every big victory,",
+      "es": "¿Qué? Tras cada victoria, se vuelven flojos, conformistas, descuidados."
+    }
+  },
+  {
+    "translation": {
+      "en": "you get lazy. Complacent. Careless.",
+      "es": "Tras cada victoria, se vuelven flojos, conformistas, descuidados."
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, that is not true.",
+      "es": "Eso no es cierto."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're recovering. We're resting our muscles.",
+      "es": "Es la recuperación, descansar los músculos."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was months ago.",
+      "es": "¡Fue hace meses!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Months? Really?",
+      "es": "¿Meses? ¿En serio?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you sure?",
+      "es": "- ¿Está seguro? - Sí."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, well, who's counting?",
+      "es": "- Bueno, ¿quién lleva la cuenta? - ¡Yo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am! Look at yourselves.",
+      "es": "- Bueno, ¿quién lleva la cuenta? - ¡Yo! Mírense. Se ablandaron."
+    }
+  },
+  {
+    "translation": {
+      "en": "You've gone soft.",
+      "es": "Mírense. Se ablandaron."
+    }
+  },
+  {
+    "translation": {
+      "en": "You do nothing all day but play video games and eat cake,",
+      "es": "No hacen más que jugar videojuegos y comer pastel,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and soak in this... This...",
+      "es": "y sumergirse en esta… esta…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hot tub?",
+      "es": "¿Bañera?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not a hot tub!",
+      "es": "¡No es una bañera!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the sacred Bell of Divinity.",
+      "es": "Es la Campana Sagrada de la Divinidad."
+    }
+  },
+  {
+    "translation": {
+      "en": "Out! Out! All of you!",
+      "es": "¡Fuera, todos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Emergency meeting in the monastery.",
+      "es": "Reunión en el monasterio."
+    }
+  },
+  {
+    "translation": {
+      "en": "In three minutes.",
+      "es": "¡En tres minutos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have become soft. Lazy. Flabby.",
+      "es": "Se han vuelto blandos, perezosos, flácidos."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, that's getting a tad personal.",
+      "es": "Bueno, eso ya es algo personal."
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody has gone soft, Master Wu. - I promise you. -",
+      "es": "Nadie se ha ablandado, maestro. Se lo prometo."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are in perfect condition.",
+      "es": "Estamos en forma."
+    }
+  },
+  {
+    "translation": {
+      "en": "Silence.",
+      "es": "¡Silencio!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Since ancient times,",
+      "es": "Desde la antigüedad,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the hills around this monastery have been populated",
+      "es": "las colinas que nos rodean  han sido pobladas por depredadores muy agresivos."
+    }
+  },
+  {
+    "translation": {
+      "en": "by a species of highly aggressive predator.",
+      "es": "han sido pobladas por depredadores muy agresivos."
+    }
+  },
+  {
+    "translation": {
+      "en": "The first monks built the walls extra tall to keep them out.",
+      "es": "Los primeros monjes hicieron muros altos para aislarlos."
+    }
+  },
+  {
+    "translation": {
+      "en": "They failed.",
+      "es": "Y fracasaron."
+    }
+  },
+  {
+    "translation": {
+      "en": "Many monks were lost. What's in the box?",
+      "es": "- Perdimos muchos monjes. - ¿Qué hay en la caja?"
+    }
+  },
+  {
+    "translation": {
+      "en": "In order to survive, the monks became faster, stronger, more cunning.",
+      "es": "Para sobrevivir, los monjes se hicieron más rápidos, fuertes y astutos."
+    }
+  },
+  {
+    "translation": {
+      "en": "They evolved into ninja.",
+      "es": "Se convirtieron en ninjas."
+    }
+  },
+  {
+    "translation": {
+      "en": "To this day, it is a test that every ninja must face.",
+      "es": "Hasta hoy, es una prueba que todo ninja debe enfrentar."
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, test?",
+      "es": "¿Prueba?"
+    }
+  },
+  {
+    "translation": {
+      "en": "To prove their courage,",
+      "es": "Para probar su valentía,"
+    }
+  },
+  {
+    "translation": {
+      "en": "they must survive five minutes  in a room with one of these.",
+      "es": "¡deben sobrevivir cinco minutos en una habitación con uno de estos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, he had me going there for a sec.",
+      "es": "¡Me lo creí por segundo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Heh, who knew Wu had a sense of humour?",
+      "es": "¡Wu tiene sentido del humor!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. We got the chicken.",
+      "es": "Oigan… atrapamos al pollo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, it's in the box.",
+      "es": "Sí, está en la caja."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're... We're as sharp as ever.",
+      "es": "¡Tan agudos como siempre!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are weak and slow.",
+      "es": "Débiles y lentos."
+    }
+  },
+  {
+    "translation": {
+      "en": "A ninja's guard is never down!",
+      "es": "Un ninja nunca baja la guardia."
+    }
+  },
+  {
+    "translation": {
+      "en": "A ninja expects the unexpected.",
+      "es": "Un ninja espera lo inesperado."
+    }
+  },
+  {
+    "translation": {
+      "en": "He is ready for anything.",
+      "es": "Está listo para lo que sea."
+    }
+  },
+  {
+    "translation": {
+      "en": "Right.",
+      "es": "Sí."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's us.",
+      "es": "Como nosotros."
+    }
+  },
+  {
+    "translation": {
+      "en": "We shall see.",
+      "es": "Ya veremos."
+    }
+  },
+  {
+    "translation": {
+      "en": "- What does that mean? -",
+      "es": "¿Qué significa eso?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ganache frosting.",
+      "es": "Glaseado de ganache."
+    }
+  },
+  {
+    "translation": {
+      "en": "This has to stop.",
+      "es": "¡Esto no puede seguir así!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to do something, Lloyd!",
+      "es": "Tenemos que hacer algo, Lloyd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, okay. Let me think.",
+      "es": "Bueno. Déjame pensar."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is ridiculous.",
+      "es": "Esto es ridículo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's just go and talk to him. Like reasonable ninja.",
+      "es": "Vamos a hablar con él, como ninjas razonables."
+    }
+  },
+  {
+    "translation": {
+      "en": "Master Wu, is there anything that we can do,",
+      "es": "Maestro Wu, ¿hay algo que podamos hacer, como grupo,"
+    }
+  },
+  {
+    "translation": {
+      "en": "as a group, that would prove to you that we have not gone soft?",
+      "es": "que pruebe que no somos blandos?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you could stop booby- trapping stuff?",
+      "es": "¡Y que pare las trampas!"
+    }
+  },
+  {
+    "translation": {
+      "en": "There is one thing.",
+      "es": "Hay una cosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's that?",
+      "es": "¿Qué?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prove me wrong by defeating me in combat.",
+      "es": "Demuéstrenmelo derrotándome en un combate."
+    }
+  },
+  {
+    "translation": {
+      "en": "Combat?",
+      "es": "¿Combate?"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I thought you said fighting never proves anything.",
+      "es": "Pero dijo que pelear no prueba nada."
+    }
+  },
+  {
+    "translation": {
+      "en": "Except in this case.",
+      "es": "Pero en este caso,"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will prove you can still fight.",
+      "es": "probará que aún saben pelear."
+    }
+  },
+  {
+    "translation": {
+      "en": "We can't fight you. You're our master.",
+      "es": "No pelearemos contra nuestro maestro."
+    }
+  },
+  {
+    "translation": {
+      "en": "And no offense, but,",
+      "es": "Y no se ofenda,"
+    }
+  },
+  {
+    "translation": {
+      "en": "well, you're kinda old.",
+      "es": "pero está un poco viejo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, is that why?",
+      "es": "¿Es por eso?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You sure you aren't... afraid?",
+      "es": "¿No será que tienen… miedo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Yeah, right.",
+      "es": "¡Sí, claro!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then prove it. Attack me.",
+      "es": "Pruébenlo. ¡Atáquenme!"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Fail.",
+      "es": "¡Fallaste!"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, it's on.",
+      "es": "Muy bien, ya fue suficiente."
+    }
+  },
+  {
+    "translation": {
+      "en": "No more Mr Nice Ninja.",
+      "es": "¡Ya no seremos amables!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on guys, we can take him. You wanna rumble? You got the rumble.",
+      "es": "Vamos, podemos ganarle. Si quiere pelea, ¡la tendrá!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "es": "¿Qué?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your elemental powers no longer obey you. Hyah!",
+      "es": "Tus poderes elementales ya no te obedecen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I haven't forgotten how to use mine.",
+      "es": "¡Pues yo aún sé usar los míos!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, Zane?",
+      "es": "¿Zane?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gosh, sorry.",
+      "es": "¡Cielos! ¡Lo siento!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire!",
+      "es": "¡Fuego!"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Get his legs! Hold him!",
+      "es": "Agarren sus piernas."
+    }
+  },
+  {
+    "translation": {
+      "en": "Those are my legs!",
+      "es": "¡Son mis piernas!"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Slow and clumsy.",
+      "es": "Lentos y torpes."
+    }
+  },
+  {
+    "translation": {
+      "en": "Huh? How'd he get up there?",
+      "es": "¿Cómo llegó allá?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is getting embarrassing!",
+      "es": "¡Esto ya es vergonzoso!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ninjago!",
+      "es": "¡Ninjago!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ouch.",
+      "es": "¡Ay!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fail.",
+      "es": "Fallaste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ganache frosting.",
+      "es": "Glaseado de ganache."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Maybe Wu's right. - I think so.",
+      "es": "- Quizá tiene razón. - ¡Eso creo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need a quest. - Yeah. - Uh- huh.",
+      "es": "- Necesitamos una misión. - Sí."
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Oh, no.",
+      "es": "Ay, ¡no!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you gotta be kidding me.",
+      "es": "¡Tiene que ser una broma!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I looked it in the eye!",
+      "es": "- ¡Vete! - Lo miré a los ojos. Subtítulos: David Marín"
+    }
+  }
+]
