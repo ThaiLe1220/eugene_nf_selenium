@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 import re
+import os
 
 
 def clean_text(text):
@@ -8,6 +9,10 @@ def clean_text(text):
     target = target.replace("\n", " ")
     target = target.replace("\u200E", "")
     target = target.replace('"', "")
+
+    # Replace both "[]" and the text inside it [....text...] with empty string
+    target = re.sub(r"\[.*?\]", "", target)
+
     return target
 
 
@@ -30,36 +35,17 @@ def process_and_save_data(movies_id, lang_code):
 
         soup = BeautifulSoup(html_content, "html.parser")
 
-        rows = soup.find_all("tr")[1:]  # Skip the header row
+        rows = soup.find_all("tr")[1:]
 
-        # Process each row
         translations = []
         for row in rows:
             cols = row.find_all("td")
-            time = cols[0].get_text(strip=True)
             subtitle = process_subtitle(cols[1])
 
-            # Check for machine translation
             if len(cols) >= 3:
                 translation = clean_text(cols[2].get_text())
             else:
                 translation = ""
-
-            if len(cols) == 4:
-                machine_translation = clean_text(cols[3].get_text())
-            else:
-                machine_translation = ""  # No machine translation available
-
-            # translations.append(
-            #     {
-            #         "subtitle": {
-            #             "time": time,
-            #             "subtitle": subtitle,
-            #             "translation": translation,
-            #             "machine_translation": machine_translation,
-            #         }
-            #     }
-            # )
 
             translations.append(
                 {
@@ -69,6 +55,9 @@ def process_and_save_data(movies_id, lang_code):
                     }
                 }
             )
+
+        dir_path = f"./data/en-{lang_code}"
+        os.makedirs(dir_path, exist_ok=True)
 
         with open(
             f"./data/en-{lang_code}/{movies_id}.json", "w", encoding="utf-8"
@@ -80,8 +69,8 @@ def process_and_save_data(movies_id, lang_code):
 
     except FileNotFoundError:
         print(f"File not found: {file_path}")
-        with open(f"./markup/note.txt", "a", encoding="utf-8") as file:
-            file.write(f"Failed to extract {file_path}")
+        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as file:
+            file.write(f"Failed to extract {file_path}\n")
 
 
 netflix_links = []
@@ -98,5 +87,5 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
 
 
 for i, link in enumerate(netflix_links):
-    if i >= 0:
-        process_and_save_data(movies_ids[i], "es")
+    if 0 <= i <= 100:
+        process_and_save_data(movies_ids[i], "fr")
