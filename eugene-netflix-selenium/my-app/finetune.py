@@ -54,7 +54,7 @@ tokenized_datasets = raw_datasets.map(preprocess_function, batched=True)
 
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_CHECKPOINT)
 
-BATCH_SIZE = 8
+BATCH_SIZE = 16
 MODEL_NAME = MODEL_CHECKPOINT.rsplit("/", maxsplit=1)[-1]
 
 args = Seq2SeqTrainingArguments(
@@ -65,7 +65,7 @@ args = Seq2SeqTrainingArguments(
     per_device_eval_batch_size=BATCH_SIZE,
     weight_decay=0.01,
     save_total_limit=3,
-    num_train_epochs=2,
+    num_train_epochs=5,
     predict_with_generate=True,
 )
 
