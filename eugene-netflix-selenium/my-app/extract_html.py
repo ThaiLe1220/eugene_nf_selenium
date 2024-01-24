@@ -5,7 +5,7 @@ import os
 
 
 def clean_translation(text):
-    target = text.replace("\n                    ", "").strip()
+    target = text.replace("\n     ", "").strip()
     target = target.replace("\n", " ")
     target = target.replace("\u200E", "")
     target = target.replace('"', "")
@@ -14,18 +14,12 @@ def clean_translation(text):
     return target
 
 
-import re
-
-
 def clean_subtitle(text):
-    # Replace newline and unwanted characters
     target = text.replace("\n", " ")
     target = target.replace("\u200E", "")
     target = target.replace('"', "")
     target = re.sub(r"\[.*?\]", "", target)
-
     target = re.sub(r"-(?![\s-])", "- ", target)
-
     target = target.strip()
 
     return target
@@ -45,11 +39,10 @@ def process_subtitle(td):
 def process_and_save_data(movies_id, lang_code):
     file_path = f"./markup/en-{lang_code}/{movies_id}.html"
     try:
-        with open(file_path, "r", encoding="utf-8") as file:
-            html_content = file.read()
+        with open(file_path, "r", encoding="utf-8") as f:
+            html_content = f.read()
 
         soup = BeautifulSoup(html_content, "html.parser")
-
         rows = soup.find_all("tr")[1:]
 
         translations = []
@@ -62,14 +55,18 @@ def process_and_save_data(movies_id, lang_code):
             else:
                 translation = ""
 
-            translations.append(
-                {
-                    "translation": {
-                        "en": subtitle,
-                        f"{lang_code}": translation,
+            if subtitle and translation and subtitle != translation:
+                translations.append(
+                    {
+                        "translation": {
+                            "en": subtitle,
+                            f"{lang_code}": translation,
+                        }
                     }
-                }
-            )
+                )
+
+        if not translations:
+            raise ValueError(f"No valid translations found for {movies_id}")
 
         dir_path = f"./data/en-{lang_code}"
         os.makedirs(dir_path, exist_ok=True)
@@ -84,14 +81,17 @@ def process_and_save_data(movies_id, lang_code):
 
     except FileNotFoundError:
         print(f"File not found: {file_path}")
-        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as file:
-            file.write(f"Failed to extract {file_path}\n")
+        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
+            f.write(f"Failed to extract {file_path}\n")
+    except ValueError as e:
+        print(e)
+        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
+            f.write(f"Failed to extract {file_path}\n")
 
 
 netflix_links = []
 movies_ids = []
 
-# Read the links from the movies_links.txt file and add them to the list
 with open("./source/movies_links_cleaned.txt", "r") as file:
     for line in file:
         line = line.strip()
@@ -102,5 +102,5 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
 
 
 for i, link in enumerate(netflix_links):
-    if 1090 <= i <= 1095:
+    if 0 <= i <= 1100:
         process_and_save_data(movies_ids[i], "vi")
