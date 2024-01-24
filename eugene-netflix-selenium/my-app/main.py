@@ -1,5 +1,8 @@
+"""Filename: main.py - Directory: ./my-app"""
+
 import time
 import os
+import re
 from dotenv import load_dotenv
 
 from selenium import webdriver
@@ -10,24 +13,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
-
-from extract_html import process_and_save_data
-
-lang = [
-    ("Vietnamese", "vi"),
-    ("Spanish", "es"),
-    ("English", "en"),
-    ("Vietnamese", "vi"),
-    ("French", "fr"),
-    ("German", "de"),
-    ("Italian", "it"),
-    ("Korean", "ko"),
-    ("Japanese", "ja"),
-    ("Chinese (Simplified)", "zh"),
-    ("Portuguese", "pt"),
-    ("Thai", "th"),
-    ("Russian", "th"),
-]
 
 
 def google_authenticate(cur_driver, username, password):
@@ -45,7 +30,7 @@ def google_authenticate(cur_driver, username, password):
         cur_driver.switch_to.window(new_tab)
         cur_driver.close()
         cur_driver.switch_to.window(cur_driver.window_handles[0])
-        time.sleep(2)
+        time.sleep(1)
         # email_field = cur_driver.find_element(By.ID, "identifierId")
         # email_field.click()
         # email_field.send_keys(username)
@@ -58,17 +43,27 @@ def google_authenticate(cur_driver, username, password):
     time.sleep(1)
 
 
-def netflix_authenticate(cur_driven, username, password):
+def netflix_authenticate(cur_driver, username, password):
     print(" [ netflix_authenticate() ] ", end="")
-    cur_driven.get("https://www.netflix.com/login")
-    time.sleep(6)
-    username_field = cur_driven.find_element(By.NAME, "userLoginId")
-    password_field = cur_driven.find_element(By.NAME, "password")
+    cur_driver.get("https://www.netflix.com/login")
+    time.sleep(1)
+    if len(cur_driver.window_handles) > 1:
+        new_tab = [
+            tab
+            for tab in cur_driver.window_handles
+            if tab != cur_driver.current_window_handle
+        ][0]
+        cur_driver.switch_to.window(new_tab)
+        cur_driver.close()
+        cur_driver.switch_to.window(cur_driver.window_handles[0])
+    time.sleep(5)
+    username_field = cur_driver.find_element(By.NAME, "userLoginId")
+    password_field = cur_driver.find_element(By.NAME, "password")
     username_field.send_keys(username)
     password_field.send_keys(password)
     password_field.send_keys(Keys.RETURN)
     wait.until(EC.url_contains("www.netflix.com/browse"))
-    time.sleep(2)
+    time.sleep(1)
 
 
 def click_setting_button(cur_wait):
@@ -139,7 +134,7 @@ def extension_sign_in(cur_driver, cur_wait):
         # time.sleep(3)
 
     cur_driver.switch_to.window(main_window_handle)
-    time.sleep(50)
+    time.sleep(5)
 
 
 def choose_language_translation(cur_driver, cur_wait, language):
@@ -192,7 +187,7 @@ def close_setting_button(cur_driver):
     cur_driver.execute_script("arguments[0].click();", settings_button)
 
 
-def export_translation(cur_driver, cur_wait, i, language):
+def export_translation(cur_driver, cur_wait, index, lang_code):
     print(" [ export_translation() ] ", end="")
     export_button = cur_wait.until(
         EC.element_to_be_clickable(
@@ -210,7 +205,7 @@ def export_translation(cur_driver, cur_wait, i, language):
         EC.element_to_be_clickable((By.ID, "llnExportModalExportBtn"))
     )
     export_option.click()
-    time.sleep(1.5)
+    time.sleep(1)
 
     if len(cur_driver.window_handles) > 1:
         new_tab = [
@@ -220,76 +215,119 @@ def export_translation(cur_driver, cur_wait, i, language):
         ][0]
         cur_driver.switch_to.window(new_tab)
 
-        lang_code = None
-        for lang_name, code in lang:
-            if lang_name == language:
-                lang_code = code
-                break
-
         page_source = driver.page_source
-        filename = f"./markup/en-{lang_code}/{movies_ids[i]}.html"
-        with open(filename, "w", encoding="utf-8") as file:
-            file.write(page_source)
+        filename = f"./markup/en-{lang_code}/{MOVIE_IDS[index]}.html"
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(page_source)
 
         print(f"\nThe HTML of the page has been saved as {filename}")
 
 
+def clean_NETFLIX_LINKS(input_file, output_file):
+    cleaned_links = []
+
+    with open(input_file, "r") as file:
+        for line in file:
+            line = line.strip()
+            if line.startswith("https://www.netflix.com/watch/"):
+                movie_id = re.split(r"[^0-9]", line.split("/")[-1])[0]
+                cleaned_link = f"https://www.netflix.com/watch/{movie_id}"
+                cleaned_links.append(cleaned_link)
+
+    sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
+    unique_sorted_links = sorted(set(link.strip() for link in sorted_links))
+
+    with open(output_file, "w") as file:
+        for link in unique_sorted_links:
+            file.write(link + "\n")
+
+
 load_dotenv()
 
-gg_username = os.getenv("GG_USERNAME")
-gg_password = os.getenv("GG_PASSWORD")
-nf_username = os.getenv("NF_USERNAME")
-nf_password = os.getenv("NF_PASSWORD")
+lang_list = [
+    ("Vietnamese", "vi"),
+    ("Spanish", "es"),
+    ("English", "en"),
+    ("French", "fr"),
+    ("German", "de"),
+    ("Italian", "it"),
+    ("Korean", "ko"),
+    ("Japanese", "ja"),
+    ("Chinese (Simplified)", "zh"),
+    ("Portuguese", "pt"),
+    ("Thai", "th"),
+    ("Russian", "th"),
+]
+
+START_INDEX = 105
+END_INDEX = 115
+LANGUAGE = "French"
+LANGUAGE_CODE = {name: code for name, code in lang_list}.get(LANGUAGE)
 
 options = webdriver.ChromeOptions()
 options.add_extension("./extensions/Language-Reactor.crx")
 driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 10)
 
-google_authenticate(driver, gg_username, gg_password)
-netflix_authenticate(driver, nf_username, nf_password)
+# google_authenticate(driver, os.getenv("GG_USERNAME"), os.getenv("GG_PASSWORD"))
+netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
 
-netflix_links = []
-movies_ids = []
+NETFLIX_LINKS = []
+MOVIE_IDS = []
 
-with open("./source/movies_links_cleaned.txt", "r") as file:
+with open("./source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
     for line in file:
         line = line.strip()
         if line.startswith("https://www.netflix.com/watch/"):
-            netflix_links.append(line)
+            NETFLIX_LINKS.append(line)
             movie_id = line.split("/")[-1]
-            movies_ids.append(movie_id)
+            MOVIE_IDS.append(movie_id)
 
-for i, link in enumerate(netflix_links):
-    start_index = 280
-    end_index = 1092
+for i, link in enumerate(NETFLIX_LINKS):
+    if START_INDEX <= i <= END_INDEX:
+        start_time = time.time()
+        driver.get(link)
 
-    if start_index <= i <= end_index:
-        start_time = time.time()  # Start time tracking
         try:
-            driver.get(link)
-            time.sleep(8.5)
-            if i == start_index:
+            if i == START_INDEX:
                 click_setting_button(wait)
                 # extension_sign_in(driver, wait)
                 # driver.switch_to.window(driver.window_handles[0])
-                choose_language_translation(driver, wait, "Spanish")
+                choose_language_translation(driver, wait, LANGUAGE)
+                time.sleep(1)
                 # choose_machine_translation(driver)
                 close_setting_button(driver)
+                time.sleep(1)
 
-            export_translation(driver, wait, i, "Spanish")
+            wait.until(
+                EC.element_to_be_clickable(
+                    (
+                        By.CSS_SELECTOR,
+                        ".lln-vertical-view-sub.lln-sentence-wrap.lln-with-play-btn.odd.in-scroll",
+                    )
+                )
+            )
+            export_translation(driver, wait, i, LANGUAGE_CODE)
             close_all_tabs(driver)
-            time.sleep(0.5)
+
         except WebDriverException:
             print(f"{link} Inaccessible")
             with open(
-                "./source/movies_links_inaccessed.txt", "a", encoding="utf-8"
+                f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
+                "a",
+                encoding="utf-8",
             ) as file:
                 file.write(link + "\n")
 
         elapsed_time = time.time() - start_time  # Calculate elapsed time
         print(
-            f"Time taken for iteration {i}, film {movies_ids[i]}: {elapsed_time:.2f} seconds"
+            f"Time taken for iteration {i}, film {MOVIE_IDS[i]}, translation en-{LANGUAGE_CODE}: {elapsed_time:.2f} seconds"
         )
+
+
+clean_NETFLIX_LINKS(
+    f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
+    f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
+)
 
 driver.quit()

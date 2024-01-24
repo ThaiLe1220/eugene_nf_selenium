@@ -2,25 +2,6 @@ import re
 import os
 
 
-def clean_netflix_links(input_file, output_file):
-    cleaned_links = []
-
-    with open(input_file, "r") as file:
-        for line in file:
-            line = line.strip()
-            if line.startswith("https://www.netflix.com/watch/"):
-                movie_id = re.split(r"[^0-9]", line.split("/")[-1])[0]
-                cleaned_link = f"https://www.netflix.com/watch/{movie_id}"
-                cleaned_links.append(cleaned_link)
-
-    sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
-    unique_sorted_links = sorted(set(link.strip() for link in sorted_links))
-
-    with open(output_file, "w") as file:
-        for link in unique_sorted_links:
-            file.write(link + "\n")
-
-
 def clean_netflix_inacessible_links(input_file, output_file, lang_code):
     cleaned_links = []
 
