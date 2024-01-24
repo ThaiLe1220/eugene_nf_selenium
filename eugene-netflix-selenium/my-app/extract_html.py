@@ -84,19 +84,19 @@ def process_and_save_data(movies_id, lang_code):
             file.write(f"Failed to extract {file_path}")
 
 
-netflix_links = []
-movies_ids = []
+# netflix_links = []
+# movies_ids = []
 
-# Read the links from the movies_links.txt file and add them to the list
-with open("./source/movies_links_cleaned.txt", "r") as file:
-    for line in file:
-        line = line.strip()
-        if line.startswith("https://www.netflix.com/watch/"):
-            netflix_links.append(line)
-            movie_id = line.split("/")[-1]
-            movies_ids.append(movie_id)
+# # Read the links from the movies_links.txt file and add them to the list
+# with open("./source/movies_links_cleaned.txt", "r") as file:
+#     for line in file:
+#         line = line.strip()
+#         if line.startswith("https://www.netflix.com/watch/"):
+#             netflix_links.append(line)
+#             movie_id = line.split("/")[-1]
+#             movies_ids.append(movie_id)
 
 
-for i, link in enumerate(netflix_links):
-    if i >= 0:
-        process_and_save_data(movies_ids[i], "es")
+# for i, link in enumerate(netflix_links):
+#     if i >= 0:
+#         process_and_save_data(movies_ids[i], "es")

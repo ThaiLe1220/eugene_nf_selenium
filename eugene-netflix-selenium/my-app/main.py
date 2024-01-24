@@ -261,7 +261,7 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
             movies_ids.append(movie_id)
 
 for i, link in enumerate(netflix_links):
-    start_index = 280
+    start_index = 0
     end_index = 1092
 
     if start_index <= i <= end_index:
@@ -273,11 +273,11 @@ for i, link in enumerate(netflix_links):
                 click_setting_button(wait)
                 # extension_sign_in(driver, wait)
                 # driver.switch_to.window(driver.window_handles[0])
-                choose_language_translation(driver, wait, "Spanish")
+                choose_language_translation(driver, wait, "French")
                 # choose_machine_translation(driver)
                 close_setting_button(driver)
 
-            export_translation(driver, wait, i, "Spanish")
+            export_translation(driver, wait, i, "French")
             close_all_tabs(driver)
             time.sleep(0.5)
         except WebDriverException:
