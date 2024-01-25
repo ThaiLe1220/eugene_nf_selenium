@@ -42,7 +42,7 @@ def clean_netflix_inacessible_links(input_file, output_file, lang_code):
             file.write(link + "\n")
 
 
-def delete_invalid_translation_files(directory):
+def delete_invalid_translation_files(directory, lang_code):
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
             file_path = os.path.join(directory, filename)
@@ -53,8 +53,8 @@ def delete_invalid_translation_files(directory):
                 # Check and delete file if necessary
                 for item in data:
                     en = item["translation"]["en"]
-                    vi = item["translation"]["vi"]
-                    if not en or not vi or en != vi:
+                    lang_translation = item["translation"][f"{lang_code}"]
+                    if en == "" or lang_translation == "" or en == lang_translation:
                         os.remove(file_path)
                         print(f"Deleted file: {filename}")
                         break  # Exit the loop as we've already deleted the file
@@ -67,5 +67,6 @@ def delete_invalid_translation_files(directory):
                 )
 
 
-DIRECTORY = "./data/en-vi"
-delete_invalid_translation_files(DIRECTORY)
+LANG_CODE = "es"
+DIRECTORY = f"./data/en-{LANG_CODE}"
+delete_invalid_translation_files(DIRECTORY, LANG_CODE)
