@@ -1,30 +1,6 @@
 [
   {
     "translation": {
-      "en": "Hannah.",
-      "es": "Hannah."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hannah.",
-      "es": "Hannah."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hannah.",
-      "es": "Hannah."
-    }
-  },
-  {
-    "translation": {
-      "en": "No.",
-      "es": "No."
-    }
-  },
-  {
-    "translation": {
       "en": "God himself commands you,",
       "es": "¡Dios todopoderoso te ordena..."
     }
@@ -139,7 +115,7 @@
   },
   {
     "translation": {
-      "en": "Your whore daughter is mine.",
+      "en": "DEMON: Your whore daughter is mine.",
       "es": "La puta de tu hija es mía."
     }
   },
@@ -199,7 +175,7 @@
   },
   {
     "translation": {
-      "en": "This will be good.",
+      "en": "LISA: This will be good.",
       "es": "Será sensacional."
     }
   },
@@ -295,7 +271,7 @@
   },
   {
     "translation": {
-      "en": "Going down.",
+      "en": "COMPUTER: Going down.",
       "es": "Bajando."
     }
   },
@@ -343,7 +319,7 @@
   },
   {
     "translation": {
-      "en": "Arrived at morgue.",
+      "en": "COMPUTER: Arrived at morgue.",
       "es": "Llegando a morgue."
     }
   },
@@ -391,7 +367,7 @@
   },
   {
     "translation": {
-      "en": "Intake bay.",
+      "en": "COMPUTER: Intake bay.",
       "es": "Área de entregas."
     }
   },
@@ -415,7 +391,7 @@
   },
   {
     "translation": {
-      "en": "Arrived at morgue.",
+      "en": "COMPUTER: Arrived at morgue.",
       "es": "Llegando a morgue."
     }
   },
@@ -433,7 +409,7 @@
   },
   {
     "translation": {
-      "en": "Image captured.",
+      "en": "COMPUTER: Image captured.",
       "es": "Imagen capturada."
     }
   },
@@ -451,7 +427,7 @@
   },
   {
     "translation": {
-      "en": "Image captured. All right, you try.",
+      "en": "COMPUTER: Image captured. All right, you try.",
       "es": "-Imagen capturada. -Inténtalo tú."
     }
   },
@@ -481,7 +457,7 @@
   },
   {
     "translation": {
-      "en": "Scanning.",
+      "en": "COMPUTER: Scanning.",
       "es": "Con cuidado. Escaneando."
     }
   },
@@ -601,19 +577,19 @@
   },
   {
     "translation": {
-      "en": "Morgue.",
+      "en": "COMPUTER: Morgue.",
       "es": "Morgue."
     }
   },
   {
     "translation": {
-      "en": "Intake bay.",
+      "en": "COMPUTER: Intake bay.",
       "es": "Área de entregas."
     }
   },
   {
     "translation": {
-      "en": "Arrived at intake bay.",
+      "en": "COMPUTER: Arrived at intake bay.",
       "es": "Llegando a área de entregas."
     }
   },
@@ -631,7 +607,7 @@
   },
   {
     "translation": {
-      "en": "Morgue.",
+      "en": "COMPUTER: Morgue.",
       "es": "Forense."
     }
   },
@@ -661,13 +637,13 @@
   },
   {
     "translation": {
-      "en": "Image captured.",
+      "en": "COMPUTER: Image captured.",
       "es": "Imagen capturada."
     }
   },
   {
     "translation": {
-      "en": "Scanning.",
+      "en": "COMPUTER: Scanning.",
       "es": "Escaneando."
     }
   },
@@ -733,7 +709,7 @@
   },
   {
     "translation": {
-      "en": "I don't know what triggers it, really.",
+      "en": "MEGAN: I don't know what triggers it, really.",
       "es": "No sé qué lo provoca."
     }
   },
@@ -811,7 +787,7 @@
   },
   {
     "translation": {
-      "en": "Hey.",
+      "en": "MAN: Hey.",
       "es": "Hola."
     }
   },
@@ -973,13 +949,13 @@
   },
   {
     "translation": {
-      "en": "Intake bay.",
+      "en": "COMPUTER: Intake bay.",
       "es": "Área de entregas."
     }
   },
   {
     "translation": {
-      "en": "Arrived at intake bay.",
+      "en": "COMPUTER: Arrived at intake bay.",
       "es": "Llegando a área de entregas."
     }
   },
@@ -1021,7 +997,7 @@
   },
   {
     "translation": {
-      "en": "Morgue. MAN: Let me in!",
+      "en": "COMPUTER: Morgue. MAN: Let me in!",
       "es": "¡Ábreme!"
     }
   },
@@ -1045,7 +1021,7 @@
   },
   {
     "translation": {
-      "en": "Thanks for the heads- up. Yeah, we get that a lot.",
+      "en": "MAN: Thanks for the heads- up. Yeah, we get that a lot.",
       "es": "Gracias por avisarnos. Pasa con frecuencia."
     }
   },
@@ -1057,7 +1033,7 @@
   },
   {
     "translation": {
-      "en": "Arrived at intake bay.",
+      "en": "COMPUTER: Arrived at intake bay.",
       "es": "Llegando a área de entregas."
     }
   },
@@ -1201,7 +1177,7 @@
   },
   {
     "translation": {
-      "en": "What happened? RANDY: Oh, yeah, it's a bad one.",
+      "en": "MEGAN: What happened? RANDY: Oh, yeah, it's a bad one.",
       "es": "-¿Qué le pasó? -Sí, es de los feos."
     }
   },
@@ -1233,12 +1209,6 @@
     "translation": {
       "en": "Did they find out who he was? No clue.",
       "es": "-¿Saben quién es? -Ni idea."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hannah Grace.",
-      "es": "Hannah Grace."
     }
   },
   {
@@ -1321,7 +1291,7 @@
   },
   {
     "translation": {
-      "en": "Intake bay. It gets easier. I promise.",
+      "en": "COMPUTER: Intake bay. It gets easier. I promise.",
       "es": "Se te hará más fácil, te lo prometo."
     }
   },
@@ -1339,13 +1309,13 @@
   },
   {
     "translation": {
-      "en": "Error. Unable to load image.",
+      "en": "COMPUTER: Error. Unable to load image.",
       "es": "Error. Falla al cargar imagen."
     }
   },
   {
     "translation": {
-      "en": "Error.",
+      "en": "COMPUTER: Error.",
       "es": "Error."
     }
   },
@@ -1375,12 +1345,6 @@
   },
   {
     "translation": {
-      "en": "Megan Reed.",
-      "es": "Megan Reed."
-    }
-  },
-  {
-    "translation": {
       "en": "Password.",
       "es": "Contraseña."
     }
@@ -1393,26 +1357,8 @@
   },
   {
     "translation": {
-      "en": "Andrew Kurtz.",
-      "es": "Andrew Kurtz."
-    }
-  },
-  {
-    "translation": {
       "en": "Password.",
       "es": "Contraseña."
-    }
-  },
-  {
-    "translation": {
-      "en": "Megan.",
-      "es": "Megan."
-    }
-  },
-  {
-    "translation": {
-      "en": "08162014.",
-      "es": "08162014."
     }
   },
   {
@@ -1489,13 +1435,13 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "MAN: What?",
       "es": "¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "As we forgive those who trespass against us.",
+      "en": "MAN: As we forgive those who trespass against us.",
       "es": "...como perdonamos a aquellos que nos ofenden."
     }
   },
@@ -1531,7 +1477,7 @@
   },
   {
     "translation": {
-      "en": "Megan!",
+      "en": "DAVE: Megan!",
       "es": "¡Megan!"
     }
   },
@@ -1561,7 +1507,7 @@
   },
   {
     "translation": {
-      "en": "Listen. Listen. GUARD: Are you okay?",
+      "en": "MAN: Listen. Listen. GUARD: Are you okay?",
       "es": "-¿Estás bien? -Escúchenme."
     }
   },
@@ -1585,7 +1531,7 @@
   },
   {
     "translation": {
-      "en": "Stop.",
+      "en": "DAVE: Stop.",
       "es": "Basta."
     }
   },
@@ -2059,7 +2005,7 @@
   },
   {
     "translation": {
-      "en": "You already have her I.D.",
+      "en": "ANDREW: You already have her I.D.",
       "es": "Ya tienes su identificación."
     }
   },
@@ -2157,12 +2103,6 @@
     "translation": {
       "en": "Is everything else okay?",
       "es": "¿Todo lo demás está bien?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Megan.",
-      "es": "Megan."
     }
   },
   {
@@ -2485,13 +2425,13 @@
   },
   {
     "translation": {
-      "en": "Intake bay.",
+      "en": "COMPUTER: Intake bay.",
       "es": "Área de entregas."
     }
   },
   {
     "translation": {
-      "en": "I brought you a present.",
+      "en": "RANDY: I brought you a present.",
       "es": "Te traje un regalo."
     }
   },
@@ -2521,7 +2461,7 @@
   },
   {
     "translation": {
-      "en": "So, it's obviously been a long night...",
+      "en": "MEGAN: So, it's obviously been a long night...",
       "es": "Ha sido una noche muy larga..."
     }
   },
@@ -2785,7 +2725,7 @@
   },
   {
     "translation": {
-      "en": "Intake bay.",
+      "en": "COMPUTER: Intake bay.",
       "es": "Área de entregas."
     }
   },
@@ -2881,7 +2821,7 @@
   },
   {
     "translation": {
-      "en": "Going down.",
+      "en": "COMPUTER: Going down.",
       "es": "Bajando."
     }
   },
@@ -2899,12 +2839,6 @@
   },
   {
     "translation": {
-      "en": "Randy.",
-      "es": "Randy."
-    }
-  },
-  {
-    "translation": {
       "en": "Randy?",
       "es": "¿Randy?"
     }
@@ -2913,18 +2847,6 @@
     "translation": {
       "en": "Oh, my God.",
       "es": "Dios mío."
-    }
-  },
-  {
-    "translation": {
-      "en": "Randy.",
-      "es": "Randy."
-    }
-  },
-  {
-    "translation": {
-      "en": "Andrew.",
-      "es": "Andrew."
     }
   },
   {
@@ -3223,19 +3145,19 @@
   },
   {
     "translation": {
-      "en": "Mezzanine.",
+      "en": "COMPUTER: Mezzanine.",
       "es": "Entrepiso."
     }
   },
   {
     "translation": {
-      "en": "Going up.",
+      "en": "COMPUTER: Going up.",
       "es": "Subiendo."
     }
   },
   {
     "translation": {
-      "en": "Arrived at mezzanine.",
+      "en": "COMPUTER: Arrived at mezzanine.",
       "es": "Llegando a entrepiso."
     }
   },
@@ -3253,7 +3175,7 @@
   },
   {
     "translation": {
-      "en": "Arrived at morgue.",
+      "en": "COMPUTER: Arrived at morgue.",
       "es": "Llegando a morgue."
     }
   },
@@ -3313,7 +3235,7 @@
   },
   {
     "translation": {
-      "en": "Megan. Andrew. Oh, my God.",
+      "en": "ANDREW: Megan. Andrew. Oh, my God.",
       "es": "-¡Megan! -¡Andrew! ¡Ay, Dios!"
     }
   },
@@ -3325,7 +3247,7 @@
   },
   {
     "translation": {
-      "en": "What the hell is that?",
+      "en": "ANDREW: What the hell is that?",
       "es": "¿Qué es eso?"
     }
   },
@@ -3343,7 +3265,7 @@
   },
   {
     "translation": {
-      "en": "Going down.",
+      "en": "COMPUTER: Going down.",
       "es": "Bajando."
     }
   },
@@ -3351,12 +3273,6 @@
     "translation": {
       "en": "Hey, stop!",
       "es": "¡Alto!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hannah, no.",
-      "es": "Hannah, no."
     }
   },
   {
@@ -3373,7 +3289,7 @@
   },
   {
     "translation": {
-      "en": "Okay, come on. Hurry. We don't have much time.",
+      "en": "MEGAN: Okay, come on. Hurry. We don't have much time.",
       "es": "Vámonos. Rápido, tenemos poco tiempo."
     }
   },
@@ -3391,7 +3307,7 @@
   },
   {
     "translation": {
-      "en": "I'm 62 days clean...",
+      "en": "MEGAN: I'm 62 days clean...",
       "es": "Llevo 62 días sobria."
     }
   },

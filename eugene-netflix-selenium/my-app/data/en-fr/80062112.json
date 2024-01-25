@@ -1,0 +1,824 @@
+[
+  {
+    "translation": {
+      "en": "In a distant world’s time of need,",
+      "fr": "Dans un monde lointain en péril,"
+    }
+  },
+  {
+    "translation": {
+      "en": "an ancient prophecy summoned the Toa.",
+      "fr": "une ancienne prophétie invoqua les Toa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Six legendary heroes,",
+      "fr": "Six héros légendaires,"
+    }
+  },
+  {
+    "translation": {
+      "en": "each powered by the energy of the island’s elements.",
+      "fr": "chacun tirant son énergie des éléments de l'île."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tahu, Toa of Fire.",
+      "fr": "Tahu, Toa du Feu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, Toa of Ice.",
+      "fr": "Kopaka, Toa de la Glace."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pohatu, Toa of Stone.",
+      "fr": "Pohatu, Toa de la Pierre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali, Toa of Water.",
+      "fr": "Gali, Toa de l'Eau."
+    }
+  },
+  {
+    "translation": {
+      "en": "Onua, Toa of Earth.",
+      "fr": "Onua, Toa de la Terre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lewa, Toa of the Jungle.",
+      "fr": "Lewa, Toa de la Jungle."
+    }
+  },
+  {
+    "translation": {
+      "en": "Much has happened, I know.",
+      "fr": "Il s'est passé beaucoup de choses, je le sais."
+    }
+  },
+  {
+    "translation": {
+      "en": "After so many thousands of years,",
+      "fr": "Après des millénaires,"
+    }
+  },
+  {
+    "translation": {
+      "en": "your families have returned",
+      "fr": "vos familles sont de retour"
+    }
+  },
+  {
+    "translation": {
+      "en": "to rebuild the Mask Makers’ City.",
+      "fr": "pour reconstruire la Cité des Créateurs de Masques."
+    }
+  },
+  {
+    "translation": {
+      "en": "If must seem strange.",
+      "fr": "Cela doit sembler étrange."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have only known the region of the Jungle.",
+      "fr": "Tu connais uniquement la région de la Jungle."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you, the regions of Stone and Ice and Water.",
+      "fr": "Et toi, les régions de la Pierre, de la Glace et de l'Eau."
+    }
+  },
+  {
+    "translation": {
+      "en": "But we are Okotans,",
+      "fr": "Mais nous sommes des Okotans."
+    }
+  },
+  {
+    "translation": {
+      "en": "and once, this was the centre of our world.",
+      "fr": "Et autrefois, ceci était le centre de notre monde."
+    }
+  },
+  {
+    "translation": {
+      "en": "And now we have returned.",
+      "fr": "Aujourd'hui, nous sommes de retour."
+    }
+  },
+  {
+    "translation": {
+      "en": "I’m sure you have questions, but wait.",
+      "fr": "Je suis sûr que vous avez des questions, mais patience."
+    }
+  },
+  {
+    "translation": {
+      "en": "First, let me tell you how we came to return to our city",
+      "fr": "Je vais d'abord vous raconter comment nous sommes revenus dans notre ville"
+    }
+  },
+  {
+    "translation": {
+      "en": "and give you a taste of what may lay ahead.",
+      "fr": "et vous donner un aperçu de ce qui nous attend peut-être."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sit.",
+      "fr": "Asseyez-vous."
+    }
+  },
+  {
+    "translation": {
+      "en": "Once, this was a beautiful city.",
+      "fr": "Jadis, se dressait ici une ville de toute beauté."
+    }
+  },
+  {
+    "translation": {
+      "en": "And I like to think it will be again.",
+      "fr": "Et j'aime à penser qu'elle existera à nouveau."
+    }
+  },
+  {
+    "translation": {
+      "en": "But that will depend on more than your parents.",
+      "fr": "Mais cela ne dépendra pas seulement de vos parents."
+    }
+  },
+  {
+    "translation": {
+      "en": "It will depend on six heroes, from another time and place!",
+      "fr": "Cela dépendra de six héros d'une autre époque et d'un autre monde,"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it will depend on if they can harness the elements that give our planet life.",
+      "fr": "et de leur réussite à maîtriser les éléments qui donnent la vie à notre planète."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know them from the regions where you live.",
+      "fr": "Vous les connaissez des régions où vous vivez."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire, Water, Jungle, Earth, Stone and Ice.",
+      "fr": "Le Feu, l'Eau, la Jungle, la Terre, la Pierre et la Glace."
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, they are just corners of our island,",
+      "fr": "Pour vous, ce ne sont que les régions de notre île,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but to the Toa, they are lifeblood.",
+      "fr": "mais pour les Toa, ce sont des éléments vitaux."
+    }
+  },
+  {
+    "translation": {
+      "en": "But before there was trouble, there was peace.",
+      "fr": "Mais avant les conflits, il y avait la paix."
+    }
+  },
+  {
+    "translation": {
+      "en": "And maybe that’s where we should begin.",
+      "fr": "Et c'est sans doute par là qu'il faut commencer."
+    }
+  },
+  {
+    "translation": {
+      "en": "More than a thousand years ago,",
+      "fr": "Il y a plus d'un millier d'années,"
+    }
+  },
+  {
+    "translation": {
+      "en": "this was a peaceful and vibrant place.",
+      "fr": "cet endroit était paisible et plein de vie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
+      "fr": "Les deux protecteurs de notre île, Ekimu et son frère Makuta,"
+    }
+  },
+  {
+    "translation": {
+      "en": "harnessed the power of the elements and forged them into masks.",
+      "fr": "maîtrisèrent la puissance des éléments qu'ils forgèrent dans des masques."
+    }
+  },
+  {
+    "translation": {
+      "en": "But Makuta grew jealous of his brother and hungry for the power.",
+      "fr": "Mais Makuta devint jaloux de son frère et assoiffé de pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "So unbeknownst to his brother, Ekimu,",
+      "fr": "Alors, à l'insu de son frère Ekimu,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the jealous Makuta broke a sacred law",
+      "fr": "Makuta, rongé par la jalousie, enfreignit une loi sacrée"
+    }
+  },
+  {
+    "translation": {
+      "en": "and created a mask that combined the power of all the elements.",
+      "fr": "et créa un masque combinant le pouvoir de tous les éléments."
+    }
+  },
+  {
+    "translation": {
+      "en": "He called it the Mask of Ultimate Power.",
+      "fr": "Il l'appela le masque de l'Ultime Pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "But, as the power of the mask surged through Makuta,",
+      "fr": "Mais tandis que la force du masque montait en Makuta,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he became dark and evil.",
+      "fr": "il devint maléfique et diabolique."
+    }
+  },
+  {
+    "translation": {
+      "en": "Knowing he had to act quickly, Ekimu took the sacred hammer",
+      "fr": "Devant agir vite, Ekimu s'empara du marteau sacré"
+    }
+  },
+  {
+    "translation": {
+      "en": "and knocked the mask from the face of his brother.",
+      "fr": "et cogna pour faire tomber le masque du visage de son frère."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu saved Okoto, but the cost was great.",
+      "fr": "Ekimu sauva Okoto mais les conséquences furent dramatiques."
+    }
+  },
+  {
+    "translation": {
+      "en": "Both Ekimu and Makuta were plunged into endless sleep.",
+      "fr": "Ekimu et Makuta furent tous deux plongés dans un sommeil éternel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Our ancestors laid Ekimu to rest.",
+      "fr": "Nos ancêtres enterrèrent Ekimu."
+    }
+  },
+  {
+    "translation": {
+      "en": "The masks, too powerful to be trusted to mortals,",
+      "fr": "Et les masques, trop puissants pour être confiés à des mortels,"
+    }
+  },
+  {
+    "translation": {
+      "en": "were hidden away forever.",
+      "fr": "furent cachés pour l'éternité."
+    }
+  },
+  {
+    "translation": {
+      "en": "And after Ekimu was sealed into a secret tomb,",
+      "fr": "Après l'enterrement d'Ekimu dans une tombe secrète,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Mask Makers’ City was abandoned.",
+      "fr": "la Cité des Créateurs de Masques fut abandonnée."
+    }
+  },
+  {
+    "translation": {
+      "en": "Although Makuta lay buried deep beneath our island,",
+      "fr": "Et bien que Makuta ait été enterré au plus profond de notre île,"
+    }
+  },
+  {
+    "translation": {
+      "en": "his spirit remained powerful.",
+      "fr": "son esprit était toujours puissant."
+    }
+  },
+  {
+    "translation": {
+      "en": "He summoned dark forces to find his Mask and awaken him.",
+      "fr": "Il invoqua les forces du Mal pour qu'elles retrouvent son masque et le réveillent."
+    }
+  },
+  {
+    "translation": {
+      "en": "If Makuta’s minions managed to awaken him,",
+      "fr": "Si les soldats de Makuta réussissaient à le réveiller,"
+    }
+  },
+  {
+    "translation": {
+      "en": "our island would be plunged into darkness.",
+      "fr": "notre île serait plongée dans les ténèbres."
+    }
+  },
+  {
+    "translation": {
+      "en": "So we, the protectors,",
+      "fr": "C'est pourquoi, nous, les Protecteurs,"
+    }
+  },
+  {
+    "translation": {
+      "en": "gathered and performed an ancient rite.",
+      "fr": "nous nous sommes rassemblés pour accomplir un ancien rite."
+    }
+  },
+  {
+    "translation": {
+      "en": "Their legend was carved into the walls of our temples,",
+      "fr": "Leur légende était gravée sur les murs de nos temples"
+    }
+  },
+  {
+    "translation": {
+      "en": "and their names were kept alive in our rituals.",
+      "fr": "et leurs noms prenaient vie lors de nos rituels."
+    }
+  },
+  {
+    "translation": {
+      "en": "These were the Toa.",
+      "fr": "C'étaient les Toa."
+    }
+  },
+  {
+    "translation": {
+      "en": "And it would be up to them to save Okoto.",
+      "fr": "Et leur mission était de sauver Okoto."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa of the Jungle, Lewa,",
+      "fr": "Le Toa de la Jungle, Lewa, était rapide et vif d'esprit."
+    }
+  },
+  {
+    "translation": {
+      "en": "was fast on his feet and quick witted,",
+      "fr": "Lewa, était rapide et vif d'esprit."
+    }
+  },
+  {
+    "translation": {
+      "en": "like the Jungle that gave him his power.",
+      "fr": "Comme la jungle qui lui avait donné son pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was constantly changing, and the most playful of the group.",
+      "fr": "C'était un vrai aventurier et le plus joueur du groupe."
+    }
+  },
+  {
+    "translation": {
+      "en": "The brooding Pohatu was the most serious of the group.",
+      "fr": "Pohatu, le pensif, était le plus sérieux du groupe."
+    }
+  },
+  {
+    "translation": {
+      "en": "And while the Toa of Stone was rarely happy,",
+      "fr": "Le Toa de la Pierre était rarement heureux,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was fearless and powerful.",
+      "fr": "mais ne connaissait pas la peur et était puissant."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, the Toa of Ice, was fearless and strong,",
+      "fr": "Kopaka, le Toa de la Glace était brave et fort,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he could be as inflexible and cold",
+      "fr": "mais pouvait être inflexible et froid"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the element that gave him power.",
+      "fr": "comme les éléments qui lui donnaient son pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali was as powerful as the others,",
+      "fr": "Gali était aussi puissante que les autres,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but as resilient as the Water that was her element.",
+      "fr": "mais aussi résiliente que l'Eau, son élément."
+    }
+  },
+  {
+    "translation": {
+      "en": "The silent, powerful Onua, the Toa of Earth,",
+      "fr": "Le silencieux et puissant Onua, le Toa de la Terre,"
+    }
+  },
+  {
+    "translation": {
+      "en": "would provide a foundation. Like the Earth that gave him power,",
+      "fr": "était tel un socle, comme la Terre d'où il tirait son pouvoir,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was immovable and enduring.",
+      "fr": "il était inébranlable et tenace."
+    }
+  },
+  {
+    "translation": {
+      "en": "There was Tahu, the Toa of Fire,",
+      "fr": "Puis il y avait Tahu, le Toa du Feu."
+    }
+  },
+  {
+    "translation": {
+      "en": "who saw himself as a leader",
+      "fr": "Il se considérait comme le leader"
+    }
+  },
+  {
+    "translation": {
+      "en": "even before he knew there were others like him.",
+      "fr": "avant même d'apprendre qu'il y en avait d'autres comme lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of their Protectors,",
+      "fr": "Avec l'aide de leurs Protecteurs,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa found the Masks of Power.",
+      "fr": "les Toa trouvèrent les masques du Pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
+      "fr": "En mettant les masques du Pouvoir, une ancienne prophétie se réalisa."
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time,",
+      "fr": "Et pour la première fois,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa experienced the elemental power that each of them was born to wield.",
+      "fr": "Les Toa ressentirent le pouvoir élémentaire que chacun d'entre eux était destiné à exercer."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa had power, but they needed the wisdom of Ekimu.",
+      "fr": "Les Toa avaient le pouvoir mais avaient besoin de la sagesse d'Ekimu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only he could guide them to their true destiny.",
+      "fr": "Il était le seul à pouvoir les guider vers leur véritable destinée."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa’s search for Ekimu brought them here,",
+      "fr": "La quête des Toa pour retrouver Ekimu les mena ici,"
+    }
+  },
+  {
+    "translation": {
+      "en": "to the Mask Makers’ City.",
+      "fr": "dans la Cité des Créateurs de Masques."
+    }
+  },
+  {
+    "translation": {
+      "en": "But when they arrived, it didn’t look like it does now.",
+      "fr": "Mais à leur arrivée, elle n'avait pas l'apparence d'aujourd'hui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, it was a dark place, overrun with evil creatures.",
+      "fr": "C'était une ville sombre, infestée de créatures diaboliques."
+    }
+  },
+  {
+    "translation": {
+      "en": "And around every corner lay a trap!",
+      "fr": "À chaque coin de rue, un piège les attendait !"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time in a thousand years,",
+      "fr": "Et pour la première fois depuis un millier d'années,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the footsteps of the living echoed through the Mask Makers’ City",
+      "fr": "un bruit de pas résonnait dans la Cité des Créateurs de Masques"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we abandoned so many centuries before.",
+      "fr": "que nous avions abandonnée bien des siècles auparavant."
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one, the Toa vanquished the creatures Makuta had sent to stop them,",
+      "fr": "Les Toa vainquirent toutes les créatures envoyées par Makuta pour les arrêter."
+    }
+  },
+  {
+    "translation": {
+      "en": "finally defeating the fearsome Skull Scorpions",
+      "fr": "Ils réussirent finalement à vaincre les redoutables crânes scorpions"
+    }
+  },
+  {
+    "translation": {
+      "en": "and reaching Ekimu’s tomb.",
+      "fr": "et atteignirent la tombe d'Ekimu."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa realised that their history and our planet's were entwined.",
+      "fr": "Les Toa comprirent que leur histoire et notre planète étaient liées."
+    }
+  },
+  {
+    "translation": {
+      "en": "As they looked upon the sleeping Mask Maker,",
+      "fr": "En contemplant le Créateur de masque endormi,"
+    }
+  },
+  {
+    "translation": {
+      "en": "somehow, they knew how to awaken him.",
+      "fr": "ils surent instinctivement comment le réveiller."
+    }
+  },
+  {
+    "translation": {
+      "en": "The six heroes had travelled far into the ancient city,",
+      "fr": "Les six héros s'étaient enfoncés loin dans l'ancienne cité"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeating many enemies.",
+      "fr": "et avaient vaincu de nombreux ennemis."
+    }
+  },
+  {
+    "translation": {
+      "en": "But only by retrieving the Mask of Creation",
+      "fr": "Mais c'est uniquement en récupérant le masque de la Création,"
+    }
+  },
+  {
+    "translation": {
+      "en": "would Ekimu stand a chance against his brother.",
+      "fr": "qu'Ekimu pourrait gagner le combat contre son frère."
+    }
+  },
+  {
+    "translation": {
+      "en": "Makuta’s most powerful minions fought to keep the Toa from the Mask Makers’ forge.",
+      "fr": "Les soldats de Makuta essayèrent d'éloigner les Toa du masque du Créateur."
+    }
+  },
+  {
+    "translation": {
+      "en": "But the Toa were ready. Or so they thought.",
+      "fr": "Mais les Toa étaient prêts. C'est du moins ce qu'ils croyaient."
+    }
+  },
+  {
+    "translation": {
+      "en": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
+      "fr": "Ils attrapèrent le Crâne Broyeur avant qu'il ne détruise le masque."
+    }
+  },
+  {
+    "translation": {
+      "en": "But the creature was as cunning as he was powerful,",
+      "fr": "Mais cette créature était aussi maligne que puissante."
+    }
+  },
+  {
+    "translation": {
+      "en": "and, knowing the Toa would stop him from destroying the mask,",
+      "fr": "Sachant que les Toa l'empêcheraient de détruire le masque,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he put it on and felt its power surge through him.",
+      "fr": "il le mit et sentit son pouvoir monter en lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Filled with the Mask Maker’s power,",
+      "fr": "Grâce au masque du Créateur,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Skull Grinder knocked the masks from the faces of the Toa.",
+      "fr": "le Crâne Broyeur arracha les masques des visages des Toa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Without their masks, the heroes had lost their power.",
+      "fr": "Sans leur masque, les héros avaient perdu leur pouvoir."
+    }
+  },
+  {
+    "translation": {
+      "en": "But they knew they must fight on, even if victory seemed impossible.",
+      "fr": "Ils devaient continuer à se battre même si la victoire semblait impossible."
+    }
+  },
+  {
+    "translation": {
+      "en": "The heroes fought bravely until they had nothing more to give.",
+      "fr": "Les héros livrèrent un combat courageux jusqu'au bout de leurs forces."
+    }
+  },
+  {
+    "translation": {
+      "en": "But their valiant effort gave Ekimu the time he needed.",
+      "fr": "Leurs vaillants efforts donnèrent à Ekimu le temps dont il avait besoin."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now wielding his ancient hammer,",
+      "fr": "Brandissant son ancien marteau,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu took back the Mask of Creation",
+      "fr": "Ekimu repris le masque de la Création"
+    }
+  },
+  {
+    "translation": {
+      "en": "and regained the power he once had.",
+      "fr": "et retrouva la puissance qu'il avait autrefois."
+    }
+  },
+  {
+    "translation": {
+      "en": "The six Toa had done their duty,",
+      "fr": "Les six Toa avaient rempli leur mission."
+    }
+  },
+  {
+    "translation": {
+      "en": "awakened Ekimu and retrieved the Mask of Creation.",
+      "fr": "Ils avaient réveillé Ekimu et récupéré le masque de la Création."
+    }
+  },
+  {
+    "translation": {
+      "en": "But evil was not defeated.",
+      "fr": "Mais le Mal n'était pas vaincu pour autant."
+    }
+  },
+  {
+    "translation": {
+      "en": "Their true fate was still waiting, deep inside the darkness.",
+      "fr": "Leur véritable destin les attendait toujours au cœur des ténèbres."
+    }
+  },
+  {
+    "translation": {
+      "en": "Prophecy had brought the Toa to Okoto.",
+      "fr": "La prophétie avait amené les Toa à Okoto."
+    }
+  },
+  {
+    "translation": {
+      "en": "But what they’d experienced made them more than just heroes.",
+      "fr": "Mais ce qu'ils avaient vécu faisait d'eux bien plus que des héros."
+    }
+  },
+  {
+    "translation": {
+      "en": "They have become legends.",
+      "fr": "Ils étaient devenus des légendes."
+    }
+  },
+  {
+    "translation": {
+      "en": "But the challenges that lie ahead are huge,",
+      "fr": "Mais les défis qui les attendent sont immenses."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the future of our entire world is at stake.",
+      "fr": "L'avenir de notre monde tout entier en dépend."
+    }
+  },
+  {
+    "translation": {
+      "en": "Their journey beings anew.",
+      "fr": "Leur aventure démarre à nouveau."
+    }
+  },
+  {
+    "translation": {
+      "en": "With their new armour and weapons, forged by the Mask Maker himself,",
+      "fr": "Avec des armures et des armes nouvelles, forgées par le Créateur de masque en personne, la quête se poursuit,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the quest continues.",
+      "fr": "forgées par le Créateur de masque en personne, la quête se poursuit,"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the Toa begin the Search for One.",
+      "fr": "tandis que les Toa entament le voyage vers l'Unique."
+    }
+  }
+]

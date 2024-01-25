@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "-  Get down! Get down! -",
+      "en": "- (Swat 1) Get down! Get down! - (All yelling)",
       "es": "¡Abajo! ¡Abajo!"
     }
   },
   {
     "translation": {
-      "en": "Don't move!",
+      "en": "(Swat 2) Don't move!",
       "es": "¡Quietos!"
     }
   },
@@ -25,19 +25,19 @@
   },
   {
     "translation": {
-      "en": "Where are the hostages? Where are the hostages?",
+      "en": "(Swat 3) Where are the hostages? Where are the hostages?",
       "es": "¿Dónde están los rehenes? ¿Dónde están los rehenes?"
     }
   },
   {
     "translation": {
-      "en": "FBI, Police! Don't move!  Down! Stay down!",
+      "en": "(Swat 4) FBI, Police! Don't move! (Swat 3) Down! Stay down!",
       "es": "-¡FBI! ¡Quietos! -¡No se levanten!"
     }
   },
   {
     "translation": {
-      "en": "Police! Don't move! Police! Don't move!",
+      "en": "(Swat 4) Police! Don't move! Police! Don't move!",
       "es": "¡Quietos! ¡Quietos! ¡Quietos!"
     }
   },
@@ -49,13 +49,13 @@
   },
   {
     "translation": {
-      "en": "-  Clear! - Police! Search warrant. Don't move!",
+      "en": "- (Kate) Clear! - Police! Search warrant. Don't move!",
       "es": "-¡Despejado! -¡Policía! ¡Quietos!"
     }
   },
   {
     "translation": {
-      "en": "- Steppin' out! -  Police, don't move!",
+      "en": "- Steppin' out! - (Swat 5) Police, don't move!",
       "es": "-¡Voy a salir! -¡Policía! ¡Quietos!"
     }
   },
@@ -67,37 +67,37 @@
   },
   {
     "translation": {
-      "en": "FBI!",
+      "en": "(Kate) FBI!",
       "es": "¡FBI!"
     }
   },
   {
     "translation": {
-      "en": "Are you hit? I'm good.",
+      "en": "(Man) Are you hit? I'm good.",
       "es": "-¿Te hirieron? -Estoy bien."
     }
   },
   {
     "translation": {
-      "en": "Fuck!  Front room, clear!",
+      "en": "Fuck! (Swat 2) Front room, clear!",
       "es": "-¡Carajo! -¡Despejado al frente!"
     }
   },
   {
     "translation": {
-      "en": "Team leader! Status?",
+      "en": "(Kate) Team leader! Status?",
       "es": "¡Jefe de grupo! ¿Estatus?"
     }
   },
   {
     "translation": {
-      "en": "Front clear!  We're clear, ma'am! Two suspects in custody!",
+      "en": "(Swat 6) Front clear! (Leader) We're clear, ma'am! Two suspects in custody!",
       "es": "¡Todo está seguro! ¡Dos sospechosos detenidos!"
     }
   },
   {
     "translation": {
-      "en": "-  You OK, Macer? - Yeah.",
+      "en": "- (Reggie) You OK, Macer? - Yeah.",
       "es": "-¿Estás bien, Macer? -Sí."
     }
   },
@@ -109,7 +109,7 @@
   },
   {
     "translation": {
-      "en": "Whoa.",
+      "en": "(Reggie) Whoa.",
       "es": "¡Cielos!"
     }
   },
@@ -121,7 +121,7 @@
   },
   {
     "translation": {
-      "en": "-  Jesus! -",
+      "en": "- (Kate) Jesus! - (Retching)",
       "es": "¡Dios mío!"
     }
   },
@@ -139,7 +139,7 @@
   },
   {
     "translation": {
-      "en": "-  Macer? - Yeah?",
+      "en": "- (Leader) Macer? - Yeah?",
       "es": "-Macer. -¿Sí?"
     }
   },
@@ -217,7 +217,7 @@
   },
   {
     "translation": {
-      "en": "Vickers! I need bolt cutters!",
+      "en": "(Officer) Vickers! I need bolt cutters!",
       "es": "¡Vickers, necesito unas pinzas!"
     }
   },
@@ -229,13 +229,13 @@
   },
   {
     "translation": {
-      "en": "PD found something.",
+      "en": "(Jennings) PD found something.",
       "es": "La policía encontró algo."
     }
   },
   {
     "translation": {
-      "en": "Such a heavy body count this close to Phoenix",
+      "en": "(Male newsreader) Such a heavy body count this close to Phoenix",
       "es": "Encontrar tantas víctimas tan cerca de Phoenix..."
     }
   },
@@ -277,7 +277,7 @@
   },
   {
     "translation": {
-      "en": "What's goin' on?",
+      "en": "(Reggie) What's goin' on?",
       "es": "¿Qué pasa?"
     }
   },
@@ -289,7 +289,7 @@
   },
   {
     "translation": {
-      "en": "She's been leading our kidnap response team for three years.",
+      "en": "(Jennings) She's been leading our kidnap response team for three years.",
       "es": "Ha dirigido al equipo antisecuestro durante tres años."
     }
   },
@@ -325,7 +325,7 @@
   },
   {
     "translation": {
-      "en": "5- and- 0, not bad for a rookie.",
+      "en": "(Matt) 5- and- 0, not bad for a rookie.",
       "es": "5-0. Nada mal para una novata."
     }
   },
@@ -367,7 +367,7 @@
   },
   {
     "translation": {
-      "en": "- He's green, but he's good. -",
+      "en": "- He's green, but he's good. - (Matt sighs)",
       "es": "Inexperto, pero competente."
     }
   },
@@ -439,7 +439,7 @@
   },
   {
     "translation": {
-      "en": "Manuel Diaz works for the Sonora Cartel.",
+      "en": "(Burnett) Manuel Diaz works for the Sonora Cartel.",
       "es": "Manuel Díaz trabaja para el Cártel de Sonora."
     }
   },
@@ -451,7 +451,7 @@
   },
   {
     "translation": {
-      "en": "What do you know about his brother?",
+      "en": "(Matt) What do you know about his brother?",
       "es": "¿Qué sabes sobre su hermano?"
     }
   },
@@ -493,7 +493,7 @@
   },
   {
     "translation": {
-      "en": "He's number three in the Sonora Cartel.",
+      "en": "(Burnett) He's number three in the Sonora Cartel.",
       "es": "Es el tercero al mando en el Cártel de Sonora."
     }
   },
@@ -547,12 +547,6 @@
   },
   {
     "translation": {
-      "en": "No.",
-      "es": "No."
-    }
-  },
-  {
-    "translation": {
       "en": "Anything else?",
       "es": "¿Algo más?"
     }
@@ -571,25 +565,25 @@
   },
   {
     "translation": {
-      "en": "Who are those people? You know?",
+      "en": "(Reggie) Who are those people? You know?",
       "es": "¿Quiénes son? ¿Lo sabes?"
     }
   },
   {
     "translation": {
-      "en": "No idea.",
+      "en": "(Kate) No idea.",
       "es": "Ni idea."
     }
   },
   {
     "translation": {
-      "en": "Thanks for coming in, guys.",
+      "en": "(Burnett) Thanks for coming in, guys.",
       "es": "Gracias por venir."
     }
   },
   {
     "translation": {
-      "en": "Will you come back in, Kate?",
+      "en": "(Phil clears throat) Will you come back in, Kate?",
       "es": "Kate, pasa, por favor."
     }
   },
@@ -607,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "Isn't this Phoenix homicide now?",
+      "en": "(Kate) Isn't this Phoenix homicide now?",
       "es": "¿No le corresponde a la policía de Phoenix?"
     }
   },
@@ -655,7 +649,7 @@
   },
   {
     "translation": {
-      "en": "-  Day after. Early. - Air Force Base?",
+      "en": "- (Matt) Day after. Early. - Air Force Base?",
       "es": "-Pasado mañana. Temprano. -¿La base de la fuerza aérea?"
     }
   },
@@ -733,7 +727,7 @@
   },
   {
     "translation": {
-      "en": "You keep an eye on that doughy prick - with the flip- flops. -  Don't trust him.",
+      "en": "(Reggie) You keep an eye on that doughy prick - with the flip- flops. - (Scoffs) Don't trust him.",
       "es": "Vigila al imbécil de las sandalias. No confío en él."
     }
   },
@@ -757,7 +751,7 @@
   },
   {
     "translation": {
-      "en": "I'll call you when we're headed back. - All right. -",
+      "en": "I'll call you when we're headed back. - All right. - (Car door closes)",
       "es": "-Te llamaré cuando vuelva. -Bien."
     }
   },
@@ -823,7 +817,7 @@
   },
   {
     "translation": {
-      "en": "Kate Macer.",
+      "en": "(Kate) Kate Macer.",
       "es": "Kate Macer."
     }
   },
@@ -841,7 +835,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, amazing. OK.",
+      "en": "(Groggily) Yeah, amazing. OK.",
       "es": "Sí, increíble. De acuerdo."
     }
   },
@@ -913,13 +907,13 @@
   },
   {
     "translation": {
-      "en": "Howdy! How you been?",
+      "en": "(Steve) Howdy! How you been?",
       "es": "-¿Qué hay? -¡Hola! -¿Cómo has estado? -Bien, amigo."
     }
   },
   {
     "translation": {
-      "en": "Good, buddy. How you feelin'?",
+      "en": "(Matt) Good, buddy. How you feelin'?",
       "es": "-¿Cómo has estado? -Bien, amigo. -¿Cómo te has sentido? -Bueno..."
     }
   },
@@ -931,7 +925,7 @@
   },
   {
     "translation": {
-      "en": "Maybe it's gonorrhoea.",
+      "en": "(Matt) Maybe it's gonorrhoea.",
       "es": "Quizá es gonorrea."
     }
   },
@@ -943,37 +937,37 @@
   },
   {
     "translation": {
-      "en": "Yellow with red specks.",
+      "en": "(Steve) Yellow with red specks.",
       "es": "Amarilla con manchas rojas."
     }
   },
   {
     "translation": {
-      "en": "Red specks or blood?",
+      "en": "(Matt) Red specks or blood?",
       "es": "¿Manchas rojas o sangre?"
     }
   },
   {
     "translation": {
-      "en": "I'm tryin' to get DOD to let me look into this conspiracy to sink Fiji.",
+      "en": "(Matt) I'm tryin' to get DOD to let me look into this conspiracy to sink Fiji.",
       "es": "Quiero que me envíen a investigar lo de la conspiración para hundir a Fiji."
     }
   },
   {
     "translation": {
-      "en": "Fiji?  Yeah.",
+      "en": "(Steve) Fiji? (Matt) Yeah.",
       "es": "-¿Fiji? -Sí."
     }
   },
   {
     "translation": {
-      "en": "Leave Fiji alone, terrorists!",
+      "en": "(Steve) Leave Fiji alone, terrorists!",
       "es": "-¡No se metan con Fiji, terroristas! -Exacto."
     }
   },
   {
     "translation": {
-      "en": "Yeah. Exactly. I figure a month or two over there,",
+      "en": "(Matt) Yeah. Exactly. I figure a month or two over there,",
       "es": "-¡No se metan con Fiji, terroristas! -Exacto. Imagino que con un mes o dos allá, todo quedará resuelto."
     }
   },
@@ -1003,31 +997,31 @@
   },
   {
     "translation": {
-      "en": "Oh, they're a crack bunch, too. Just rotated back from Afghanistan.",
+      "en": "(Steve) Oh, they're a crack bunch, too. Just rotated back from Afghanistan.",
       "es": "Son muy competentes. Acaban de volver de Afganistán."
     }
   },
   {
     "translation": {
-      "en": "Wow. Where's everybody linking up?",
+      "en": "(Matt) Wow. Where's everybody linking up?",
       "es": "¿Dónde se reúnen?"
     }
   },
   {
     "translation": {
-      "en": "A.I.C.",
+      "en": "(Steve) A.I.C.",
       "es": "En el C.I.E."
     }
   },
   {
     "translation": {
-      "en": "Good, good, good.",
+      "en": "(Matt) Good, good, good.",
       "es": "Bien, bien."
     }
   },
   {
     "translation": {
-      "en": "Mexican Federal Police will meet you at the border",
+      "en": "(Man) Mexican Federal Police will meet you at the border",
       "es": "La policía federal de México los verá en la frontera..."
     }
   },
@@ -1111,7 +1105,7 @@
   },
   {
     "translation": {
-      "en": "Keith, you want another hand on the exchange?  You sober?",
+      "en": "Keith, you want another hand on the exchange? (Keith) You sober?",
       "es": "-Keith, ¿necesitas más ayuda? -¿Estás sobrio?"
     }
   },
@@ -1129,13 +1123,13 @@
   },
   {
     "translation": {
-      "en": "I know I could always count on you, Keith.",
+      "en": "(Matt) I know I could always count on you, Keith.",
       "es": "Sé que siempre cuento contigo."
     }
   },
   {
     "translation": {
-      "en": "All right, we'll gear you up as soon as we're done here.",
+      "en": "(Man) All right, we'll gear you up as soon as we're done here.",
       "es": "Nos prepararemos en cuanto termine la reunión."
     }
   },
@@ -1183,7 +1177,7 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(All laughing)",
       "es": "...detrás de quién esconderse cuando se ponga feo."
     }
   },
@@ -1225,19 +1219,19 @@
   },
   {
     "translation": {
-      "en": "Hey! I thought you were in prison.",
+      "en": "(Keith) Hey! I thought you were in prison.",
       "es": "¡Oye! Pensé que estabas en la cárcel."
     }
   },
   {
     "translation": {
-      "en": "-  They took me out. -   They needed somebody for this job.",
+      "en": "- (Ranger) They took me out. - (Laughs) (Ranger) They needed somebody for this job.",
       "es": "Me sacaron. Necesitaban a alguien para el trabajo."
     }
   },
   {
     "translation": {
-      "en": "For good behaviour or bad behaviour?",
+      "en": "(Keith) For good behaviour or bad behaviour?",
       "es": "¿Por buena o mala conducta?"
     }
   },
@@ -1257,12 +1251,6 @@
     "translation": {
       "en": "For the DEA?",
       "es": "¿Para la DEA?"
-    }
-  },
-  {
-    "translation": {
-      "en": "No.",
-      "es": "No."
     }
   },
   {
@@ -1311,12 +1299,6 @@
     "translation": {
       "en": "Cartagena.",
       "es": "De Cartagena."
-    }
-  },
-  {
-    "translation": {
-      "en": "Colombia.",
-      "es": "Colombia."
     }
   },
   {
@@ -1447,7 +1429,7 @@
   },
   {
     "translation": {
-      "en": "There she is.",
+      "en": "(Steve) There she is.",
       "es": "Ahí está."
     }
   },
@@ -1455,12 +1437,6 @@
     "translation": {
       "en": "The beast.",
       "es": "La bestia."
-    }
-  },
-  {
-    "translation": {
-      "en": "Juárez.",
-      "es": "Juárez."
     }
   },
   {
@@ -1507,7 +1483,7 @@
   },
   {
     "translation": {
-      "en": "Think he felt safe?",
+      "en": "Think he felt safe? (Scoffs)",
       "es": "¿Crees que se sentía seguro?"
     }
   },
@@ -1549,7 +1525,7 @@
   },
   {
     "translation": {
-      "en": "You hear that?",
+      "en": "(Steve) You hear that?",
       "es": "¿Oyeron eso?"
     }
   },
@@ -1561,7 +1537,7 @@
   },
   {
     "translation": {
-      "en": "Mexicans are adjusting our route. There's activity ahead, we need to go around.",
+      "en": "(Matt on radio) Mexicans are adjusting our route. There's activity ahead, we need to go around.",
       "es": "Los mexicanos ajustan nuestra ruta. Hay actividad que debemos rodear."
     }
   },
@@ -1603,19 +1579,19 @@
   },
   {
     "translation": {
-      "en": "Spotter vehicle, nine o'clock.",
+      "en": "(Man 1 on radio) Spotter vehicle, nine o'clock.",
       "es": "Nos siguen, a la izquierda."
     }
   },
   {
     "translation": {
-      "en": "I'm gettin' a boner.",
+      "en": "(Steve) I'm gettin' a boner.",
       "es": "Me estoy excitando."
     }
   },
   {
     "translation": {
-      "en": "Is that one of ours?",
+      "en": "(Man 1) Is that one of ours?",
       "es": "¿Es de los nuestros?"
     }
   },
@@ -1627,25 +1603,25 @@
   },
   {
     "translation": {
-      "en": "No, that's a lone wolf.",
+      "en": "(Matt) No, that's a lone wolf.",
       "es": "No, está solo."
     }
   },
   {
     "translation": {
-      "en": "Eyes on rooftops.",
+      "en": "(Man 1) Eyes on rooftops.",
       "es": "Vigilen los techos."
     }
   },
   {
     "translation": {
-      "en": "Nothing. Rooftops clear.",
+      "en": "(Man 2) Nothing. Rooftops clear.",
       "es": "Nada. Techos seguros."
     }
   },
   {
     "translation": {
-      "en": "Bridge is one klick out.",
+      "en": "(Pilot on radio) Bridge is one klick out.",
       "es": "El puente está a un kilómetro."
     }
   },
@@ -1657,7 +1633,7 @@
   },
   {
     "translation": {
-      "en": "Everyone stay in this lane. Our agents at the border are",
+      "en": "(Matt) Everyone stay in this lane. Our agents at the border are",
       "es": "Quédense en este carril. Nuestros agentes en la frontera..."
     }
   },
@@ -1669,19 +1645,19 @@
   },
   {
     "translation": {
-      "en": "Everyone stay frosty.",
+      "en": "(Man 1) Everyone stay frosty.",
       "es": "Tranquilos todos."
     }
   },
   {
     "translation": {
-      "en": "OK, it's a fuck- up. What are we gonna do now?",
+      "en": "(Man 2) OK, it's a fuck- up. What are we gonna do now?",
       "es": "Nos equivocamos. ¿Qué hacemos?"
     }
   },
   {
     "translation": {
-      "en": "Here's the deal, a car broke down up ahead.",
+      "en": "(Pilot) Here's the deal, a car broke down up ahead.",
       "es": "Esta es la situación. Un auto se averió más adelante."
     }
   },
@@ -1711,7 +1687,7 @@
   },
   {
     "translation": {
-      "en": "Roger that.",
+      "en": "(Man 1) Roger that.",
       "es": "Enterado."
     }
   },
@@ -1729,37 +1705,37 @@
   },
   {
     "translation": {
-      "en": "Gun.",
+      "en": "(Alejandro) Gun.",
       "es": "¡Arma!"
     }
   },
   {
     "translation": {
-      "en": "Gun. Gun left!  What are the rules here?",
+      "en": "Gun. Gun left! (Matt) What are the rules here?",
       "es": "-¡Arma! ¡A la izquierda! -¿Cuáles son la reglas?"
     }
   },
   {
     "translation": {
-      "en": "We must be engaged to engage.",
+      "en": "(Man 1) We must be engaged to engage.",
       "es": "No disparar si no nos disparan."
     }
   },
   {
     "translation": {
-      "en": "Permission to get out of the vehicle and set a perimeter?",
+      "en": "(Man 2) Permission to get out of the vehicle and set a perimeter?",
       "es": "Permiso para salir del vehículo y establecer un perímetro."
     }
   },
   {
     "translation": {
-      "en": "Stay in your vehicle. You can do what they do. If they get out, you get out.",
+      "en": "(Man 1) Stay in your vehicle. You can do what they do. If they get out, you get out.",
       "es": "Permanezcan en el vehículo. Hagan lo que ellos. Si salen, salgan."
     }
   },
   {
     "translation": {
-      "en": "Get ready. They can see our lane clearing.",
+      "en": "(Man 2) Get ready. They can see our lane clearing.",
       "es": "Preparados. Pueden ver que nuestro carril se despeja."
     }
   },
@@ -1771,7 +1747,7 @@
   },
   {
     "translation": {
-      "en": "Move!  Wait, wait, wait.",
+      "en": "(Man 1) Move! (Kate) Wait, wait, wait.",
       "es": "-¡Salgan! -¡Esperen, esperen!"
     }
   },
@@ -1789,7 +1765,7 @@
   },
   {
     "translation": {
-      "en": "Don't move! Cálmate!",
+      "en": "(Delta leader) Don't move! Cálmate!",
       "es": "¡No se muevan!"
     }
   },
@@ -1813,13 +1789,13 @@
   },
   {
     "translation": {
-      "en": "Lane's clear! The lane's clear!",
+      "en": "(Delta 1) Lane's clear! The lane's clear!",
       "es": "¡Carril despejado!"
     }
   },
   {
     "translation": {
-      "en": "Don't look at me!",
+      "en": "(Delta leader) Don't look at me!",
       "es": "¡No me mires!"
     }
   },
@@ -1831,7 +1807,7 @@
   },
   {
     "translation": {
-      "en": "All clear!  I got this!",
+      "en": "(Delta 2) All clear! (Delta 3) I got this!",
       "es": "-¡Todo tranquilo! -¡Lo tengo controlado!"
     }
   },
@@ -1843,19 +1819,19 @@
   },
   {
     "translation": {
-      "en": "Move, move, move!",
+      "en": "(Delta leader) Move, move, move!",
       "es": "¡Rápido, rápido!"
     }
   },
   {
     "translation": {
-      "en": "This is gonna be on the front page of every newspaper in America.",
+      "en": "(Man 2 on radio) This is gonna be on the front page of every newspaper in America.",
       "es": "Esto saldrá en la primera plana de todos los diarios en EE.UU."
     }
   },
   {
     "translation": {
-      "en": "No, it won't. It won't even make the papers in El Paso.",
+      "en": "(Steve chuckles) No, it won't. It won't even make the papers in El Paso.",
       "es": "No. Ni siquiera en los de El Paso."
     }
   },
@@ -1867,13 +1843,13 @@
   },
   {
     "translation": {
-      "en": "Got a little nutty, huh?",
+      "en": "(Matt) Got a little nutty, huh?",
       "es": "Se puso algo loco, ¿eh?"
     }
   },
   {
     "translation": {
-      "en": "Nutty? Yeah. Yeah, that was fucking illegal.",
+      "en": "(Kate) Nutty? Yeah. Yeah, that was fucking illegal.",
       "es": "¿Algo loco? ¡Eso fue ilegal!"
     }
   },
@@ -1963,12 +1939,6 @@
   },
   {
     "translation": {
-      "en": "Guillermo...",
-      "es": "Guillermo..."
-    }
-  },
-  {
-    "translation": {
       "en": "You're giving him a belly full of water, you devil.",
       "es": "Le estás llenando la barriga de agua, malvado."
     }
@@ -1999,7 +1969,7 @@
   },
   {
     "translation": {
-      "en": "I didn't know ghosts got thirsty.",
+      "en": "(Rafael) I didn't know ghosts got thirsty.",
       "es": "No sabía que los fantasmas podían tener sed."
     }
   },
@@ -2029,7 +1999,7 @@
   },
   {
     "translation": {
-      "en": "It's not your fault.",
+      "en": "(In English) It's not your fault.",
       "es": "No es tu culpa."
     }
   },
@@ -2089,14 +2059,8 @@
   },
   {
     "translation": {
-      "en": "I'm gonna step out.",
+      "en": "(Steve) I'm gonna step out.",
       "es": "Me iré."
-    }
-  },
-  {
-    "translation": {
-      "en": "Timmy.",
-      "es": "Timmy."
     }
   },
   {
@@ -2155,19 +2119,19 @@
   },
   {
     "translation": {
-      "en": "Unbelievable.",
+      "en": "(Kate) Unbelievable.",
       "es": "Increíble."
     }
   },
   {
     "translation": {
-      "en": "That's what happens when you chop the head off a chicken.",
+      "en": "(Man) That's what happens when you chop the head off a chicken.",
       "es": "Eso pasa cuando le cortan la cabeza a una gallina."
     }
   },
   {
     "translation": {
-      "en": "-  Yeah. -",
+      "en": "- (Kate) Yeah. - (Sirens wailing)",
       "es": "Sí."
     }
   },
@@ -2179,7 +2143,7 @@
   },
   {
     "translation": {
-      "en": "Can you get 'em all in one place?",
+      "en": "(Matt) Can you get 'em all in one place?",
       "es": "¿Podrías reunirlos en un solo lugar?"
     }
   },
@@ -2203,7 +2167,7 @@
   },
   {
     "translation": {
-      "en": "Um, from here it's a little over two hours.",
+      "en": "(Kate) Um, from here it's a little over two hours.",
       "es": "Desde aquí, más de dos horas."
     }
   },
@@ -2215,7 +2179,7 @@
   },
   {
     "translation": {
-      "en": "Are we going to Tucson?",
+      "en": "(Kate) Are we going to Tucson?",
       "es": "¿Vamos a Tucson?"
     }
   },
@@ -2233,7 +2197,7 @@
   },
   {
     "translation": {
-      "en": "- She's fine. -  I didn't ask you.",
+      "en": "- She's fine. - (Reggie) I didn't ask you.",
       "es": "-¿Estás bien? -Sí."
     }
   },
@@ -2245,7 +2209,7 @@
   },
   {
     "translation": {
-      "en": "Kate,",
+      "en": "(Whispers) Kate,",
       "es": "Kate..."
     }
   },
@@ -2263,13 +2227,13 @@
   },
   {
     "translation": {
-      "en": "What's the deal, Matt? Why you holdin' up my transport?",
+      "en": "(Bob) What's the deal, Matt? Why you holdin' up my transport?",
       "es": "¿Qué ocurre, Matt? ¿Por qué retrasas mi transporte?"
     }
   },
   {
     "translation": {
-      "en": "Don't worry, Bob. We'll be quick.",
+      "en": "(Matt) Don't worry, Bob. We'll be quick.",
       "es": "Tranquilo, Bob. No tardaremos."
     }
   },
@@ -2323,7 +2287,7 @@
   },
   {
     "translation": {
-      "en": "I guess we're not following any procedures.",
+      "en": "(Bob) I guess we're not following any procedures.",
       "es": "Supongo que no seguimos ningún procedimiento."
     }
   },
@@ -2359,13 +2323,13 @@
   },
   {
     "translation": {
-      "en": "Josef!",
+      "en": "(Bob) Josef!",
       "es": "¡Josef!"
     }
   },
   {
     "translation": {
-      "en": "On the bus. Ándale.",
+      "en": "(Bob) On the bus. Ándale.",
       "es": "Al autobús."
     }
   },
@@ -2455,7 +2419,7 @@
   },
   {
     "translation": {
-      "en": "-  What do you wanna know? - Everything.",
+      "en": "- (Matt) What do you wanna know? - Everything.",
       "es": "-¿Qué quieren saber? -Todo."
     }
   },
@@ -2497,7 +2461,7 @@
   },
   {
     "translation": {
-      "en": "- That better? -  And Guillermo is...",
+      "en": "- That better? - (Reggie) And Guillermo is...",
       "es": "-¿Mejor? -¿Guillermo es...?"
     }
   },
@@ -2527,7 +2491,7 @@
   },
   {
     "translation": {
-      "en": "in relative safety.  Just tell us the truth, man.",
+      "en": "in relative safety. (Reggie) Just tell us the truth, man.",
       "es": "-...en relativa seguridad. -Solo dinos la verdad."
     }
   },
@@ -2545,7 +2509,7 @@
   },
   {
     "translation": {
-      "en": "That's the truth.  And then?",
+      "en": "That's the truth. (Reggie) And then?",
       "es": "-Es la verdad. -¿Y entonces?"
     }
   },
@@ -2605,7 +2569,7 @@
   },
   {
     "translation": {
-      "en": "Hey!",
+      "en": "(Matt) Hey!",
       "es": "¡Oigan!"
     }
   },
@@ -2623,7 +2587,7 @@
   },
   {
     "translation": {
-      "en": "I just drove a hundred fucking miles.  It's a fucking blessing, trust me.",
+      "en": "I just drove a hundred fucking miles. (Kate) It's a fucking blessing, trust me.",
       "es": "-Conduje cientos de kilómetros... -Es una bendición, créeme."
     }
   },
@@ -2635,7 +2599,7 @@
   },
   {
     "translation": {
-      "en": "Who the fuck's Guillermo?",
+      "en": "(Reggie) Who the fuck's Guillermo?",
       "es": "¿Quién carajos es Guillermo?"
     }
   },
@@ -2695,7 +2659,7 @@
   },
   {
     "translation": {
-      "en": "He's a DOD advisor. You really believe that?",
+      "en": "(Kate) He's a DOD advisor. You really believe that?",
       "es": "-Es consultor del Depto. de Defensa. -¿En serio lo crees?"
     }
   },
@@ -2749,7 +2713,7 @@
   },
   {
     "translation": {
-      "en": "-  No way! No, no. -",
+      "en": "- (All) No way! No, no. - (Man laughing)",
       "es": "Este es el sitio. ¡Ni hablar! ¡Ni hablar! No, no."
     }
   },
@@ -2761,7 +2725,7 @@
   },
   {
     "translation": {
-      "en": "That's our way across.",
+      "en": "(Alejandro) That's our way across.",
       "es": "Esta es nuestra ruta."
     }
   },
@@ -2803,13 +2767,13 @@
   },
   {
     "translation": {
-      "en": "This is our Smurf, guys. Blonde hair, white purse.",
+      "en": "(Matt) This is our Smurf, guys. Blonde hair, white purse.",
       "es": "Ella es nuestrapitufina. La rubia del bolso blanco."
     }
   },
   {
     "translation": {
-      "en": "- You know the Heimlich? -  Oh, yeah.",
+      "en": "- You know the Heimlich? - (Jessie) Oh, yeah.",
       "es": "-¿Conoces la Heimlich? -Sí."
     }
   },
@@ -2827,7 +2791,7 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Matt exhales)",
       "es": "Entendido."
     }
   },
@@ -2869,7 +2833,7 @@
   },
   {
     "translation": {
-      "en": "- What you got? -",
+      "en": "- What you got? - (Clatters)",
       "es": "¿A quién tienes?"
     }
   },
@@ -2905,13 +2869,13 @@
   },
   {
     "translation": {
-      "en": "These are all Manuel Diaz's accounts?",
+      "en": "(Kate) These are all Manuel Diaz's accounts?",
       "es": "¿Son las cuentas de Manuel Díaz?"
     }
   },
   {
     "translation": {
-      "en": "Yeah. Cash deposits made daily in $9,000 increments.",
+      "en": "(Man) Yeah. Cash deposits made daily in $9,000 increments.",
       "es": "Sí. Depósitos en efectivo por nueve mil dólares hechos todos los días."
     }
   },
@@ -2947,7 +2911,7 @@
   },
   {
     "translation": {
-      "en": "Oh, damn, that's smart.  What?",
+      "en": "(Man) Oh, damn, that's smart. (Kate) What?",
       "es": "-Diablos, es brillante. -¿Qué?"
     }
   },
@@ -3061,7 +3025,7 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "(Manuel) What?",
       "es": "¿Qué?"
     }
   },
@@ -3139,13 +3103,7 @@
   },
   {
     "translation": {
-      "en": "No.",
-      "es": "No."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do you?",
+      "en": "(Jennings) Do you?",
       "es": "¿Y tú?"
     }
   },
@@ -3205,7 +3163,7 @@
   },
   {
     "translation": {
-      "en": "Kate, this isn't something that I dreamed up myself.",
+      "en": "(Jennings) Kate, this isn't something that I dreamed up myself.",
       "es": "Kate, esto no es algo que me inventé."
     }
   },
@@ -3271,7 +3229,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "(Kate) Yes, sir.",
       "es": "Sí, señor."
     }
   },
@@ -3301,7 +3259,7 @@
   },
   {
     "translation": {
-      "en": "-  What'll it be? - Two beers.",
+      "en": "- (Bartender) What'll it be? - Two beers.",
       "es": "-¿Qué le sirvo? -Dos cervezas."
     }
   },
@@ -3337,7 +3295,7 @@
   },
   {
     "translation": {
-      "en": "- Cos you look like shit. -",
+      "en": "- Cos you look like shit. - (Laughs)",
       "es": "-De acuerdo. -Porque te ves espantosa."
     }
   },
@@ -3445,7 +3403,7 @@
   },
   {
     "translation": {
-      "en": "-  - What are you talking about?",
+      "en": "- (Chuckles) - What are you talking about?",
       "es": "¿De qué hablas?"
     }
   },
@@ -3457,13 +3415,13 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Both laughing)",
       "es": "Tengo un camión y una esposa, es mi hermana."
     }
   },
   {
     "translation": {
-      "en": "Big Reg.",
+      "en": "(Man) Big Reg.",
       "es": "Hola, Reg."
     }
   },
@@ -3475,19 +3433,19 @@
   },
   {
     "translation": {
-      "en": "- Long time. How you been? -  Yeah, it's good to see you, man.",
+      "en": "- Long time. How you been? - (Ted) Yeah, it's good to see you, man.",
       "es": "-¡Ted! -¿Qué hay? -Cuánto tiempo. ¿Cómo estás? -Qué gusto verte, amigo."
     }
   },
   {
     "translation": {
-      "en": "Good to see you, too. How you been?",
+      "en": "(Reggie) Good to see you, too. How you been?",
       "es": "-Cuánto tiempo. ¿Cómo estás? -Qué gusto verte, amigo."
     }
   },
   {
     "translation": {
-      "en": "Gettin' your groove on, huh?",
+      "en": "(Ted) Gettin' your groove on, huh?",
       "es": "-Igualmente. ¿Cómo has estado? -¿Te pones en ambiente?"
     }
   },
@@ -3523,13 +3481,13 @@
   },
   {
     "translation": {
-      "en": "- Softball? -",
+      "en": "- Softball? - (Chuckles)",
       "es": "¿Softball?"
     }
   },
   {
     "translation": {
-      "en": "She was at the game, Ted.",
+      "en": "(Reggie) She was at the game, Ted.",
       "es": "Ted, ella estuvo en el partido."
     }
   },
@@ -3547,7 +3505,7 @@
   },
   {
     "translation": {
-      "en": "Where you struck out in slow- pitch softball.",
+      "en": "(Reggie) Where you struck out in slow- pitch softball.",
       "es": "Cuando te poncharon con una pelota muy fácil."
     }
   },
@@ -3559,7 +3517,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, I appreciate that.",
+      "en": "(Ted) Yeah, I appreciate that.",
       "es": "-Jugaste muy, muy bien. -Te lo agradezco."
     }
   },
@@ -3571,7 +3529,7 @@
   },
   {
     "translation": {
-      "en": "-  Yeah, sure. - Cool. All right.",
+      "en": "- (Kate) Yeah, sure. - Cool. All right.",
       "es": "-Sí, claro. -Muy bien."
     }
   },
@@ -3685,7 +3643,7 @@
   },
   {
     "translation": {
-      "en": "Fuck that...",
+      "en": "(Ted) Fuck that...",
       "es": "¡Al diablo!"
     }
   },
@@ -3709,7 +3667,7 @@
   },
   {
     "translation": {
-      "en": "- Stop. Shh. -",
+      "en": "- Stop. Shh. - (Choking)",
       "es": "Detente."
     }
   },
@@ -3781,13 +3739,13 @@
   },
   {
     "translation": {
-      "en": "It's OK, Reg.",
+      "en": "(Kate) It's OK, Reg.",
       "es": "Está bien, Reg."
     }
   },
   {
     "translation": {
-      "en": "I thought he was a friend.  I know.",
+      "en": "I thought he was a friend. (Kate) I know.",
       "es": "-Creí que era un amigo. -Lo sé."
     }
   },
@@ -3805,7 +3763,7 @@
   },
   {
     "translation": {
-      "en": "How y'all want me to talk to you when you keep fuckin' hittin' me?",
+      "en": "(Ted) How y'all want me to talk to you when you keep fuckin' hittin' me?",
       "es": "¿Cómo quieren que hable si siguen golpeándome?"
     }
   },
@@ -3853,13 +3811,13 @@
   },
   {
     "translation": {
-      "en": "OK! Fuck! OK!",
+      "en": "(Groans) OK! Fuck! OK!",
       "es": "¡De acuerdo! ¡Carajo!"
     }
   },
   {
     "translation": {
-      "en": "OK, OK, OK, is not what we're lookin' for, Ted.",
+      "en": "(Matt) OK, OK, OK, is not what we're lookin' for, Ted.",
       "es": "Esa no es la respuesta que buscamos, Ted."
     }
   },
@@ -3889,7 +3847,7 @@
   },
   {
     "translation": {
-      "en": "Or whether we post your ex- wife's address on the Internet.",
+      "en": "(Matt) Or whether we post your ex- wife's address on the Internet.",
       "es": "...o si publicamos la dirección de tu exmujer en Internet."
     }
   },
@@ -4009,7 +3967,7 @@
   },
   {
     "translation": {
-      "en": "OK, OK...",
+      "en": "(Ted) OK, OK...",
       "es": "...de todos los infelices que trabajan en la policía. Bien, bien."
     }
   },
@@ -4039,7 +3997,7 @@
   },
   {
     "translation": {
-      "en": "How you feelin'?",
+      "en": "(Alejandro) How you feelin'?",
       "es": "¿Cómo te sientes?"
     }
   },
@@ -4111,13 +4069,13 @@
   },
   {
     "translation": {
-      "en": "Hello, sixty.",
+      "en": "(Man 1 on radio) Hello, sixty.",
       "es": "Hola, sesenta."
     }
   },
   {
     "translation": {
-      "en": "We have eyes on the objective.",
+      "en": "(Man 2 on radio) We have eyes on the objective.",
       "es": "Visualizamos el objetivo."
     }
   },
@@ -4153,7 +4111,7 @@
   },
   {
     "translation": {
-      "en": "What's going on? What's the plan? We're going hunting.",
+      "en": "(Kate) What's going on? What's the plan? We're going hunting.",
       "es": "-¿Qué hay? ¿Cuál es el plan? -Iremos de cacería."
     }
   },
@@ -4177,7 +4135,7 @@
   },
   {
     "translation": {
-      "en": "All right, listen up.",
+      "en": "(Delta leader) All right, listen up.",
       "es": "Bien, escuchen."
     }
   },
@@ -4213,7 +4171,7 @@
   },
   {
     "translation": {
-      "en": "These diagrams are based on other tunnels that have been mapped.",
+      "en": "(Delta leader) These diagrams are based on other tunnels that have been mapped.",
       "es": "Estos diagramas están basados en otros túneles que se han trazado."
     }
   },
@@ -4279,19 +4237,19 @@
   },
   {
     "translation": {
-      "en": "It's all about creating a diversion.  Want the mother of all diversions, boys.",
+      "en": "It's all about creating a diversion. (Matt) Want the mother of all diversions, boys.",
       "es": "-Se trata de generar una distracción. -La más grande de todas, chicos."
     }
   },
   {
     "translation": {
-      "en": "Need a lot of noise. Fourth of July on steroids.",
+      "en": "Need a lot of noise. Fourth of July on steroids. (Delta team laughing)",
       "es": "Necesitamos mucho ruido. Como un 4 de julio, pero más escandaloso."
     }
   },
   {
     "translation": {
-      "en": "All right. Weapons check. Let's go, boys.",
+      "en": "(Delta leader) All right. Weapons check. Let's go, boys.",
       "es": "Muy bien. Armas listas. Vamos, chicos."
     }
   },
@@ -4309,7 +4267,7 @@
   },
   {
     "translation": {
-      "en": "Those are Special Ops. Are we going in on this?",
+      "en": "(Reggie) Those are Special Ops. Are we going in on this?",
       "es": "Son de Operaciones Especiales. ¿Iremos así?"
     }
   },
@@ -4327,7 +4285,7 @@
   },
   {
     "translation": {
-      "en": "All right, we'll get you some extra gear.  We have tac gear in the car.",
+      "en": "All right, we'll get you some extra gear. (Kate) We have tac gear in the car.",
       "es": "-Les conseguiremos equipo extra. -Tenemos unos en el auto."
     }
   },
@@ -4351,7 +4309,7 @@
   },
   {
     "translation": {
-      "en": "Without a domestic agency attached.",
+      "en": "(Both) Without a domestic agency attached.",
       "es": "...sin la colaboración de una agencia federal."
     }
   },
@@ -4369,7 +4327,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, that's it.",
+      "en": "(Matt) Yeah, that's it.",
       "es": "Sí, eso es."
     }
   },
@@ -4429,7 +4387,7 @@
   },
   {
     "translation": {
-      "en": "Black Mercedes... Plate number, Romeo- India- November",
+      "en": "(Man on radio) Black Mercedes... Plate number, Romeo- India- November",
       "es": "Mercedes negro. Matrícula: Romeo-India-Noviembre..."
     }
   },
@@ -4441,13 +4399,13 @@
   },
   {
     "translation": {
-      "en": "Where?",
+      "en": "(Matt) Where?",
       "es": "¿Dónde?"
     }
   },
   {
     "translation": {
-      "en": "- OK. -",
+      "en": "- OK. - (Mobile phone beeps)",
       "es": "Bien."
     }
   },
@@ -4465,13 +4423,13 @@
   },
   {
     "translation": {
-      "en": "What is target's location?",
+      "en": "(Matt) What is target's location?",
       "es": "¿Ubicación del objetivo?"
     }
   },
   {
     "translation": {
-      "en": "14 miles south of Nogales heading west, rapidly.",
+      "en": "(Man on radio) 14 miles south of Nogales heading west, rapidly.",
       "es": "22 kilómetros al sur de Nogales, dirigiéndose al oeste rápidamente."
     }
   },
@@ -4495,7 +4453,7 @@
   },
   {
     "translation": {
-      "en": "Gear check?",
+      "en": "(Delta leader) Gear check?",
       "es": "¿Preparados?"
     }
   },
@@ -4507,61 +4465,61 @@
   },
   {
     "translation": {
-      "en": "Night vision goggles, check.  Get those guys.",
+      "en": "Night vision goggles, check. (Delta 1) Get those guys.",
       "es": "-Lentes de visión nocturna, listos. -Vamos por ellos."
     }
   },
   {
     "translation": {
-      "en": "Wanna take Alpha squad, I'll take B squad?",
+      "en": "(Delta leader) Wanna take Alpha squad, I'll take B squad?",
       "es": "¿Quiere tomar al equipo Alfa y yo tomo el otro?"
     }
   },
   {
     "translation": {
-      "en": "- You got it. Let's do it. -  Let's go, boys.",
+      "en": "- You got it. Let's do it. - (Delta leader) Let's go, boys.",
       "es": "-Sí. Hagámoslo. -Vamos, chicos."
     }
   },
   {
     "translation": {
-      "en": "Control, you copy?",
+      "en": "(Delta leader) Control, you copy?",
       "es": "Control, ¿me escuchan?"
     }
   },
   {
     "translation": {
-      "en": "Roger, Alpha. We read.",
+      "en": "(Man on radio) Roger, Alpha. We read.",
       "es": "Afirmativo, Alfa."
     }
   },
   {
     "translation": {
-      "en": "Fifty meters. Your three o'clock, Alpha.",
+      "en": "(Man on radio) Fifty meters. Your three o'clock, Alpha.",
       "es": "Cincuenta metros. Alfa, están a 90 grados."
     }
   },
   {
     "translation": {
-      "en": "Stand by. Getting close to objective.",
+      "en": "(Delta leader on radio) Stand by. Getting close to objective.",
       "es": "Preparados. Se acercan al objetivo."
     }
   },
   {
     "translation": {
-      "en": "Alpha, Bravo, be advised. 12 metres straight ahead.",
+      "en": "(Man on radio) Alpha, Bravo, be advised. 12 metres straight ahead.",
       "es": "Alfa, Bravo, prevenidos. 12 metros adelante."
     }
   },
   {
     "translation": {
-      "en": "All right, we need to boogie and we need to do it quiet till we find the centre.",
+      "en": "(Matt) All right, we need to boogie and we need to do it quiet till we find the centre.",
       "es": "Tenemos que movernos rápido y en silencio hasta encontrar el centro."
     }
   },
   {
     "translation": {
-      "en": "Draw the fighters to you and make some noise.",
+      "en": "(Alejandro) Draw the fighters to you and make some noise.",
       "es": "Atráiganlos hacia ustedes y hagan ruido."
     }
   },
@@ -4573,25 +4531,25 @@
   },
   {
     "translation": {
-      "en": "What are the rules of engagement?",
+      "en": "(Delta leader) What are the rules of engagement?",
       "es": "¿Cuál es el protocolo?"
     }
   },
   {
     "translation": {
-      "en": "Weapons free, my friend. Weapons free.",
+      "en": "(Matt) Weapons free, my friend. Weapons free.",
       "es": "Usen sus armas con libertad. Úsenlas con libertad."
     }
   },
   {
     "translation": {
-      "en": "Weapons free, boys.",
+      "en": "(Delta leader) Weapons free, boys.",
       "es": "Usen sus armas, chicos."
     }
   },
   {
     "translation": {
-      "en": "Good luck.",
+      "en": "(Matt) Good luck.",
       "es": "Buena suerte."
     }
   },
@@ -4609,7 +4567,7 @@
   },
   {
     "translation": {
-      "en": "Freeze!",
+      "en": "(In English) Freeze!",
       "es": "¡Quieto!"
     }
   },
@@ -4621,13 +4579,13 @@
   },
   {
     "translation": {
-      "en": "Put that down. I mean it! Move away from him right now!",
+      "en": "(Alejandro) Put that down. I mean it! Move away from him right now!",
       "es": "-Baja el arma. -Hablo en serio. ¡Aléjate de él ahora!"
     }
   },
   {
     "translation": {
-      "en": "Don't ever point a weapon at me again.",
+      "en": "Don't ever point a weapon at me again. (Gasps)",
       "es": "Jamás vuelvas a apuntarme con un arma."
     }
   },
@@ -4645,7 +4603,7 @@
   },
   {
     "translation": {
-      "en": "Roger, we have you. Target is east and north of you.",
+      "en": "(Man on radio) Roger, we have you. Target is east and north of you.",
       "es": "Afirmativo, te tenemos. El objetivo está al este y al norte."
     }
   },
@@ -4669,13 +4627,13 @@
   },
   {
     "translation": {
-      "en": "Is he through yet?",
+      "en": "(Matt) Is he through yet?",
       "es": "¿Ya cruzó?"
     }
   },
   {
     "translation": {
-      "en": "We have joy. GPS is transmitting. Audio is transmitting.",
+      "en": "(Man on radio) We have joy. GPS is transmitting. Audio is transmitting.",
       "es": "Buenas noticias. El GPS está transmitiendo. El audio también."
     }
   },
@@ -4687,13 +4645,13 @@
   },
   {
     "translation": {
-      "en": "That was a clean, clean fucking op, my friend.",
+      "en": "(Matt) That was a clean, clean fucking op, my friend.",
       "es": "Esa fue una operación perfectamente ejecutada, mi amigo."
     }
   },
   {
     "translation": {
-      "en": "Except for these two assholes.",
+      "en": "(Delta leader) Except for these two assholes.",
       "es": "Excepto por esos imbéciles."
     }
   },
@@ -4729,7 +4687,7 @@
   },
   {
     "translation": {
-      "en": "-  Whoa, whoa! -",
+      "en": "- (Delta 1) Whoa, whoa! - (Grunts)",
       "es": "¡Oye!"
     }
   },
@@ -4747,7 +4705,7 @@
   },
   {
     "translation": {
-      "en": "Get off me!",
+      "en": "(Grunts) Get off me!",
       "es": "¡Suéltame!"
     }
   },
@@ -4813,7 +4771,7 @@
   },
   {
     "translation": {
-      "en": "Medellín?",
+      "en": "(Matt) Medellín?",
       "es": "¿Medellín?"
     }
   },
@@ -4867,7 +4825,7 @@
   },
   {
     "translation": {
-      "en": "Alejandro works for the fucking Colombian Cartel.",
+      "en": "(Kate) Alejandro works for the fucking Colombian Cartel.",
       "es": "Alejandro trabaja para el maldito cártel colombiano."
     }
   },
@@ -4981,19 +4939,19 @@
   },
   {
     "translation": {
-      "en": "Roger that. Black Mercedes, 60 metres ahead.",
+      "en": "(Man on radio) Roger that. Black Mercedes, 60 metres ahead.",
       "es": "Afirmativo. Un Mercedes negro, seis metros adelante."
     }
   },
   {
     "translation": {
-      "en": "This motherfucker...",
+      "en": "(Manuel) This motherfucker...",
       "es": "Desgraciado..."
     }
   },
   {
     "translation": {
-      "en": "What happens when we get to the house?",
+      "en": "(In English) What happens when we get to the house?",
       "es": "¿Qué pasará cuando lleguemos a la casa?"
     }
   },
@@ -5017,7 +4975,7 @@
   },
   {
     "translation": {
-      "en": "Six remain.",
+      "en": "(Man on radio) Six remain.",
       "es": "Quedan seis."
     }
   },
@@ -5029,7 +4987,7 @@
   },
   {
     "translation": {
-      "en": "Every night you have families killed.",
+      "en": "(In English) Every night you have families killed.",
       "es": "Cada noche asesinas a familias completas."
     }
   },
@@ -5083,19 +5041,19 @@
   },
   {
     "translation": {
-      "en": "Not in front of my boys.",
+      "en": "(In English) Not in front of my boys.",
       "es": "Hazlo por mis hijos."
     }
   },
   {
     "translation": {
-      "en": "Go ahead and finish your meal.",
+      "en": "(In English) Go ahead and finish your meal.",
       "es": "Adelante, termina de cenar."
     }
   },
   {
     "translation": {
-      "en": "I would recommend not standing on balconies for a while, Kate.",
+      "en": "(Alejandro) I would recommend not standing on balconies for a while, Kate.",
       "es": "Te recomendaría que te alejaras de los balcones por un tiempo, Kate."
     }
   },
@@ -5191,7 +5149,7 @@
   },
   {
     "translation": {
-      "en": "- You will not survive here. -",
+      "en": "- You will not survive here. - (Clatters)",
       "es": "Aquí no sobrevivirás."
     }
   },
