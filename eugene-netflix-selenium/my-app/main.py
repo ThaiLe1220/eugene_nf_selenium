@@ -15,35 +15,20 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def google_authenticate(cur_driver, username, password):
-    print(" [ google_authenticate() ] ", end="")
-    cur_driver.get(
-        "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button&ifkv=ASKXGp2ElErrlp6KI4Coxg5NIA00uJNFj2s1WJiy5hUdDcMorxOJm5AZa_RgOe8x0MyvF-Uwk56RNQ&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-854968125%3A1705915296809620&theme=glif"
-    )
-    time.sleep(1)
-    if len(cur_driver.window_handles) > 1:
-        new_tab = [
-            tab
-            for tab in cur_driver.window_handles
-            if tab != cur_driver.current_window_handle
-        ][0]
-        cur_driver.switch_to.window(new_tab)
-        cur_driver.close()
-        cur_driver.switch_to.window(cur_driver.window_handles[0])
-        time.sleep(1)
-        # email_field = cur_driver.find_element(By.ID, "identifierId")
-        # email_field.click()
-        # email_field.send_keys(username)
-        # email_field.send_keys(Keys.RETURN)
-        # time.sleep(4)
-        # password_field = cur_driver.find_element(By.NAME, "Passwd")
-        # password_field.send_keys(password)
-        # password_field.send_keys(Keys.RETURN)
-        # time.sleep(3)
-    time.sleep(1)
-
-
 def netflix_authenticate(cur_driver, username, password):
+    """
+    Authenticate a user on Netflix using Selenium.
+
+    This function navigates to the Netflix login page, handles any additional opened tabs,
+    and logs in using the provided username and password. It waits for the Netflix
+    browse URL to ensure the login was successful.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance being used for automation.
+        username (str): The username or email for the Netflix account.
+        password (str): The password for the Netflix account.
+    """
+
     print(" [ netflix_authenticate() ] ", end="")
     cur_driver.get("https://www.netflix.com/login")
     time.sleep(1)
@@ -67,6 +52,17 @@ def netflix_authenticate(cur_driver, username, password):
 
 
 def click_setting_button(cur_wait):
+    """
+    Click the settings button on a webpage using Selenium.
+
+    Waits until the settings button is clickable on the current page, and then clicks it.
+    This function is specifically designed to interact with elements matching a certain
+    CSS selector, presumably in a specific web application or webpage.
+
+    Args:
+        cur_wait (WebDriverWait): The WebDriverWait instance used for handling wait conditions.
+    """
+
     print(" [ click_setting_button() ] ", end="")
     settings_button = cur_wait.until(
         EC.element_to_be_clickable(
@@ -80,6 +76,17 @@ def click_setting_button(cur_wait):
 
 
 def close_all_tabs(cur_driver):
+    """
+    Close all browser tabs except the first one using Selenium.
+
+    Iterates through all open browser tabs, closes each one except for the first tab,
+    and then switches back to the first tab. This function is useful for cleanup
+    during a web scraping or web automation task.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance being used for automation.
+    """
+
     print(" [ close_all_tabs() ] ", end="")
     all_handles = cur_driver.window_handles
     cur_driver.switch_to.window(all_handles[0])
@@ -90,54 +97,21 @@ def close_all_tabs(cur_driver):
     time.sleep(0.5)
 
 
-def extension_sign_in(cur_driver, cur_wait):
-    print(" [ extension_sign_in() ] ", end="")
-    time.sleep(2)
-    sign_in_button = cur_wait.until(
-        EC.element_to_be_clickable(
-            (By.CSS_SELECTOR, ".lln-red-button.lln-btn-start-loud-login")
-        )
-    )
-    sign_in_button.click()
-    time.sleep(5)
-    if len(cur_driver.window_handles) > 1:
-        new_tab = [
-            tab
-            for tab in cur_driver.window_handles
-            if tab != cur_driver.current_window_handle
-        ][0]
-        cur_driver.switch_to.window(new_tab)
-        main_window_handle = cur_driver.current_window_handle
-
-        cur_wait.until(
-            EC.presence_of_element_located(
-                (
-                    By.CSS_SELECTOR,
-                    ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
-                )
-            )
-        )
-        gg_login_button = cur_driver.find_element(
-            By.CSS_SELECTOR,
-            ".firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-google.firebaseui-id-idp-button",
-        )
-
-        gg_login_button.click()
-        time.sleep(4)
-        time.sleep(10)
-        for handle in cur_driver.window_handles:
-            if handle != main_window_handle:
-                cur_driver.switch_to.window(handle)
-        # time.sleep(3)
-        # email_select = cur_driver.find_element(By.CSS_SELECTOR, ".WBW9sf")
-        # email_select.click()
-        # time.sleep(3)
-
-    cur_driver.switch_to.window(main_window_handle)
-    time.sleep(5)
-
-
 def choose_language_translation(cur_driver, cur_wait, language):
+    """
+    Chooses a specified language for translation on a web page using Selenium.
+
+    This function locates and clicks on the translation language dropdown on a web page,
+    waits for the dropdown options to be visible, and then selects the specified language.
+    It's tailored for web pages where translations are available and language can be selected
+    through a dropdown menu.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance used for web automation.
+        cur_wait (WebDriverWait): The WebDriverWait instance used for handling wait conditions.
+        language (str): The language to be selected for translation.
+    """
+
     print(f" [ choose_language_translation() for {language} ] ", end="")
     translation_language_dropdown = cur_wait.until(
         EC.element_to_be_clickable(
@@ -161,16 +135,18 @@ def choose_language_translation(cur_driver, cur_wait, language):
     language_option.click()
 
 
-def choose_machine_translation(cur_driver):
-    print(" [ choose_machine_translation() ] ", end="")
-    mt_checkbox = cur_driver.find_element(By.ID, "showMT")
-    actions = ActionChains(cur_driver)
-    actions.move_to_element(mt_checkbox).perform()
-    mt_checkbox.click()
-    time.sleep(1)
-
-
 def choose_export_machine_translation(cur_driver):
+    """
+    Selects the option to include machine translations during export.
+
+    This function finds and clicks a checkbox on a web page that allows the inclusion of
+    machine translations in an exported document. It's specifically designed for pages
+    where such an option exists.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance used for web automation.
+    """
+
     print(" [ choose_export_machine_translation() ] ", end="")
     mt_checkbox = cur_driver.find_element(
         By.CSS_SELECTOR, "input[type='checkbox'][name='includeMachineTranslations']"
@@ -180,6 +156,17 @@ def choose_export_machine_translation(cur_driver):
 
 
 def close_setting_button(cur_driver):
+    """
+    Closes the settings modal/dialog on a web page using Selenium.
+
+    Finds and executes a script to click the close button of a settings modal or dialog.
+    This function is useful for web pages where standard click actions might not work
+    on certain elements due to overlapping layers or other UI complexities.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance used for web automation.
+    """
+
     print(" [ close_setting_button() ] ", end="")
     settings_button = cur_driver.find_element(
         By.CSS_SELECTOR, ".lln-close-modal.lln-close-modal-btn"
@@ -188,6 +175,18 @@ def close_setting_button(cur_driver):
 
 
 def export_translation(cur_driver, cur_wait, index, lang_code):
+    """
+    Exports the translation of a Netflix show or movie's page to an HTML file.
+
+    This function clicks the export button on a web page (presumably a Netflix page with the Language Reactor extension), waits for and clicks the export option, and then saves the page source to an HTML file. It handles multiple browser windows if they are opened during the process.
+
+    Args:
+        cur_driver (webdriver): The Selenium WebDriver instance used for automation.
+        cur_wait (WebDriverWait): The WebDriverWait instance used for handling wait conditions.
+        index (int): The index of the current movie or show in a list, used to name the output file.
+        lang_code (str): The language code representing the translation language, used in the output file name.
+    """
+
     print(" [ export_translation() ] ", end="")
     export_button = cur_wait.until(
         EC.element_to_be_clickable(
@@ -199,8 +198,6 @@ def export_translation(cur_driver, cur_wait, index, lang_code):
     )
     export_button.click()
 
-    # time.sleep(1)
-    # choose_export_machine_translation(cur_driver)
     export_option = cur_wait.until(
         EC.element_to_be_clickable((By.ID, "llnExportModalExportBtn"))
     )
@@ -224,6 +221,17 @@ def export_translation(cur_driver, cur_wait, index, lang_code):
 
 
 def clean_netflix_links(input_file, output_file):
+    """
+    Cleans and sorts Netflix links from an input file and writes them to an output file.
+
+    Reads Netflix links from the specified input file, extracts and cleans the movie or show IDs from these links, and then writes the cleaned and sorted unique links to the specified output file. This function is useful for preprocessing a list of Netflix URLs.
+
+    Args:
+        input_file (str): The path to the file containing the original Netflix links.
+        output_file (str): The path to the file where the cleaned and sorted links will be saved.
+    """
+    print(" [ clean_netflix_links() ] ")
+
     cleaned_links = []
 
     with open(input_file, "r") as file:
@@ -265,6 +273,7 @@ LANGUAGE_CODE = {name: code for name, code in LANG_LIST}.get(LANGUAGE)
 NETFLIX_LINKS = []
 MOVIE_IDS = []
 
+# Read and process Netflix links from a file
 with open("./source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
     for line in file:
         line = line.strip()
@@ -273,15 +282,18 @@ with open("./source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
             movie_id = line.split("/")[-1]
             MOVIE_IDS.append(movie_id)
 
+
+# Initialize Selenium WebDriver with Chrome options (extensions)
 options = webdriver.ChromeOptions()
 options.add_extension("./extensions/Language-Reactor.crx")
 driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 10)
 
-# google_authenticate(driver, os.getenv("GG_USERNAME"), os.getenv("GG_PASSWORD"))
+
+# Authenticate on Netflix
 netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
 
-
+# Iterate over the list of Netflix links
 for i, link in enumerate(NETFLIX_LINKS):
     if START_INDEX <= i <= END_INDEX:
         start_time = time.time()
@@ -289,15 +301,14 @@ for i, link in enumerate(NETFLIX_LINKS):
 
         try:
             if i == START_INDEX:
+                # Setting up the translation options only for the first link
                 click_setting_button(wait)
-                # extension_sign_in(driver, wait)
-                # driver.switch_to.window(driver.window_handles[0])
                 choose_language_translation(driver, wait, LANGUAGE)
                 time.sleep(1)
-                # choose_machine_translation(driver)
                 close_setting_button(driver)
                 time.sleep(1)
 
+            # Wait for subtitles to load
             wait.until(
                 EC.element_to_be_clickable(
                     (
@@ -306,6 +317,8 @@ for i, link in enumerate(NETFLIX_LINKS):
                     )
                 )
             )
+
+            # Export the translation
             export_translation(driver, wait, i, LANGUAGE_CODE)
             close_all_tabs(driver)
 
@@ -324,9 +337,11 @@ for i, link in enumerate(NETFLIX_LINKS):
         )
 
 
+# Clean list of inaccessed Netflix links
 clean_netflix_links(
     f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
     f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
 )
 
+# Close the WebDriver
 driver.quit()
