@@ -127,7 +127,7 @@
   },
   {
     "translation": {
-      "en": "Blessed be.",
+      "en": "ALL: Blessed be.",
       "es": "Alabados sean."
     }
   },
@@ -145,7 +145,7 @@
   },
   {
     "translation": {
-      "en": "Blessed be.",
+      "en": "ALL: Blessed be.",
       "es": "Alabados sean."
     }
   },
@@ -163,7 +163,7 @@
   },
   {
     "translation": {
-      "en": "Blessed be.",
+      "en": "ALL: Blessed be.",
       "es": "Alabados sean."
     }
   },
@@ -505,19 +505,19 @@
   },
   {
     "translation": {
-      "en": "This is Isaiah. Hey.",
+      "en": "ADAM: This is Isaiah. Hey.",
       "es": "Él es Isaiah."
     }
   },
   {
     "translation": {
-      "en": "Jacob. Hi.",
+      "en": "ADAM: Jacob. Hi.",
       "es": "- Jacob. - Hola."
     }
   },
   {
     "translation": {
-      "en": "And Abe.",
+      "en": "ADAM: And Abe.",
       "es": "Y Abe."
     }
   },
@@ -529,7 +529,7 @@
   },
   {
     "translation": {
-      "en": "What the hell?",
+      "en": "JACOB: What the hell?",
       "es": "¿Qué diablos?"
     }
   },
@@ -817,7 +817,7 @@
   },
   {
     "translation": {
-      "en": "Okay, what's going on? TIMMY: Hey.",
+      "en": "TEACHER: Okay, what's going on? TIMMY: Hey.",
       "es": "¿Qué sucede? Oye."
     }
   },
@@ -847,7 +847,7 @@
   },
   {
     "translation": {
-      "en": "It's like a crime scene.",
+      "en": "TIMMY: It's like a crime scene.",
       "es": "- ¡Jacob! - Parece la escena de un crimen."
     }
   },
@@ -937,7 +937,7 @@
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "LILY: Thank you.",
       "es": "Gracias."
     }
   },
@@ -1177,19 +1177,19 @@
   },
   {
     "translation": {
-      "en": "That was, like, insane.",
+      "en": "GIRL: That was, like, insane.",
       "es": "Qué locura."
     }
   },
   {
     "translation": {
-      "en": "Both of you, principal's office now.",
+      "en": "TEACHER: Both of you, principal's office now.",
       "es": "¡Los dos, a la oficina del director!"
     }
   },
   {
     "translation": {
-      "en": "Lily. What?",
+      "en": "VOICE: Lily. What?",
       "es": "- Lily. - ¿Qué?"
     }
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "translation": {
-      "en": "If you can hear this, you're our fourth.",
+      "en": "VOICE: If you can hear this, you're our fourth.",
       "es": "Si puedes escuchar esto, eres la cuarta."
     }
   },
@@ -1231,7 +1231,7 @@
   },
   {
     "translation": {
-      "en": "Take your stuff.",
+      "en": "VOICE: Take your stuff.",
       "es": "Trae tus cosas."
     }
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "translation": {
-      "en": "You didn't get the memo?",
+      "en": "TIMMY: You didn't get the memo?",
       "es": "¿No se enteró?"
     }
   },
@@ -1273,7 +1273,7 @@
   },
   {
     "translation": {
-      "en": "Yes, yes, y'all!",
+      "en": "FRANKIE: Yes, yes, y'all!",
       "es": "¡Sí! ¡Sí!"
     }
   },
@@ -1417,19 +1417,19 @@
   },
   {
     "translation": {
-      "en": "Sorry, this is all just a little new to me.",
+      "en": "LILY: Sorry, this is all just a little new to me.",
       "es": "Perdón, pero todo esto es nuevo para mí."
     }
   },
   {
     "translation": {
-      "en": "I mean, it's new to us too. We've never thrown a grown- ass man.",
+      "en": "TABBY: I mean, it's new to us too. We've never thrown a grown- ass man.",
       "es": "Para nosotras también. Nunca habíamos arrojado a un hombre adulto."
     }
   },
   {
     "translation": {
-      "en": "That was so wild!",
+      "en": "LOURDES: That was so wild!",
       "es": "¡Qué locura!"
     }
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "translation": {
-      "en": "Or people, I guess, in Timmy's case.",
+      "en": "LOURDES: Or people, I guess, in Timmy's case.",
       "es": "O personas, supongo, en el caso de Timmy."
     }
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "translation": {
-      "en": "Let's surprise her, though.",
+      "en": "LOURDES: Let's surprise her, though.",
       "es": "Pero sorprendámosla."
     }
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "translation": {
-      "en": "What about your mom?",
+      "en": "FRANKIE: What about your mom?",
       "es": "¿Y tu mamá?"
     }
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "translation": {
-      "en": "And now you're here.",
+      "en": "LOURDES: And now you're here.",
       "es": "Y ahora llegaste tú."
     }
   },
@@ -1731,12 +1731,6 @@
     "translation": {
       "en": "So, what do you say?",
       "es": "Entonces, ¿qué dices?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lily.",
-      "es": "Lily."
     }
   },
   {
@@ -1861,7 +1855,7 @@
   },
   {
     "translation": {
-      "en": "Whenever we do a spell, we always cast a circle first.",
+      "en": "FRANKIE: Whenever we do a spell, we always cast a circle first.",
       "es": "Para realizar un conjuro, siempre hay que hacer un círculo."
     }
   },
@@ -1969,7 +1963,7 @@
   },
   {
     "translation": {
-      "en": "Oh, my God! That was so fricking cool!",
+      "en": "LOURDES: Oh, my God! That was so fricking cool!",
       "es": "- ¡Qué increíble! - ¡Eso estuvosupercool!"
     }
   },
@@ -1993,13 +1987,13 @@
   },
   {
     "translation": {
-      "en": "That's stage three, baby.",
+      "en": "FRANKIE: That's stage three, baby.",
       "es": "¡Eso es del tercer nivel! Si pudimos hacer eso, ¿qué debemos hacer ahora?"
     }
   },
   {
     "translation": {
-      "en": "Okay, but if we could do that, now what should we do?",
+      "en": "TABBY: Okay, but if we could do that, now what should we do?",
       "es": "Si pudimos hacer eso, ¿qué debemos hacer ahora?"
     }
   },
@@ -2047,7 +2041,7 @@
   },
   {
     "translation": {
-      "en": "How do you know no one's home?",
+      "en": "LILY: How do you know no one's home?",
       "es": "¿Cómo sabes que no hay nadie en casa?"
     }
   },
@@ -2065,7 +2059,7 @@
   },
   {
     "translation": {
-      "en": "Oh, my God.",
+      "en": "FRANKIE: Oh, my God.",
       "es": "Ay, no."
     }
   },
@@ -2107,7 +2101,7 @@
   },
   {
     "translation": {
-      "en": "Naw, this boy has a Ouija board?",
+      "en": "LOURDES: Naw, this boy has a Ouija board?",
       "es": "¿Tiene una tabla güija?"
     }
   },
@@ -2257,13 +2251,13 @@
   },
   {
     "translation": {
-      "en": "Blessed be.",
+      "en": "ALL: Blessed be.",
       "es": "Bendita sea."
     }
   },
   {
     "translation": {
-      "en": "Do it, girl. TABBY: Do it.",
+      "en": "LOURDES: Do it, girl. TABBY: Do it.",
       "es": "- Hazlo, chica. - Hazlo."
     }
   },
@@ -2281,7 +2275,7 @@
   },
   {
     "translation": {
-      "en": "Timmy? Shit, guys.",
+      "en": "MAN: Timmy? Shit, guys.",
       "es": "¡Mierda!"
     }
   },
@@ -2329,19 +2323,19 @@
   },
   {
     "translation": {
-      "en": "Timmy, no video games until you finish your homework.",
+      "en": "MAN: Timmy, no video games until you finish your homework.",
       "es": "Timmy, nada de videojuegos hasta que termines la tarea."
     }
   },
   {
     "translation": {
-      "en": "Yeah, I know, Dad.",
+      "en": "TIMMY: Yeah, I know, Dad.",
       "es": "Ya lo sé, papá."
     }
   },
   {
     "translation": {
-      "en": "Lily! Come on!",
+      "en": "FRANKIE: Lily! Come on!",
       "es": "¡Lily! ¡Rápido!"
     }
   },
@@ -2359,7 +2353,7 @@
   },
   {
     "translation": {
-      "en": "I see you so Uncomfortably alone",
+      "en": "♪ I see you so Uncomfortably alone ♪",
       "es": "LISA ES UNA PUTA"
     }
   },
@@ -2431,7 +2425,7 @@
   },
   {
     "translation": {
-      "en": "Hey, Helen, is Lily up there with you?",
+      "en": "ADAM: Hey, Helen, is Lily up there with you?",
       "es": "Helen, ¿Lily está ahí contigo?"
     }
   },
@@ -2491,7 +2485,7 @@
   },
   {
     "translation": {
-      "en": "Uh, okay... Thank you.",
+      "en": "HELEN: Uh, okay... Thank you.",
       "es": "Gracias."
     }
   },
@@ -2557,31 +2551,31 @@
   },
   {
     "translation": {
-      "en": "You just need to be more kind in the way that you speak to her.",
+      "en": "HELEN: You just need to be more kind in the way that you speak to her.",
       "es": "Te voy a pedir que seas un poco más amble cuando hables con ella."
     }
   },
   {
     "translation": {
-      "en": "Kind? HELEN: Yes!",
+      "en": "ADAM: Kind? HELEN: Yes!",
       "es": "- ¿Amable? - ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "Yeah, discipline, it's all about kindness.",
+      "en": "ADAM: Yeah, discipline, it's all about kindness.",
       "es": "Sí, para inculcar disciplina es importante ser amable."
     }
   },
   {
     "translation": {
-      "en": "That's not what I meant.",
+      "en": "HELEN: That's not what I meant.",
       "es": "No me malinterpretes."
     }
   },
   {
     "translation": {
-      "en": "She has an attitude, Helen. She comes in here all holier- than- thou.",
+      "en": "ADAM: She has an attitude, Helen. She comes in here all holier- than- thou.",
       "es": "Tiene mala actitud. Vino con una actitud santurrona."
     }
   },
@@ -2593,7 +2587,7 @@
   },
   {
     "translation": {
-      "en": "It's complicated for her!",
+      "en": "HELEN: It's complicated for her!",
       "es": "¡Esto no es fácil para ella!"
     }
   },
@@ -2713,13 +2707,13 @@
   },
   {
     "translation": {
-      "en": "Hey, Jeremy. I'm sorry.",
+      "en": "TEACHER: Hey, Jeremy. I'm sorry.",
       "es": "- ¡Jeremy! - Perdón."
     }
   },
   {
     "translation": {
-      "en": "Consent is defined as an affirmative, unambiguous and a voluntary agreement.",
+      "en": "NARRATOR: Consent is defined as an affirmative, unambiguous and a voluntary agreement.",
       "es": "El consentimiento se define como un acuerdo inequívoco y voluntario."
     }
   },
@@ -2761,7 +2755,7 @@
   },
   {
     "translation": {
-      "en": "Give me a break. I was joking.",
+      "en": "JEREMY: Give me a break. I was joking.",
       "es": "Por favor. Estaba jugando."
     }
   },
@@ -2791,7 +2785,7 @@
   },
   {
     "translation": {
-      "en": "Yo, he called himself cisgendered in seventh period today.",
+      "en": "FRANKIE: Yo, he called himself cisgendered in seventh period today.",
       "es": "Se llamó cisgénero en la clase de séptimo período."
     }
   },
@@ -2875,13 +2869,13 @@
   },
   {
     "translation": {
-      "en": "Keep it lit Your man get it",
+      "en": "♪ Keep it lit Your man get it ♪",
       "es": "hola mi amor diviértete tal vez podamos divertirnos este fin de semana como antes"
     }
   },
   {
     "translation": {
-      "en": "Lily.",
+      "en": "LOURDES: Lily.",
       "es": "tal vez podamos divertirnos este fin de semana como antes"
     }
   },
@@ -2905,7 +2899,7 @@
   },
   {
     "translation": {
-      "en": "I play for keeps And you know I came to win Yeah, so, anyways... Oh, my God.",
+      "en": "♪ I play for keeps And you know I came to win ♪ Yeah, so, anyways... Oh, my God.",
       "es": "De todas maneras... Ay, no."
     }
   },
@@ -2953,7 +2947,7 @@
   },
   {
     "translation": {
-      "en": "Careful.",
+      "en": "FRANKIE: Careful.",
       "es": "Cuidado."
     }
   },
@@ -2977,7 +2971,7 @@
   },
   {
     "translation": {
-      "en": "Hey.",
+      "en": "TIMMY: Hey.",
       "es": "Hola."
     }
   },
@@ -3157,7 +3151,7 @@
   },
   {
     "translation": {
-      "en": "Lily's right. We have to be really careful.",
+      "en": "LOURDES: Lily's right. We have to be really careful.",
       "es": "Tiene razón. Debemos tener mucho cuidado."
     }
   },
@@ -3181,7 +3175,7 @@
   },
   {
     "translation": {
-      "en": "Bye!",
+      "en": "LOURDES: Bye!",
       "es": "¡Adiós!"
     }
   },
@@ -3403,7 +3397,7 @@
   },
   {
     "translation": {
-      "en": "Guys.",
+      "en": "TABBY: Guys.",
       "es": "Oigan."
     }
   },
@@ -3487,7 +3481,7 @@
   },
   {
     "translation": {
-      "en": "Isaiah.",
+      "en": "LILY: Isaiah.",
       "es": "Isaiah."
     }
   },
@@ -3499,7 +3493,7 @@
   },
   {
     "translation": {
-      "en": "You still staying for dinner?",
+      "en": "JACOB: You still staying for dinner?",
       "es": "¿Te quedas a cenar?"
     }
   },
@@ -3511,7 +3505,7 @@
   },
   {
     "translation": {
-      "en": "Yeah. It's cool.",
+      "en": "JACOB: Yeah. It's cool.",
       "es": "Sí, está bien."
     }
   },
@@ -3523,7 +3517,7 @@
   },
   {
     "translation": {
-      "en": "Let's go upstairs. Okay.",
+      "en": "LILY: Let's go upstairs. Okay.",
       "es": "Vamos arriba."
     }
   },
@@ -3583,13 +3577,13 @@
   },
   {
     "translation": {
-      "en": "Well, get ready.",
+      "en": "LOURDES: Well, get ready.",
       "es": "Pues prepárate."
     }
   },
   {
     "translation": {
-      "en": "Are you sure we shouldn't check with Jacob one more time?",
+      "en": "FRANKIE: Are you sure we shouldn't check with Jacob one more time?",
       "es": "¿Seguras que no deberíamos preguntarle a Jacob otra vez?"
     }
   },
@@ -3601,7 +3595,7 @@
   },
   {
     "translation": {
-      "en": "Maybe he changed his mind.",
+      "en": "FRANKIE: Maybe he changed his mind.",
       "es": "Tal vez cambió de parecer."
     }
   },
@@ -3721,7 +3715,7 @@
   },
   {
     "translation": {
-      "en": "You don't know. You don't.",
+      "en": "TIMMY: You don't know. You don't.",
       "es": "No lo sabes."
     }
   },
@@ -3763,7 +3757,7 @@
   },
   {
     "translation": {
-      "en": "It's okay.",
+      "en": "LILY: It's okay.",
       "es": "Está bien."
     }
   },
@@ -3895,7 +3889,7 @@
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "ADAM: Hello?",
       "es": "¡Hola!"
     }
   },
@@ -4015,13 +4009,13 @@
   },
   {
     "translation": {
-      "en": "Fine.",
+      "en": "JACOB: Fine.",
       "es": "Está bien."
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "HELEN: Thank you.",
       "es": "Gracias."
     }
   },
@@ -4159,7 +4153,7 @@
   },
   {
     "translation": {
-      "en": "Hey, Timmy!",
+      "en": "JACOB: Hey, Timmy!",
       "es": "¡Oye, Timmy!"
     }
   },
@@ -4225,7 +4219,7 @@
   },
   {
     "translation": {
-      "en": "Go, go",
+      "en": "♪ Go, go ♪",
       "es": "Timmy continuará... :)"
     }
   },
@@ -4237,7 +4231,7 @@
   },
   {
     "translation": {
-      "en": "I'm sorry. I'm so sorry.",
+      "en": "ISAIAH: I'm sorry. I'm so sorry.",
       "es": "Perdóname. Perdóname."
     }
   },
@@ -4249,7 +4243,7 @@
   },
   {
     "translation": {
-      "en": "What? Excuse me!",
+      "en": "GIRL: What? Excuse me!",
       "es": "¡Con permiso!"
     }
   },
@@ -4297,7 +4291,7 @@
   },
   {
     "translation": {
-      "en": "Lily.",
+      "en": "LOURDES: Lily.",
       "es": "Lily."
     }
   },
@@ -4483,7 +4477,7 @@
   },
   {
     "translation": {
-      "en": "I wanna talk today about weakness.",
+      "en": "ADAM: I wanna talk today about weakness.",
       "es": "Hoy quiero hablar sobre la debilidad."
     }
   },
@@ -4597,7 +4591,7 @@
   },
   {
     "translation": {
-      "en": "Can't sleep?",
+      "en": "ADAM: Can't sleep?",
       "es": "¿No puedes dormir?"
     }
   },
@@ -5011,7 +5005,7 @@
   },
   {
     "translation": {
-      "en": "You guys, she's not gonna harm anyone. She already did.",
+      "en": "LOURDES: You guys, she's not gonna harm anyone. She already did.",
       "es": "- Oigan, no va a lastimar a nadie. - Ya lo hizo."
     }
   },
@@ -5095,7 +5089,7 @@
   },
   {
     "translation": {
-      "en": "So mote it be.",
+      "en": "ALL: So mote it be.",
       "es": "Que así sea."
     }
   },
@@ -5317,7 +5311,7 @@
   },
   {
     "translation": {
-      "en": "T...",
+      "en": "LOURDES: T...",
       "es": "T..."
     }
   },
@@ -5337,12 +5331,6 @@
     "translation": {
       "en": "M...",
       "es": "...M..."
-    }
-  },
-  {
-    "translation": {
-      "en": "Y.",
-      "es": "Y."
     }
   },
   {
@@ -5409,12 +5397,6 @@
     "translation": {
       "en": "Which one?",
       "es": "¿Cuál de ellas?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Helen.",
-      "es": "Helen."
     }
   },
   {
@@ -5617,19 +5599,19 @@
   },
   {
     "translation": {
-      "en": "South.",
+      "en": "TABBY: South.",
       "es": "Sur."
     }
   },
   {
     "translation": {
-      "en": "East.",
+      "en": "LOURDES: East.",
       "es": "Este."
     }
   },
   {
     "translation": {
-      "en": "North.",
+      "en": "FRANKIE: North.",
       "es": "Norte."
     }
   },
@@ -5713,7 +5695,7 @@
   },
   {
     "translation": {
-      "en": "Frankie!",
+      "en": "LILY: Frankie!",
       "es": "¡Frankie!"
     }
   },
@@ -5731,7 +5713,7 @@
   },
   {
     "translation": {
-      "en": "It's just a joke.",
+      "en": "FRANKIE: It's just a joke.",
       "es": "Es solo una broma."
     }
   },
@@ -5773,7 +5755,7 @@
   },
   {
     "translation": {
-      "en": "Love you. FRANKIE: I love you.",
+      "en": "LILY: Love you. FRANKIE: I love you.",
       "es": "Te amo."
     }
   },

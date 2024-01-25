@@ -261,6 +261,7 @@ LANG_LIST = [
 START_INDEX = 0
 END_INDEX = 100
 LANGUAGE = "Japanese"
+LANGUAGE_CODE = {name: code for name, code in LANG_LIST}.get(LANGUAGE)
 NETFLIX_LINKS = []
 MOVIE_IDS = []
 
@@ -317,7 +318,7 @@ for i, link in enumerate(NETFLIX_LINKS):
             ) as file:
                 file.write(link + "\n")
 
-        elapsed_time = time.time() - start_time  # Calculate elapsed time
+        elapsed_time = time.time() - start_time
         print(
             f"Time taken for iteration {i}, film {MOVIE_IDS[i]}, translation en-{LANGUAGE_CODE}: {elapsed_time:.2f} seconds"
         )

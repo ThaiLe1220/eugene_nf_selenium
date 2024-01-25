@@ -35,9 +35,10 @@ def delete_invalid_translation_files(directory, lang_code):
 def clean_text(text):
     text = text.replace("♪ ", "")
     text = text.replace(" ♪", "")
-    text = text.replace("- -", " ")
     text = re.sub(r"\(.*?\)", "", text)
     text = re.sub(r"^[A-Z]+: ", "", text)
+    text = text.replace("- ", " ")
+    text = text.replace(" ", " ")
 
     return text.strip()
 
@@ -59,7 +60,7 @@ def clean_translations_data(directory, lang_code, movie_ids):
                 json.dump(data, file, indent=2, ensure_ascii=False)
 
 
-LANG_CODE = "es"
+LANG_CODE = "vi"
 DIRECTORY = f"../data/en-{LANG_CODE}"
 
 NETFLIX_LINKS = []

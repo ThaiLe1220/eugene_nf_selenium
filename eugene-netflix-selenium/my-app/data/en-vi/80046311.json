@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "-  Get down! Get down! -",
+      "en": "- (Swat 1) Get down! Get down! - (All yelling)",
       "vi": "Nằm xuống!"
     }
   },
   {
     "translation": {
-      "en": "Don't move!",
+      "en": "(Swat 2) Don't move!",
       "vi": "Cấm động đậy!"
     }
   },
@@ -25,19 +25,19 @@
   },
   {
     "translation": {
-      "en": "Where are the hostages? Where are the hostages?",
+      "en": "(Swat 3) Where are the hostages? Where are the hostages?",
       "vi": "Con tin đâu?"
     }
   },
   {
     "translation": {
-      "en": "FBI, Police! Don't move!  Down! Stay down!",
+      "en": "(Swat 4) FBI, Police! Don't move! (Swat 3) Down! Stay down!",
       "vi": "- FBI, cảnh sát! Cấm động đậy! - Nằm! Nằm xuống!"
     }
   },
   {
     "translation": {
-      "en": "Cross your legs!",
+      "en": "(Swat 2) Cross your legs!",
       "vi": "Vắt chân lại!"
     }
   },
@@ -49,7 +49,7 @@
   },
   {
     "translation": {
-      "en": "Police! Don't move! Police! Don't move!",
+      "en": "(Swat 4) Police! Don't move! Police! Don't move!",
       "vi": "Cảnh sát đây! Cấm động đậy!"
     }
   },
@@ -61,13 +61,13 @@
   },
   {
     "translation": {
-      "en": "-  Clear! - Police! Search warrant. Don't move!",
+      "en": "- (Kate) Clear! - Police! Search warrant. Don't move!",
       "vi": "- Trống! - Cảnh sát! Lệnh khám. Cấm động đậy!"
     }
   },
   {
     "translation": {
-      "en": "- Steppin' out! -  Police, don't move!",
+      "en": "- Steppin' out! - (Swat 5) Police, don't move!",
       "vi": "- Đang ra! - Cảnh sát, cấm động đậy!"
     }
   },
@@ -79,13 +79,13 @@
   },
   {
     "translation": {
-      "en": "FBI!",
+      "en": "(Kate) FBI!",
       "vi": "FBI!"
     }
   },
   {
     "translation": {
-      "en": "Are you hit?",
+      "en": "(Man) Are you hit?",
       "vi": "Trúng đạn không?"
     }
   },
@@ -103,25 +103,25 @@
   },
   {
     "translation": {
-      "en": "Front room, clear!",
+      "en": "(Swat 2) Front room, clear!",
       "vi": "Phòng trước, trống!"
     }
   },
   {
     "translation": {
-      "en": "Team leader! Status?",
+      "en": "(Kate) Team leader! Status?",
       "vi": "Đội trưởng! Tình trạng?"
     }
   },
   {
     "translation": {
-      "en": "Front clear!  We're clear, ma'am! Two suspects in custody!",
+      "en": "(Swat 6) Front clear! (Leader) We're clear, ma'am! Two suspects in custody!",
       "vi": "- Phòng trước trống! - Đã bắt hai nghi phạm!"
     }
   },
   {
     "translation": {
-      "en": "-  You OK, Macer? - Yeah.",
+      "en": "- (Reggie) You OK, Macer? - Yeah.",
       "vi": "- Ổn không, Macer? - Ổn."
     }
   },
@@ -133,7 +133,7 @@
   },
   {
     "translation": {
-      "en": "Whoa.",
+      "en": "(Reggie) Whoa.",
       "vi": "Ô."
     }
   },
@@ -145,7 +145,7 @@
   },
   {
     "translation": {
-      "en": "-  Jesus! -",
+      "en": "- (Kate) Jesus! - (Retching)",
       "vi": "Chúa ơi!"
     }
   },
@@ -163,7 +163,7 @@
   },
   {
     "translation": {
-      "en": "-  Macer? - Yeah?",
+      "en": "- (Leader) Macer? - Yeah?",
       "vi": "- Macer? - Ừ?"
     }
   },
@@ -235,19 +235,19 @@
   },
   {
     "translation": {
-      "en": "Vickers! I need bolt cutters!",
+      "en": "(Officer) Vickers! I need bolt cutters!",
       "vi": "Vickers! Tôi cần kìm cắt sắt!"
     }
   },
   {
     "translation": {
-      "en": "Vickers!  PD found something.",
+      "en": "Vickers! (Jennings) PD found something.",
       "vi": "- Vickers! - Sở cảnh sát thấy gì kìa."
     }
   },
   {
     "translation": {
-      "en": "Relax.",
+      "en": "(Softly) Relax.",
       "vi": "Bình tĩnh."
     }
   },
@@ -259,7 +259,7 @@
   },
   {
     "translation": {
-      "en": "Such a heavy body count this close to Phoenix",
+      "en": "(Male newsreader) Such a heavy body count this close to Phoenix",
       "vi": "Số lượng thi thể lớn như vậy, ở rất gần Phoenix"
     }
   },
@@ -301,7 +301,7 @@
   },
   {
     "translation": {
-      "en": "What's goin' on?",
+      "en": "(Reggie) What's goin' on?",
       "vi": "Chuyện gì thế này?"
     }
   },
@@ -313,7 +313,7 @@
   },
   {
     "translation": {
-      "en": "She's been leading our kidnap response team for three years.",
+      "en": "(Jennings) She's been leading our kidnap response team for three years.",
       "vi": "Cô ấy chỉ huy đội ứng phó bắt cóc ba năm rồi."
     }
   },
@@ -337,7 +337,7 @@
   },
   {
     "translation": {
-      "en": "5- and- 0, not bad for a rookie. She never worked cases?",
+      "en": "(Matt) 5- and- 0, not bad for a rookie. She never worked cases?",
       "vi": "Thắng cả năm, tân binh mà khá nhỉ. Chưa điều tra bao giờ à?"
     }
   },
@@ -373,7 +373,7 @@
   },
   {
     "translation": {
-      "en": "- He's green, but he's good. -  No lawyers on this train. Just give me the girl.",
+      "en": "- He's green, but he's good. - (Matt sighs) No lawyers on this train. Just give me the girl.",
       "vi": "- Cậu ấy non nhưng không xanh. - Luật sư thì xin kiếu. Xin cô kia thôi."
     }
   },
@@ -433,13 +433,13 @@
   },
   {
     "translation": {
-      "en": "Manuel Diaz works for the Sonora Cartel. He's most likely their senior member in the United States.",
+      "en": "(Burnett) Manuel Diaz works for the Sonora Cartel. He's most likely their senior member in the United States.",
       "vi": "Manuel Diaz làm cho băng Sonora, khả năng cao là thành viên cấp cao của chúng ở Mỹ."
     }
   },
   {
     "translation": {
-      "en": "What do you know about his brother?",
+      "en": "(Matt) What do you know about his brother?",
       "vi": "Cô biết gì về anh hắn?"
     }
   },
@@ -469,7 +469,7 @@
   },
   {
     "translation": {
-      "en": "He's number three in the Sonora Cartel. This is not my department, sir.",
+      "en": "(Burnett) He's number three in the Sonora Cartel. This is not my department, sir.",
       "vi": "- Hắn đứng thứ ba trong băng Sonora. - Đây không thuộc chuyên môn của tôi ạ."
     }
   },
@@ -529,25 +529,25 @@
   },
   {
     "translation": {
-      "en": "Who are those people? You know?",
+      "en": "(Reggie) Who are those people? You know?",
       "vi": "Những ai đây? Cô biết chứ?"
     }
   },
   {
     "translation": {
-      "en": "No idea.",
+      "en": "(Kate) No idea.",
       "vi": "Tôi chịu."
     }
   },
   {
     "translation": {
-      "en": "Thanks for coming in, guys.",
+      "en": "(Burnett) Thanks for coming in, guys.",
       "vi": "Cảm ơn các anh đã đến."
     }
   },
   {
     "translation": {
-      "en": "Will you come back in, Kate?",
+      "en": "(Phil clears throat) Will you come back in, Kate?",
       "vi": "Cô lại vào nhé, Kate?"
     }
   },
@@ -559,7 +559,7 @@
   },
   {
     "translation": {
-      "en": "This is Matt Graver. He'll be leading the team.  Isn't this Phoenix homicide now?",
+      "en": "This is Matt Graver. He'll be leading the team. (Kate) Isn't this Phoenix homicide now?",
       "vi": "- Đây là Matt Graver. Cậu ấy sẽ lãnh đội. - Giờ nó là án mạng của Phoenix rồi mà?"
     }
   },
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "-  Day after. Early. - Air Force Base?",
+      "en": "- (Matt) Day after. Early. - Air Force Base?",
       "vi": "- Ngày kia. Sớm. - Căn cứ Không Quân?"
     }
   },
@@ -679,7 +679,7 @@
   },
   {
     "translation": {
-      "en": "Papa!",
+      "en": "(Boy) Papa!",
       "vi": "Bố!"
     }
   },
@@ -691,7 +691,7 @@
   },
   {
     "translation": {
-      "en": "Wake up",
+      "en": "(Both speaking Spanish) Wake up",
       "vi": "Dậy đi bố. Được rồi."
     }
   },
@@ -721,7 +721,7 @@
   },
   {
     "translation": {
-      "en": "Yes, Dad, we have to",
+      "en": "(Speaking Spanish) Yes, Dad, we have to",
       "vi": "Có mà bố, ta phải đi."
     }
   },
@@ -733,13 +733,13 @@
   },
   {
     "translation": {
-      "en": "Mama, make coffee and eggs for Papa  Yes, my love",
+      "en": "Mama, make coffee and eggs for Papa (Speaking Spanish) Yes, my love",
       "vi": "- Mẹ, pha cà phê và làm trứng cho bố nhé. - Ừ, cưng."
     }
   },
   {
     "translation": {
-      "en": "You keep an eye on that doughy prick - with the flip- flops. -",
+      "en": "(Reggie) You keep an eye on that doughy prick - with the flip- flops. - (Scoffs)",
       "vi": "Cẩn thận tay bị thịt đi dép tông đó nhé."
     }
   },
@@ -769,7 +769,7 @@
   },
   {
     "translation": {
-      "en": "I'll call you when we're headed back. - All right. -",
+      "en": "I'll call you when we're headed back. - All right. - (Car door closes)",
       "vi": "- Bao giờ về tôi gọi cậu. - Ừ."
     }
   },
@@ -823,7 +823,7 @@
   },
   {
     "translation": {
-      "en": "Kate Macer.",
+      "en": "(Kate) Kate Macer.",
       "vi": "Kate Macer."
     }
   },
@@ -841,7 +841,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, amazing. OK.",
+      "en": "(Groggily) Yeah, amazing. OK.",
       "vi": "Ờ, hay lắm. Ừ."
     }
   },
@@ -913,13 +913,13 @@
   },
   {
     "translation": {
-      "en": "Howdy! How you been?",
+      "en": "(Steve) Howdy! How you been?",
       "vi": "Chào! Anh khỏe không?"
     }
   },
   {
     "translation": {
-      "en": "Good, buddy. How you feelin'?",
+      "en": "(Matt) Good, buddy. How you feelin'?",
       "vi": "Khỏe, anh bạn ạ. Cậu sao rồi?"
     }
   },
@@ -931,7 +931,7 @@
   },
   {
     "translation": {
-      "en": "Maybe it's gonorrhoea.",
+      "en": "(Matt) Maybe it's gonorrhoea.",
       "vi": "Hay cậu bị lậu rồi."
     }
   },
@@ -943,37 +943,37 @@
   },
   {
     "translation": {
-      "en": "Yellow with red specks.",
+      "en": "(Steve) Yellow with red specks.",
       "vi": "Vàng, có hạt đỏ."
     }
   },
   {
     "translation": {
-      "en": "Red specks or blood?",
+      "en": "(Matt) Red specks or blood?",
       "vi": "Hạt đỏ hay máu?"
     }
   },
   {
     "translation": {
-      "en": "I'm tryin' to get DOD to let me look into this conspiracy to sink Fiji.",
+      "en": "(Matt) I'm tryin' to get DOD to let me look into this conspiracy to sink Fiji.",
       "vi": "Tôi đang cố xin Bộ Quốc phòng cho tôi điều tra âm mưu đánh chìm Fiji."
     }
   },
   {
     "translation": {
-      "en": "Fiji?  Yeah.",
+      "en": "(Steve) Fiji? (Matt) Yeah.",
       "vi": "- Fiji á? - Ừ."
     }
   },
   {
     "translation": {
-      "en": "Leave Fiji alone, terrorists!",
+      "en": "(Steve) Leave Fiji alone, terrorists!",
       "vi": "Tha cho Fiji đi khủng bố!"
     }
   },
   {
     "translation": {
-      "en": "Yeah. Exactly. I figure a month or two over there, we'll get it all worked out.",
+      "en": "(Matt) Yeah. Exactly. I figure a month or two over there, we'll get it all worked out.",
       "vi": "Ờ. Chuẩn. Tôi nghĩ đến đó một, hai tháng là ta lo xong hết."
     }
   },
@@ -997,25 +997,25 @@
   },
   {
     "translation": {
-      "en": "Oh, they're a crack bunch, too. Just rotated back from Afghanistan.",
+      "en": "(Steve) Oh, they're a crack bunch, too. Just rotated back from Afghanistan.",
       "vi": "Đám đó thiện chiến nữa. Mới luân chuyển từ Afghanistan về."
     }
   },
   {
     "translation": {
-      "en": "Wow. Where's everybody linking up?  A.I.C.",
+      "en": "(Matt) Wow. Where's everybody linking up? (Steve) A.I.C.",
       "vi": "- Ái chà. Cả lũ tụ tập ở đâu thế? - Trung tâm Tình báo Di động."
     }
   },
   {
     "translation": {
-      "en": "Good, good, good.",
+      "en": "(Matt) Good, good, good.",
       "vi": "Tốt."
     }
   },
   {
     "translation": {
-      "en": "Mexican Federal Police will meet you at the border",
+      "en": "(Man) Mexican Federal Police will meet you at the border",
       "vi": "Cảnh sát Liên bang Mexico gặp ở biên giới"
     }
   },
@@ -1081,7 +1081,7 @@
   },
   {
     "translation": {
-      "en": "You sober?",
+      "en": "(Keith) You sober?",
       "vi": "Hết say chưa?"
     }
   },
@@ -1093,13 +1093,13 @@
   },
   {
     "translation": {
-      "en": "Got a bottle in the truck in case your hands get shaky.  I know I could always count on you, Keith.",
+      "en": "Got a bottle in the truck in case your hands get shaky. (Matt) I know I could always count on you, Keith.",
       "vi": "- Xe tôi có một chai đề phòng cậu run tay. - Biết tôi luôn tin được anh mà, Keith."
     }
   },
   {
     "translation": {
-      "en": "All right, we'll gear you up as soon as we're done here.",
+      "en": "(Man) All right, we'll gear you up as soon as we're done here.",
       "vi": "Xong là bọn tôi trang bị ngay."
     }
   },
@@ -1171,19 +1171,19 @@
   },
   {
     "translation": {
-      "en": "Hey! I thought you were in prison.",
+      "en": "(Keith) Hey! I thought you were in prison.",
       "vi": "Này! Tôi tưởng cậu đang trong tù."
     }
   },
   {
     "translation": {
-      "en": "-  They took me out. -   They needed somebody for this job.",
+      "en": "- (Ranger) They took me out. - (Laughs) (Ranger) They needed somebody for this job.",
       "vi": "- Họ cho tôi ra rồi. - Họ cần người làm vụ này mà."
     }
   },
   {
     "translation": {
-      "en": "For good behaviour or bad behaviour?",
+      "en": "(Keith) For good behaviour or bad behaviour?",
       "vi": "Nhờ cải tạo tốt hay không tốt đấy?"
     }
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "There she is.",
+      "en": "(Steve) There she is.",
       "vi": "Nó kia rồi."
     }
   },
@@ -1429,7 +1429,7 @@
   },
   {
     "translation": {
-      "en": "Think he felt safe?",
+      "en": "Think he felt safe? (Scoffs)",
       "vi": "Ông ta có thấy an toàn không?"
     }
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "translation": {
-      "en": "You hear that?",
+      "en": "(Steve) You hear that?",
       "vi": "Nghe thấy không?"
     }
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "translation": {
-      "en": "Mexicans are adjusting our route. There's activity ahead, we need to go around. Everyone hold on.",
+      "en": "(Matt on radio) Mexicans are adjusting our route. There's activity ahead, we need to go around. Everyone hold on.",
       "vi": "Người Mexico đang đổi lộ trình. Đằng trước có biến, ta phải đi vòng. Tất cả chờ lệnh."
     }
   },
@@ -1513,19 +1513,19 @@
   },
   {
     "translation": {
-      "en": "Spotter vehicle, nine o'clock.",
+      "en": "(Man 1 on radio) Spotter vehicle, nine o'clock.",
       "vi": "Xe chỉ điểm, hướng chín giờ."
     }
   },
   {
     "translation": {
-      "en": "I'm gettin' a boner.",
+      "en": "(Steve) I'm gettin' a boner.",
       "vi": "Tôi hứng lên rồi đấy."
     }
   },
   {
     "translation": {
-      "en": "Is that one of ours?",
+      "en": "(Man 1) Is that one of ours?",
       "vi": "Xe đó của ta à?"
     }
   },
@@ -1537,19 +1537,19 @@
   },
   {
     "translation": {
-      "en": "No, that's a lone wolf.",
+      "en": "(Matt) No, that's a lone wolf.",
       "vi": "Không, nó đi một mình."
     }
   },
   {
     "translation": {
-      "en": "Eyes on rooftops.",
+      "en": "(Man 1) Eyes on rooftops.",
       "vi": "Canh chừng mái nhà."
     }
   },
   {
     "translation": {
-      "en": "Nothing.",
+      "en": "(Man 2) Nothing.",
       "vi": "Không có gì."
     }
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "translation": {
-      "en": "Bridge is one klick out.",
+      "en": "(Pilot on radio) Bridge is one klick out.",
       "vi": "Còn cách cầu một cây số."
     }
   },
@@ -1573,25 +1573,25 @@
   },
   {
     "translation": {
-      "en": "Everyone stay in this lane. Our agents at the border are waving traffic through to get us over as quickly as they can.",
+      "en": "(Matt) Everyone stay in this lane. Our agents at the border are waving traffic through to get us over as quickly as they can.",
       "vi": "Tất cả theo làn này. Đặc vụ ở biên giới đang thông xe nhanh nhất có thể để ta qua."
     }
   },
   {
     "translation": {
-      "en": "Everyone stay frosty.",
+      "en": "(Man 1) Everyone stay frosty.",
       "vi": "Tất cả cảnh giác nhé."
     }
   },
   {
     "translation": {
-      "en": "OK, it's a fuck- up. What are we gonna do now?",
+      "en": "(Man 2) OK, it's a fuck- up. What are we gonna do now?",
       "vi": "Thôi, hỏng rồi. Ta làm gì đây?"
     }
   },
   {
     "translation": {
-      "en": "Here's the deal, a car broke down up ahead.",
+      "en": "(Pilot) Here's the deal, a car broke down up ahead.",
       "vi": "Thế này, phía trước có một xe bị hỏng."
     }
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "translation": {
-      "en": "Roger that.",
+      "en": "(Man 1) Roger that.",
       "vi": "Rõ."
     }
   },
@@ -1639,31 +1639,31 @@
   },
   {
     "translation": {
-      "en": "Gun.",
+      "en": "(Alejandro) Gun.",
       "vi": "Có súng."
     }
   },
   {
     "translation": {
-      "en": "Gun. Gun left!  What are the rules here?",
+      "en": "Gun. Gun left! (Matt) What are the rules here?",
       "vi": "- Có súng. Bên trái có súng! - Luật ở đây là gì?"
     }
   },
   {
     "translation": {
-      "en": "We must be engaged to engage.",
+      "en": "(Man 1) We must be engaged to engage.",
       "vi": "Ta bị bắn thì mới được nổ súng."
     }
   },
   {
     "translation": {
-      "en": "Permission to get out of the vehicle and set a perimeter?",
+      "en": "(Man 2) Permission to get out of the vehicle and set a perimeter?",
       "vi": "Xin phép xuống xe và lập vành đai?"
     }
   },
   {
     "translation": {
-      "en": "Stay in your vehicle.",
+      "en": "(Man 1) Stay in your vehicle.",
       "vi": "Ở yên trên xe."
     }
   },
@@ -1675,13 +1675,13 @@
   },
   {
     "translation": {
-      "en": "Get ready. They can see our lane clearing. If it's coming, it's coming now.",
+      "en": "(Man 2) Get ready. They can see our lane clearing. If it's coming, it's coming now.",
       "vi": "Chuẩn bị đi. Chúng thấy làn ta sắp thông. Nếu có, giờ chúng sẽ tấn công."
     }
   },
   {
     "translation": {
-      "en": "Move!  Wait, wait, wait.",
+      "en": "(Man 1) Move! (Kate) Wait, wait, wait.",
       "vi": "- Đi! - Khoan."
     }
   },
@@ -1699,7 +1699,7 @@
   },
   {
     "translation": {
-      "en": "Don't move! Cálmate!",
+      "en": "(Delta leader) Don't move! Cálmate!",
       "vi": "Đứng im! Bình tĩnh!"
     }
   },
@@ -1711,7 +1711,7 @@
   },
   {
     "translation": {
-      "en": "In peace, in peace",
+      "en": "(Speaking Spanish) In peace, in peace",
       "vi": "Trong hòa bình."
     }
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "translation": {
-      "en": "Lane's clear! The lane's clear!  Don't look at me!",
+      "en": "(Delta 1) Lane's clear! The lane's clear! (Delta leader) Don't look at me!",
       "vi": "- Làn thông! Làn đường thông! - Cấm nhìn tao!"
     }
   },
@@ -1753,7 +1753,7 @@
   },
   {
     "translation": {
-      "en": "All clear!  I got this!",
+      "en": "(Delta 2) All clear! (Delta 3) I got this!",
       "vi": "- Trống rồi! - Để tôi!"
     }
   },
@@ -1765,13 +1765,13 @@
   },
   {
     "translation": {
-      "en": "Move, move, move!",
+      "en": "(Delta leader) Move, move, move!",
       "vi": "Đi!"
     }
   },
   {
     "translation": {
-      "en": "This is gonna be on the front page",
+      "en": "(Man 2 on radio) This is gonna be on the front page",
       "vi": "Vụ này sẽ lên trang nhất"
     }
   },
@@ -1783,7 +1783,7 @@
   },
   {
     "translation": {
-      "en": "No, it won't. It won't even make the papers in El Paso.",
+      "en": "(Steve chuckles) No, it won't. It won't even make the papers in El Paso.",
       "vi": "Không đâu. Đến báo ở El Paso cũng chả đưa tin đâu."
     }
   },
@@ -1801,13 +1801,13 @@
   },
   {
     "translation": {
-      "en": "Got a little nutty, huh?",
+      "en": "(Matt) Got a little nutty, huh?",
       "vi": "Ban nãy hơi loạn, nhỉ?"
     }
   },
   {
     "translation": {
-      "en": "Nutty? Yeah. Yeah, that was fucking illegal.",
+      "en": "(Kate) Nutty? Yeah. Yeah, that was fucking illegal.",
       "vi": "Loạn? Ờ. Ờ, phạm pháp thì có."
     }
   },
@@ -1909,13 +1909,13 @@
   },
   {
     "translation": {
-      "en": "No hablo Inglés.  No hablo Inglés?",
+      "en": "No hablo Inglés. (Matt) No hablo Inglés?",
       "vi": "- Tao không biết tiếng Anh. - Mày không biết á?"
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Matt speaks Spanish)",
       "vi": "Không hay đâu."
     }
   },
@@ -1939,7 +1939,7 @@
   },
   {
     "translation": {
-      "en": "I didn't know ghosts got thirsty.",
+      "en": "(Rafael) I didn't know ghosts got thirsty.",
       "vi": "Tôi không ngờ ma cũng biết khát đấy."
     }
   },
@@ -1963,19 +1963,19 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Speaking Spanish)",
       "vi": "Không."
     }
   },
   {
     "translation": {
-      "en": "It's not your fault.",
+      "en": "(In English) It's not your fault.",
       "vi": "Đâu phải tại anh."
     }
   },
   {
     "translation": {
-      "en": "How is your wife?",
+      "en": "(Both speaking Spanish) How is your wife?",
       "vi": "Vợ anh sao rồi? Cô ấy khỏe… bọn tôi có hai thằng cu rồi, một đứa sáu, một đứa tám tuổi."
     }
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "translation": {
-      "en": "It's great to see you're still in the fight",
+      "en": "(Both speaking Spanish) It's great to see you're still in the fight",
       "vi": "Thấy anh vẫn chiến đấu là tôi mừng rồi."
     }
   },
@@ -2077,19 +2077,19 @@
   },
   {
     "translation": {
-      "en": "I'm gonna step out.",
+      "en": "(Steve) I'm gonna step out.",
       "vi": "Tôi ra ngoài đây."
     }
   },
   {
     "translation": {
-      "en": "Now you'll learn what's hell in Yankee land",
+      "en": "(Speaking Spanish) Now you'll learn what's hell in Yankee land",
       "vi": "Giờ mày sẽ biết thế nào là địa ngục ở đất Mỹ."
     }
   },
   {
     "translation": {
-      "en": "No, Medellín",
+      "en": "(Guillermo speaking Spanish) No, Medellín",
       "vi": "Đừng, Medellín."
     }
   },
@@ -2107,7 +2107,7 @@
   },
   {
     "translation": {
-      "en": "No, no.",
+      "en": "(Guillermo) No, no.",
       "vi": "Đừng."
     }
   },
@@ -2149,19 +2149,19 @@
   },
   {
     "translation": {
-      "en": "Unbelievable.",
+      "en": "(Kate) Unbelievable.",
       "vi": "Không thể tin được."
     }
   },
   {
     "translation": {
-      "en": "That's what happens when you chop the head off a chicken.",
+      "en": "(Man) That's what happens when you chop the head off a chicken.",
       "vi": "Cô kích động là sẽ thế này đấy."
     }
   },
   {
     "translation": {
-      "en": "-  Yeah. -",
+      "en": "- (Kate) Yeah. - (Sirens wailing)",
       "vi": "Ừ."
     }
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "translation": {
-      "en": "Can you get 'em all in one place? We just landed back in Phoenix. I'm on a clock, I can't wait.",
+      "en": "(Matt) Can you get 'em all in one place? We just landed back in Phoenix. I'm on a clock, I can't wait.",
       "vi": "Tập trung hết lại một chỗ đi? Bọn tôi vừa đáp về Phoenix. Tôi đang vội, chả chờ nổi."
     }
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "translation": {
-      "en": "Yeah. How long does it take to get to Tucson?  Um, from here it's a little over two hours.",
+      "en": "Yeah. How long does it take to get to Tucson? (Kate) Um, from here it's a little over two hours.",
       "vi": "- Ừ. Đến Tucson mất bao lâu? - Đi từ đây thì hơn hai tiếng một chút."
     }
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "translation": {
-      "en": "Are we going to Tucson? Yeah, you gotta learn how to sleep on a plane.",
+      "en": "(Kate) Are we going to Tucson? Yeah, you gotta learn how to sleep on a plane.",
       "vi": "- Ta đến Tucson à? - Ờ, cô phải học cách ngủ trên máy bay đi."
     }
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "translation": {
-      "en": "- She's fine. -  I didn't ask you.",
+      "en": "- She's fine. - (Reggie) I didn't ask you.",
       "vi": "- Ổn. - Tôi đâu hỏi anh."
     }
   },
@@ -2221,7 +2221,7 @@
   },
   {
     "translation": {
-      "en": "Kate,",
+      "en": "(Whispers) Kate,",
       "vi": "Kate,"
     }
   },
@@ -2239,7 +2239,7 @@
   },
   {
     "translation": {
-      "en": "What's the deal, Matt? Why you holdin' up my transport?  Don't worry, Bob. We'll be quick.",
+      "en": "(Bob) What's the deal, Matt? Why you holdin' up my transport? (Matt) Don't worry, Bob. We'll be quick.",
       "vi": "- Gì thế, Matt? Sao cậu giữ xe tôi? - Yên tâm, Bob. Bọn tôi làm nhanh."
     }
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "translation": {
-      "en": "I guess we're not following any procedures. What do you wanna do?",
+      "en": "(Bob) I guess we're not following any procedures. What do you wanna do?",
       "vi": "Chắc ta không làm theo quy trình gì đâu hả. Cậu muốn làm gì?"
     }
   },
@@ -2317,19 +2317,19 @@
   },
   {
     "translation": {
-      "en": "Josef!",
+      "en": "(Bob) Josef!",
       "vi": "Josef!"
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Speaking Spanish)",
       "vi": "Chú ý!"
     }
   },
   {
     "translation": {
-      "en": "Everyone from Nogales, groups A, D, E",
+      "en": "(Josef speaking Spanish) Everyone from Nogales, groups A, D, E",
       "vi": "Tất cả những ai ở Nogales, nhóm A, D, E."
     }
   },
@@ -2359,13 +2359,13 @@
   },
   {
     "translation": {
-      "en": "On the bus. Ándale.",
+      "en": "(Bob) On the bus. Ándale.",
       "vi": "Lên xe buýt đi. Mau."
     }
   },
   {
     "translation": {
-      "en": "Now!",
+      "en": "(Josef speaking Spanish) Now!",
       "vi": "Mau lên!"
     }
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "translation": {
-      "en": "From this group here",
+      "en": "(Alejandro speaking Spanish) From this group here",
       "vi": "Trong nhóm này."
     }
   },
@@ -2407,13 +2407,13 @@
   },
   {
     "translation": {
-      "en": "-  In Arizona. - Arizona.",
+      "en": "- (Man 1) In Arizona. - Arizona.",
       "vi": "- Arizona ạ. - Arizona à."
     }
   },
   {
     "translation": {
-      "en": "Are you married?",
+      "en": "(Both speaking Spanish) Are you married?",
       "vi": "Anh có vợ chưa?"
     }
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "translation": {
-      "en": "Sí.",
+      "en": "(Man 1) Sí.",
       "vi": "Rồi ạ."
     }
   },
@@ -2467,7 +2467,7 @@
   },
   {
     "translation": {
-      "en": "Alejandro",
+      "en": "(Man 2 speaking Spanish) Alejandro",
       "vi": "Alejandro ạ."
     }
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "translation": {
-      "en": "-  Arizona. - Arizona...",
+      "en": "- (Man 1) Arizona. - Arizona...",
       "vi": "- Arizona ạ. - Arizona à…"
     }
   },
@@ -2581,7 +2581,7 @@
   },
   {
     "translation": {
-      "en": "-  What do you wanna know? - Everything.",
+      "en": "- (Matt) What do you wanna know? - Everything.",
       "vi": "- Cậu muốn biết gì? - Tất cả."
     }
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "translation": {
-      "en": "- That better? -  And Guillermo is...",
+      "en": "- That better? - (Reggie) And Guillermo is...",
       "vi": "- Vui hơn chưa? - Và Guillermo là…"
     }
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "translation": {
-      "en": "Just tell us the truth, man.",
+      "en": "(Reggie) Just tell us the truth, man.",
       "vi": "Nói thật luôn đi, anh bạn."
     }
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "translation": {
-      "en": "And then?",
+      "en": "(Reggie) And then?",
       "vi": "Lúc đó thì sao?"
     }
   },
@@ -2737,7 +2737,7 @@
   },
   {
     "translation": {
-      "en": "Hey!",
+      "en": "(Matt) Hey!",
       "vi": "Ê!"
     }
   },
@@ -2761,7 +2761,7 @@
   },
   {
     "translation": {
-      "en": "It's a fucking blessing, trust me.",
+      "en": "(Kate) It's a fucking blessing, trust me.",
       "vi": "Thế này là may đấy, tin tôi đi."
     }
   },
@@ -2773,13 +2773,13 @@
   },
   {
     "translation": {
-      "en": "Who the fuck's Guillermo?",
+      "en": "(Reggie) Who the fuck's Guillermo?",
       "vi": "Guillermo là tay nào?"
     }
   },
   {
     "translation": {
-      "en": "Come and eat. Let's get ready for school",
+      "en": "(Speaking Spanish) Come and eat. Let's get ready for school",
       "vi": "Ra ăn đi con. Còn chuẩn bị đi học."
     }
   },
@@ -2863,7 +2863,7 @@
   },
   {
     "translation": {
-      "en": "He's a DOD advisor. You really believe that?",
+      "en": "(Kate) He's a DOD advisor. You really believe that?",
       "vi": "- Anh ta là cố vấn của Bộ Quốc phòng mà. - Cô tin thật à?"
     }
   },
@@ -2911,19 +2911,19 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Alejandro speaking Spanish)",
       "vi": "Không đi qua las Pajaritas được à."
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Door closes)",
       "vi": "Không đi qua đó được."
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Both speaking Spanish)",
       "vi": "Ta đi qua Los Caballeros được không?"
     }
   },
@@ -2935,7 +2935,7 @@
   },
   {
     "translation": {
-      "en": "You can",
+      "en": "(Speaking Spanish) You can",
       "vi": "Đi qua được. Nhưng bọn buôn người ở đó ranh lắm."
     }
   },
@@ -2953,7 +2953,7 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Speaking Spanish)",
       "vi": "Las Pajaritas."
     }
   },
@@ -2965,13 +2965,13 @@
   },
   {
     "translation": {
-      "en": "-  No way! No, no. -",
+      "en": "- (All) No way! No, no. - (Man laughing)",
       "vi": "Không được đâu! Thôi. Không đời nào!"
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Man 1 speaking Spanish)",
       "vi": "Đấy là đất ma túy đấy."
     }
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "translation": {
-      "en": "For years it was the best place to cross",
+      "en": "(Man 1 speaking Spanish) For years it was the best place to cross",
       "vi": "Đó từng là điểm tốt nhất để vượt biên suốt nhiều năm."
     }
   },
@@ -3025,7 +3025,7 @@
   },
   {
     "translation": {
-      "en": "Can you mark the trail to the tunnel?",
+      "en": "(Speaking Spanish) Can you mark the trail to the tunnel?",
       "vi": "Anh đánh dấu đường vào đường hầm được không?"
     }
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "translation": {
-      "en": "That's our way across.",
+      "en": "(Alejandro) That's our way across.",
       "vi": "Lối đi qua của ta đấy."
     }
   },
@@ -3085,13 +3085,13 @@
   },
   {
     "translation": {
-      "en": "This is our Smurf, guys. Blonde hair, white purse.",
+      "en": "(Matt) This is our Smurf, guys. Blonde hair, white purse.",
       "vi": "Ả rửa tiền của ta đấy, anh em. Tóc vàng, túi trắng."
     }
   },
   {
     "translation": {
-      "en": "- You know the Heimlich? -  Oh, yeah.",
+      "en": "- You know the Heimlich? - (Jessie) Oh, yeah.",
       "vi": "- Biết chữa nghẹn không? - Có."
     }
   },
@@ -3127,13 +3127,13 @@
   },
   {
     "translation": {
-      "en": "Hold still! Hold still!",
+      "en": "(Jessie) Hold still! Hold still!",
       "vi": "Nằm im!"
     }
   },
   {
     "translation": {
-      "en": "-  - Whoa!",
+      "en": "- (Grunts) - Whoa!",
       "vi": "Ấy!"
     }
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "translation": {
-      "en": "- What you got? -",
+      "en": "- What you got? - (Clatters)",
       "vi": "Thấy gì rồi?"
     }
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "translation": {
-      "en": "Come on. Come on!",
+      "en": "(Grunts) Come on. Come on!",
       "vi": "Dậy!"
     }
   },
@@ -3193,13 +3193,13 @@
   },
   {
     "translation": {
-      "en": "These are all Manuel Diaz's accounts?",
+      "en": "(Kate) These are all Manuel Diaz's accounts?",
       "vi": "Tài khoản của Manuel Diaz cả à?"
     }
   },
   {
     "translation": {
-      "en": "Yeah. Cash deposits made daily in $9,000 increments.",
+      "en": "(Man) Yeah. Cash deposits made daily in $9,000 increments.",
       "vi": "Ừ. Tiền mặt gửi vào hàng ngày, số tăng là 9.000 đô la."
     }
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "translation": {
-      "en": "Oh, damn, that's smart.  What?",
+      "en": "(Man) Oh, damn, that's smart. (Kate) What?",
       "vi": "- Khỉ thật, khôn đấy. - Sao?"
     }
   },
@@ -3325,7 +3325,7 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "(Manuel) What?",
       "vi": "Cái gì?"
     }
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "translation": {
-      "en": "Do you?",
+      "en": "(Jennings) Do you?",
       "vi": "Cậu thì sao?"
     }
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "translation": {
-      "en": "And that's the purpose of people like Matt.  Kate, this isn't something that I dreamed up myself.",
+      "en": "And that's the purpose of people like Matt. (Jennings) Kate, this isn't something that I dreamed up myself.",
       "vi": "- Đó là mục đích của những người như Matt. - Kate, tôi không tự vẽ ra vụ này đâu."
     }
   },
@@ -3517,7 +3517,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "(Kate) Yes, sir.",
       "vi": "Rồi ạ."
     }
   },
@@ -3547,7 +3547,7 @@
   },
   {
     "translation": {
-      "en": "-  What'll it be? - Two beers.",
+      "en": "- (Bartender) What'll it be? - Two beers.",
       "vi": "- Cô dùng gì? - Hai chai bia."
     }
   },
@@ -3565,7 +3565,7 @@
   },
   {
     "translation": {
-      "en": "Macer?",
+      "en": "(Exhales) Macer?",
       "vi": "Macer này?"
     }
   },
@@ -3589,7 +3589,7 @@
   },
   {
     "translation": {
-      "en": "OK... - Cos you look like shit. -",
+      "en": "OK... - Cos you look like shit. - (Laughs)",
       "vi": "- Rồi… - Vì trông cô chán đời lắm."
     }
   },
@@ -3673,13 +3673,13 @@
   },
   {
     "translation": {
-      "en": "-  - What are you talking about? I got a trailer, I got a wife. She's my sister.",
+      "en": "- (Chuckles) - What are you talking about? I got a trailer, I got a wife. She's my sister.",
       "vi": "- Cậu nói gì đấy? - Tôi có xe, có vợ, là chị tôi."
     }
   },
   {
     "translation": {
-      "en": "Big Reg.",
+      "en": "(Man) Big Reg.",
       "vi": "Reg Bự đấy à."
     }
   },
@@ -3691,13 +3691,13 @@
   },
   {
     "translation": {
-      "en": "- Long time. How you been? -  Yeah, it's good to see you, man.",
+      "en": "- Long time. How you been? - (Ted) Yeah, it's good to see you, man.",
       "vi": "- Lâu quá. Khỏe chứ? - Vui gặp cậu."
     }
   },
   {
     "translation": {
-      "en": "Good to see you, too. How you been?  Gettin' your groove on, huh?",
+      "en": "(Reggie) Good to see you, too. How you been? (Ted) Gettin' your groove on, huh?",
       "vi": "- Tôi cũng thế. Sao rồi? - Đang bắt nhịp hả?"
     }
   },
@@ -3727,19 +3727,19 @@
   },
   {
     "translation": {
-      "en": "- Softball? -",
+      "en": "- Softball? - (Chuckles)",
       "vi": "Bóng mềm?"
     }
   },
   {
     "translation": {
-      "en": "She was at the game, Ted. The game?",
+      "en": "(Reggie) She was at the game, Ted. The game?",
       "vi": "- Cô ấy có đi xem trận đó, anh Ted. - Trận đó?"
     }
   },
   {
     "translation": {
-      "en": "Aw...  Where you struck out in slow- pitch softball.",
+      "en": "Aw... (Reggie) Where you struck out in slow- pitch softball.",
       "vi": "Trận anh đập trượt quả bóng mềm chậm ấy."
     }
   },
@@ -3751,13 +3751,13 @@
   },
   {
     "translation": {
-      "en": "Yeah, I appreciate that. I'm gonna head back to that bar now. Well, can I get y'all another round?",
+      "en": "(Ted) Yeah, I appreciate that. I'm gonna head back to that bar now. Well, can I get y'all another round?",
       "vi": "Ờ, tôi cảm ơn. Tôi quay lại quầy kia đây. Sao, hai người làm một chầu nữa không?"
     }
   },
   {
     "translation": {
-      "en": "-  Yeah, sure. - Cool.",
+      "en": "- (Kate) Yeah, sure. - Cool.",
       "vi": "- Ừ, có. - Được."
     }
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "translation": {
-      "en": "Goddamn!",
+      "en": "(Groans) Goddamn!",
       "vi": "Chết tiệt!"
     }
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "translation": {
-      "en": "- Stop. Shh. -",
+      "en": "- Stop. Shh. - (Choking)",
       "vi": "Thôi."
     }
   },
@@ -3973,13 +3973,13 @@
   },
   {
     "translation": {
-      "en": "It's OK, Reg.",
+      "en": "(Kate) It's OK, Reg.",
       "vi": "Không sao đâu, Reg."
     }
   },
   {
     "translation": {
-      "en": "I thought he was a friend.  I know.",
+      "en": "I thought he was a friend. (Kate) I know.",
       "vi": "- Tôi tưởng hắn là bạn. - Ừ."
     }
   },
@@ -3997,7 +3997,7 @@
   },
   {
     "translation": {
-      "en": "How y'all want me to talk to you when you keep fuckin' hittin' me?",
+      "en": "(Ted) How y'all want me to talk to you when you keep fuckin' hittin' me?",
       "vi": "Cứ đánh tôi thế thì mấy anh muốn tôi nói chuyện kiểu gì?"
     }
   },
@@ -4039,13 +4039,13 @@
   },
   {
     "translation": {
-      "en": "OK! Fuck! OK!",
+      "en": "(Groans) OK! Fuck! OK!",
       "vi": "Rồi! Chết tiệt! Rồi!"
     }
   },
   {
     "translation": {
-      "en": "OK, OK, OK, is not what we're lookin' for, Ted.",
+      "en": "(Matt) OK, OK, OK, is not what we're lookin' for, Ted.",
       "vi": "Rồi không phải cái bọn tao đang muốn nghe đâu, Ted."
     }
   },
@@ -4081,7 +4081,7 @@
   },
   {
     "translation": {
-      "en": "Or whether we post your ex- wife's address on the Internet.",
+      "en": "(Matt) Or whether we post your ex- wife's address on the Internet.",
       "vi": "Hay bọn tao có đăng địa chỉ nhà vợ cũ mày lên mạng không."
     }
   },
@@ -4195,7 +4195,7 @@
   },
   {
     "translation": {
-      "en": "OK, OK...",
+      "en": "(Ted) OK, OK...",
       "vi": "Rồi…"
     }
   },
@@ -4225,7 +4225,7 @@
   },
   {
     "translation": {
-      "en": "How you feelin'?",
+      "en": "(Alejandro) How you feelin'?",
       "vi": "Cô thấy sao rồi?"
     }
   },
@@ -4291,13 +4291,13 @@
   },
   {
     "translation": {
-      "en": "Hello, sixty.",
+      "en": "(Man 1 on radio) Hello, sixty.",
       "vi": "Chào, mã 60."
     }
   },
   {
     "translation": {
-      "en": "We have eyes on the objective.",
+      "en": "(Man 2 on radio) We have eyes on the objective.",
       "vi": "Đang theo dõi mục tiêu."
     }
   },
@@ -4315,13 +4315,13 @@
   },
   {
     "translation": {
-      "en": "Papa?",
+      "en": "(Boy) Papa?",
       "vi": "Bố ơi?"
     }
   },
   {
     "translation": {
-      "en": "Eggs",
+      "en": "(Speaking Spanish) Eggs",
       "vi": "Trứng này."
     }
   },
@@ -4357,7 +4357,7 @@
   },
   {
     "translation": {
-      "en": "Hand me my coffee",
+      "en": "(Speaking Spanish) Hand me my coffee",
       "vi": "Đưa bố cốc cà phê."
     }
   },
@@ -4405,7 +4405,7 @@
   },
   {
     "translation": {
-      "en": "What's going on? What's the plan? We're going hunting.",
+      "en": "(Kate) What's going on? What's the plan? We're going hunting.",
       "vi": "- Sao rồi? Kế hoạch là gì? - Ta sẽ đi săn."
     }
   },
@@ -4429,7 +4429,7 @@
   },
   {
     "translation": {
-      "en": "All right, listen up.",
+      "en": "(Delta leader) All right, listen up.",
       "vi": "Rồi, nghe đây."
     }
   },
@@ -4459,7 +4459,7 @@
   },
   {
     "translation": {
-      "en": "These diagrams are based on other tunnels that have been mapped.",
+      "en": "(Delta leader) These diagrams are based on other tunnels that have been mapped.",
       "vi": "Các sơ đồ này dựa trên những hầm khác đã vạch sẵn."
     }
   },
@@ -4519,7 +4519,7 @@
   },
   {
     "translation": {
-      "en": "It's all about creating a diversion.  Want the mother of all diversions, boys.",
+      "en": "It's all about creating a diversion. (Matt) Want the mother of all diversions, boys.",
       "vi": "- Tất cả là để tạo nghi binh. - Cần nghi binh triệt để nhất nhé, anh em."
     }
   },
@@ -4531,7 +4531,7 @@
   },
   {
     "translation": {
-      "en": "All right. Weapons check. Let's go, boys.",
+      "en": "(Delta leader) All right. Weapons check. Let's go, boys.",
       "vi": "Rồi. Kiểm tra súng đi. Đi thôi, anh em."
     }
   },
@@ -4549,7 +4549,7 @@
   },
   {
     "translation": {
-      "en": "Those are Special Ops. Are we going in on this?",
+      "en": "(Reggie) Those are Special Ops. Are we going in on this?",
       "vi": "Họ là Đặc Nhiệm à. Bọn tôi có đi cùng không?"
     }
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "translation": {
-      "en": "We have tac gear in the car. All right. Good.",
+      "en": "(Kate) We have tac gear in the car. All right. Good.",
       "vi": "- Bọn tôi có đồ nghề ngoài xe. - Ừ. Tốt."
     }
   },
@@ -4591,7 +4591,7 @@
   },
   {
     "translation": {
-      "en": "Cos CIA can't operate within US borders...  Without a domestic agency attached.",
+      "en": "Cos CIA can't operate within US borders... (Both) Without a domestic agency attached.",
       "vi": "CIA không hoạt động trong biên giới Mỹ mà không đi kèm cơ quan trong nước được."
     }
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, that's it.",
+      "en": "(Matt) Yeah, that's it.",
       "vi": "Ờ, vì thế đấy."
     }
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "translation": {
-      "en": "Black Mercedes... Plate number, Romeo- India- November",
+      "en": "(Man on radio) Black Mercedes... Plate number, Romeo- India- November",
       "vi": "Xe Mercedes đen. Biển số, Romeo, India, November,"
     }
   },
@@ -4687,13 +4687,13 @@
   },
   {
     "translation": {
-      "en": "Where?",
+      "en": "(Matt) Where?",
       "vi": "Ở đâu?"
     }
   },
   {
     "translation": {
-      "en": "- OK. -",
+      "en": "- OK. - (Mobile phone beeps)",
       "vi": "Rồi."
     }
   },
@@ -4711,13 +4711,13 @@
   },
   {
     "translation": {
-      "en": "What is target's location?",
+      "en": "(Matt) What is target's location?",
       "vi": "Mục tiêu ở đâu?"
     }
   },
   {
     "translation": {
-      "en": "14 miles south of Nogales heading west, rapidly.",
+      "en": "(Man on radio) 14 miles south of Nogales heading west, rapidly.",
       "vi": "Cách Nogales hơn 22 cây về phía Nam, đang tiến nhanh về phía Tây."
     }
   },
@@ -4741,7 +4741,7 @@
   },
   {
     "translation": {
-      "en": "Gear check?",
+      "en": "(Delta leader) Gear check?",
       "vi": "Kiểm tra đồ nghề?"
     }
   },
@@ -4753,49 +4753,49 @@
   },
   {
     "translation": {
-      "en": "Night vision goggles, check.  Get those guys.",
+      "en": "Night vision goggles, check. (Delta 1) Get those guys.",
       "vi": "- Kính nhìn đêm, có. - Cho họ đi cùng."
     }
   },
   {
     "translation": {
-      "en": "Wanna take Alpha squad, I'll take B squad?",
+      "en": "(Delta leader) Wanna take Alpha squad, I'll take B squad?",
       "vi": "Anh dẫn đội Alpha, tôi dẫn B nhé?"
     }
   },
   {
     "translation": {
-      "en": "- You got it. Let's do it. -  Let's go, boys.",
+      "en": "- You got it. Let's do it. - (Delta leader) Let's go, boys.",
       "vi": "- Được. Làm thôi. - Đi thôi."
     }
   },
   {
     "translation": {
-      "en": "Control, you copy?",
+      "en": "(Delta leader) Control, you copy?",
       "vi": "Control, nghe rõ không?"
     }
   },
   {
     "translation": {
-      "en": "Roger, Alpha. We read.",
+      "en": "(Man on radio) Roger, Alpha. We read.",
       "vi": "Rõ, Alpha. Bọn tôi nghe rõ."
     }
   },
   {
     "translation": {
-      "en": "Fifty meters. Your three o'clock, Alpha.",
+      "en": "(Man on radio) Fifty meters. Your three o'clock, Alpha.",
       "vi": "Năm mươi mét. Hướng ba giờ của các anh, Alpha."
     }
   },
   {
     "translation": {
-      "en": "Stand by. Getting close to objective.",
+      "en": "(Delta leader on radio) Stand by. Getting close to objective.",
       "vi": "Đợi lệnh. Đang đến gần mục tiêu."
     }
   },
   {
     "translation": {
-      "en": "Alpha, Bravo, be advised.",
+      "en": "(Man on radio) Alpha, Bravo, be advised.",
       "vi": "Alpha, Bravo, chú ý."
     }
   },
@@ -4807,13 +4807,13 @@
   },
   {
     "translation": {
-      "en": "All right, we need to boogie and we need to do it quiet till we find the centre.",
+      "en": "(Matt) All right, we need to boogie and we need to do it quiet till we find the centre.",
       "vi": "Ta cần di chuyển nhanh và không ồn ào đến khi tìm được khu trung tâm."
     }
   },
   {
     "translation": {
-      "en": "Draw the fighters to you and make some noise.",
+      "en": "(Alejandro) Draw the fighters to you and make some noise.",
       "vi": "Hút đám tay súng về phía anh, gây chút náo động."
     }
   },
@@ -4825,25 +4825,25 @@
   },
   {
     "translation": {
-      "en": "What are the rules of engagement?",
+      "en": "(Delta leader) What are the rules of engagement?",
       "vi": "Luật giao chiến là gì?"
     }
   },
   {
     "translation": {
-      "en": "Weapons free, my friend. Weapons free.",
+      "en": "(Matt) Weapons free, my friend. Weapons free.",
       "vi": "Bắn tùy ý, bạn tôi ạ. Bắn tùy ý."
     }
   },
   {
     "translation": {
-      "en": "Weapons free, boys.  Good luck.",
+      "en": "(Delta leader) Weapons free, boys. (Matt) Good luck.",
       "vi": "- Bắn tùy ý, anh em. - Chúc may mắn."
     }
   },
   {
     "translation": {
-      "en": "Oh, God!",
+      "en": "(Man) Oh, God!",
       "vi": "Ôi Chúa ơi!"
     }
   },
@@ -4861,13 +4861,13 @@
   },
   {
     "translation": {
-      "en": "Hurry up!",
+      "en": "(Silvio speaking Spanish) Hurry up!",
       "vi": "Mau lên!"
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Speaking Spanish)",
       "vi": "Mau lên!"
     }
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "translation": {
-      "en": "Let's go",
+      "en": "(Speaking Spanish) Let's go",
       "vi": "Đi thôi."
     }
   },
@@ -4903,13 +4903,13 @@
   },
   {
     "translation": {
-      "en": "- Give me the keys! - Calm down",
+      "en": "- Give me the keys! - Calm down (Gunshot)",
       "vi": "- Đưa chìa đây! - Bình tĩnh."
     }
   },
   {
     "translation": {
-      "en": "Hands in the air",
+      "en": "(Speaking Spanish) Hands in the air",
       "vi": "Giơ tay lên."
     }
   },
@@ -4921,13 +4921,13 @@
   },
   {
     "translation": {
-      "en": "Medellín?",
+      "en": "(Speaking Spanish) Medellín?",
       "vi": "Medellín à?"
     }
   },
   {
     "translation": {
-      "en": "Freeze!",
+      "en": "(In English) Freeze!",
       "vi": "Đứng im!"
     }
   },
@@ -4957,7 +4957,7 @@
   },
   {
     "translation": {
-      "en": "Both hands on the steering wheel",
+      "en": "(Speaking Spanish) Both hands on the steering wheel",
       "vi": "Đặt cả hai tay lên vô lăng."
     }
   },
@@ -4969,7 +4969,7 @@
   },
   {
     "translation": {
-      "en": "Roger, we have you. Target is east and north of you.",
+      "en": "(Man on radio) Roger, we have you. Target is east and north of you.",
       "vi": "Rõ, bọn tôi thấy rồi. Mục tiêu đang ở phía Đông Bắc của anh."
     }
   },
@@ -4993,7 +4993,7 @@
   },
   {
     "translation": {
-      "en": "What's your name?",
+      "en": "(Both speaking Spanish) What's your name?",
       "vi": "Mày tên gì?"
     }
   },
@@ -5017,13 +5017,13 @@
   },
   {
     "translation": {
-      "en": "Is he through yet?",
+      "en": "(Matt) Is he through yet?",
       "vi": "Anh ta qua chưa?"
     }
   },
   {
     "translation": {
-      "en": "We have joy.",
+      "en": "(Man on radio) We have joy.",
       "vi": "Đã thấy mục tiêu."
     }
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "translation": {
-      "en": "That was a clean, clean fucking op, my friend.  Except for these two assholes.",
+      "en": "(Matt) That was a clean, clean fucking op, my friend. (Delta leader) Except for these two assholes.",
       "vi": "- Nhiệm vụ trót lọt quá, bạn tôi. - Trừ hai tên khốn này ra."
     }
   },
@@ -5059,7 +5059,7 @@
   },
   {
     "translation": {
-      "en": "-  Whoa, whoa! -",
+      "en": "- (Delta 1) Whoa, whoa! - (Grunts)",
       "vi": "Này!"
     }
   },
@@ -5077,7 +5077,7 @@
   },
   {
     "translation": {
-      "en": "Get off me!",
+      "en": "(Grunts) Get off me!",
       "vi": "Bỏ tôi ra!"
     }
   },
@@ -5143,7 +5143,7 @@
   },
   {
     "translation": {
-      "en": "Medellín?",
+      "en": "(Matt) Medellín?",
       "vi": "Medellín?"
     }
   },
@@ -5197,7 +5197,7 @@
   },
   {
     "translation": {
-      "en": "Alejandro works for the fucking Colombian Cartel.",
+      "en": "(Kate) Alejandro works for the fucking Colombian Cartel.",
       "vi": "Alejandro làm cho băng đảng Colombia à."
     }
   },
@@ -5311,13 +5311,13 @@
   },
   {
     "translation": {
-      "en": "Roger that. Black Mercedes, 60 metres ahead.",
+      "en": "(Man on radio) Roger that. Black Mercedes, 60 metres ahead.",
       "vi": "Rõ. Xe Mercedes đen, phía trước, cách 60 mét."
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Speaking Spanish)",
       "vi": "Silvio,"
     }
   },
@@ -5341,13 +5341,13 @@
   },
   {
     "translation": {
-      "en": "This motherfucker...",
+      "en": "(Manuel) This motherfucker...",
       "vi": "Thằng khốn này…"
     }
   },
   {
     "translation": {
-      "en": "Very good",
+      "en": "(Speaking Spanish) Very good",
       "vi": "Tốt lắm."
     }
   },
@@ -5383,25 +5383,25 @@
   },
   {
     "translation": {
-      "en": "Tell him to raise his jacket and turn around",
+      "en": "(Alejandro speaking Spanish) Tell him to raise his jacket and turn around",
       "vi": "Bảo hắn vén áo khoác lên rồi quay lại."
     }
   },
   {
     "translation": {
-      "en": "Raise your jacket and turn around",
+      "en": "(Silvio speaking Spanish) Raise your jacket and turn around",
       "vi": "Vén áo khoác lên rồi quay lại."
     }
   },
   {
     "translation": {
-      "en": "You know who I am?",
+      "en": "(Speaking Spanish) You know who I am?",
       "vi": "Mày biết tao là ai không?"
     }
   },
   {
     "translation": {
-      "en": "Tell him you'll kill him if he doesn't",
+      "en": "(Alejandro speaking) Tell him you'll kill him if he doesn't",
       "vi": "Bảo hắn là hắn không làm, mày sẽ giết."
     }
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "translation": {
-      "en": "Tell him to lose the gun  Drop the gun",
+      "en": "(Alejandro speaking) Tell him to lose the gun (Silvio speaking) Drop the gun",
       "vi": "- Bảo hắn vứt khẩu súng đi. - Vứt súng đi."
     }
   },
@@ -5449,7 +5449,7 @@
   },
   {
     "translation": {
-      "en": "Don't move, motherfucker  Do you know who I am?",
+      "en": "(Alejandro speaking) Don't move, motherfucker (Manuel speaking) Do you know who I am?",
       "vi": "- Cấm động đậy, thằng khốn. - Mày biết tao là ai không?"
     }
   },
@@ -5467,13 +5467,13 @@
   },
   {
     "translation": {
-      "en": "I know who you are",
+      "en": "(Alejandro speaking) I know who you are",
       "vi": "Tao biết mày là ai rồi."
     }
   },
   {
     "translation": {
-      "en": "- You're Manuel Diaz -",
+      "en": "- You're Manuel Diaz - (Grunts)",
       "vi": "Mày là Manuel Diaz."
     }
   },
@@ -5515,25 +5515,25 @@
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Manuel speaking Spanish)",
       "vi": "Tao là Manuel Diaz."
     }
   },
   {
     "translation": {
-      "en": "I know who you are",
+      "en": "(Guard speaking Spanish) I know who you are",
       "vi": "Tôi biết anh là ai mà."
     }
   },
   {
     "translation": {
-      "en": "",
+      "en": "(Silenced gunshot)",
       "vi": "Là Manuel. Đã kiểm tra."
     }
   },
   {
     "translation": {
-      "en": "What happens when we get to the house?",
+      "en": "(In English) What happens when we get to the house?",
       "vi": "Ta đến nhà rồi sẽ thế nào?"
     }
   },
@@ -5563,7 +5563,7 @@
   },
   {
     "translation": {
-      "en": "Six remain.",
+      "en": "(Man on radio) Six remain.",
       "vi": "Còn sáu tên."
     }
   },
@@ -5575,7 +5575,7 @@
   },
   {
     "translation": {
-      "en": "Bon appétit",
+      "en": "(Alejandro speaking Spanish) Bon appétit",
       "vi": "Chúc ngon miệng."
     }
   },
@@ -5593,7 +5593,7 @@
   },
   {
     "translation": {
-      "en": "Do your children speak English?",
+      "en": "(Alejandro speaking) Do your children speak English?",
       "vi": "Con mày biết tiếng Anh không?"
     }
   },
@@ -5617,7 +5617,7 @@
   },
   {
     "translation": {
-      "en": "Every night you have families killed.",
+      "en": "(In English) Every night you have families killed.",
       "vi": "Tối nào mày cũng giết bao nhiêu gia đình."
     }
   },
@@ -5635,7 +5635,7 @@
   },
   {
     "translation": {
-      "en": "Eat",
+      "en": "(Speaking Spanish) Eat",
       "vi": "Ăn đi."
     }
   },
@@ -5683,7 +5683,7 @@
   },
   {
     "translation": {
-      "en": "Your little girl",
+      "en": "(Speaking Spanish) Your little girl",
       "vi": "Con bé con mày."
     }
   },
@@ -5701,7 +5701,7 @@
   },
   {
     "translation": {
-      "en": "Not in front of my boys.",
+      "en": "(In English) Not in front of my boys.",
       "vi": "Có mặt con tao thì đừng."
     }
   },
@@ -5713,13 +5713,13 @@
   },
   {
     "translation": {
-      "en": "Go ahead and finish your meal.",
+      "en": "(In English) Go ahead and finish your meal.",
       "vi": "Ăn nốt đồ đang ăn dở đi."
     }
   },
   {
     "translation": {
-      "en": "I would recommend not standing on balconies for a while, Kate.",
+      "en": "(Alejandro) I would recommend not standing on balconies for a while, Kate.",
       "vi": "Tôi khuyên cô đừng đứng ngoài ban công một thời gian, Kate."
     }
   },
@@ -5779,7 +5779,7 @@
   },
   {
     "translation": {
-      "en": "-  - It's all right.",
+      "en": "- (Sobs) - It's all right.",
       "vi": "Không sao."
     }
   },
@@ -5821,7 +5821,7 @@
   },
   {
     "translation": {
-      "en": "- You will not survive here. -",
+      "en": "- You will not survive here. - (Clatters)",
       "vi": "Ở đây cô không sống nổi đâu."
     }
   },

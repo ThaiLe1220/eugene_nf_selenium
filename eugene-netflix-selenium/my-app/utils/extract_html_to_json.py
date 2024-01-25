@@ -91,7 +91,7 @@ def process_and_save_data(movies_id, lang_code):
 
 netflix_links = []
 movies_ids = []
-LANG_CODE = "fr"
+LANG_CODE = "es"
 
 # Read the links from the movies_links.txt file and add them to the list
 with open("../source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
