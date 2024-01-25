@@ -50,14 +50,23 @@ def delete_invalid_translation_files(directory, lang_code):
                 with open(file_path, "r", encoding="utf-8") as file:
                     data = json.load(file)
 
-                # Check and delete file if necessary
+                repetitive_count = 0
                 for item in data:
                     en = item["translation"]["en"]
-                    lang_translation = item["translation"][f"{lang_code}"]
-                    if en == "" or lang_translation == "" or en == lang_translation:
+                    lang_translation = item["translation"].get(lang_code)
+                    if en == lang_translation:
+                        repetitive_count += 1
+                        if repetitive_count >= 50:
+                            os.remove(file_path)
+                            print(
+                                f"Deleted file due to repetitive translations: {filename}"
+                            )
+                            break
+
+                    if en == "" or lang_translation == "":
                         os.remove(file_path)
-                        print(f"Deleted file: {filename}")
-                        break  # Exit the loop as we've already deleted the file
+                        print(f"Deleted file due to missing translations: {filename}")
+                        break
 
             except json.JSONDecodeError:
                 print(f"Skipping invalid JSON file: {filename}")
@@ -65,6 +74,11 @@ def delete_invalid_translation_files(directory, lang_code):
                 print(
                     f"Cannot delete file, it's being used by another process: {filename}"
                 )
+
+
+LANG_CODE = "es"
+DIRECTORY = f"./data/en-{LANG_CODE}"
+delete_invalid_translation_files(DIRECTORY, LANG_CODE)
 
 
 LANG_CODE = "es"
