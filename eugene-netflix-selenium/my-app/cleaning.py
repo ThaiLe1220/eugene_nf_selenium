@@ -54,19 +54,14 @@ def delete_invalid_translation_files(directory, lang_code):
                 for item in data:
                     en = item["translation"]["en"]
                     lang_translation = item["translation"].get(lang_code)
-                    if en == lang_translation:
+                    if en == lang_translation or en == "" or lang_translation == "":
                         repetitive_count += 1
-                        if repetitive_count >= 50:
+                        if repetitive_count >= 80:
                             os.remove(file_path)
                             print(
                                 f"Deleted file due to repetitive translations: {filename}"
                             )
                             break
-
-                    if en == "" or lang_translation == "":
-                        os.remove(file_path)
-                        print(f"Deleted file due to missing translations: {filename}")
-                        break
 
             except json.JSONDecodeError:
                 print(f"Skipping invalid JSON file: {filename}")
@@ -76,11 +71,36 @@ def delete_invalid_translation_files(directory, lang_code):
                 )
 
 
-LANG_CODE = "es"
-DIRECTORY = f"./data/en-{LANG_CODE}"
-delete_invalid_translation_files(DIRECTORY, LANG_CODE)
+def clean_translation(text):
+    original_text = text
+    text = text.replace("♪ ", "")
+    text = text.replace(" ♪", "")
+    text = re.sub(r"\(.*?\)", "", text)
+    text = re.sub(r"^[A-Z]+: ", "", text)
+
+    if text != original_text:
+        print(f"Original: {original_text}\nCleaned: {text}\n")
+    return text.strip()
+
+
+def process_files(directory, lang_code):
+    for filename in os.listdir(directory):
+        if filename.endswith(".json"):
+            filepath = os.path.join(directory, filename)
+            with open(filepath, "r", encoding="utf-8") as file:
+                data = json.load(file)
+
+            for item in data:
+                item["translation"]["en"] = clean_translation(item["translation"]["en"])
+                item["translation"][f"{lang_code}"] = clean_translation(
+                    item["translation"][f"{lang_code}"]
+                )
+
+            with open(filepath, "w", encoding="utf-8") as file:
+                json.dump(data, file, indent=2, ensure_ascii=False)
 
 
 LANG_CODE = "es"
 DIRECTORY = f"./data/en-{LANG_CODE}"
 delete_invalid_translation_files(DIRECTORY, LANG_CODE)
+process_files(DIRECTORY, LANG_CODE)
