@@ -38,8 +38,7 @@ def clean_text(text):
     text = re.sub(r"\(.*?\)", "", text)
     text = re.sub(r"^[A-Z]+: ", "", text)
     text = text.replace("- ", " ")
-    text = text.replace(" ", " ")
-
+    text = text.replace("  ", " ")
     return text.strip()
 
 
@@ -51,10 +50,19 @@ def clean_translations_data(directory, lang_code, movie_ids):
                 data = json.load(file)
 
             for item in data:
-                item["translation"]["en"] = clean_text(item["translation"]["en"])
-                item["translation"][f"{lang_code}"] = clean_text(
-                    item["translation"][f"{lang_code}"]
-                )
+                eng_text = clean_text(item["translation"]["en"])
+                trans_text = clean_text(item["translation"][f"{lang_code}"])
+
+                # Check and replace dash if it exists in one but not the other
+                if "-" in eng_text and "-" not in trans_text:
+                    eng_text = eng_text.replace(" -", "")
+                    eng_text = eng_text.replace("- ", "")
+                    eng_text = eng_text.replace("-", "")
+                elif "-" in trans_text and "-" not in eng_text:
+                    trans_text = trans_text.replace("-", "")
+
+                item["translation"]["en"] = eng_text
+                item["translation"][f"{lang_code}"] = trans_text
 
             with open(filepath, "w", encoding="utf-8") as file:
                 json.dump(data, file, indent=2, ensure_ascii=False)
