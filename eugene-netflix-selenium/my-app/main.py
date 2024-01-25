@@ -223,7 +223,7 @@ def export_translation(cur_driver, cur_wait, index, lang_code):
         print(f"\nThe HTML of the page has been saved as {filename}")
 
 
-def clean_NETFLIX_LINKS(input_file, output_file):
+def clean_netflix_links(input_file, output_file):
     cleaned_links = []
 
     with open(input_file, "r") as file:
@@ -244,7 +244,7 @@ def clean_NETFLIX_LINKS(input_file, output_file):
 
 load_dotenv()
 
-lang_list = [
+LANG_LIST = [
     ("Vietnamese", "vi"),
     ("Spanish", "es"),
     ("English", "en"),
@@ -258,20 +258,9 @@ lang_list = [
     ("Thai", "th"),
     ("Russian", "th"),
 ]
-
 START_INDEX = 0
 END_INDEX = 100
 LANGUAGE = "Japanese"
-LANGUAGE_CODE = {name: code for name, code in lang_list}.get(LANGUAGE)
-
-options = webdriver.ChromeOptions()
-options.add_extension("./extensions/Language-Reactor.crx")
-driver = webdriver.Chrome(options=options)
-wait = WebDriverWait(driver, 10)
-
-# google_authenticate(driver, os.getenv("GG_USERNAME"), os.getenv("GG_PASSWORD"))
-netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
-
 NETFLIX_LINKS = []
 MOVIE_IDS = []
 
@@ -282,6 +271,15 @@ with open("./source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
             NETFLIX_LINKS.append(line)
             movie_id = line.split("/")[-1]
             MOVIE_IDS.append(movie_id)
+
+options = webdriver.ChromeOptions()
+options.add_extension("./extensions/Language-Reactor.crx")
+driver = webdriver.Chrome(options=options)
+wait = WebDriverWait(driver, 10)
+
+# google_authenticate(driver, os.getenv("GG_USERNAME"), os.getenv("GG_PASSWORD"))
+netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
+
 
 for i, link in enumerate(NETFLIX_LINKS):
     if START_INDEX <= i <= END_INDEX:
@@ -325,7 +323,7 @@ for i, link in enumerate(NETFLIX_LINKS):
         )
 
 
-clean_NETFLIX_LINKS(
+clean_netflix_links(
     f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
     f"./source/movies_links_en_{LANGUAGE_CODE}_inaccessed.txt",
 )

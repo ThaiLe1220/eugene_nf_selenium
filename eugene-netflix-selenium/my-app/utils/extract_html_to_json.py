@@ -37,7 +37,7 @@ def process_subtitle(td):
 
 
 def process_and_save_data(movies_id, lang_code):
-    file_path = f"./markup/en-{lang_code}/{movies_id}.html"
+    file_path = f"../markup/en-{lang_code}/{movies_id}.html"
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             html_content = f.read()
@@ -68,32 +68,33 @@ def process_and_save_data(movies_id, lang_code):
         if not translations:
             raise ValueError(f"No valid translations found for {movies_id}")
 
-        dir_path = f"./data/en-{lang_code}"
+        dir_path = f"../data/en-{lang_code}"
         os.makedirs(dir_path, exist_ok=True)
 
         with open(
-            f"./data/en-{lang_code}/{movies_id}.json", "w", encoding="utf-8"
+            f"../data/en-{lang_code}/{movies_id}.json", "w", encoding="utf-8"
         ) as f:
             json.dump(translations, f, indent=2, ensure_ascii=False)
             print(
-                f"The subtitle has been saved as ./data/en-{lang_code}/{movies_id}.json"
+                f"The subtitle has been saved as ../data/en-{lang_code}/{movies_id}.json"
             )
 
     except FileNotFoundError:
         print(f"File not found: {file_path}")
-        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
+        with open(f"../markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
             f.write(f"Failed to extract {file_path}\n")
     except ValueError as e:
         print(e)
-        with open(f"./markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
+        with open(f"../markup/note-en-{lang_code}.txt", "a", encoding="utf-8") as f:
             f.write(f"Failed to extract {file_path}\n")
 
 
-# netflix_links = []
-# movies_ids = []
+netflix_links = []
+movies_ids = []
+LANG_CODE = "fr"
 
 # Read the links from the movies_links.txt file and add them to the list
-with open("./source/movies_links_cleaned.txt", "r") as file:
+with open("../source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
     for line in file:
         line = line.strip()
         if line.startswith("https://www.netflix.com/watch/"):
@@ -103,5 +104,5 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
 
 
 for i, link in enumerate(netflix_links):
-    if 0 <= i <= 1100:
-        process_and_save_data(movies_ids[i], "ja")
+    if 100 <= i <= 1100:
+        process_and_save_data(movies_ids[i], LANG_CODE)
