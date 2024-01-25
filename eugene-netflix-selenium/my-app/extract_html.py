@@ -103,4 +103,4 @@ with open("./source/movies_links_cleaned.txt", "r") as file:
 
 for i, link in enumerate(netflix_links):
     if 0 <= i <= 1100:
-        process_and_save_data(movies_ids[i], "vi")
+        process_and_save_data(movies_ids[i], "ja")

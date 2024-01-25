@@ -1,0 +1,5396 @@
+[
+  {
+    "translation": {
+      "en": "What did you eat?",
+      "ja": "食事はどうしてた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You had rations for two weeks. You were inside for nearly four months.",
+      "ja": "携行食糧は２週間分 中にいた期間は４ヵ月だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember eating.",
+      "ja": "覚えてない"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long did you think you were inside?",
+      "ja": "どれぐらい 中にいたと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Days.",
+      "ja": "数日間…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe weeks.",
+      "ja": "数週間かも"
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened to Josie Radek?",
+      "ja": "ラデックに何が？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I don't know. - What about Sheppard?",
+      "ja": "知らない シェパードは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thorensen?",
+      "ja": "アニャは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead.",
+      "ja": "死んだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress?",
+      "ja": "ヴェントレスは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ja": "知らない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then what do you know?",
+      "ja": "何を知ってる？"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a cell.",
+      "ja": "全ての細胞は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like all cells, it is born from an existing cell.",
+      "ja": "既存の細胞から生まれる"
+    }
+  },
+  {
+    "translation": {
+      "en": "And by extension,",
+      "ja": "つまり―"
+    }
+  },
+  {
+    "translation": {
+      "en": "all cells were ultimately born from one cell.",
+      "ja": "全ては 一つの細胞から 始まった"
+    }
+  },
+  {
+    "translation": {
+      "en": "A single organism alone on planet Earth,",
+      "ja": "地球上 あるいは宇宙に たった一つ―"
+    }
+  },
+  {
+    "translation": {
+      "en": "perhaps alone in the universe.",
+      "ja": "生命体が生まれた"
+    }
+  },
+  {
+    "translation": {
+      "en": "About four billion years ago...",
+      "ja": "約40億年前のことよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "one became two, two became four.",
+      "ja": "それが２個に 次に４個になり"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then eight, 16, 32.",
+      "ja": "それから８個になり 16個 32個と"
+    }
+  },
+  {
+    "translation": {
+      "en": "The rhythm of the dividing pair...",
+      "ja": "分裂を続けて―"
+    }
+  },
+  {
+    "translation": {
+      "en": "which becomes the structure of every microbe,",
+      "ja": "今 地球上に存在する 全ての微生物や"
+    }
+  },
+  {
+    "translation": {
+      "en": "blade of grass, sea creature, land creature...",
+      "ja": "植物 海や陸の生き物 そして―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and human.",
+      "ja": "人間になった"
+    }
+  },
+  {
+    "translation": {
+      "en": "The structure of everything that lives...",
+      "ja": "生きて死ぬ 全ての存在を―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and everything that dies.",
+      "ja": "かたち作っている"
+    }
+  },
+  {
+    "translation": {
+      "en": "As students of medicine, as the doctors of tomorrow,",
+      "ja": "あなた達が医師として 関わるのは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is where you come in.",
+      "ja": "ここからよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The cell we're looking at is from a tumor.",
+      "ja": "今 映っているのは― がん細胞"
+    }
+  },
+  {
+    "translation": {
+      "en": "Female patient, early 30s, taken from the cervix.",
+      "ja": "30代前半の女性患者のものよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over the course of the next term,",
+      "ja": "来学期は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "we will be closely examining cancer cells in vitro and discussing autophagic activity.",
+      "ja": "がん細胞の自食作用を 観察しましょう"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Professor? - Hey, Katie.",
+      "ja": "先生 ケイティ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I read the John Sulston paper last night.",
+      "ja": "宿題の論文 読みました"
+    }
+  },
+  {
+    "translation": {
+      "en": "I still feel like I'm not working hard enough. I'm behind the other students.",
+      "ja": "私ひとりだけ 遅れてて"
+    }
+  },
+  {
+    "translation": {
+      "en": "- They find everything easier. - You aren't, and they don't.",
+      "ja": "みんな優秀だし… 大丈夫よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Okay? - Lena!",
+      "ja": "レナ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dan.",
+      "ja": "ダン"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been looking for you at lunch, but you never seem to be around.",
+      "ja": "探したよ　どこにいた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been catching up on some writing.",
+      "ja": "書き物を"
+    }
+  },
+  {
+    "translation": {
+      "en": "All work and no play, it sounds... not healthy.",
+      "ja": "仕事ばかりじゃ― 体によくない"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanted to ask,",
+      "ja": "よければ―"
+    }
+  },
+  {
+    "translation": {
+      "en": "- do you have plans Saturday? -",
+      "ja": "土曜日 家に来ないか？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah and I have a few people over.",
+      "ja": "妻と友達を招いて―"
+    }
+  },
+  {
+    "translation": {
+      "en": "A garden party while the weather holds.",
+      "ja": "食事するんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I do have plans.",
+      "ja": "予定がある"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it'll be fun.",
+      "ja": "そう言わずに"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Dan, I really appreciate it, but I'm going to paint our bedr--",
+      "ja": "ペンキを塗りたいの 私達の…"
+    }
+  },
+  {
+    "translation": {
+      "en": "The bedroom.",
+      "ja": "寝室に"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been a year, Lena.",
+      "ja": "１年になる"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're allowed to come to a barbecue. It is not a betrayal",
+      "ja": "君が人生を楽しんでも"
+    }
+  },
+  {
+    "translation": {
+      "en": "or an insult to his memory.",
+      "ja": "彼への裏切りにはならない"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna paint the bedroom.",
+      "ja": "やめておくわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- ♪ You'll see something certain ♪ - Oh, God.",
+      "ja": "ウソ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- ♪ Confusion has its cost ♪ - Oh, my God. Oh, my God!",
+      "ja": "こんな…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- ♪ Who lingers ♪ - Oh, my God. I thought you were gone. ♪ Saying she is lost ♪",
+      "ja": "死んだかと"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane?",
+      "ja": "ケイン？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one knew anything about your unit.",
+      "ja": "任務の情報はゼロ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I contacted everyone. Everyone I could.",
+      "ja": "あちこちに連絡したわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The other partners knew just as little as me.",
+      "ja": "誰も何も知らないって"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it covert?",
+      "ja": "秘密任務？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mm... Maybe.",
+      "ja": "かもな"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that mean, maybe?",
+      "ja": "それ どういう意味？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, yeah, it was covert. Yeah, I think so.",
+      "ja": "そう　秘密任務だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pakistan again?",
+      "ja": "パキスタン？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I-- I don't know where it was, or...",
+      "ja": "俺には よくわからないんだ 場所も…"
+    }
+  },
+  {
+    "translation": {
+      "en": "what it was.",
+      "ja": "何も"
+    }
+  },
+  {
+    "translation": {
+      "en": "How is that possible?  Was it warm?",
+      "ja": "そんなわけない どんな気候だったの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was there snow?",
+      "ja": "雪は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did the people there speak Portuguese, or Swahili, or Pashto?",
+      "ja": "現地の人が何語を話してたか 覚えてない？"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long have you been back?",
+      "ja": "いつ帰国を？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ja": "わからない"
+    }
+  },
+  {
+    "translation": {
+      "en": "How'd you get back? What base did you fly into?",
+      "ja": "どの基地に到着したの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I don't know. - Your unit, did they come back with you?",
+      "ja": "わからない 部隊の他の人たちは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be able to tell me something.",
+      "ja": "せめて 何か教えてよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You vanished off the face of the earth for 12 months.",
+      "ja": "１年間 消えてたのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I deserve a better explanation than no explanation.",
+      "ja": "少しぐらい説明して"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does it matter?",
+      "ja": "何のために？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane...",
+      "ja": "ケイン…"
+    }
+  },
+  {
+    "translation": {
+      "en": "how did you get home?",
+      "ja": "どうやってここへ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was outside.",
+      "ja": "外にいた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Outside the house?",
+      "ja": "家の外？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "違う"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I was outside the room.",
+      "ja": "部屋の外だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The room with the bed.",
+      "ja": "ベッドの部屋"
+    }
+  },
+  {
+    "translation": {
+      "en": "The door was open, and...",
+      "ja": "扉が開いてて"
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw you.",
+      "ja": "君が見えた"
+    }
+  },
+  {
+    "translation": {
+      "en": "I recognized you.",
+      "ja": "君の顔に…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your face.",
+      "ja": "見覚えが"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't feel very well.",
+      "ja": "気分が悪い"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby.",
+      "ja": "しっかり"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - I'm right here with you.",
+      "ja": "私はここよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Male, 31, hemorrhage, in seizure.",
+      "ja": "31歳男性 痙攣(けいれん)あり"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby. I love you.",
+      "ja": "大丈夫よ　愛してるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baby, look at me. Can you do something?!",
+      "ja": "私を見て 何とかして！"
+    }
+  },
+  {
+    "translation": {
+      "en": "You call for a police escort?",
+      "ja": "警察に電話を？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, easy, easy!",
+      "ja": "何だ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out of the truck, now!",
+      "ja": "車を降りろ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - What are you doing?",
+      "ja": "何するの"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Out! - Don't shoot!",
+      "ja": "降りろ！ 撃つな！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out! Move!",
+      "ja": "降りろ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out, out, out!",
+      "ja": "今すぐだ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "ja": "何なんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing? You can't move him!",
+      "ja": "患者を動かすな"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go! Let him go!",
+      "ja": "やめて！ 離して！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go!",
+      "ja": "夫を離して！"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be feeling dreadful.",
+      "ja": "ひどい気分よね"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a hangover from the sedative you were given.",
+      "ja": "鎮静剤の副作用よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, sit down.",
+      "ja": "さあ 座って"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "ja": "あなたは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Dr. Ventress.",
+      "ja": "私はドクター･ヴェントレス"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a psychologist.",
+      "ja": "心理学者よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why am I talking to a psychologist?",
+      "ja": "どういうことなの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Am I in a psychiatric hospital?",
+      "ja": "ここは精神科？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- No. - Then what?",
+      "ja": "いいえ じゃあ何？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where am I?",
+      "ja": "ここはどこ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's my husband?",
+      "ja": "夫はどこ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You served in the military for seven years.",
+      "ja": "あなた 軍隊にいたのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a professor from Johns Hopkins.",
+      "ja": "今は 大学教授よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to know what the fuck I'm doing here.",
+      "ja": "どういうことか説明して"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your research area is the genetically programmed life cycle of a cell.",
+      "ja": "専門は細胞周期に関する 遺伝プログラム"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is my husband?",
+      "ja": "夫はどこ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'd like to talk about Sergeant Kane.",
+      "ja": "そうね ご主人のことだけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "When did he arrive back home?",
+      "ja": "戻ったのはいつ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I want to see a lawyer. - You're not gonna be able to.",
+      "ja": "弁護士を それはムリね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he explain how he got back?",
+      "ja": "彼は何か言ってた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- No. - Did he contact you at any point",
+      "ja": "何も 任務期間中に接触は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "while he was away?",
+      "ja": "任務期間中に接触は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "いいえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did he tell you about his mission when he returned?",
+      "ja": "任務のことは何と？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Nothing. - What about before he left?",
+      "ja": "何も 出発前は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he ever mention where he was going, what he was doing?",
+      "ja": "行き先や内容を話した？"
+    }
+  },
+  {
+    "translation": {
+      "en": "He never said, I never asked.",
+      "ja": "何も聞いてない"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you made regular requests for information from his unit CO.",
+      "ja": "ご主人のことを 軍に何度も 問い合わせたわね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Until six months ago, and then you stopped.",
+      "ja": "でも６ヵ月前にやめた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why was that? Thought he was dead?",
+      "ja": "なぜ？ あきらめたの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time to move on?",
+      "ja": "忘れようと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not easy to move on.",
+      "ja": "簡単ではないわよね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't.",
+      "ja": "忘れなかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done answering questions. It's your turn.",
+      "ja": "十分 答えたでしょう あなたの番よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your husband's here.",
+      "ja": "彼はここにいる"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's extremely ill.",
+      "ja": "危険な状態よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- In what way? - Multiple organ failure.",
+      "ja": "どういう意味？ 多臓器不全に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Massive internal bleeding.",
+      "ja": "大量の内部出血"
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have been exposed to some sort of radiation,",
+      "ja": "放射線に被爆したのか あるいは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "some kind of virus.",
+      "ja": "ウィルスかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to tell me where he was, what he was doing.",
+      "ja": "彼の任務先を教えて"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could actually help him.",
+      "ja": "助けられるかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "A religious event.",
+      "ja": "超自然現象"
+    }
+  },
+  {
+    "translation": {
+      "en": "An extraterrestrial event.",
+      "ja": "地球外からの何か"
+    }
+  },
+  {
+    "translation": {
+      "en": "A higher dimension.",
+      "ja": "多次元世界"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have many theories,",
+      "ja": "仮説は様々よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "few facts.",
+      "ja": "でも情報はわずか"
+    }
+  },
+  {
+    "translation": {
+      "en": "It started around three years ago.",
+      "ja": "始まったのは 約３年前"
+    }
+  },
+  {
+    "translation": {
+      "en": "Blackwater National Park reported that a lighthouse was surrounded",
+      "ja": "ブラックウォーター 国立公園の灯台が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "by something they termed a shimmer.",
+      "ja": "“光(シマー)”に包まれたと報告が"
+    }
+  },
+  {
+    "translation": {
+      "en": "One of the wardens went in to investigate.",
+      "ja": "警備員が１人 調査に行って―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never returned.",
+      "ja": "戻らなかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "The event was classified.",
+      "ja": "事件は機密扱いに"
+    }
+  },
+  {
+    "translation": {
+      "en": "Since then, we've approached by land, by sea,",
+      "ja": "陸からも 海からも"
+    }
+  },
+  {
+    "translation": {
+      "en": "sent in drones, animals, and teams of people.",
+      "ja": "ドローンや動物や 調査隊を送った"
+    }
+  },
+  {
+    "translation": {
+      "en": "But nothing comes back.",
+      "ja": "生還者はゼロ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the boundary's getting bigger. It's expanding.",
+      "ja": "境界は広がってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "So far, it's eating into barely populated swampland,",
+      "ja": "今は まだ湿地だけで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "which, you know, we evacuated under the pretext of a chemical spill,",
+      "ja": "住民には化学汚染だと言って 避難させたけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "but... that won't last much longer.",
+      "ja": "長くはもたないわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "In a few months, the area will have grown to where we are right now.",
+      "ja": "あと数ヵ月で この建物を 飲み込んで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we're talking cities...",
+      "ja": "その後は 都市や―"
+    }
+  },
+  {
+    "translation": {
+      "en": "states...",
+      "ja": "国を飲み込み"
+    }
+  },
+  {
+    "translation": {
+      "en": "and so on.",
+      "ja": "広がっていく"
+    }
+  },
+  {
+    "translation": {
+      "en": "You said nothing comes back.",
+      "ja": "生還者は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "But something has.",
+      "ja": "ゼロじゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's dying.",
+      "ja": "危篤状態ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to come to an agreement about what to do with you.",
+      "ja": "あなたの今後についてだけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not going to let me go home?",
+      "ja": "帰さないつもり？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you want? To go home?",
+      "ja": "あなたは 帰りたいの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "いいえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be with him.",
+      "ja": "彼の側にいたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not talking to me.",
+      "ja": "無口なのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry.",
+      "ja": "ごめん"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zoned out.",
+      "ja": "考え事だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thinking about the next mission?",
+      "ja": "次の任務のこと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "いや"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just looking at the moon.",
+      "ja": "月を見てた"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's always so weird seeing it like that in the daylight.",
+      "ja": "昼間の月って ヘンだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like God made a mistake.",
+      "ja": "神様のミスみたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Left the hall lights on.",
+      "ja": "空に穴を"
+    }
+  },
+  {
+    "translation": {
+      "en": "God doesn't make mistakes. That's...",
+      "ja": "神様はミスしない"
+    }
+  },
+  {
+    "translation": {
+      "en": "somewhat key to the whole being a god thing.",
+      "ja": "何しろ 神様だからね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pretty sure he does.",
+      "ja": "するわよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know he's listening right now, don't you?",
+      "ja": "神様に聞こえるぞ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You take a cell, circumvent the Hayflick limit, you can prevent senescence.",
+      "ja": "細胞分裂には 回数の限界があるの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was about to make the exact same point.",
+      "ja": "楽しそうな話題だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It means the cell doesn't grow old, it becomes immortal.",
+      "ja": "その限界を解除できれば―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keeps dividing, doesn't die.",
+      "ja": "不死になる"
+    }
+  },
+  {
+    "translation": {
+      "en": "They say aging is a natural process, but it's actually a fault in our genes.",
+      "ja": "加齢が起きるのは 遺伝子の欠陥のせいなの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I get really turned on when you patronize me. It's really hot.",
+      "ja": "先生ぽくて 興奮する"
+    }
+  },
+  {
+    "translation": {
+      "en": "Without it, I could keep looking like this forever.",
+      "ja": "おかげで この体も老いる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, okay. - Well, that could constitute a mistake. -",
+      "ja": "確かにそれは 神様のミスだな"
+    }
+  },
+  {
+    "translation": {
+      "en": "You didn't tell me where you're heading this time.",
+      "ja": "行き先は内緒なのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know there's something strange about this mission.",
+      "ja": "今回の任務は いつもと違う"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "ja": "どうして？"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silence around it is louder than usual.",
+      "ja": "いつもより沈黙を重く感じる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kind of angling for a clue here.",
+      "ja": "ヒントもくれないの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "So...?",
+      "ja": "どう？"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll be under the same hemisphere.",
+      "ja": "行き先は北半球だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that tell me?",
+      "ja": "だから？"
+    }
+  },
+  {
+    "translation": {
+      "en": "It tells you that if you step outside and you look up...",
+      "ja": "外に出て空を見たら―"
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll be looking at the same stars.",
+      "ja": "同じ星が見える"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Holy fucking shit. - What?",
+      "ja": "本気で言ってる？ 何だよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Are you kidding? - What?",
+      "ja": "冗談でしょ 何が？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that's what I do while you're away?",
+      "ja": "私が そんなことしてると？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- What? - You think I'm out in the garden,",
+      "ja": "何を… 庭に出て―"
+    }
+  },
+  {
+    "translation": {
+      "en": "pining, looking up at the sky?",
+      "ja": "寂しく星を見つめる？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Shut up. All right. - Oh, to think my beloved Kane...",
+      "ja": "黙れ “おお 愛しのケイン様”"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Okay. Uh- huh. - ...is looking at the selfsame moon.",
+      "ja": "わかったよ “同じ月を見ているの？”"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop it.",
+      "ja": "やめろって"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my distant celestial friend...",
+      "ja": "“おお 遥かな 愛しいあなた…”"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No.",
+      "ja": "ダメよ　やめて"
+    }
+  },
+  {
+    "translation": {
+      "en": "...please care for my brave soldier.",
+      "ja": "“私の兵士 どうかご無事で”"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. You know what? You are disrespectful,",
+      "ja": "失礼なやつだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "seriously, not only to your former comrades in the armed forces,",
+      "ja": "昔の戦友を冒とくしてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "- but also to the president. - You forgot the flag.",
+      "ja": "大統領もだ 国旗もね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I'm getting-- I'm getting to the motherfucking flag.",
+      "ja": "そうだよ　国旗もだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my hero.",
+      "ja": "“我が英雄…”"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Screw you. - Okay.",
+      "ja": "くたばれ はいはい"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's all by herself. Don't you think we should make friends?",
+      "ja": "１人ぼっちだ　声かけようよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Well, obviously you should. - Yep, I'll do it.",
+      "ja": "好きにすれば 行ってくる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ja": "どうも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ja": "どうも"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Am I intruding? - No, not at all.",
+      "ja": "お邪魔？ いいえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cool. Phew.",
+      "ja": "よかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I always see you here alone. It's...",
+      "ja": "１人で離れてるから…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm guessing you probably feel weird or awkward.",
+      "ja": "気持ちが 落ち着かないんじゃない？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhat, I guess.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't. Seriously, don't.",
+      "ja": "大丈夫だよ　すぐ慣れる"
+    }
+  },
+  {
+    "translation": {
+      "en": "The people here put themselves to sleep in the fetal position making cooing noises.",
+      "ja": "皆 ベッドでは小さくなって 震えてるよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's freaky, you know.",
+      "ja": "怖いもんね"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I'm Anya. - Lena.",
+      "ja": "私は アニャ レナよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Nice to meet you. - You, too.",
+      "ja": "はじめまして"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, why don't you come and meet my crew?",
+      "ja": "皆に紹介する"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come make friends. Come on.",
+      "ja": "おいでよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ladies, meet Lena.",
+      "ja": "みんな こちらレナ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi nice to meet you.",
+      "ja": "どうも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that's Cassie Sheppard, and Josie Radek.",
+      "ja": "キャシー･シェパードと ジョシー･ラデック"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Hi. Nice to meet you. - Hi.",
+      "ja": "はじめまして"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Do you want to have a seat? - Thank you.",
+      "ja": "座る？ ありがとう"
+    }
+  },
+  {
+    "translation": {
+      "en": "- So, first day at the Southern Reach. - Yes.",
+      "ja": "サザーン･リーチ初日ね ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Thank you. - You're welcome.",
+      "ja": "どうも いいえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You all been here long?",
+      "ja": "皆は長いの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, yeah, right from the start.",
+      "ja": "ええ 最初からよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a geomorphologist.",
+      "ja": "地形学者なの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been testing the magnetic fields around the boundary,",
+      "ja": "境界付近の磁場を調査してる"
+    }
+  },
+  {
+    "translation": {
+      "en": "which is like using confetti to test a hurricane.",
+      "ja": "全然 歯が立たないけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, and I've been here... ten months.",
+      "ja": "私はちょうど 10ヵ月になる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, ten months.",
+      "ja": "10ヵ月か"
+    }
+  },
+  {
+    "translation": {
+      "en": "Paramedic from Chicago.",
+      "ja": "救急隊員なんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tried to join an NGO, but my application got flagged,",
+      "ja": "ＮＧＯに応募したけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "so Southern Reach got me.",
+      "ja": "落ちてここへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only two months. I'm a physicist.",
+      "ja": "私は２ヵ月 物理学者よ ケンブリッジからここへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I came straight from my Cambridge postdoc.",
+      "ja": "物理学者よ ケンブリッジからここへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's very smart.",
+      "ja": "賢いんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your story, Lena?",
+      "ja": "レナは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, I'm from Johns Hopkins, biologist.",
+      "ja": "生物学者よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Oh, there you go. - Ha, biologist?",
+      "ja": "当たりね マジで？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Told you she was smart. - What?",
+      "ja": "さすがね 何だよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had a bet on your profession, and Josie had biologist, of course.",
+      "ja": "賭けてたのよ ラデックが正解"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I had law enforcement. - I had you as single.",
+      "ja": "私の予想は警察 私の予想は独身"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. Do you have to hit on everyone, like all the time?",
+      "ja": "すぐ口説くんだから"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck that. Under the circumstances,",
+      "ja": "この状況だもの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I'm allowed to roll the dice a few more times.",
+      "ja": "楽しんだっていいでしょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Under what circumstances?",
+      "ja": "状況って？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, yeah, um, crazy as it seems...",
+      "ja": "信じられないと思うけど…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Crazy as it is.",
+      "ja": "まったくだよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "...we are headed that way.",
+      "ja": "あそこに行くの"
+    }
+  },
+  {
+    "translation": {
+      "en": "- You're going into the Shimmer? - Six days and counting.",
+      "ja": "シマーに？ 出発は６日後"
+    }
+  },
+  {
+    "translation": {
+      "en": "- You three? - Four.",
+      "ja": "３人で？ ４人よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress.",
+      "ja": "ヴェントレスも"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Dr. Ventress? - Mmm. Team leader.",
+      "ja": "彼女が？ 隊長よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- All women. - Scientists.",
+      "ja": "全員 女性 そして科学者"
+    }
+  },
+  {
+    "translation": {
+      "en": "The previous teams have been largely military, so, yeah.",
+      "ja": "前の調査隊は 軍隊だったの"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you think happened to them?",
+      "ja": "彼らに何が？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, there are two theories of what went wrong in the Shimmer.",
+      "ja": "それについては ２つの可能性が"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, something kills them.",
+      "ja": "殺されたか―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two, they go crazy and kill each other.",
+      "ja": "狂って 殺し合った"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was one military guy who made it out.",
+      "ja": "１人だけ生還したって"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "A sergeant.",
+      "ja": "軍曹ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, but you heard about the state that he was in.",
+      "ja": "でも ひどい状態らしい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane...",
+      "ja": "ケイン…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know why you went in.",
+      "ja": "私のせいね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am so sorry.",
+      "ja": "ごめんなさい"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I know what I have to do.",
+      "ja": "私も決めたわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you didn't tell them about your connection to Sergeant Kane?",
+      "ja": "彼との関係を 話さなかったの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought it would complicate things.",
+      "ja": "話が複雑になるかと"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ja": "話？"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would it complicate?",
+      "ja": "何のこと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you going into the Shimmer?",
+      "ja": "あなたは なぜシマーに？"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mission statement is to reach the supposed source of the Shimmer,",
+      "ja": "この任務の目的は― シマーの源の灯台に到達し"
+    }
+  },
+  {
+    "translation": {
+      "en": "the lighthouse, enter and acquire data, and return.",
+      "ja": "シマーの源の灯台に到達し 情報を集めて 戻ってくること"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think that that's your mission statement.",
+      "ja": "でも あなたの目的は違う"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been watching the phenomenon for a while now.",
+      "ja": "この現象をずっと見てきた"
+    }
+  },
+  {
+    "translation": {
+      "en": "I profile the volunteers.",
+      "ja": "調査団の志願者を―"
+    }
+  },
+  {
+    "translation": {
+      "en": "I pick the teams.",
+      "ja": "審査し 選んできた"
+    }
+  },
+  {
+    "translation": {
+      "en": "They enter, I watch.",
+      "ja": "彼らは あの中に 消えていき―"
+    }
+  },
+  {
+    "translation": {
+      "en": "I watch it grow closer.",
+      "ja": "境界は 近づき続ける"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's only so long one can do that.",
+      "ja": "もう たくさんなの"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you need to know what's inside?",
+      "ja": "真実が知りたい？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, I do.",
+      "ja": "ええ　知りたいわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So do I.",
+      "ja": "私もよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So that's the complication.",
+      "ja": "なるほどね"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to come with us.",
+      "ja": "行きたいのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't do anything for him here.",
+      "ja": "ここじゃ何もできない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Soldier- scientist.",
+      "ja": "軍人で科学者"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can fight.",
+      "ja": "戦って―"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can learn.",
+      "ja": "学んで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can save him.",
+      "ja": "救いたいのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "You requested to join the mission.",
+      "ja": "参加を希望したと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew all other missions had failed",
+      "ja": "生還者は１人しか―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the only survivor was barely surviving.",
+      "ja": "いないと知っていながら"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was a brave choice.",
+      "ja": "勇敢な行為だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him.",
+      "ja": "夫に借りが"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm only trying to understand what drove you.",
+      "ja": "志願の理由を知りたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him...",
+      "ja": "借りがあるの"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I went in.",
+      "ja": "それだけ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we get some real meals.",
+      "ja": "まともな食事は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Spaghetti. Here's Radek's vegetable crackers.",
+      "ja": "パスタ ラデックのクラッカーも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, cornbread. That's not so bad.",
+      "ja": "コーンブレッドもある"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you're finally awake.",
+      "ja": "やっと起きた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta give me a second. I'm a little disoriented.",
+      "ja": "待って　ちょっと混乱してる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Join the club.",
+      "ja": "こっちもよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't remember setting up camp, do you?",
+      "ja": "昨夜の記憶がないよね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember anything... after we reached the tree line.",
+      "ja": "境界を越えたことしか 覚えてない"
+    }
+  },
+  {
+    "translation": {
+      "en": "None of us do.",
+      "ja": "皆 そうよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we did a food inventory.",
+      "ja": "食料の減り具合からして―"
+    }
+  },
+  {
+    "translation": {
+      "en": "From the depletion, we've been out here for at least three or four days.",
+      "ja": "食料の減り具合からして― ４日はここにいるみたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's not possible.",
+      "ja": "ありえない"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what I said.",
+      "ja": "でしょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, I've been checking my comms and nav equipment.",
+      "ja": "通信機器とナビ機器を チェックした"
+    }
+  },
+  {
+    "translation": {
+      "en": "They boot up fine, no problem with the electronics,",
+      "ja": "電源は問題なく入るし―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the camera is working,",
+      "ja": "カメラも動く"
+    }
+  },
+  {
+    "translation": {
+      "en": "but anything that sends a signal out of the Shimmer... is down.",
+      "ja": "でも 外界との通信は... 全てダウン"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even though we've probably got about 20 satellites above us right now,",
+      "ja": "衛星は飛んでるのに"
+    }
+  },
+  {
+    "translation": {
+      "en": "and... check this out.",
+      "ja": "これを見て"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we've got no compass, no comms, no coordinates...",
+      "ja": "コンパスも 通信手段も 座標もなし"
+    }
+  },
+  {
+    "translation": {
+      "en": "and no landmarks.",
+      "ja": "目印もない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, we know we're in the state park.",
+      "ja": "わかってることもある"
+    }
+  },
+  {
+    "translation": {
+      "en": "We head south, we hit the ocean,",
+      "ja": "南に進んで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "then we can just follow the shoreline until we hit the perimeter wall. Right?",
+      "ja": "海岸沿いに歩けば 反対側に抜ける"
+    }
+  },
+  {
+    "translation": {
+      "en": "- How do we know what's south? - Come on, Josie, you know this.",
+      "ja": "どっちが南？ 知ってるでしょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hour hand at the sun.",
+      "ja": "時計の短針を―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Split the difference between the hour hand and 12, south.",
+      "ja": "太陽に向けて 12との間が南"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ja": "いいわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're oriented.",
+      "ja": "大丈夫そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "We weren't really expecting the comms equipment to work, were we?",
+      "ja": "通信できないことは 想定内よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's been three years of expeditions and three years of radio silence.",
+      "ja": "３年間 通信は 一切できなかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pack up and get moving.",
+      "ja": "すぐ出発しましょう"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've already lost a lot of the day.",
+      "ja": "時間がないわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I'm gonna check this out. Get us out of this damn swamp.",
+      "ja": "これ まだ使えるかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Let's check out the hut.",
+      "ja": "そうね 小屋を調べて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like someone's about to have a wedding.",
+      "ja": "結婚式の会場みたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "These are very strange.",
+      "ja": "この花 ヘンだわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "ja": "なぜ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, they're all so different.",
+      "ja": "色んな種類の花が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "To look at them, you wouldn't say that they're the same species.",
+      "ja": "混ざってるように 見えるけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they're growing from the same branch structure...",
+      "ja": "株はひとつしかない"
+    }
+  },
+  {
+    "translation": {
+      "en": "so it has to be the same species.",
+      "ja": "つまり これは全て―"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the same plant.",
+      "ja": "同じ植物よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like they're stuck in a continuous mutation.",
+      "ja": "変異し続けてるみたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "A pathology?",
+      "ja": "何かの病気？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, well...",
+      "ja": "そうね…"
+    }
+  },
+  {
+    "translation": {
+      "en": "you'd sure as hell call it a pathology if you saw this in a human.",
+      "ja": "これが人間なら そう呼ぶわね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard! Mode of transportation.",
+      "ja": "シェパード 移動手段だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything interesting in there?",
+      "ja": "そっちはどう？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. It's been long abandoned, maybe even before--",
+      "ja": "空っぽよ ずっと使われて…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek?",
+      "ja": "ラデック？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek!",
+      "ja": "ラデック！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Radek!",
+      "ja": "ラデック！"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's got my bag!",
+      "ja": "何かいる！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek!",
+      "ja": "ラデック！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's got my bag!",
+      "ja": "引っ張られる！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no!",
+      "ja": "助けて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's got my bag!",
+      "ja": "リュックを…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Help me with her! - What's going on?",
+      "ja": "手を貸して！ どうしたの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, grab my shoulder!",
+      "ja": "つかまって！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get her. Come on.",
+      "ja": "引き上げて"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got her.",
+      "ja": "いいわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay? You got her?",
+      "ja": "立てる？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're good, you're good.",
+      "ja": "大丈夫よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ja": "こっちへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's sit you down. Help me with her bag.",
+      "ja": "座って　荷物を下ろす"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, just breathe. It's okay. You're just fine.",
+      "ja": "深呼吸して 大丈夫だから"
+    }
+  },
+  {
+    "translation": {
+      "en": "- What the hell happened? - Something in the water.",
+      "ja": "どうしたの？ 何かいる"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Get up, get up. Go. -",
+      "ja": "立って　向こうへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit! Get back.",
+      "ja": "クソ 下がって"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard! Sheppard, watch out!",
+      "ja": "シェパード！ 逃げて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Holy fuck!",
+      "ja": "クソ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's exactly the same as the flowers.",
+      "ja": "あの花と全く同じ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at the teeth.",
+      "ja": "歯が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Concentric rows.",
+      "ja": "同心円状に"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something here is making giant waves in the gene pool.",
+      "ja": "遺伝子プールの大きな異変よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sharks have teeth like that, don't they?",
+      "ja": "サメの歯みたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think it's a crossbreed?",
+      "ja": "異種交配種だと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't crossbreed between different species.",
+      "ja": "属を越えた交配はできない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, this is getting heavy.",
+      "ja": "レナ 重いよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mutations were subtle at first.",
+      "ja": "灯台に近づくにつれ―"
+    }
+  },
+  {
+    "translation": {
+      "en": "More extreme as we grew closer to the lighthouse.",
+      "ja": "変異は激しくなっていった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corruptions of form.",
+      "ja": "形態の変容に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Duplicates of form.",
+      "ja": "形態の模倣"
+    }
+  },
+  {
+    "translation": {
+      "en": "Duplicates?",
+      "ja": "模倣？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Echoes.",
+      "ja": "反射よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it possible these were hallucinations?",
+      "ja": "幻覚だった可能性は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wondered that myself.",
+      "ja": "それも考えたわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they were shared among all of us.",
+      "ja": "でも皆 同じ物を見てた"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was dreamlike.",
+      "ja": "夢のようだった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nightmarish.",
+      "ja": "悪夢か"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not always.",
+      "ja": "そうね でも―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sometimes it was beautiful.",
+      "ja": "美しい物もあった"
+    }
+  },
+  {
+    "translation": {
+      "en": "You hurt?",
+      "ja": "ケガ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just a bruise.",
+      "ja": "ただのアザよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Must have gotten that from the gator.",
+      "ja": "さっき ぶつけたのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, where'd you learn to shoot?",
+      "ja": "銃の扱いはどこで？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was in the military before I was an academic.",
+      "ja": "以前 軍隊にいたの"
+    }
+  },
+  {
+    "translation": {
+      "en": "Marines?",
+      "ja": "海兵隊？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Army. Seven years.",
+      "ja": "陸軍で７年"
+    }
+  },
+  {
+    "translation": {
+      "en": "Feels like a lifetime ago now.",
+      "ja": "まるで前世みたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "わかるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All other lives feel like a lifetime ago.",
+      "ja": "全部 遠い過去みたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "We were kids, I was married.",
+      "ja": "子供時代も 結婚生活も"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which do you carry around your neck? A husband or a child?",
+      "ja": "そのロケットの写真は誰？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "ja": "夫よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was in the army, too. That's...",
+      "ja": "彼も陸軍だった　そこで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how we met.",
+      "ja": "出会ったの"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was in the army? He quit?",
+      "ja": "退役したの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "KIA.",
+      "ja": "戦死よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry to hear that.",
+      "ja": "お気の毒に"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guess there had to be something.",
+      "ja": "それが理由ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean?",
+      "ja": "何の？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Volunteering for... this.",
+      "ja": "これに志願した理由"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not exactly something you do if your life is in... perfect harmony.",
+      "ja": "全てうまくいってる人は ここには来ない"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all damaged goods here.",
+      "ja": "皆 ワケありよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anya is sober...",
+      "ja": "アニャは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "therefore an addict.",
+      "ja": "中毒患者"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie wears long sleeves 'cause she doesn't want you to see the scars on her forearms.",
+      "ja": "ラデックは いつも長袖で 手首の傷を隠してる"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's tried to kill herself?",
+      "ja": "自殺未遂？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I think the opposite, trying to feel alive.",
+      "ja": "生きてる実感が欲しいのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress?",
+      "ja": "ヴェントレスは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. As far as anyone knows...",
+      "ja": "彼女は 皆の知る限り―"
+    }
+  },
+  {
+    "translation": {
+      "en": "no friends, no family, no partner, no children.",
+      "ja": "友達も家族も 子供もいない"
+    }
+  },
+  {
+    "translation": {
+      "en": "No concession in her at all.",
+      "ja": "失うものがない"
+    }
+  },
+  {
+    "translation": {
+      "en": "- You? - I also lost someone.",
+      "ja": "あなたは？ あなたと同じ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a husband, though, um...",
+      "ja": "でも 夫じゃなく―"
+    }
+  },
+  {
+    "translation": {
+      "en": "A daughter. Leukemia.",
+      "ja": "娘を亡くした　白血病よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "God, I'm sorry.",
+      "ja": "辛いわね"
+    }
+  },
+  {
+    "translation": {
+      "en": "In a way, it's two bereavements.",
+      "ja": "あの時 死んだの"
+    }
+  },
+  {
+    "translation": {
+      "en": "My... beautiful girl...",
+      "ja": "あの子と一緒に"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the person I once was.",
+      "ja": "かつての私も"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey!",
+      "ja": "ちょっと"
+    }
+  },
+  {
+    "translation": {
+      "en": "We got something here.",
+      "ja": "何かあるよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This used to be the headquarters of the Southern Reach.",
+      "ja": "以前はここが サザーン･リーチの―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before the Shimmer swallowed it.",
+      "ja": "本部棟だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "More mutations.",
+      "ja": "変異体ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're everywhere.",
+      "ja": "そこら中にある"
+    }
+  },
+  {
+    "translation": {
+      "en": "Malignant.",
+      "ja": "悪性の―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like tumors.",
+      "ja": "腫瘍みたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that the old mess hall?",
+      "ja": "これが食堂？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's billet there. Come on.",
+      "ja": "今夜はここに泊まる"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's beds and bags. You think people are here?",
+      "ja": "ベッドと荷物がある 誰かいるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were here.",
+      "ja": "いたのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'm gonna go with the past tense.",
+      "ja": "過去形ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "ja": "何これ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "ja": "すごい"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit is heavy. Can't carry this.",
+      "ja": "重すぎて担(かつ)げない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, what you got going on?",
+      "ja": "レナ それは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, check this out.",
+      "ja": "これを見て"
+    }
+  },
+  {
+    "translation": {
+      "en": "Peyton, Mayer...",
+      "ja": "ペイトン メイヤー"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane, Shelley.",
+      "ja": "ケイン　シェリー"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those were the soldiers on the last expedition.",
+      "ja": "前回の調査隊員よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like they were using this room as their base of operations.",
+      "ja": "ここを拠点にしてたのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are some of the names crossed out?",
+      "ja": "名前にバツ印が"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's not jump to conclusions.",
+      "ja": "結論を急がないで"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I don't know, maybe we should. - Yeah.",
+      "ja": "急ぐべきかも ああ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- This is a plan view of the base, right? - Yep. This is the mess hall.",
+      "ja": "ここの平面図ね ええ これが食堂"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Building we're in? - Yep.",
+      "ja": "私達はここね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think that the times by the names are a guard rota, so...",
+      "ja": "この数字は多分 見張りの順番"
+    }
+  },
+  {
+    "translation": {
+      "en": "if they were guarding the perimeter, we should.",
+      "ja": "私達も見張りを"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Copy that. - Yep.",
+      "ja": "賛成よ 了解"
+    }
+  },
+  {
+    "translation": {
+      "en": "This might be able to tell us something.",
+      "ja": "こんなものが"
+    }
+  },
+  {
+    "translation": {
+      "en": "For those that follow.",
+      "ja": "“次の調査隊へ”"
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that means us.",
+      "ja": "私達のことね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Memory card.",
+      "ja": "メモリーカードよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should be able to play this.",
+      "ja": "再生できるはず"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's working.",
+      "ja": "いけるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right?",
+      "ja": "いくぞ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Okay? - Okay.",
+      "ja": "いいな？ ああ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ja": "よし"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Okay. Okay. Okay.",
+      "ja": "オーケー　大丈夫だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Okay. Okay. - Yeah?",
+      "ja": "いくぞ 大丈夫"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ja": "大丈夫"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ja": "何これ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is he doing?",
+      "ja": "一体 何を…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop. Stop. Stop, stop, stop.",
+      "ja": "止めろ　そこまでだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold him. Hold him down.",
+      "ja": "押さえてろ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There. There.",
+      "ja": "これを"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so we know what happened to the last group. They went insane.",
+      "ja": "こいつら 狂ってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Was something alive inside that man. - No.",
+      "ja": "体の中に 何かいた"
+    }
+  },
+  {
+    "translation": {
+      "en": "- That was a trick of the light. - What?",
+      "ja": "目の錯覚だ 何を…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been a paramedic for 10 years. I've scraped people off the road.",
+      "ja": "人間の内臓は さんざん見てきた"
+    }
+  },
+  {
+    "translation": {
+      "en": "You see some weird shit. That was a trick of the light.",
+      "ja": "人間の内臓は さんざん見てきた あれは目の錯覚だよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- His insides were moving. - No, it was shock.",
+      "ja": "でも 動いてた ショック反応だよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- That was a shock response. - Watch it again.",
+      "ja": "ショック反応だよ もう一度 見て"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I'm not gonna watch it again!",
+      "ja": "イヤだよ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was not intestines. It was a worm--",
+      "ja": "内臓じゃない なら 自分で見ろよ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then you watch it, Sheppard!",
+      "ja": "なら 自分で見ろよ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are you going?",
+      "ja": "どこへ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Where'd she go? - Just ahead.",
+      "ja": "彼女は？ こっちよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "ja": "これは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ja": "分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I don't want to stay here tonight. - We don't have a choice.",
+      "ja": "ここはイヤ 選択肢はない"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Please. - Come on.",
+      "ja": "お願い こっちへ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's too late in the day for us to move on.",
+      "ja": "もうすぐ暗くなる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, let's go outside.",
+      "ja": "外に行こう"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, that's nice of you.",
+      "ja": "優しいのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why aren't you here?",
+      "ja": "もう起きたの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta leave a day early.",
+      "ja": "出発が早まった"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ja": "え？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, today?",
+      "ja": "今日 出発？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Right now. - Oh, shit.",
+      "ja": "今すぐだ そんな"
+    }
+  },
+  {
+    "translation": {
+      "en": "But we had a whole day planned.",
+      "ja": "でも 今日はドライブに…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- We were gonna drive to the country-- - No, we can't.",
+      "ja": "でも 今日はドライブに… ムリだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "- We can't. - Can you at least...?",
+      "ja": "行けない せめて…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now means right now.",
+      "ja": "今 行くのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "ああ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "ja": "何？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do...",
+      "ja": "君を…"
+    }
+  },
+  {
+    "translation": {
+      "en": "love you...",
+      "ja": "愛してる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena.",
+      "ja": "レナ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, too.",
+      "ja": "私もよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ja": "ねえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mystery unraveling?",
+      "ja": "謎解き中？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's unraveling.",
+      "ja": "そんな余裕ない"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think you're doing okay.",
+      "ja": "あなたは大丈夫"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's good Josie's getting some rest.",
+      "ja": "ラデックは限界ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of a little sedative.",
+      "ja": "鎮静剤で寝てるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about you? Get some sleep?",
+      "ja": "あなたは？ 眠れた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some.",
+      "ja": "少しね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm at least as freaked as Josie.",
+      "ja": "本当は 私も限界よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just hiding it better.",
+      "ja": "隠してるだけ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should check on Ventress.",
+      "ja": "交代してくる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yep.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What're you doing up? Not supposed to relieve me until 3:00.",
+      "ja": "交代は３時のはずよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done sleeping for the night.",
+      "ja": "目が覚めたから"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ja": "そう"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come look at this.",
+      "ja": "これを見て"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, this is where we are...",
+      "ja": "今はここ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's the lighthouse.",
+      "ja": "これが灯台"
+    }
+  },
+  {
+    "translation": {
+      "en": "Southwest is Ville Perdu.",
+      "ja": "これは ヴィル･ペルデュ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a small community we evacuated two years ago.",
+      "ja": "２年前に避難させた村よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think we should head there tomorrow,",
+      "ja": "明日はそこに向かう"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then head out for the coast the following morning.",
+      "ja": "そして翌朝 海岸へ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ja": "わかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "ja": "大丈夫？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was gonna say, when...",
+      "ja": "ご主人のこと"
+    }
+  },
+  {
+    "translation": {
+      "en": "you didn't tell the team about your connection to Kane, I wasn't sure if that was a good idea.",
+      "ja": "皆に伝えるべきだと 思ってたけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "But after seeing that footage...",
+      "ja": "あの映像を見て…"
+    }
+  },
+  {
+    "translation": {
+      "en": "yeah. I'm not sure how they would have reacted to you.",
+      "ja": "確かに 黙っていて 正解だったのかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why did my husband volunteer for a suicide mission?",
+      "ja": "夫はなぜ 自殺行為を？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you think we're doing?",
+      "ja": "この任務は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Committing suicide? - You must have profiled him,",
+      "ja": "自殺行為だと？ 審査したんでしょう？"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must have assessed him.",
+      "ja": "審査したんでしょう？"
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have said something.",
+      "ja": "彼は何と？"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you're asking me as a psychologist.",
+      "ja": "私の見解が知りたい？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, as a psychologist...",
+      "ja": "心理学的に言って―"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd say you're confusing suicide with self- destruction.",
+      "ja": "自殺と 自己破壊は 別のものよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Almost none of us commit suicide...",
+      "ja": "自殺する人は一部"
+    }
+  },
+  {
+    "translation": {
+      "en": "and almost all of us self- destruct.",
+      "ja": "でも自己破壊は誰でもする"
+    }
+  },
+  {
+    "translation": {
+      "en": "In some way, in some part of our lives.",
+      "ja": "何らかの形でね"
+    }
+  },
+  {
+    "translation": {
+      "en": "We drink, or we smoke.",
+      "ja": "お酒やタバコもそう"
+    }
+  },
+  {
+    "translation": {
+      "en": "We destabilize the good job.",
+      "ja": "キャリアを傷つけたり"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or the happy marriage.",
+      "ja": "結婚を破壊する"
+    }
+  },
+  {
+    "translation": {
+      "en": "These aren't decisions, they're...",
+      "ja": "理性的な選択ではなく―"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're impulses.",
+      "ja": "衝動よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "In fact, you're probably better equipped to explain this than I am.",
+      "ja": "多分... あなたの方が詳しいでしょう"
+    }
+  },
+  {
+    "translation": {
+      "en": "- What does that mean? -",
+      "ja": "どういうこと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a biologist.",
+      "ja": "生物学者でしょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't self- destruction coded into us?",
+      "ja": "自己破壊は私達の細胞に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programmed into each cell?",
+      "ja": "組み込まれてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was that?",
+      "ja": "あれは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Don't know.",
+      "ja": "分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie, wake up.",
+      "ja": "ラデック"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wake up, Josie, come on. Wake up. Something's happening.",
+      "ja": "起きて　何か聞こえた"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Do you see anything? - No.",
+      "ja": "見える？ いいえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened? I heard a noise.",
+      "ja": "何の音？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Oh. - What?",
+      "ja": "何？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's come through the fence.",
+      "ja": "フェンスが…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Through the fence? - It's ripped open like a fucking zipper.",
+      "ja": "え？ 破られてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't see.",
+      "ja": "何も見えない"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Yeah, neither can I. -",
+      "ja": "私もよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "ja": "シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Sheppard!",
+      "ja": "シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Fuck! - What's going on?",
+      "ja": "どうしたの？ 何てこと"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard was next to me. Something took her.",
+      "ja": "シェパードが襲われた"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Oh, fuck! Oh, fuck! Sheppard!",
+      "ja": "何てことなの シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit!",
+      "ja": "シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shepp...",
+      "ja": "ウソよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "ja": "シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "ja": "シェパード！"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to go back.",
+      "ja": "引き返そう"
+    }
+  },
+  {
+    "translation": {
+      "en": "- We have to go back now. - She's right.",
+      "ja": "今すぐよ 賛成だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right? In what sense?",
+      "ja": "根拠は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've been attacked twice.",
+      "ja": "２度 攻撃され―"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - We lost one of our own.",
+      "ja": "１人 死んだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have evidence the previous team went nuts and chopped each other up.",
+      "ja": "前の隊は 狂って殺し合った"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really don't know how much more right she has to be.",
+      "ja": "これ以上 どんな根拠が？"
+    }
+  },
+  {
+    "translation": {
+      "en": "We haven't reached the lighthouse.",
+      "ja": "灯台はまだ先よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We still don't understand the cause or the nature of the Shimmer.",
+      "ja": "何も解明できてない"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have data, observations, photographs. She has hella footage.",
+      "ja": "データはある　ビデオも"
+    }
+  },
+  {
+    "translation": {
+      "en": "All of which makes the phenomenon less explicable, not more.",
+      "ja": "でも 謎は深まっただけよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna get to the lighthouse,",
+      "ja": "灯台を目指す"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'm fine going on my own.",
+      "ja": "私１人でもね"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just need to decide... whether you're coming with me or not.",
+      "ja": "一緒に来るか来ないか 自分で決めて"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like she hasn't noticed that Sheppard is dead.",
+      "ja": "仲間が死んだのに…"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's crazy.",
+      "ja": "あの女"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's a crazy old bitch.",
+      "ja": "狂ってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, and thanks for the fucking backup, Lena.",
+      "ja": "レナはどっちの味方だ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I didn't realize there were sides. - Yeah.",
+      "ja": "そういう問題じゃ… いいや"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, there are sides.",
+      "ja": "そういう問題だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then I agree with you. We should go back.",
+      "ja": "私も戻るべきだと思うわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. Okay, great. There we go. Okay?",
+      "ja": "じゃあ行こう　３人で…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- So the three of us can-- - Hold on a minute.",
+      "ja": "じゃあ行こう　３人で… ちょっと待って"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go back, yes.",
+      "ja": "考えてみて"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it took us, what, six days to get here?",
+      "ja": "ここまで６日かかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the coast is two days away.",
+      "ja": "海岸までは２日よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And as Sheppard said...",
+      "ja": "シェパードが言った通り"
+    }
+  },
+  {
+    "translation": {
+      "en": "when we get to the coast, we can follow it until the perimeter wall.",
+      "ja": "海岸に着けば― 反対側に出れる"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're saying we get out by going deeper?",
+      "ja": "先に進むの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Yeah, if you like, yeah. - Like?",
+      "ja": "提案よ 提案？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I don't fucking like.",
+      "ja": "どうだか　信用できないね"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't some bullshit tactic to get us to the lighthouse, is it?",
+      "ja": "灯台に連れて行く気だろ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is not about the lighthouse, okay?",
+      "ja": "そうじゃないわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that the coast is the best route out.",
+      "ja": "早くここから出るためよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "ja": "いい？"
+    }
+  },
+  {
+    "translation": {
+      "en": "You lied to them.",
+      "ja": "彼らに嘘を？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know what going back meant.",
+      "ja": "進んでも引き返しても―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why it would be safer than going forward.",
+      "ja": "危険は同じだと思った"
+    }
+  },
+  {
+    "translation": {
+      "en": "You didn't know, but you made a decision to continue as if you did.",
+      "ja": "だから進むべきと 判断したと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress made the decision.",
+      "ja": "ヴェントレスがね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress had cancer. She was never coming back.",
+      "ja": "彼女は がんだった"
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew she was sick.",
+      "ja": "気付いてただろ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had guessed.",
+      "ja": "薄々ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you wanted to continue.",
+      "ja": "君は進みたかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I did.",
+      "ja": "そうよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She could still be alive.",
+      "ja": "生きてるかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's highly doubtful.",
+      "ja": "可能性は低い"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to know.",
+      "ja": "ゼロじゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "ja": "見てきて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming with you.",
+      "ja": "私も行く"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go alone.",
+      "ja": "１人でいい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you find her?",
+      "ja": "見つけた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's dead.",
+      "ja": "死んだわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "ja": "大丈夫？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine. Just... leave me the fuck alone.",
+      "ja": "いいから 放っておいて"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll camp here tonight.",
+      "ja": "今夜はここで"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's another two hours' walk up the coast.",
+      "ja": "海岸まで あと２時間よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They've grown this way.",
+      "ja": "自然に人型に"
+    }
+  },
+  {
+    "translation": {
+      "en": "That doesn't make any sense.",
+      "ja": "ありえない"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it does.",
+      "ja": "ありえるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "At first I thought the radio waves were blocked by the Shimmer,",
+      "ja": "シマーが電波を ブロックしてるから―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's why no one inside could communicate with base or GPS,",
+      "ja": "通信できないのかと 思っていたけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the light waves aren't blocked, they're refracted, and...",
+      "ja": "光はブロックされずに 反射している　そして…"
+    }
+  },
+  {
+    "translation": {
+      "en": "...it's the same with the radios.",
+      "ja": "電波もそう"
+    }
+  },
+  {
+    "translation": {
+      "en": "The signals aren't gone.",
+      "ja": "信号が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're scrambled.",
+      "ja": "絡(から)まってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "That leaf in your hand...",
+      "ja": "その葉っぱを―"
+    }
+  },
+  {
+    "translation": {
+      "en": "know what you'd get if you sequenced it?",
+      "ja": "解析したら…"
+    }
+  },
+  {
+    "translation": {
+      "en": "- What? - Human Hox genes.",
+      "ja": "何？ ヒトのＨＯＸ遺伝子が"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hox? What is-- What's Hox mean?",
+      "ja": "何それ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're the genes that define the body plan, the physical structure.",
+      "ja": "体の構造を決定する 遺伝子のことよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the plants have human body plan.",
+      "ja": "これはヒトの構造よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arms attached to shoulders. Legs to hips.",
+      "ja": "肩に腕が２本ついてて― 腰から脚が"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally not possible.",
+      "ja": "不可能だわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally what's happening.",
+      "ja": "でも現実よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Shimmer is a prism, but it refracts everything.",
+      "ja": "シマーは 全てを反射するプリズム"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not just light and radio waves.",
+      "ja": "光や電波だけじゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Animal DNA, plant DNA...",
+      "ja": "動物や植物 全てのＤＮＡを―"
+    }
+  },
+  {
+    "translation": {
+      "en": "all DNA.",
+      "ja": "反射する"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, all DNA?",
+      "ja": "全てのＤＮＡ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about our DNA.",
+      "ja": "私達のＤＮＡも…"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about us.",
+      "ja": "含むわけね"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right... I guess this is a bedroom.",
+      "ja": "ここで寝ましょう"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's secure doors and windows.",
+      "ja": "バリケードを"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was a mistake.",
+      "ja": "間違いだった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ja": "そうか"
+    }
+  },
+  {
+    "translation": {
+      "en": "You spend more time away from your husband than with him.",
+      "ja": "ケインは 任務で ほとんど不在だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't talk to him about work, and he won't talk to you about his.",
+      "ja": "夫婦の間で 仕事の話もできない"
+    }
+  },
+  {
+    "translation": {
+      "en": "And there is a clear physical and intellectual connection between us.",
+      "ja": "私達の間には明らかに つながりがある"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Have I covered the bases? - You forgot your wife.",
+      "ja": "違うか？ 奥さんは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love my wife.",
+      "ja": "妻のことは愛してる"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's blameless in this.",
+      "ja": "彼女は悪くない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Lena.",
+      "ja": "レナ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's really going on here?",
+      "ja": "教えてくれ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that something may have happened to him?",
+      "ja": "一体 何があった？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or you think he knows.",
+      "ja": "関係がバレた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it, isn't it?",
+      "ja": "そうなんだな"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think somehow he's found out about our affair.",
+      "ja": "彼が知っていると？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Has he found out?",
+      "ja": "そうなのか？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ja": "ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should go.",
+      "ja": "帰って"
+    }
+  },
+  {
+    "translation": {
+      "en": "- No, Lena, I-- - Dan...",
+      "ja": "レナ… ダン"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not interested in talking... or in anything you have to say.",
+      "ja": "何も話したくないし 聞きたくない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just get dressed and get out.",
+      "ja": "出て行って"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, it's not me you hate, it's yourself.",
+      "ja": "君が憎んでるのは 君自身だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Dan, it's you, too.",
+      "ja": "あなたも憎いわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's never gonna happen again.",
+      "ja": "もう会わない"
+    }
+  },
+  {
+    "translation": {
+      "en": "You lying bitch!",
+      "ja": "嘘つき女め！"
+    }
+  },
+  {
+    "translation": {
+      "en": "- What's going on? - No.",
+      "ja": "何？ 黙れ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't get to ask that fucking question. You answer it!",
+      "ja": "質問するのは私だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brother.",
+      "ja": "兄弟"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boyfriend.",
+      "ja": "彼氏"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "ja": "夫"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "ja": "夫か"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Why didn't you tell us? -",
+      "ja": "なぜ黙ってた？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- You knew. Obviously. -",
+      "ja": "あんたは― 知ってたよな"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Did you know? -",
+      "ja": "ラデックは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Okay.",
+      "ja": "そうか"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are two theories of what went wrong.",
+      "ja": "可能性は２パターン"
+    }
+  },
+  {
+    "translation": {
+      "en": "One is that something in here killed them.",
+      "ja": "誰かに殺された あるいは..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Two... is that they went crazy and they killed each other.",
+      "ja": "誰かに殺された あるいは... 仲間同士で殺し合った"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie nearly got killed by an alligator,",
+      "ja": "ラデックはワニに襲われ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and Cass did get killed by a bear.",
+      "ja": "シェパードはクマにやられた"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, yes, theory one, it fits.",
+      "ja": "パターンその１だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But...",
+      "ja": "でも…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't actually see a bear.",
+      "ja": "クマは見てない"
+    }
+  },
+  {
+    "translation": {
+      "en": "And neither did Josie.",
+      "ja": "ラデックもだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The only people who saw were Lena and Ventress.",
+      "ja": "見たのは レナとヴェントレスだけ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So nothing's confirmed. Everything's on their word.",
+      "ja": "証拠はない あの時―"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Everything's on Lena's word. -",
+      "ja": "あの場にいた レナの証言だけが根拠だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And what we know now...",
+      "ja": "そして―"
+    }
+  },
+  {
+    "translation": {
+      "en": "what we know,",
+      "ja": "その肝心のレナは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "is that Lena... is a liar.",
+      "ja": "私達に嘘をついていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Shut the fuck up!",
+      "ja": "静かにしろ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena... you're a liar.",
+      "ja": "レナは... 嘘つきだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you kill Cass?",
+      "ja": "彼女を殺した？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you lose your shit?",
+      "ja": "気が狂ったか？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or do you think I've lost my shit and we're gonna fuck each other up?",
+      "ja": "それとも狂ったのは私で―"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's theory two.",
+      "ja": "２つ目のパターンに？"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I look at my hands...",
+      "ja": "自分の手の―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and my fingerprints...",
+      "ja": "指紋を見ると"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can see them moving.",
+      "ja": "動いてるんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't.",
+      "ja": "ムリだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I let you go,",
+      "ja": "縄を解いたら―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you tie me to a chair and cut me open...",
+      "ja": "今度は私が縛られて"
+    }
+  },
+  {
+    "translation": {
+      "en": "are my insides gonna move like my fingerprints?",
+      "ja": "腹を割かれて 内臓が動くのかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "But... I'm not the one tied to a chair.",
+      "ja": "でも 縛られてるのは 私じゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - You are.",
+      "ja": "お前らだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "ja": "助けて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "ja": "助けて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "ja": "助けて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, Cass?",
+      "ja": "シェパード？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- You said she was dead. -",
+      "ja": "彼女は死んだと"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Cass! Cass, I'm coming! -",
+      "ja": "シェパード！　 今 行くよ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me! Help me!",
+      "ja": "たす… けて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help!",
+      "ja": "たす…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't react.",
+      "ja": "じっとして"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me!",
+      "ja": "…けて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help!",
+      "ja": "助けて！"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No!",
+      "ja": "イヤだ！　イヤだ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing?",
+      "ja": "何してるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- I'm leaving. - Now?",
+      "ja": "出発する 今？"
+    }
+  },
+  {
+    "translation": {
+      "en": "- It's not even light yet. - I don't have time to wait.",
+      "ja": "まだ暗いわ 時間がない"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are disintegrating.",
+      "ja": "体も心も―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies as fast as our minds. Can't you feel it?",
+      "ja": "崩壊し始めてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like the onset of dementia.",
+      "ja": "認知症のよう"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I don't reach the lighthouse soon...",
+      "ja": "早くしないと―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the person that started this journey won't be the person that ends it.",
+      "ja": "着く頃には 自分を失ってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be the one that ends it.",
+      "ja": "その前に着きたい"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go, Josie.",
+      "ja": "行きましょう"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long was your husband in the Shimmer?",
+      "ja": "旦那さんは 何日ここに？"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's hard to say exactly.",
+      "ja": "はっきりとは…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Theoretically, as long as a year.",
+      "ja": "最長で１年ね"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a long time to be inside and remain intact.",
+      "ja": "そんなに長い間 無事でいたのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not so sure he was intact.",
+      "ja": "無事かどうかは…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm right...",
+      "ja": "反射のこと"
+    }
+  },
+  {
+    "translation": {
+      "en": "- about the refractions... aren't I? - Yeah.",
+      "ja": "あなたもそう思う？ ええ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I checked my blood last night.",
+      "ja": "自分の血を調べた"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's... in me.",
+      "ja": "シマーは私の中に"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will be in all of us.",
+      "ja": "皆 そうなるのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was so strange hearing...",
+      "ja": "すごく奇妙だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard's voice in the mouth of that creature last night.",
+      "ja": "あの生き物から シェパードの声が…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think as she was dying, part of her mind became...",
+      "ja": "彼女が死ぬ時 心の一部が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "part of the creature that was killing her.",
+      "ja": "あいつの一部になったのね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine dying frightened and in pain,",
+      "ja": "恐怖と痛みの中で死んで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and having that as the only part of you which survives.",
+      "ja": "その感覚だけが この世に残る"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't like that at all.",
+      "ja": "そんなのイヤ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress wants to face it. You want to fight it.",
+      "ja": "ヴェントレスは真実を あなたは戦いを求めてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think I want either of those things.",
+      "ja": "でも私は どちらもいらない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie.",
+      "ja": "待って"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie.",
+      "ja": "ねえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie!",
+      "ja": "ラデック"
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one, all gone, except you.",
+      "ja": "君を残し 次々と人が消えていった"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you explain that?",
+      "ja": "なぜだ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it something I need to explain?",
+      "ja": "私に説明しろと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, you do.",
+      "ja": "そうだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had to come back.",
+      "ja": "帰る理由が―"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure any of them did.",
+      "ja": "私にはあったの"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Stand by the stairway ♪",
+      "ja": "灯台"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ You'll see something certain To tell you ♪",
+      "ja": "灯台 「不死細胞ヒーラ」"
+    }
+  },
+  {
+    "translation": {
+      "en": "- ♪ Love isn't lying ♪ - Hey.",
+      "ja": "ねえ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ja": "うん"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought I was a man.",
+      "ja": "自分は人間だと…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had a life.",
+      "ja": "思っていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "People called me Kane.",
+      "ja": "ケインという名の"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now I'm not so sure.",
+      "ja": "今は 分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I wasn't Kane, what was I?",
+      "ja": "俺は何だ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was I you?",
+      "ja": "君か？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were you me?",
+      "ja": "君が俺？"
+    }
+  },
+  {
+    "translation": {
+      "en": "My flesh moves...",
+      "ja": "筋肉が動く"
+    }
+  },
+  {
+    "translation": {
+      "en": "like liquid.",
+      "ja": "液体のように"
+    }
+  },
+  {
+    "translation": {
+      "en": "My mind is...",
+      "ja": "精神は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "just cut loose.",
+      "ja": "バラバラだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it.",
+      "ja": "もうムリだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it.",
+      "ja": "ムリだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it.",
+      "ja": "これ以上…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ever seen a phosphorus grenade go off? They're kind of bright.",
+      "ja": "白リン弾の爆発は― 眩しい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shield your eyes.",
+      "ja": "目を覆って"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you ever get out of here, you find Lena.",
+      "ja": "ここを出たら レナを探せ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will.",
+      "ja": "わかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "ウソよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Five, four, three, two...",
+      "ja": "５, ４… ３, ２…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no. No.",
+      "ja": "ウソよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "そんな"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the last phase.",
+      "ja": "最終段階に入った"
+    }
+  },
+  {
+    "translation": {
+      "en": "Vanished into havoc.",
+      "ja": "混乱の中に消えた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unfathomable mind...",
+      "ja": "深遠な精神"
+    }
+  },
+  {
+    "translation": {
+      "en": "...and now beacon.",
+      "ja": "導きの灯(あかり)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now sea.",
+      "ja": "そして 海"
+    }
+  },
+  {
+    "translation": {
+      "en": "- - Dr. Ventress?",
+      "ja": "ドクター･ヴェントレス？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena.",
+      "ja": "レナ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We spoke.",
+      "ja": "あの時―"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was it we said?",
+      "ja": "話したわね"
+    }
+  },
+  {
+    "translation": {
+      "en": "That I needed to know what was inside the lighthouse.",
+      "ja": "灯台の中に 何があるか 知りたいと"
+    }
+  },
+  {
+    "translation": {
+      "en": "That moment's passed.",
+      "ja": "今は違う"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's inside me now.",
+      "ja": "それは 私の中にある"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's... inside you?",
+      "ja": "何があるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not like us.",
+      "ja": "私達とは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's unlike us.",
+      "ja": "違うの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know what it wants.",
+      "ja": "目的すら―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or if it wants.",
+      "ja": "ないのかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it will grow...",
+      "ja": "でも 膨張して―"
+    }
+  },
+  {
+    "translation": {
+      "en": "until it encompasses everything.",
+      "ja": "全てを飲み込む"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies and our minds",
+      "ja": "私達は皆―"
+    }
+  },
+  {
+    "translation": {
+      "en": "will be fragmented into their smallest parts until...",
+      "ja": "その一部になる 全てが飲み込まれる"
+    }
+  },
+  {
+    "translation": {
+      "en": "not one part remains.",
+      "ja": "全てが飲み込まれる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Annihilation.",
+      "ja": "全滅よ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So it was alien.",
+      "ja": "エイリアンか"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you describe its form?",
+      "ja": "形状は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ja": "分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it carbon- based or...?",
+      "ja": "体は炭素系か？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ja": "分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did it want?",
+      "ja": "目的は？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think it wanted anything.",
+      "ja": "目的は たぶんない"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it... it attacked you.",
+      "ja": "でも 君を攻撃した"
+    }
+  },
+  {
+    "translation": {
+      "en": "It mirrored me.",
+      "ja": "模倣したのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I attacked it.",
+      "ja": "私を"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure it even knew I was there.",
+      "ja": "それだけのこと"
+    }
+  },
+  {
+    "translation": {
+      "en": "It came here for a reason.",
+      "ja": "でも 目的はあるはずだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was mutating our environment, it was destroying everything.",
+      "ja": "環境を変異させ 破壊したのだから"
+    }
+  },
+  {
+    "translation": {
+      "en": "It wasn't destroying.",
+      "ja": "破壊じゃないわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was changing everything.",
+      "ja": "全てを変えていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was making something new.",
+      "ja": "新しく創り出していた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Making what?",
+      "ja": "何を？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ja": "分からない"
+    }
+  },
+  {
+    "translation": {
+      "en": "A team reached the lighthouse a few hours ago.",
+      "ja": "さっき部隊が灯台に着いた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything is ash.",
+      "ja": "全て灰だと"
+    }
+  },
+  {
+    "translation": {
+      "en": "If what you encountered was once alive...",
+      "ja": "何であれ 君が出会った存在は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "it seems it's now dead.",
+      "ja": "死んだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now will you tell me what happened to my husband?",
+      "ja": "夫はどうなったの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the Shimmer disappeared,",
+      "ja": "シマーが消え―"
+    }
+  },
+  {
+    "translation": {
+      "en": "his blood pressure stabilized and his pulse rate started to rise.",
+      "ja": "同時に血圧が安定し 脈も正常になって―"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few hours later, he was not only awake,",
+      "ja": "すぐに目を覚ました"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was lucid.",
+      "ja": "意識は明瞭だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's still in isolation, obviously.",
+      "ja": "まだ隔離されている"
+    }
+  },
+  {
+    "translation": {
+      "en": "So am I.",
+      "ja": "私もよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You aren't Kane...",
+      "ja": "ケインじゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "are you?",
+      "ja": "そうね？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think so.",
+      "ja": "ああ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you Lena?",
+      "ja": "君はレナ？"
+    }
+  }
+]

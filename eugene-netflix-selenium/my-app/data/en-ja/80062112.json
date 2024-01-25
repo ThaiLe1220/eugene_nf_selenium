@@ -1,0 +1,818 @@
+[
+  {
+    "translation": {
+      "en": "In a distant world’s time of need,",
+      "ja": "遠く離れた星を救うため―"
+    }
+  },
+  {
+    "translation": {
+      "en": "an ancient prophecy summoned the Toa.",
+      "ja": "トーア族が集められた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six legendary heroes, each powered by the energy of the island’s elements.",
+      "ja": "島のエレメントから 力を授かった６人の勇者だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tahu, Toa of Fire.",
+      "ja": "“タフ”　炎のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, Toa of Ice.",
+      "ja": "“コパカ”　氷のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pohatu, Toa of Stone.",
+      "ja": "“ポハトゥ”　石のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali, Toa of Water.",
+      "ja": "“ガリ”　水のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Onua, Toa of Earth.",
+      "ja": "“オヌア”　土のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lewa, Toa of the Jungle.",
+      "ja": "“レワ”　森のトーア"
+    }
+  },
+  {
+    "translation": {
+      "en": "Much has happened, I know.",
+      "ja": "いろんなことが起きたのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "After so many thousands of years,",
+      "ja": "幾千年もの時を経て この地に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "your families have returned",
+      "ja": "私たちの種族は帰ってきた"
+    }
+  },
+  {
+    "translation": {
+      "en": "to rebuild the Mask Makers’ City.",
+      "ja": "マスク･メーカーの街を 再建するためだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If must seem strange.",
+      "ja": "奇妙な話かもしれん"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have only known the region of the Jungle.",
+      "ja": "君は森の地区しか 知らなかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you, the regions of Stone and Ice and Water.",
+      "ja": "他の者たちも石 氷 水など 出身は違う"
+    }
+  },
+  {
+    "translation": {
+      "en": "But we are Okotans,",
+      "ja": "だが皆 オコトの民"
+    }
+  },
+  {
+    "translation": {
+      "en": "and once, this was the centre of our world.",
+      "ja": "かつて世界の中心だった この島に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now we have returned.",
+      "ja": "我々は今 戻ってきたのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I’m sure you have questions, but wait.",
+      "ja": "疑問はあるだろうが 待ってくれ"
+    }
+  },
+  {
+    "translation": {
+      "en": "First, let me tell you how we came to return to our city",
+      "ja": "まず 我々が街に戻った 経緯を説明しよう"
+    }
+  },
+  {
+    "translation": {
+      "en": "and give you a taste of what may lay ahead.",
+      "ja": "この先に待つものが 分かるはずだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sit.",
+      "ja": "座れ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once, this was a beautiful city.",
+      "ja": "かつて この地は とても美しい都市だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I like to think it will be again.",
+      "ja": "私は再生を願っている"
+    }
+  },
+  {
+    "translation": {
+      "en": "But that will depend on more than your parents.",
+      "ja": "それを実現するには 島の民ではなく―"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will depend on six heroes, from another time and place!",
+      "ja": "時空を越えてきた勇者に かかっている"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it will depend on if they can harness the elements that give our planet life.",
+      "ja": "６人には 星の活力源である エレメントが必要だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know them from the regions where you live.",
+      "ja": "居住地区の属性は 知ってるな？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire, Water,",
+      "ja": "炎のエレメントに 水や森―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jungle, Earth, Stone and Ice.",
+      "ja": "炎のエレメントに 水や森― 土に石 そして氷がある"
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, they are just corners of our island,",
+      "ja": "単なる島の一部に 思えるかもしれないが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "but to the Toa, they are lifeblood.",
+      "ja": "トーア族にとっては 生命の源なのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But before there was trouble, there was peace.",
+      "ja": "トーア族にとっては 生命の源なのだ かつて この地には 平和な時代があった"
+    }
+  },
+  {
+    "translation": {
+      "en": "And maybe that’s where we should begin.",
+      "ja": "そこから話を始めるとしよう"
+    }
+  },
+  {
+    "translation": {
+      "en": "More than a thousand years ago,",
+      "ja": "１千年以上も前のことだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "this was a peaceful and vibrant place.",
+      "ja": "島は活気にあふれ 穏やかだった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
+      "ja": "２人のプロテクター エキムとマクタの兄弟は―"
+    }
+  },
+  {
+    "translation": {
+      "en": "harnessed the power of the elements and forged them into masks.",
+      "ja": "エレメントを利用し 共にマスクを作っていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "But Makuta grew jealous of his brother and hungry for the power.",
+      "ja": "だがマクタは エキムをねたみ― 権力に飢え始める"
+    }
+  },
+  {
+    "translation": {
+      "en": "So unbeknownst to his brother, Ekimu,",
+      "ja": "そしてエキムの 知らないところで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the jealous Makuta broke a sacred law",
+      "ja": "彼は聖なる掟(おきて)を破った"
+    }
+  },
+  {
+    "translation": {
+      "en": "and created a mask that combined the power of all the elements.",
+      "ja": "全エレメントの力を結集した マスクを作ったのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He called it the Mask of Ultimate Power.",
+      "ja": "マクタは それを “究極のマスク”と名付けた"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, as the power of the mask surged through Makuta,",
+      "ja": "だがマスクの力は 彼の体内を駆け巡り―"
+    }
+  },
+  {
+    "translation": {
+      "en": "he became dark and evil.",
+      "ja": "マクタは邪悪な存在と なってしまったのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Knowing he had to act quickly, Ekimu took the sacred hammer",
+      "ja": "エキムは急ぎ 聖なるハンマーで―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and knocked the mask from the face of his brother.",
+      "ja": "その顔から マスクを弾き飛ばした"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu saved Okoto, but the cost was great.",
+      "ja": "彼はオコト島を救うことが できたが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both Ekimu and Makuta were plunged into endless sleep.",
+      "ja": "マクタと共に 永遠の眠りに ついてしまった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our ancestors laid Ekimu to rest.",
+      "ja": "我々の先祖は エキムを休ませた"
+    }
+  },
+  {
+    "translation": {
+      "en": "The masks, too powerful to be trusted to mortals,",
+      "ja": "強大な力を持つマスクは 彼らの手に余り―"
+    }
+  },
+  {
+    "translation": {
+      "en": "were hidden away forever.",
+      "ja": "永久に葬られた"
+    }
+  },
+  {
+    "translation": {
+      "en": "And after Ekimu was sealed into a secret tomb,",
+      "ja": "エキムが秘密の墓に 封印された後―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Mask Makers’ City was abandoned.",
+      "ja": "マスク･メーカーの街は 廃虚となる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Although Makuta lay buried deep beneath our island,",
+      "ja": "マクタは 島の地下深くに 埋められたが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "his spirit remained powerful.",
+      "ja": "魂は力を失わなかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "He summoned dark forces to find his Mask and awaken him.",
+      "ja": "自らの覚醒と マスク捜しのため― 悪の軍団を集めたのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Makuta’s minions managed to awaken him,",
+      "ja": "もしマクタが目覚めれば― 島は 闇へと 引きずり込まれてしまう"
+    }
+  },
+  {
+    "translation": {
+      "en": "our island would be plunged into darkness.",
+      "ja": "島は 闇へと 引きずり込まれてしまう"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we, the protectors,",
+      "ja": "そこで我々プロテクターは 集まり―"
+    }
+  },
+  {
+    "translation": {
+      "en": "gathered and performed an ancient rite.",
+      "ja": "そこで我々プロテクターは 集まり― 古代の儀式を行った"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their legend was carved into the walls of our temples,",
+      "ja": "神殿には 勇者の伝説が 刻まれており―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and their names were kept alive in our rituals.",
+      "ja": "彼らの名前も 儀式の書に残されていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "These were the Toa.",
+      "ja": "トーア族たちだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it would be up to them to save Okoto.",
+      "ja": "島を救えるかは 彼らに かかっている"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa of the Jungle, Lewa, was fast on his feet and quick witted,",
+      "ja": "“レワ”は 彼に力を授ける 森のように―"
+    }
+  },
+  {
+    "translation": {
+      "en": "like the Jungle that gave him his power.",
+      "ja": "俊敏で 機転が利く"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was constantly changing, and the most playful of the group.",
+      "ja": "新たな挑戦も恐れない ムードメーカーだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The brooding Pohatu was the most serious of the group.",
+      "ja": "石のトーア“ポハトゥ”は 最もまじめな男だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And while the Toa of Stone was rarely happy,",
+      "ja": "笑うことは めったにないが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was fearless and powerful.",
+      "ja": "勇敢で パワフルに戦う"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, the Toa of Ice, was fearless and strong,",
+      "ja": "“コパカ”は氷のトーアだ 怖いもの知らずで 力強い"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he could be as inflexible and cold",
+      "ja": "そのエレメント同様に― 冷静で 曲げることを 知らない面を持つ"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the element that gave him power.",
+      "ja": "冷静で 曲げることを 知らない面を持つ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali was as powerful as the others,",
+      "ja": "“ガリ”も 同じく強力な戦士だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but as resilient as the Water that was her element.",
+      "ja": "水のごとく しなやかに立ち回る"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silent, powerful Onua, the Toa of Earth,",
+      "ja": "無口な土のトーア “オヌア”は― まるで力を授ける 大地のよう"
+    }
+  },
+  {
+    "translation": {
+      "en": "would provide a foundation.",
+      "ja": "まるで力を授ける 大地のよう 力強く基盤を固める戦士だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like the Earth that gave him power,",
+      "ja": "力強く基盤を固める戦士だ"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was immovable and enduring.",
+      "ja": "我慢強く どっしりと構える"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was Tahu, the Toa of Fire,",
+      "ja": "そして 炎のトーア “タフ”"
+    }
+  },
+  {
+    "translation": {
+      "en": "who saw himself as a leader even before he knew there were others like him.",
+      "ja": "仲間たちと出会う前から リーダー気取りの男だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of their Protectors,",
+      "ja": "彼らはプロテクターの 協力のもと―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa found the Masks of Power.",
+      "ja": "彼らはプロテクターの 協力のもと― パワーマスクを見つけた"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
+      "ja": "６人がマスクを装着すると― 古代の予言が達成された"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time,",
+      "ja": "トーアたちが エレメントの力を得たのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa experienced the elemental power that each of them was born to wield.",
+      "ja": "トーアたちが エレメントの力を得たのだ それが彼らの宿命"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa had power, but they needed the wisdom of Ekimu.",
+      "ja": "しかし 力を手にしても エキムの知恵が必要だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only he could guide them to their true destiny.",
+      "ja": "彼だけが 真の定めへと 導けるのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa’s search for Ekimu brought them here,",
+      "ja": "６人はエキムを捜し― マスク･メーカーの街へと たどり着いた"
+    }
+  },
+  {
+    "translation": {
+      "en": "to the Mask Makers’ City.",
+      "ja": "マスク･メーカーの街へと たどり着いた"
+    }
+  },
+  {
+    "translation": {
+      "en": "But when they arrived, it didn’t look like it does now.",
+      "ja": "だが この地は 現在とは違う状態だった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, it was a dark place, overrun with evil creatures.",
+      "ja": "当時は闇が広がっていて― 邪悪な者が侵略していたのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And around every corner lay a trap!",
+      "ja": "至る所に ワナが 仕掛けられていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time in a thousand years,",
+      "ja": "１千年の時を経て 初めてのことだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "the footsteps of the living echoed through the Mask Makers’ City",
+      "ja": "新たな足音が 何世紀も前に廃れた―"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we abandoned so many centuries before.",
+      "ja": "マスク･メーカーの 街に響いた"
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one,",
+      "ja": "１体ずつ―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa vanquished the creatures Makuta had sent to stop them,",
+      "ja": "マクタの刺客を ６人は倒していった"
+    }
+  },
+  {
+    "translation": {
+      "en": "finally defeating the fearsome Skull Scorpions",
+      "ja": "ついにスカルスコーピオを 倒し―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and reaching Ekimu’s tomb.",
+      "ja": "エキムの墓に たどり着く"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa realised that their history and our planet's were entwined.",
+      "ja": "この星とトーア族は― 密接な関係にあったと 彼らは知る"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they looked upon the sleeping Mask Maker,",
+      "ja": "眠っているエキムを見ると―"
+    }
+  },
+  {
+    "translation": {
+      "en": "somehow, they knew how to awaken him.",
+      "ja": "目覚めさせる方法は 分かっていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six heroes had travelled far into the ancient city,",
+      "ja": "６人は はるか遠い この地まで旅をし―"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeating many enemies.",
+      "ja": "多くの敵を倒した"
+    }
+  },
+  {
+    "translation": {
+      "en": "But only by retrieving the Mask of Creation",
+      "ja": "だが“創造のマスク(マスク･オブ･クリエーション)”を 取り戻さなければ―"
+    }
+  },
+  {
+    "translation": {
+      "en": "would Ekimu stand a chance against his brother.",
+      "ja": "エキムはマクタに勝てない"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makuta’s most powerful minions fought to keep the Toa from the Mask Makers’ forge.",
+      "ja": "敵は マスクの鍛冶(かじ)場へ 勇者を近づけまいと戦うが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the Toa were ready. Or so they thought.",
+      "ja": "６人は自信を持って どんどん進んだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
+      "ja": "マスクを壊される前に 鍛冶場に着いたが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the creature was as cunning as he was powerful,",
+      "ja": "スカルグラインダーが 卑劣な手に出る"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, knowing the Toa would stop him from destroying the mask,",
+      "ja": "マスクを破壊できないと 知ると―"
+    }
+  },
+  {
+    "translation": {
+      "en": "he put it on and felt its power surge through him.",
+      "ja": "それを装着したのだ マスク･メーカーの力が みなぎった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Filled with the Mask Maker’s power,",
+      "ja": "スカルグラインダーは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Skull Grinder knocked the masks from the faces of the Toa.",
+      "ja": "戦士たちから マスクを吹き飛ばした"
+    }
+  },
+  {
+    "translation": {
+      "en": "Without their masks, the heroes had lost their power.",
+      "ja": "彼らはマスクを奪われ 力を失うが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they knew they must fight on, even if victory seemed impossible.",
+      "ja": "戦いを やめはしなかった 勝てないと分かっても ６人は勇敢に立ち向かい―"
+    }
+  },
+  {
+    "translation": {
+      "en": "The heroes fought bravely until they had nothing more to give.",
+      "ja": "勝てないと分かっても ６人は勇敢に立ち向かい― そして力尽きてしまった"
+    }
+  },
+  {
+    "translation": {
+      "en": "But their valiant effort gave Ekimu the time he needed.",
+      "ja": "だが６人が戦う間に エキムは時間を得られた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now wielding his ancient hammer, Ekimu took back the Mask of Creation",
+      "ja": "彼は古代のハンマーを操って 創造のマスクを奪い―"
+    }
+  },
+  {
+    "translation": {
+      "en": "and regained the power he once had.",
+      "ja": "かつての力を取り戻したのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six Toa had done their duty,",
+      "ja": "６人の任務は完了した"
+    }
+  },
+  {
+    "translation": {
+      "en": "awakened Ekimu and retrieved the Mask of Creation.",
+      "ja": "エキムの覚醒とマスクの 奪還に成功したのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But evil was not defeated.",
+      "ja": "だが悪は滅んでおらず 真の使命が先に待っていた"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their true fate was still waiting, deep inside the darkness.",
+      "ja": "だが悪は滅んでおらず 真の使命が先に待っていた それは闇の奥深くに 眠っている"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prophecy had brought the Toa to Okoto.",
+      "ja": "予言により ６人は島に導かれた"
+    }
+  },
+  {
+    "translation": {
+      "en": "But what they’d experienced made them more than just heroes.",
+      "ja": "だが彼らは 戦いによって ただの勇者ではなく―"
+    }
+  },
+  {
+    "translation": {
+      "en": "They have become legends.",
+      "ja": "伝説となったのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the challenges that lie ahead are huge,",
+      "ja": "しかし大きな試練が 彼らを待つ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the future of our entire world is at stake.",
+      "ja": "全世界の未来が 危機にさらされているのだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their journey beings anew.",
+      "ja": "６人は新たな旅に出る"
+    }
+  },
+  {
+    "translation": {
+      "en": "With their new armour and weapons, forged by the Mask Maker himself,",
+      "ja": "エキムが作った 新たな装具や武器と共に―"
+    }
+  },
+  {
+    "translation": {
+      "en": "the quest continues.",
+      "ja": "冒険は続いていく"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the Toa begin the Search for One.",
+      "ja": "１つに団結すべく 新たな旅が始まった"
+    }
+  }
+]
