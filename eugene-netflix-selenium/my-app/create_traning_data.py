@@ -8,7 +8,7 @@ DATA_DIRECTORY = f"./data/en-{LANG_CODE}/"
 
 all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
 
-num_files_to_select = 150
+num_files_to_select = 100
 files = random.sample(all_files, min(num_files_to_select, len(all_files)))
 
 
@@ -21,8 +21,8 @@ for file_name in files:
         filtered_data = [
             item
             for item in translations
-            if len(item["translation"]["en"]) > 40
-            and len(item["translation"][LANG_CODE]) > 40
+            if len(item["translation"]["en"]) > 30
+            and len(item["translation"][LANG_CODE]) > 30
             and abs(
                 len(item["translation"]["en"]) - len(item["translation"][LANG_CODE])
             )
