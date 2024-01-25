@@ -19,7 +19,6 @@ def clean_subtitle(text):
     target = target.replace("\u200E", "")
     target = target.replace('"', "")
     target = re.sub(r"\[.*?\]", "", target)
-    target = re.sub(r"-(?![\s-])", "- ", target)
     target = target.strip()
 
     return target
