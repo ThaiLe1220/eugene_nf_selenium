@@ -89,9 +89,10 @@ def process_and_save_data(movies_id, lang_code):
             f.write(f"Failed to extract {file_path}\n")
 
 
-netflix_links = []
-movies_ids = []
+# netflix_links = []
+# movies_ids = []
 
+# Read the links from the movies_links.txt file and add them to the list
 with open("./source/movies_links_cleaned.txt", "r") as file:
     for line in file:
         line = line.strip()
