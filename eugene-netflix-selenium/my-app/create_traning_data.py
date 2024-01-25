@@ -8,8 +8,8 @@ DATA_DIRECTORY = f"./data/en-{LANG_CODE}/"
 
 all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
 
-num_files_to_select = 300
-files = random.sample(all_files, min(num_files_to_select, len(all_files)))
+NUM_FILE = 300
+files = random.sample(all_files, min(NUM_FILE, len(all_files)))
 
 
 # Initialize a list to hold all the translation pairs

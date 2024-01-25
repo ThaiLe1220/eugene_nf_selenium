@@ -72,14 +72,14 @@ def delete_invalid_translation_files(directory, lang_code):
 
 
 def clean_translation(text):
-    original_text = text
+    # original_text = text
     text = text.replace("♪ ", "")
     text = text.replace(" ♪", "")
     text = re.sub(r"\(.*?\)", "", text)
     text = re.sub(r"^[A-Z]+: ", "", text)
 
-    if text != original_text:
-        print(f"Original: {original_text}\nCleaned: {text}\n")
+    # if text != original_text:
+    #     print(f"Original: {original_text}\nCleaned: {text}\n")
     return text.strip()
 
 
@@ -100,7 +100,7 @@ def process_files(directory, lang_code):
                 json.dump(data, file, indent=2, ensure_ascii=False)
 
 
-LANG_CODE = "es"
+LANG_CODE = "vi"
 DIRECTORY = f"./data/en-{LANG_CODE}"
 delete_invalid_translation_files(DIRECTORY, LANG_CODE)
 process_files(DIRECTORY, LANG_CODE)
