@@ -8,7 +8,7 @@ DATA_DIRECTORY = f"./data/en-{LANG_CODE}/"
 
 all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
 
-num_files_to_select = 100
+num_files_to_select = 300
 files = random.sample(all_files, min(num_files_to_select, len(all_files)))
 
 
