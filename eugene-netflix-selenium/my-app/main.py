@@ -259,9 +259,9 @@ lang_list = [
     ("Russian", "th"),
 ]
 
-START_INDEX = 105
-END_INDEX = 115
-LANGUAGE = "French"
+START_INDEX = 0
+END_INDEX = 100
+LANGUAGE = "Japanese"
 LANGUAGE_CODE = {name: code for name, code in lang_list}.get(LANGUAGE)
 
 options = webdriver.ChromeOptions()
