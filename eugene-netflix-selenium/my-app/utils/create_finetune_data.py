@@ -30,6 +30,10 @@ for file_name in files:
             len_en = len(item["translation"]["en"])
             len_lang = len(item["translation"][LANG_CODE])
             max_len = max(len_en, len_lang)
+
+            if max_len == 0:
+                continue
+
             length_diff_ratio = abs(len_en - len_lang) / max_len
 
             # Check length difference condition
@@ -90,7 +94,7 @@ all_data.extend(
 
 # Split the data into training and validation sets manually
 DATA_LENGTH = len(all_data)
-SPLIT_INDEX = int(DATA_LENGTH * 0.85)
+SPLIT_INDEX = int(DATA_LENGTH * 0.8)
 train_data = all_data[:SPLIT_INDEX]
 validation_data = all_data[SPLIT_INDEX:]
 
