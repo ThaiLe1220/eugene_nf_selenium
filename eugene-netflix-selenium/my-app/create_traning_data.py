@@ -1,22 +1,38 @@
 import json
 import os
+import random
 
 # Correct directory where the files are located
-DATA_DIRECTORY = "./data/en-vi/"
+LANG_CODE = "es"
+DATA_DIRECTORY = f"./data/en-{LANG_CODE}/"
 
-# Listing the first 20 json files in the directory
-first_10_files = sorted(
-    [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
-)[:35]
+all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
+
+num_files_to_select = 150
+files = random.sample(all_files, min(num_files_to_select, len(all_files)))
+
 
 # Initialize a list to hold all the translation pairs
 all_data = []
 
-# Iterate through the first 10 files and read their contents
-for file_name in first_10_files:
+for file_name in files:
     with open(os.path.join(DATA_DIRECTORY, file_name), "r", encoding="utf-8") as file:
-        data = json.load(file)
-        all_data.extend(data)
+        translations = json.load(file)
+        filtered_data = [
+            item
+            for item in translations
+            if len(item["translation"]["en"]) > 40
+            and len(item["translation"][LANG_CODE]) > 40
+            and abs(
+                len(item["translation"]["en"]) - len(item["translation"][LANG_CODE])
+            )
+            / max(
+                len(item["translation"]["en"]),
+                len(item["translation"][LANG_CODE]),
+            )
+            <= 0.8
+        ]
+        all_data.extend(filtered_data)
 
 # Split the data into training and validation sets manually
 DATA_LENGTH = len(all_data)
@@ -26,8 +42,8 @@ validation_data = all_data[SPLIT_INDEX:]
 
 
 def save_to_json(file_path, data):
-    with open(file_path, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 # Save the training and validation sets to json files
