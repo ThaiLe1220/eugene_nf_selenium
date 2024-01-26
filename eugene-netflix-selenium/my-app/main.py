@@ -1,5 +1,6 @@
 """Filename: main.py - Directory: ./my-app"""
-
+import os
+from bs4 import BeautifulSoup
 import time
 import os
 import re
@@ -267,8 +268,9 @@ LANG_LIST = [
     ("Russian", "th"),
 ]
 START_INDEX = 0
-END_INDEX = 100
-LANGUAGE = "Japanese"
+END_INDEX = 1100
+
+LANGUAGE = "Vietnamese"
 LANGUAGE_CODE = {name: code for name, code in LANG_LIST}.get(LANGUAGE)
 NETFLIX_LINKS = []
 MOVIE_IDS = []
@@ -289,7 +291,6 @@ options.add_extension("./extensions/Language-Reactor.crx")
 driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 10)
 
-
 # Authenticate on Netflix
 netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
 
@@ -297,6 +298,29 @@ netflix_authenticate(driver, os.getenv("NF_USERNAME"), os.getenv("NF_PASSWORD"))
 for i, link in enumerate(NETFLIX_LINKS):
     if START_INDEX <= i <= END_INDEX:
         start_time = time.time()
+        file_path = f"./markup/en-{LANGUAGE_CODE}/{MOVIE_IDS[i]}.html"
+
+        # Check if the file exists
+        if os.path.exists(file_path):
+            # Read the HTML content from the file
+            with open(file_path, "r", encoding="utf-8") as f:
+                html_content = f.read()
+
+            # Parse the HTML content using BeautifulSoup
+            soup = BeautifulSoup(html_content, "html.parser")
+
+            # Extract all table rows (skipping the header row)
+            rows = soup.find_all("tr")[1:]
+
+            # Check if each row has more than two columns (valid markup)
+            valid_markup = all(len(row.find_all("td")) > 2 for row in rows)
+
+            if valid_markup:
+                print(f"Skipping already processed movie: {MOVIE_IDS[i]}")
+                continue  # Skip this movie as it has been processed
+            else:
+                print(f"Invalid markup detected, reprocessing movie: {MOVIE_IDS[i]}")
+
         driver.get(link)
 
         try:
