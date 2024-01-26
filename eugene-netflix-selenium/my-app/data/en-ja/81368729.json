@@ -1,26 +1,26 @@
 [
   {
     "translation": {
-      "en": "Hi. This is Amahle. Leave a message, and I'll get you back.",
-      "ja": "アマーレです 伝言をどうぞ"
+      "en": "[on voicemail] Hi. This is Amahle. Leave a message, and I'll get you back.",
+      "ja": "アマーレです伝言をどうぞ"
     }
   },
   {
     "translation": {
-      "en": "- - Good afternoon, Ms. Edwards.",
+      "en": "-[line beeps] -[woman] Good afternoon, Ms. Edwards.",
       "ja": "エドワーズさん"
     }
   },
   {
     "translation": {
       "en": "This is Principal Denkins at North Detroit High School.",
-      "ja": "北デトロイト高 校長のデンキンスです"
+      "ja": "北デトロイト高校長のデンキンスです"
     }
   },
   {
     "translation": {
-      "en": "Unfortunately, Cole was involved in another fight today",
-      "ja": "残念ながら コールがまたケンカし"
+      "en": "[takes a deep breath] Unfortunately, Cole was involved in another fight today",
+      "ja": "残念ながらコールがまたケンカし"
     }
   },
   {
@@ -32,7 +32,7 @@
   {
     "translation": {
       "en": "Ms. Edwards, I'm not sure that we have the resources here to help your son.",
-      "ja": "学校としても 支援が難しい状況です"
+      "ja": "学校としても支援が難しい状況です"
     }
   },
   {
@@ -44,7 +44,7 @@
   {
     "translation": {
       "en": "I am so sorry about the incident today. I'm very, very sorry--",
-      "ja": "申し訳ありません ご迷惑を…"
+      "ja": "申し訳ありませんご迷惑を…"
     }
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "translation": {
-      "en": "It ain't my fault.",
+      "en": "[scoffs] It ain't my fault.",
       "ja": "悪くない"
     }
   },
@@ -67,7 +67,7 @@
   },
   {
     "translation": {
-      "en": "- - Where you taking me?",
+      "en": "-[Amahle takes a deep breath] -Where you taking me?",
       "ja": "どこへ行く？"
     }
   },
@@ -110,7 +110,7 @@
   {
     "translation": {
       "en": "You are drowning out here. You are going to drown!",
-      "ja": "お前は このままじゃ溺れ死ぬ"
+      "ja": "お前はこのままじゃ溺れ死ぬ"
     }
   },
   {
@@ -122,7 +122,7 @@
   {
     "translation": {
       "en": "And still, here I am again, leaving work, trying to convince another principal and another police officer",
-      "ja": "でも また仕事を早退し 別の校長や警官に釈明してる"
+      "ja": "でも また仕事を早退し別の校長や警官に釈明してる"
     }
   },
   {
@@ -139,55 +139,55 @@
   },
   {
     "translation": {
-      "en": "- - And neither do I anymore.",
+      "en": "-[gear selector clicks] -And neither do I anymore.",
       "ja": "私の理性も消えた"
     }
   },
   {
     "translation": {
-      "en": "- - Hey, where you at? We're here.",
+      "en": "-[Cole groans, exhales] -Hey, where you at? We're here.",
       "ja": "どこにいるの"
     }
   },
   {
     "translation": {
-      "en": "- What're you doing? - He'll be here in five minutes.",
+      "en": "-[Cole] What're you doing? -He'll be here in five minutes.",
       "ja": "何だよ ５分で来る"
     }
   },
   {
     "translation": {
-      "en": "- Those are my clothes. - Just wait here.",
+      "en": "-[Cole] Those are my clothes. -[Amahle] Just wait here.",
       "ja": "僕の服だ ここで待ってて"
     }
   },
   {
     "translation": {
-      "en": "- - I ain't stayin' here.",
+      "en": "-[door closes] -I ain't stayin' here.",
       "ja": "嫌だよ"
     }
   },
   {
     "translation": {
-      "en": "- - Ma, open the door.",
+      "en": "-[door handle rattles] -Ma, open the door.",
       "ja": "母さん　開けて"
     }
   },
   {
     "translation": {
-      "en": "Mama, open the door.",
+      "en": "[Cole] Mama, open the door.",
       "ja": "開けてよ"
     }
   },
   {
     "translation": {
-      "en": "- Mama, I'm not playing. Open the door. - Cole.",
+      "en": "-Mama, I'm not playing. Open the door. -[Amahle sobbing] Cole.",
       "ja": "開けてってば"
     }
   },
   {
     "translation": {
-      "en": "Mama, open the door! - I'm not playing, Mama! -",
+      "en": "Mama, open the door! -I'm not playing, Mama! -[engine starts]",
       "ja": "マジで言ってるんだ"
     }
   },
@@ -199,7 +199,7 @@
   },
   {
     "translation": {
-      "en": "Hey.",
+      "en": "[woman] Hey.",
       "ja": "ねえ"
     }
   },
@@ -235,7 +235,7 @@
   },
   {
     "translation": {
-      "en": "- Where he at? - Stables.",
+      "en": "-Where he at? -[woman] Stables.",
       "ja": "親父は？ 馬小屋"
     }
   },
@@ -259,7 +259,7 @@
   },
   {
     "translation": {
-      "en": "I don't know no stables.",
+      "en": "[Cole] I don't know no stables.",
       "ja": "分からない"
     }
   },
@@ -271,7 +271,7 @@
   },
   {
     "translation": {
-      "en": "Fletcher Street Stables.",
+      "en": "[woman] Fletcher Street Stables.",
       "ja": "フレッチャー通りの馬小屋"
     }
   },
@@ -283,7 +283,7 @@
   },
   {
     "translation": {
-      "en": "And, Cole…",
+      "en": "[woman] And, Cole…",
       "ja": "それとコール"
     }
   },
@@ -301,55 +301,55 @@
   },
   {
     "translation": {
-      "en": "- Yeah, that what I'm saying. - Wait. Where you ever seen one?",
+      "en": "-[man 1] Yeah, that what I'm saying. -[man 2] Wait. Where you ever seen one?",
       "ja": "見た 物知りさんよ　どこで見た"
     }
   },
   {
     "translation": {
-      "en": "- Saw one yesterday. - Where?",
+      "en": "-[man 1] Saw one yesterday. -[man 2] Where?",
       "ja": "昨日も どこで"
     }
   },
   {
     "translation": {
-      "en": "- The step. - Praying mantis?",
+      "en": "-[man 1] The step. -[man 2] Praying mantis?",
       "ja": "階段だ カマキリ？"
     }
   },
   {
     "translation": {
-      "en": "You shouldn't kill anything with the word praying in its name. Like…",
+      "en": "[woman] You shouldn't kill anything with the word \"praying\" in its name. Like…",
       "ja": "祈り虫を殺しちゃダメだよ"
     }
   },
   {
     "translation": {
-      "en": "This is gonna be a dry summer.",
+      "en": "[man 2] This is gonna be a dry summer.",
       "ja": "この夏は乾燥する"
     }
   },
   {
     "translation": {
-      "en": "I just saw that you might've been asleep. I said, Nah, you…",
-      "ja": "ウトウトしてるところを 見たぞ"
+      "en": "[man 3] \"I just saw that you might've been asleep.\" I said, \"Nah, you…\"",
+      "ja": "ウトウトしてるところを見たぞ"
     }
   },
   {
     "translation": {
-      "en": "You was watchin' me sleep. How you gon--",
+      "en": "\"You was watchin' me sleep. How you gon--\"",
       "ja": "見てたんだったら なぜ…"
     }
   },
   {
     "translation": {
-      "en": "Yo, where that boy going? To a laundromat somewhere?",
-      "ja": "コインランドリーに 行くのか"
+      "en": "[man 2] Yo, where that boy going? To a laundromat somewhere?",
+      "ja": "コインランドリーに行くのか"
     }
   },
   {
     "translation": {
-      "en": "- Where'd he come from? - Who that?",
+      "en": "-Where'd he come from? -[man 4] Who that?",
       "ja": "どこのヤツだ"
     }
   },
@@ -373,31 +373,31 @@
   },
   {
     "translation": {
-      "en": "I'll see y'all later.",
+      "en": "[exhales] I'll see y'all later.",
       "ja": "じゃあな"
     }
   },
   {
     "translation": {
-      "en": "- Come on. - All right.",
+      "en": "-Come on. -[group] All right.",
       "ja": "来い"
     }
   },
   {
     "translation": {
-      "en": "- Hmm. - Hit the door.",
+      "en": "-[man 1] Hmm. -[Harp] Hit the door.",
       "ja": "閉めろ"
     }
   },
   {
     "translation": {
-      "en": "- - Yo! Shit.",
+      "en": "-[horse whinnies] -Yo! Shit.",
       "ja": "おい 何だよ"
     }
   },
   {
     "translation": {
-      "en": "- This Chuck. -",
+      "en": "-This Chuck. -[Chuck nickering]",
       "ja": "チャックだ"
     }
   },
@@ -415,7 +415,7 @@
   },
   {
     "translation": {
-      "en": "Well, this you, right here.",
+      "en": "[takes a deep breath] Well, this you, right here.",
       "ja": "そこで寝ろ"
     }
   },
@@ -433,7 +433,7 @@
   },
   {
     "translation": {
-      "en": "- I'mma hit it, though. -",
+      "en": "-I'mma hit it, though. -[keys jangle]",
       "ja": "俺は寝る"
     }
   },
@@ -451,13 +451,13 @@
   },
   {
     "translation": {
-      "en": "- Shit. -",
+      "en": "-Shit. -[fridge door rattles]",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "That's it.",
+      "en": "[man 3] That's it.",
       "ja": "いいぞ"
     }
   },
@@ -487,25 +487,25 @@
   },
   {
     "translation": {
-      "en": "- I don't have a phone. - I'm just trying-- You don't have a phone?",
+      "en": "-[woman 1] I don't have a phone. -I'm just trying-- You don't have a phone?",
       "ja": "持ってないの ない？"
     }
   },
   {
     "translation": {
-      "en": "- Hey, excuse me. Can I-- - I got a kid. Nah.",
+      "en": "-Hey, excuse me. Can I-- -[woman 2] I got a kid. Nah.",
       "ja": "あの… 子供がいるのよ"
     }
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[Cole sighs] Fuck.",
       "ja": "マジかよ"
     }
   },
   {
     "translation": {
-      "en": "- Cole! -",
+      "en": "-Cole! -[engine turns off]",
       "ja": "コール"
     }
   },
@@ -529,7 +529,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, Smush.  It's me, man.",
+      "en": "Yeah, Smush. [chuckles] It's me, man.",
       "ja": "そのとおり　俺だよ"
     }
   },
@@ -547,7 +547,7 @@
   },
   {
     "translation": {
-      "en": "- Yo. - Fucking get up, man.",
+      "en": "-Yo. -[Smush] Fucking get up, man.",
       "ja": "よう 立てよ"
     }
   },
@@ -559,7 +559,7 @@
   },
   {
     "translation": {
-      "en": "- What's up, man? - Damn. I'm chillin', man.",
+      "en": "-What's up, man? -Damn. I'm chillin', man.",
       "ja": "元気か もちろん"
     }
   },
@@ -571,44 +571,44 @@
   },
   {
     "translation": {
-      "en": "You don't even know how good it is to see you right now.",
+      "en": "[Cole] You don't even know how good it is to see you right now.",
       "ja": "来てくれて助かった"
     }
   },
   {
     "translation": {
-      "en": "When's the last time I seen your ass? Shit. What's it been? Like, ten years?",
+      "en": "[Smush] When's the last time I seen your ass? Shit. What's it been? Like, ten years?",
       "ja": "最後に会ったのは10年前か？"
     }
   },
   {
     "translation": {
-      "en": "- - Know what I remember?",
+      "en": "-[hip-hop playing on stereo] -[Smush] Know what I remember?",
       "ja": "覚えてるか"
     }
   },
   {
     "translation": {
-      "en": "I used to be like, Cole, let's go play with the water guns. You'd be like, Aight.",
+      "en": "I used to be like, \"Cole, let's go play with the water guns.\" You'd be like, \"Aight.\"",
       "ja": "水鉄砲で遊ぼうとお前を誘い"
     }
   },
   {
     "translation": {
       "en": "Then I'd go to the bathroom, and I'd piss in the water gun and spray your ass.",
-      "ja": "小便を仕込んでおいて かけてやった"
+      "ja": "小便を仕込んでおいてかけてやった"
     }
   },
   {
     "translation": {
-      "en": "- That's nasty. - You ain't even know it was piss.",
-      "ja": "ひどいよ お前は気づかず 母親に泣きついてたな"
+      "en": "-That's nasty. -[Smush] You ain't even know it was piss.",
+      "ja": "ひどいよ お前は気づかず母親に泣きついてたな"
     }
   },
   {
     "translation": {
-      "en": "You was like, Ma! Ma, Smush pissed on me!",
-      "ja": "お前は気づかず 母親に泣きついてたな"
+      "en": "You was like, \"Ma! Ma, Smush pissed on me!\" [laughs]",
+      "ja": "お前は気づかず母親に泣きついてたな"
     }
   },
   {
@@ -619,13 +619,13 @@
   },
   {
     "translation": {
-      "en": "- Yeah, you kinda still smell like piss. - No. Shut the fuck up.",
+      "en": "-Yeah, you kinda still smell like piss. -No. Shut the fuck up.",
       "ja": "まだクサい うるさい"
     }
   },
   {
     "translation": {
-      "en": "- Damn. It's been a minute, man. -",
+      "en": "-[sighs] Damn. It's been a minute, man. -[Cole sighs]",
       "ja": "ずいぶん昔の話だ"
     }
   },
@@ -637,8 +637,8 @@
   },
   {
     "translation": {
-      "en": "Can't believe your moms dragged you down from Detroit like that. - That shit crazy. - Shit.",
-      "ja": "母親に 置き去りにされたとはな"
+      "en": "Can't believe your moms dragged you down from Detroit like that. -[grunts] That shit crazy. -Shit.",
+      "ja": "母親に置き去りにされたとはな"
     }
   },
   {
@@ -649,25 +649,25 @@
   },
   {
     "translation": {
-      "en": "It don't look like you got a home to go back to, nigga.",
+      "en": "It don't look like you got a home to go back to, nigga. [sighs]",
       "ja": "帰る家なんてないだろ"
     }
   },
   {
     "translation": {
-      "en": "- What home I got here? - Fuck you talkin' about?",
+      "en": "-[Cole] What home I got here? -Fuck you talkin' about?",
       "ja": "ここにはね 何 言ってる"
     }
   },
   {
     "translation": {
       "en": "Home ain't a place, dummy. It's fam, aight? You got fam here.",
-      "ja": "場所じゃないぞ アホ 家族の話だ"
+      "ja": "場所じゃないぞ アホ家族の話だ"
     }
   },
   {
     "translation": {
-      "en": "What fam, man?",
+      "en": "What fam, man? [inhales sharply]",
       "ja": "家族？"
     }
   },
@@ -679,7 +679,7 @@
   },
   {
     "translation": {
-      "en": "Plus… he living with some nasty- ass horse.",
+      "en": "Plus… he living with some nasty-ass horse.",
       "ja": "それに― ムカつく馬がいる"
     }
   },
@@ -698,19 +698,19 @@
   {
     "translation": {
       "en": "I seen plenty niggas get dropped off at the stoop,",
-      "ja": "そういうガキを大勢 見たが “夏”は“数年”に変わる"
+      "ja": "そういうガキを大勢 見たが“夏”は“数年”に変わる"
     }
   },
   {
     "translation": {
       "en": "and that summertime shit becomes years, so…",
-      "ja": "そういうガキを大勢 見たが “夏”は“数年”に変わる だから―"
+      "ja": "そういうガキを大勢 見たが“夏”は“数年”に変わる だから―"
     }
   },
   {
     "translation": {
-      "en": "…I suggest you cozy up with them nasty- ass fuckin' horses.",
-      "ja": "ムカつく馬と せいぜい仲よくな"
+      "en": "[takes a deep breath] …I suggest you cozy up with them nasty-ass fuckin' horses. [laughs]",
+      "ja": "ムカつく馬とせいぜい仲よくな"
     }
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "translation": {
-      "en": "- Aight. - Think you can give me money for a bus?",
+      "en": "-[exhales] Aight. -Think you can give me money for a bus?",
       "ja": "だよな バス代をくれ"
     }
   },
@@ -751,13 +751,13 @@
   },
   {
     "translation": {
-      "en": "Yeah. You got a girl back home.",
+      "en": "[chuckles] Yeah. You got a girl back home.",
       "ja": "女がいるんだろ"
     }
   },
   {
     "translation": {
-      "en": "- Nah? - Nah.",
+      "en": "-Nah? -[inhales sharply] Nah.",
       "ja": "外れ？ 外れだ"
     }
   },
@@ -775,13 +775,13 @@
   },
   {
     "translation": {
-      "en": "Fellas, fellas, fellas.",
+      "en": "[Smush] Fellas, fellas, fellas.",
       "ja": "やあ あんたら"
     }
   },
   {
     "translation": {
-      "en": "- Yo, you stay safe, aight? - All right, 202.",
+      "en": "-[Smush] Yo, you stay safe, aight? -[dispatcher on radio] All right, 202.",
       "ja": "気をつけろよ"
     }
   },
@@ -811,25 +811,25 @@
   },
   {
     "translation": {
-      "en": "- I'm all the family you gon need. -",
+      "en": "-I'm all the family you gon need. -[engine starts]",
       "ja": "唯一の家族だ"
     }
   },
   {
     "translation": {
-      "en": "And hey, you ain't no little- ass boy no more, so, shit, we goin' out tonight.",
-      "ja": "もうガキじゃないから 朝までハジけよう"
+      "en": "And hey, you ain't no little-ass boy no more, so, shit, we goin' out tonight.",
+      "ja": "もうガキじゃないから朝までハジけよう"
     }
   },
   {
     "translation": {
       "en": "And we ain't sleeping. I'mma show you how Philly pop off.",
-      "ja": "もうガキじゃないから 朝までハジけよう 街を見せてやる"
+      "ja": "もうガキじゃないから朝までハジけよう 街を見せてやる"
     }
   },
   {
     "translation": {
-      "en": "- Man, that was crazy. - Shit, man.",
+      "en": "-[Smush] Man, that was crazy. -[Cole groans] Shit, man.",
       "ja": "イカれてた 寝なきゃ　クタクタだよ"
     }
   },
@@ -841,7 +841,7 @@
   },
   {
     "translation": {
-      "en": "Nah, you good. I got some shit to handle anyway, so.",
+      "en": "[Smush] Nah, you good. I got some shit to handle anyway, so.",
       "ja": "心配ない　俺は用がある"
     }
   },
@@ -853,19 +853,19 @@
   },
   {
     "translation": {
-      "en": "Yo! Yo, what are you doin'?",
+      "en": "[Cole] Yo! Yo, what are you doin'?",
       "ja": "おい 何すんだよ"
     }
   },
   {
     "translation": {
-      "en": "- You ridin' with Smush, you can't be here. - What you care about it?",
+      "en": "-You ridin' with Smush, you can't be here. -[Cole] What you care about it?",
       "ja": "ヤツといるなら入るな 何でだよ"
     }
   },
   {
     "translation": {
-      "en": "You're gonna put yourself in a hole you can't crawl out of.",
+      "en": "[Harp] You're gonna put yourself in a hole you can't crawl out of.",
       "ja": "穴から抜け出せなくなるぞ"
     }
   },
@@ -877,7 +877,7 @@
   },
   {
     "translation": {
-      "en": "- Bullshit? - Yeah. What about your bullshit?",
+      "en": "-[Smush] Bullshit? -[Harp] Yeah. What about your bullshit?",
       "ja": "あんたは どうなんだ"
     }
   },
@@ -889,7 +889,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah, well, you need to get the fuck on. - Cool.",
+      "en": "-Yeah, well, you need to get the fuck on. -[Smush] Cool.",
       "ja": "さっさと行け"
     }
   },
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "- Tough- Love Harp, throwin' bags and shit. - Get tougher if you don't get outta here.",
+      "en": "-Tough-Love Harp, throwin' bags and shit. -Get tougher if you don't get outta here.",
       "ja": "“愛のムチ”は健在だな 早く行かないと追っ払うぞ"
     }
   },
@@ -920,19 +920,19 @@
   {
     "translation": {
       "en": "You wanna ride the street life, you can't be in my house.",
-      "ja": "悪党になる気なら 家には入れない"
+      "ja": "悪党になる気なら家には入れない"
     }
   },
   {
     "translation": {
       "en": "Aight? You wanna wise up, you say your goodbyes to Smush, you're welcome back.",
-      "ja": "ヤツと手を切るなら 歓迎してやる"
+      "ja": "ヤツと手を切るなら歓迎してやる"
     }
   },
   {
     "translation": {
       "en": "Welcome back to what? Old beer and sliced cheeses? I ain't got no home here.",
-      "ja": "古いビールとチーズで？ ここは家じゃない"
+      "ja": "古いビールとチーズで？ここは家じゃない"
     }
   },
   {
@@ -943,7 +943,7 @@
   },
   {
     "translation": {
-      "en": "- - Whatever you do, go ahead!",
+      "en": "-[door slams] -[woman] Whatever you do, go ahead!",
       "ja": "行けよ"
     }
   },
@@ -955,13 +955,13 @@
   },
   {
     "translation": {
-      "en": "- Trena? -",
+      "en": "-[Cole] Trena? -[car engine starts]",
       "ja": "トレナ？"
     }
   },
   {
     "translation": {
-      "en": "- - Smush… Smush told me to meet him here.",
+      "en": "-[car tires squeal] -Smush… Smush told me to meet him here.",
       "ja": "スムーシが来いと"
     }
   },
@@ -980,7 +980,7 @@
   {
     "translation": {
       "en": "I already told Smush we ain't no motherfuckin' orphanage for stray cats like your sorry ass.",
-      "ja": "あいつに言ったけど うちは孤児院じゃない"
+      "ja": "あいつに言ったけどうちは孤児院じゃない"
     }
   },
   {
@@ -991,19 +991,19 @@
   },
   {
     "translation": {
-      "en": "- Trena, come on. I'm-- - No! Get! No, uh- uh. Bye. Goodbye.",
+      "en": "-Trena, come on. I'm-- -No! Get! No, uh-uh. Bye. Goodbye.",
       "ja": "来ないで　さよなら"
     }
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[Cole] Fuck.",
       "ja": "マジか"
     }
   },
   {
     "translation": {
-      "en": "Shit, man.",
+      "en": "[under breath] Shit, man.",
       "ja": "チクショウ"
     }
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "translation": {
-      "en": "- Who's makin' all that noise? -",
+      "en": "-[Nessie] Who's makin' all that noise? -[Cole sighs]",
       "ja": "誰がたたいてる？"
     }
   },
@@ -1027,7 +1027,7 @@
   },
   {
     "translation": {
-      "en": "- Nessie, I need your help. - Oh, no.",
+      "en": "-Nessie, I need your help. -Oh, no.",
       "ja": "ネッシー　助けて"
     }
   },
@@ -1039,14 +1039,14 @@
   },
   {
     "translation": {
-      "en": "Uh- uh. You can't come at me with that.",
+      "en": "Uh-uh. You can't come at me with that.",
       "ja": "ダメ　頼らないで"
     }
   },
   {
     "translation": {
       "en": "Now, your daddy got rules that you not abiding by. Guess what? I got rules too.",
-      "ja": "親父さんのルールを 破ったんだろ"
+      "ja": "親父さんのルールを破ったんだろ"
     }
   },
   {
@@ -1058,30 +1058,30 @@
   {
     "translation": {
       "en": "Oh, come on. Y'all don't care about nothin' but y'all selves.",
-      "ja": "人のことは どうでもいいのか"
+      "ja": "人のことはどうでもいいのか"
     }
   },
   {
     "translation": {
       "en": "Lookit here. I'm on my knees at 4:00 a.m. every morning, praying for every boy on this block.",
-      "ja": "毎朝 近所の少年たちの ために祈ってる"
+      "ja": "毎朝 近所の少年たちのために祈ってる"
     }
   },
   {
     "translation": {
       "en": "I keep a warm meal and a clean bed for when the prodigals return.",
-      "ja": "放蕩(ほうとう)息子が戻った時のために 食事もベッドも用意してある"
+      "ja": "放蕩(ほうとう)息子が戻った時のために食事もベッドも用意してある"
     }
   },
   {
     "translation": {
-      "en": "Fine, fine. Fine.  Then I'm a prodigal.",
+      "en": "Fine, fine. Fine. [spluttering] Then I'm a prodigal.",
       "ja": "僕が“放蕩息子”だよ"
     }
   },
   {
     "translation": {
-      "en": "No, you're not.",
+      "en": "No, you're not. [laughs]",
       "ja": "違うね"
     }
   },
@@ -1099,14 +1099,14 @@
   },
   {
     "translation": {
-      "en": "Mm- hmm. You think about what I just said.",
+      "en": "Mm-hmm. You think about what I just said.",
       "ja": "よく考えるんだね"
     }
   },
   {
     "translation": {
       "en": "I gotta get up early. My prayer list just got longer.",
-      "ja": "朝は早い 祈る名前が増えたよ"
+      "ja": "朝は早い祈る名前が増えたよ"
     }
   },
   {
@@ -1117,7 +1117,7 @@
   },
   {
     "translation": {
-      "en": "- - Hey.",
+      "en": "-[horse snorts] -[softly] Hey.",
       "ja": "おい"
     }
   },
@@ -1129,13 +1129,13 @@
   },
   {
     "translation": {
-      "en": "- Hey. -",
+      "en": "-Hey. -[horse exhales deeply]",
       "ja": "ほら"
     }
   },
   {
     "translation": {
-      "en": "I see you met Boo.",
+      "en": "[Nessie] I see you met Boo.",
       "ja": "ブーに会ったね"
     }
   },
@@ -1148,13 +1148,13 @@
   {
     "translation": {
       "en": "Harp just bought Boo at the auction. Took four of us to get him in the trailer.",
-      "ja": "ハープが買ったけど 車に乗せるのに４人がかり"
+      "ja": "ハープが買ったけど車に乗せるのに４人がかり"
     }
   },
   {
     "translation": {
       "en": "Just shook up, scared, dangerous to even the roughest of these riders.",
-      "ja": "動転しておびえてて ベテランにも危険だった"
+      "ja": "動転しておびえててベテランにも危険だった"
     }
   },
   {
@@ -1166,18 +1166,18 @@
   {
     "translation": {
       "en": "What do I find?",
-      "ja": "まさにライオンの穴の ダニエルだね"
+      "ja": "まさにライオンの穴のダニエルだね"
     }
   },
   {
     "translation": {
       "en": "Daniel layin' there in the lions' den, snuggled up side by side.",
-      "ja": "まさにライオンの穴の ダニエルだね 丸くなって一緒に寝てた"
+      "ja": "まさにライオンの穴のダニエルだね 丸くなって一緒に寝てた"
     }
   },
   {
     "translation": {
-      "en": "- What that mean? -",
+      "en": "-What that mean? -[cup clatters]",
       "ja": "つまり？"
     }
   },
@@ -1189,19 +1189,19 @@
   },
   {
     "translation": {
-      "en": "- Nah. -",
+      "en": "-[clicks tongue] Nah. -[plate clatters]",
       "ja": "いや"
     }
   },
   {
     "translation": {
-      "en": "- Mm, nah. -",
+      "en": "-Mm, nah. -[Nessie chuckles]",
       "ja": "断る"
     }
   },
   {
     "translation": {
-      "en": "- He won't let anyone else near him. - Nah, nah. Nah, fuck that.",
+      "en": "-He won't let anyone else near him. -Nah, nah. Nah, fuck that.",
       "ja": "他の人… クソ食らえ"
     }
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "translation": {
-      "en": "Listen to me.",
+      "en": "[Nessie] Listen to me.",
       "ja": "聞きなさい"
     }
   },
@@ -1261,19 +1261,19 @@
   },
   {
     "translation": {
-      "en": "I'll be done with Smush, and…",
+      "en": "[takes a deep breath] I'll be done with Smush, and…",
       "ja": "スムーシと手を切って―"
     }
   },
   {
     "translation": {
-      "en": "…I'll be ready to ride horses or whatever.",
+      "en": "…I'll be ready to ride horses or whatever. [sighs deeply]",
       "ja": "馬にでも何でも乗るよ"
     }
   },
   {
     "translation": {
-      "en": "- You wanna ride a horse? -",
+      "en": "-You wanna ride a horse? -[Chuck sighs]",
       "ja": "馬に乗る？"
     }
   },
@@ -1285,19 +1285,19 @@
   },
   {
     "translation": {
-      "en": "Yeah, these cats should be here any minute.",
+      "en": "[Smush] Yeah, these cats should be here any minute.",
       "ja": "もうすぐ来るはずだ"
     }
   },
   {
     "translation": {
-      "en": "- Yo, what's shakin' up in your head, man? -",
+      "en": "-Yo, what's shakin' up in your head, man? -[rap playing on stereo]",
       "ja": "何を考え込んでる？"
     }
   },
   {
     "translation": {
-      "en": "Harp said I'm not allowed to ride with you no more or… or he'll kick me out.",
+      "en": "[sighs] Harp said I'm not allowed to ride with you no more or… or he'll kick me out.",
       "ja": "あんたといると追い出される"
     }
   },
@@ -1309,7 +1309,7 @@
   },
   {
     "translation": {
-      "en": "Yeah. I got you.",
+      "en": "[exhales] Yeah. I got you.",
       "ja": "分かった　任せとけ"
     }
   },
@@ -1321,13 +1321,13 @@
   },
   {
     "translation": {
-      "en": "- What is it? - They in there.",
+      "en": "-What is it? -They in there. [sighs]",
       "ja": "何？ 開けてみろ"
     }
   },
   {
     "translation": {
-      "en": "Oh, damn. These motherfuckers clean.",
+      "en": "[Cole] Oh, damn. These motherfuckers clean.",
       "ja": "ウソだろ　ピカピカの新品だ"
     }
   },
@@ -1339,13 +1339,13 @@
   },
   {
     "translation": {
-      "en": "Shit, you thought I was gonna let you ride with banged- up jawns on your feet? - Hey-- - You got some Chewbacca- ass feet.",
-      "ja": "ボロを履かせとくかよ チューバッカ･サイズだ"
+      "en": "Shit, you thought I was gonna let you ride with banged-up jawns on your feet? -[Cole] Hey-- -You got some Chewbacca-ass feet.",
+      "ja": "ボロを履かせとくかよチューバッカ･サイズだ"
     }
   },
   {
     "translation": {
-      "en": "You're so dumb.",
+      "en": "[Cole] You're so dumb.",
       "ja": "よせよ"
     }
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "translation": {
-      "en": "- Where's your wheelbarrow? - What you talking about?",
+      "en": "-[man 1] Where's your wheelbarrow? -[man 2] What you talking about?",
       "ja": "手押し車は？"
     }
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "translation": {
-      "en": "What the hell? This his idea of doin' a stall?",
+      "en": "[man 3] What the hell? This his idea of doin' a stall?",
       "ja": "何だ ありゃ あれが掃除か？"
     }
   },
@@ -1435,7 +1435,7 @@
   },
   {
     "translation": {
-      "en": "- Damn! - Fuck!",
+      "en": "-[man 4] Damn! -Fuck!",
       "ja": "クソ"
     }
   },
@@ -1447,31 +1447,31 @@
   },
   {
     "translation": {
-      "en": "Oh, he done dropped shit on his shoes.",
+      "en": "[man 3] Oh, he done dropped shit on his shoes.",
       "ja": "今度は靴に落とした"
     }
   },
   {
     "translation": {
-      "en": "Yo, Esha, right? They got you shoveling shit too?",
-      "ja": "イーシャだろ 君も掃除させられる？"
+      "en": "[sighs] Yo, Esha, right? They got you shoveling shit too?",
+      "ja": "イーシャだろ君も掃除させられる？"
     }
   },
   {
     "translation": {
-      "en": "Hard things come before good things.",
+      "en": "[sighs] Hard things come before good things.",
       "ja": "頑張れば報われる"
     }
   },
   {
     "translation": {
-      "en": "- This some cult life, for real. - What was that you mumbled?",
+      "en": "-This some cult life, for real. -What was that you mumbled?",
       "ja": "カルト集団かよ 何だって？"
     }
   },
   {
     "translation": {
-      "en": "How long I gotta be doing this… this shit- pit duty?",
+      "en": "How long I gotta be doing this… this shit-pit duty?",
       "ja": "いつ解放されるのかな？"
     }
   },
@@ -1490,7 +1490,7 @@
   {
     "translation": {
       "en": "Horses ain't the only thing that need breaking around here.",
-      "ja": "訓練が要るのは 馬だけじゃない"
+      "ja": "訓練が要るのは馬だけじゃない"
     }
   },
   {
@@ -1507,13 +1507,13 @@
   },
   {
     "translation": {
-      "en": "- - Wheelbarrow it.",
+      "en": "-[group chattering] -[man 1] Wheelbarrow it.",
       "ja": "手押し車を"
     }
   },
   {
     "translation": {
-      "en": "Hold up. Hold up, man. Hold up. Hold up, y'all. Hold up, y'all.",
+      "en": "[man 2] Hold up. Hold up, man. Hold up. Hold up, y'all. Hold up, y'all.",
       "ja": "おい ちょっと待てよ"
     }
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "translation": {
-      "en": "Ain't gonna be green broke no more. I'mma break your ass in.",
+      "en": "[Paris] Ain't gonna be green broke no more. I'mma break your ass in.",
       "ja": "新入り卒業だ　教えてやる"
     }
   },
@@ -1580,19 +1580,19 @@
   {
     "translation": {
       "en": "Start from the back. Get all that shitty hay and all that. Get all that shit outta there.",
-      "ja": "奥から 汚れた干し草をかき出せ"
+      "ja": "奥から汚れた干し草をかき出せ"
     }
   },
   {
     "translation": {
-      "en": "- All of that? - Get that shit.",
+      "en": "-All of that? -[Paris] Get that shit.",
       "ja": "全部？ そうだよ"
     }
   },
   {
     "translation": {
       "en": "Go on. Get in there. You ain't rakin' no leaves, man.",
-      "ja": "続けろ それじゃ力が弱すぎる"
+      "ja": "続けろそれじゃ力が弱すぎる"
     }
   },
   {
@@ -1603,31 +1603,31 @@
   },
   {
     "translation": {
-      "en": "- Oh, shit. - Try not to make a mess. Goddamn.",
+      "en": "-[Cole] Oh, shit. -Try not to make a mess. Goddamn.",
       "ja": "おっと 汚さないようにやれ"
     }
   },
   {
     "translation": {
-      "en": "- - Now put that down, man. Get that shovel.",
+      "en": "-[Cole sighs] -[Paris] Now put that down, man. Get that shovel.",
       "ja": "次はシャベルだ"
     }
   },
   {
     "translation": {
-      "en": "- - Get big scoops. Big scoops, man.",
+      "en": "-[Cole exhales] -Get big scoops. Big scoops, man.",
       "ja": "山盛りにしろよ"
     }
   },
   {
     "translation": {
-      "en": "You outta breath already? You just started.",
+      "en": "[Paris] You outta breath already? You just started.",
       "ja": "もう息が切れたか"
     }
   },
   {
     "translation": {
-      "en": "- This shit heavy. - Come on. You gotta hurry up.",
+      "en": "-[Cole] This shit heavy. -Come on. You gotta hurry up.",
       "ja": "重いんだ 急げ　夜までやる気か"
     }
   },
@@ -1639,19 +1639,19 @@
   },
   {
     "translation": {
-      "en": "No one told me I had to do all this shit.",
+      "en": "[Cole] No one told me I had to do all this shit.",
       "ja": "こんなの聞いてない"
     }
   },
   {
     "translation": {
-      "en": "Yeah. No one told me I was gonna have a lazy- ass young boul here.",
+      "en": "Yeah. No one told me I was gonna have a lazy-ass young boul here.",
       "ja": "怠け者が来るとは聞いてない"
     }
   },
   {
     "translation": {
-      "en": "- - Gonna fix your attitude today.",
+      "en": "-[Cole sighs] -[Paris] Gonna fix your attitude today.",
       "ja": "鍛え直してやる"
     }
   },
@@ -1663,7 +1663,7 @@
   },
   {
     "translation": {
-      "en": "That's… That's white and tan. That's good. Get the brown and green shit.",
+      "en": "[Paris] That's… That's white and tan. That's good. Get the brown and green shit.",
       "ja": "上手になってきたな 肥料を集めるんだ"
     }
   },
@@ -1681,8 +1681,8 @@
   },
   {
     "translation": {
-      "en": "Just take it out. I wanna see the floor. Take it all out. I wanna see the floor.",
-      "ja": "きれいにしろ 床を見たいんだ"
+      "en": "[Paris] Just take it out. I wanna see the floor. Take it all out. I wanna see the floor.",
+      "ja": "きれいにしろ床を見たいんだ"
     }
   },
   {
@@ -1717,13 +1717,13 @@
   },
   {
     "translation": {
-      "en": "- - First stall from my end. - - You all right?",
+      "en": "-[Cole exhales] -[Paris] First stall from my end. -[Cole sighs] -[Paris] You all right?",
       "ja": "１つ終わった　大丈夫か"
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[exhales] Yeah.",
       "ja": "うん"
     }
   },
@@ -1741,13 +1741,13 @@
   },
   {
     "translation": {
-      "en": "- Nah. - You're too hard for me, huh? It's all right. I'mma change that, though.",
-      "ja": "まだムリか そのうち変えてやる"
+      "en": "-[sighs] Nah. -[Paris] You're too hard for me, huh? It's all right. I'mma change that, though.",
+      "ja": "まだムリかそのうち変えてやる"
     }
   },
   {
     "translation": {
-      "en": "C'mon, no front- dumpin'. Take it all the way up.",
+      "en": "[Paris] C'mon, no front-dumpin'. Take it all the way up.",
       "ja": "手前じゃなくて奥に積め"
     }
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "translation": {
-      "en": "- - Whoa. Whoa. Hold it.",
+      "en": "-[grunts] -[Paris] Whoa. Whoa. Hold it.",
       "ja": "倒れるな"
     }
   },
@@ -1777,19 +1777,19 @@
   },
   {
     "translation": {
-      "en": "- - All the way up. You can do it.",
+      "en": "-[Cole panting] -[Paris] All the way up. You can do it.",
       "ja": "一番上だ　できるさ"
     }
   },
   {
     "translation": {
-      "en": "- - There you go.",
+      "en": "-[strains] -[Paris] There you go.",
       "ja": "いいぞ"
     }
   },
   {
     "translation": {
-      "en": "All the way up. All the way up.",
+      "en": "[Paris] All the way up. All the way up.",
       "ja": "上まで行け"
     }
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "translation": {
-      "en": "There you go.",
+      "en": "[Paris] There you go.",
       "ja": "その調子"
     }
   },
@@ -1813,7 +1813,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - You got it! Good job! Well done!",
+      "en": "-Yeah. -[man 1] You got it! Good job! Well done!",
       "ja": "よし　やるじゃないか すごいぞ"
     }
   },
@@ -1825,31 +1825,31 @@
   },
   {
     "translation": {
-      "en": "Stand up, junior!",
+      "en": "[man 2] Stand up, junior!",
       "ja": "飲み物を デカしたぞ"
     }
   },
   {
     "translation": {
-      "en": "- You aight? - Yeah.",
+      "en": "-You aight? -[Cole sighs] Yeah.",
       "ja": "やったな"
     }
   },
   {
     "translation": {
-      "en": "All right. - Come on. Let's go get some more shit. -",
+      "en": "All right. -Come on. Let's go get some more shit. -[Cole exhales]",
       "ja": "よし　次のクソだ"
     }
   },
   {
     "translation": {
-      "en": "- - Let's do Boo's stall.",
+      "en": "-[Boo nickers] -[Paris] Let's do Boo's stall.",
       "ja": "ブーの所だ"
     }
   },
   {
     "translation": {
-      "en": "- - So, you gonna take him out?",
+      "en": "-[Boo snorts, nickers] -[Cole] So, you gonna take him out?",
       "ja": "ブーを出してよ"
     }
   },
@@ -1861,13 +1861,13 @@
   },
   {
     "translation": {
-      "en": "- Why not? - That motherfucker crazy.",
+      "en": "-[Cole] Why not? -That motherfucker crazy.",
       "ja": "なぜ？ イカレ馬だ"
     }
   },
   {
     "translation": {
-      "en": "- So… So, what am I supposed to do? - Shit, you sleep with him.",
+      "en": "-So… So, what am I supposed to do? -Shit, you sleep with him.",
       "ja": "どうしろと 一緒に寝たなら大丈夫だ"
     }
   },
@@ -1879,13 +1879,13 @@
   },
   {
     "translation": {
-      "en": "- Get in there. -",
+      "en": "-[Paris] Get in there. -[Boo grunts, exhales]",
       "ja": "入れ"
     }
   },
   {
     "translation": {
-      "en": "Don't be wildin' out on me.",
+      "en": "[Cole] Don't be wildin' out on me.",
       "ja": "暴れるなよ"
     }
   },
@@ -1897,55 +1897,55 @@
   },
   {
     "translation": {
-      "en": "Get up in there, man.",
+      "en": "[Paris] Get up in there, man.",
       "ja": "奥に入れ"
     }
   },
   {
     "translation": {
-      "en": "- Aight. - Hey, back up.",
+      "en": "-[Paris] Aight. -Hey, back up.",
       "ja": "戻れ"
     }
   },
   {
     "translation": {
-      "en": "Yeah. Don't let him come out.",
+      "en": "[Paris] Yeah. Don't let him come out.",
       "ja": "出すなよ"
     }
   },
   {
     "translation": {
-      "en": "- Back up. - He get out, it's over. He gone.",
+      "en": "-Back up. -[Paris] He get out, it's over. He gone.",
       "ja": "逃げるからな"
     }
   },
   {
     "translation": {
-      "en": "Back up.",
+      "en": "Back up. [grunts]",
       "ja": "入ってろ"
     }
   },
   {
     "translation": {
-      "en": "- - All right. Now get up in there.",
+      "en": "-[Boo grunts] -[Paris] All right. Now get up in there.",
       "ja": "お前も入れ"
     }
   },
   {
     "translation": {
       "en": "Ain't nobody been in there with Boo for a minute.",
-      "ja": "掃除は久しぶりだ きれいにしてやれ"
+      "ja": "掃除は久しぶりだきれいにしてやれ"
     }
   },
   {
     "translation": {
-      "en": "- Clean all that shit outta there. - Right here? Right here?",
-      "ja": "掃除は久しぶりだ きれいにしてやれ ここ？　そこ？"
+      "en": "-Clean all that shit outta there. -[Cole] Right here? Right here?",
+      "ja": "掃除は久しぶりだきれいにしてやれ ここ？　そこ？"
     }
   },
   {
     "translation": {
-      "en": "- Corners, all that. Get it out. - Shit.",
+      "en": "-Corners, all that. Get it out. -[Cole] Shit.",
       "ja": "隅々まで全部だ"
     }
   },
@@ -1958,24 +1958,24 @@
   {
     "translation": {
       "en": "Could take your whole check. Sometimes I don't even eat just to feed Little.",
-      "ja": "ほぼ全収入だ リトルのために絶食もする"
+      "ja": "ほぼ全収入だリトルのために絶食もする"
     }
   },
   {
     "translation": {
-      "en": "Which one of them is Little?",
+      "en": "[Cole] Which one of them is Little?",
       "ja": "どの馬？"
     }
   },
   {
     "translation": {
-      "en": "The quarter horse tied up outside.",
+      "en": "[Paris] The quarter horse tied up outside.",
       "ja": "外につないだやつ"
     }
   },
   {
     "translation": {
-      "en": "- Why you name him Little? -",
+      "en": "-Why you name him Little? -[Boo nickering]",
       "ja": "なぜ“リトル”？"
     }
   },
@@ -1993,13 +1993,13 @@
   },
   {
     "translation": {
-      "en": "Sorry to hear that, man.",
+      "en": "[sighs heavily] Sorry to hear that, man.",
       "ja": "気の毒に"
     }
   },
   {
     "translation": {
-      "en": "So…",
+      "en": "[Cole takes a deep breath] So…",
       "ja": "それで―"
     }
   },
@@ -2030,42 +2030,42 @@
   {
     "translation": {
       "en": "Come on, man. Get your ass back to work. Stop asking me all these damn questions.",
-      "ja": "バカな質問をしてないで 仕事しろ"
+      "ja": "バカな質問をしてないで仕事しろ"
     }
   },
   {
     "translation": {
-      "en": "That's 'cause you think all cowboys was white. That's some Hollywood John Wayne bullshit.",
-      "ja": "カウボーイの定番は白人 ジョン･ウェインのせいだ"
+      "en": "[man 4] That's 'cause you think all cowboys was white. That's some Hollywood John Wayne bullshit.",
+      "ja": "カウボーイの定番は白人ジョン･ウェインのせいだ"
     }
   },
   {
     "translation": {
       "en": "Fifty percent of all cowboys were Black, brown, bronze, or some other color.",
-      "ja": "半分は肌が黒 褐色 ブロンズ 他の色なのに"
+      "ja": "半分は肌が黒 褐色 ブロンズ他の色なのに"
     }
   },
   {
     "translation": {
-      "en": "You said 50? Where you getting them numbers from, nigga?",
+      "en": "[laughs] You said 50? Where you getting them numbers from, nigga?",
       "ja": "半分？　数字の根拠は？"
     }
   },
   {
     "translation": {
       "en": "Look it up! Real rap! Even the Lone Ranger was Black.",
-      "ja": "調べろ ローン･レンジャーも黒人だ"
+      "ja": "調べろローン･レンジャーも黒人だ"
     }
   },
   {
     "translation": {
-      "en": "- Who's the Lone Ranger? - Get the fuck outta here.",
+      "en": "-Who's the Lone Ranger? -Get the fuck outta here.",
       "ja": "誰それ？ ウソだろ　息子の教育は？"
     }
   },
   {
     "translation": {
-      "en": "- Really? - Harp, you teachin' this boy?",
+      "en": "-[Esha] Really? -Harp, you teachin' this boy?",
       "ja": "ウソだろ　息子の教育は？"
     }
   },
@@ -2078,13 +2078,13 @@
   {
     "translation": {
       "en": "No, he's right. Look, Hollywood has whitewashed us.",
-      "ja": "ハリウッドの ホワイトウォッシュよ"
+      "ja": "ハリウッドのホワイトウォッシュよ"
     }
   },
   {
     "translation": {
       "en": "They just deleted us right out of the history books.",
-      "ja": "ハリウッドの ホワイトウォッシュよ 私らを歴史から消した"
+      "ja": "ハリウッドのホワイトウォッシュよ 私らを歴史から消した"
     }
   },
   {
@@ -2095,19 +2095,19 @@
   },
   {
     "translation": {
-      "en": "Cowhand became cowboy. Did you know that? That's what they called us.",
+      "en": "\"Cowhand\" became \"cowboy.\" Did you know that? That's what they called us.",
       "ja": "カウボーイの元は牛飼い(カウハンド)だ"
     }
   },
   {
     "translation": {
-      "en": "Hey, boy. Hold that cattle down while I brand it.",
-      "ja": "“焼き印を押す間 押さえてろ”"
+      "en": "\"Hey, boy. Hold that cattle down while I brand it.\"",
+      "ja": "“焼き印を押す間押さえてろ”"
     }
   },
   {
     "translation": {
-      "en": "Hey, boy. Go break that horse.",
+      "en": "\"Hey, boy. Go break that horse.\"",
       "ja": "“馬を慣らせ”"
     }
   },
@@ -2119,38 +2119,38 @@
   },
   {
     "translation": {
-      "en": "- Why? Come on, why? - Why? Tell us.",
+      "en": "-Why? Come on, why? -[Esha] Why? Tell us.",
       "ja": "言ってやれ"
     }
   },
   {
     "translation": {
-      "en": "Come on, Rome, tell us!",
+      "en": "[man 5] Come on, Rome, tell us!",
       "ja": "教えてくれ"
     }
   },
   {
     "translation": {
-      "en": "- Tell them, Nessie. I gotta pee. -",
+      "en": "-Tell them, Nessie. I gotta pee. -[group laughs]",
       "ja": "任せた　トイレ"
     }
   },
   {
     "translation": {
       "en": "People used to believe breaking a horse meant crushin' the will of the animal,",
-      "ja": "調馬とは 馬を 支配することだと思われてた"
+      "ja": "調馬とは 馬を支配することだと思われてた"
     }
   },
   {
     "translation": {
       "en": "dominating 'em, making 'em believe that the only way it was gonna survive was to submit, right?",
-      "ja": "服従しなければ殺されると 思わせるの"
+      "ja": "服従しなければ殺されると思わせるの"
     }
   },
   {
     "translation": {
       "en": "Well, Black folks, we knew that a horse wasn't meant to be dominated.",
-      "ja": "でも私ら黒人は 違うと知ってた"
+      "ja": "でも私ら黒人は違うと知ってた"
     }
   },
   {
@@ -2161,14 +2161,14 @@
   },
   {
     "translation": {
-      "en": "- Yep. - That's right.",
+      "en": "-[man 1] Yep. -[Esha] That's right.",
       "ja": "そうだ"
     }
   },
   {
     "translation": {
       "en": "Only way you can realize its true spirit, its nature,",
-      "ja": "馬の魂や本質を 輝かせられるのは"
+      "ja": "馬の魂や本質を輝かせられるのは"
     }
   },
   {
@@ -2179,25 +2179,25 @@
   },
   {
     "translation": {
-      "en": "- Real rap. You feel that? - Become one.",
+      "en": "-[Rome] Real rap. You feel that? -[Paris] Become one.",
       "ja": "そうだ １つになる"
     }
   },
   {
     "translation": {
       "en": "Where'd you guys come from if all the Black cowboys got deleted?",
-      "ja": "歴史から消えたなら みんなは？"
+      "ja": "歴史から消えたならみんなは？"
     }
   },
   {
     "translation": {
-      "en": "I've been at it since I was nine.",
+      "en": "[man 6] I've been at it since I was nine.",
       "ja": "９歳から馬乗りだ"
     }
   },
   {
     "translation": {
-      "en": "- Ooh! - Right down here.",
+      "en": "-[Nessie] Ooh! -Right down here.",
       "ja": "ここでな"
     }
   },
@@ -2251,19 +2251,19 @@
   },
   {
     "translation": {
-      "en": "- They was gettin' trucks. - Mm- hmm.",
+      "en": "-They was gettin' trucks. -[man 5] Mm-hmm.",
       "ja": "トラックだよ"
     }
   },
   {
     "translation": {
-      "en": "So they said, Well, we don't need the horses no more.",
-      "ja": "市は言った “馬は お役御免だ”"
+      "en": "So they said, \"Well, we don't need the horses no more.\"",
+      "ja": "市は言った“馬は お役御免だ”"
     }
   },
   {
     "translation": {
-      "en": "- But all of us down here, we love horses. - Yes, we do. Yes, we do.",
+      "en": "-But all of us down here, we love horses. -[Harp] Yes, we do. Yes, we do.",
       "ja": "だが わしらは馬を愛してる そのとおりだ"
     }
   },
@@ -2276,43 +2276,43 @@
   {
     "translation": {
       "en": "See, you got 31st Street, you got 32nd, you got Cobb Creek.",
-      "ja": "31番通り 32番通り コブス･クリーク"
+      "ja": "31番通り 32番通りコブス･クリーク"
     }
   },
   {
     "translation": {
-      "en": "Yup.",
+      "en": "[Harp] Yup.",
       "ja": "そうだ"
     }
   },
   {
     "translation": {
-      "en": "- Markoe Street. - White House.",
+      "en": "-[Esha] Markoe Street. -White House.",
       "ja": "マルクー通り"
     }
   },
   {
     "translation": {
-      "en": "And the number one on that list, 9th and Tioga.",
+      "en": "[Rome] And the number one on that list, 9th and Tioga.",
       "ja": "最高なのはタイオガだね"
     }
   },
   {
     "translation": {
-      "en": "Here we go.",
+      "en": "[Nessie] Here we go.",
       "ja": "出たよ"
     }
   },
   {
     "translation": {
       "en": "You just gonna forget about us Fletcher Street originals, huh?",
-      "ja": "フレッチャー通りを 忘れてないか"
+      "ja": "フレッチャー通りを忘れてないか"
     }
   },
   {
     "translation": {
-      "en": "I'm talkin' about real riders. Not no bitch- ass horse owners.",
-      "ja": "馬乗りの話だ アホなオーナーじゃない"
+      "en": "I'm talkin' about real riders. Not no bitch-ass horse owners.",
+      "ja": "馬乗りの話だアホなオーナーじゃない"
     }
   },
   {
@@ -2335,7 +2335,7 @@
   },
   {
     "translation": {
-      "en": "- Yep. - Why?",
+      "en": "-[man 1] Yep. -Why?",
       "ja": "なぜ？"
     }
   },
@@ -2347,43 +2347,43 @@
   },
   {
     "translation": {
-      "en": "Developers coming in, they see the horses, they like, Horses? Pfft. Fuck that.",
-      "ja": "開発業者は “馬だと？　クソ食らえ”"
+      "en": "Developers coming in, they see the horses, they like, \"Horses? Pfft. Fuck that.\"",
+      "ja": "開発業者は“馬だと？　クソ食らえ”"
     }
   },
   {
     "translation": {
       "en": "I mean, a lot of these boys used to own their own stable.",
-      "ja": "馬小屋のオーナーに たきつけるんだ"
+      "ja": "馬小屋のオーナーにたきつけるんだ"
     }
   },
   {
     "translation": {
-      "en": "They runnin' up on these boys, like, Hey, this your land? Let me get that.",
-      "ja": "馬小屋のオーナーに たきつけるんだ “土地を取り戻す”とね"
+      "en": "They runnin' up on these boys, like, \"Hey, this your land? Let me get that.\"",
+      "ja": "馬小屋のオーナーにたきつけるんだ “土地を取り戻す”とね"
     }
   },
   {
     "translation": {
       "en": "Like, Fletcher Street, right here,",
-      "ja": "俺らは いわばカウボーイの孤児だ"
+      "ja": "俺らはいわばカウボーイの孤児だ"
     }
   },
   {
     "translation": {
       "en": "we like some cowboy orphans, you know what I'm sayin'?",
-      "ja": "俺らは いわばカウボーイの孤児だ 西部と同じだよ 最後の生き残りだ"
+      "ja": "俺らはいわばカウボーイの孤児だ 西部と同じだよ最後の生き残りだ"
     }
   },
   {
     "translation": {
       "en": "We like the la-- We like the Wild West out here. The last remainin'.",
-      "ja": "西部と同じだよ 最後の生き残りだ"
+      "ja": "西部と同じだよ最後の生き残りだ"
     }
   },
   {
     "translation": {
-      "en": "Ah, shit. Here we go, y'all.",
+      "en": "[Rome] Ah, shit. Here we go, y'all.",
       "ja": "クソ 来たか"
     }
   },
@@ -2395,25 +2395,25 @@
   },
   {
     "translation": {
-      "en": "- Turn off them damn lights. - Come on, man.",
+      "en": "-Turn off them damn lights. -[Paris] Come on, man.",
       "ja": "ライトを消しな リロイがおいでなすったか"
     }
   },
   {
     "translation": {
-      "en": "- Here come Leroy with his bullshit. -",
+      "en": "-Here come Leroy with his bullshit. -[group groans]",
       "ja": "リロイがおいでなすったか"
     }
   },
   {
     "translation": {
-      "en": "- Here we go. - Here come the sheriff.",
+      "en": "-[woman] Here we go. -[Nessie] Here come the sheriff.",
       "ja": "まただ 保安官だよ"
     }
   },
   {
     "translation": {
-      "en": "Oh, here we go.",
+      "en": "[Rome] Oh, here we go.",
       "ja": "お出ましだ"
     }
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "translation": {
-      "en": "That's the fire can burning. The fire can burning.",
+      "en": "[Paris] That's the fire can burning. The fire can burning.",
       "ja": "焚火(たきび)缶のせいだろ"
     }
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "translation": {
-      "en": "- Nessie. - Leroy.",
+      "en": "-Nessie. -[Nessie] Leroy.",
       "ja": "リロイ"
     }
   },
@@ -2467,13 +2467,13 @@
   },
   {
     "translation": {
-      "en": "Aight, man. You good, L?",
+      "en": "[Harp] Aight, man. You good, L?",
       "ja": "よせよ　調子は？"
     }
   },
   {
     "translation": {
-      "en": "- You good? -",
+      "en": "-You good? -[man 2 laughs]",
       "ja": "どうだ"
     }
   },
@@ -2485,25 +2485,25 @@
   },
   {
     "translation": {
-      "en": "- What? - Them raggedy- ass stables.",
+      "en": "-[Harp] What? -[Leroy] Them raggedy-ass stables.",
       "ja": "何だ ボロい馬小屋だ"
     }
   },
   {
     "translation": {
-      "en": "- Aight? They broken. Roof's slanted. - There he goes.",
+      "en": "-Aight? They broken. Roof's slanted. -[Rome] There he goes.",
       "ja": "壊れてて屋根は傾いてる"
     }
   },
   {
     "translation": {
       "en": "Aight, the stalls is crowded as a motherfucker, and the neighbors are complainin' about the smell again.",
-      "ja": "馬の数が多すぎて ニオイの苦情がまた来たぞ"
+      "ja": "馬の数が多すぎてニオイの苦情がまた来たぞ"
     }
   },
   {
     "translation": {
-      "en": "Smell? You smell something?",
+      "en": "[Rome] Smell? You smell something?",
       "ja": "ニオイ？"
     }
   },
@@ -2515,13 +2515,13 @@
   },
   {
     "translation": {
-      "en": "- Dead horse? What? - Johnny got that horse.",
+      "en": "-Dead horse? What? -[Nessie] Johnny got that horse.",
       "ja": "死体？ ジョニーが始末する"
     }
   },
   {
     "translation": {
-      "en": "- He came and got it. - Yeah.",
+      "en": "-He came and got it. -[Harp] Yeah.",
       "ja": "ジョニーが始末する"
     }
   },
@@ -2540,24 +2540,24 @@
   {
     "translation": {
       "en": "Y'all seen those new condos on Oxford. That's only five blocks from here.",
-      "ja": "５ブロック先に マンションも建った"
+      "ja": "５ブロック先にマンションも建った"
     }
   },
   {
     "translation": {
-      "en": "Pfft. Five blocks? That's a long way for them skinny, hipster- ass latte motherfuckers to be walkin'.",
-      "ja": "５ブロック？ 澄ましたヤセには歩けない"
+      "en": "[Rome] Pfft. Five blocks? That's a long way for them skinny, hipster-ass latte motherfuckers to be walkin'.",
+      "ja": "５ブロック？澄ましたヤセには歩けない"
     }
   },
   {
     "translation": {
-      "en": "- - Developers are comin'.",
+      "en": "-[group chuckles] -Developers are comin'.",
       "ja": "業者が来るぞ"
     }
   },
   {
     "translation": {
-      "en": "- Believe it. - Well, let 'em come. We'll see what the fuck happens.",
+      "en": "-Believe it. -Well, let 'em come. We'll see what the fuck happens.",
       "ja": "来させて様子を見るさ"
     }
   },
@@ -2570,7 +2570,7 @@
   {
     "translation": {
       "en": "See, what happens is you don't own any of this shit. Y'all just rentin'.",
-      "ja": "お前らは 建物を借りてるだけだろ"
+      "ja": "お前らは建物を借りてるだけだろ"
     }
   },
   {
@@ -2581,7 +2581,7 @@
   },
   {
     "translation": {
-      "en": "- We? You speakin' French? - What do you mean, we, white man?",
+      "en": "-[Paris] \"We\"? You speakin' French? -[Rome] What do you mean, \"we,\" white man?",
       "ja": "ウィー？　フランス語？ 白人かよ"
     }
   },
@@ -2600,19 +2600,19 @@
   {
     "translation": {
       "en": "History gonna repeat itself, and you all out here,",
-      "ja": "歴史は繰り返す お前らは今晩も飲んで吸って 与太話をしてるが"
+      "ja": "歴史は繰り返す お前らは今晩も飲んで吸って与太話をしてるが"
     }
   },
   {
     "translation": {
       "en": "just another night of drinkin' and smokin'",
-      "ja": "お前らは今晩も飲んで吸って 与太話をしてるが"
+      "ja": "お前らは今晩も飲んで吸って与太話をしてるが"
     }
   },
   {
     "translation": {
       "en": "and lyin' to each other, when you need to be--",
-      "ja": "お前らは今晩も飲んで吸って 与太話をしてるが 必要な…"
+      "ja": "お前らは今晩も飲んで吸って与太話をしてるが 必要な…"
     }
   },
   {
@@ -2629,13 +2629,13 @@
   },
   {
     "translation": {
-      "en": "All right.",
+      "en": "[man 5] All right.",
       "ja": "じゃあ 乾杯"
     }
   },
   {
     "translation": {
-      "en": "Just-- My van over there, so just leave that alone,",
+      "en": "[Harp] Just-- My van over there, so just leave that alone,",
       "ja": "じゃあ 乾杯 俺の車には切るんじゃないぞ"
     }
   },
@@ -2665,26 +2665,26 @@
   },
   {
     "translation": {
-      "en": "- Damn. -",
+      "en": "-Damn. -[group chattering]",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Hey, Georgie, shut these fools up. - Talking that shit. - Aw, man.",
+      "en": "Hey, Georgie, shut these fools up. -Talking that shit. -[man 1] Aw, man.",
       "ja": "ジョージ　バカを黙らせろ"
     }
   },
   {
     "translation": {
       "en": "Come on. Hey, Cole, you gotta hear this. This guy a killer, right here.",
-      "ja": "コール こいつは上手だからな"
+      "ja": "コールこいつは上手だからな"
     }
   },
   {
     "translation": {
       "en": "Hear this. This guy good. From the '40s, here.",
-      "ja": "コール こいつは上手だからな 40年代の名曲だよ"
+      "ja": "コールこいつは上手だからな 40年代の名曲だよ"
     }
   },
   {
@@ -2695,25 +2695,25 @@
   },
   {
     "translation": {
-      "en": "- Aight, aight. Aight. - There it is.",
+      "en": "-Aight, aight. Aight. -[Rome] There it is.",
       "ja": "じゃあ 披露するか"
     }
   },
   {
     "translation": {
-      "en": "- Don't act like you don't wanna. - Yes.",
+      "en": "-[Harp] Don't act like you don't wanna. -[Esha] Yes.",
       "ja": "やりたいくせに"
     }
   },
   {
     "translation": {
-      "en": "♪ Here on my own ♪",
+      "en": "[Georgie] ♪ Here on my own ♪",
       "ja": "ここに俺１人"
     }
   },
   {
     "translation": {
-      "en": "♪ Here all alone ♪",
+      "en": "[Georgie] ♪ Here all alone ♪",
       "ja": "孤独をかみしめる"
     }
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "translation": {
-      "en": "♪ We ain't scared of no po- po ♪",
+      "en": "[rapping] ♪ We ain't scared of no po-po ♪",
       "ja": "警察なんか怖くない"
     }
   },
@@ -2768,7 +2768,7 @@
   {
     "translation": {
       "en": "♪ We hard, we Fletcher Street, all day ♪",
-      "ja": "俺らは フレッチャー通りの馬乗り"
+      "ja": "俺らはフレッチャー通りの馬乗り"
     }
   },
   {
@@ -2785,25 +2785,25 @@
   },
   {
     "translation": {
-      "en": "- Want some cheese? Wanna try some cheese? -",
+      "en": "-Want some cheese? Wanna try some cheese? -[Chuck nickers]",
       "ja": "食ってみるか"
     }
   },
   {
     "translation": {
-      "en": "- All right. Take it easy. Whoa. -",
+      "en": "-All right. Take it easy. Whoa. -[Chuck whinnies]",
       "ja": "慌てるな"
     }
   },
   {
     "translation": {
-      "en": "- Look at that. -",
+      "en": "-Look at that. -[Chuck sighs]",
       "ja": "すごいな"
     }
   },
   {
     "translation": {
-      "en": "- Yo. - Hey. What's good with you?",
+      "en": "-Yo. -Hey. What's good with you?",
       "ja": "よお よく来た"
     }
   },
@@ -2821,13 +2821,13 @@
   },
   {
     "translation": {
-      "en": "- My man. What's good? - What's up with you?",
+      "en": "-[man 1] My man. What's good? -What's up with you?",
       "ja": "よお　どうしてた"
     }
   },
   {
     "translation": {
-      "en": "- My boy, Cole. From Detroit. - What's up?  Y'all take care of him. Ya hear me?",
+      "en": "-[Smush] My boy, Cole. From Detroit. -[man 2] What's up? [Smush] Y'all take care of him. Ya hear me?",
       "ja": "ダチのコールだ　よろしく"
     }
   },
@@ -2839,7 +2839,7 @@
   },
   {
     "translation": {
-      "en": "- Hey. Yeah. - Yeah. Get it moving.",
+      "en": "-[woman] Hey. Yeah. -Yeah. Get it moving.",
       "ja": "上手だね"
     }
   },
@@ -2857,19 +2857,19 @@
   },
   {
     "translation": {
-      "en": "- Cole. - Hey, Cole. What's up?",
+      "en": "-[Cole] Cole. -[woman] Hey, Cole. What's up?",
       "ja": "コールだ"
     }
   },
   {
     "translation": {
-      "en": "We chillin'. You guys good tonight?",
+      "en": "[Smush] We chillin'. You guys good tonight?",
       "ja": "絶好調かい"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Hey, yo, Smush.",
+      "en": "-Yeah. -[man 3] Hey, yo, Smush.",
       "ja": "スムーシ"
     }
   },
@@ -2912,7 +2912,7 @@
   {
     "translation": {
       "en": "Listen, one of my young bouls told me somebody tryna come up on me on one of my corners.",
-      "ja": "シマを荒らそうと してるヤツがいるらしい"
+      "ja": "シマを荒らそうとしてるヤツがいるらしい"
     }
   },
   {
@@ -2954,7 +2954,7 @@
   {
     "translation": {
       "en": "Oh, yeah, shit. This is my… my boy, Cole, from Detroit.",
-      "ja": "ダチのコール デトロイト出身だ"
+      "ja": "ダチのコールデトロイト出身だ"
     }
   },
   {
@@ -2971,7 +2971,7 @@
   },
   {
     "translation": {
-      "en": "Okay, playa.",
+      "en": "[sighs] Okay, playa.",
       "ja": "なるほど"
     }
   },
@@ -3043,7 +3043,7 @@
   },
   {
     "translation": {
-      "en": "- Enjoy yourself, young boul. -",
+      "en": "-Enjoy yourself, young boul. -[\"Lightwork\" playing on stereo]",
       "ja": "楽しむがいい"
     }
   },
@@ -3061,19 +3061,19 @@
   },
   {
     "translation": {
-      "en": "Grab that brush right there.",
+      "en": "[Paris] Grab that brush right there.",
       "ja": "ブラシを取れ"
     }
   },
   {
     "translation": {
       "en": "I want you to go from the top, goin' all the way down to the barrel of his ass.",
-      "ja": "頭の上から尻まで ブラッシングだ"
+      "ja": "頭の上から尻までブラッシングだ"
     }
   },
   {
     "translation": {
-      "en": "- - Come on.",
+      "en": "-[horse nickering] -Come on.",
       "ja": "始めろ"
     }
   },
@@ -3097,13 +3097,13 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Paris] Yeah.",
       "ja": "何だ"
     }
   },
   {
     "translation": {
-      "en": "- How'd you end up in the chair? -",
+      "en": "-How'd you end up in the chair? -[Paris takes a deep breath]",
       "ja": "なぜ車イスに？"
     }
   },
@@ -3187,13 +3187,13 @@
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[quietly] Fuck.",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "No, I'm telling you, he knows.",
+      "en": "[Cole] No, I'm telling you, he knows.",
       "ja": "バレてるよ"
     }
   },
@@ -3205,7 +3205,7 @@
   },
   {
     "translation": {
-      "en": "- We just gotta-- - That nigga onto us.",
+      "en": "-We just gotta-- -That nigga onto us.",
       "ja": "ヤバいよ"
     }
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "translation": {
-      "en": "- You know what I'm sayin'? - You good, man?",
+      "en": "-You know what I'm sayin'? -You good, man?",
       "ja": "分かるか いいね"
     }
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "translation": {
-      "en": "You should write that shit down. It's real.",
+      "en": "[laughs] You should write that shit down. It's real.",
       "ja": "書いておけ　真実だ"
     }
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "translation": {
-      "en": "- - You believe that?",
+      "en": "-[Cole sniffles] -You believe that?",
       "ja": "信じるか"
     }
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "translation": {
-      "en": "Nah, man. I said, Do you believe that?",
+      "en": "Nah, man. I said, \"Do you believe that?\"",
       "ja": "信じるかと聞いた"
     }
   },
@@ -3325,20 +3325,20 @@
   },
   {
     "translation": {
-      "en": "You read that article? Dumb shit in there about malnourished horses.",
-      "ja": "栄養不足な馬の 記事を読んだか？"
+      "en": "[Rome] You read that article? Dumb shit in there about malnourished horses.",
+      "ja": "栄養不足な馬の記事を読んだか？"
     }
   },
   {
     "translation": {
-      "en": "- Where? - It's in the paper.",
+      "en": "-[Paris] Where? -[Rome] It's in the paper.",
       "ja": "どこで 新聞だよ"
     }
   },
   {
     "translation": {
-      "en": "Bitch- ass journalist came down here. Remember her? With her skirt and smiles?",
-      "ja": "スカートで笑顔の 記者が来たろ"
+      "en": "Bitch-ass journalist came down here. Remember her? With her skirt and smiles?",
+      "ja": "スカートで笑顔の記者が来たろ"
     }
   },
   {
@@ -3349,139 +3349,139 @@
   },
   {
     "translation": {
-      "en": "- What? - Look--",
+      "en": "-[men] What? -Look--",
       "ja": "何？"
     }
   },
   {
     "translation": {
-      "en": "- That was you! - I ain't say she didn't have nice legs.",
-      "ja": "見たよ “美脚”と褒めてないし みんな見てたろ"
+      "en": "-[Esha] That was you! -I ain't say she didn't have nice legs.",
+      "ja": "見たよ “美脚”と褒めてないしみんな見てたろ"
     }
   },
   {
     "translation": {
       "en": "We all stared at her. You seen her when she walked away.",
-      "ja": "“美脚”と褒めてないし みんな見てたろ"
+      "ja": "“美脚”と褒めてないしみんな見てたろ"
     }
   },
   {
     "translation": {
-      "en": "- Yes, I did. - Ain't seen nothing but ponytail and ass.",
-      "ja": "ああ ポニーテールと尻で 馬だと思い縄を持った"
+      "en": "-Yes, I did. -Ain't seen nothing but ponytail and ass.",
+      "ja": "ああ ポニーテールと尻で馬だと思い縄を持った"
     }
   },
   {
     "translation": {
       "en": "I thought she was a horse. Went and grabbed a rope first.",
-      "ja": "ポニーテールと尻で 馬だと思い縄を持った"
+      "ja": "ポニーテールと尻で馬だと思い縄を持った"
     }
   },
   {
     "translation": {
-      "en": "You know, I woulda roped her up like that. - Time! - Man!",
-      "ja": "縄をかけたかった “上がり！”"
+      "en": "You know, I woulda roped her up like that. -Time! -[Esha] Man!",
+      "ja": "縄をかけたかった“上がり！”"
     }
   },
   {
     "translation": {
-      "en": "Aight, come on. Let's go.",
+      "en": "[Harp] Aight, come on. Let's go.",
       "ja": "行くぞ"
     }
   },
   {
     "translation": {
-      "en": "- Where we going? - Gonna get him up on the truck.",
+      "en": "-[Paris] Where we going? -Gonna get him up on the truck.",
       "ja": "どこへ 彼を荷台に乗せろ"
     }
   },
   {
     "translation": {
-      "en": "- That's where we going. Come on. - Up on the truck?",
+      "en": "-That's where we going. Come on. -Up on the truck?",
       "ja": "彼を荷台に乗せろ 荷台？ ほら"
     }
   },
   {
     "translation": {
-      "en": "- Getting him on the back. - On the back of the truck?",
+      "en": "-[Harp] Getting him on the back. -On the back of the truck?",
       "ja": "彼を運べ 荷台？　なぜだ"
     }
   },
   {
     "translation": {
-      "en": "- What? Where we going? - Got something for you. Come.",
+      "en": "-What? Where we going? -[Harp] Got something for you. Come.",
       "ja": "荷台？　なぜだ 贈り物だ"
     }
   },
   {
     "translation": {
-      "en": "- You got something for me? - Yep.",
+      "en": "-[Paris] You got something for me? -[Harp] Yep.",
       "ja": "俺に？"
     }
   },
   {
     "translation": {
-      "en": "Unlock these brakes.",
+      "en": "[Paris] Unlock these brakes.",
       "ja": "ブレーキを外せ"
     }
   },
   {
     "translation": {
-      "en": "Aight, real slow. Get him on.",
+      "en": "[Harp] Aight, real slow. Get him on.",
       "ja": "ゆっくりだぞ"
     }
   },
   {
     "translation": {
-      "en": "- Keep going. Slow. - All right.",
+      "en": "-Keep going. Slow. -[man] All right.",
       "ja": "よし"
     }
   },
   {
     "translation": {
-      "en": "- Be careful. - Hold up. There you go.",
+      "en": "-[Esha] Be careful. -[Harp] Hold up. There you go.",
       "ja": "気をつけて"
     }
   },
   {
     "translation": {
-      "en": "Pick up the board. Watch the board right there. - Let him drop slow. -",
+      "en": "Pick up the board. Watch the board right there. -Let him drop slow. -[Paris grunts]",
       "ja": "板を外して そっと下ろせ"
     }
   },
   {
     "translation": {
-      "en": "- Good? - Yeah.",
+      "en": "-Good? -[Paris] Yeah.",
       "ja": "平気か"
     }
   },
   {
     "translation": {
-      "en": "Esha. Come on, jump in the back.",
+      "en": "[Harp] Esha. Come on, jump in the back.",
       "ja": "イーシャ　後ろに乗れ"
     }
   },
   {
     "translation": {
-      "en": "- Got him? - I got him.",
+      "en": "-Got him? -[Esha] I got him.",
       "ja": "支えろ　行くぞ"
     }
   },
   {
     "translation": {
-      "en": "- Aight. Let's go. Let's go. - Aight.",
+      "en": "-Aight. Let's go. Let's go. -[Esha] Aight.",
       "ja": "支えろ　行くぞ よし"
     }
   },
   {
     "translation": {
-      "en": "- All right, Paris. I got you. -",
+      "en": "-[Rome] All right, Paris. I got you. -[engine starts]",
       "ja": "押さえるよ"
     }
   },
   {
     "translation": {
-      "en": "Right here.",
+      "en": "[Harp] Right here.",
       "ja": "こっちだ"
     }
   },
@@ -3505,13 +3505,13 @@
   },
   {
     "translation": {
-      "en": "- You got it? - I got it.",
+      "en": "-You got it? -[Esha] I got it.",
       "ja": "できたな"
     }
   },
   {
     "translation": {
-      "en": "- - Okay.",
+      "en": "-[horse whickering] -[Harp grunts] Okay.",
       "ja": "よし"
     }
   },
@@ -3523,26 +3523,26 @@
   },
   {
     "translation": {
-      "en": "- - What you doin'?",
+      "en": "-[door closes] -[Harp] What you doin'?",
       "ja": "何してる"
     }
   },
   {
     "translation": {
-      "en": "- I'm out. - Out? Where you goin'?",
+      "en": "-I'm out. -[Harp] Out? Where you goin'?",
       "ja": "外へ どこへ行く"
     }
   },
   {
     "translation": {
-      "en": "- Get out of my fucking business. - Nah, you ain't riding with Smush.",
+      "en": "-[Cole] Get out of my fucking business. -Nah, you ain't riding with Smush.",
       "ja": "もう嫌だ スムーシはダメだ"
     }
   },
   {
     "translation": {
-      "en": "I'm ridin' with me. Like I've done from day one.",
-      "ja": "１人で生きる 最初からそうだった"
+      "en": "[breathing shakily] I'm ridin' with me. Like I've done from day one.",
+      "ja": "１人で生きる最初からそうだった"
     }
   },
   {
@@ -3553,7 +3553,7 @@
   },
   {
     "translation": {
-      "en": "- Sit down. I'm your father. You ain't-- - You ain't my fuckin' father!",
+      "en": "-Sit down. I'm your father. You ain't-- -You ain't my fuckin' father!",
       "ja": "座れ　俺は父… 親父じゃない"
     }
   },
@@ -3566,7 +3566,7 @@
   {
     "translation": {
       "en": "Teachin' 'em how to ride, makin' homemade saddles for cripples and shit.",
-      "ja": "乗馬を教え サドルも作ってやる"
+      "ja": "乗馬を教えサドルも作ってやる"
     }
   },
   {
@@ -3602,7 +3602,7 @@
   {
     "translation": {
       "en": "What, them streets done made you a fuckin' man overnight?",
-      "ja": "ストリートで 成長したとでも？"
+      "ja": "ストリートで成長したとでも？"
     }
   },
   {
@@ -3631,7 +3631,7 @@
   },
   {
     "translation": {
-      "en": "You know who this is, man?",
+      "en": "[Harp] You know who this is, man?",
       "ja": "知ってるか？"
     }
   },
@@ -3644,13 +3644,13 @@
   {
     "translation": {
       "en": "He was just a boy when his pops died. Left to be raised by his mama.",
-      "ja": "５歳で父親を亡くし 母親に育てられた"
+      "ja": "５歳で父親を亡くし母親に育てられた"
     }
   },
   {
     "translation": {
       "en": "Shit, he might have been your age when he moved to Philly.",
-      "ja": "街に来たのは お前くらいの年かも"
+      "ja": "街に来たのはお前くらいの年かも"
     }
   },
   {
@@ -3668,7 +3668,7 @@
   {
     "translation": {
       "en": "It was that same year that his mama bought him his first saxophone.",
-      "ja": "その年 母親は 最初のサックスを与えた"
+      "ja": "その年 母親は最初のサックスを与えた"
     }
   },
   {
@@ -3679,7 +3679,7 @@
   },
   {
     "translation": {
-      "en": "- - Look, man.",
+      "en": "-[Cole exhales] -[Harp] Look, man.",
       "ja": "あのな"
     }
   },
@@ -3704,7 +3704,7 @@
   {
     "translation": {
       "en": "Shit, I was on charges when your mama got pregnant. Yeah.",
-      "ja": "母さんが妊娠した時 俺は罪に問われてた"
+      "ja": "母さんが妊娠した時俺は罪に問われてた"
     }
   },
   {
@@ -3740,7 +3740,7 @@
   {
     "translation": {
       "en": "I ain't never blame her, 'cause, you know, she was just trying to do right by you, you know?",
-      "ja": "責めちゃいない 俺のためにそうしたんだ"
+      "ja": "責めちゃいない俺のためにそうしたんだ"
     }
   },
   {
@@ -3764,24 +3764,24 @@
   {
     "translation": {
       "en": "Before I'd went away, I asked your mama.",
-      "ja": "ムショに入る前 母さんに頼んだ"
+      "ja": "ムショに入る前母さんに頼んだ"
     }
   },
   {
     "translation": {
-      "en": "I said, Look, I ain't shit. I know.",
-      "ja": "ムショに入る前 母さんに頼んだ “俺はクソだ”"
+      "en": "I said, \"Look, I ain't shit. I know.\"",
+      "ja": "ムショに入る前母さんに頼んだ “俺はクソだ”"
     }
   },
   {
     "translation": {
-      "en": "But just let me… let me name my son.",
+      "en": "\"But just let me… let me name my son.\"",
       "ja": "“だが名付けさせてくれ”"
     }
   },
   {
     "translation": {
-      "en": "Can I? Can I name him? Just give me that.",
+      "en": "\"Can I?\" \"Can I name him? Just give me that.\"",
       "ja": "“頼む　それだけでいい”"
     }
   },
@@ -3800,30 +3800,30 @@
   {
     "translation": {
       "en": "Greatest man I ever knew that did it without a father.",
-      "ja": "父なしで 偉業を成し遂げた人物だ"
+      "ja": "父なしで偉業を成し遂げた人物だ"
     }
   },
   {
     "translation": {
-      "en": "- - Shit, nigga. Whoo!",
+      "en": "-[music fades] -[Smush] Shit, nigga. Whoo!",
       "ja": "やったぜ"
     }
   },
   {
     "translation": {
       "en": "Word is travelin' fast, man. That's you, right there. Count that shit.",
-      "ja": "噂(うわさ)は すぐ広まるな カネを数えろ"
+      "ja": "噂(うわさ)は すぐ広まるなカネを数えろ"
     }
   },
   {
     "translation": {
-      "en": "Damn.",
+      "en": "[Cole] Damn.",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Man.",
+      "en": "[Smush takes a deep breath] Man.",
       "ja": "よし"
     }
   },
@@ -3841,13 +3841,13 @@
   },
   {
     "translation": {
-      "en": "We good, man. We good.",
+      "en": "We good, man. We good. [exhales]",
       "ja": "心配するなって"
     }
   },
   {
     "translation": {
-      "en": "- Jalen ain't gonna see it like this, man. - Fuck, C! Fuck, man!",
+      "en": "-Jalen ain't gonna see it like this, man. -Fuck, C! Fuck, man!",
       "ja": "ジェイレンは… うるさい やめろ"
     }
   },
@@ -3877,25 +3877,25 @@
   },
   {
     "translation": {
-      "en": "Let me show you something, man.",
+      "en": "[clicks tongue] Let me show you something, man.",
       "ja": "見せる物がある"
     }
   },
   {
     "translation": {
-      "en": "You used to ride?",
+      "en": "[Cole] You used to ride?",
       "ja": "馬に？"
     }
   },
   {
     "translation": {
-      "en": "Hell yeah, I used to ride, man.",
+      "en": "[clicks tongue] Hell yeah, I used to ride, man.",
       "ja": "ああ 乗ってた"
     }
   },
   {
     "translation": {
-      "en": "Shit. Yo, that's crazy.",
+      "en": "[chuckling] Shit. Yo, that's crazy.",
       "ja": "それ マジかよ"
     }
   },
@@ -3913,14 +3913,14 @@
   },
   {
     "translation": {
-      "en": "- Yeah? - Yeah, man. It's crazy.",
+      "en": "-Yeah? -[Cole] Yeah, man. It's crazy.",
       "ja": "マジ イカれてるよね"
     }
   },
   {
     "translation": {
       "en": "Shit, I used to be the best rider down at Fletcher Street, man. Yo, one day I'mma teach you how to stand on your horse.",
-      "ja": "あそこじゃ俺が一番だった 馬上に立つ方法を教える"
+      "ja": "あそこじゃ俺が一番だった馬上に立つ方法を教える"
     }
   },
   {
@@ -3931,31 +3931,31 @@
   },
   {
     "translation": {
-      "en": "- Yo, why you stop? - I ain't stop, Cole.",
+      "en": "-Yo, why you stop? -[Smush] I ain't stop, Cole.",
       "ja": "マジか　なぜやめた？ やめてない"
     }
   },
   {
     "translation": {
-      "en": "Just got focus.",
+      "en": "[Smush] Just got focus.",
       "ja": "これに集中してる"
     }
   },
   {
     "translation": {
-      "en": "- Mm- hmm. - That's all.",
+      "en": "-[Cole] Mm-hmm. -That's all.",
       "ja": "それだけ"
     }
   },
   {
     "translation": {
-      "en": "- We're almost there. - Almost where?",
+      "en": "-We're almost there. -[sighs] Almost where?",
       "ja": "もうすぐだよ 何が？"
     }
   },
   {
     "translation": {
-      "en": "- Outta here. -",
+      "en": "-Outta here. -[somber horn music playing]",
       "ja": "外の世界だ"
     }
   },
@@ -3974,25 +3974,25 @@
   {
     "translation": {
       "en": "We buy a ranch, we flip it, and we do it again.",
-      "ja": "牧場を買っては売り それを繰り返し"
+      "ja": "牧場を買っては売りそれを繰り返し"
     }
   },
   {
     "translation": {
       "en": "And again and again and again. Eventually we might just settle, you know?",
-      "ja": "牧場を買っては売り それを繰り返し 気に入ったら腰を落ち着ける"
+      "ja": "牧場を買っては売りそれを繰り返し 気に入ったら腰を落ち着ける"
     }
   },
   {
     "translation": {
       "en": "Find a ranch we like. Shit, nigga. Who knows?",
-      "ja": "気に入ったら腰を落ち着ける チャックやブーや 他の馬だって連れていける"
+      "ja": "気に入ったら腰を落ち着ける チャックやブーや他の馬だって連れていける"
     }
   },
   {
     "translation": {
       "en": "We can even trailer Chuck and Boo out there. I mean, shit, as many horses as we want. You feel me?",
-      "ja": "チャックやブーや 他の馬だって連れていける"
+      "ja": "チャックやブーや他の馬だって連れていける"
     }
   },
   {
@@ -4021,13 +4021,13 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Smush chuckles] Yeah.",
       "ja": "そうか"
     }
   },
   {
     "translation": {
-      "en": "Yo, what's goin' on?",
+      "en": "[Cole] Yo, what's goin' on?",
       "ja": "何があった"
     }
   },
@@ -4039,50 +4039,50 @@
   },
   {
     "translation": {
-      "en": "- What? - Boo, he got out. He in the baseball field, goin' crazy.",
+      "en": "-[Cole] What? -Boo, he got out. He in the baseball field, goin' crazy.",
       "ja": "ブーが野球場で暴れてる"
     }
   },
   {
     "translation": {
-      "en": "- I gotta go! - Don't stand in the way, okay?",
+      "en": "-[man 1] I gotta go! -[man 2] Don't stand in the way, okay?",
       "ja": "行くぞ 道の真ん中に立つな"
     }
   },
   {
     "translation": {
-      "en": "He's real riled up. Harp, he don't look so good.",
-      "ja": "興奮してる ハープ マズいよ"
+      "en": "[Nessie] He's real riled up. Harp, he don't look so good.",
+      "ja": "興奮してるハープ マズいよ"
     }
   },
   {
     "translation": {
-      "en": "All y'all players, y'all just back up.",
+      "en": "[Harp] All y'all players, y'all just back up.",
       "ja": "選手は下がってて"
     }
   },
   {
     "translation": {
-      "en": "Yo, everybody can back up. Y'all can back up.",
+      "en": "[Harp] Yo, everybody can back up. Y'all can back up.",
       "ja": "みんな　後ろへ行って"
     }
   },
   {
     "translation": {
-      "en": "Harp, we just ain't gonna grab this motherfucker.",
+      "en": "[Rome] Harp, we just ain't gonna grab this motherfucker.",
       "ja": "簡単には いかないぞ"
     }
   },
   {
     "translation": {
-      "en": "Don't crowd him. Give him some space.",
+      "en": "[Nessie] Don't crowd him. Give him some space.",
       "ja": "詰め寄っちゃダメ"
     }
   },
   {
     "translation": {
       "en": "Everybody, just link up. Link up. We gotta form a fence. Aight? Just link up.",
-      "ja": "みんなで手をつなぎ フェンスを作る"
+      "ja": "みんなで手をつなぎフェンスを作る"
     }
   },
   {
@@ -4093,49 +4093,49 @@
   },
   {
     "translation": {
-      "en": "I don't know about this, Harp.",
+      "en": "[Nessie] I don't know about this, Harp.",
       "ja": "危ないかも"
     }
   },
   {
     "translation": {
-      "en": "- That's good. Come here. Come on, Boo. - This a bad idea.",
+      "en": "-That's good. Come here. Come on, Boo. -[Rome] This a bad idea.",
       "ja": "おいで　ブー マズいよ"
     }
   },
   {
     "translation": {
-      "en": "- Oh, shit! Come on, Harp! - Aight. Aight.",
+      "en": "-[Rome] Oh, shit! Come on, Harp! -[Harp] Aight. Aight.",
       "ja": "心配ない 頑張れ"
     }
   },
   {
     "translation": {
-      "en": "Easy now.",
+      "en": "[Nessie] Easy now.",
       "ja": "ダメ"
     }
   },
   {
     "translation": {
-      "en": "- Yo. - Come on, man!",
+      "en": "-[Cole] Yo. -[Rome] Come on, man!",
       "ja": "おい"
     }
   },
   {
     "translation": {
-      "en": "- Watch out. - Aight. He's going out. Going out.",
+      "en": "-[Nessie] Watch out. -[Harp] Aight. He's going out. Going out.",
       "ja": "危ない あっちへ行く"
     }
   },
   {
     "translation": {
-      "en": "Shit. Shit. Shit.",
+      "en": "[Cole breathing shakily] Shit. Shit. Shit.",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "It's okay. It's okay.",
+      "en": "It's okay. It's okay. [sighs]",
       "ja": "大丈夫だ"
     }
   },
@@ -4147,38 +4147,38 @@
   },
   {
     "translation": {
-      "en": "- All right, boy.  -",
+      "en": "-All right, boy. [clicks tongue] -[Boo neighs]",
       "ja": "おいで"
     }
   },
   {
     "translation": {
-      "en": "He not gonna let you get that close, Harp. - You know whose horse this is. -",
-      "ja": "ムダよ 誰の馬か知ってるでしょ"
+      "en": "[Nessie] He not gonna let you get that close, Harp. -You know whose horse this is. -[Boo whinnies]",
+      "ja": "ムダよ誰の馬か知ってるでしょ"
     }
   },
   {
     "translation": {
-      "en": "You know what that horse needs.",
+      "en": "[Nessie] You know what that horse needs.",
       "ja": "馬の気持ちが分かるね"
     }
   },
   {
     "translation": {
-      "en": "- I can't. I can't. - Come on, man.",
+      "en": "-[Cole] I can't. I can't. -Come on, man.",
       "ja": "ムリだ やるんだ"
     }
   },
   {
     "translation": {
-      "en": "- Man, you need to take this lead, aight? - I… I can't. I can't. Click it on his halter, aight?",
-      "ja": "ほら お前がリードを持ち ホルターにつけるんだ"
+      "en": "-Man, you need to take this lead, aight? -[Cole] I… I can't. I can't. Click it on his halter, aight?",
+      "ja": "ほら お前がリードを持ちホルターにつけるんだ"
     }
   },
   {
     "translation": {
       "en": "Let him know that you there. Let him know that you runnin' this show.",
-      "ja": "主導権を握ってると 分からせろ"
+      "ja": "主導権を握ってると分からせろ"
     }
   },
   {
@@ -4189,7 +4189,7 @@
   },
   {
     "translation": {
-      "en": "Aight. Aight.",
+      "en": "[breathing shakily] Aight. Aight.",
       "ja": "分かったよ"
     }
   },
@@ -4213,19 +4213,19 @@
   },
   {
     "translation": {
-      "en": "- We good. We good. - There you go.",
+      "en": "-We good. We good. -[Harp] There you go.",
       "ja": "ダチだ よし ダチ"
     }
   },
   {
     "translation": {
-      "en": "- Don't look at me. Look at Boo. Come on. - Aight. I'm trying. Aight. Aight.",
+      "en": "-Don't look at me. Look at Boo. Come on. -Aight. I'm trying. Aight. Aight.",
       "ja": "俺じゃなくてブーを見ろ 分かった"
     }
   },
   {
     "translation": {
-      "en": "- Stay with the horse. Come on. -",
+      "en": "-[Harp] Stay with the horse. Come on. -[Cole gasps]",
       "ja": "馬と話せ"
     }
   },
@@ -4237,13 +4237,13 @@
   },
   {
     "translation": {
-      "en": "- - Whoa, whoa. Relax. It's okay.",
+      "en": "-[Boo whinnies] -[Cole] Whoa, whoa. Relax. It's okay.",
       "ja": "止まれ　落ち着け"
     }
   },
   {
     "translation": {
-      "en": "Chill, chill. It's okay.",
+      "en": "[hushes] Chill, chill. It's okay.",
       "ja": "安心しろ"
     }
   },
@@ -4255,31 +4255,31 @@
   },
   {
     "translation": {
-      "en": "Aight. Hey, it's me, Boo.",
+      "en": "[Cole] Aight. Hey, it's me, Boo.",
       "ja": "分かるだろ　僕だよ"
     }
   },
   {
     "translation": {
-      "en": "It's me, boy. It's me.",
+      "en": "It's me, boy. It's me. [panting]",
       "ja": "僕だ"
     }
   },
   {
     "translation": {
-      "en": "- Hold him! - Don't let him go.",
+      "en": "-[Esha] Hold him! -[Nessie] Don't let him go.",
       "ja": "よし 押さえて"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. There you go. - Good job, Cole.",
+      "en": "-Yeah. There you go. -[Esha] Good job, Cole.",
       "ja": "無事つないだな"
     }
   },
   {
     "translation": {
-      "en": "- There you go. - Easy now.",
+      "en": "-There you go. -[Nessie] Easy now.",
       "ja": "上出来だ"
     }
   },
@@ -4292,7 +4292,7 @@
   {
     "translation": {
       "en": "When you get up there, swing your legs around like you about to ride him.",
-      "ja": "跳んで 脚を大きく振ってまたがれ"
+      "ja": "跳んで脚を大きく振ってまたがれ"
     }
   },
   {
@@ -4303,7 +4303,7 @@
   },
   {
     "translation": {
-      "en": "- Go on. - Do it.",
+      "en": "-Go on. -[Rome] Do it.",
       "ja": "やれ"
     }
   },
@@ -4315,13 +4315,13 @@
   },
   {
     "translation": {
-      "en": "- - Fuck, man! Is this your idea of some fucking lesson?",
-      "ja": "クソ これで教えてるつもりかよ"
+      "en": "-[Boo whinnying] -[continues groaning] Fuck, man! Is this your idea of some fucking lesson? [panting]",
+      "ja": "クソこれで教えてるつもりかよ"
     }
   },
   {
     "translation": {
-      "en": "Get up. Come on, man. Get up. Get up.",
+      "en": "[quietly] Get up. Come on, man. Get up. Get up.",
       "ja": "立てよ さあ 立ち上がるんだ"
     }
   },
@@ -4381,13 +4381,13 @@
   },
   {
     "translation": {
-      "en": "Yep. Let him out. - Good. - Go. Let him out.",
+      "en": "Yep. Let him out. -[Nessie] Good. -[Harp] Go. Let him out.",
       "ja": "よし 少し歩かせろ"
     }
   },
   {
     "translation": {
-      "en": "- All right. - I see you, young boul.",
+      "en": "-[Harp] All right. -[Rome] I see you, young boul.",
       "ja": "キメたな"
     }
   },
@@ -4399,31 +4399,31 @@
   },
   {
     "translation": {
-      "en": "There you go.",
+      "en": "[Harp] There you go.",
       "ja": "やったな"
     }
   },
   {
     "translation": {
-      "en": "- There you go. - Aight.",
+      "en": "-[Paris] There you go. -[Rome] Aight.",
       "ja": "見事なもんだ"
     }
   },
   {
     "translation": {
-      "en": "- Mm- hmm. Yeah. - Wow.",
+      "en": "-[Rome] Mm-hmm. Yeah. -Wow.",
       "ja": "すごいな"
     }
   },
   {
     "translation": {
-      "en": "Not bad.",
+      "en": "[Nessie] Not bad.",
       "ja": "やるね"
     }
   },
   {
     "translation": {
-      "en": "- Wow, he's doing it.  - Yessir.",
+      "en": "-Wow, he's doing it. [chuckles] -[Rome] Yessir.",
       "ja": "乗ってるよ 確かに"
     }
   },
@@ -4435,26 +4435,26 @@
   },
   {
     "translation": {
-      "en": "Oh, yeah. Nice and easy.",
+      "en": "[Nessie] Oh, yeah. Nice and easy.",
       "ja": "ゆっくりとね"
     }
   },
   {
     "translation": {
-      "en": "All right. Good girl. Good girl. All right. Good girl.",
+      "en": "[quietly] All right. Good girl. Good girl. All right. Good girl.",
       "ja": "いい子だね　いい子"
     }
   },
   {
     "translation": {
-      "en": "- - Good boy.",
+      "en": "-[Boo snorts] -Good boy.",
       "ja": "いい子だ"
     }
   },
   {
     "translation": {
-      "en": "- - Whoa, whoa. Easy now. Easy. Easy.",
-      "ja": "止まれ さあ 落ち着きなさい"
+      "en": "-[thunder rumbling in distance] -[Esha] Whoa, whoa. Easy now. Easy. Easy.",
+      "ja": "止まれさあ 落ち着きなさい"
     }
   },
   {
@@ -4465,7 +4465,7 @@
   },
   {
     "translation": {
-      "en": "- Shit. - Rain's coming.",
+      "en": "-Shit. -Rain's coming.",
       "ja": "最高だ 雨が来る"
     }
   },
@@ -4483,13 +4483,13 @@
   },
   {
     "translation": {
-      "en": "You ready for the cookout?",
+      "en": "[Esha] You ready for the cookout?",
       "ja": "準備は？"
     }
   },
   {
     "translation": {
-      "en": "I don't really know what to be ready for, so…",
+      "en": "[Cole] I don't really know what to be ready for, so…",
       "ja": "よく知らないからな"
     }
   },
@@ -4502,48 +4502,48 @@
   {
     "translation": {
       "en": "You got the cars at the start line and the engines revvin'",
-      "ja": "車がスタート地点で エンジンを吹かし観客は絶叫"
+      "ja": "車がスタート地点でエンジンを吹かし観客は絶叫"
     }
   },
   {
     "translation": {
       "en": "and the crowd going crazy and just, like, everybody partyin' and havin' a good time.",
-      "ja": "車がスタート地点で エンジンを吹かし観客は絶叫 みんなでパーティー"
+      "ja": "車がスタート地点でエンジンを吹かし観客は絶叫 みんなでパーティー"
     }
   },
   {
     "translation": {
-      "en": "- Mm- hmm. - It's like that, with cowboys and horses.",
+      "en": "-[Cole] Mm-hmm. -It's like that, with cowboys and horses.",
       "ja": "そのカウボーイと馬版よ"
     }
   },
   {
     "translation": {
-      "en": "- All right. - But I have something for you.",
+      "en": "-All right. -[Esha] But I have something for you.",
       "ja": "そうか 渡す物がある"
     }
   },
   {
     "translation": {
-      "en": "- Really? - A surprise.",
+      "en": "-[Cole] Really? -A surprise.",
       "ja": "マジ サプライズ　目を閉じて"
     }
   },
   {
     "translation": {
-      "en": "- Oh. - So, close your eyes.",
+      "en": "-[Cole] Oh. -So, close your eyes.",
       "ja": "サプライズ　目を閉じて"
     }
   },
   {
     "translation": {
-      "en": "I gotta--",
+      "en": "I gotta-- [scoffs]",
       "ja": "冗談だろ"
     }
   },
   {
     "translation": {
-      "en": "- Aight. - Close your eyes. Okay.",
+      "en": "-Aight. -[Esha] Close your eyes. Okay.",
       "ja": "閉じてよ よし"
     }
   },
@@ -4555,13 +4555,13 @@
   },
   {
     "translation": {
-      "en": "No peekin'.",
+      "en": "[Esha] No peekin'.",
       "ja": "見ちゃダメ"
     }
   },
   {
     "translation": {
-      "en": "- I'm not peekin'. - Okay. Now open.",
+      "en": "-I'm not peekin'. -[Esha] Okay. Now open.",
       "ja": "見てない よし　開けて"
     }
   },
@@ -4573,50 +4573,50 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Cole] Okay.",
       "ja": "やった"
     }
   },
   {
     "translation": {
-      "en": "How I look?",
+      "en": "[Cole] How I look?",
       "ja": "どう？"
     }
   },
   {
     "translation": {
-      "en": "- Like a real cowboy. -",
+      "en": "-Like a real cowboy. -[Cole scoffs]",
       "ja": "カウボーイっぽい"
     }
   },
   {
     "translation": {
-      "en": "- ♪ All we got is life on the streets… ♪ - This is a classic moment. This is a very important moment in history.",
+      "en": "-♪ All we got is life on the streets… ♪ -[Rome laughs] This is a classic moment. This is a very important moment in history.",
       "ja": "歴史上の一大事だよ"
     }
   },
   {
     "translation": {
       "en": "I'm on my girl, Tulip, goin' saddle to saddle with your pops.",
-      "ja": "俺はチューリップ 親父さんはナジェに騎乗"
+      "ja": "俺はチューリップ親父さんはナジェに騎乗"
     }
   },
   {
     "translation": {
       "en": "He on his horse, Naje. And we goin' at it. And we goin' neck and neck.",
-      "ja": "俺はチューリップ 親父さんはナジェに騎乗 レースは激戦のまま終盤へ"
+      "ja": "俺はチューリップ親父さんはナジェに騎乗 レースは激戦のまま終盤へ"
     }
   },
   {
     "translation": {
       "en": "And we coming down the line, 50 yards.",
-      "ja": "レースは激戦のまま終盤へ 残り45メートル ５メートル そして…"
+      "ja": "レースは激戦のまま終盤へ 残り45メートル５メートル そして…"
     }
   },
   {
     "translation": {
-      "en": "- Twenty yards, five, then-- - Then here's where the fairy tale begins.",
-      "ja": "残り45メートル ５メートル そして… おとぎ話の始まり"
+      "en": "-Twenty yards, five, then-- -Then here's where the fairy tale begins.",
+      "ja": "残り45メートル５メートル そして… おとぎ話の始まり"
     }
   },
   {
@@ -4633,20 +4633,20 @@
   },
   {
     "translation": {
-      "en": "- You got ran down. - What you know about cadence?",
+      "en": "-You got ran down. -[Nessie] What you know about cadence?",
       "ja": "負けたろ 腰だとさ"
     }
   },
   {
     "translation": {
-      "en": "- Come on. You know what you doing. - Got cadence.",
+      "en": "-[Rome] Come on. You know what you doing. -[Nessie] Got cadence.",
       "ja": "勘弁してくれよ"
     }
   },
   {
     "translation": {
-      "en": "So anyway, the term, the horse won by a nose. You know that.",
-      "ja": "鼻の差で 勝負がついたのは確かだ"
+      "en": "So anyway, the term, \"the horse won by a nose.\" You know that.",
+      "ja": "鼻の差で勝負がついたのは確かだ"
     }
   },
   {
@@ -4657,14 +4657,14 @@
   },
   {
     "translation": {
-      "en": "- - Tulip… had buck teeth. Hung out like this, straight out. Perpendicular.",
-      "ja": "チューリップの歯は こう 前に飛び出してた"
+      "en": "-[meat sizzling] -[Rome] Tulip… had buck teeth. Hung out like this, straight out. Perpendicular.",
+      "ja": "チューリップの歯はこう 前に飛び出してた"
     }
   },
   {
     "translation": {
       "en": "So straight you could put a fuckin' beer can on it and use it as a coaster.",
-      "ja": "ビールの缶を 置けるくらいにね"
+      "ja": "ビールの缶を置けるくらいにね"
     }
   },
   {
@@ -4675,13 +4675,13 @@
   },
   {
     "translation": {
-      "en": "- That's true! - You ain't right. You ain't right.",
+      "en": "-[Rome] That's true! -You ain't right. You ain't right.",
       "ja": "事実だ イカれてる"
     }
   },
   {
     "translation": {
-      "en": "So anyway, we comin' down to the last few seconds of that race,",
+      "en": "[Rome] So anyway, we comin' down to the last few seconds of that race,",
       "ja": "ゴールまでは あと数秒"
     }
   },
@@ -4700,7 +4700,7 @@
   {
     "translation": {
       "en": "Tulip's neck extend, her teeth shoot out.",
-      "ja": "チューリップが首を伸ばし 歯を発射"
+      "ja": "チューリップが首を伸ばし歯を発射"
     }
   },
   {
@@ -4711,7 +4711,7 @@
   },
   {
     "translation": {
-      "en": "- Oh my God! Come on, now. - You ain't never lost no race.",
+      "en": "-Oh my God! Come on, now. -You ain't never lost no race.",
       "ja": "バカバカしい 負けたくせに"
     }
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "translation": {
-      "en": "Tulip! Real rap. That's real!",
+      "en": "[Rome] Tulip! Real rap. That's real!",
       "ja": "本当だ　ウソじゃない"
     }
   },
@@ -4735,7 +4735,7 @@
   },
   {
     "translation": {
-      "en": "I'm always on time for an ass- whupping, boy.",
+      "en": "I'm always on time for an ass-whupping, boy.",
       "ja": "お尻ペンペンには遅れない"
     }
   },
@@ -4753,7 +4753,7 @@
   },
   {
     "translation": {
-      "en": "You got him! Come on, baby! Come on! Get up!",
+      "en": "[Harp] You got him! Come on, baby! Come on! Get up!",
       "ja": "勝つぞ 突っ走れ"
     }
   },
@@ -4771,7 +4771,7 @@
   },
   {
     "translation": {
-      "en": "Just got a touch of scratch- ass, boy. Huh?",
+      "en": "Just got a touch of scratch-ass, boy. Huh?",
       "ja": "尻に手は届いたか"
     }
   },
@@ -4789,13 +4789,13 @@
   },
   {
     "translation": {
-      "en": "- But run that shit. Run it back! -",
+      "en": "-But run that shit. Run it back! -[Harp laughing]",
       "ja": "再戦だ　逆走しよう"
     }
   },
   {
     "translation": {
-      "en": "- Nah. Come on, get outta here. - Real rap. Run that shit back.",
+      "en": "-Nah. Come on, get outta here. -[Rome] Real rap. Run that shit back.",
       "ja": "いや これで終わりだ"
     }
   },
@@ -4807,49 +4807,49 @@
   },
   {
     "translation": {
-      "en": "You gotta give us a second chance. You be trippin', man. Come on!",
+      "en": "[Rome] You gotta give us a second chance. You be trippin', man. Come on!",
       "ja": "２度目のチャンスをくれよ"
     }
   },
   {
     "translation": {
-      "en": "- - Yo, this nigga does heavy work. We got a couple more handoffs, and we done, boul.",
-      "ja": "デカいヤマだ 数回やったら足を洗う"
+      "en": "-[parking brake clicks] -[Smush] Yo, this nigga does heavy work. We got a couple more handoffs, and we done, boul.",
+      "ja": "デカいヤマだ数回やったら足を洗う"
     }
   },
   {
     "translation": {
-      "en": "- Just sit tight, aight? - Aight.",
+      "en": "-Just sit tight, aight? -[Cole] Aight.",
       "ja": "中で待ってろよ"
     }
   },
   {
     "translation": {
-      "en": "- You good? - Yeah.",
+      "en": "-[Smush] You good? -Yeah.",
       "ja": "いいな"
     }
   },
   {
     "translation": {
-      "en": "Lookin' good. Got the wheels out here and shit.",
+      "en": "[Smush] Lookin' good. Got the wheels out here and shit.",
       "ja": "いい車じゃないか"
     }
   },
   {
     "translation": {
-      "en": "- This is nice, man. -",
+      "en": "-This is nice, man. -[both continue speaking indistinctly]",
       "ja": "イケてるよ"
     }
   },
   {
     "translation": {
-      "en": "Oh, fuck. Shit.",
+      "en": "[quietly] Oh, fuck. Shit.",
       "ja": "ウソだろ"
     }
   },
   {
     "translation": {
-      "en": "Chill, nigga! Get the fuck off me!",
+      "en": "[Smush] Chill, nigga! Get the fuck off me!",
       "ja": "やめろ　放せよ"
     }
   },
@@ -4861,13 +4861,13 @@
   },
   {
     "translation": {
-      "en": "- Don't go nowhere. - Please. Yo.",
+      "en": "-Don't go nowhere. -[quietly] Please. Yo.",
       "ja": "動くな 分かった"
     }
   },
   {
     "translation": {
-      "en": "Get the fuck out the way.",
+      "en": "[Jalen] Get the fuck out the way.",
       "ja": "どけよ"
     }
   },
@@ -4879,19 +4879,19 @@
   },
   {
     "translation": {
-      "en": "- Fucking gonna shoot you. - Get the fuck off me!",
+      "en": "-Fucking gonna shoot you. -[Smush] Get the fuck off me!",
       "ja": "ぶっ殺すぞ 放せ"
     }
   },
   {
     "translation": {
-      "en": "Thought you could fuck with my brand and get away with it?",
+      "en": "[Jalen] Thought you could fuck with my brand and get away with it?",
       "ja": "逃げられると思ったか"
     }
   },
   {
     "translation": {
-      "en": "- Yo! Smush! - Shit!",
+      "en": "-[Cole] Yo! Smush! -[Jalen] Shit!",
       "ja": "スムーシ"
     }
   },
@@ -4903,7 +4903,7 @@
   },
   {
     "translation": {
-      "en": "Holy shit, no!",
+      "en": "[Smush] Holy shit, no!",
       "ja": "ヤバい　マジかよ"
     }
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "translation": {
-      "en": "- - Yo, Smush! Yo! Yo!",
+      "en": "-[groans] -Yo, Smush! Yo! Yo!",
       "ja": "スムーシ　大丈夫か"
     }
   },
@@ -4927,19 +4927,19 @@
   },
   {
     "translation": {
-      "en": "- Don't move! - Yo! Smush! Come on!",
+      "en": "-[Leroy] Don't move! -[Cole] Yo! Smush! Come on!",
       "ja": "動くな スムーシ　走れ"
     }
   },
   {
     "translation": {
-      "en": "- Shit. -",
+      "en": "-Shit. -[police sirens approaching]",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Come on, man! Come on! Come on!",
+      "en": "[Cole] Come on, man! Come on! Come on!",
       "ja": "急げ"
     }
   },
@@ -4951,43 +4951,43 @@
   },
   {
     "translation": {
-      "en": "- - Come on! Come on!",
+      "en": "-[shouts] -[Smush] Come on! Come on!",
       "ja": "こっちだ"
     }
   },
   {
     "translation": {
-      "en": "Stop! I said, stop!",
+      "en": "[Leroy] Stop! I said, stop!",
       "ja": "止まれと言ってる"
     }
   },
   {
     "translation": {
-      "en": "Come on! Go!",
+      "en": "[Smush] Come on! Go!",
       "ja": "走り続けろ"
     }
   },
   {
     "translation": {
-      "en": "Shit!",
+      "en": "[Leroy] Shit!",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Wait!",
+      "en": "[Leroy] Wait!",
       "ja": "待て"
     }
   },
   {
     "translation": {
-      "en": "Fuck!",
+      "en": "[panting] Fuck!",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Fuck!",
+      "en": "[gasps] Fuck!",
       "ja": "チクショウ"
     }
   },
@@ -5042,13 +5042,13 @@
   {
     "translation": {
       "en": "I've been waitin'. Tell me about that dream.",
-      "ja": "ほら 準備はできてる 夢を教えろ 父親みたいなクズになるのか"
+      "ja": "ほら 準備はできてる 夢を教えろ父親みたいなクズになるのか"
     }
   },
   {
     "translation": {
-      "en": "- I don't know. - That you been chasing. You wanna be a trashman like your pops?",
-      "ja": "夢を教えろ 父親みたいなクズになるのか"
+      "en": "-[Cole] I don't know. -That you been chasing. You wanna be a trashman like your pops?",
+      "ja": "夢を教えろ父親みたいなクズになるのか"
     }
   },
   {
@@ -5060,7 +5060,7 @@
   {
     "translation": {
       "en": "They some old heads, nigga. They don't know what they talkin' about. Them stables?",
-      "ja": "馬乗りは クスリでイカれた連中だぞ"
+      "ja": "馬乗りはクスリでイカれた連中だぞ"
     }
   },
   {
@@ -5078,7 +5078,7 @@
   {
     "translation": {
       "en": "Everyone who was supposed to take care of me left me out on them corners, man.",
-      "ja": "俺を世話すべき人間は 俺を捨てた"
+      "ja": "俺を世話すべき人間は俺を捨てた"
     }
   },
   {
@@ -5137,7 +5137,7 @@
   },
   {
     "translation": {
-      "en": "Where the fuck you going?",
+      "en": "Where the fuck you going? [sniffles]",
       "ja": "どこへ行く"
     }
   },
@@ -5162,7 +5162,7 @@
   {
     "translation": {
       "en": "What you gonna do? You-- Even on a horse, you still can't beat me.",
-      "ja": "どうする気？ 馬に乗った私より弱いね"
+      "ja": "どうする気？馬に乗った私より弱いね"
     }
   },
   {
@@ -5179,25 +5179,25 @@
   },
   {
     "translation": {
-      "en": "- I can get past. - Where you going? Where's he going?",
+      "en": "-[Cole] I can get past. -Where you going? Where's he going?",
       "ja": "抜ける どこから来る"
     }
   },
   {
     "translation": {
-      "en": "So, you gonna teach me how to stand on a horse?",
+      "en": "[Cole] So, you gonna teach me how to stand on a horse?",
       "ja": "馬上に立つ方法を？"
     }
   },
   {
     "translation": {
-      "en": "Maybe. If you think you can.",
+      "en": "[Esha] Maybe. If you think you can.",
       "ja": "できそうなら教える"
     }
   },
   {
     "translation": {
-      "en": "- I know I can. - We'll see.",
+      "en": "-[Cole scoffs] I know I can. -[Esha] We'll see.",
       "ja": "できる どうかな"
     }
   },
@@ -5209,13 +5209,13 @@
   },
   {
     "translation": {
-      "en": "- I'll see you later. - All right.",
+      "en": "-[Cole] I'll see you later. -All right.",
       "ja": "後でな 分かった"
     }
   },
   {
     "translation": {
-      "en": "Man, that boy can rip.",
+      "en": "Man, that boy can rip. [sighs]",
       "ja": "うまいもんだ"
     }
   },
@@ -5227,14 +5227,14 @@
   },
   {
     "translation": {
-      "en": "Me and him came up together at Fletcher Street.",
+      "en": "Me and him came up together at Fletcher Street. [sighs]",
       "ja": "昔 馬小屋で一緒だった"
     }
   },
   {
     "translation": {
       "en": "Now this how he make his money. Trainin' horses. Here.",
-      "ja": "今は ここで 馬を訓練して稼いでる"
+      "ja": "今は ここで馬を訓練して稼いでる"
     }
   },
   {
@@ -5252,30 +5252,30 @@
   {
     "translation": {
       "en": "watchin' those policemen ride by, all suited up like knights.",
-      "ja": "騎馬警官が騎士みたいで ホレボレした"
+      "ja": "騎馬警官が騎士みたいでホレボレした"
     }
   },
   {
     "translation": {
-      "en": "I knew then.",
+      "en": "[chuckles softly] I knew then.",
       "ja": "決めたよ"
     }
   },
   {
     "translation": {
-      "en": "- You don't have to get out to grow up. -",
+      "en": "-You don't have to get out to grow up. -[stirring instrumental music playing]",
       "ja": "街を出なくても成長できる"
     }
   },
   {
     "translation": {
-      "en": "You ready to learn to stand on a horse?",
+      "en": "[Esha] You ready to learn to stand on a horse?",
       "ja": "馬上に立つ練習をする？"
     }
   },
   {
     "translation": {
-      "en": "I mean, I'm out here, ain't I?",
+      "en": "[takes a deep breath] I mean, I'm out here, ain't I?",
       "ja": "ここに来ただろ"
     }
   },
@@ -5288,12 +5288,12 @@
   {
     "translation": {
       "en": "We gotta get these guys in. Come on. Then we'll get you up there.",
-      "ja": "馬小屋に入れよう その後でね"
+      "ja": "馬小屋に入れようその後でね"
     }
   },
   {
     "translation": {
-      "en": "Let's go!",
+      "en": "[Cole] Let's go!",
       "ja": "行こう"
     }
   },
@@ -5305,43 +5305,43 @@
   },
   {
     "translation": {
-      "en": "Where you gonna take our horses? You just can't take 'em like this!",
-      "ja": "馬をどこへ？ 勝手に連れてかないで"
+      "en": "[Nessie] Where you gonna take our horses? You just can't take 'em like this!",
+      "ja": "馬をどこへ？勝手に連れてかないで"
     }
   },
   {
     "translation": {
-      "en": "No! No! Stop!",
+      "en": "[Cole] No! No! Stop!",
       "ja": "やめろ！"
     }
   },
   {
     "translation": {
-      "en": "- Stop! - Come here. Please!",
+      "en": "-Stop! -[Leroy] Come here. Please!",
       "ja": "ダメ よせ"
     }
   },
   {
     "translation": {
-      "en": "- Calm down. Don't do it. - Get the fuck off of me!",
+      "en": "-Calm down. Don't do it. -[Cole] Get the fuck off of me!",
       "ja": "落ち着け 放してよ！"
     }
   },
   {
     "translation": {
-      "en": "- No. Back up. Just back up, Cole! - Fuck this! Fuck this!",
+      "en": "-No. Back up. Just back up, Cole! -[Cole] Fuck this! Fuck this!",
       "ja": "コール　下がれ クソ　クソだよ"
     }
   },
   {
     "translation": {
-      "en": "We pay fuckin' rent, man. We pay rent.",
+      "en": "[Harp] We pay fuckin' rent, man. We pay rent.",
       "ja": "賃料は払ってる"
     }
   },
   {
     "translation": {
-      "en": "- The owners have been warning-- - I don't give a fuck about the owners!",
+      "en": "-The owners have been warning-- -I don't give a fuck about the owners!",
       "ja": "オーナーは… クソ食らえ"
     }
   },
@@ -5354,24 +5354,24 @@
   {
     "translation": {
       "en": "I'm sorry, but there's been reports of malnourishment.",
-      "ja": "残念だが 栄養不足の報告があった"
+      "ja": "残念だが栄養不足の報告があった"
     }
   },
   {
     "translation": {
-      "en": "My horses eat better than you, chubby.",
+      "en": "[Rome] My horses eat better than you, chubby.",
       "ja": "お前より健康だ"
     }
   },
   {
     "translation": {
-      "en": "There's a dead horse rotting back there, for God's sake.",
+      "en": "[official] There's a dead horse rotting back there, for God's sake.",
       "ja": "馬の死体まである"
     }
   },
   {
     "translation": {
-      "en": "You can't do this to us! Do something!",
+      "en": "[Nessie] You can't do this to us! Do something!",
       "ja": "ちょっと何とかしてよ"
     }
   },
@@ -5389,7 +5389,7 @@
   },
   {
     "translation": {
-      "en": "- Sir-- - Fuck that!",
+      "en": "-Sir-- -[Harp] Fuck that!",
       "ja": "許さん"
     }
   },
@@ -5413,43 +5413,43 @@
   },
   {
     "translation": {
-      "en": "- Yo! Cole! - No! Let him go!",
+      "en": "-[Leroy] Yo! Cole! -[Harp] No! Let him go!",
       "ja": "コールを放せ"
     }
   },
   {
     "translation": {
-      "en": "- Yo, do something! Come on! - Stop it! Stop it!",
+      "en": "-[Cole] Yo, do something! Come on! -[Leroy] Stop it! Stop it!",
       "ja": "何とかしてよ　何なんだ"
     }
   },
   {
     "translation": {
-      "en": "- It's gonna be all right. - Yo, fuck this!",
+      "en": "-[Nessie] It's gonna be all right. -Yo, fuck this!",
       "ja": "大丈夫よ クソめ"
     }
   },
   {
     "translation": {
-      "en": "- We'll figure it out. - Nah!",
+      "en": "-[Nessie] We'll figure it out. -Nah!",
       "ja": "解決する 心配ない"
     }
   },
   {
     "translation": {
-      "en": "- Do something! - You wanna get locked up?",
+      "en": "-Do something! -You wanna get locked up?",
       "ja": "戦えよ 捕まりたいか"
     }
   },
   {
     "translation": {
-      "en": "- Do something! Do something! - I'm trying! You wanna get locked up?",
+      "en": "-Do something! Do something! -I'm trying! You wanna get locked up?",
       "ja": "戦えってば 捕まるぞ　静まれ"
     }
   },
   {
     "translation": {
-      "en": "- Just chill. Relax. - Talking about you're a fucking cowboy!",
+      "en": "-Just chill. Relax. -Talking about you're a fucking cowboy!",
       "ja": "捕まるぞ　静まれ 何がカウボーイだ"
     }
   },
@@ -5467,13 +5467,13 @@
   },
   {
     "translation": {
-      "en": "- You know this is dead fuckin' wrong. - Harp. Harp.",
+      "en": "-You know this is dead fuckin' wrong. -Harp. Harp.",
       "ja": "とんだ間違いだ"
     }
   },
   {
     "translation": {
-      "en": "- Come on, Harp. - Come on. How you gonna do that to us?",
+      "en": "-Come on, Harp. -Come on. How you gonna do that to us?",
       "ja": "よせよ ひどいじゃないか"
     }
   },
@@ -5491,25 +5491,25 @@
   },
   {
     "translation": {
-      "en": "Nah, don't call Nessie. Don't call nobody on this block, man.",
-      "ja": "他のヤツらに頼るな 俺が話してる"
+      "en": "[Harp] Nah, don't call Nessie. Don't call nobody on this block, man.",
+      "ja": "他のヤツらに頼るな俺が話してる"
     }
   },
   {
     "translation": {
-      "en": "- I'm talking to you now! - Not fair. You guys brought this on yourself.",
+      "en": "-I'm talking to you now! -Not fair. You guys brought this on yourself.",
       "ja": "ひどいぞ　自業自得だ"
     }
   },
   {
     "translation": {
       "en": "You had every chance to get this right, and you did nothin'.",
-      "ja": "機会があったのに 何もしなかった"
+      "ja": "機会があったのに何もしなかった"
     }
   },
   {
     "translation": {
-      "en": "- Okay? Go somewhere and think this out. - We built this place!",
+      "en": "-Okay? Go somewhere and think this out. -[Rome] We built this place!",
       "ja": "いいな　どこかでよく考えろ"
     }
   },
@@ -5521,38 +5521,38 @@
   },
   {
     "translation": {
-      "en": "- We built this place! -",
+      "en": "-We built this place! -[crowd shouting]",
       "ja": "俺らが建てた"
     }
   },
   {
     "translation": {
-      "en": "This our home!",
+      "en": "[Rome] This our home!",
       "ja": "俺らの家だ"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry. You were right, man.",
+      "en": "[Cole] I'm sorry. You were right, man.",
       "ja": "ごめん 言うとおりだ"
     }
   },
   {
     "translation": {
-      "en": "Aight. Come on, man. I used to take Chuck out in the middle of the night.",
-      "ja": "いいんだよ よく夜に馬を連れ出した"
+      "en": "[Smush scoffs] Aight. Come on, man. I used to take Chuck out in the middle of the night.",
+      "ja": "いいんだよよく夜に馬を連れ出した"
     }
   },
   {
     "translation": {
-      "en": "- Really? Where? - Yeah.",
+      "en": "-Really? Where? -Yeah.",
       "ja": "マジ　どこへ？"
     }
   },
   {
     "translation": {
       "en": "Like, way out in the park. I'm talking deep. Like, miles away, where nobody could find me.",
-      "ja": "遠くの公園とか 誰にも見つからない所だ"
+      "ja": "遠くの公園とか誰にも見つからない所だ"
     }
   },
   {
@@ -5564,13 +5564,13 @@
   {
     "translation": {
       "en": "They always around that noise and baby mamas yellin' and screamin'",
-      "ja": "馬は ここの人間を嫌う 赤ん坊を抱えた女や車が うるさいだろ"
+      "ja": "馬は ここの人間を嫌う 赤ん坊を抱えた女や車がうるさいだろ"
     }
   },
   {
     "translation": {
       "en": "and cars and honking, all that bullshit, man.",
-      "ja": "赤ん坊を抱えた女や車が うるさいだろ"
+      "ja": "赤ん坊を抱えた女や車がうるさいだろ"
     }
   },
   {
@@ -5606,7 +5606,7 @@
   {
     "translation": {
       "en": "So wherever we going, it's gonna be somewhere quiet, somewhere still.",
-      "ja": "だから行き先は 静かで落ち着いた場所だ"
+      "ja": "だから行き先は静かで落ち着いた場所だ"
     }
   },
   {
@@ -5635,7 +5635,7 @@
   },
   {
     "translation": {
-      "en": "- Aight. - Cool.",
+      "en": "-Aight. -[Smush] Cool.",
       "ja": "うん 今回は見張りをしろ"
     }
   },
@@ -5654,7 +5654,7 @@
   {
     "translation": {
       "en": "That shit got a 360. Holler if you see anything.",
-      "ja": "360度 見渡せる 何かあれば叫べ"
+      "ja": "360度 見渡せる何かあれば叫べ"
     }
   },
   {
@@ -5671,55 +5671,55 @@
   },
   {
     "translation": {
-      "en": "- - Oh, fuck!",
+      "en": "-[shots ring out] -[Cole] Oh, fuck!",
       "ja": "マジか"
     }
   },
   {
     "translation": {
-      "en": "- - Hey! Smush!",
+      "en": "-[screams echoing] -[Cole] Hey! Smush!",
       "ja": "スムーシ"
     }
   },
   {
     "translation": {
-      "en": "Smush. Shit!",
+      "en": "[Cole] Smush. Shit!",
       "ja": "スムーシ　クソ！"
     }
   },
   {
     "translation": {
-      "en": "- - Hold on, man!",
+      "en": "-[police sirens wailing] -[Cole] Hold on, man!",
       "ja": "頑張れ"
     }
   },
   {
     "translation": {
-      "en": "No, man! No!",
+      "en": "[sobbing] No, man! No!",
       "ja": "ウソだろ"
     }
   },
   {
     "translation": {
       "en": "The young kid on a pedal bike just rolled up on him.",
-      "ja": "自転車の若者が 彼に出くわした"
+      "ja": "自転車の若者が彼に出くわした"
     }
   },
   {
     "translation": {
       "en": "Smush likely had a bounty on his head, and the kid took the payday.",
-      "ja": "懸賞金が かけられてたんだろう"
+      "ja": "懸賞金がかけられてたんだろう"
     }
   },
   {
     "translation": {
-      "en": "We're also hearin' about some other kid who was at the scene.",
+      "en": "[Leroy] We're also hearin' about some other kid who was at the scene.",
       "ja": "現場には他の子もいた"
     }
   },
   {
     "translation": {
-      "en": "- Come on, Leroy. -",
+      "en": "-[Harp] Come on, Leroy. -[Leroy sighs]",
       "ja": "おい リロイ"
     }
   },
@@ -5743,7 +5743,7 @@
   },
   {
     "translation": {
-      "en": "Cole. Come on, man.",
+      "en": "[Harp] Cole. Come on, man.",
       "ja": "コール 起きろ"
     }
   },
@@ -5755,13 +5755,13 @@
   },
   {
     "translation": {
-      "en": "Come on. Let's get-- Come on. Sit you right here.",
+      "en": "Come on. Let's get-- Come on. Sit you right here. [grunts]",
       "ja": "ほら この上に座れ"
     }
   },
   {
     "translation": {
-      "en": "Let me look at you, man.",
+      "en": "[sighs] Let me look at you, man.",
       "ja": "顔を見せろ"
     }
   },
@@ -5792,7 +5792,7 @@
   {
     "translation": {
       "en": "I feel like I was born with a boot on my neck.",
-      "ja": "ずっと重圧を感じて 生きてきた"
+      "ja": "ずっと重圧を感じて生きてきた"
     }
   },
   {
@@ -5803,7 +5803,7 @@
   },
   {
     "translation": {
-      "en": "Watch your back out there.",
+      "en": "\"Watch your back out there.\" [sighs]",
       "ja": "“用心しろ”"
     }
   },
@@ -5815,7 +5815,7 @@
   },
   {
     "translation": {
-      "en": "Watch your back out there, boy.",
+      "en": "\"Watch your back out there, boy.\"",
       "ja": "“用心しなよ”"
     }
   },
@@ -5858,7 +5858,7 @@
   {
     "translation": {
       "en": "They may have put his body in the ground already, but he ain't go in no cowboy.",
-      "ja": "まだカウボーイとして 埋葬されてない"
+      "ja": "まだカウボーイとして埋葬されてない"
     }
   },
   {
@@ -5881,31 +5881,31 @@
   },
   {
     "translation": {
-      "en": "- - I know, man.",
+      "en": "-[sobbing] -[Harp] I know, man.",
       "ja": "分かってる"
     }
   },
   {
     "translation": {
-      "en": "- - I got you.",
+      "en": "-[patting] -I got you.",
       "ja": "大丈夫"
     }
   },
   {
     "translation": {
-      "en": "I got you, man.",
+      "en": "[sighs, softly] I got you, man.",
       "ja": "安心しろ"
     }
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Harp, quietly] Come on.",
       "ja": "こっちだ"
     }
   },
   {
     "translation": {
-      "en": "Okay, keep a lookout.",
+      "en": "[Harp] Okay, keep a lookout.",
       "ja": "見張ってろ"
     }
   },
@@ -5923,25 +5923,25 @@
   },
   {
     "translation": {
-      "en": "Chuck?",
+      "en": "[Harp, quietly] Chuck?",
       "ja": "チャック"
     }
   },
   {
     "translation": {
-      "en": "- Chuck. - Hey, boy.",
+      "en": "-Chuck. -[Cole] Hey, boy.",
       "ja": "チャック よう"
     }
   },
   {
     "translation": {
-      "en": "Chuck.  Come here, boy. Come on.",
+      "en": "Chuck. [clicks tongue] Come here, boy. Come on.",
       "ja": "チャック　おいで"
     }
   },
   {
     "translation": {
-      "en": "- Boo? -",
+      "en": "-[Cole] Boo? -[Boo snorts]",
       "ja": "ブー"
     }
   },
@@ -5953,7 +5953,7 @@
   },
   {
     "translation": {
-      "en": "Whoa.",
+      "en": "Whoa. [panting]",
       "ja": "落ち着け"
     }
   },
@@ -5965,7 +5965,7 @@
   },
   {
     "translation": {
-      "en": "I'mma get you outta here. I got you.",
+      "en": "[Cole] I'mma get you outta here. I got you.",
       "ja": "出してやる もうこんな目に遭わせない"
     }
   },
@@ -5978,7 +5978,7 @@
   {
     "translation": {
       "en": "I've been out there three nights, waiting for your dumb asses to drum up the courage.",
-      "ja": "お前らが勇気を振り絞るのを ３晩も待った"
+      "ja": "お前らが勇気を振り絞るのを３晩も待った"
     }
   },
   {
@@ -5990,7 +5990,7 @@
   {
     "translation": {
       "en": "Nah, I'm here to make sure some rook with a sweaty trigger finger doesn't shoot your Black asses.",
-      "ja": "いや 新入りがお前らを 撃たないよう手配した"
+      "ja": "いや 新入りがお前らを撃たないよう手配した"
     }
   },
   {
@@ -6002,7 +6002,7 @@
   {
     "translation": {
       "en": "You steal back the only horses they seized down at Fletcher Street,",
-      "ja": "フレッチャー通りの 馬だけ盗めば"
+      "ja": "フレッチャー通りの馬だけ盗めば"
     }
   },
   {
@@ -6013,7 +6013,7 @@
   },
   {
     "translation": {
-      "en": "- - Come on, beautiful.",
+      "en": "-[horse snorts] -Come on, beautiful.",
       "ja": "おいで"
     }
   },
@@ -6038,7 +6038,7 @@
   {
     "translation": {
       "en": "And it just so happens yours can't be found.",
-      "ja": "お前らの馬は たまたま見つからない"
+      "ja": "お前らの馬はたまたま見つからない"
     }
   },
   {
@@ -6050,7 +6050,7 @@
   {
     "translation": {
       "en": "Or at least until everybody remembers we have actual murders to solve,",
-      "ja": "それか みんなが殺人事件を思い出し"
+      "ja": "それかみんなが殺人事件を思い出し"
     }
   },
   {
@@ -6073,20 +6073,20 @@
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Harp] Come on.",
       "ja": "行くぞ"
     }
   },
   {
     "translation": {
       "en": "Pops, we can't just watch this go down. We… We gotta do something.",
-      "ja": "親父 見てないで何かしようよ"
+      "ja": "親父見てないで何かしようよ"
     }
   },
   {
     "translation": {
       "en": "Let's ride in and block 'em. Give these motherfuckers a day off.",
-      "ja": "乗り入れて ヤツらを止めよう"
+      "ja": "乗り入れてヤツらを止めよう"
     }
   },
   {
@@ -6097,7 +6097,7 @@
   },
   {
     "translation": {
-      "en": "- White House. - Right.",
+      "en": "-White House. -Right.",
       "ja": "ホワイトハウス"
     }
   },
@@ -6109,20 +6109,20 @@
   },
   {
     "translation": {
-      "en": "- Tioga, you know that. - Uh- huh. What about the rest of y'all?",
+      "en": "-Tioga, you know that. -Uh-huh. What about the rest of y'all?",
       "ja": "タイオガ みんなは？"
     }
   },
   {
     "translation": {
-      "en": "- 31st. - Markoe Street.",
+      "en": "-[Paris] 31st. -[Esha] Markoe Street.",
       "ja": "31番通り"
     }
   },
   {
     "translation": {
       "en": "Yeah, all them places you talk about right here, all them places, long gone.",
-      "ja": "どの馬小屋も 大昔に取り壊された"
+      "ja": "どの馬小屋も大昔に取り壊された"
     }
   },
   {
@@ -6133,7 +6133,7 @@
   },
   {
     "translation": {
-      "en": "- You still here? - Yeah.",
+      "en": "-You still here? -Yeah.",
       "ja": "だろ？"
     }
   },
@@ -6146,7 +6146,7 @@
   {
     "translation": {
       "en": "Let 'em take 'em 'cause they can't take who we are as a… as a people.",
-      "ja": "俺ら人間を 壊すことはできない"
+      "ja": "俺ら人間を壊すことはできない"
     }
   },
   {
@@ -6187,7 +6187,7 @@
   },
   {
     "translation": {
-      "en": "- - Come on, now.",
+      "en": "-[sobs quietly] -Come on, now.",
       "ja": "いいんだ"
     }
   },
@@ -6205,43 +6205,43 @@
   },
   {
     "translation": {
-      "en": "- I mean it. -",
+      "en": "-I mean it. -[Amahle sniffles]",
       "ja": "本心だ"
     }
   },
   {
     "translation": {
-      "en": "- - Come on, now.",
+      "en": "-[door opens, closes] -[Harp] Come on, now.",
       "ja": "おいで"
     }
   },
   {
     "translation": {
-      "en": "- Mom. - Cole.",
+      "en": "-[Cole] Mom. -[Amahle] Cole.",
       "ja": "母さん コール　かわいい子"
     }
   },
   {
     "translation": {
-      "en": "Cole, baby. Ah!",
+      "en": "[gasps] Cole, baby. Ah!",
       "ja": "コール　かわいい子"
     }
   },
   {
     "translation": {
-      "en": "Oh! My baby boy.",
+      "en": "Oh! My baby boy. [chuckles]",
       "ja": "私のかわいい子"
     }
   },
   {
     "translation": {
-      "en": "You look good, Mama.",
+      "en": "[Cole] You look good, Mama.",
       "ja": "元気そう"
     }
   },
   {
     "translation": {
-      "en": "I like you as a cowboy.",
+      "en": "[laughing] I like you as a cowboy.",
       "ja": "キマってるね"
     }
   },
@@ -6253,13 +6253,13 @@
   },
   {
     "translation": {
-      "en": "- Yeah. He's riding. Yep. - My goodness. Wow.",
+      "en": "-[Harp] Yeah. He's riding. Yep. -[Amahle] My goodness. Wow.",
       "ja": "乗れるんだ"
     }
   },
   {
     "translation": {
-      "en": "- Oh, he's so beautiful. - Yeah, he got his own horse.",
+      "en": "-Oh, he's so beautiful. -[Harp] Yeah, he got his own horse.",
       "ja": "ステキ 馬を持ってる"
     }
   },
@@ -6271,56 +6271,56 @@
   },
   {
     "translation": {
-      "en": "- I ain't no-- I'm better than you. - Ain't no ole Harp, man.",
+      "en": "-[Cole] I ain't no-- I'm better than you. -[Harp] Ain't no ole Harp, man.",
       "ja": "僕が上だ 俺には かなわん"
     }
   },
   {
     "translation": {
-      "en": "- I'm better than you. - Better than who? What?",
+      "en": "-[Cole] I'm better than you. -[Harp] Better than who? What?",
       "ja": "上だよ 誰より？"
     }
   },
   {
     "translation": {
-      "en": "- Come on, man. -",
+      "en": "-Come on, man. -[Amahle laughs]",
       "ja": "冗談だろ"
     }
   },
   {
     "translation": {
       "en": "Even when we riding around, people'll be like,",
-      "ja": "馬に乗ってると人は言う ジャミル･プラティス 〝パリス〞"
+      "ja": "馬に乗ってると人は言うジャミル･プラティス〝パリス〞"
     }
   },
   {
     "translation": {
-      "en": "Uh, where do the horses come from? Or, How did they get around here?",
-      "ja": "馬に乗ってると人は言う ジャミル･プラティス 〝パリス〞 ジャミル･プラティス 〝パリス〞 ジャミル･プラティス 〝パリス〞 〝馬はどこから 来たんだ？〞"
+      "en": "\"Uh, where do the horses come from?\" Or, \"How did they get around here?\"",
+      "ja": "馬に乗ってると人は言うジャミル･プラティス〝パリス〞 ジャミル･プラティス〝パリス〞 ジャミル･プラティス〝パリス〞〝馬はどこから来たんだ？〞"
     }
   },
   {
     "translation": {
       "en": "These horses been here before me. Know what I'm saying? So it's like…",
-      "ja": "フレッチャー通りの 本物のライダー でも馬は 俺より昔からいるんだ"
+      "ja": "フレッチャー通りの本物のライダーでも馬は俺より昔からいるんだ"
     }
   },
   {
     "translation": {
       "en": "when we telling this story, I want people to sit back and just look",
-      "ja": "観客には映画を じっくり見てほしい"
+      "ja": "観客には映画をじっくり見てほしい"
     }
   },
   {
     "translation": {
       "en": "and see, like, this is… this really… this is really happenin'.",
-      "ja": "実際に起きてることだと 知ってほしいんだ"
+      "ja": "実際に起きてることだと知ってほしいんだ"
     }
   },
   {
     "translation": {
       "en": "And they do this, and… people got good days and bad days.",
-      "ja": "実際に起きてることだと 知ってほしいんだ いい日も悪い日もある"
+      "ja": "実際に起きてることだと知ってほしいんだ いい日も悪い日もある"
     }
   },
   {
@@ -6338,127 +6338,127 @@
   {
     "translation": {
       "en": "I live in Philadelphia.",
-      "ja": "イヴァナ･メルセデス 〝イーシャ〞 周りの人に よく言われる"
+      "ja": "イヴァナ･メルセデス〝イーシャ〞周りの人によく言われる"
     }
   },
   {
     "translation": {
       "en": "And there are people, all the time, who say to me,",
-      "ja": "イヴァナ･メルセデス 〝イーシャ〞 周りの人に よく言われる イヴァナ･メルセデス 〝イーシャ〞"
+      "ja": "イヴァナ･メルセデス〝イーシャ〞周りの人によく言われる イヴァナ･メルセデス〝イーシャ〞"
     }
   },
   {
     "translation": {
-      "en": "What do you mean, you ride horses? Where? There are no horses in Philadelphia.",
-      "ja": "イヴァナ･メルセデス 〝イーシャ〞 〝街に馬なんか いないけど？〞"
+      "en": "\"What do you mean, you ride horses? Where? There are no horses in Philadelphia.\"",
+      "ja": "イヴァナ･メルセデス〝イーシャ〞〝街に馬なんかいないけど？〞"
     }
   },
   {
     "translation": {
-      "en": "It's like, What are you talking about? There are horses all over Philadelphia.",
-      "ja": "至る所にいると教える フレッチャー通りの 本物のライダー"
+      "en": "It's like, \"What are you talking about? There are horses all over Philadelphia.\"",
+      "ja": "至る所にいると教えるフレッチャー通りの本物のライダー"
     }
   },
   {
     "translation": {
       "en": "And, like, yes, in North Philly, we ride horses.",
-      "ja": "フレッチャー通りの 本物のライダー 北フィラデルフィアでは 馬に乗り世話もする"
+      "ja": "フレッチャー通りの本物のライダー北フィラデルフィアでは馬に乗り世話もする"
     }
   },
   {
     "translation": {
       "en": "Like, we have horses. We take care of the horses.",
-      "ja": "フレッチャー通りの 本物のライダー 北フィラデルフィアでは 馬に乗り世話もする 北フィラデルフィアでは 馬に乗り世話もする"
+      "ja": "フレッチャー通りの本物のライダー北フィラデルフィアでは馬に乗り世話もする 北フィラデルフィアでは馬に乗り世話もする"
     }
   },
   {
     "translation": {
       "en": "And I think that if more people knew about it",
-      "ja": "北フィラデルフィアでは 馬に乗り世話もする みんなに 知ってもらえれば"
+      "ja": "北フィラデルフィアでは馬に乗り世話もする みんなに知ってもらえれば"
     }
   },
   {
     "translation": {
       "en": "and knew how important the stable was to so many people, young people,",
-      "ja": "みんなに 知ってもらえれば 若者にとって 馬小屋が重要だと伝わる"
+      "ja": "みんなに知ってもらえれば 若者にとって馬小屋が重要だと伝わる"
     }
   },
   {
     "translation": {
       "en": "who don't have anywhere else to go.",
-      "ja": "若者にとって 馬小屋が重要だと伝わる"
+      "ja": "若者にとって馬小屋が重要だと伝わる"
     }
   },
   {
     "translation": {
       "en": "I think I get more enjoyment out of watchin' the kids",
-      "ja": "子供に教えるより ただ見てる方が好きだ 子供に教えるより ただ見てる方が好きだ アルバート･Ｃ･リンチ･ ジュニア 〝アル〞"
+      "ja": "子供に教えるよりただ見てる方が好きだ 子供に教えるよりただ見てる方が好きだアルバート･Ｃ･リンチ･ジュニア 〝アル〞"
     }
   },
   {
     "translation": {
       "en": "that I actually teach…",
-      "ja": "子供に教えるより ただ見てる方が好きだ アルバート･Ｃ･リンチ･ ジュニア 〝アル〞"
+      "ja": "子供に教えるよりただ見てる方が好きだアルバート･Ｃ･リンチ･ジュニア 〝アル〞"
     }
   },
   {
     "translation": {
       "en": "Watching them kinda, like,",
-      "ja": "アルバート･Ｃ･リンチ･ ジュニア 〝アル〞 子供たちは―"
+      "ja": "アルバート･Ｃ･リンチ･ジュニア 〝アル〞子供たちは―"
     }
   },
   {
     "translation": {
       "en": "them absorb it and then adapt and then make an adjustment,",
-      "ja": "フレッチャー通りの 本物のライダー 吸収し適応し 調整していく フレッチャー通りの 本物のライダー"
+      "ja": "フレッチャー通りの本物のライダー吸収し適応し調整していく フレッチャー通りの本物のライダー"
     }
   },
   {
     "translation": {
       "en": "not just with a horse, but just in life itself.",
-      "ja": "フレッチャー通りの 本物のライダー 乗馬と人生の両方にね"
+      "ja": "フレッチャー通りの本物のライダー乗馬と人生の両方にね"
     }
   },
   {
     "translation": {
       "en": "The stable, like, it does… it does a lot for us.",
-      "ja": "馬小屋の存在は大きい マイケル･アップシャー 〝ミズ〞"
+      "ja": "馬小屋の存在は大きいマイケル･アップシャー〝ミズ〞"
     }
   },
   {
     "translation": {
       "en": "Like, you know, I can pretty much sit here",
-      "ja": "マイケル･アップシャー 〝ミズ〞 マイケル･アップシャー 〝ミズ〞 俺は40代だけど 心から言えるよ"
+      "ja": "マイケル･アップシャー〝ミズ〞 マイケル･アップシャー〝ミズ〞俺は40代だけど心から言えるよ"
     }
   },
   {
     "translation": {
       "en": "and say that I'm in my forties right now,",
-      "ja": "マイケル･アップシャー 〝ミズ〞 俺は40代だけど 心から言えるよ"
+      "ja": "マイケル･アップシャー〝ミズ〞俺は40代だけど心から言えるよ"
     }
   },
   {
     "translation": {
       "en": "and I believe in my heart because of this stable",
-      "ja": "マイケル･アップシャー 〝ミズ〞 俺は40代だけど 心から言えるよ 馬小屋があったからこそ フレッチャー通りの 本物のライダー"
+      "ja": "マイケル･アップシャー〝ミズ〞俺は40代だけど心から言えるよ 馬小屋があったからこそフレッチャー通りの本物のライダー"
     }
   },
   {
     "translation": {
       "en": "that's why I don't have a felony on my record.",
-      "ja": "馬小屋があったからこそ フレッチャー通りの 本物のライダー フレッチャー通りの 本物のライダー フレッチャー通りの 本物のライダー 重罪を犯さなかったとね"
+      "ja": "馬小屋があったからこそフレッチャー通りの本物のライダー フレッチャー通りの本物のライダー フレッチャー通りの本物のライダー重罪を犯さなかったとね"
     }
   },
   {
     "translation": {
       "en": "You know what I mean? Or nothing like that. It just--",
-      "ja": "フレッチャー通りの 本物のライダー 重罪を犯さなかったとね"
+      "ja": "フレッチャー通りの本物のライダー重罪を犯さなかったとね"
     }
   },
   {
     "translation": {
       "en": "It helps keep you on a straight path with the other guys down here, the older guys, you know,",
-      "ja": "上の世代が 正しい道に導いてくれた"
+      "ja": "上の世代が正しい道に導いてくれた"
     }
   },
   {

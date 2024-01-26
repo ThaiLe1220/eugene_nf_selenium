@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "- ♪ It's Music Time ♪ -",
+      "en": "-[all] ♪ It's Music Time ♪ -[Tootson tooting]",
       "fr": "La crèche musicale"
     }
   },
@@ -25,8 +25,8 @@
   },
   {
     "translation": {
-      "en": "- And I'm Ahan. - I'm Maple.",
-      "fr": "- Ahan. - Noisette."
+      "en": "-And I'm Ahan. -I'm Maple.",
+      "fr": "- Ahan.- Noisette."
     }
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "translation": {
-      "en": "- ♪ To Music Time ♪ -",
+      "en": "-♪ To Music Time ♪ -[Tootson tooting]",
       "fr": "À la crèche musicale"
     }
   },
@@ -55,6 +55,12 @@
   },
   {
     "translation": {
+      "en": "[Mia] Little Baby Bum.",
+      "fr": "Little Baby Bum."
+    }
+  },
+  {
+    "translation": {
       "en": "♪ The wheels on the bus go round and round All through the town ♪",
       "fr": "Les roues du bus tournent en rond Dans toute la ville"
     }
@@ -62,7 +68,7 @@
   {
     "translation": {
       "en": "Hi, we're riding the bus to Music Time.",
-      "fr": "Coucou ! On va à la crèche musicale en bus."
+      "fr": "Coucou ! On vaà la crèche musicale en bus."
     }
   },
   {
@@ -73,7 +79,7 @@
   },
   {
     "translation": {
-      "en": "- Beep- beep. -",
+      "en": "-Beep-beep. -[bus horn honks]",
       "fr": "Bip, bip."
     }
   },
@@ -91,7 +97,7 @@
   },
   {
     "translation": {
-      "en": "- Hi, Timberly. - Hi.",
+      "en": "-Hi, Timberly. -Hi.",
       "fr": "Bonjour, Timbelly."
     }
   },
@@ -103,31 +109,31 @@
   },
   {
     "translation": {
-      "en": "Higgledy- piggledy hound, it must be time for the secret sound.",
-      "fr": "Nom d'un mouton, vous entendez ce que j'entends ?"
+      "en": "Higgledy-piggledy hound, it must be time for the secret sound.",
+      "fr": "Nom d'un mouton,vous entendez ce que j'entends ?"
     }
   },
   {
     "translation": {
-      "en": "I love this part of music time.",
+      "en": "[whispers] I love this part of music time.",
       "fr": "J'adore cette partie."
     }
   },
   {
     "translation": {
       "en": "It's a guessing game where we try to guess a secret sound.",
-      "fr": "Dans ce jeu, on doit deviner un son mystère."
+      "fr": "Dans ce jeu,on doit deviner un son mystère."
     }
   },
   {
     "translation": {
-      "en": "The only thing I like more than guessing sounds is making them.",
-      "fr": "J'adore deviner les sons, mais surtout, en faire !"
+      "en": "The only thing I like more than guessing sounds is making them. [mimics farting]",
+      "fr": "J'adore deviner les sons,mais surtout, en faire !"
     }
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "fr": "Tchou-T'son !"
     }
   },
@@ -157,13 +163,13 @@
   },
   {
     "translation": {
-      "en": "- Oh, I know. It's a-- - Wow!",
+      "en": "-Oh, I know. It's a-- -[Timberly] Wow!",
       "fr": "Je sais ce que c'est !"
     }
   },
   {
     "translation": {
-      "en": "The right answer might be in there somewhere.",
+      "en": "[laughs] The right answer might be in there somewhere.",
       "fr": "La solution est sûrement ici."
     }
   },
@@ -199,7 +205,7 @@
   },
   {
     "translation": {
-      "en": "None of those sound the same to me.",
+      "en": "[chuckles] None of those sound the same to me.",
       "fr": "Non, ce n'est pas ça."
     }
   },
@@ -229,7 +235,7 @@
   },
   {
     "translation": {
-      "en": "Beep- beep- beep.",
+      "en": "Beep-beep-beep.",
       "fr": "Bip, bip, bip."
     }
   },
@@ -247,7 +253,7 @@
   },
   {
     "translation": {
-      "en": "Beep- beep!",
+      "en": "Beep-beep!",
       "fr": "Bip, bip !"
     }
   },
@@ -265,8 +271,8 @@
   },
   {
     "translation": {
-      "en": "The part that goes swish, swish, swish, really shows off my dance moves.",
-      "fr": "Quand ça fait : swish, swish, j'adore me trémousser !"
+      "en": "The part that goes \"swish, swish, swish,\" really shows off my dance moves.",
+      "fr": "Quand ça fait : \"swish, swish\", j'adore me trémousser !"
     }
   },
   {
@@ -278,13 +284,13 @@
   {
     "translation": {
       "en": "or we'll never make it onto the rainbow stage.",
-      "fr": "si nous voulons arriver jusqu'à la scène arc-en-ciel."
+      "fr": "si nous voulons arriverjusqu'à la scène arc-en-ciel."
     }
   },
   {
     "translation": {
       "en": "I think it's time I taught you all how to rest.",
-      "fr": "Il est temps de vous apprendre à faire une pause."
+      "fr": "Il est temps de vous apprendreà faire une pause."
     }
   },
   {
@@ -301,13 +307,13 @@
   },
   {
     "translation": {
-      "en": "That tickles, Twinkle.",
+      "en": "[giggles] That tickles, Twinkle.",
       "fr": "Ça chatouille !"
     }
   },
   {
     "translation": {
-      "en": "Oh, that is one kind of rest, Ahan.",
+      "en": "[chuckling] Oh, that is one kind of rest, Ahan.",
       "fr": "C'est une sorte de pause, Ahan."
     }
   },
@@ -320,7 +326,7 @@
   {
     "translation": {
       "en": "But in music, a rest means stop,",
-      "fr": "Mais en musique, faire une pause signifie s'arrêter"
+      "fr": "Mais en musique,faire une pause signifie s'arrêter"
     }
   },
   {
@@ -332,12 +338,12 @@
   {
     "translation": {
       "en": "And I know a game we can play to show you just what I mean.",
-      "fr": "Je connais un jeu qui vous apprendra à le faire."
+      "fr": "Je connais un jeuqui vous apprendra à le faire."
     }
   },
   {
     "translation": {
-      "en": "To the rug.",
+      "en": "[sing-song] To the rug.",
       "fr": "Au tapis musical."
     }
   },
@@ -349,7 +355,7 @@
   },
   {
     "translation": {
-      "en": "- Hooray! - Yay!",
+      "en": "-[children] Hooray! -[Max] Yay!",
       "fr": "Hourra !"
     }
   },
@@ -362,7 +368,7 @@
   {
     "translation": {
       "en": "For this game, Twinkle will be our musical traffic light.",
-      "fr": "Petite Étoile sera notre feu de circulation."
+      "fr": "Petite Étoile seranotre feu de circulation."
     }
   },
   {
@@ -397,8 +403,8 @@
   },
   {
     "translation": {
-      "en": "♪ The wheels on the bus Go round and round ♪ ♪ Round and round… ♪",
-      "fr": "Les roues du bus tournent en rond Tournent en rond"
+      "en": "[Timberly] ♪ The wheels on the bus Go round and round ♪ ♪ Round and round… ♪",
+      "fr": "Les roues du bus tournent en rondTournent en rond"
     }
   },
   {
@@ -415,25 +421,25 @@
   },
   {
     "translation": {
-      "en": "- - …go!",
+      "en": "-[dings] -…go!",
       "fr": "Regardez bien Petite Étoile, et allez-y !"
     }
   },
   {
     "translation": {
       "en": "♪ The wheels on the bus Go round and round ♪ ♪ Round and round… ♪",
-      "fr": "Les roues du bus tournent en rond Tournent en rond"
+      "fr": "Les roues du bus tournent en rondTournent en rond"
     }
   },
   {
     "translation": {
-      "en": "- - Stop.",
+      "en": "-[dings] -Stop.",
       "fr": "On s'arrête."
     }
   },
   {
     "translation": {
-      "en": "Hold it. - Hold it. -",
+      "en": "Hold it. -[giggling] Hold it. -[all giggling]",
       "fr": "Attendez."
     }
   },
@@ -445,7 +451,7 @@
   },
   {
     "translation": {
-      "en": "Maybe we held that rest a little too long.",
+      "en": "[chuckles] Maybe we held that rest a little too long.",
       "fr": "Celle-ci était peut-être trop longue."
     }
   },
@@ -493,7 +499,7 @@
   },
   {
     "translation": {
-      "en": "Yay!",
+      "en": "[children] Yay!",
       "fr": "Youpi !"
     }
   },
@@ -506,12 +512,12 @@
   {
     "translation": {
       "en": "When Twinkle starts the rainbow glow, we know where it's time to go.",
-      "fr": "Quand Petite Étoile devient arc-en-ciel, c'est l'heure de chanter sur…"
+      "fr": "Quand Petite Étoile devient arc-en-ciel,c'est l'heure de chanter sur…"
     }
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[children] To the rainbow stage!",
       "fr": "La scène arc-en-ciel !"
     }
   },
@@ -523,7 +529,7 @@
   },
   {
     "translation": {
-      "en": "♪ The wheels on the bus Go round and round ♪",
+      "en": "[all] ♪ The wheels on the bus Go round and round ♪",
       "fr": "Les roues du bus tournent en rond"
     }
   },
@@ -547,19 +553,19 @@
   },
   {
     "translation": {
-      "en": "♪ The wipers on the bus Go swishy- swish- swish ♪",
+      "en": "♪ The wipers on the bus Go swishy-swish-swish ♪",
       "fr": "Les essuie-glaces font swish, swish"
     }
   },
   {
     "translation": {
-      "en": "♪ Swishy- swish- swish, swishy- swish- swish ♪",
+      "en": "♪ Swishy-swish-swish, swishy-swish-swish ♪",
       "fr": "Swish, swish, swish"
     }
   },
   {
     "translation": {
-      "en": "♪ The wipers on the bus Go swishy- swish- swish ♪",
+      "en": "♪ The wipers on the bus Go swishy-swish-swish ♪",
       "fr": "Les essuie-glaces font swish, swish"
     }
   },
@@ -571,7 +577,7 @@
   },
   {
     "translation": {
-      "en": "♪ Swishy- swish- swish, swish- swish- swish ♪",
+      "en": "♪ Swishy-swish-swish, swish-swish-swish ♪",
       "fr": "Swish, swish, swish"
     }
   },
@@ -590,7 +596,7 @@
   {
     "translation": {
       "en": "♪ The people on the bus go up and down ♪ ♪ All through the town ♪",
-      "fr": "Les passagers montent et descendent Dans toute la ville"
+      "fr": "Les passagers montent et descendentDans toute la ville"
     }
   },
   {
@@ -602,7 +608,7 @@
   {
     "translation": {
       "en": "♪ Beep, beep, beep ♪ ♪ Beep, beep, beep ♪",
-      "fr": "Bip, bip, bip Bip, bip, bip"
+      "fr": "Bip, bip, bipBip, bip, bip"
     }
   },
   {
@@ -631,8 +637,8 @@
   },
   {
     "translation": {
-      "en": "♪ The singers on the bus Go la, la, la ♪ ♪ La, la, la ♪",
-      "fr": "Les chanteurs dans le bus Font la, la, la"
+      "en": "[all] ♪ The singers on the bus Go la, la, la ♪ ♪ La, la, la ♪",
+      "fr": "Les chanteurs dans le busFont la, la, la"
     }
   },
   {
@@ -644,7 +650,7 @@
   {
     "translation": {
       "en": "♪ The singers on the bus go la, la, la ♪",
-      "fr": "Les chanteurs dans le bus Font la, la, la"
+      "fr": "Les chanteurs dans le busFont la, la, la"
     }
   },
   {
@@ -716,13 +722,13 @@
   {
     "translation": {
       "en": "Ahan, doesn't that song have a quieter part?",
-      "fr": "Il y a un passage calme dans cette chanson."
+      "fr": "Il y a un passage calmedans cette chanson."
     }
   },
   {
     "translation": {
       "en": "Yes, Papa, but my favorite is the loud part.",
-      "fr": "Oui, papa, mais je préfère la partie bruyante."
+      "fr": "Oui, papa,mais je préfère la partie bruyante."
     }
   },
   {
@@ -745,13 +751,13 @@
   },
   {
     "translation": {
-      "en": "- - Is that today's secret sound?",
+      "en": "-[giggling] -Is that today's secret sound?",
       "fr": "C'est le son mystère ?"
     }
   },
   {
     "translation": {
-      "en": "- - No, it's me.",
+      "en": "-[pooting] -[Ahan laughs] No, it's me.",
       "fr": "Non, c'est moi."
     }
   },
@@ -763,7 +769,7 @@
   },
   {
     "translation": {
-      "en": "- - Come and try",
+      "en": "-[mushroom stool deflating loudly] -Come and try",
       "fr": "Essayez !"
     }
   },
@@ -775,13 +781,13 @@
   },
   {
     "translation": {
-      "en": "I know, Maple. Loud and so funny.",
+      "en": "[laughing] I know, Maple. Loud and so funny.",
       "fr": "Je sais, Noisette. C'est trop rigolo !"
     }
   },
   {
     "translation": {
-      "en": "Indeed!",
+      "en": "Indeed! [laughing]",
       "fr": "En effet !"
     }
   },
@@ -806,12 +812,12 @@
   {
     "translation": {
       "en": "Like when you need to listen for something important.",
-      "fr": "Quand il faut écouter quelque chose d'important."
+      "fr": "Quand il faut écouterquelque chose d'important."
     }
   },
   {
     "translation": {
-      "en": "Higgledy- piggledy hound!",
+      "en": "Higgledy-piggledy hound!",
       "fr": "Nom d'un mouton !"
     }
   },
@@ -824,12 +830,12 @@
   {
     "translation": {
       "en": "Here comes Tootson. He's always nice and loud.",
-      "fr": "Voici Tchou-T'son. Il adore faire du bruit."
+      "fr": "Voici Tchou-T'son.Il adore faire du bruit."
     }
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "fr": "Tchou-T'son !"
     }
   },
@@ -847,14 +853,14 @@
   },
   {
     "translation": {
-      "en": "- I don't know it. It's strange. - What is that?",
+      "en": "-I don't know it. It's strange. -[Mia] What is that?",
       "fr": "Bizarre, je ne sais pas."
     }
   },
   {
     "translation": {
       "en": "Max says that's the sound our dad makes when he blows his nose.",
-      "fr": "Max dit que c'est le bruit de papa qui se mouche."
+      "fr": "Max dit que c'est le bruitde papa qui se mouche."
     }
   },
   {
@@ -889,13 +895,13 @@
   },
   {
     "translation": {
-      "en": "- A bee? - A bee buzzing around a flower.",
-      "fr": "- Une abeille ? - Oui, autour d'une fleur !"
+      "en": "-A bee? -A bee buzzing around a flower.",
+      "fr": "- Une abeille ?- Oui, autour d'une fleur !"
     }
   },
   {
     "translation": {
-      "en": "Good guesses.",
+      "en": "[laughing] Good guesses.",
       "fr": "Bonne idée !"
     }
   },
@@ -908,7 +914,7 @@
   {
     "translation": {
       "en": "It's a musical instrument that anyone can play.",
-      "fr": "C'est un instrument de musique dont on peut tous jouer."
+      "fr": "C'est un instrument de musiquedont on peut tous jouer."
     }
   },
   {
@@ -943,13 +949,13 @@
   },
   {
     "translation": {
-      "en": "- Wow! -",
+      "en": "-Wow! -[Maple exclaims softly]",
       "fr": "Génial !"
     }
   },
   {
     "translation": {
-      "en": "Cool. And today we all get to play them.",
+      "en": "[Ahan] Cool. And today we all get to play them.",
       "fr": "Et aujourd'hui, on va tous en jouer !"
     }
   },
@@ -986,7 +992,7 @@
   {
     "translation": {
       "en": "it takes just a bit more effort and some practice.",
-      "fr": "il faut un peu plus d'efforts et de pratique."
+      "fr": "il faut un peu plus d'effortset de pratique."
     }
   },
   {
@@ -1015,14 +1021,14 @@
   },
   {
     "translation": {
-      "en": "- Hmm, doesn't seem like I can. -",
+      "en": "-Hmm, doesn't seem like I can. -[laughing]",
       "fr": "Je n'y arrive pas."
     }
   },
   {
     "translation": {
       "en": "Almost any instrument can be played loudly or softly.",
-      "fr": "Presque tous les instruments peuvent être discrets ou bruyants."
+      "fr": "Presque tous les instrumentspeuvent être discrets ou bruyants."
     }
   },
   {
@@ -1034,7 +1040,7 @@
   {
     "translation": {
       "en": "But wouldn't music be boring if it only came out one way?",
-      "fr": "La musique serait ennuyeuse si elle ne changeait jamais."
+      "fr": "La musique serait ennuyeusesi elle ne changeait jamais."
     }
   },
   {
@@ -1052,7 +1058,7 @@
   {
     "translation": {
       "en": "That's a great way to show how loud music can make you feel.",
-      "fr": "C'est une belle façon de montrer l'effet de la musique bruyante."
+      "fr": "C'est une belle façon de montrerl'effet de la musique bruyante."
     }
   },
   {
@@ -1082,7 +1088,7 @@
   {
     "translation": {
       "en": "When it's nap time at home, our mum sings to us very softly.",
-      "fr": "Quand on fait la sieste, maman chante une chanson douce."
+      "fr": "Quand on fait la sieste,maman chante une chanson douce."
     }
   },
   {
@@ -1111,7 +1117,7 @@
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
       "fr": "John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1124,7 +1130,7 @@
   {
     "translation": {
       "en": "♪ Whenever I go out They whisper all about ♪",
-      "fr": "Quand je sors Ils chuchotent tous"
+      "fr": "Quand je sorsIls chuchotent tous"
     }
   },
   {
@@ -1141,14 +1147,14 @@
   },
   {
     "translation": {
-      "en": "- Now I get it. - That's right.",
+      "en": "-Now I get it. -That's right.",
       "fr": "Ça a marché. J'ai compris. Eh oui !"
     }
   },
   {
     "translation": {
       "en": "But when you really want to let loose and have some fun,",
-      "fr": "Mais quand on veut se défouler et s'amuser,"
+      "fr": "Mais quand on veut se défouleret s'amuser,"
     }
   },
   {
@@ -1159,25 +1165,25 @@
   },
   {
     "translation": {
-      "en": "- Loud! - Yay!",
+      "en": "-Loud! -Yay! [giggles]",
       "fr": "Bruyants ! Youpi !"
     }
   },
   {
     "translation": {
       "en": "You know what that means. When Twinkle starts the rainbow glow, we know where it's time to go.",
-      "fr": "Quand Petite Étoile devient arc-en-ciel, c'est l'heure de chanter…"
+      "fr": "Quand Petite Étoile devient arc-en-ciel,c'est l'heure de chanter…"
     }
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[all] To the rainbow stage!",
       "fr": "Sur la scène arc-en-ciel !"
     }
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
+      "en": "[all] ♪ John Jacob Jingleheimer Schmidt ♪",
       "fr": "John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1190,12 +1196,12 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "fr": "Quand on sort Les gens crient fort"
+      "fr": "Quand on sortLes gens crient fort"
     }
   },
   {
     "translation": {
-      "en": "♪ There goes John Jacob Jingleheimer Schmidt ♪ ♪ Na- na, na- na, na- na, na- na ♪",
+      "en": "♪ There goes John Jacob Jingleheimer Schmidt ♪ ♪ Na-na, na-na, na-na, na-na ♪",
       "fr": "Voilà John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1207,7 +1213,7 @@
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
       "fr": "John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1220,7 +1226,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "fr": "Quand je sors Les gens crient fort"
+      "fr": "Quand je sorsLes gens crient fort"
     }
   },
   {
@@ -1237,7 +1243,7 @@
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
       "fr": "John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1250,7 +1256,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "fr": "Quand on sort Les gens crient fort"
+      "fr": "Quand on sortLes gens crient fort"
     }
   },
   {
@@ -1261,13 +1267,13 @@
   },
   {
     "translation": {
-      "en": "So softly.",
+      "en": "[laughs] So softly.",
       "fr": "Encore moins fort."
     }
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
       "fr": "John Jacob Jingleheimer Schmidt"
     }
   },
@@ -1280,7 +1286,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "fr": "Quand on sort Les gens crient fort"
+      "fr": "Quand on sortLes gens crient fort"
     }
   },
   {
@@ -1291,8 +1297,8 @@
   },
   {
     "translation": {
-      "en": "- Meow. - Come on, Maple.",
-      "fr": "- Miaou. - Noisette ?"
+      "en": "-Meow. -Come on, Maple.",
+      "fr": "- Miaou.- Noisette ?"
     }
   },
   {
@@ -1304,12 +1310,12 @@
   {
     "translation": {
       "en": "I'm not Maple. I'm a little kitten, Mummy.",
-      "fr": "Je ne suis pas Noisette, je suis un chaton."
+      "fr": "Je ne suis pas Noisette,je suis un chaton."
     }
   },
   {
     "translation": {
-      "en": "I'm pretending to be a kitten.",
+      "en": "[softly] I'm pretending to be a kitten.",
       "fr": "Je fais semblant d'être un chaton."
     }
   },
@@ -1321,13 +1327,13 @@
   },
   {
     "translation": {
-      "en": "Come on, little kitten. Off we go.",
+      "en": "[laughing] Come on, little kitten. Off we go.",
       "fr": "Allons-y, petit chaton."
     }
   },
   {
     "translation": {
-      "en": "- Meow. -",
+      "en": "-Meow. -[both chuckling]",
       "fr": "Miaou."
     }
   },
@@ -1351,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "Meow.",
+      "en": "Meow. [giggling]",
       "fr": "Miaou."
     }
   },
@@ -1381,7 +1387,7 @@
   },
   {
     "translation": {
-      "en": "- I want to be a kitten. - Me too.",
+      "en": "-I want to be a kitten. -Me too.",
       "fr": "Je veux être un chaton ! Moi aussi ! Vas-y, Max. Miaou !"
     }
   },
@@ -1393,7 +1399,7 @@
   },
   {
     "translation": {
-      "en": "- - Oh, there's Tootson.",
+      "en": "-[Tootson tooting] -Oh, there's Tootson.",
       "fr": "Voici Tchou-T'son."
     }
   },
@@ -1417,7 +1423,7 @@
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "fr": "Tchou-T'son !"
     }
   },
@@ -1453,7 +1459,7 @@
   },
   {
     "translation": {
-      "en": "- Timberly, can we see our choices, please? - Absolutely.",
+      "en": "-Timberly, can we see our choices, please? -Absolutely.",
       "fr": "Timbelly, peut-on voir les réponses ? Bien sûr ! Petite Étoile ?"
     }
   },
@@ -1495,19 +1501,19 @@
   },
   {
     "translation": {
-      "en": "- Cows go, Moo. -",
-      "fr": "Les vaches font : meuh."
+      "en": "-Cows go, \"Moo.\" -[gasps]",
+      "fr": "Les vaches font : \"meuh\"."
     }
   },
   {
     "translation": {
-      "en": "And it can't be a dog because they go, Woof- woof.",
-      "fr": "Et les chiens font ouaf, ouaf."
+      "en": "And it can't be a dog because they go, \"Woof-woof.\"",
+      "fr": "Et les chiens font \"ouaf, ouaf\"."
     }
   },
   {
     "translation": {
-      "en": "- Woof! -",
+      "en": "-Woof! -[all giggling]",
       "fr": "Ouaf !"
     }
   },
@@ -1531,13 +1537,13 @@
   },
   {
     "translation": {
-      "en": "- Meow. - That's right.",
-      "fr": "- Miaou ! - C'est ça."
+      "en": "-Meow. -That's right.",
+      "fr": "- Miaou !- C'est ça."
     }
   },
   {
     "translation": {
-      "en": "- Bye, Tootson. -",
+      "en": "-[all] Bye, Tootson. -[Tootson toots]",
       "fr": "Au revoir, Tchou-T'son."
     }
   },
@@ -1550,7 +1556,7 @@
   {
     "translation": {
       "en": "And I've got just the song for us today.",
-      "fr": "Et j'ai justement la chanson qu'il nous faut."
+      "fr": "Et j'ai justement la chansonqu'il nous faut."
     }
   },
   {
@@ -1591,14 +1597,14 @@
   },
   {
     "translation": {
-      "en": "Four Little Kittens.",
-      "fr": "Mes quatre chatons."
+      "en": "\"Four Little Kittens.\"",
+      "fr": "\"Mes quatre chatons.\""
     }
   },
   {
     "translation": {
-      "en": "Wow! I mean, Meow!",
-      "fr": "Ouah ! Je veux dire, Miaou !"
+      "en": "Wow! I mean, \"Meow!\"",
+      "fr": "Ouah ! Je veux dire, \"Miaou\" !"
     }
   },
   {
@@ -1615,14 +1621,14 @@
   },
   {
     "translation": {
-      "en": "you're going to sing as the kitten choir.",
+      "en": "you're going to sing as the kitten choir. [laughs]",
       "fr": "vous serez une chorale de chatons."
     }
   },
   {
     "translation": {
       "en": "I know what a kitten is, but what's a choir?",
-      "fr": "Je sais ce qu'est un chaton mais pas une chorale."
+      "fr": "Je sais ce qu'est un chatonmais pas une chorale."
     }
   },
   {
@@ -1634,7 +1640,7 @@
   {
     "translation": {
       "en": "♪ Four little kittens In fluffy little mittens ♪",
-      "fr": "Mes quatre chatons Avec des moufles"
+      "fr": "Mes quatre chatonsAvec des moufles"
     }
   },
   {
@@ -1645,8 +1651,8 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We love our mittens ♪",
-      "fr": "Maman chérie On adore nos moufles"
+      "en": "[children] ♪ Oh, Mummy dear We love our mittens ♪",
+      "fr": "Maman chérieOn adore nos moufles"
     }
   },
   {
@@ -1676,7 +1682,7 @@
   {
     "translation": {
       "en": "Oh, I can't wait to sing on the rainbow stage later and show off our kitten mittens.",
-      "fr": "J'ai hâte de chanter sur scène et de montrer nos moufles !"
+      "fr": "J'ai hâte de chanter sur scèneet de montrer nos moufles !"
     }
   },
   {
@@ -1712,7 +1718,7 @@
   {
     "translation": {
       "en": "Don't worry, Maple. We'll help you find your mittens.",
-      "fr": "Ne t'en fais pas, on va t'aider à les trouver."
+      "fr": "Ne t'en fais pas,on va t'aider à les trouver."
     }
   },
   {
@@ -1742,7 +1748,7 @@
   {
     "translation": {
       "en": "Come on, everyone. Help us find Maple's kitten mittens.",
-      "fr": "Cherchons les moufles de Noisette tous ensemble."
+      "fr": "Cherchons les moufles de Noisettetous ensemble."
     }
   },
   {
@@ -1754,7 +1760,7 @@
   {
     "translation": {
       "en": "Has anyone found them? Where could they be?",
-      "fr": "Quelqu'un les a trouvées ? Où sont-elles ?"
+      "fr": "Quelqu'un les a trouvées ?Où sont-elles ?"
     }
   },
   {
@@ -1790,18 +1796,18 @@
   {
     "translation": {
       "en": "When Twinkle starts the rainbow glow, we know where it's time to go.",
-      "fr": "Quand Petite Étoile devient arc-en-ciel, il est l'heure de chanter…"
+      "fr": "Quand Petite Étoile devient arc-en-ciel,il est l'heure de chanter…"
     }
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[all] To the rainbow stage!",
       "fr": "Sur la scène arc-en-ciel !"
     }
   },
   {
     "translation": {
-      "en": "♪ Music Time ♪",
+      "en": "[chorus] ♪ Music Time ♪",
       "fr": "La crèche musicale"
     }
   },
@@ -1819,8 +1825,8 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We lost our mittens ♪",
-      "fr": "Maman chérie On a perdu nos moufles"
+      "en": "[children] ♪ Oh, Mummy dear We lost our mittens ♪",
+      "fr": "Maman chérieOn a perdu nos moufles"
     }
   },
   {
@@ -1832,7 +1838,7 @@
   {
     "translation": {
       "en": "♪ Four little kittens Let's find your mittens ♪",
-      "fr": "Mes quatre chatons Trouvons vos moufles"
+      "fr": "Mes quatre chatonsTrouvons vos moufles"
     }
   },
   {
@@ -1844,7 +1850,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we found our mittens ♪",
-      "fr": "Maman chérie On a trouvé nos moufles"
+      "fr": "Maman chérieOn a trouvé nos moufles"
     }
   },
   {
@@ -1868,7 +1874,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we lost our toys ♪",
-      "fr": "Maman chérie On a perdu nos jouets"
+      "fr": "Maman chérieOn a perdu nos jouets"
     }
   },
   {
@@ -1880,7 +1886,7 @@
   {
     "translation": {
       "en": "♪ Four little kittens Let's find your toys ♪",
-      "fr": "Mes quatre chatons Trouvons vos jouets"
+      "fr": "Mes quatre chatonsTrouvons vos jouets"
     }
   },
   {
@@ -1892,7 +1898,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we found our toys ♪",
-      "fr": "Maman chérie On a trouvé nos jouets"
+      "fr": "Maman chérieOn a trouvé nos jouets"
     }
   },
   {
@@ -1916,7 +1922,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we lost our treats ♪",
-      "fr": "Maman chérie On a perdu nos friandises"
+      "fr": "Maman chérieOn a perdu nos friandises"
     }
   },
   {
@@ -1928,7 +1934,7 @@
   {
     "translation": {
       "en": "♪ Four little kittens Let's find your treats ♪",
-      "fr": "Mes quatre chatons Trouvons vos friandises"
+      "fr": "Mes quatre chatonsTrouvons vos friandises"
     }
   },
   {
@@ -1939,8 +1945,8 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We found our treats ♪",
-      "fr": "Maman chérie On a trouvé nos friandises"
+      "en": "[children] ♪ Oh, Mummy dear We found our treats ♪",
+      "fr": "Maman chérieOn a trouvé nos friandises"
     }
   },
   {
@@ -1951,7 +1957,7 @@
   },
   {
     "translation": {
-      "en": "♪ Meow ♪",
+      "en": "[all] ♪ Meow ♪",
       "fr": "Miaou !"
     }
   }

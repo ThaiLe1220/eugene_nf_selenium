@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "Mayday, mayday! We are under attack.",
+      "en": "[man 1] Mayday, mayday! We are under attack.",
       "fr": "Mayday, on nous attaque."
     }
   },
@@ -19,31 +19,31 @@
   },
   {
     "translation": {
-      "en": "- Why are they doing this? - They're ours. What's happening?",
-      "fr": "Qu'est-ce qui leur prend ? Ils sont avec nous."
+      "en": "-[man 2] Why are they doing this? -[man 1] They're ours. What's happening?",
+      "fr": "Qu'est-ce qui leur prend ?Ils sont avec nous."
     }
   },
   {
     "translation": {
-      "en": "How many are there?",
+      "en": "[man 1] How many are there?",
       "fr": "Ils sont combien ?"
     }
   },
   {
     "translation": {
-      "en": "They're everywhere! They're going for the command center.",
+      "en": "[man 2] They're everywhere! They're going for the command center.",
       "fr": "Ils vont au centre opérations."
     }
   },
   {
     "translation": {
       "en": "They're going to take out the interceptors.",
-      "fr": "Ils vont détruire les intercepteurs. LES ÉTATS-UNIS N'ONT QUE DEUX BASES RADAR"
+      "fr": "Ils vont détruire les intercepteurs. LES ÉTATS-UNISN'ONT QUE DEUX BASES RADAR"
     }
   },
   {
     "translation": {
-      "en": "They're killing us, they're killing everybody!",
+      "en": "[man 1] They're killing us, they're killing everybody!",
       "fr": "Ils tuent tout le monde !"
     }
   },
@@ -55,37 +55,37 @@
   },
   {
     "translation": {
-      "en": "Somebody help us! Please, send help!",
+      "en": "[man 2] Somebody help us! Please, send help!",
       "fr": "À l'aide ! Envoyez de l'aide !"
     }
   },
   {
     "translation": {
-      "en": "We've got to call SBX- 1.",
+      "en": "[man 1] We've got to call SBX-1.",
       "fr": "On doit appeler SBX-1."
     }
   },
   {
     "translation": {
-      "en": "We can't! They destroyed the transmitter!",
+      "en": "[man 2] We can't! They destroyed the transmitter!",
       "fr": "Ils ont détruit l'émetteur !"
     }
   },
   {
     "translation": {
-      "en": "This is Fort Greely. We have been overrun. Fort Greely--",
+      "en": "[man 1] This is Fort Greely. We have been overrun. Fort Greely--",
       "fr": "Ici Fort Greely. On est envahis."
     }
   },
   {
     "translation": {
-      "en": "Coming up on SBX- 1 now, Captain.",
+      "en": "[pilot] Coming up on SBX-1 now, Captain.",
       "fr": "On approche de SBX-1, capitaine."
     }
   },
   {
     "translation": {
-      "en": "SBX- 1 this is Eagle 6- 7.",
+      "en": "[pilot] SBX-1 this is Eagle 6-7.",
       "fr": "SBX-1, ici Eagle 6-7."
     }
   },
@@ -103,8 +103,8 @@
   },
   {
     "translation": {
-      "en": "Eagle 6- 7 this is SBX- 1, you're cleared for landing.",
-      "fr": "Eagle 6-7, ici SBX-1. Vous pouvez atterrir."
+      "en": "[operator] Eagle 6-7 this is SBX-1, you're cleared for landing.",
+      "fr": "Eagle 6-7, ici SBX-1.Vous pouvez atterrir."
     }
   },
   {
@@ -121,31 +121,31 @@
   },
   {
     "translation": {
-      "en": "Welcome to SBX- 1,",
+      "en": "Welcome to SBX-1,",
       "fr": "Bienvenue sur SBX-1."
     }
   },
   {
     "translation": {
-      "en": "or should I say welcome back.",
+      "en": "or should I say \"welcome back.\"",
       "fr": "Ou plutôt, bon retour parmi nous."
     }
   },
   {
     "translation": {
-      "en": "- Thanks. - Colonel's waiting for you.",
+      "en": "-Thanks. -[Washington] Colonel's waiting for you.",
       "fr": "Merci. Le colonel vous attend."
     }
   },
   {
     "translation": {
       "en": "I heard you grew up in Spain at a base your dad was posted at.",
-      "fr": "Vous avez grandi en Espagne, là où votre père était en poste ?"
+      "fr": "Vous avez grandi en Espagne,là où votre père était en poste ?"
     }
   },
   {
     "translation": {
-      "en": "Come in.",
+      "en": "[male voice] Come in.",
       "fr": "Entrez."
     }
   },
@@ -170,7 +170,7 @@
   {
     "translation": {
       "en": "You remember Captain Welsh? Yes, sir. You were just taking over when I rotated out.",
-      "fr": "- Vous vous souvenez du capitaine Welsh ? - Vous arriviez quand j'ai été transférée."
+      "fr": "- Vous vous souvenez du capitaine Welsh ?- Vous arriviez quand j'ai été transférée."
     }
   },
   {
@@ -181,14 +181,14 @@
   },
   {
     "translation": {
-      "en": "Listen to this.",
+      "en": "[Welsh] Listen to this.",
       "fr": "Écoutez-le."
     }
   },
   {
     "translation": {
-      "en": "- Give us a minute, would you, Lou? - You bet.",
-      "fr": "- Tu peux nous laisser un instant, Lou ? - Oui."
+      "en": "-Give us a minute, would you, Lou? -You bet.",
+      "fr": "- Tu peux nous laisser un instant, Lou ?- Oui."
     }
   },
   {
@@ -212,7 +212,7 @@
   {
     "translation": {
       "en": "Navy runs the boat, Army handles the missiles,",
-      "fr": "La marine gère le bateau, l'armée les missiles"
+      "fr": "La marine gère le bateau,l'armée les missiles"
     }
   },
   {
@@ -223,20 +223,20 @@
   },
   {
     "translation": {
-      "en": "- Have you spoke with the board? - Three times.",
-      "fr": "- Vous avez parlé au conseil ? - Trois fois."
+      "en": "-Have you spoke with the board? -Three times.",
+      "fr": "- Vous avez parlé au conseil ?- Trois fois."
     }
   },
   {
     "translation": {
-      "en": "Showed them my record? My reviews?",
+      "en": "[Collins] Showed them my record? My reviews?",
       "fr": "Ils ont lu mes recommandations ?"
     }
   },
   {
     "translation": {
       "en": "Everything. This was the best you could do?",
-      "fr": "- Tout. - Et vous n'avez rien trouvé de mieux ?"
+      "fr": "- Tout.- Et vous n'avez rien trouvé de mieux ?"
     }
   },
   {
@@ -247,7 +247,7 @@
   },
   {
     "translation": {
-      "en": "No, it's okay.",
+      "en": "[Marshall] No, it's okay.",
       "fr": "Je comprends."
     }
   },
@@ -259,7 +259,7 @@
   },
   {
     "translation": {
-      "en": "I know.",
+      "en": "[Marshall] I know.",
       "fr": "Je sais."
     }
   },
@@ -283,14 +283,14 @@
   },
   {
     "translation": {
-      "en": "We got you down here.",
+      "en": "[Washington] We got you down here.",
       "fr": "Vous êtes ici."
     }
   },
   {
     "translation": {
       "en": "One of our guys nabbed your old room. Sorry about that.",
-      "fr": "Désolée, quelqu'un a pris votre ancienne chambre."
+      "fr": "Désolée, quelqu'un a prisvotre ancienne chambre."
     }
   },
   {
@@ -302,7 +302,7 @@
   {
     "translation": {
       "en": "Just want to say all of us girls are really proud of what you did.",
-      "fr": "Sachez que nous sommes toutes fières de ce que vous avez fait."
+      "fr": "Sachez que nous sommes toutes fièresde ce que vous avez fait."
     }
   },
   {
@@ -314,13 +314,13 @@
   {
     "translation": {
       "en": "It's happened to a lot of us, and I just wanted you to know that.",
-      "fr": "C'est arrivé à beaucoup d'entre nous. Je tenais à vous le dire."
+      "fr": "C'est arrivé à beaucoup d'entre nous.Je tenais à vous le dire."
     }
   },
   {
     "translation": {
       "en": "I need you in the command center with your sidearm now.",
-      "fr": "Présentez-vous armée au C.O. tout de suite."
+      "fr": "Présentez-vous arméeau C.O. tout de suite."
     }
   },
   {
@@ -332,55 +332,55 @@
   {
     "translation": {
       "en": "Outsider? No, one of ours. Looks like more than one.",
-      "fr": "- Quelqu'un de l'extérieur ? - Non, des gars de chez nous."
+      "fr": "- Quelqu'un de l'extérieur ?- Non, des gars de chez nous."
     }
   },
   {
     "translation": {
-      "en": "Interceptors secure?  Unknown.",
-      "fr": "- Les intercepteurs sont en sécurité ? - On l'ignore."
+      "en": "[Collins] Interceptors secure? [Marshall] Unknown.",
+      "fr": "- Les intercepteurs sont en sécurité ?- On l'ignore."
     }
   },
   {
     "translation": {
-      "en": "How bad is it?",
+      "en": "[Collins] How bad is it?",
       "fr": "On en est où ?"
     }
   },
   {
     "translation": {
       "en": "Greely's gone dark. No calls in or out. We're getting all our information off Twitter.",
-      "fr": "On n'a plus aucun contact avec eux. Nos informations viennent de Twitter."
+      "fr": "On n'a plus aucun contact avec eux.Nos informations viennent de Twitter."
     }
   },
   {
     "translation": {
-      "en": "Do we have Fort Greely on the line?",
+      "en": "[Marshall] Do we have Fort Greely on the line?",
       "fr": "Avons-nous Fort Greely en ligne ?"
     }
   },
   {
     "translation": {
-      "en": "Not yet, sir.",
+      "en": "[soldier] Not yet, sir.",
       "fr": "Non, pas encore."
     }
   },
   {
     "translation": {
-      "en": "You know what to do.",
+      "en": "[Marshall] You know what to do.",
       "fr": "Vous savez quoi faire."
     }
   },
   {
     "translation": {
       "en": "Is Greely being jammed? No. It's like someone turned off the system at the source.",
-      "fr": "- Leurs communications sont brouillées ? - Non, le système semble être éteint."
+      "fr": "- Leurs communications sont brouillées ?- Non, le système semble être éteint."
     }
   },
   {
     "translation": {
       "en": "Corporal Rahul Shah. Joined us six months ago. Captain.",
-      "fr": "- Caporal Rahul Shah, là depuis six mois. - Capitaine."
+      "fr": "- Caporal Rahul Shah, là depuis six mois.- Capitaine."
     }
   },
   {
@@ -409,25 +409,25 @@
   },
   {
     "translation": {
-      "en": "How's our Russian friend?",
+      "en": "[Marshall] How's our Russian friend?",
       "fr": "Et notre ami russe ?"
     }
   },
   {
     "translation": {
-      "en": "He's back.",
+      "en": "[Beaver] He's back.",
       "fr": "Il est de retour."
     }
   },
   {
     "translation": {
       "en": "Forty miles out and just sitting there like a turd in a swimming pool.",
-      "fr": "Il flotte à 60 km comme une merde dans une piscine."
+      "fr": "Il flotte à 60 kmcomme une merde dans une piscine."
     }
   },
   {
     "translation": {
-      "en": "- What friend? - Russian attack sub.",
+      "en": "-[Collins] What friend? -Russian attack sub.",
       "fr": "Quel ami russe ? Un sous-marin d'attaque russe qui traine."
     }
   },
@@ -452,19 +452,19 @@
   {
     "translation": {
       "en": "Hey. We still on for tonight? Dude, what?",
-      "fr": "- Ça tient toujours pour ce soir ? - Quoi ?"
+      "fr": "- Ça tient toujours pour ce soir ?- Quoi ?"
     }
   },
   {
     "translation": {
       "en": "Poker. I want to whip them janitors like last time.",
-      "fr": "On va encore torcher les concierges au poker."
+      "fr": "On va encoretorcher les concierges au poker."
     }
   },
   {
     "translation": {
-      "en": "- Not now, Beaver. - What's wrong with now?",
-      "fr": "- Pas maintenant. - Pourquoi pas ?"
+      "en": "-Not now, Beaver. -What's wrong with now?",
+      "fr": "- Pas maintenant.- Pourquoi pas ?"
     }
   },
   {
@@ -494,13 +494,13 @@
   {
     "translation": {
       "en": "but there'll probably be a bit of locker room talk.",
-      "fr": "mais il y aura sans doute de l'humour graveleux."
+      "fr": "mais il y aura sans doutede l'humour graveleux."
     }
   },
   {
     "translation": {
       "en": "I've been practicing against some of the best players in the world",
-      "fr": "Je m'entraîne contre les meilleurs au monde"
+      "fr": "Je m'entraînecontre les meilleurs au monde"
     }
   },
   {
@@ -518,7 +518,7 @@
   {
     "translation": {
       "en": "Great story, Beaver. In what chapter do you shut the fuck up?",
-      "fr": "Fascinante histoire, Beaver. À quel chapitre vous fermez votre gueule ?"
+      "fr": "Fascinante histoire, Beaver.À quel chapitre vous fermez votre gueule ?"
     }
   },
   {
@@ -529,8 +529,8 @@
   },
   {
     "translation": {
-      "en": "Sir, SBX- 1 has just been assigned primary early warning status while Greely's offline.",
-      "fr": "SBX-1 doit se charger des détections tant que Fort Greely est déconnecté."
+      "en": "Sir, SBX-1 has just been assigned primary early warning status while Greely's offline.",
+      "fr": "SBX-1 doit se charger des détectionstant que Fort Greely est déconnecté."
     }
   },
   {
@@ -542,19 +542,19 @@
   {
     "translation": {
       "en": "protecting the United States from a nuclear missile attack.",
-      "fr": "qui protège les USA d'une attaque nucléaire."
+      "fr": "qui protège les USAd'une attaque nucléaire."
     }
   },
   {
     "translation": {
       "en": "Square your shit away. Focus on the job you've been trained to do.",
-      "fr": "Faites la paix et concentrez-vous sur votre travail."
+      "fr": "Faites la paixet concentrez-vous sur votre travail."
     }
   },
   {
     "translation": {
       "en": "Sir, we sure this is not some kind of drill or emergency test--",
-      "fr": "Qu'est-ce qui nous dit que ce n'est pas un test…"
+      "fr": "Qu'est-ce qui nous ditque ce n'est pas un test…"
     }
   },
   {
@@ -572,13 +572,13 @@
   {
     "translation": {
       "en": "Kremlin just received a priority alert from the ICBM missile base in Tavlinka.",
-      "fr": "Le Kremlin a reçu une alerte. La base de missiles intercontinentaux de Tavlinka subit une attaque."
+      "fr": "Le Kremlin a reçu une alerte. La base de missiles intercontinentauxde Tavlinka subit une attaque."
     }
   },
   {
     "translation": {
       "en": "Tavlinka site under hostile attack.",
-      "fr": "La base de missiles intercontinentaux de Tavlinka subit une attaque."
+      "fr": "La base de missiles intercontinentauxde Tavlinka subit une attaque."
     }
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "Sixteen Topol- M mobile missiles unaccounted for.",
+      "en": "Sixteen Topol-M mobile missiles unaccounted for.",
       "fr": "Seize missiles Topol-M ont disparu."
     }
   },
@@ -620,25 +620,19 @@
   {
     "translation": {
       "en": "Sir, Greely goes dark and within 10 minutes a Russian base reports stolen nukes?",
-      "fr": "Silence radio à Greely et des missiles nucléaires se font voler ?"
+      "fr": "Silence radio à Greelyet des missiles nucléaires se font voler ?"
     }
   },
   {
     "translation": {
       "en": "Look, Greely's real, but this has to be a Russian exercise.",
-      "fr": "Greely, c'est avéré, mais ce doit être un exercice russe."
+      "fr": "Greely, c'est avéré,mais ce doit être un exercice russe."
     }
   },
   {
     "translation": {
       "en": "If it were real, the Pentagon would've called us by now.",
       "fr": "Sinon, le Pentagone nous aurait appelés."
-    }
-  },
-  {
-    "translation": {
-      "en": "SBX- 1.",
-      "fr": "SBX-1."
     }
   },
   {
@@ -667,8 +661,8 @@
   },
   {
     "translation": {
-      "en": "We have 16 missiles aimed at 16 American cities.",
-      "fr": "Nous avons 16 missiles braqués sur 16 villes américaines."
+      "en": "[in Russian] We have 16 missiles aimed at 16 American cities.",
+      "fr": "Nous avons 16 missiles braquéssur 16 villes américaines."
     }
   },
   {
@@ -692,25 +686,31 @@
   {
     "translation": {
       "en": "Had to have been an inside job. You can't just walk in--",
-      "fr": "Ils devaient avoir quelqu'un à l'intérieur."
+      "fr": "Ils devaient avoirquelqu'un à l'intérieur."
     }
   },
   {
     "translation": {
       "en": "Doesn't matter how they did it. What matters is those missiles are mobile.",
-      "fr": "Peu importe. Ces missiles sont mobiles. Ils peuvent cacher leurs têtes nucléaires."
+      "fr": "Peu importe. Ces missiles sont mobiles.Ils peuvent cacher leurs têtes nucléaires."
     }
   },
   {
     "translation": {
       "en": "They can hide their nukes anywhere.",
-      "fr": "Ces missiles sont mobiles. Ils peuvent cacher leurs têtes nucléaires."
+      "fr": "Ces missiles sont mobiles.Ils peuvent cacher leurs têtes nucléaires."
     }
   },
   {
     "translation": {
       "en": "Our satellites won't spot them till they launch. Captain.",
-      "fr": "Nos satellites ne les détecteront qu'après lancement. Capitaine."
+      "fr": "Nos satellites ne les détecterontqu'après lancement. Capitaine."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] JJ.",
+      "fr": "JJ."
     }
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "[Collins] Yes, sir.",
       "fr": "Oui, monsieur."
     }
   },
@@ -734,7 +734,7 @@
   {
     "translation": {
       "en": "You up for this? Don't worry about me, sir.",
-      "fr": "- Vous êtes prête ? - Ne vous en faites pas pour moi."
+      "fr": "- Vous êtes prête ?- Ne vous en faites pas pour moi."
     }
   },
   {
@@ -746,7 +746,7 @@
   {
     "translation": {
       "en": "I'll start the emergency lockdown. You do that.",
-      "fr": "- Je lance la procédure de confinement. - Parfait."
+      "fr": "- Je lance la procédure de confinement.- Parfait."
     }
   },
   {
@@ -764,7 +764,7 @@
   {
     "translation": {
       "en": "If they had people inside Tavlinka, and the shooters at Greely were all ours,",
-      "fr": "S'ils avaient des alliés à Tavlinka et que les forcenés de Greely sont des nôtres,"
+      "fr": "S'ils avaient des alliés à Tavlinka et queles forcenés de Greely sont des nôtres,"
     }
   },
   {
@@ -781,13 +781,13 @@
   },
   {
     "translation": {
-      "en": "The keycard!",
+      "en": "[man] The keycard!",
       "fr": "La carte d'accès !"
     }
   },
   {
     "translation": {
-      "en": "The keycard! Get the keycard!",
+      "en": "[man] The keycard! Get the keycard!",
       "fr": "Prends la carte !"
     }
   },
@@ -812,7 +812,7 @@
   {
     "translation": {
       "en": "Did you just stab that dude in the eye with your gun?",
-      "fr": "Vous lui avez planté votre arme dans l'œil ?"
+      "fr": "Vous lui avez plantévotre arme dans l'œil ?"
     }
   },
   {
@@ -829,14 +829,14 @@
   },
   {
     "translation": {
-      "en": "How is Beaver?",
+      "en": "[Collins] How is Beaver?",
       "fr": "Comment va Beaver ?"
     }
   },
   {
     "translation": {
       "en": "Bullet clipped him. He's unconscious, but he'll be okay.",
-      "fr": "Une balle l'a touché. Il est évanoui mais hors de danger."
+      "fr": "Une balle l'a touché.Il est évanoui mais hors de danger."
     }
   },
   {
@@ -847,7 +847,7 @@
   },
   {
     "translation": {
-      "en": "Why would they bring acid?",
+      "en": "[Shah] Why would they bring acid?",
       "fr": "Pourquoi ils ont ça ?"
     }
   },
@@ -901,8 +901,8 @@
   },
   {
     "translation": {
-      "en": "You know, it would be a hell of a coincidence if I wasn't.",
-      "fr": "Ce serait une grosse coïncidence si ce n'était pas moi."
+      "en": "[man] You know, it would be a hell of a coincidence if I wasn't.",
+      "fr": "Ce serait une grosse coïncidencesi ce n'était pas moi."
     }
   },
   {
@@ -932,13 +932,13 @@
   {
     "translation": {
       "en": "Can't work at a US base without an extensive background check.",
-      "fr": "Ils font une enquête poussée sur toutes les recrues."
+      "fr": "Ils font une enquête pousséesur toutes les recrues."
     }
   },
   {
     "translation": {
       "en": "You're telling me. The paperwork is a nightmare.",
-      "fr": "Je suis au courant, c'est un enfer administratif."
+      "fr": "Je suis au courant,c'est un enfer administratif."
     }
   },
   {
@@ -949,13 +949,13 @@
   },
   {
     "translation": {
-      "en": "For a very long time.",
+      "en": "[man] For a very long time.",
       "fr": "Très longtemps."
     }
   },
   {
     "translation": {
-      "en": "How long is a very long time?",
+      "en": "[Collins] How long is a very long time?",
       "fr": "C'est-à-dire ?"
     }
   },
@@ -974,18 +974,18 @@
   {
     "translation": {
       "en": "No plan survives contact with the enemy completely intact.",
-      "fr": "Aucun plan ne se déroule parfaitement au contact de l'ennemi."
+      "fr": "Aucun plan ne se déroule parfaitementau contact de l'ennemi."
     }
   },
   {
     "translation": {
       "en": "Are we enemies? You sound American.",
-      "fr": "On est ennemis ? Vous avez l'air Américain."
+      "fr": "On est ennemis ?Vous avez l'air Américain."
     }
   },
   {
     "translation": {
-      "en": "I am American.",
+      "en": "[man] I am American.",
       "fr": "C'est le cas."
     }
   },
@@ -1004,7 +1004,7 @@
   {
     "translation": {
       "en": "What's your name? My name is Alexander Kessel.",
-      "fr": "- Comment vous vous appelez ? - Alexander Kessel."
+      "fr": "- Comment vous vous appelez ?- Alexander Kessel."
     }
   },
   {
@@ -1021,14 +1021,14 @@
   },
   {
     "translation": {
-      "en": "How about I just call you asshole?",
-      "fr": "Je vais me contenter de connard."
+      "en": "How about I just call you \"asshole\"?",
+      "fr": "Je vais me contenter de \"connard\"."
     }
   },
   {
     "translation": {
       "en": "You know, usually it takes a woman a second date to reach that conclusion.",
-      "fr": "Les femmes s'en rendent compte au deuxième rendez-vous, d'habitude."
+      "fr": "Les femmes s'en rendent compteau deuxième rendez-vous, d'habitude."
     }
   },
   {
@@ -1046,13 +1046,13 @@
   {
     "translation": {
       "en": "So, Captain, seems as though you and I are at an impasse",
-      "fr": "Capitaine, il semblerait que nous soyons dans une impasse."
+      "fr": "Capitaine, il sembleraitque nous soyons dans une impasse."
     }
   },
   {
     "translation": {
       "en": "because I need to disable your command center so my people in Russia can fire those missiles.",
-      "fr": "Je dois désactiver votre C.O. afin qu'on puisse tirer nos missiles."
+      "fr": "Je dois désactiver votre C.O.afin qu'on puisse tirer nos missiles."
     }
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "translation": {
       "en": "I have contained or killed everyone else on this vessel,",
-      "fr": "j'ai capturé ou tué tout le monde sur ce navire."
+      "fr": "j'ai capturé ou tuétout le monde sur ce navire."
     }
   },
   {
@@ -1100,25 +1100,25 @@
   {
     "translation": {
       "en": "I don't think you realize why someone joins the Army.",
-      "fr": "Vous ignorez pourquoi on devient militaire."
+      "fr": "Vous ignorezpourquoi on devient militaire."
     }
   },
   {
     "translation": {
       "en": "You are alone in the middle of the ocean, miles from any port,",
-      "fr": "Vous êtes seule au milieu de l'océan, à des kilomètres de tout port,"
+      "fr": "Vous êtes seule au milieu de l'océan,à des kilomètres de tout port,"
     }
   },
   {
     "translation": {
       "en": "way beyond the nearest shipping lane.",
-      "fr": "très loin du couloir maritime le plus proche."
+      "fr": "très loindu couloir maritime le plus proche."
     }
   },
   {
     "translation": {
       "en": "No one is going to be able to get here and save you before I cut through these doors.",
-      "fr": "Personne ne viendra vous sauver avant que je n'ouvre ces portes."
+      "fr": "Personne ne viendra vous sauveravant que je n'ouvre ces portes."
     }
   },
   {
@@ -1135,19 +1135,19 @@
   },
   {
     "translation": {
-      "en": "- Which is it, six or seven? - I don't know. I didn't hire them.",
+      "en": "-Which is it, six or seven? -[Shah] I don't know. I didn't hire them.",
       "fr": "Six ou sept ? Je ne les ai pas engagés !"
     }
   },
   {
     "translation": {
       "en": "This is a big rig. You couldn't have killed everyone so quickly.",
-      "fr": "Impossible d'avoir déjà tué tout le monde sur le navire."
+      "fr": "Impossible d'avoir déjà tué tout le mondesur le navire."
     }
   },
   {
     "translation": {
-      "en": "Nerve agent.",
+      "en": "[Kessel] Nerve agent.",
       "fr": "Un agent innervant."
     }
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "translation": {
-      "en": "Bullshit.",
+      "en": "[snorts] Bullshit.",
       "fr": "N'importe quoi."
     }
   },
@@ -1177,14 +1177,14 @@
   },
   {
     "translation": {
-      "en": "Don't worry.",
+      "en": "[Kessel] Don't worry.",
       "fr": "Pas d'inquiétude."
     }
   },
   {
     "translation": {
       "en": "The command center has its own A/C, and try as I might… You can't access it.",
-      "fr": "- Votre climatisation est séparée. - Vous n'y avez pas accès."
+      "fr": "- Votre climatisation est séparée.- Vous n'y avez pas accès."
     }
   },
   {
@@ -1195,14 +1195,14 @@
   },
   {
     "translation": {
-      "en": "- SBX- 1. This is Captain Collins. - Is this real?",
+      "en": "-SBX-1. This is Captain Collins. -Is this real?",
       "fr": "SBX-1, ici Capitaine Collins."
     }
   },
   {
     "translation": {
-      "en": "- General Dyson. Where's Colonel Marshall? - Everyone quiet.",
-      "fr": "Général Dyson. Où est le colonel Marshall ?"
+      "en": "-General Dyson. Where's Colonel Marshall? -[man] Everyone quiet.",
+      "fr": "Général Dyson.Où est le colonel Marshall ?"
     }
   },
   {
@@ -1220,24 +1220,24 @@
   {
     "translation": {
       "en": "Six to seven terrorists disguised as janitors seized our vessel.",
-      "fr": "Six à sept terroristes déguisés ont saisi notre vaisseau."
+      "fr": "Six à sept terroristes déguisésont saisi notre vaisseau."
     }
   },
   {
     "translation": {
       "en": "They killed Marshall, they claim they have killed the crew,",
-      "fr": "Ils ont tué Marshall, auraient tué l'équipage"
+      "fr": "Ils ont tué Marshall,auraient tué l'équipage"
     }
   },
   {
     "translation": {
-      "en": "- and tried to take the command center. - Tried?",
-      "fr": "- et ont essayé de prendre le C.O. - Essayé ?"
+      "en": "-and tried to take the command center. -Tried?",
+      "fr": "- et ont essayé de prendre le C.O.- Essayé ?"
     }
   },
   {
     "translation": {
-      "en": "- And failed. - Who's there with you?",
+      "en": "-And failed. -[Dyson] Who's there with you?",
       "fr": "Et échoué. Qui est avec vous ?"
     }
   },
@@ -1262,7 +1262,7 @@
   {
     "translation": {
       "en": "They're using blowtorches to cut through the outer door.",
-      "fr": "Ils attaquent la porte extérieure au chalumeau."
+      "fr": "Ils attaquent la porte extérieureau chalumeau."
     }
   },
   {
@@ -1285,8 +1285,8 @@
   },
   {
     "translation": {
-      "en": "- And the inner door? - Same. I don't know.",
-      "fr": "- Et la porte intérieure ? - Je l'ignore."
+      "en": "-[Dyson] And the inner door? -Same. I don't know.",
+      "fr": "- Et la porte intérieure ?- Je l'ignore."
     }
   },
   {
@@ -1298,37 +1298,37 @@
   {
     "translation": {
       "en": "American. Leader says his name is Alexander Kessel.",
-      "fr": "Ils sont américains. Le leader s'appelle Alexander Kessel."
+      "fr": "Ils sont américains.Le leader s'appelle Alexander Kessel."
     }
   },
   {
     "translation": {
       "en": "Get me a full background check on this guy. What else?",
-      "fr": "Faites des recherches sur ce type. Quoi d'autre ?"
+      "fr": "Faites des recherches sur ce type.Quoi d'autre ?"
     }
   },
   {
     "translation": {
       "en": "They move like they've been trained, and they're using nerve agents.",
-      "fr": "Ce sont des pros et ils utilisent des agents innervants."
+      "fr": "Ce sont des proset ils utilisent des agents innervants."
     }
   },
   {
     "translation": {
       "en": "What's happening at Greely? Shooters are dead.",
-      "fr": "- Et à Greely ? - Les tireurs sont morts,"
+      "fr": "- Et à Greely ?- Les tireurs sont morts,"
     }
   },
   {
     "translation": {
       "en": "Unfortunately, so are the computers that control the interceptors. Burned them all with acid.",
-      "fr": "mais les ordinateurs qui contrôlent les intercepteurs aussi. Brûlés à l'acide."
+      "fr": "mais les ordinateurs qui contrôlentles intercepteurs aussi. Brûlés à l'acide."
     }
   },
   {
     "translation": {
       "en": "So it's just us. Afraid so.",
-      "fr": "- Il ne reste que nous. - En effet."
+      "fr": "- Il ne reste que nous.- En effet."
     }
   },
   {
@@ -1345,8 +1345,8 @@
   },
   {
     "translation": {
-      "en": "- ETA? - Ninety minutes.",
-      "fr": "- Longtemps ? - 1h30."
+      "en": "-ETA? -Ninety minutes.",
+      "fr": "- Longtemps ?- 1h30."
     }
   },
   {
@@ -1357,14 +1357,14 @@
   },
   {
     "translation": {
-      "en": "- No, we are not joking. - Madam President.",
+      "en": "-No, we are not joking. -[Collins] Madam President.",
       "fr": "Pas du tout. Madame la Présidente."
     }
   },
   {
     "translation": {
       "en": "The terrorists have 16 mobile missile launchers",
-      "fr": "Les terroristes ont 16 lanceurs de missiles"
+      "fr": "Les terroristes ont16 lanceurs de missiles"
     }
   },
   {
@@ -1382,25 +1382,25 @@
   {
     "translation": {
       "en": "is because you still have control of your interceptors.",
-      "fr": "c'est parce que vous avez encore vos intercepteurs."
+      "fr": "c'est parce quevous avez encore vos intercepteurs."
     }
   },
   {
     "translation": {
       "en": "The second you don't, they will launch those missiles on the United States.",
-      "fr": "Dès que ce ne sera plus le cas, ils lanceront ces missiles sur le pays."
+      "fr": "Dès que ce ne sera plus le cas,ils lanceront ces missiles sur le pays."
     }
   },
   {
     "translation": {
       "en": "Now, we don't have time to evacuate 16 cities,",
-      "fr": "Nous n'avons pas assez de temps pour évacuer 16 villes."
+      "fr": "Nous n'avons pas assez de tempspour évacuer 16 villes."
     }
   },
   {
     "translation": {
       "en": "so we're counting on you to keep those maniacs out of that room.",
-      "fr": "Nous comptons sur vous pour les tenir hors du centre opérations."
+      "fr": "Nous comptons sur vouspour les tenir hors du centre opérations."
     }
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "translation": {
       "en": "We'll get back to you soon. Keep us updated.",
-      "fr": "On vous rappelle. Tenez-nous au courant."
+      "fr": "On vous rappelle.Tenez-nous au courant."
     }
   },
   {
@@ -1429,14 +1429,14 @@
   },
   {
     "translation": {
-      "en": "Let's move out! Go!",
+      "en": "[soldier] Let's move out! Go!",
       "fr": "On y va. Vite !"
     }
   },
   {
     "translation": {
-      "en": "SEAL team, you are clear for immediate departure to SBX- 1.",
-      "fr": "Équipe SEAL, vous êtes autorisés à partir pour SBX-1."
+      "en": "[operator] SEAL team, you are clear for immediate departure to SBX-1.",
+      "fr": "Équipe SEAL,vous êtes autorisés à partir pour SBX-1."
     }
   },
   {
@@ -1466,7 +1466,7 @@
   {
     "translation": {
       "en": "I sit at a desk and stare at a screen, and know what? I like it.",
-      "fr": "Je suis assis devant un écran et ça me va très bien."
+      "fr": "Je suis assis devant un écranet ça me va très bien."
     }
   },
   {
@@ -1478,7 +1478,7 @@
   {
     "translation": {
       "en": "I mean, I haven't fired a gun since basic. Don't worry. Guns still work the same.",
-      "fr": "- Je n'ai pas tiré depuis les classes ! - Les armes n'ont pas changé."
+      "fr": "- Je n'ai pas tiré depuis les classes !- Les armes n'ont pas changé."
     }
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "translation": {
       "en": "Still quite enjoying fucking up your day.",
-      "fr": "Ça me fait plaisir de pourrir votre journée."
+      "fr": "Ça me fait plaisirde pourrir votre journée."
     }
   },
   {
@@ -1520,13 +1520,13 @@
   {
     "translation": {
       "en": "they did unspeakable things to try and force the Romans to let them in.",
-      "fr": "ont commis des atrocités pour forcer les Romains à ouvrir."
+      "fr": "ont commis des atrocitéspour forcer les Romains à ouvrir."
     }
   },
   {
     "translation": {
-      "en": "Exitus actum probat. The result justifies the deed.",
-      "fr": "Exitus acta probat. La fin justifie les moyens."
+      "en": "Exitus actum probat. \"The result justifies the deed.\"",
+      "fr": "Exitus acta probat.La fin justifie les moyens."
     }
   },
   {
@@ -1543,7 +1543,7 @@
   },
   {
     "translation": {
-      "en": "This is not gonna work.",
+      "en": "[Collins] This is not gonna work.",
       "fr": "Ça ne fonctionnera pas."
     }
   },
@@ -1615,20 +1615,20 @@
   },
   {
     "translation": {
-      "en": "- Corporal. - There's nothing we can do to stop them!",
-      "fr": "- Caporal. - Et on ne peut rien y faire."
+      "en": "-Corporal. -There's nothing we can do to stop them!",
+      "fr": "- Caporal.- Et on ne peut rien y faire."
     }
   },
   {
     "translation": {
       "en": "Corporal Shah, they're not in here yet,",
-      "fr": "Caporal Shah, ils ne sont pas encore entrés."
+      "fr": "Caporal Shah,ils ne sont pas encore entrés."
     }
   },
   {
     "translation": {
       "en": "but if we're going to keep them out, I need you thinking clearly.",
-      "fr": "Mais pour les en empêcher, vous devez vous reprendre."
+      "fr": "Mais pour les en empêcher,vous devez vous reprendre."
     }
   },
   {
@@ -1646,7 +1646,7 @@
   {
     "translation": {
       "en": "So go back to your post and keep our scanners on Tavlinka.",
-      "fr": "Retournez à votre poste et gardez nos scanners sur Tavlinka."
+      "fr": "Retournez à votre posteet gardez nos scanners sur Tavlinka."
     }
   },
   {
@@ -1664,7 +1664,7 @@
   {
     "translation": {
       "en": "We also need to figure out every way they can penetrate this room.",
-      "fr": "On doit trouver toutes les façons dont ils peuvent entrer."
+      "fr": "On doit trouver toutes les façonsdont ils peuvent entrer."
     }
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "translation": {
       "en": "Dome's reinforced even stronger than we are. Same with the interceptors.",
-      "fr": "Le radôme est mieux protégé que le C.O. Pareil pour les intercepteurs."
+      "fr": "Le radôme est mieux protégé que le C.O.Pareil pour les intercepteurs."
     }
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "translation": {
       "en": "When was the last time this thing was test fired? I don't know. Can it still work?",
-      "fr": "- Ce fusil a été entretenu ? - Je ne sais pas. Il marche encore ?"
+      "fr": "- Ce fusil a été entretenu ?- Je ne sais pas. Il marche encore ?"
     }
   },
   {
@@ -1759,13 +1759,13 @@
   },
   {
     "translation": {
-      "en": "- What about your pistol? - Out.",
-      "fr": "- Et votre pistolet ? - Vide."
+      "en": "-What about your pistol? -Out.",
+      "fr": "- Et votre pistolet ?- Vide."
     }
   },
   {
     "translation": {
-      "en": "So we have no weapons.",
+      "en": "[sighs] So we have no weapons.",
       "fr": "On n'a pas d'armes."
     }
   },
@@ -1777,20 +1777,20 @@
   },
   {
     "translation": {
-      "en": "Thanks for saving Turbo.",
+      "en": "[Shah] Thanks for saving Turbo.",
       "fr": "Merci d'avoir sauvé Turbo."
     }
   },
   {
     "translation": {
-      "en": "Who?",
+      "en": "[Collins] Who?",
       "fr": "Qui ?"
     }
   },
   {
     "translation": {
       "en": "Turbo, the turtle. My kids gave him to me.",
-      "fr": "Turbo, la tortue. Mes enfants me l'ont offerte."
+      "fr": "Turbo, la tortue.Mes enfants me l'ont offerte."
     }
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "translation": {
       "en": "Prisha, she's nine. Aditi, seven. And Kalyan, he's three.",
-      "fr": "Prisha a neuf ans. Aditi a sept ans, et Kalyan a trois ans."
+      "fr": "Prisha a neuf ans.Aditi a sept ans, et Kalyan a trois ans."
     }
   },
   {
@@ -1814,7 +1814,7 @@
   {
     "translation": {
       "en": "Best thing you can do for them now is help me stop those missiles.",
-      "fr": "Si vous voulez les protéger, aidez-moi à arrêter ces missiles."
+      "fr": "Si vous voulez les protéger,aidez-moi à arrêter ces missiles."
     }
   },
   {
@@ -1825,7 +1825,7 @@
   },
   {
     "translation": {
-      "en": "They got everyone.",
+      "en": "[Shah] They got everyone.",
       "fr": "Ils ont tout le monde."
     }
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "translation": {
-      "en": "What do you want now?",
+      "en": "[Shah] What do you want now?",
       "fr": "Qu'est-ce que vous voulez ?"
     }
   },
@@ -1850,7 +1850,7 @@
   {
     "translation": {
       "en": "Think you're the first one to throw that in my face?",
-      "fr": "Vous croyez être le premier à me sortir ça ?"
+      "fr": "Vous croyez être le premierà me sortir ça ?"
     }
   },
   {
@@ -1873,7 +1873,7 @@
   },
   {
     "translation": {
-      "en": "- It's gonna take more than that. - I've got more coming.",
+      "en": "-[Collins] It's gonna take more than that. -I've got more coming.",
       "fr": "Il en faudra plus que ça. Je n'ai pas fini."
     }
   },
@@ -1885,8 +1885,8 @@
   },
   {
     "translation": {
-      "en": "- Am I? - Desperately.",
-      "fr": "- Ah oui ? - Vous êtes désespéré."
+      "en": "-[Kessel] Am I? -Desperately.",
+      "fr": "- Ah oui ?- Vous êtes désespéré."
     }
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "translation": {
       "en": "Looking for ways to beat the security, getting your people aboard,",
-      "fr": "que vous cherchez comment contourner la sécurité et monter à bord."
+      "fr": "que vous cherchez commentcontourner la sécurité et monter à bord."
     }
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "translation": {
       "en": "until you were absolutely sure you planned for every possible outcome,",
-      "fr": "jusqu'à être certain d'avoir tout envisagé."
+      "fr": "jusqu'à être certaind'avoir tout envisagé."
     }
   },
   {
@@ -1940,13 +1940,13 @@
   {
     "translation": {
       "en": "Because I'm meant to be in Fort Hunter right now on my new post.",
-      "fr": "car je devrais être à mon nouveau poste à Fort Hunter."
+      "fr": "car je devrais êtreà mon nouveau poste à Fort Hunter."
     }
   },
   {
     "translation": {
       "en": "Only fell through late last night when they reassigned me here.",
-      "fr": "Je n'ai été réassignée que tard dans la nuit."
+      "fr": "Je n'ai été réassignéeque tard dans la nuit."
     }
   },
   {
@@ -1963,7 +1963,7 @@
   },
   {
     "translation": {
-      "en": "I'll give you unexpected.",
+      "en": "I'll give you \"unexpected.\"",
       "fr": "C'est vrai, c'était inattendu."
     }
   },
@@ -1982,12 +1982,12 @@
   {
     "translation": {
       "en": "I know that three years ago, you scored your dream job.",
-      "fr": "Il y a trois ans, vous avez décroché votre travail de rêve."
+      "fr": "Il y a trois ans,vous avez décroché votre travail de rêve."
     }
   },
   {
     "translation": {
-      "en": "Pentagon, three- star General.",
+      "en": "Pentagon, three-star General.",
       "fr": "Pentagone, général trois étoiles."
     }
   },
@@ -2018,25 +2018,25 @@
   {
     "translation": {
       "en": "I know the Army review board just decided you made it all up.",
-      "fr": "Je sais que l'armée a décrété que vous aviez tout inventé."
+      "fr": "Je sais que l'armée a décrétéque vous aviez tout inventé."
     }
   },
   {
     "translation": {
       "en": "Threw you right back into the lion's den.",
-      "fr": "Ils vous ont renvoyée dans la fosse aux lions."
+      "fr": "Ils vous ont renvoyéedans la fosse aux lions."
     }
   },
   {
     "translation": {
-      "en": "I know that three- star welcomed you with open arms.",
-      "fr": "Le général vous a accueillie à bras ouverts."
+      "en": "I know that three-star welcomed you with open arms.",
+      "fr": "Le général vous a accueillieà bras ouverts."
     }
   },
   {
     "translation": {
       "en": "Because predators always want to show you exactly who's in charge.",
-      "fr": "Les prédateurs veulent toujours vous montrer qui commande."
+      "fr": "Les prédateurs veulent toujoursvous montrer qui commande."
     }
   },
   {
@@ -2054,7 +2054,7 @@
   {
     "translation": {
       "en": "She won the battle, not the war.",
-      "fr": "Elle a gagné la bataille, mais pas la guerre."
+      "fr": "Elle a gagné la bataille,mais pas la guerre."
     }
   },
   {
@@ -2077,8 +2077,8 @@
   },
   {
     "translation": {
-      "en": "All from within the army that you so proudly served.",
-      "fr": "Tout ça venait de l'armée que vous serviez avec fierté."
+      "en": "[Kessel] All from within the army that you so proudly served.",
+      "fr": "Tout ça venait de l'arméeque vous serviez avec fierté."
     }
   },
   {
@@ -2168,37 +2168,37 @@
   {
     "translation": {
       "en": "In fact, I will give you 30 million dollars if you open these doors.",
-      "fr": "Je vous donnerai 30 millions si vous ouvrez ces portes."
+      "fr": "Je vous donnerai 30 millionssi vous ouvrez ces portes."
     }
   },
   {
     "translation": {
       "en": "I will have you flown to the country of your choosing",
-      "fr": "Je vous enverrai dans le pays de votre choix"
+      "fr": "Je vous enverraidans le pays de votre choix"
     }
   },
   {
     "translation": {
       "en": "where you can live the rest of your life in luxury.",
-      "fr": "où vous vivrez le reste de votre vie dans le luxe."
+      "fr": "où vous vivrez le reste de votre viedans le luxe."
     }
   },
   {
     "translation": {
       "en": "If anyone has earned the right to walk away from this, it's you.",
-      "fr": "Si quelqu'un mérite de pouvoir partir, c'est bien vous."
+      "fr": "Si quelqu'un mérite de pouvoir partir,c'est bien vous."
     }
   },
   {
     "translation": {
       "en": "Thirty million dollars. What did the Army ever give you?",
-      "fr": "Trente millions de dollars. Qu'est-ce que l'armée vous a donné ?"
+      "fr": "Trente millions de dollars.Qu'est-ce que l'armée vous a donné ?"
     }
   },
   {
     "translation": {
       "en": "Your depressing old job in the middle of nowhere, where they can forget about you?",
-      "fr": "Votre boulot déprimant au milieu de nulle part ?"
+      "fr": "Votre boulot déprimantau milieu de nulle part ?"
     }
   },
   {
@@ -2227,13 +2227,13 @@
   },
   {
     "translation": {
-      "en": "SEAL team is inbound to SBX- 1. ETA 67 minutes.",
-      "fr": "Équipe SEAL en direction de SBX-1. Arrivée dans 67 minutes."
+      "en": "[pilot] SEAL team is inbound to SBX-1. ETA 67 minutes.",
+      "fr": "Équipe SEAL en direction de SBX-1.Arrivée dans 67 minutes."
     }
   },
   {
     "translation": {
-      "en": "They're in.",
+      "en": "[Collins] They're in.",
       "fr": "Ils arrivent."
     }
   },
@@ -2251,26 +2251,26 @@
   },
   {
     "translation": {
-      "en": "- You really don't. -",
+      "en": "-You really don't. -[gun cocks]",
       "fr": "Pas vraiment, non."
     }
   },
   {
     "translation": {
-      "en": "- Beaver. - What?",
-      "fr": "- Beaver. - Quoi ?"
+      "en": "-[Collins] Beaver. -[Shah] What?",
+      "fr": "- Beaver.- Quoi ?"
     }
   },
   {
     "translation": {
-      "en": "Nice, Beaver.",
+      "en": "[Collins] Nice, Beaver.",
       "fr": "Bien joué, Beaver."
     }
   },
   {
     "translation": {
       "en": "Initiating satellite relay and EBS hack.",
-      "fr": "Lancement du relais satellite, piratage de l'EBS."
+      "fr": "Lancement du relais satellite,piratage de l'EBS."
     }
   },
   {
@@ -2283,12 +2283,6 @@
     "translation": {
       "en": "No, I have a new one.",
       "fr": "Non, j'en ai un nouveau."
-    }
-  },
-  {
-    "translation": {
-      "en": "ZSB, Zulu Sierra Bravo, 1- 9- 9- 6.",
-      "fr": "ZSB, Zulu Sierra Bravo, 1-9-9-6."
     }
   },
   {
@@ -2318,7 +2312,7 @@
   {
     "translation": {
       "en": "If Corporal Baker doesn't get hit, we avoid all of this.",
-      "fr": "Si Baker n'avait pas été touché, rien ne serait arrivé."
+      "fr": "Si Baker n'avait pas été touché,rien ne serait arrivé."
     }
   },
   {
@@ -2330,7 +2324,7 @@
   {
     "translation": {
       "en": "No mansplaining. I gave you choices.",
-      "fr": "- Je me passerai de vos mecsplications. - Vous aviez le choix."
+      "fr": "- Je me passerai de vos mecsplications.- Vous aviez le choix."
     }
   },
   {
@@ -2347,7 +2341,7 @@
   },
   {
     "translation": {
-      "en": "Traitor.",
+      "en": "[Shah grunts] Traitor.",
       "fr": "Traître."
     }
   },
@@ -2359,13 +2353,13 @@
   },
   {
     "translation": {
-      "en": "Always were full of shit, Beaver.",
+      "en": "[Collins] Always were full of shit, Beaver.",
       "fr": "Tu as toujours été un connard."
     }
   },
   {
     "translation": {
-      "en": "Ah, what do you know?",
+      "en": "[Beaver] Ah, what do you know?",
       "fr": "C'est comme ça."
     }
   },
@@ -2377,7 +2371,7 @@
   },
   {
     "translation": {
-      "en": "Hell, there was a time I would have even died for it.",
+      "en": "Hell, there was a time I would have even died for it. [sniffs]",
       "fr": "À une époque, je serais mort pour lui."
     }
   },
@@ -2408,18 +2402,18 @@
   {
     "translation": {
       "en": "that I lost my job and the government took away my rights,",
-      "fr": "que j'ai perdu mon boulot, que le gouvernement m'a retiré mes droits"
+      "fr": "que j'ai perdu mon boulot,que le gouvernement m'a retiré mes droits"
     }
   },
   {
     "translation": {
       "en": "started making up all kinds of shit to scare me.",
-      "fr": "et a commencé à inventer des conneries pour me faire peur."
+      "fr": "et a commencé à inventerdes conneries pour me faire peur."
     }
   },
   {
     "translation": {
-      "en": "Shit.",
+      "en": "[Beaver] Shit.",
       "fr": "Merde."
     }
   },
@@ -2432,7 +2426,7 @@
   {
     "translation": {
       "en": "And that gives you the right to murder millions of people?",
-      "fr": "Et ça te donne le droit de tuer des millions de gens ?"
+      "fr": "Et ça te donne le droitde tuer des millions de gens ?"
     }
   },
   {
@@ -2455,7 +2449,7 @@
   },
   {
     "translation": {
-      "en": "Uh, yeah. It's what America's about.",
+      "en": "[Beaver] Uh, yeah. It's what America's about.",
       "fr": "Oui. L'Amérique tourne autour de l'argent."
     }
   },
@@ -2480,7 +2474,7 @@
   {
     "translation": {
       "en": "Yeah, sure. Sure. Blame America. Blame the government.",
-      "fr": "Bien sûr. C'est la faute des États-Unis, du gouvernement."
+      "fr": "Bien sûr. C'est la faute des États-Unis,du gouvernement."
     }
   },
   {
@@ -2540,7 +2534,7 @@
   {
     "translation": {
       "en": "Never call a woman by anything other than her name.",
-      "fr": "N'appelle jamais une femme autrement que par son nom."
+      "fr": "N'appelle jamais une femmeautrement que par son nom."
     }
   },
   {
@@ -2575,14 +2569,14 @@
   },
   {
     "translation": {
-      "en": "call her darlin'.",
-      "fr": "chérie."
+      "en": "call her \"darlin'.\"",
+      "fr": "\"chérie\"."
     }
   },
   {
     "translation": {
       "en": "Satellite relay's live on the EBS. The Emergency Broadcast System?",
-      "fr": "- EBS opérationnel. - Le système de diffusion d'urgence ?"
+      "fr": "- EBS opérationnel.- Le système de diffusion d'urgence ?"
     }
   },
   {
@@ -2594,7 +2588,7 @@
   {
     "translation": {
       "en": "can be broadcast to any device that has smart capabilities.",
-      "fr": "puissent être diffusées sur n'importe quel appareil connecté."
+      "fr": "puissent être diffuséessur n'importe quel appareil connecté."
     }
   },
   {
@@ -2606,7 +2600,7 @@
   {
     "translation": {
       "en": "Mr. Kessel. Where's Captain Collins?",
-      "fr": "M. Kessel. Où est notre capitaine Collins ?"
+      "fr": "M. Kessel.Où est notre capitaine Collins ?"
     }
   },
   {
@@ -2629,7 +2623,7 @@
   },
   {
     "translation": {
-      "en": "And Corporal Baker?",
+      "en": "[Dyson] And Corporal Baker?",
       "fr": "Et le caporal Baker ?"
     }
   },
@@ -2641,31 +2635,31 @@
   },
   {
     "translation": {
-      "en": "You two are servicemen.",
+      "en": "[Dyson] You two are servicemen.",
       "fr": "Vous êtes des militaires."
     }
   },
   {
     "translation": {
       "en": "You took an oath. How could you betray your country?",
-      "fr": "Vous avez prêté serment. Vous avez trahi votre pays !"
+      "fr": "Vous avez prêté serment.Vous avez trahi votre pays !"
     }
   },
   {
     "translation": {
       "en": "I swore an oath to the old America. Not this one.",
-      "fr": "J'ai prêté serment à la vieille Amérique. Pas celle-ci."
+      "fr": "J'ai prêté serment à la vieille Amérique.Pas celle-ci."
     }
   },
   {
     "translation": {
-      "en": "What do you want?",
+      "en": "[Dyson] What do you want?",
       "fr": "Que voulez-vous ?"
     }
   },
   {
     "translation": {
-      "en": "From you?",
+      "en": "[Kessel] From you?",
       "fr": "De votre part ?"
     }
   },
@@ -2678,7 +2672,7 @@
   {
     "translation": {
       "en": "I'm just waiting for America to join our little chat here.",
-      "fr": "J'attends que les États-Unis nous rejoignent."
+      "fr": "J'attends que les États-Unisnous rejoignent."
     }
   },
   {
@@ -2708,19 +2702,19 @@
   {
     "translation": {
       "en": "the sound's kind of meh, but I don't really listen to the TV that much.",
-      "fr": "le son est pas terrible, mais je n'écoute pas ma télé."
+      "fr": "le son est pas terrible,mais je n'écoute pas ma télé."
     }
   },
   {
     "translation": {
       "en": "I play music when I watch and stuff so it doesn't really… Why'd it go black and white?",
-      "fr": "J'écoute de la musique en regardant. Pourquoi c'est en noir et blanc ?"
+      "fr": "J'écoute de la musique en regardant.Pourquoi c'est en noir et blanc ?"
     }
   },
   {
     "translation": {
       "en": "Where's the President? I'm here.",
-      "fr": "- Où est la présidente ? - Je suis là."
+      "fr": "- Où est la présidente ?- Je suis là."
     }
   },
   {
@@ -2756,13 +2750,13 @@
   {
     "translation": {
       "en": "My fellow Americans, I am Alexander Kessel,",
-      "fr": "Mes chers compatriotes, je m'appelle Alexander Kessel,"
+      "fr": "Mes chers compatriotes,je m'appelle Alexander Kessel,"
     }
   },
   {
     "translation": {
       "en": "son of trust fund billionaire, Alexander Kessel Senior,",
-      "fr": "le fils du milliardaire Alexander Kessel père,"
+      "fr": "le fils du milliardaireAlexander Kessel père,"
     }
   },
   {
@@ -2774,19 +2768,19 @@
   {
     "translation": {
       "en": "is the current utterly unqualified US ambassador to the United Nations.",
-      "fr": "comme le très incompétent ambassadeur américain à l'ONU."
+      "fr": "comme le très incompétentambassadeur américain à l'ONU."
     }
   },
   {
     "translation": {
       "en": "Now, my associates in Russia control 16 nuclear missiles,",
-      "fr": "Mes associés en Russie contrôlent 16 missiles nucléaires,"
+      "fr": "Mes associés en Russie contrôlent16 missiles nucléaires,"
     }
   },
   {
     "translation": {
       "en": "and I control the only interceptor missiles that are capable of stopping them.",
-      "fr": "et je contrôle les seuls missiles intercepteurs capables de les arrêter."
+      "fr": "et je contrôle les seuls missilesintercepteurs capables de les arrêter."
     }
   },
   {
@@ -2827,20 +2821,20 @@
   },
   {
     "translation": {
-      "en": "Missile launch detected. Missile launch detected. Missile launch detected.",
+      "en": "[computer voice] Missile launch detected. Missile launch detected. Missile launch detected.",
       "fr": "Lancement de missile détecté."
     }
   },
   {
     "translation": {
       "en": "Intercept launch expires in 12 minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 12 minutes."
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 12 minutes."
     }
   },
   {
     "translation": {
-      "en": "Now in 12 minutes, that missile I just launched, will pass over my head,",
-      "fr": "Dans 12 minutes, quand ce missile me survolera,"
+      "en": "[Kessel] Now in 12 minutes, that missile I just launched, will pass over my head,",
+      "fr": "Dans 12 minutes,quand ce missile me survolera,"
     }
   },
   {
@@ -2864,7 +2858,7 @@
   {
     "translation": {
       "en": "Wherever it lands, there's no time to run.",
-      "fr": "Où que ce soit, vous n'aurez pas le temps de vous enfuir."
+      "fr": "Où que ce soit,vous n'aurez pas le temps de vous enfuir."
     }
   },
   {
@@ -2888,7 +2882,7 @@
   {
     "translation": {
       "en": "The City of Angels has 23 minutes left to live.",
-      "fr": "La Cité des anges a encore 23 minutes à vivre."
+      "fr": "La Cité des angesa encore 23 minutes à vivre."
     }
   },
   {
@@ -2906,19 +2900,19 @@
   {
     "translation": {
       "en": "And the fear of every American is at its peak… We're not closing yet.",
-      "fr": "- … et tous les Américains terrorisés… - On n'est pas encore fermés."
+      "fr": "- … et tous les Américains terrorisés…- On n'est pas encore fermés."
     }
   },
   {
     "translation": {
       "en": "…I will launch a second wave of 15 nuclear missiles.",
-      "fr": "… je lancerai une deuxième vague de 15 missiles nucléaires."
+      "fr": "… je lancerai une deuxième vaguede 15 missiles nucléaires."
     }
   },
   {
     "translation": {
       "en": "Cincinnati, Dallas, Denver, Memphis, Chicago, St. Louis, Atlanta, Boston,",
-      "fr": "Cincinnati, Dallas, Denver, Memphis, Chicago, Saint-Louis, Atlanta, Boston,"
+      "fr": "Cincinnati, Dallas, Denver, Memphis,Chicago, Saint-Louis, Atlanta, Boston,"
     }
   },
   {
@@ -2942,7 +2936,7 @@
   {
     "translation": {
       "en": "America dies in a paroxysm of fear.",
-      "fr": "les États-Unis mourront dans la terreur la plus absolue."
+      "fr": "les États-Unis mourrontdans la terreur la plus absolue."
     }
   },
   {
@@ -2954,7 +2948,7 @@
   {
     "translation": {
       "en": "American exceptionalism? Maybe once.",
-      "fr": "L'exceptionnalisme américain ? C'était autrefois."
+      "fr": "L'exceptionnalisme américain ?C'était autrefois."
     }
   },
   {
@@ -2966,19 +2960,19 @@
   {
     "translation": {
       "en": "When they declared that all men are created equal.",
-      "fr": "Quand ils ont déclaré l'égalité des hommes."
+      "fr": "Quand ils ont déclarél'égalité des hommes."
     }
   },
   {
     "translation": {
       "en": "Now they say ours are United States, but when was that true?",
-      "fr": "On parle d'États-Unis, mais quand étions-nous unis ?"
+      "fr": "On parle d'États-Unis,mais quand étions-nous unis ?"
     }
   },
   {
     "translation": {
       "en": "Was it true during the Civil War? Or Jim Crow?",
-      "fr": "Pendant la guerre de Sécession ? Pour les lois Jim Crow ?"
+      "fr": "Pendant la guerre de Sécession ?Pour les lois Jim Crow ?"
     }
   },
   {
@@ -2990,7 +2984,7 @@
   {
     "translation": {
       "en": "You know, this national lie, it's a festering wound,",
-      "fr": "Ce mensonge national est une plaie purulente"
+      "fr": "Ce mensonge nationalest une plaie purulente"
     }
   },
   {
@@ -3001,20 +2995,20 @@
   },
   {
     "translation": {
-      "en": "There's no Band- Aid to patch it.",
+      "en": "There's no Band-Aid to patch it.",
       "fr": "On ne peut pas la panser."
     }
   },
   {
     "translation": {
       "en": "No, the only way to save our nation and the promise it once held",
-      "fr": "Le seul moyen de sauver notre nation et la promesse qu'elle représentait jadis"
+      "fr": "Le seul moyen de sauver notre nationet la promesse qu'elle représentait jadis"
     }
   },
   {
     "translation": {
       "en": "is to erase it. Start over.",
-      "fr": "est de tout effacer, de tout recommencer."
+      "fr": "est de tout effacer,de tout recommencer."
     }
   },
   {
@@ -3086,7 +3080,7 @@
   {
     "translation": {
       "en": "Never been the subject to enhanced screenings at airports?",
-      "fr": "On ne vous a jamais fouillé dans les aéroports ?"
+      "fr": "On ne vous a jamais fouillédans les aéroports ?"
     }
   },
   {
@@ -3104,7 +3098,7 @@
   {
     "translation": {
       "en": "and I can see why you're obsessed with missiles.",
-      "fr": "et je comprends votre obsession pour les missiles."
+      "fr": "et je comprends votre obsessionpour les missiles."
     }
   },
   {
@@ -3115,7 +3109,7 @@
   },
   {
     "translation": {
-      "en": "I got this, boss.",
+      "en": "I got this, boss. [inhaling]",
       "fr": "Je m'en occupe, patron."
     }
   },
@@ -3134,19 +3128,19 @@
   {
     "translation": {
       "en": "A soldier who has fought with honor and courage here today.",
-      "fr": "Une soldate qui s'est battue avec honneur et bravoure."
+      "fr": "Une soldate qui s'est battueavec honneur et bravoure."
     }
   },
   {
     "translation": {
       "en": "Now, three years ago, one of our nation's top generals",
-      "fr": "Il y a trois ans, un de nos généraux les plus gradés"
+      "fr": "Il y a trois ans,un de nos généraux les plus gradés"
     }
   },
   {
     "translation": {
       "en": "tried to abuse his position of power and force her to have sex with him.",
-      "fr": "a voulu abuser de son pouvoir pour la forcer à coucher avec lui."
+      "fr": "a voulu abuser de son pouvoirpour la forcer à coucher avec lui."
     }
   },
   {
@@ -3176,7 +3170,7 @@
   {
     "translation": {
       "en": "put out a bounty hunt on photos like this.",
-      "fr": "ont organisé une chasse aux photos telles que celle-ci."
+      "fr": "ont organiséune chasse aux photos telles que celle-ci."
     }
   },
   {
@@ -3188,7 +3182,7 @@
   {
     "translation": {
       "en": "I offered her 30 million dollars to give up her post today.",
-      "fr": "Je lui ai proposé 30 millions de dollars pour abandonner son poste."
+      "fr": "Je lui ai proposé 30 millions de dollarspour abandonner son poste."
     }
   },
   {
@@ -3224,25 +3218,25 @@
   {
     "translation": {
       "en": "You take a lot of hits, concussions, bruised ribs,",
-      "fr": "J'ai pris des coups, des chocs, des bleus aux côtes,"
+      "fr": "J'ai pris des coups, des chocs,des bleus aux côtes,"
     }
   },
   {
     "translation": {
       "en": "but the most common injury is dislocated thumbs.",
-      "fr": "mais la blessure la plus commune, c'est la luxation du pouce."
+      "fr": "mais la blessure la plus commune,c'est la luxation du pouce."
     }
   },
   {
     "translation": {
-      "en": "No! Shit!",
+      "en": "[Kessel] No! Shit! [panting]",
       "fr": "Non ! Merde !"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in six minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 6 minutes."
+      "en": "[computer voice] Intercept launch expires in six minutes.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 6 minutes."
     }
   },
   {
@@ -3259,8 +3253,8 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in five minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 5 minutes."
+      "en": "[computer voice] Intercept launch expires in five minutes.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 5 minutes."
     }
   },
   {
@@ -3271,13 +3265,13 @@
   },
   {
     "translation": {
-      "en": "Interceptor launched.",
+      "en": "[computer voice] Interceptor launched.",
       "fr": "Lancement de l'intercepteur."
     }
   },
   {
     "translation": {
-      "en": "Missile intercepted.",
+      "en": "[computer voice] Missile intercepted.",
       "fr": "Missile intercepté."
     }
   },
@@ -3289,26 +3283,26 @@
   },
   {
     "translation": {
-      "en": "Remember? I said, Whatever happens, make sure you shoot her first.",
-      "fr": "Je t'avais dit : Quoi qu'il arrive, bute-la en premier."
+      "en": "Remember? I said, \"Whatever happens, make sure you shoot her first.\" [sniffs]",
+      "fr": "Je t'avais dit :\"Quoi qu'il arrive, bute-la en premier."
     }
   },
   {
     "translation": {
-      "en": "You just take her out of the fight, because if you don't do that,",
-      "fr": "Mets-la hors d'état de nuire. Sinon,"
+      "en": "\"You just take her out of the fight, because if you don't do that,",
+      "fr": "\"Mets-la hors d'état de nuire. Sinon,"
     }
   },
   {
     "translation": {
-      "en": "if you don't just put her down right away, man, she's gonna be trouble.",
-      "fr": "si tu ne la descends pas, elle va causer des problèmes."
+      "en": "if you don't just put her down right away, man, she's gonna be trouble.\"",
+      "fr": "\"si tu ne la descends pas,elle va causer des problèmes.\""
     }
   },
   {
     "translation": {
       "en": "Beaver. She's… She's just one of those women, you know?",
-      "fr": "- Beaver. - C'est une de ces femmes, tu sais ?"
+      "fr": "- Beaver.- C'est une de ces femmes, tu sais ?"
     }
   },
   {
@@ -3320,7 +3314,7 @@
   {
     "translation": {
       "en": "Like a… like a fucking needle.",
-      "fr": "Comme une aiguille qui te pique à répétition."
+      "fr": "Comme une aiguillequi te pique à répétition."
     }
   },
   {
@@ -3331,14 +3325,14 @@
   },
   {
     "translation": {
-      "en": "Setback?",
+      "en": "[Beaver] Setback?",
       "fr": "Un contretemps ?"
     }
   },
   {
     "translation": {
       "en": "Hey, did you hear that? It's a setback. That's cool.",
-      "fr": "Tant mieux. Tu entends ? Juste un contretemps."
+      "fr": "Tant mieux.Tu entends ? Juste un contretemps."
     }
   },
   {
@@ -3380,7 +3374,7 @@
   {
     "translation": {
       "en": "What's the statute of limitations on attempted nuking?",
-      "fr": "On encourt quoi pour une attaque nucléaire ?"
+      "fr": "On encourt quoipour une attaque nucléaire ?"
     }
   },
   {
@@ -3391,7 +3385,7 @@
   },
   {
     "translation": {
-      "en": "Really?",
+      "en": "Really? [sighs]",
       "fr": "Sérieux ?"
     }
   },
@@ -3403,8 +3397,8 @@
   },
   {
     "translation": {
-      "en": "Doing my best here, ma'am. Can you turn off the TV coverage?",
-      "fr": "- Je fais de mon mieux. - Vous pouvez désactiver la diffusion ?"
+      "en": "[panting] Doing my best here, ma'am. Can you turn off the TV coverage?",
+      "fr": "- Je fais de mon mieux.- Vous pouvez désactiver la diffusion ?"
     }
   },
   {
@@ -3421,7 +3415,7 @@
   },
   {
     "translation": {
-      "en": "Understood.",
+      "en": "[Dyson] Understood.",
       "fr": "Compris."
     }
   },
@@ -3445,8 +3439,8 @@
   },
   {
     "translation": {
-      "en": "And we got some background on Alexander Kessel.",
-      "fr": "On a obtenu des informations sur Alexander Kessel."
+      "en": "[Dyson] And we got some background on Alexander Kessel.",
+      "fr": "On a obtenu des informationssur Alexander Kessel."
     }
   },
   {
@@ -3469,26 +3463,26 @@
   },
   {
     "translation": {
-      "en": "Torture?",
+      "en": "[Collins] Torture?",
       "fr": "La torture ?"
     }
   },
   {
     "translation": {
-      "en": "He was good. Too good sometimes. Killed two prisoners while he was torturing them.",
-      "fr": "Il était bon, voire trop bon. Il a tué deux prisonniers qu'il torturait."
+      "en": "[Dyson] He was good. Too good sometimes. Killed two prisoners while he was torturing them.",
+      "fr": "Il était bon, voire trop bon.Il a tué deux prisonniers qu'il torturait."
     }
   },
   {
     "translation": {
-      "en": "Jesus. I'm dealing with a genuine psychopath.",
-      "fr": "- Je suis face à un vrai psychopathe. - Vous n'êtes pas seule."
+      "en": "[Collins] Jesus. I'm dealing with a genuine psychopath.",
+      "fr": "- Je suis face à un vrai psychopathe.- Vous n'êtes pas seule."
     }
   },
   {
     "translation": {
       "en": "You're not alone. Lot of smart people here trying to figure out a way to help you.",
-      "fr": "- Je suis face à un vrai psychopathe. - Vous n'êtes pas seule. Beaucoup de gens intelligents essaient de vous aider."
+      "fr": "- Je suis face à un vrai psychopathe.- Vous n'êtes pas seule. Beaucoup de gens intelligentsessaient de vous aider."
     }
   },
   {
@@ -3500,25 +3494,25 @@
   {
     "translation": {
       "en": "Fuck theory. I need some fucking soldiers with guns.",
-      "fr": "J'emmerde la théorie. J'ai besoin de soldats armés !"
+      "fr": "J'emmerde la théorie.J'ai besoin de soldats armés !"
     }
   },
   {
     "translation": {
       "en": "I hear you, Captain. Come on, give her some guns, man.",
-      "fr": "- Je comprends. - Donnez-lui des armes, merde !"
+      "fr": "- Je comprends.- Donnez-lui des armes, merde !"
     }
   },
   {
     "translation": {
-      "en": "If you don't mind me saying, you are one armor- plated woman.",
-      "fr": "Si je peux me permettre, vous êtes impressionnante."
+      "en": "If you don't mind me saying, you are one armor-plated woman.",
+      "fr": "Si je peux me permettre,vous êtes impressionnante."
     }
   },
   {
     "translation": {
       "en": "Army never should have picked a fight with you.",
-      "fr": "L'armée n'aurait jamais dû s'en prendre à vous."
+      "fr": "L'armée n'aurait jamais dûs'en prendre à vous."
     }
   },
   {
@@ -3577,7 +3571,7 @@
   },
   {
     "translation": {
-      "en": "Papa?",
+      "en": "[Collins] Papa?",
       "fr": "Papa ?"
     }
   },
@@ -3601,14 +3595,14 @@
   },
   {
     "translation": {
-      "en": "You saw what they did.  I'll take care of it.",
-      "fr": "- Tu as vu ça ? - Je m'en occupe."
+      "en": "You saw what they did. [Papa] I'll take care of it.",
+      "fr": "- Tu as vu ça ?- Je m'en occupe."
     }
   },
   {
     "translation": {
       "en": "Do not let them get to you now. Don't let them win.",
-      "fr": "Ne les laisse pas t'atteindre. Ne les laisse pas gagner."
+      "fr": "Ne les laisse pas t'atteindre.Ne les laisse pas gagner."
     }
   },
   {
@@ -3625,14 +3619,14 @@
   },
   {
     "translation": {
-      "en": "Nobody cares about the truth.  I care.",
-      "fr": "- Tout le monde se fiche de la vérité. - Pas moi."
+      "en": "Nobody cares about the truth. [Papa] I care.",
+      "fr": "- Tout le monde se fiche de la vérité.- Pas moi."
     }
   },
   {
     "translation": {
       "en": "I've lost everything. Everything I ever worked for.",
-      "fr": "J'ai perdu tout ce pour quoi j'ai travaillé."
+      "fr": "J'ai perdutout ce pour quoi j'ai travaillé."
     }
   },
   {
@@ -3649,8 +3643,8 @@
   },
   {
     "translation": {
-      "en": "Never stop fighting.  You got fight in you, kid.",
-      "fr": "- Ne jamais baisser les bras. - Tu sais te battre."
+      "en": "Never stop fighting. [Papa] You got fight in you, kid.",
+      "fr": "- Ne jamais baisser les bras.- Tu sais te battre."
     }
   },
   {
@@ -3661,7 +3655,7 @@
   },
   {
     "translation": {
-      "en": "Captain?",
+      "en": "[Shah] Captain?",
       "fr": "Capitaine ?"
     }
   },
@@ -3679,13 +3673,13 @@
   },
   {
     "translation": {
-      "en": "Not long. Fifteen minutes or so.",
+      "en": "[Shah] Not long. Fifteen minutes or so.",
       "fr": "Pas longtemps. Environ 15 minutes."
     }
   },
   {
     "translation": {
-      "en": "What now, asshole?",
+      "en": "[Collins] What now, asshole?",
       "fr": "Vous voulez quoi, sale con ?"
     }
   },
@@ -3703,14 +3697,14 @@
   },
   {
     "translation": {
-      "en": "You know, growing up, I never summered where I wintered.",
-      "fr": "Petit, je ne passais jamais l'été là où je passais l'hiver."
+      "en": "You know, growing up, I never summered where I wintered. [chuckles]",
+      "fr": "Petit, je ne passais jamais l'étélà où je passais l'hiver."
     }
   },
   {
     "translation": {
       "en": "I was either on a yacht in the Hamptons or skiing in Val d'Isère.",
-      "fr": "J'étais sur un yacht dans les Hamptons ou au ski à Val d'Isère."
+      "fr": "J'étais sur un yacht dans les Hamptonsou au ski à Val d'Isère."
     }
   },
   {
@@ -3722,25 +3716,25 @@
   {
     "translation": {
       "en": "I'm not complaining. I was the product of a failed society.",
-      "fr": "Je ne me plains pas. J'étais le produit d'une société malade."
+      "fr": "Je ne me plains pas.J'étais le produit d'une société malade."
     }
   },
   {
     "translation": {
       "en": "A society that consistently rewards money and ignores everything else.",
-      "fr": "Une société qui récompense l'argent et ignore tout le reste."
+      "fr": "Une société qui récompense l'argentet ignore tout le reste."
     }
   },
   {
     "translation": {
       "en": "What? You think my father became ambassador to the UN",
-      "fr": "Vous pensez que mon père est devenu ambassadeur"
+      "fr": "Vous pensez que mon pèreest devenu ambassadeur"
     }
   },
   {
     "translation": {
       "en": "because of any worthwhile diplomatic skills or because of his political donations?",
-      "fr": "grâce à ses talents de diplomate ou à cause de ses dons de campagne ?"
+      "fr": "grâce à ses talents de diplomateou à cause de ses dons de campagne ?"
     }
   },
   {
@@ -3752,7 +3746,7 @@
   {
     "translation": {
       "en": "We just figure because someone's rich that means they're smart.",
-      "fr": "On croit que la richesse est forcément liée à l'intelligence."
+      "fr": "On croit que la richesseest forcément liée à l'intelligence."
     }
   },
   {
@@ -3763,8 +3757,8 @@
   },
   {
     "translation": {
-      "en": "He inherited his money. - He didn't earn it. - God.",
-      "fr": "Il a hérité de son argent. Il ne l'a pas gagné."
+      "en": "He inherited his money. -He didn't earn it. -God.",
+      "fr": "Il a hérité de son argent.Il ne l'a pas gagné."
     }
   },
   {
@@ -3805,14 +3799,14 @@
   },
   {
     "translation": {
-      "en": "Thirty- six years.",
+      "en": "Thirty-six years.",
       "fr": "Pendant trente-six ans."
     }
   },
   {
     "translation": {
-      "en": "That's how he met your mom? When he was stationed in Spain?",
-      "fr": "Il a rencontré votre mère en Espagne, non ?"
+      "en": "[Kessel] That's how he met your mom? When he was stationed in Spain?",
+      "fr": "Il a rencontré votre mère en Espagne,non ?"
     }
   },
   {
@@ -3823,7 +3817,7 @@
   },
   {
     "translation": {
-      "en": "Every day.",
+      "en": "[Collins] Every day.",
       "fr": "Tous les jours."
     }
   },
@@ -3835,8 +3829,8 @@
   },
   {
     "translation": {
-      "en": "The Patriot's Valley Veterans Retirement Home.",
-      "fr": "La maison de retraite pour vétérans Patriot's Valley."
+      "en": "[Kessel] The Patriot's Valley Veterans Retirement Home.",
+      "fr": "La maison de retraite pour vétéransPatriot's Valley."
     }
   },
   {
@@ -3859,8 +3853,8 @@
   },
   {
     "translation": {
-      "en": "- He's got nothing to do with this! - Beg to differ.",
-      "fr": "- Il n'a rien à voir avec ça. - Au contraire."
+      "en": "-He's got nothing to do with this! -Beg to differ.",
+      "fr": "- Il n'a rien à voir avec ça.- Au contraire."
     }
   },
   {
@@ -3883,7 +3877,7 @@
   },
   {
     "translation": {
-      "en": "- Let's see if that's still valid. - Fuck you!",
+      "en": "-[Kessel] Let's see if that's still valid. -Fuck you!",
       "fr": "Voyons si ça tient toujours. Allez vous faire foutre !"
     }
   },
@@ -3896,7 +3890,7 @@
   {
     "translation": {
       "en": "This is what I was trained for. Psy ops. Military intelligence.",
-      "fr": "C'est ma formation des renseignements militaires."
+      "fr": "C'est ma formationdes renseignements militaires."
     }
   },
   {
@@ -3907,38 +3901,38 @@
   },
   {
     "translation": {
-      "en": "Let him go!",
+      "en": "[gasps] Let him go!",
       "fr": "Lâchez-le !"
     }
   },
   {
     "translation": {
       "en": "If you don't open the door, I will take apart your father piece by piece.",
-      "fr": "Si vous n'ouvrez pas, je vais démembrer votre père lentement."
+      "fr": "Si vous n'ouvrez pas,je vais démembrer votre père lentement."
     }
   },
   {
     "translation": {
-      "en": "- Fine. Have it your way. - No, no! Please. No, no, no!",
+      "en": "-Fine. Have it your way. -No, no! Please. No, no, no!",
       "fr": "Bon. Comme vous voudrez."
     }
   },
   {
     "translation": {
-      "en": "- Do it. - No, no, no! No, don't! No!",
-      "fr": "- Vas-y. - Pitié !"
+      "en": "-Do it. -No, no, no! No, don't! No!",
+      "fr": "- Vas-y.- Pitié !"
     }
   },
   {
     "translation": {
-      "en": "- You know I can't. - Yes, you can.",
-      "fr": "Je ne peux pas. Si. Vous pouvez choisir de mettre fin à tout ça."
+      "en": "-You know I can't. -[Kessel] Yes, you can.",
+      "fr": "Je ne peux pas. Si. Vous pouvez choisirde mettre fin à tout ça."
     }
   },
   {
     "translation": {
-      "en": "- No, I can't. - You can make this stop whenever you want.",
-      "fr": "Si. Vous pouvez choisir de mettre fin à tout ça."
+      "en": "-No, I can't. -You can make this stop whenever you want.",
+      "fr": "Si. Vous pouvez choisirde mettre fin à tout ça."
     }
   },
   {
@@ -3949,7 +3943,7 @@
   },
   {
     "translation": {
-      "en": "- Let me speak with him! - Captain, no.",
+      "en": "-Let me speak with him! -Captain, no.",
       "fr": "Capitaine, non."
     }
   },
@@ -3961,13 +3955,13 @@
   },
   {
     "translation": {
-      "en": "Papa?",
+      "en": "[Collins] Papa?",
       "fr": "Papa ?"
     }
   },
   {
     "translation": {
-      "en": "- JJ. - I can't…",
+      "en": "-JJ. -I can't…",
       "fr": "JJ."
     }
   },
@@ -3991,13 +3985,13 @@
   },
   {
     "translation": {
-      "en": "- Kill him. - No! No!",
-      "fr": "- Tue-le. - Non !"
+      "en": "-Kill him. -No! No!",
+      "fr": "- Tue-le.- Non !"
     }
   },
   {
     "translation": {
-      "en": "- No, please God. God! - No!",
+      "en": "-No, please God. God! -[gunshot] No!",
       "fr": "Non, pitié !"
     }
   },
@@ -4015,50 +4009,50 @@
   },
   {
     "translation": {
-      "en": "How did they know?",
+      "en": "[Shah] How did they know?",
       "fr": "Comment ont-ils su ?"
     }
   },
   {
     "translation": {
       "en": "How did they know to have people in Scottsdale?",
-      "fr": "Comment ont-il pu placer des hommes à Scottsdale ?"
+      "fr": "Comment ont-il pu placerdes hommes à Scottsdale ?"
     }
   },
   {
     "translation": {
       "en": "The Army signed your transfer order last night, right?",
-      "fr": "L'armée a signé votre ordre de transfert hier soir."
+      "fr": "L'armée a signévotre ordre de transfert hier soir."
     }
   },
   {
     "translation": {
-      "en": "Right.",
+      "en": "[panting] Right.",
       "fr": "Oui."
     }
   },
   {
     "translation": {
       "en": "Which means they couldn't have known until a few hours ago.",
-      "fr": "Ils n'ont pu savoir qu'il y a quelques heures."
+      "fr": "Ils n'ont pu savoirqu'il y a quelques heures."
     }
   },
   {
     "translation": {
-      "en": "You still don't get it? You're a pariah in your own ranks.",
+      "en": "[Kessel] You still don't get it? You're a pariah in your own ranks.",
       "fr": "Vous ne comprenez pas ? Vous êtes une paria."
     }
   },
   {
     "translation": {
       "en": "The decision to have you transferred to this godforsaken rig",
-      "fr": "Ils ont décidé de vous envoyer ici il y a trois jours."
+      "fr": "Ils ont décidé de vous envoyer iciil y a trois jours."
     }
   },
   {
     "translation": {
       "en": "was made three days ago. They only told you last night.",
-      "fr": "Ils ont décidé de vous envoyer ici il y a trois jours. Ils vous l'ont dit hier."
+      "fr": "Ils ont décidé de vous envoyer iciil y a trois jours. Ils vous l'ont dit hier."
     }
   },
   {
@@ -4069,7 +4063,7 @@
   },
   {
     "translation": {
-      "en": "- What are you doing? - Activating my insurance policy.",
+      "en": "-[sharp inhale] What are you doing? -Activating my insurance policy.",
       "fr": "Que faites-vous ? J'active mon assurance."
     }
   },
@@ -4088,7 +4082,7 @@
   {
     "translation": {
       "en": "That's the HVAR code. The emergency sinking protocol.",
-      "fr": "C'est le code HVAR. Le protocole de naufrage d'urgence."
+      "fr": "C'est le code HVAR.Le protocole de naufrage d'urgence."
     }
   },
   {
@@ -4099,8 +4093,8 @@
   },
   {
     "translation": {
-      "en": "Our telemetry's saying SBX- 1's asset removal protocol just activated.",
-      "fr": "Le protocole de naufrage d'urgence de SBX-1 est activé."
+      "en": "Our telemetry's saying SBX-1's asset removal protocol just activated.",
+      "fr": "Le protocole de naufrage d'urgencede SBX-1 est activé."
     }
   },
   {
@@ -4111,13 +4105,13 @@
   },
   {
     "translation": {
-      "en": "He's going to sink us.  He's going to sink us using our own scuttling protocol.",
-      "fr": "Il va nous couler avec notre protocole de sabordage."
+      "en": "He's going to sink us. [gasps] He's going to sink us using our own scuttling protocol.",
+      "fr": "Il va nous couleravec notre protocole de sabordage."
     }
   },
   {
     "translation": {
-      "en": "High value asset removal protocol activated.",
+      "en": "[computer voice] High value asset removal protocol activated.",
       "fr": "Protocole de naufrage activé."
     }
   },
@@ -4130,12 +4124,12 @@
   {
     "translation": {
       "en": "As long as we are above the surface, we can still fire our missiles.",
-      "fr": "Tant qu'on est à la surface, on peut tirer."
+      "fr": "Tant qu'on est à la surface,on peut tirer."
     }
   },
   {
     "translation": {
-      "en": "Thirteen minutes until total vessel submersion.",
+      "en": "[computer voice] Thirteen minutes until total vessel submersion.",
       "fr": "Treize minutes avant la submersion totale."
     }
   },
@@ -4153,7 +4147,7 @@
   },
   {
     "translation": {
-      "en": "Down where? Into the hulls?",
+      "en": "[Shah] Down where? Into the hulls?",
       "fr": "Dans la coque ?"
     }
   },
@@ -4189,7 +4183,7 @@
   },
   {
     "translation": {
-      "en": "You're running out of time. We clock it at 13 minutes.",
+      "en": "[Dyson] You're running out of time. We clock it at 13 minutes.",
       "fr": "Le temps presse. On a estimé 13 minutes."
     }
   },
@@ -4201,13 +4195,13 @@
   },
   {
     "translation": {
-      "en": "What's the ETA on the SEAL team? Twenty- five.",
-      "fr": "- Les SEAL arrivent ? - Dans 25 minutes."
+      "en": "What's the ETA on the SEAL team? Twenty-five.",
+      "fr": "- Les SEAL arrivent ?- Dans 25 minutes."
     }
   },
   {
     "translation": {
-      "en": "Damn. I'll call you back.",
+      "en": "[sighs] Damn. I'll call you back.",
       "fr": "C'est pas vrai. Je vous rappelle."
     }
   },
@@ -4237,7 +4231,7 @@
   },
   {
     "translation": {
-      "en": "You got this, Rahul.",
+      "en": "[Shah] You got this, Rahul.",
       "fr": "Tu peux le faire, Rahul."
     }
   },
@@ -4285,8 +4279,8 @@
   },
   {
     "translation": {
-      "en": "Twenty- two minutes out. Ready your weapons.",
-      "fr": "On y est dans 22 minutes. Préparez vos armes."
+      "en": "[pilot] Twenty-two minutes out. Ready your weapons.",
+      "fr": "On y est dans 22 minutes.Préparez vos armes."
     }
   },
   {
@@ -4309,8 +4303,8 @@
   },
   {
     "translation": {
-      "en": "- You just have to slow it down. - Copy that.",
-      "fr": "- Il faut juste gagner du temps. - Reçu."
+      "en": "-[Collins] You just have to slow it down. -[Shah] Copy that.",
+      "fr": "- Il faut juste gagner du temps.- Reçu."
     }
   },
   {
@@ -4321,14 +4315,14 @@
   },
   {
     "translation": {
-      "en": "Recalculating. Recalculating.",
+      "en": "[computer voice] Recalculating. Recalculating.",
       "fr": "Calcul en cours."
     }
   },
   {
     "translation": {
-      "en": "- 12 minutes 11 seconds until… - You just bought us two minutes.",
-      "fr": "- 12 minutes et 11 secondes… - Ça marche. Deux minutes de plus."
+      "en": "-12 minutes 11 seconds until… -[Collins] You just bought us two minutes.",
+      "fr": "- 12 minutes et 11 secondes…- Ça marche. Deux minutes de plus."
     }
   },
   {
@@ -4339,7 +4333,7 @@
   },
   {
     "translation": {
-      "en": "Hell, yeah. I'm an ass- kicking, valve- closing machine.",
+      "en": "Hell, yeah. I'm an ass-kicking, valve-closing machine.",
       "fr": "Je suis une machine à fermer des valves !"
     }
   },
@@ -4351,8 +4345,8 @@
   },
   {
     "translation": {
-      "en": "- Oh. Shit. - What?",
-      "fr": "- Merde ! - Quoi ?"
+      "en": "-Oh. Shit. -What?",
+      "fr": "- Merde !- Quoi ?"
     }
   },
   {
@@ -4369,7 +4363,7 @@
   },
   {
     "translation": {
-      "en": "It's too late.",
+      "en": "[Shah] It's too late.",
       "fr": "C'est trop tard."
     }
   },
@@ -4393,7 +4387,7 @@
   },
   {
     "translation": {
-      "en": "Recalculating. Recalculating.",
+      "en": "[computer voice] Recalculating. Recalculating.",
       "fr": "Calcul en cours."
     }
   },
@@ -4447,7 +4441,7 @@
   },
   {
     "translation": {
-      "en": "Shah can't come to the phone right now.",
+      "en": "[Beaver] Shah can't come to the phone right now.",
       "fr": "Shah ne peut pas répondre au téléphone."
     }
   },
@@ -4478,7 +4472,7 @@
   {
     "translation": {
       "en": "To be honest, I'd written him off. His psych evaluation said he'd fold under pressure.",
-      "fr": "Je ne croyais pas qu'il serait un facteur. Il était censé plier sous la pression."
+      "fr": "Je ne croyais pas qu'il serait un facteur.Il était censé plier sous la pression."
     }
   },
   {
@@ -4501,7 +4495,7 @@
   },
   {
     "translation": {
-      "en": "ZSB, Zulu, Sierra, Bravo, 1- 9- 9- 6.",
+      "en": "ZSB, Zulu, Sierra, Bravo, 1-9-9-6.",
       "fr": "ZSB, Zulu Sierra Bravo, 1-9-9-6."
     }
   },
@@ -4532,7 +4526,7 @@
   {
     "translation": {
       "en": "Then you won't mind if I show it to the world.",
-      "fr": "Alors ça ne vous dérangera pas si je le montre."
+      "fr": "Alors ça ne vous dérangera passi je le montre."
     }
   },
   {
@@ -4561,38 +4555,38 @@
   },
   {
     "translation": {
-      "en": "I should have known.",
+      "en": "I should have known. [inhales]",
       "fr": "J'aurais dû m'en douter."
     }
   },
   {
     "translation": {
       "en": "You're not a nuclear terrorist or a fanatic. You've been paid for this.",
-      "fr": "Vous n'êtes pas un fanatique. On vous paye pour cette mission."
+      "fr": "Vous n'êtes pas un fanatique.On vous paye pour cette mission."
     }
   },
   {
     "translation": {
       "en": "Hey, this is my operation. I'm the one in charge.",
-      "fr": "C'est mon opération. C'est moi qui commande."
+      "fr": "C'est mon opération.C'est moi qui commande."
     }
   },
   {
     "translation": {
       "en": "So what if I'm getting paid? Huh? Am I wrong?",
-      "fr": "Et alors, je n'ai pas le droit d'être payé ?"
+      "fr": "Et alors,je n'ai pas le droit d'être payé ?"
     }
   },
   {
     "translation": {
       "en": "I'm destroying a system that tried to destroy you.",
-      "fr": "Je détruis le système qui a voulu vous détruire."
+      "fr": "Je détruis le systèmequi a voulu vous détruire."
     }
   },
   {
     "translation": {
       "en": "I'm making sure what happened to you doesn't happen to other women.",
-      "fr": "Je m'assure que ça n'arrive plus jamais à aucune femme !"
+      "fr": "Je m'assure que ça n'arrive plus jamaisà aucune femme !"
     }
   },
   {
@@ -4604,7 +4598,7 @@
   {
     "translation": {
       "en": "What are you doing? Who's paying you?",
-      "fr": "- Qu'est-ce que vous faites ? - Qui vous paie ?"
+      "fr": "- Qu'est-ce que vous faites ?- Qui vous paie ?"
     }
   },
   {
@@ -4640,13 +4634,13 @@
   {
     "translation": {
       "en": "Please stop taping the window. For me?",
-      "fr": "vous pouvez arrêter de scotcher la fenêtre ?"
+      "fr": "vous pouvez arrêter de scotcherla fenêtre ?"
     }
   },
   {
     "translation": {
       "en": "You paid off a sub captain. Where is he taking you?",
-      "fr": "Vous avez payé un capitaine. Il vous emmène où ?"
+      "fr": "Vous avez payé un capitaine.Il vous emmène où ?"
     }
   },
   {
@@ -4658,13 +4652,13 @@
   {
     "translation": {
       "en": "Someplace you can get a new name, a new face?",
-      "fr": "Quelque part où vous pourrez changer de nom et de visage ?"
+      "fr": "Quelque part où vous pourrezchanger de nom et de visage ?"
     }
   },
   {
     "translation": {
       "en": "Somewhere you can spend your blood money?",
-      "fr": "Où vous pourrez dépenser votre argent sale ?"
+      "fr": "Où vous pourrez dépenservotre argent sale ?"
     }
   },
   {
@@ -4693,50 +4687,50 @@
   },
   {
     "translation": {
-      "en": "Bullshit. I saw your file. You're just a total fucking psycho.",
-      "fr": "Conneries. J'ai lu votre dossier. Vous êtes un psychopathe."
+      "en": "[Collins] Bullshit. I saw your file. You're just a total fucking psycho.",
+      "fr": "Conneries. J'ai lu votre dossier.Vous êtes un psychopathe."
     }
   },
   {
     "translation": {
-      "en": "- Thank you. - For what?",
-      "fr": "- Merci. - De quoi ?"
+      "en": "-Thank you. -[Kessel] For what?",
+      "fr": "- Merci.- De quoi ?"
     }
   },
   {
     "translation": {
-      "en": "- For showing me your weakness. - Oh, yeah. What's that?",
-      "fr": "- De m'avoir montré votre faiblesse. - À savoir ?"
+      "en": "-[Collins] For showing me your weakness. -Oh, yeah. What's that?",
+      "fr": "- De m'avoir montré votre faiblesse.- À savoir ?"
     }
   },
   {
     "translation": {
-      "en": "You want to get out of here alive.",
+      "en": "[Collins] You want to get out of here alive.",
       "fr": "Vous voulez partir vivant."
     }
   },
   {
     "translation": {
-      "en": "You know what else I want? I want to hurt you, JJ.",
-      "fr": "Vous savez ce que je veux d'autre ? Vous faire du mal."
+      "en": "[Kessel] You know what else I want? I want to hurt you, JJ.",
+      "fr": "Vous savez ce que je veux d'autre ?Vous faire du mal."
     }
   },
   {
     "translation": {
       "en": "I want to cut off your fingers. I want you to beg me to kill you!",
-      "fr": "Vous couper les doigts, que vous me suppliiez de vous tuer."
+      "fr": "Vous couper les doigts,que vous me suppliiez de vous tuer."
     }
   },
   {
     "translation": {
       "en": "Cabrón.",
-      "fr": "- Cabrón. - C'est vous, JJ, qui avez choisi de…"
+      "fr": "- Cabrón.- C'est vous, JJ, qui avez choisi de…"
     }
   },
   {
     "translation": {
       "en": "Good job cutting the live feed. SEALS are 17 minutes out.",
-      "fr": "Bravo pour la diffusion. Les SEAL sont à 17 minutes."
+      "fr": "Bravo pour la diffusion.Les SEAL sont à 17 minutes."
     }
   },
   {
@@ -4754,7 +4748,7 @@
   {
     "translation": {
       "en": "And the second it goes under, these assholes will launch all their nukes.",
-      "fr": "Dès qu'il aura coulé, ils enverront tous leurs missiles."
+      "fr": "Dès qu'il aura coulé,ils enverront tous leurs missiles."
     }
   },
   {
@@ -4771,37 +4765,37 @@
   },
   {
     "translation": {
-      "en": "- But it's a little counterintuitive. - Let's hear it, Captain.",
+      "en": "-But it's a little counterintuitive. -[President] Let's hear it, Captain.",
       "fr": "C'est un peu contre-intuitif. On vous écoute, capitaine."
     }
   },
   {
     "translation": {
       "en": "I let them take the command center. What? That's precisely what we don't want to happen.",
-      "fr": "- Je leur laisse le centre opérations. - C'est l'inverse de ce qu'on veut."
+      "fr": "- Je leur laisse le centre opérations.- C'est l'inverse de ce qu'on veut."
     }
   },
   {
     "translation": {
       "en": "This rig is going down, and when it sinks, they win.",
-      "fr": "Dès que le navire aura coulé, ils auront gagné."
+      "fr": "Dès que le navire aura coulé,ils auront gagné."
     }
   },
   {
     "translation": {
       "en": "We have to force them to fire the missiles before that happens. And then what?",
-      "fr": "- On doit les forcer à tirer avant ça. - Et ensuite ?"
+      "fr": "- On doit les forcer à tirer avant ça.- Et ensuite ?"
     }
   },
   {
     "translation": {
       "en": "And then I retake the command center and intercept their nukes.",
-      "fr": "Ensuite, je reprends le centre et j'intercepte les missiles."
+      "fr": "Ensuite, je reprends le centreet j'intercepte les missiles."
     }
   },
   {
     "translation": {
-      "en": "Inside 12 minutes?",
+      "en": "[Dyson] Inside 12 minutes?",
       "fr": "En 12 minutes ?"
     }
   },
@@ -4813,7 +4807,7 @@
   },
   {
     "translation": {
-      "en": "Hold on.",
+      "en": "[Dyson] Hold on.",
       "fr": "Attendez."
     }
   },
@@ -4850,13 +4844,13 @@
   {
     "translation": {
       "en": "To give up that command center to a superior force",
-      "fr": "Abandonner le C.O. à une force supérieure"
+      "fr": "Abandonner le C.O.à une force supérieure"
     }
   },
   {
     "translation": {
       "en": "with no certainty of regaining it is what we refer to as a negative outcome inducing event.",
-      "fr": "sans garantie de le récupérer risquerait de causer un résultat négatif."
+      "fr": "sans garantie de le récupérerrisquerait de causer un résultat négatif."
     }
   },
   {
@@ -4868,7 +4862,7 @@
   {
     "translation": {
       "en": "Are you willing to gamble every life in America on your ability to retake the center?",
-      "fr": "Vous êtes prête à parier la vie de vos concitoyens sur ce plan ?"
+      "fr": "Vous êtes prête à parier la viede vos concitoyens sur ce plan ?"
     }
   },
   {
@@ -4880,13 +4874,13 @@
   {
     "translation": {
       "en": "I'm sorry. I cannot endorse such a move.",
-      "fr": "Je suis désolé. Je ne peux pas cautionner ça."
+      "fr": "Je suis désolé.Je ne peux pas cautionner ça."
     }
   },
   {
     "translation": {
       "en": "Listen, genius. You're saying my plan is running at 14%?",
-      "fr": "Écoutez, le génie. Mon plan a 14 % de chances de réussir ?"
+      "fr": "Écoutez, le génie.Mon plan a 14 % de chances de réussir ?"
     }
   },
   {
@@ -4898,13 +4892,13 @@
   {
     "translation": {
       "en": "You haven't been beat up, strangled, or shot defending this rig today.",
-      "fr": "On ne vous a pas tabassé, étranglé ni tiré dessus aujourd'hui."
+      "fr": "On ne vous a pas tabassé, étrangléni tiré dessus aujourd'hui."
     }
   },
   {
     "translation": {
       "en": "So I think you'll find I'm kind of fucking motivated here.",
-      "fr": "On peut dire que mes motivations sont pures, putain."
+      "fr": "On peut direque mes motivations sont pures, putain."
     }
   },
   {
@@ -4922,7 +4916,7 @@
   {
     "translation": {
       "en": "Half the people here think you're crazy. The other half think you're a rock star.",
-      "fr": "La moitié des gens ici vous croient folle. L'autre moitié vous admire."
+      "fr": "La moitié des gens ici vous croient folle.L'autre moitié vous admire."
     }
   },
   {
@@ -4939,20 +4933,20 @@
   },
   {
     "translation": {
-      "en": "Still there?",
+      "en": "[Collins] Still there?",
       "fr": "Vous êtes là ?"
     }
   },
   {
     "translation": {
-      "en": "- What do you think? - I think you're getting nervous.",
-      "fr": "À votre avis ? Vous stressez. Si vous échouez, vos partenaires vous tueront."
+      "en": "-What do you think? -[Collins] I think you're getting nervous.",
+      "fr": "À votre avis ? Vous stressez. Si vous échouez,vos partenaires vous tueront."
     }
   },
   {
     "translation": {
       "en": "If you fail here, your partners will kill you.",
-      "fr": "Vous stressez. Si vous échouez, vos partenaires vous tueront."
+      "fr": "Vous stressez. Si vous échouez,vos partenaires vous tueront."
     }
   },
   {
@@ -4963,7 +4957,7 @@
   },
   {
     "translation": {
-      "en": "Intercom off.",
+      "en": "[whispers] Intercom off.",
       "fr": "Coupe l'interphone."
     }
   },
@@ -4981,7 +4975,7 @@
   },
   {
     "translation": {
-      "en": "About 30 seconds.",
+      "en": "[Beaver] About 30 seconds.",
       "fr": "À 30 secondes."
     }
   },
@@ -4999,19 +4993,19 @@
   },
   {
     "translation": {
-      "en": "Relax. I'm there.",
+      "en": "[Beaver] Relax. I'm there.",
       "fr": "Relax, j'y suis."
     }
   },
   {
     "translation": {
       "en": "I ain't see her. She gone.",
-      "fr": "Je ne la vois nulle part. Elle est partie."
+      "fr": "Je ne la vois nulle part.Elle est partie."
     }
   },
   {
     "translation": {
-      "en": "What do you mean, gone? Where is she?",
+      "en": "[Kessel] What do you mean, gone? Where is she?",
       "fr": "Comment ça, partie ? Où ça ?"
     }
   },
@@ -5023,50 +5017,50 @@
   },
   {
     "translation": {
-      "en": "What? She's on the roof.",
-      "fr": "- Quoi ? - Elle est sur le toit."
+      "en": "[Kessel] What? She's on the roof.",
+      "fr": "- Quoi ?- Elle est sur le toit."
     }
   },
   {
     "translation": {
       "en": "Attention all missile teams, we have control of the interceptor.",
-      "fr": "Votre attention. Nous contrôlons l'intercepteur."
+      "fr": "Votre attention.Nous contrôlons l'intercepteur."
     }
   },
   {
     "translation": {
       "en": "Fire all missiles. Repeat, fire all missiles.",
-      "fr": "Tirez tous les missiles. Je répète, tirez tous les missiles."
+      "fr": "Tirez tous les missiles.Je répète, tirez tous les missiles."
     }
   },
   {
     "translation": {
-      "en": "Multiple missile launch detected. Multiple missile launch detected.",
+      "en": "[computer voice] Multiple missile launch detected. Multiple missile launch detected.",
       "fr": "Multiples lancements de missiles détectés."
     }
   },
   {
     "translation": {
-      "en": "Woo! Let's go, baby. Light 'em up!",
+      "en": "[Beaver] Woo! Let's go, baby. Light 'em up!",
       "fr": "C'est parti ! Fais-les péter !"
     }
   },
   {
     "translation": {
-      "en": "Targets acquired. Targets acquired.",
+      "en": "[computer voice] Targets acquired. Targets acquired.",
       "fr": "Cibles confirmées."
     }
   },
   {
     "translation": {
       "en": "Seattle, San Francisco, Las Vegas, Denver, St. Louis, Memphis,",
-      "fr": "Seattle, San Francisco, Las Vegas, Denver, Saint-Louis, Memphis,"
+      "fr": "Seattle, San Francisco,Las Vegas, Denver, Saint-Louis, Memphis,"
     }
   },
   {
     "translation": {
       "en": "Chicago, Cincinnati, Atlanta, Miami, Washington DC,",
-      "fr": "Chicago, Cincinnati, Atlanta, Miami, Washington,"
+      "fr": "Chicago, Cincinnati,Atlanta, Miami, Washington,"
     }
   },
   {
@@ -5083,19 +5077,19 @@
   },
   {
     "translation": {
-      "en": "Come make ten million, he says.",
-      "fr": "Viens gagner dix millions."
+      "en": "\"Come make ten million,\" he says.",
+      "fr": "\"Viens gagner dix millions."
     }
   },
   {
     "translation": {
-      "en": "Buy yourself a private island, he says. Piece of cake.",
-      "fr": "Tu t'achèteras une île privée. Ce sera facile."
+      "en": "\"Buy yourself a private island,\" he says. \"Piece of cake.\"",
+      "fr": "\"Tu t'achèteras une île privée.Ce sera facile.\""
     }
   },
   {
     "translation": {
-      "en": "Oh, man.",
+      "en": "Oh, man. [inhales]",
       "fr": "Sérieux."
     }
   },
@@ -5125,20 +5119,20 @@
   },
   {
     "translation": {
-      "en": "Where are you, darlin'?",
+      "en": "[Beaver] Where are you, darlin'?",
       "fr": "Où es-tu, chérie ?"
     }
   },
   {
     "translation": {
-      "en": "Come out, come out, wherever you are.",
+      "en": "[in singsong] Come out, come out, wherever you are.",
       "fr": "Sors de ta cachette !"
     }
   },
   {
     "translation": {
       "en": "Apologies, ladies and gentlemen, for that rude interruption,",
-      "fr": "Cher public, mes excuses pour cette interruption."
+      "fr": "Cher public,mes excuses pour cette interruption."
     }
   },
   {
@@ -5150,7 +5144,7 @@
   {
     "translation": {
       "en": "I have retaken this command center and the nukes are on their way.",
-      "fr": "j'ai repris le centre opérations et les missiles sont en route."
+      "fr": "j'ai repris le centre opérationset les missiles sont en route."
     }
   },
   {
@@ -5185,14 +5179,20 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in eight minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 8 minutes."
+      "en": "[computer voice] Intercept launch expires in eight minutes.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 8 minutes."
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in seven minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 7 minutes."
+      "en": "[whispers] Ivan.",
+      "fr": "Ivan."
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in seven minutes.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 7 minutes."
     }
   },
   {
@@ -5203,14 +5203,14 @@
   },
   {
     "translation": {
-      "en": "Can't let you do that, darlin'.",
+      "en": "[Beaver] Can't let you do that, darlin'.",
       "fr": "Je ne peux pas te laisser faire, chérie."
     }
   },
   {
     "translation": {
       "en": "Let me go, Beaver. You don't want this.",
-      "fr": "Lâche-moi, Beaver. Tu ne veux pas faire ça."
+      "fr": "Lâche-moi, Beaver.Tu ne veux pas faire ça."
     }
   },
   {
@@ -5233,7 +5233,7 @@
   },
   {
     "translation": {
-      "en": "I'm on the next submarine out of here.",
+      "en": "I'm on the next submarine out of here. [chuckles]",
       "fr": "Je pars dans le prochain sous-marin."
     }
   },
@@ -5245,13 +5245,13 @@
   },
   {
     "translation": {
-      "en": "He's gone.",
+      "en": "He's gone. [panting]",
       "fr": "Il est parti."
     }
   },
   {
     "translation": {
-      "en": "- - Bullshit.",
+      "en": "-[Collins groans] -[Beaver] Bullshit.",
       "fr": "Tu mens."
     }
   },
@@ -5263,13 +5263,13 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in five minutes.",
-      "fr": "Fermeture fenêtre de lancement dans 5 minutes."
+      "en": "[computer voice] Intercept launch expires in five minutes.",
+      "fr": "Fermeture fenêtre de lancementdans 5 minutes."
     }
   },
   {
     "translation": {
-      "en": "Really think a little bit of razor wire is gonna kill me?",
+      "en": "[snickers] Really think a little bit of razor wire is gonna kill me?",
       "fr": "Tu penses que des barbelés vont me tuer ?"
     }
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "translation": {
-      "en": "JJ… JJ, come on.",
+      "en": "[father] JJ… JJ, come on.",
       "fr": "JJ. Allez, JJ."
     }
   },
@@ -5305,14 +5305,14 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in three minutes.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans trois minutes."
+      "en": "[computer voice] Intercept launch expires in three minutes.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans trois minutes."
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 60 seconds.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans une minute."
+      "en": "[computer voice] Intercept launch expires in 60 seconds.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans une minute."
     }
   },
   {
@@ -5335,31 +5335,31 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 40 seconds.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 40 secondes."
+      "en": "[computer voice] Intercept launch expires in 40 seconds.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 40 secondes."
     }
   },
   {
     "translation": {
-      "en": "Don't give up. Don't give up.",
+      "en": "[panting] Don't give up. Don't give up.",
       "fr": "N'abandonne pas."
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 30 seconds.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 30 secondes."
+      "en": "[computer voice] Intercept launch expires in 30 seconds.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 30 secondes."
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 20 seconds.",
-      "fr": "Fermeture fenêtre de lancement intercepteur dans 20 secondes."
+      "en": "[computer voice] Intercept launch expires in 20 seconds.",
+      "fr": "Fermeture fenêtre de lancementintercepteur dans 20 secondes."
     }
   },
   {
     "translation": {
-      "en": "Ten seconds. Nine, eight, seven, six,",
+      "en": "[computer voice] Ten seconds. Nine, eight, seven, six,",
       "fr": "Dix secondes. Neuf, huit, sept, six,"
     }
   },
@@ -5371,7 +5371,7 @@
   },
   {
     "translation": {
-      "en": "Interceptors launched.",
+      "en": "[computer voice] Interceptors launched.",
       "fr": "Intercepteurs lancés."
     }
   },
@@ -5383,7 +5383,7 @@
   },
   {
     "translation": {
-      "en": "Multiple missile interception complete.",
+      "en": "[computer voice] Multiple missile interception complete.",
       "fr": "Tous les missiles ont été interceptés."
     }
   },
@@ -5395,7 +5395,7 @@
   },
   {
     "translation": {
-      "en": "Look at you.",
+      "en": "[Kessel] Look at you.",
       "fr": "Regardez-vous."
     }
   },
@@ -5414,19 +5414,19 @@
   {
     "translation": {
       "en": "But I brought America to the brink, and I'll do it again.",
-      "fr": "Mais j'ai poussé l'Amérique au bord du gouffre, et je le referai."
+      "fr": "Mais j'ai poussé l'Amériqueau bord du gouffre, et je le referai."
     }
   },
   {
     "translation": {
       "en": "You may have won the battle, but not the war.",
-      "fr": "Vous avez gagné la bataille, mais pas la guerre !"
+      "fr": "Vous avez gagné la bataille,mais pas la guerre !"
     }
   },
   {
     "translation": {
-      "en": "Told you. War's not over yet.",
-      "fr": "Je vous ai dit que la guerre n'était pas finie."
+      "en": "[panting] Told you. War's not over yet.",
+      "fr": "Je vous ai ditque la guerre n'était pas finie."
     }
   },
   {
@@ -5437,50 +5437,50 @@
   },
   {
     "translation": {
-      "en": "There's my ride.",
+      "en": "[Kessel] There's my ride.",
       "fr": "Ils viennent me chercher."
     }
   },
   {
     "translation": {
-      "en": "There's no room for you.",
+      "en": "[Kessel] There's no room for you.",
       "fr": "Il n'y a pas de place pour vous."
     }
   },
   {
     "translation": {
-      "en": "I've arrived. I can see him.",
+      "en": "[man 1, in Russian] I've arrived. I can see him.",
       "fr": "Je suis arrivé. Je le vois."
     }
   },
   {
     "translation": {
-      "en": "You know what to do.",
+      "en": "[man 2, in Russian] You know what to do.",
       "fr": "Tu sais quoi faire."
     }
   },
   {
     "translation": {
-      "en": "What about the woman?",
+      "en": "[man 1] What about the woman?",
       "fr": "Et la femme ?"
     }
   },
   {
     "translation": {
-      "en": "Your choice.",
+      "en": "[man 2] Your choice.",
       "fr": "À toi de voir."
     }
   },
   {
     "translation": {
-      "en": "Target in sight. We'll arrive in 30 seconds.",
-      "fr": "Cible en vue. On y est dans 30 secondes."
+      "en": "[pilot, in English] Target in sight. We'll arrive in 30 seconds.",
+      "fr": "Cible en vue.On y est dans 30 secondes."
     }
   },
   {
     "translation": {
       "en": "Contact. Russian submarine looks like it's bugging out.",
-      "fr": "Contact. Le sous-marin russe a l'air de partir."
+      "fr": "Contact.Le sous-marin russe a l'air de partir."
     }
   },
   {
@@ -5498,7 +5498,7 @@
   {
     "translation": {
       "en": "They told me you were awake. It is good to see you, Captain.",
-      "fr": "On m'a dit que vous étiez réveillée. C'est bon de vous voir, capitaine."
+      "fr": "On m'a dit que vous étiez réveillée.C'est bon de vous voir, capitaine."
     }
   },
   {
@@ -5509,32 +5509,32 @@
   },
   {
     "translation": {
-      "en": "Greely's back up. Interceptors on standby.",
-      "fr": "C'est réglé, les intercepteurs sont opérationnels."
+      "en": "[President] Greely's back up. Interceptors on standby.",
+      "fr": "C'est réglé,les intercepteurs sont opérationnels."
     }
   },
   {
     "translation": {
-      "en": "And we're going to replace SBX- 1 as soon as possible,",
-      "fr": "Nous allons remplacer SBX-1 dès que possible."
+      "en": "And we're going to replace SBX-1 as soon as possible,",
+      "fr": "Nous allons remplacer SBX-1dès que possible."
     }
   },
   {
     "translation": {
       "en": "but don't worry, nobody is going to send you back out there.",
-      "fr": "Mais pas d'inquiétude, on ne vous y renverra pas."
+      "fr": "Mais pas d'inquiétude,on ne vous y renverra pas."
     }
   },
   {
     "translation": {
       "en": "In fact, I think a soldier of your caliber",
-      "fr": "À vrai dire, je pense qu'une soldate de votre calibre"
+      "fr": "À vrai dire,je pense qu'une soldate de votre calibre"
     }
   },
   {
     "translation": {
       "en": "would be better put to use on my National Security staff.",
-      "fr": "serait plus utile dans mon Conseil de sécurité nationale."
+      "fr": "serait plus utiledans mon Conseil de sécurité nationale."
     }
   },
   {
@@ -5545,7 +5545,7 @@
   },
   {
     "translation": {
-      "en": "I'll take that as a yes.",
+      "en": "[President] I'll take that as a yes.",
       "fr": "Je prends ça comme un oui."
     }
   },
@@ -5563,7 +5563,7 @@
   },
   {
     "translation": {
-      "en": "- Papa? - JJ.",
+      "en": "-Papa? -JJ.",
       "fr": "Papa ? JJ."
     }
   },
@@ -5575,8 +5575,8 @@
   },
   {
     "translation": {
-      "en": "Turns out your dad has some very well- armed Army buddies",
-      "fr": "Votre père a des anciens collègues bien armés"
+      "en": "Turns out your dad has some very well-armed Army buddies",
+      "fr": "Votre pèrea des anciens collègues bien armés"
     }
   },
   {
@@ -5600,13 +5600,13 @@
   {
     "translation": {
       "en": "Saved my finger. Lost my door.",
-      "fr": "Ils ont sauvé mon doigt, mais ils ont cassé ma porte."
+      "fr": "Ils ont sauvé mon doigt,mais ils ont cassé ma porte."
     }
   },
   {
     "translation": {
       "en": "Well, I'll expect you to report to the White House next week, Captain.",
-      "fr": "Je vous attends à la Maison-Blanche la semaine prochaine, capitaine."
+      "fr": "Je vous attends à la Maison-Blanchela semaine prochaine, capitaine."
     }
   },
   {
@@ -5629,8 +5629,8 @@
   },
   {
     "translation": {
-      "en": "SEAL team found him swimming around the wreckage of SBX- 1.",
-      "fr": "L'équipe des SEAL l'a trouvée près des débris de SBX-1."
+      "en": "SEAL team found him swimming around the wreckage of SBX-1.",
+      "fr": "L'équipe des SEALl'a trouvée près des débris de SBX-1."
     }
   },
   {
@@ -5641,14 +5641,14 @@
   },
   {
     "translation": {
-      "en": "I heard what happened. I'm sorry.",
+      "en": "[father sighs] I heard what happened. I'm sorry.",
       "fr": "J'ai appris ce qui s'est passé. Navré."
     }
   },
   {
     "translation": {
       "en": "You know, sometimes it's… it's best to talk about those we've lost so we don't forget.",
-      "fr": "Parfois, c'est mieux de parler des disparus pour ne pas les oublier."
+      "fr": "Parfois, c'est mieux de parlerdes disparus pour ne pas les oublier."
     }
   },
   {
@@ -5659,14 +5659,14 @@
   },
   {
     "translation": {
-      "en": "Rahul?",
+      "en": "[father] Rahul?",
       "fr": "Rahul."
     }
   },
   {
     "translation": {
-      "en": "He liked poker…  I see.",
-      "fr": "- Il aimait jouer au poker. - Je vois."
+      "en": "He liked poker… [father] I see.",
+      "fr": "- Il aimait jouer au poker.- Je vois."
     }
   },
   {

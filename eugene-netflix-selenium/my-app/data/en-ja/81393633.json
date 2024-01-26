@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "You! You've got enough spark in you left to walk.",
-      "ja": "まだ残ったスパークで 歩けるだろ"
+      "en": "[Seeker 1] You! You've got enough spark in you left to walk.",
+      "ja": "まだ残ったスパークで歩けるだろ"
     }
   },
   {
     "translation": {
-      "en": "- On your feet. - No.",
+      "en": "-On your feet. -[Decepticon] No. [groans]",
       "ja": "自分で立て"
     }
   },
@@ -19,13 +19,13 @@
   },
   {
     "translation": {
-      "en": "You're the only mistake I see here.",
+      "en": "[Seeker 1] You're the only mistake I see here.",
       "ja": "お前が間違いだ"
     }
   },
   {
     "translation": {
-      "en": "Time for the arena.",
+      "en": "[Seeker 2] Time for the arena.",
       "ja": "闘技場へ行くぞ"
     }
   },
@@ -43,7 +43,7 @@
   },
   {
     "translation": {
-      "en": "- - Move!",
+      "en": "-[weapons cock] -[Seeker 1] Move!",
       "ja": "動け"
     }
   },
@@ -61,7 +61,7 @@
   },
   {
     "translation": {
-      "en": "Imprisoning their own?",
+      "en": "[Red Alert] Imprisoning their own?",
       "ja": "仲間を収容か？"
     }
   },
@@ -79,7 +79,7 @@
   },
   {
     "translation": {
-      "en": "You're free.",
+      "en": "[Elita] You're free.",
       "ja": "もう自由よ"
     }
   },
@@ -91,26 +91,26 @@
   },
   {
     "translation": {
-      "en": "Go!",
+      "en": "[sighs] Go!",
       "ja": "早く"
     }
   },
   {
     "translation": {
-      "en": "Since my days working in the mines,",
+      "en": "[Megatron] Since my days working in the mines,",
       "ja": "かつて俺は鉱山で働いていた"
     }
   },
   {
     "translation": {
       "en": "to my rise from the arena, to my revolution I have fought…",
-      "ja": "そして闘技場で蜂起し 革命のために戦ってきたが"
+      "ja": "そして闘技場で蜂起し革命のために戦ってきたが"
     }
   },
   {
     "translation": {
       "en": "I fought for Cybertron.",
-      "ja": "すべては サイバトロン星のためだった"
+      "ja": "すべてはサイバトロン星のためだった"
     }
   },
   {
@@ -121,50 +121,50 @@
   },
   {
     "translation": {
-      "en": "And now I ask myself… For what?",
-      "ja": "だが今となっては 目的を見失ってしまった"
+      "en": "And now I ask myself… \"For what?\"",
+      "ja": "だが今となっては目的を見失ってしまった"
     }
   },
   {
     "translation": {
-      "en": "Because of Prime, we are marooned on a dying world,",
-      "ja": "プライムのせいで 死にゆく星に取り残され"
+      "en": "[growls] Because of Prime, we are marooned on a dying world,",
+      "ja": "プライムのせいで死にゆく星に取り残され"
     }
   },
   {
     "translation": {
       "en": "waiting as death slowly surrounds us.",
-      "ja": "我々は死が忍び寄るのを 待つことしかできない"
+      "ja": "我々は死が忍び寄るのを待つことしかできない"
     }
   },
   {
     "translation": {
       "en": "And now I am forced to do the unimaginable.",
-      "ja": "まさか こんなことを 強いられるとはな"
+      "ja": "まさか こんなことを強いられるとはな"
     }
   },
   {
     "translation": {
       "en": "The arrogant fool destroyed himself, the Autobots,",
-      "ja": "高慢なクソ野郎は 自らオートボットを滅ぼし"
+      "ja": "高慢なクソ野郎は自らオートボットを滅ぼし"
     }
   },
   {
     "translation": {
       "en": "and, tragically, the Allspark.",
-      "ja": "オールスパークまで 犠牲にするとは…"
+      "ja": "オールスパークまで犠牲にするとは…"
     }
   },
   {
     "translation": {
       "en": "His stubbornness has condemned us all.",
-      "ja": "奴の頑固さが 全員を追いつめた"
+      "ja": "奴の頑固さが全員を追いつめた"
     }
   },
   {
     "translation": {
       "en": "But you understand more than anyone.",
-      "ja": "だが お前は誰よりも 分かってくれるよな"
+      "ja": "だが お前は誰よりも分かってくれるよな"
     }
   },
   {
@@ -176,7 +176,7 @@
   {
     "translation": {
       "en": "Lord Megatron, Shockwave requests your presence.",
-      "ja": "メガトロン様 ショックウェーブが 呼んでます"
+      "ja": "メガトロン様 ショックウェーブが呼んでます"
     }
   },
   {
@@ -194,12 +194,12 @@
   {
     "translation": {
       "en": "As you know, duty waits for no one.",
-      "ja": "時間が限られているのは 分かってるだろ"
+      "ja": "時間が限られているのは分かってるだろ"
     }
   },
   {
     "translation": {
-      "en": "What is it, Shockwave?",
+      "en": "[Megatron] What is it, Shockwave?",
       "ja": "ショックウェーブ　何事だ？"
     }
   },
@@ -212,7 +212,7 @@
   {
     "translation": {
       "en": "Section 12 has fallen below satisfactory output.",
-      "ja": "第12セクターは 必要な生産量を下回ってます"
+      "ja": "第12セクターは必要な生産量を下回ってます"
     }
   },
   {
@@ -223,14 +223,14 @@
   },
   {
     "translation": {
-      "en": "Need I remind you?",
+      "en": "[Shockwave] Need I remind you?",
       "ja": "お忘れですか？"
     }
   },
   {
     "translation": {
       "en": "At our current rate of power consumption, we approach dire--",
-      "ja": "このエネルギー消費率では 我々は全員…"
+      "ja": "このエネルギー消費率では我々は全員…"
     }
   },
   {
@@ -242,13 +242,13 @@
   {
     "translation": {
       "en": "I suggest we take Section 12 offline",
-      "ja": "第12セクターへの供給を 停止し―"
+      "ja": "第12セクターへの供給を停止し―"
     }
   },
   {
     "translation": {
       "en": "and recycle their resources for Project Nemesis.",
-      "ja": "ネメシス計画のエネルギーに 利用しては？"
+      "ja": "ネメシス計画のエネルギーに利用しては？"
     }
   },
   {
@@ -260,13 +260,13 @@
   {
     "translation": {
       "en": "They are no longer manufacturing at a satisfactory rate.",
-      "ja": "もはや第12セクターに 十分な生産量は ありません"
+      "ja": "もはや第12セクターに十分な生産量は ありません"
     }
   },
   {
     "translation": {
-      "en": "And you feel Sector 12 will prove more useful to us",
-      "ja": "第12セクターを 他に活用したほうが― 我々に有益ということか？"
+      "en": "[Megatron] And you feel Sector 12 will prove more useful to us",
+      "ja": "第12セクターを他に活用したほうが― 我々に有益ということか？"
     }
   },
   {
@@ -296,7 +296,7 @@
   {
     "translation": {
       "en": "Until then, do not take Sector 12 offline.",
-      "ja": "それまでは第12セクターへの 供給を止めるな"
+      "ja": "それまでは第12セクターへの供給を止めるな"
     }
   },
   {
@@ -307,8 +307,8 @@
   },
   {
     "translation": {
-      "en": "Elita… can we speak for a moment?",
-      "ja": "エリータ ちょっと話してもいいか？"
+      "en": "[Jetfire] Elita… can we speak for a moment?",
+      "ja": "エリータちょっと話してもいいか？"
     }
   },
   {
@@ -326,13 +326,13 @@
   {
     "translation": {
       "en": "Are you sure we should be freeing Decepticons?",
-      "ja": "ディセプティコンを 解放していいのか？"
+      "ja": "ディセプティコンを解放していいのか？"
     }
   },
   {
     "translation": {
-      "en": "I'm not entirely sure of that answer myself.",
-      "ja": "明確な答えが あるわけじゃないわ"
+      "en": "[sighs] I'm not entirely sure of that answer myself.",
+      "ja": "明確な答えがあるわけじゃないわ"
     }
   },
   {
@@ -344,13 +344,13 @@
   {
     "translation": {
       "en": "Why are the Decepticons imprisoning their own kind?",
-      "ja": "ディセプティコンは なぜ仲間を収容するの？"
+      "ja": "ディセプティコンはなぜ仲間を収容するの？"
     }
   },
   {
     "translation": {
       "en": "The Decepticons have never taken very good care of their own.",
-      "ja": "ディセプティコンは 仲間を何とも思ってない"
+      "ja": "ディセプティコンは仲間を何とも思ってない"
     }
   },
   {
@@ -361,50 +361,50 @@
   },
   {
     "translation": {
-      "en": "Since the Battle of the Spacebridge, everything's changed,",
-      "ja": "スペースブリッジの戦いで すべてが変わった"
+      "en": "[Jetfire] Since the Battle of the Spacebridge, everything's changed,",
+      "ja": "スペースブリッジの戦いですべてが変わった"
     }
   },
   {
     "translation": {
       "en": "including Megatron. He would never have allowed that before.",
-      "ja": "昔ならメガトロンだって 収容など認めないさ"
+      "ja": "昔ならメガトロンだって収容など認めないさ"
     }
   },
   {
     "translation": {
       "en": "The Decepticons thrive on war.",
-      "ja": "ディセプティコンは 戦争で栄えた"
+      "ja": "ディセプティコンは戦争で栄えた"
     }
   },
   {
     "translation": {
       "en": "For Megatron to survive, he needs an enemy.",
-      "ja": "メガトロンの隆盛には 敵が要るのよ"
+      "ja": "メガトロンの隆盛には敵が要るのよ"
     }
   },
   {
     "translation": {
       "en": "The Autobots are all but killed off now, so he's turned on his own.",
-      "ja": "オートボットがいなくなり 矛先を仲間に向けたのね"
+      "ja": "オートボットがいなくなり矛先を仲間に向けたのね"
     }
   },
   {
     "translation": {
       "en": "If Megatron's locking up Decepticons, let him!",
-      "ja": "それがメガトロンの意思なら 構うな"
+      "ja": "それがメガトロンの意思なら構うな"
     }
   },
   {
     "translation": {
       "en": "We should be focused on freeing only Autobots.",
-      "ja": "助けるのは オートボットだけだ"
+      "ja": "助けるのはオートボットだけだ"
     }
   },
   {
     "translation": {
       "en": "They're citizens and they're Cybertronian! We can't lose sight of that!",
-      "ja": "同じサイバトロン星人よ 見過ごすことはできないわ"
+      "ja": "同じサイバトロン星人よ見過ごすことはできないわ"
     }
   },
   {
@@ -428,7 +428,7 @@
   {
     "translation": {
       "en": "Freedom is the right of all sentient beings.",
-      "ja": "“自由とは知覚ある存在 すべての権利である”"
+      "ja": "“自由とは知覚ある存在すべての権利である”"
     }
   },
   {
@@ -440,25 +440,25 @@
   {
     "translation": {
       "en": "but every single Decepticon we free",
-      "ja": "だが逃がした ディセプティコンは―"
+      "ja": "だが逃がしたディセプティコンは―"
     }
   },
   {
     "translation": {
       "en": "is just another Decepticon on the battlefield aiming to take us out.",
-      "ja": "戦場では 俺たちの命を 狙ってくるんだぞ"
+      "ja": "戦場では 俺たちの命を狙ってくるんだぞ"
     }
   },
   {
     "translation": {
-      "en": "We have to show them a better way, Jetfire.",
-      "ja": "私たちが正しい行動を 示さないといけない"
+      "en": "[Elita] We have to show them a better way, Jetfire.",
+      "ja": "私たちが正しい行動を示さないといけない"
     }
   },
   {
     "translation": {
-      "en": "The planet's almost dead. This entire sector's been powered down.",
-      "ja": "惑星は死にかけ ここのエネルギーも尽きる"
+      "en": "[Jetfire groans] The planet's almost dead. This entire sector's been powered down.",
+      "ja": "惑星は死にかけここのエネルギーも尽きる"
     }
   },
   {
@@ -475,14 +475,14 @@
   },
   {
     "translation": {
-      "en": "And yet, we'll continue to liberate the prison camps and free anyone we find,",
-      "ja": "それでも収容所を見つけたら 解放すべきよ"
+      "en": "[Elita] And yet, we'll continue to liberate the prison camps and free anyone we find,",
+      "ja": "それでも収容所を見つけたら解放すべきよ"
     }
   },
   {
     "translation": {
       "en": "because we're Autobots and that's what we do.",
-      "ja": "オートボットとして すべきことを果たす"
+      "ja": "オートボットとしてすべきことを果たす"
     }
   },
   {
@@ -500,7 +500,7 @@
   {
     "translation": {
       "en": "I… just received intel from Steeljaw.",
-      "ja": "今 スチールジョーから 情報が入った"
+      "ja": "今 スチールジョーから情報が入った"
     }
   },
   {
@@ -512,7 +512,7 @@
   {
     "translation": {
       "en": "he's infiltrated one of the largest prison camps we've seen.",
-      "ja": "最大規模の収容所に 潜入したことになる"
+      "ja": "最大規模の収容所に潜入したことになる"
     }
   },
   {
@@ -524,25 +524,25 @@
   {
     "translation": {
       "en": "We take a huge risk every time we blast into one of these places.",
-      "ja": "収容所に突入するたびに リスクを冒してる"
+      "ja": "収容所に突入するたびにリスクを冒してる"
     }
   },
   {
     "translation": {
       "en": "If any of us were locked up…",
-      "ja": "もし我々の誰かが 捕まったら…"
+      "ja": "もし我々の誰かが捕まったら…"
     }
   },
   {
     "translation": {
       "en": "There would be no one left to free us.",
-      "ja": "助けてくれる味方は 誰もいない"
+      "ja": "助けてくれる味方は誰もいない"
     }
   },
   {
     "translation": {
       "en": "Chromia, the camp is deep in Kaon,",
-      "ja": "クロミア 収容所はケイオンの奥よ"
+      "ja": "クロミア収容所はケイオンの奥よ"
     }
   },
   {
@@ -571,14 +571,14 @@
   },
   {
     "translation": {
-      "en": "- Thundercracker, report! -",
-      "ja": "サンダークラッカー 報告しろ"
+      "en": "-[Starscream] Thundercracker, report! -[zapping]",
+      "ja": "サンダークラッカー報告しろ"
     }
   },
   {
     "translation": {
       "en": "We've hacked into what's left of Steeljaw",
-      "ja": "スチールジョーの残骸を ハックして―"
+      "ja": "スチールジョーの残骸をハックして―"
     }
   },
   {
@@ -589,7 +589,7 @@
   },
   {
     "translation": {
-      "en": "- Excellent. - We'll be ready for them.",
+      "en": "-Excellent. -[Thundercracker] We'll be ready for them.",
       "ja": "よくやった 奴らを迎え撃つぞ"
     }
   },
@@ -602,7 +602,7 @@
   {
     "translation": {
       "en": "the Autobot raids on our detention centers",
-      "ja": "オートボットが 収容所に侵入したら"
+      "ja": "オートボットが収容所に侵入したら"
     }
   },
   {
@@ -620,7 +620,7 @@
   {
     "translation": {
       "en": "a swift and brutal end?",
-      "ja": "容赦のない残酷な形で 終止符を打ってやる"
+      "ja": "容赦のない残酷な形で終止符を打ってやる"
     }
   },
   {
@@ -631,7 +631,7 @@
   },
   {
     "translation": {
-      "en": "- Is that…? - It couldn't be.",
+      "en": "-Is that…? -It couldn't be.",
       "ja": "もしや… あり得ない"
     }
   },
@@ -643,8 +643,8 @@
   },
   {
     "translation": {
-      "en": "Lord Megatron! Here! We… We can't believe it.",
-      "ja": "メガトロン様ですね 信じられません"
+      "en": "[panting] Lord Megatron! Here! We… We can't believe it.",
+      "ja": "メガトロン様ですね信じられません"
     }
   },
   {
@@ -655,8 +655,8 @@
   },
   {
     "translation": {
-      "en": "The mighty Megatron, here in Sector 12.",
-      "ja": "第12セクターに メガトロン様が来たぞ"
+      "en": "[sighs] The mighty Megatron, here in Sector 12.",
+      "ja": "第12セクターにメガトロン様が来たぞ"
     }
   },
   {
@@ -667,14 +667,14 @@
   },
   {
     "translation": {
-      "en": "- I can't believe it. - …loyal Decepticons.",
+      "en": "-[Decepticon] I can't believe it. -…loyal Decepticons.",
       "ja": "俺は いつも見守ってる"
     }
   },
   {
     "translation": {
       "en": "Uh, let me give you a tour. I'll show you around, Lord Megatron.",
-      "ja": "メガトロン様 中をご案内しましょう"
+      "ja": "メガトロン様中をご案内しましょう"
     }
   },
   {
@@ -691,19 +691,19 @@
   },
   {
     "translation": {
-      "en": "I can't remember a time when you came upon a Decepticon base you did like--",
-      "ja": "奴らの基地を見た時は いつも悪い予感だろ"
+      "en": "[Red Alert] I can't remember a time when you came upon a Decepticon base you did like--",
+      "ja": "奴らの基地を見た時はいつも悪い予感だろ"
     }
   },
   {
     "translation": {
-      "en": "- Shh! - Sorry.",
+      "en": "-Shh! -[Red Alert] Sorry.",
       "ja": "静かに 悪い"
     }
   },
   {
     "translation": {
-      "en": "- I agree with Chromia. -",
+      "en": "-I agree with Chromia. -[wind whistles]",
       "ja": "私も同感よ"
     }
   },
@@ -715,14 +715,14 @@
   },
   {
     "translation": {
-      "en": "Hmm. Could be a trap.",
-      "ja": "罠かもしれないのに 行くのか？"
+      "en": "[Red Alert] Hmm. Could be a trap.",
+      "ja": "罠かもしれないのに行くのか？"
     }
   },
   {
     "translation": {
-      "en": "- Should we continue? - Chromia?",
-      "ja": "罠かもしれないのに 行くのか？ クロミア"
+      "en": "-Should we continue? -[Elita] Chromia?",
+      "ja": "罠かもしれないのに行くのか？ クロミア"
     }
   },
   {
@@ -745,20 +745,20 @@
   },
   {
     "translation": {
-      "en": "- Shoot! -",
+      "en": "-Shoot! -[weapon fires]",
       "ja": "撃って"
     }
   },
   {
     "translation": {
-      "en": "Shortly after the Battle of the Spacebridge, we shut down production on quagma cannons",
-      "ja": "スペースブリッジの戦いの後 キャノンの生産を中止し―"
+      "en": "[Shamble] Shortly after the Battle of the Spacebridge, we shut down production on quagma cannons",
+      "ja": "スペースブリッジの戦いの後キャノンの生産を中止し―"
     }
   },
   {
     "translation": {
       "en": "and put our efforts into recycling munitions for blasters.",
-      "ja": "資材をブラスターに 集中させました"
+      "ja": "資材をブラスターに集中させました"
     }
   },
   {
@@ -776,7 +776,7 @@
   {
     "translation": {
       "en": "but as soon as a troop rotation goes through and supply flow is worked out,",
-      "ja": "ですが交替制で 供給の流れを作れば"
+      "ja": "ですが交替制で供給の流れを作れば"
     }
   },
   {
@@ -794,48 +794,48 @@
   {
     "translation": {
       "en": "I remember when you were a champion in the arena.",
-      "ja": "闘技場のチャンピオンだった あなたを見て―"
+      "ja": "闘技場のチャンピオンだったあなたを見て―"
     }
   },
   {
     "translation": {
-      "en": "Those fights were so exciting.",
+      "en": "[chuckles softly] Those fights were so exciting.",
       "ja": "私は興奮しました"
     }
   },
   {
     "translation": {
       "en": "Even back then, I knew you were the one to follow.",
-      "ja": "あなたを支持すると 当時から決めてたのです"
+      "ja": "あなたを支持すると当時から決めてたのです"
     }
   },
   {
     "translation": {
       "en": "No matter what, you can count on us, Lord Megatron.",
-      "ja": "何があっても 我々を信じてください"
+      "ja": "何があっても我々を信じてください"
     }
   },
   {
     "translation": {
       "en": "Spoken… like a true Decepticon.",
-      "ja": "正真正銘の ディセプティコンなんだな"
+      "ja": "正真正銘のディセプティコンなんだな"
     }
   },
   {
     "translation": {
       "en": "Tell me, how many are stationed here now?",
-      "ja": "ここには 何人のディセプティコンが？"
+      "ja": "ここには何人のディセプティコンが？"
     }
   },
   {
     "translation": {
-      "en": "Hmm.  Twenty and… Uh, fifty- seven, sir!",
+      "en": "Hmm. [muttering] Twenty and… Uh, fifty-seven, sir!",
       "ja": "ええと 20… 57人です"
     }
   },
   {
     "translation": {
-      "en": "- - Excuse me.",
+      "en": "-[comm trills] -Excuse me.",
       "ja": "失礼する"
     }
   },
@@ -854,7 +854,7 @@
   {
     "translation": {
       "en": "Your signal indicates that you are in Sector 12--",
-      "ja": "第12セクターに おりますかな？"
+      "ja": "第12セクターにおりますかな？"
     }
   },
   {
@@ -878,13 +878,13 @@
   {
     "translation": {
       "en": "to keep Project Nemesis on schedule.",
-      "ja": "第12セクターのエネルギーが 必要なのです"
+      "ja": "第12セクターのエネルギーが必要なのです"
     }
   },
   {
     "translation": {
       "en": "You'll have an answer on Sector 12 when I'm ready to give it!",
-      "ja": "第12セクターの処遇は 俺が決めるまで待て"
+      "ja": "第12セクターの処遇は俺が決めるまで待て"
     }
   },
   {
@@ -908,7 +908,7 @@
   {
     "translation": {
       "en": "Sh-- Should we continue your tour, Lord Megatron?",
-      "ja": "メガトロン様 案内を続けますか？"
+      "ja": "メガトロン様案内を続けますか？"
     }
   },
   {
@@ -919,14 +919,14 @@
   },
   {
     "translation": {
-      "en": "With just a few upgrades,",
+      "en": "[Shamble] With just a few upgrades,",
       "ja": "少しテコ入れすれば―"
     }
   },
   {
     "translation": {
       "en": "we could be one of the top munitions producers for the Decepticon war effort!",
-      "ja": "軍需品の生産量は 最大規模になります"
+      "ja": "軍需品の生産量は最大規模になります"
     }
   },
   {
@@ -937,8 +937,8 @@
   },
   {
     "translation": {
-      "en": "Uh, not much to see.  Uh, just the infirmary.",
-      "ja": "見るほどでは… ただの医務室です"
+      "en": "Uh, not much to see. [chuckles] Uh, just the infirmary.",
+      "ja": "見るほどでは…ただの医務室です"
     }
   },
   {
@@ -949,7 +949,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir. Right away.",
+      "en": "[Shamble] Yes, sir. Right away.",
       "ja": "はい　今すぐに"
     }
   },
@@ -961,7 +961,7 @@
   },
   {
     "translation": {
-      "en": "You OK?",
+      "en": "[panting] You OK?",
       "ja": "大丈夫か？"
     }
   },
@@ -973,25 +973,25 @@
   },
   {
     "translation": {
-      "en": "- - You?",
+      "en": "-[Red Alert sighs] -You?",
       "ja": "そっちは？"
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Red Alert] Yeah.",
       "ja": "平気だ"
     }
   },
   {
     "translation": {
-      "en": "- Let's get inside before-- -",
+      "en": "-Let's get inside before-- -[jet engines whirring]",
       "ja": "次が来る前に中へ…"
     }
   },
   {
     "translation": {
-      "en": "How much of your workforce is debilitated?",
+      "en": "[Megatron] How much of your workforce is debilitated?",
       "ja": "どのくらいの労働力が― 枯渇しているんだ？"
     }
   },
@@ -1004,12 +1004,12 @@
   {
     "translation": {
       "en": "But those of us on our feet gladly make up for it.",
-      "ja": "ですが 元気な者で 間に合わせます"
+      "ja": "ですが 元気な者で間に合わせます"
     }
   },
   {
     "translation": {
-      "en": "I've seen enough.",
+      "en": "[Megatron growls] I've seen enough.",
       "ja": "もう分かった"
     }
   },
@@ -1021,25 +1021,25 @@
   },
   {
     "translation": {
-      "en": "Happy you could make it, Jetfire.",
+      "en": "[Elita sighs] Happy you could make it, Jetfire.",
       "ja": "助かったわ"
     }
   },
   {
     "translation": {
-      "en": "Like, super happy. You have no idea.",
+      "en": "[pants] Like, super happy. You have no idea.",
       "ja": "どれほど感謝してることか"
     }
   },
   {
     "translation": {
       "en": "Good call having me wait up there for the Seekers.",
-      "ja": "シーカーを待ち伏せして 正解だったな"
+      "ja": "シーカーを待ち伏せして正解だったな"
     }
   },
   {
     "translation": {
-      "en": "See, Jetfire? I have my moments.",
+      "en": "[chuckles] See, Jetfire? I have my moments.",
       "ja": "私も いい判断をするのよ"
     }
   },
@@ -1063,13 +1063,13 @@
   },
   {
     "translation": {
-      "en": "Keep moving. We want to be in and out before more guards show up.",
-      "ja": "見つかる前に 急いで脱出するのよ"
+      "en": "[pants] Keep moving. We want to be in and out before more guards show up.",
+      "ja": "見つかる前に急いで脱出するのよ"
     }
   },
   {
     "translation": {
-      "en": "What's with all the empty cells?",
+      "en": "[grunts] What's with all the empty cells?",
       "ja": "空いた独房？"
     }
   },
@@ -1081,13 +1081,13 @@
   },
   {
     "translation": {
-      "en": "I'm getting a faint Autobot signal.",
+      "en": "[Red Alert] I'm getting a faint Autobot signal.",
       "ja": "オートボットの信号だ"
     }
   },
   {
     "translation": {
-      "en": "- - It looks to be… this way.",
+      "en": "-[tracker beeping] -It looks to be… this way.",
       "ja": "場所は― こっちだ"
     }
   },
@@ -1117,25 +1117,25 @@
   },
   {
     "translation": {
-      "en": "Yes, Lord Megatron?",
+      "en": "[Shockwave over comm] Yes, Lord Megatron?",
       "ja": "はい　メガトロン様"
     }
   },
   {
     "translation": {
       "en": "Take Sector 12 offline.",
-      "ja": "第12セクターの供給を 停止しろ"
+      "ja": "第12セクターの供給を停止しろ"
     }
   },
   {
     "translation": {
-      "en": "Affirmative.",
+      "en": "[Shockwave] Affirmative.",
       "ja": "承知しました"
     }
   },
   {
     "translation": {
-      "en": "This is it.",
+      "en": "[Elita sighs] This is it.",
       "ja": "ここね"
     }
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "translation": {
-      "en": "What's the status of Project Nemesis?",
+      "en": "[Megatron] What's the status of Project Nemesis?",
       "ja": "ネメシス計画の状況は？"
     }
   },
@@ -1166,43 +1166,43 @@
   {
     "translation": {
       "en": "Thanks to our forces from Sector 12,",
-      "ja": "第12セクターの エネルギーのおかげで―"
+      "ja": "第12セクターのエネルギーのおかげで―"
     }
   },
   {
     "translation": {
       "en": "Project Nemesis will be a success.",
-      "ja": "ネメシス計画は 成功するでしょう"
+      "ja": "ネメシス計画は成功するでしょう"
     }
   },
   {
     "translation": {
       "en": "There are times I envy your lack of emotion.",
-      "ja": "俺も お前のように 感情がなければよかった"
+      "ja": "俺も お前のように感情がなければよかった"
     }
   },
   {
     "translation": {
       "en": "Deletion of my emotions was the most logical choice",
-      "ja": "感情の削除は― 効率を高める 最も合理的な選択でした"
+      "ja": "感情の削除は― 効率を高める最も合理的な選択でした"
     }
   },
   {
     "translation": {
       "en": "to increase my efficiency.",
-      "ja": "効率を高める 最も合理的な選択でした"
+      "ja": "効率を高める最も合理的な選択でした"
     }
   },
   {
     "translation": {
       "en": "Just as harvesting ineffective Decepticons and turning their sparks into energy",
-      "ja": "使えないディセプティコンの スパークを採取するのも―"
+      "ja": "使えないディセプティコンのスパークを採取するのも―"
     }
   },
   {
     "translation": {
       "en": "is the most logical choice for our survival.",
-      "ja": "我々が生き延びるには 理にかなっています"
+      "ja": "我々が生き延びるには理にかなっています"
     }
   },
   {
@@ -1214,13 +1214,13 @@
   {
     "translation": {
       "en": "when this arena was a symbol of Decepticon greatness.",
-      "ja": "ディセプティコンの偉大さを 表していた"
+      "ja": "ディセプティコンの偉大さを表していた"
     }
   },
   {
     "translation": {
-      "en": "Now it is a symbol of Decepticon ingenuity",
-      "ja": "今は絶滅危機に直面した ディセプティコンの―"
+      "en": "[Shockwave] Now it is a symbol of Decepticon ingenuity",
+      "ja": "今は絶滅危機に直面したディセプティコンの―"
     }
   },
   {
@@ -1237,44 +1237,44 @@
   },
   {
     "translation": {
-      "en": "Lord Megatron!",
+      "en": "[Starscream] Lord Megatron!",
       "ja": "メガトロン様"
     }
   },
   {
     "translation": {
       "en": "Your preeminent warrior has returned with quite the prize.",
-      "ja": "優秀な部下が 戦利品を持ち帰りましたよ"
+      "ja": "優秀な部下が戦利品を持ち帰りましたよ"
     }
   },
   {
     "translation": {
-      "en": "Autobots?",
+      "en": "[Shockwave] Autobots?",
       "ja": "オートボット？"
     }
   },
   {
     "translation": {
-      "en": "Elita- 1…",
+      "en": "[Megatron] Elita-1…",
       "ja": "エリータ-１と"
     }
   },
   {
     "translation": {
       "en": "and all that remains of Prime's Autobots.",
-      "ja": "プライムのオートボットの 生き残りか"
+      "ja": "プライムのオートボットの生き残りか"
     }
   },
   {
     "translation": {
       "en": "Starscream, for once, I am impressed.",
-      "ja": "スタースクリーム またしても感銘を受けたよ"
+      "ja": "スタースクリームまたしても感銘を受けたよ"
     }
   },
   {
     "translation": {
       "en": "You've caused much trouble since the Battle of the Spacebridge.",
-      "ja": "スペースブリッジの戦い以来 手を焼かされた"
+      "ja": "スペースブリッジの戦い以来手を焼かされた"
     }
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "translation": {
       "en": "I might have been inspired enough to follow you myself.",
-      "ja": "俺もお前の指示には 従ったかもしれないぞ"
+      "ja": "俺もお前の指示には従ったかもしれないぞ"
     }
   },
   {
@@ -1297,20 +1297,20 @@
   },
   {
     "translation": {
-      "en": "Instead, you surround yourself with traitors",
-      "ja": "我々の世界を破壊した プライムと同じように―"
+      "en": "[snarls] Instead, you surround yourself with traitors",
+      "ja": "我々の世界を破壊したプライムと同じように―"
     }
   },
   {
     "translation": {
       "en": "like your valiant leader who destroyed our world.",
-      "ja": "裏切り者を連れているとは 失望した"
+      "ja": "裏切り者を連れているとは失望した"
     }
   },
   {
     "translation": {
       "en": "Your war is what destroyed Cybertron.",
-      "ja": "あなたが起こした戦争が 原因よ"
+      "ja": "あなたが起こした戦争が原因よ"
     }
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "translation": {
       "en": "A traitor not even worthy of my acknowledgment.",
-      "ja": "裏切り者には 声をかける価値もない"
+      "ja": "裏切り者には声をかける価値もない"
     }
   },
   {
@@ -1339,7 +1339,7 @@
   },
   {
     "translation": {
-      "en": "- No. - But I can kill--",
+      "en": "-No. -But I can kill--",
       "ja": "やめろ しかし…"
     }
   },
@@ -1352,12 +1352,12 @@
   {
     "translation": {
       "en": "Jetfire will still prove useful to us.",
-      "ja": "ジェットファイヤーには 利用価値がある"
+      "ja": "ジェットファイヤーには利用価値がある"
     }
   },
   {
     "translation": {
-      "en": "- Shockwave, proceed. -",
+      "en": "-Shockwave, proceed. -[console beeps]",
       "ja": "ショックウェーブ　始めろ"
     }
   },
@@ -1381,8 +1381,8 @@
   },
   {
     "translation": {
-      "en": "I am loyal! I'm a loyal Decepticon! - -",
-      "ja": "やめろ 忠実なディセプティコンだぞ"
+      "en": "I am loyal! I'm a loyal Decepticon! -[Barricade grunts] -[groans]",
+      "ja": "やめろ忠実なディセプティコンだぞ"
     }
   },
   {
@@ -1399,14 +1399,14 @@
   },
   {
     "translation": {
-      "en": "I'm not the one doing this!",
+      "en": "[growls] I'm not the one doing this!",
       "ja": "俺の本意ではない"
     }
   },
   {
     "translation": {
       "en": "This is the horror forced upon me",
-      "ja": "苦渋の選択を 余儀なくしたのは―"
+      "ja": "苦渋の選択を余儀なくしたのは―"
     }
   },
   {
@@ -1418,19 +1418,19 @@
   {
     "translation": {
       "en": "This is the reality Prime left for all of us!",
-      "ja": "プライムが もたらした現実を見ろ"
+      "ja": "プライムがもたらした現実を見ろ"
     }
   },
   {
     "translation": {
       "en": "Murdering your own kind… for energon?",
-      "ja": "エネルゴンのために 仲間を殺すなんて"
+      "ja": "エネルゴンのために仲間を殺すなんて"
     }
   },
   {
     "translation": {
-      "en": "Your concern for my people is needless.",
-      "ja": "お前が俺の配下を 心配する必要はない"
+      "en": "[snarling] Your concern for my people is needless.",
+      "ja": "お前が俺の配下を心配する必要はない"
     }
   },
   {
@@ -1442,12 +1442,12 @@
   {
     "translation": {
       "en": "by four Autobot sparks.",
-      "ja": "オートボット４体の スパークだ"
+      "ja": "オートボット４体のスパークだ"
     }
   },
   {
     "translation": {
-      "en": "- Take them away. - Yes, Lord Megatron.",
+      "en": "-Take them away. -Yes, Lord Megatron.",
       "ja": "連れていけ はい　メガトロン様"
     }
   },

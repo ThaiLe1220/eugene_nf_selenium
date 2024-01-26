@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "Mayday, mayday! We are under attack.",
+      "en": "[man 1] Mayday, mayday! We are under attack.",
       "ja": "メイデイ 攻撃を受けた"
     }
   },
@@ -19,31 +19,31 @@
   },
   {
     "translation": {
-      "en": "- Why are they doing this? - They're ours. What's happening?",
+      "en": "-[man 2] Why are they doing this? -[man 1] They're ours. What's happening?",
       "ja": "理由は？ 味方なのになぜ？"
     }
   },
   {
     "translation": {
-      "en": "How many are there?",
+      "en": "[man 1] How many are there?",
       "ja": "敵の数は？"
     }
   },
   {
     "translation": {
-      "en": "They're everywhere! They're going for the command center.",
+      "en": "[man 2] They're everywhere! They're going for the command center.",
       "ja": "大勢だ　司令室に来る"
     }
   },
   {
     "translation": {
       "en": "They're going to take out the interceptors.",
-      "ja": "システムを壊す気だ 迎撃を担う早期警戒局は ２か所のみ"
+      "ja": "システムを壊す気だ 迎撃を担う早期警戒局は２か所のみ"
     }
   },
   {
     "translation": {
-      "en": "They're killing us, they're killing everybody!",
+      "en": "[man 1] They're killing us, they're killing everybody!",
       "ja": "みんな殺される"
     }
   },
@@ -55,38 +55,38 @@
   },
   {
     "translation": {
-      "en": "Somebody help us! Please, send help!",
+      "en": "[man 2] Somebody help us! Please, send help!",
       "ja": "救助隊を送ってくれ！"
     }
   },
   {
     "translation": {
-      "en": "We've got to call SBX- 1.",
+      "en": "[man 1] We've got to call SBX-1.",
       "ja": "ＳＢＸ-１に連絡を"
     }
   },
   {
     "translation": {
-      "en": "We can't! They destroyed the transmitter!",
+      "en": "[man 2] We can't! They destroyed the transmitter!",
       "ja": "送信機を壊された"
     }
   },
   {
     "translation": {
-      "en": "This is Fort Greely. We have been overrun. Fort Greely--",
-      "ja": "フォート･グリーリーだ 制圧された フォート･グリーリーだ 制圧された 〝フォート･グリーリー ミサイル防衛複合施設〞"
+      "en": "[man 1] This is Fort Greely. We have been overrun. Fort Greely--",
+      "ja": "フォート･グリーリーだ制圧された フォート･グリーリーだ制圧された 〝フォート･グリーリーミサイル防衛複合施設〞"
     }
   },
   {
     "translation": {
-      "en": "Coming up on SBX- 1 now, Captain.",
+      "en": "[pilot] Coming up on SBX-1 now, Captain.",
       "ja": "まもなくです　大尉"
     }
   },
   {
     "translation": {
-      "en": "SBX- 1 this is Eagle 6- 7.",
-      "ja": "ＳＢＸ-１ こちらイーグル６-７"
+      "en": "[pilot] SBX-1 this is Eagle 6-7.",
+      "ja": "ＳＢＸ-１こちらイーグル６-７"
     }
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "translation": {
-      "en": "Eagle 6- 7 this is SBX- 1, you're cleared for landing.",
-      "ja": "イーグル６-７ こちらＳＢＸ-１"
+      "en": "[operator] Eagle 6-7 this is SBX-1, you're cleared for landing.",
+      "ja": "イーグル６-７こちらＳＢＸ-１"
     }
   },
   {
@@ -116,30 +116,30 @@
   {
     "translation": {
       "en": "Captain Collins, I'm Ensign Washington.",
-      "ja": "コリンズ大尉 ワシントン少尉です"
+      "ja": "コリンズ大尉ワシントン少尉です"
     }
   },
   {
     "translation": {
-      "en": "Welcome to SBX- 1, or should I say welcome back.",
-      "ja": "ようこそ と言うよりおかえりなさい"
+      "en": "Welcome to SBX-1, or should I say \"welcome back.\"",
+      "ja": "ようこそと言うよりおかえりなさい"
     }
   },
   {
     "translation": {
-      "en": "- Thanks. - Colonel's waiting for you.",
+      "en": "-Thanks. -[Washington] Colonel's waiting for you.",
       "ja": "ありがとう 大佐がお待ちです"
     }
   },
   {
     "translation": {
       "en": "I heard you grew up in Spain at a base your dad was posted at.",
-      "ja": "父上が配属だったスペインで お育ちとか"
+      "ja": "父上が配属だったスペインでお育ちとか"
     }
   },
   {
     "translation": {
-      "en": "Come in.",
+      "en": "[male voice] Come in.",
       "ja": "入れ"
     }
   },
@@ -170,7 +170,7 @@
   {
     "translation": {
       "en": "Yes, sir. You were just taking over when I rotated out.",
-      "ja": "ええ 私の交代時に 着任されました"
+      "ja": "ええ 私の交代時に着任されました"
     }
   },
   {
@@ -181,13 +181,13 @@
   },
   {
     "translation": {
-      "en": "Listen to this.",
+      "en": "[Welsh] Listen to this.",
       "ja": "冗談だぞ"
     }
   },
   {
     "translation": {
-      "en": "- Give us a minute, would you, Lou? - You bet.",
+      "en": "-Give us a minute, would you, Lou? -You bet.",
       "ja": "外してくれ ああ"
     }
   },
@@ -200,7 +200,7 @@
   {
     "translation": {
       "en": "Well, as you can see, everything's pretty much the way you left it.",
-      "ja": "さて 見てのとおり 何も変わってない"
+      "ja": "さて 見てのとおり何も変わってない"
     }
   },
   {
@@ -217,13 +217,13 @@
   },
   {
     "translation": {
-      "en": "- Have you spoke with the board? - Three times.",
+      "en": "-Have you spoke with the board? -Three times.",
       "ja": "委員会とは？ ３回 話した"
     }
   },
   {
     "translation": {
-      "en": "Showed them my record? My reviews?",
+      "en": "[Collins] Showed them my record? My reviews?",
       "ja": "報告書や記録は？"
     }
   },
@@ -247,7 +247,7 @@
   },
   {
     "translation": {
-      "en": "No, it's okay.",
+      "en": "[Marshall] No, it's okay.",
       "ja": "かまわない"
     }
   },
@@ -259,7 +259,7 @@
   },
   {
     "translation": {
-      "en": "I know.",
+      "en": "[Marshall] I know.",
       "ja": "分かってる"
     }
   },
@@ -283,14 +283,14 @@
   },
   {
     "translation": {
-      "en": "We got you down here.",
+      "en": "[Washington] We got you down here.",
       "ja": "この部屋です"
     }
   },
   {
     "translation": {
       "en": "One of our guys nabbed your old room. Sorry about that.",
-      "ja": "前の部屋は使われてて すみません"
+      "ja": "前の部屋は使われててすみません"
     }
   },
   {
@@ -302,7 +302,7 @@
   {
     "translation": {
       "en": "Just want to say all of us girls are really proud of what you did.",
-      "ja": "女性はみんな 大尉を誇りに思ってます"
+      "ja": "女性はみんな大尉を誇りに思ってます"
     }
   },
   {
@@ -332,7 +332,7 @@
   {
     "translation": {
       "en": "We have an active shooter situation at Fort Greely.",
-      "ja": "フォート･グリーリーで 銃撃だ"
+      "ja": "フォート･グリーリーで銃撃だ"
     }
   },
   {
@@ -349,19 +349,19 @@
   },
   {
     "translation": {
-      "en": "Interceptors secure?",
+      "en": "[Collins] Interceptors secure?",
       "ja": "迎撃ミサイルは？"
     }
   },
   {
     "translation": {
-      "en": "Unknown.",
+      "en": "[Marshall] Unknown.",
       "ja": "不明だ"
     }
   },
   {
     "translation": {
-      "en": "How bad is it?",
+      "en": "[Collins] How bad is it?",
       "ja": "被害は？"
     }
   },
@@ -379,19 +379,19 @@
   },
   {
     "translation": {
-      "en": "Do we have Fort Greely on the line?",
+      "en": "[Marshall] Do we have Fort Greely on the line?",
       "ja": "グリーリーは？"
     }
   },
   {
     "translation": {
-      "en": "Not yet, sir.",
+      "en": "[soldier] Not yet, sir.",
       "ja": "まだです"
     }
   },
   {
     "translation": {
-      "en": "You know what to do.",
+      "en": "[Marshall] You know what to do.",
       "ja": "頼んだぞ"
     }
   },
@@ -410,7 +410,7 @@
   {
     "translation": {
       "en": "Corporal Rahul Shah. Joined us six months ago.",
-      "ja": "ラウル･シャー 半年前に入隊した"
+      "ja": "ラウル･シャー半年前に入隊した"
     }
   },
   {
@@ -445,13 +445,13 @@
   },
   {
     "translation": {
-      "en": "How's our Russian friend?",
+      "en": "[Marshall] How's our Russian friend?",
       "ja": "ロシアの友達は？"
     }
   },
   {
     "translation": {
-      "en": "He's back.",
+      "en": "[Beaver] He's back.",
       "ja": "また来ました"
     }
   },
@@ -463,20 +463,20 @@
   },
   {
     "translation": {
-      "en": "- What friend? - Russian attack sub.",
+      "en": "-[Collins] What friend? -Russian attack sub.",
       "ja": "〝接近警告〞 〝接近警告〞 友達？ 〝接近警告〞 〝接近警告〞 攻撃型潜水艦だ"
     }
   },
   {
     "translation": {
       "en": "Been nosing about for months.",
-      "ja": "〝接近警告〞 攻撃型潜水艦だ 数か月前から 追い払っても戻ってくる"
+      "ja": "〝接近警告〞 攻撃型潜水艦だ 数か月前から追い払っても戻ってくる"
     }
   },
   {
     "translation": {
       "en": "Our subs keep chasing him away and he keeps coming back.",
-      "ja": "数か月前から 追い払っても戻ってくる"
+      "ja": "数か月前から追い払っても戻ってくる"
     }
   },
   {
@@ -500,12 +500,12 @@
   {
     "translation": {
       "en": "Poker. I want to whip them janitors like last time.",
-      "ja": "ポーカーだ また用務員に勝つ"
+      "ja": "ポーカーだまた用務員に勝つ"
     }
   },
   {
     "translation": {
-      "en": "- Not now, Beaver. - What's wrong with now?",
+      "en": "-Not now, Beaver. -What's wrong with now?",
       "ja": "今はよせ なぜ？"
     }
   },
@@ -560,7 +560,7 @@
   {
     "translation": {
       "en": "Great story, Beaver. In what chapter do you shut the fuck up?",
-      "ja": "壮大なストーリーね どこまで話せば満足する？"
+      "ja": "壮大なストーリーねどこまで話せば満足する？"
     }
   },
   {
@@ -571,20 +571,20 @@
   },
   {
     "translation": {
-      "en": "Sir, SBX- 1 has just been assigned primary early warning status",
-      "ja": "大佐 グリーリー復活まで 我々が対応しろとのことです"
+      "en": "Sir, SBX-1 has just been assigned primary early warning status",
+      "ja": "大佐 グリーリー復活まで我々が対応しろとのことです"
     }
   },
   {
     "translation": {
       "en": "while Greely's offline.",
-      "ja": "グリーリー復活まで 我々が対応しろとのことです"
+      "ja": "グリーリー復活まで我々が対応しろとのことです"
     }
   },
   {
     "translation": {
       "en": "All right, as of this moment we're the only interceptor platform protecting the United States from a nuclear missile attack.",
-      "ja": "諸君　核ミサイルから 国を守れるのは我々だけだ"
+      "ja": "諸君　核ミサイルから国を守れるのは我々だけだ"
     }
   },
   {
@@ -614,19 +614,19 @@
   {
     "translation": {
       "en": "Kremlin just received a priority alert from the ICBM missile base in Tavlinka.",
-      "ja": "クレムリンに タブリンカ基地から報告"
+      "ja": "クレムリンにタブリンカ基地から報告"
     }
   },
   {
     "translation": {
       "en": "Tavlinka site under hostile attack.",
-      "ja": "基地が攻撃を受け 複数の犠牲者 基地が攻撃を受け 複数の犠牲者 〝ロシア　タブリンカ〞"
+      "ja": "基地が攻撃を受け複数の犠牲者 基地が攻撃を受け複数の犠牲者 〝ロシア　タブリンカ〞"
     }
   },
   {
     "translation": {
       "en": "Multiple casualties.",
-      "ja": "基地が攻撃を受け 複数の犠牲者 〝ロシア　タブリンカ〞 基地が攻撃を受け 複数の犠牲者"
+      "ja": "基地が攻撃を受け複数の犠牲者 〝ロシア　タブリンカ〞 基地が攻撃を受け複数の犠牲者"
     }
   },
   {
@@ -643,7 +643,7 @@
   },
   {
     "translation": {
-      "en": "Sixteen Topol- M mobile missiles unaccounted for.",
+      "en": "Sixteen Topol-M mobile missiles unaccounted for.",
       "ja": "トーポリＭ16発が行方不明"
     }
   },
@@ -662,7 +662,7 @@
   {
     "translation": {
       "en": "Sir, Greely goes dark and within 10 minutes a Russian base reports stolen nukes?",
-      "ja": "グリーリーが消え 10分以内に核盗難の報告？"
+      "ja": "グリーリーが消え10分以内に核盗難の報告？"
     }
   },
   {
@@ -674,12 +674,12 @@
   {
     "translation": {
       "en": "If it were real, the Pentagon would've called us by now.",
-      "ja": "本物なら ペンタゴンから電話が来る"
+      "ja": "本物ならペンタゴンから電話が来る"
     }
   },
   {
     "translation": {
-      "en": "SBX- 1.",
+      "en": "SBX-1.",
       "ja": "ＳＢＸ-１"
     }
   },
@@ -709,14 +709,14 @@
   },
   {
     "translation": {
-      "en": "We have 16 missiles aimed at 16 American cities.",
-      "ja": "〈アメリカの16都市を ミサイルで狙っている〉"
+      "en": "[in Russian] We have 16 missiles aimed at 16 American cities.",
+      "ja": "〈アメリカの16都市をミサイルで狙っている〉"
     }
   },
   {
     "translation": {
       "en": "After this day, America will no longer exist.",
-      "ja": "〈今日以降 アメリカは消滅する〉"
+      "ja": "〈今日以降アメリカは消滅する〉"
     }
   },
   {
@@ -746,7 +746,7 @@
   {
     "translation": {
       "en": "They can hide their nukes anywhere. Our satellites won't spot them till they launch.",
-      "ja": "核も隠せるから 発射まで分からない"
+      "ja": "核も隠せるから発射まで分からない"
     }
   },
   {
@@ -757,7 +757,7 @@
   },
   {
     "translation": {
-      "en": "JJ.",
+      "en": "[Marshall] JJ.",
       "ja": "ＪＪ"
     }
   },
@@ -769,7 +769,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "[Collins] Yes, sir.",
       "ja": "はい"
     }
   },
@@ -812,7 +812,7 @@
   {
     "translation": {
       "en": "I need to find Welsh and secure the HVAR codes.",
-      "ja": "ウェルシュから ＨＶＡＲコードを受け取る"
+      "ja": "ウェルシュからＨＶＡＲコードを受け取る"
     }
   },
   {
@@ -830,7 +830,7 @@
   {
     "translation": {
       "en": "If they had people inside Tavlinka, and the shooters at Greely were all ours,",
-      "ja": "タブリンカやグリーリーが 内部の犯行なら"
+      "ja": "タブリンカやグリーリーが内部の犯行なら"
     }
   },
   {
@@ -847,13 +847,13 @@
   },
   {
     "translation": {
-      "en": "The keycard!",
+      "en": "[man] The keycard!",
       "ja": "カードキー！"
     }
   },
   {
     "translation": {
-      "en": "The keycard! Get the keycard!",
+      "en": "[man] The keycard! Get the keycard!",
       "ja": "カードキーを取れ"
     }
   },
@@ -895,14 +895,14 @@
   },
   {
     "translation": {
-      "en": "How is Beaver?",
+      "en": "[Collins] How is Beaver?",
       "ja": "容体は？"
     }
   },
   {
     "translation": {
       "en": "Bullet clipped him. He's unconscious, but he'll be okay.",
-      "ja": "弾が当たった 意識はないが大丈夫だ"
+      "ja": "弾が当たった意識はないが大丈夫だ"
     }
   },
   {
@@ -913,7 +913,7 @@
   },
   {
     "translation": {
-      "en": "Why would they bring acid?",
+      "en": "[Shah] Why would they bring acid?",
       "ja": "なぜ敵は酸を？"
     }
   },
@@ -961,7 +961,7 @@
   },
   {
     "translation": {
-      "en": "You know, it would be a hell of a coincidence if I wasn't.",
+      "en": "[man] You know, it would be a hell of a coincidence if I wasn't.",
       "ja": "違うなら すごい偶然だな"
     }
   },
@@ -992,7 +992,7 @@
   {
     "translation": {
       "en": "Can't work at a US base without an extensive background check.",
-      "ja": "基地で働くには 身元を精査される"
+      "ja": "基地で働くには身元を精査される"
     }
   },
   {
@@ -1009,13 +1009,13 @@
   },
   {
     "translation": {
-      "en": "For a very long time.",
+      "en": "[man] For a very long time.",
       "ja": "大昔に始まった"
     }
   },
   {
     "translation": {
-      "en": "How long is a very long time?",
+      "en": "[Collins] How long is a very long time?",
       "ja": "どれくらい？"
     }
   },
@@ -1034,7 +1034,7 @@
   {
     "translation": {
       "en": "No plan survives contact with the enemy completely intact.",
-      "ja": "敵と接すれば 作戦は崩れるものだ"
+      "ja": "敵と接すれば作戦は崩れるものだ"
     }
   },
   {
@@ -1045,14 +1045,14 @@
   },
   {
     "translation": {
-      "en": "I am American.",
+      "en": "[man] I am American.",
       "ja": "そうだ"
     }
   },
   {
     "translation": {
       "en": "And whether or not you and I are enemies is completely up to you.",
-      "ja": "俺たちが敵同士かは 完全に君次第だ"
+      "ja": "俺たちが敵同士かは完全に君次第だ"
     }
   },
   {
@@ -1076,19 +1076,19 @@
   {
     "translation": {
       "en": "And now that you do, you will never forget it.",
-      "ja": "二度と忘れられない 名前になるぞ"
+      "ja": "二度と忘れられない名前になるぞ"
     }
   },
   {
     "translation": {
-      "en": "How about I just call you asshole?",
+      "en": "How about I just call you \"asshole\"?",
       "ja": "“クズ”と呼ぼうか？"
     }
   },
   {
     "translation": {
       "en": "You know, usually it takes a woman a second date to reach that conclusion.",
-      "ja": "普通の女は ２度目のデートで気づく"
+      "ja": "普通の女は２度目のデートで気づく"
     }
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "translation": {
       "en": "because I need to disable your command center so my people in Russia can fire those missiles.",
-      "ja": "俺はミサイル発射のため 司令室を無力化したいが"
+      "ja": "俺はミサイル発射のため司令室を無力化したいが"
     }
   },
   {
@@ -1201,7 +1201,7 @@
   },
   {
     "translation": {
-      "en": "- Which is it, six or seven? - I don't know. I didn't hire them.",
+      "en": "-Which is it, six or seven? -[Shah] I don't know. I didn't hire them.",
       "ja": "どっちよ さあ　担当じゃない"
     }
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "translation": {
-      "en": "Nerve agent.",
+      "en": "[Kessel] Nerve agent.",
       "ja": "神経剤だ"
     }
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "translation": {
-      "en": "Bullshit.",
+      "en": "[snorts] Bullshit.",
       "ja": "ウソね"
     }
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "translation": {
-      "en": "Don't worry.",
+      "en": "[Kessel] Don't worry.",
       "ja": "心配するな"
     }
   },
@@ -1267,14 +1267,14 @@
   },
   {
     "translation": {
-      "en": "- SBX- 1. This is Captain Collins. - Is this real?",
+      "en": "-SBX-1. This is Captain Collins. -Is this real?",
       "ja": "コリンズ大尉です"
     }
   },
   {
     "translation": {
-      "en": "- General Dyson. Where's Colonel Marshall? - Everyone quiet.",
-      "ja": "ダイソン大将だ マーシャル大佐は？"
+      "en": "-General Dyson. Where's Colonel Marshall? -[man] Everyone quiet.",
+      "ja": "ダイソン大将だマーシャル大佐は？"
     }
   },
   {
@@ -1292,7 +1292,7 @@
   {
     "translation": {
       "en": "Six to seven terrorists disguised as janitors seized our vessel.",
-      "ja": "用務員姿のテロリスト ６～７人が船を占拠"
+      "ja": "用務員姿のテロリスト６～７人が船を占拠"
     }
   },
   {
@@ -1303,20 +1303,20 @@
   },
   {
     "translation": {
-      "en": "- and tried to take the command center. - Tried?",
+      "en": "-and tried to take the command center. -Tried?",
       "ja": "司令室に入ろうと 入ろうと？"
     }
   },
   {
     "translation": {
-      "en": "- And failed. - Who's there with you?",
+      "en": "-And failed. -[Dyson] Who's there with you?",
       "ja": "失敗した 誰がいる？"
     }
   },
   {
     "translation": {
       "en": "Corporals Shah and Baker. Baker's unconscious. Hit by a bullet.",
-      "ja": "伍長のシャーとベイカー ベイカーは撃たれて気絶"
+      "ja": "伍長のシャーとベイカーベイカーは撃たれて気絶"
     }
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "translation": {
       "en": "They're using blowtorches to cut through the outer door.",
-      "ja": "敵は火炎放射器で 外扉を切断中"
+      "ja": "敵は火炎放射器で外扉を切断中"
     }
   },
   {
@@ -1351,7 +1351,7 @@
   },
   {
     "translation": {
-      "en": "- And the inner door? - Same. I don't know.",
+      "en": "-[Dyson] And the inner door? -Same. I don't know.",
       "ja": "内扉は？ 変化なしかと"
     }
   },
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "American. Leader says his name is Alexander Kessel.",
-      "ja": "アメリカ人 アレグザンダー･ケッセル"
+      "ja": "アメリカ人アレグザンダー･ケッセル"
     }
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "translation": {
       "en": "They move like they've been trained, and they're using nerve agents.",
-      "ja": "訓練されていて 神経剤を使います"
+      "ja": "訓練されていて神経剤を使います"
     }
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "translation": {
       "en": "Unfortunately, so are the computers that control the interceptors. Burned them all with acid.",
-      "ja": "だがコンピューターも 酸で破壊された"
+      "ja": "だがコンピューターも酸で破壊された"
     }
   },
   {
@@ -1417,7 +1417,7 @@
   },
   {
     "translation": {
-      "en": "- ETA? - Ninety minutes.",
+      "en": "-ETA? -Ninety minutes.",
       "ja": "いつ？ 90分後"
     }
   },
@@ -1429,26 +1429,26 @@
   },
   {
     "translation": {
-      "en": "- No, we are not joking. - Madam President.",
+      "en": "-No, we are not joking. -[Collins] Madam President.",
       "ja": "本当の話よ 大統領"
     }
   },
   {
     "translation": {
       "en": "The terrorists have 16 mobile missile launchers that we and the Russians cannot find.",
-      "ja": "ミサイル発射台16基の位置は 我々もロシアも分からない"
+      "ja": "ミサイル発射台16基の位置は我々もロシアも分からない"
     }
   },
   {
     "translation": {
       "en": "Only reason they haven't launched them yet is because you still have control of your interceptors.",
-      "ja": "発射がまだなのは あなたが迎撃できるからよ"
+      "ja": "発射がまだなのはあなたが迎撃できるからよ"
     }
   },
   {
     "translation": {
       "en": "The second you don't, they will launch those missiles on the United States.",
-      "ja": "そこが破られた瞬間 ミサイルは発射される"
+      "ja": "そこが破られた瞬間ミサイルは発射される"
     }
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "translation": {
       "en": "so we're counting on you to keep those maniacs out of that room.",
-      "ja": "だからその部屋に 敵を入れないで"
+      "ja": "だからその部屋に敵を入れないで"
     }
   },
   {
@@ -1489,14 +1489,14 @@
   },
   {
     "translation": {
-      "en": "Let's move out! Go!",
+      "en": "[soldier] Let's move out! Go!",
       "ja": "行くぞ　急げ"
     }
   },
   {
     "translation": {
-      "en": "SEAL team, you are clear for immediate departure to SBX- 1.",
-      "ja": "シールズ ＳＢＸ-１への飛行を許可"
+      "en": "[operator] SEAL team, you are clear for immediate departure to SBX-1.",
+      "ja": "シールズＳＢＸ-１への飛行を許可"
     }
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "translation": {
       "en": "Still quite enjoying fucking up your day.",
-      "ja": "あんたの夢を 楽しくぶち壊してる"
+      "ja": "あんたの夢を楽しくぶち壊してる"
     }
   },
   {
@@ -1592,12 +1592,12 @@
   {
     "translation": {
       "en": "Exitus actum probat.",
-      "ja": "エクシトゥス･アクタ･ プロバト"
+      "ja": "エクシトゥス･アクタ･プロバト"
     }
   },
   {
     "translation": {
-      "en": "The result justifies the deed.",
+      "en": "\"The result justifies the deed.\"",
       "ja": "“結果は行いを正当化する”"
     }
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "translation": {
-      "en": "This is not gonna work.",
+      "en": "[Collins] This is not gonna work.",
       "ja": "脅しはムダよ"
     }
   },
@@ -1693,20 +1693,20 @@
   },
   {
     "translation": {
-      "en": "- Corporal. - There's nothing we can do to stop them!",
+      "en": "-Corporal. -There's nothing we can do to stop them!",
       "ja": "伍長 止められない"
     }
   },
   {
     "translation": {
       "en": "Corporal Shah, they're not in here yet,",
-      "ja": "シャー伍長 敵はまだ来てない"
+      "ja": "シャー伍長敵はまだ来てない"
     }
   },
   {
     "translation": {
       "en": "but if we're going to keep them out, I need you thinking clearly.",
-      "ja": "入れないために あなたの頭が必要よ"
+      "ja": "入れないためにあなたの頭が必要よ"
     }
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "translation": {
       "en": "So go back to your post and keep our scanners on Tavlinka.",
-      "ja": "席に戻って タブリンカをスキャンして"
+      "ja": "席に戻ってタブリンカをスキャンして"
     }
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "translation": {
       "en": "We also need to figure out every way they can penetrate this room.",
-      "ja": "侵入経路も すべて見つけないと"
+      "ja": "侵入経路もすべて見つけないと"
     }
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "translation": {
       "en": "What about indirect? Any new piping or conduits I should know about?",
-      "ja": "間接的には？ 新しい配管は？"
+      "ja": "間接的には？新しい配管は？"
     }
   },
   {
@@ -1843,13 +1843,13 @@
   },
   {
     "translation": {
-      "en": "- What about your pistol? - Out.",
+      "en": "-What about your pistol? -Out.",
       "ja": "拳銃は？ 使った"
     }
   },
   {
     "translation": {
-      "en": "So we have no weapons.",
+      "en": "[sighs] So we have no weapons.",
       "ja": "武器なしだ"
     }
   },
@@ -1861,13 +1861,13 @@
   },
   {
     "translation": {
-      "en": "Thanks for saving Turbo.",
+      "en": "[Shah] Thanks for saving Turbo.",
       "ja": "ターボを救ってくれた"
     }
   },
   {
     "translation": {
-      "en": "Who?",
+      "en": "[Collins] Who?",
       "ja": "誰？"
     }
   },
@@ -1886,7 +1886,7 @@
   {
     "translation": {
       "en": "Prisha, she's nine. Aditi, seven. And Kalyan, he's three.",
-      "ja": "プリシャは９歳 アディティは７歳 カリヤンは３歳だ"
+      "ja": "プリシャは９歳アディティは７歳 カリヤンは３歳だ"
     }
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "translation": {
       "en": "Best thing you can do for them now is help me stop those missiles.",
-      "ja": "今はミサイル阻止が 子供らのためになる"
+      "ja": "今はミサイル阻止が子供らのためになる"
     }
   },
   {
@@ -1909,7 +1909,7 @@
   },
   {
     "translation": {
-      "en": "They got everyone.",
+      "en": "[Shah] They got everyone.",
       "ja": "全滅だ"
     }
   },
@@ -1921,7 +1921,7 @@
   },
   {
     "translation": {
-      "en": "What do you want now?",
+      "en": "[Shah] What do you want now?",
       "ja": "今度は何だ？"
     }
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "translation": {
-      "en": "- It's gonna take more than that. - I've got more coming.",
+      "en": "-[Collins] It's gonna take more than that. -I've got more coming.",
       "ja": "それじゃムリよ 他にもある"
     }
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "translation": {
-      "en": "- Am I? - Desperately.",
+      "en": "-[Kessel] Am I? -Desperately.",
       "ja": "そう？ 必死ね"
     }
   },
@@ -1994,7 +1994,7 @@
   {
     "translation": {
       "en": "Looking for ways to beat the security, getting your people aboard,",
-      "ja": "警備をかいくぐる方法を探し 部下を紛れ込ませ"
+      "ja": "警備をかいくぐる方法を探し部下を紛れ込ませ"
     }
   },
   {
@@ -2006,7 +2006,7 @@
   {
     "translation": {
       "en": "until you were absolutely sure you planned for every possible outcome,",
-      "ja": "完璧な計画だと 確信できるまでね"
+      "ja": "完璧な計画だと確信できるまでね"
     }
   },
   {
@@ -2047,7 +2047,7 @@
   },
   {
     "translation": {
-      "en": "I'll give you unexpected.",
+      "en": "I'll give you \"unexpected.\"",
       "ja": "確かに想定外だ"
     }
   },
@@ -2066,13 +2066,13 @@
   {
     "translation": {
       "en": "I know that three years ago, you scored your dream job.",
-      "ja": "君は３年前 夢の仕事に就いた"
+      "ja": "君は３年前夢の仕事に就いた"
     }
   },
   {
     "translation": {
-      "en": "Pentagon, three- star General.",
-      "ja": "ペンタゴンで中将が 上官となった"
+      "en": "Pentagon, three-star General.",
+      "ja": "ペンタゴンで中将が上官となった"
     }
   },
   {
@@ -2113,14 +2113,14 @@
   },
   {
     "translation": {
-      "en": "I know that three- star welcomed you with open arms.",
+      "en": "I know that three-star welcomed you with open arms.",
       "ja": "中将は君を再び歓迎した"
     }
   },
   {
     "translation": {
       "en": "Because predators always want to show you exactly who's in charge.",
-      "ja": "捕食者は 誰がボスか 示したがるからな"
+      "ja": "捕食者は 誰がボスか示したがるからな"
     }
   },
   {
@@ -2161,8 +2161,8 @@
   },
   {
     "translation": {
-      "en": "All from within the army that you so proudly served.",
-      "ja": "誇りをもって 働いていた軍の中からだ"
+      "en": "[Kessel] All from within the army that you so proudly served.",
+      "ja": "誇りをもって働いていた軍の中からだ"
     }
   },
   {
@@ -2179,7 +2179,7 @@
   },
   {
     "translation": {
-      "en": "JJ! JJ!",
+      "en": "[man] JJ! JJ!",
       "ja": "ＪＪ！　おい！"
     }
   },
@@ -2264,7 +2264,7 @@
   {
     "translation": {
       "en": "In fact, I will give you 30 million dollars if you open these doors.",
-      "ja": "扉を開けたら 3000万ドルやる"
+      "ja": "扉を開けたら3000万ドルやる"
     }
   },
   {
@@ -2282,19 +2282,19 @@
   {
     "translation": {
       "en": "If anyone has earned the right to walk away from this, it's you.",
-      "ja": "君には ここから立ち去る権利がある"
+      "ja": "君にはここから立ち去る権利がある"
     }
   },
   {
     "translation": {
       "en": "Thirty million dollars. What did the Army ever give you?",
-      "ja": "3000万ドルだぞ 軍は何を与えた？"
+      "ja": "3000万ドルだぞ軍は何を与えた？"
     }
   },
   {
     "translation": {
       "en": "Your depressing old job in the middle of nowhere, where they can forget about you?",
-      "ja": "中枢には程遠い 古くさい仕事？"
+      "ja": "中枢には程遠い古くさい仕事？"
     }
   },
   {
@@ -2323,20 +2323,20 @@
   },
   {
     "translation": {
-      "en": "SEAL team is inbound to SBX- 1. ETA 67 minutes.",
-      "ja": "シールズ ＳＢＸ-１到着まで67分"
+      "en": "[pilot] SEAL team is inbound to SBX-1. ETA 67 minutes.",
+      "ja": "シールズＳＢＸ-１到着まで67分"
     }
   },
   {
     "translation": {
-      "en": "They're in.",
+      "en": "[Collins] They're in.",
       "ja": "来る"
     }
   },
   {
     "translation": {
       "en": "Open the door and you leave here a wealthy woman.",
-      "ja": "扉を開けろ リッチになれるぞ"
+      "ja": "扉を開けろリッチになれるぞ"
     }
   },
   {
@@ -2347,19 +2347,19 @@
   },
   {
     "translation": {
-      "en": "- You really don't. -",
+      "en": "-You really don't. -[gun cocks]",
       "ja": "どうかな"
     }
   },
   {
     "translation": {
-      "en": "- Beaver. - What?",
+      "en": "-[Collins] Beaver. -[Shah] What?",
       "ja": "何だ？"
     }
   },
   {
     "translation": {
-      "en": "Nice, Beaver.",
+      "en": "[Collins] Nice, Beaver.",
       "ja": "上出来よ"
     }
   },
@@ -2383,8 +2383,8 @@
   },
   {
     "translation": {
-      "en": "ZSB, Zulu Sierra Bravo, 1- 9- 9- 6.",
-      "ja": "ＺＳＢ ズールー･シエラ･ブラボー 1996"
+      "en": "ZSB, Zulu Sierra Bravo, 1-9-9-6.",
+      "ja": "ＺＳＢズールー･シエラ･ブラボー 1996"
     }
   },
   {
@@ -2455,7 +2455,7 @@
   },
   {
     "translation": {
-      "en": "Traitor.",
+      "en": "[Shah grunts] Traitor.",
       "ja": "裏切り者め"
     }
   },
@@ -2467,13 +2467,13 @@
   },
   {
     "translation": {
-      "en": "Always were full of shit, Beaver.",
+      "en": "[Collins] Always were full of shit, Beaver.",
       "ja": "昔からクソ男だった"
     }
   },
   {
     "translation": {
-      "en": "Ah, what do you know?",
+      "en": "[Beaver] Ah, what do you know?",
       "ja": "俺の何を知ってる？"
     }
   },
@@ -2485,7 +2485,7 @@
   },
   {
     "translation": {
-      "en": "Hell, there was a time I would have even died for it.",
+      "en": "Hell, there was a time I would have even died for it. [sniffs]",
       "ja": "命をささげようとすらしてた"
     }
   },
@@ -2504,7 +2504,7 @@
   {
     "translation": {
       "en": "It's because of immigrants like you and like you that I lost my job",
-      "ja": "お前らのような移民のせいで 失業したんだ"
+      "ja": "お前らのような移民のせいで失業したんだ"
     }
   },
   {
@@ -2522,25 +2522,25 @@
   {
     "translation": {
       "en": "started making up all kinds of shit to scare me.",
-      "ja": "いろんな手で 俺を恐怖に陥れた"
+      "ja": "いろんな手で俺を恐怖に陥れた"
     }
   },
   {
     "translation": {
-      "en": "Shit. I don't even recognize America these days.",
-      "ja": "クソ　もうアメリカなんか 消えちまった"
+      "en": "[Beaver] Shit. I don't even recognize America these days.",
+      "ja": "クソ　もうアメリカなんか消えちまった"
     }
   },
   {
     "translation": {
       "en": "And that gives you the right to murder millions of people?",
-      "ja": "だから大勢を殺す権利が あると？"
+      "ja": "だから大勢を殺す権利があると？"
     }
   },
   {
     "translation": {
       "en": "Well, it gives me the right to start looking out for myself.",
-      "ja": "食いぶちを稼ぐ権利が あるんだ"
+      "ja": "食いぶちを稼ぐ権利があるんだ"
     }
   },
   {
@@ -2557,14 +2557,14 @@
   },
   {
     "translation": {
-      "en": "Uh, yeah. It's what America's about.",
+      "en": "[Beaver] Uh, yeah. It's what America's about.",
       "ja": "そうだよ　それがアメリカだ"
     }
   },
   {
     "translation": {
       "en": "And if you don't get that, you obviously haven't been paying attention, Shah.",
-      "ja": "まだ分かってないなら 明らかに注意散漫だぞ"
+      "ja": "まだ分かってないなら明らかに注意散漫だぞ"
     }
   },
   {
@@ -2576,7 +2576,7 @@
   {
     "translation": {
       "en": "Yeah, sure. Sure. Blame America. Blame the government.",
-      "ja": "国や政府を 好きに責めればいい"
+      "ja": "国や政府を好きに責めればいい"
     }
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "translation": {
       "en": "what every enlisted grunt secretly wants to do to every female officer.",
-      "ja": "全歩兵が全女性将校に 密かにしたいことをな"
+      "ja": "全歩兵が全女性将校に密かにしたいことをな"
     }
   },
   {
@@ -2630,13 +2630,13 @@
   {
     "translation": {
       "en": "Never call a woman by anything other than her name.",
-      "ja": "女性を名前以外で 呼ばないことね"
+      "ja": "女性を名前以外で呼ばないことね"
     }
   },
   {
     "translation": {
       "en": "Not honey, or honey pie, or sugar, or sugar pie,",
-      "ja": "ハニー ハニーパイ シュガー シュガーパイ"
+      "ja": "ハニー ハニーパイシュガー シュガーパイ"
     }
   },
   {
@@ -2648,7 +2648,7 @@
   {
     "translation": {
       "en": "Not baby, sweetheart, ho, bitch,",
-      "ja": "ベイビー 恋人 売春婦 メス犬もダメ"
+      "ja": "ベイビー 恋人 売春婦メス犬もダメ"
     }
   },
   {
@@ -2659,8 +2659,8 @@
   },
   {
     "translation": {
-      "en": "don't ever, ever, call her darlin'.",
-      "ja": "女性を絶対に ダーリンと呼ぶんじゃない"
+      "en": "don't ever, ever, call her \"darlin'.\"",
+      "ja": "女性を絶対にダーリンと呼ぶんじゃない"
     }
   },
   {
@@ -2678,13 +2678,13 @@
   {
     "translation": {
       "en": "Yeah, so that every camera on this rig",
-      "ja": "ああ ここの映像は すべてのネット機器に送れる"
+      "ja": "ああ ここの映像はすべてのネット機器に送れる"
     }
   },
   {
     "translation": {
       "en": "can be broadcast to any device that has smart capabilities.",
-      "ja": "ここの映像は すべてのネット機器に送れる"
+      "ja": "ここの映像はすべてのネット機器に送れる"
     }
   },
   {
@@ -2696,7 +2696,7 @@
   {
     "translation": {
       "en": "Mr. Kessel. Where's Captain Collins?",
-      "ja": "ケッセルさん コリンズ大尉は？"
+      "ja": "ケッセルさんコリンズ大尉は？"
     }
   },
   {
@@ -2719,7 +2719,7 @@
   },
   {
     "translation": {
-      "en": "And Corporal Baker?",
+      "en": "[Dyson] And Corporal Baker?",
       "ja": "ベイカー伍長は？"
     }
   },
@@ -2731,25 +2731,25 @@
   },
   {
     "translation": {
-      "en": "You two are servicemen. You took an oath. How could you betray your country?",
-      "ja": "国に忠誠を誓ったのに 裏切るとは"
+      "en": "[Dyson] You two are servicemen. You took an oath. How could you betray your country?",
+      "ja": "国に忠誠を誓ったのに裏切るとは"
     }
   },
   {
     "translation": {
       "en": "I swore an oath to the old America. Not this one.",
-      "ja": "昔の国に誓ったんだ 今の国じゃない"
+      "ja": "昔の国に誓ったんだ今の国じゃない"
     }
   },
   {
     "translation": {
-      "en": "What do you want?",
+      "en": "[Dyson] What do you want?",
       "ja": "要求は何だ？"
     }
   },
   {
     "translation": {
-      "en": "From you?",
+      "en": "[Kessel] From you?",
       "ja": "あなたへ？"
     }
   },
@@ -2768,7 +2768,7 @@
   {
     "translation": {
       "en": "Dad's proud. That must be nice.",
-      "ja": "父親の誇りか いい気分だろうな"
+      "ja": "父親の誇りかいい気分だろうな"
     }
   },
   {
@@ -2786,7 +2786,7 @@
   {
     "translation": {
       "en": "So you know it's got a big screen, great picture quality, you know,",
-      "ja": "大きなスクリーンで 画質もいいよ"
+      "ja": "大きなスクリーンで画質もいいよ"
     }
   },
   {
@@ -2828,19 +2828,19 @@
   {
     "translation": {
       "en": "If you launch even one of those missiles,",
-      "ja": "ミサイルを１発でも 発射したら"
+      "ja": "ミサイルを１発でも発射したら"
     }
   },
   {
     "translation": {
       "en": "I swear before God that we will hunt you down",
-      "ja": "ミサイルを１発でも 発射したら ミサイルを１発でも 発射したら セントルイス セントルイス セントルイス どこまでも追って 存在を消す"
+      "ja": "ミサイルを１発でも発射したら ミサイルを１発でも発射したらセントルイス セントルイス セントルイスどこまでも追って存在を消す"
     }
   },
   {
     "translation": {
       "en": "and wipe you from existence.",
-      "ja": "セントルイス どこまでも追って 存在を消す"
+      "ja": "セントルイスどこまでも追って存在を消す"
     }
   },
   {
@@ -2858,13 +2858,13 @@
   {
     "translation": {
       "en": "My fellow Americans, I am Alexander Kessel,",
-      "ja": "親愛なるアメリカ国民よ アレグザンダー･ケッセルだ"
+      "ja": "親愛なるアメリカ国民よアレグザンダー･ケッセルだ"
     }
   },
   {
     "translation": {
       "en": "son of trust fund billionaire, Alexander Kessel Senior,",
-      "ja": "親は大富豪 アレグザンダー･ ケッセル･シニア"
+      "ja": "親は大富豪 アレグザンダー･ケッセル･シニア"
     }
   },
   {
@@ -2876,19 +2876,19 @@
   {
     "translation": {
       "en": "is the current utterly unqualified US ambassador to the United Nations.",
-      "ja": "もう資格を失っただろうが 現在のアメリカ国連大使だ"
+      "ja": "もう資格を失っただろうが現在のアメリカ国連大使だ"
     }
   },
   {
     "translation": {
       "en": "Now, my associates in Russia control 16 nuclear missiles,",
-      "ja": "ロシアにいる俺の仲間は 16個の核ミサイルを支配し"
+      "ja": "ロシアにいる俺の仲間は16個の核ミサイルを支配し"
     }
   },
   {
     "translation": {
       "en": "and I control the only interceptor missiles that are capable of stopping them.",
-      "ja": "唯一の迎撃システムは 俺が支配している"
+      "ja": "唯一の迎撃システムは俺が支配している"
     }
   },
   {
@@ -2929,7 +2929,7 @@
   },
   {
     "translation": {
-      "en": "Missile launch detected. Missile launch detected. Missile launch detected.",
+      "en": "[computer voice] Missile launch detected. Missile launch detected. Missile launch detected.",
       "ja": "ミサイル発射を検知"
     }
   },
@@ -2941,14 +2941,14 @@
   },
   {
     "translation": {
-      "en": "Now in 12 minutes, that missile I just launched, will pass over my head,",
-      "ja": "12分以内に ミサイルは頭上を通過し"
+      "en": "[Kessel] Now in 12 minutes, that missile I just launched, will pass over my head,",
+      "ja": "12分以内にミサイルは頭上を通過し"
     }
   },
   {
     "translation": {
       "en": "at which point, it will be too late for this interceptor to catch it.",
-      "ja": "その時点で 迎撃は間に合わなくなる"
+      "ja": "その時点で迎撃は間に合わなくなる"
     }
   },
   {
@@ -3002,7 +3002,7 @@
   {
     "translation": {
       "en": "Once Los Angeles is gone, And the fear of every American is at its peak…",
-      "ja": "ロサンゼルスが消え 恐怖が極限に達したら…"
+      "ja": "ロサンゼルスが消え恐怖が極限に達したら…"
     }
   },
   {
@@ -3026,19 +3026,19 @@
   {
     "translation": {
       "en": "San Francisco, Seattle, Las Vegas,",
-      "ja": "サンフランシスコ シアトル ラスベガス"
+      "ja": "サンフランシスコシアトル ラスベガス"
     }
   },
   {
     "translation": {
       "en": "Cincinnati, Dallas, Denver, Memphis, Chicago, St. Louis, Atlanta, Boston,",
-      "ja": "シンシナティ ダラス デンバー メンフィス シカゴ セントルイス アトランタ ボストン"
+      "ja": "シンシナティダラス デンバー メンフィスシカゴ セントルイス アトランタ ボストン"
     }
   },
   {
     "translation": {
       "en": "Philadelphia, Miami, New York.",
-      "ja": "フィラデルフィア マイアミ ニューヨーク"
+      "ja": "フィラデルフィアマイアミ ニューヨーク"
     }
   },
   {
@@ -3092,7 +3092,7 @@
   {
     "translation": {
       "en": "Now they say ours are United States, but when was that true?",
-      "ja": "だが真に 平等の国だったことはあるか"
+      "ja": "だが真に平等の国だったことはあるか"
     }
   },
   {
@@ -3116,7 +3116,7 @@
   {
     "translation": {
       "en": "You know, this national lie, it's a festering wound,",
-      "ja": "このウソは どんどん悪化してる"
+      "ja": "このウソはどんどん悪化してる"
     }
   },
   {
@@ -3127,38 +3127,38 @@
   },
   {
     "translation": {
-      "en": "There's no Band- Aid to patch it.",
+      "en": "There's no Band-Aid to patch it.",
       "ja": "バンドエイドはない"
     }
   },
   {
     "translation": {
       "en": "No, the only way to save our nation and the promise it once held",
-      "ja": "俺たちの国を救い 掲げた約束を守るには"
+      "ja": "俺たちの国を救い掲げた約束を守るには"
     }
   },
   {
     "translation": {
       "en": "is to erase it. Start over.",
-      "ja": "すべて消して やり直すしかない"
+      "ja": "すべて消してやり直すしかない"
     }
   },
   {
     "translation": {
       "en": "So maybe then.",
-      "ja": "がれきの向こうにいる人と 見つめ合う時こそ"
+      "ja": "がれきの向こうにいる人と見つめ合う時こそ"
     }
   },
   {
     "translation": {
       "en": "when we are staring at each other",
-      "ja": "がれきの向こうにいる人と 見つめ合う時こそ 〝迎撃まで〞"
+      "ja": "がれきの向こうにいる人と見つめ合う時こそ 〝迎撃まで〞"
     }
   },
   {
     "translation": {
       "en": "from across the rubble,",
-      "ja": "がれきの向こうにいる人と 見つめ合う時こそ"
+      "ja": "がれきの向こうにいる人と見つめ合う時こそ"
     }
   },
   {
@@ -3218,7 +3218,7 @@
   {
     "translation": {
       "en": "Never been the subject to enhanced screenings at airports?",
-      "ja": "空港で追加の検査を 受けたことは？"
+      "ja": "空港で追加の検査を受けたことは？"
     }
   },
   {
@@ -3247,14 +3247,14 @@
   },
   {
     "translation": {
-      "en": "I got this, boss.",
+      "en": "I got this, boss. [inhaling]",
       "ja": "任せろ　ボス"
     }
   },
   {
     "translation": {
       "en": "This is Captain Joanna Julia Collins.",
-      "ja": "ジョアンナ･ フリア･コリンズ大尉だ"
+      "ja": "ジョアンナ･フリア･コリンズ大尉だ"
     }
   },
   {
@@ -3278,7 +3278,7 @@
   {
     "translation": {
       "en": "tried to abuse his position of power and force her to have sex with him.",
-      "ja": "権力を乱用して セックスを強要した"
+      "ja": "権力を乱用してセックスを強要した"
     }
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "translation": {
       "en": "You should be showering her with praise,",
-      "ja": "本来ならＪＪを 称賛するべきだ"
+      "ja": "本来ならＪＪを称賛するべきだ"
     }
   },
   {
@@ -3320,7 +3320,7 @@
   {
     "translation": {
       "en": "I offered her 30 million dollars to give up her post today.",
-      "ja": "彼女に3000万ドルで 寝返れと言った"
+      "ja": "彼女に3000万ドルで寝返れと言った"
     }
   },
   {
@@ -3332,7 +3332,7 @@
   {
     "translation": {
       "en": "She took that photo for charity, by the way.",
-      "ja": "写真は チャリティーのためだった"
+      "ja": "写真はチャリティーのためだった"
     }
   },
   {
@@ -3362,30 +3362,30 @@
   {
     "translation": {
       "en": "but the most common injury is dislocated thumbs.",
-      "ja": "でも一番多いのは 親指の脱臼よ"
+      "ja": "でも一番多いのは親指の脱臼よ"
     }
   },
   {
     "translation": {
-      "en": "- - Oh shit.",
+      "en": "-[grunts] -[Beaver] Oh shit.",
       "ja": "ヤバい"
     }
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "[Kessel] No!",
       "ja": "チクショウ"
     }
   },
   {
     "translation": {
-      "en": "Shit!",
+      "en": "Shit! [panting]",
       "ja": "クソ"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in six minutes.",
+      "en": "[computer voice] Intercept launch expires in six minutes.",
       "ja": "迎撃可能時間は残り６分です"
     }
   },
@@ -3403,7 +3403,7 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in five minutes.",
+      "en": "[computer voice] Intercept launch expires in five minutes.",
       "ja": "迎撃可能時間は残り５分です"
     }
   },
@@ -3415,13 +3415,13 @@
   },
   {
     "translation": {
-      "en": "Interceptor launched.",
+      "en": "[computer voice] Interceptor launched.",
       "ja": "迎撃ミサイル発射"
     }
   },
   {
     "translation": {
-      "en": "Missile intercepted.",
+      "en": "[computer voice] Missile intercepted.",
       "ja": "迎撃完了"
     }
   },
@@ -3433,20 +3433,20 @@
   },
   {
     "translation": {
-      "en": "Remember? I said, Whatever happens, make sure you shoot her first.",
-      "ja": "覚えてるか？ “何があっても 最初にあいつを撃て”"
+      "en": "Remember? I said, \"Whatever happens, make sure you shoot her first.\" [sniffs]",
+      "ja": "覚えてるか？ “何があっても最初にあいつを撃て”"
     }
   },
   {
     "translation": {
-      "en": "You just take her out of the fight, because if you don't do that,",
-      "ja": "“何があっても 最初にあいつを撃て” “すぐに撃ち殺さないと 面倒を起こす”とな"
+      "en": "\"You just take her out of the fight, because if you don't do that,",
+      "ja": "“何があっても最初にあいつを撃て” “すぐに撃ち殺さないと面倒を起こす”とな"
     }
   },
   {
     "translation": {
-      "en": "if you don't just put her down right away, man, she's gonna be trouble.",
-      "ja": "“すぐに撃ち殺さないと 面倒を起こす”とな"
+      "en": "if you don't just put her down right away, man, she's gonna be trouble.\"",
+      "ja": "“すぐに撃ち殺さないと面倒を起こす”とな"
     }
   },
   {
@@ -3481,7 +3481,7 @@
   },
   {
     "translation": {
-      "en": "Setback?",
+      "en": "[Beaver] Setback?",
       "ja": "後退？"
     }
   },
@@ -3547,7 +3547,7 @@
   },
   {
     "translation": {
-      "en": "Really?",
+      "en": "Really? [sighs]",
       "ja": "マジ？"
     }
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "translation": {
-      "en": "Doing my best here, ma'am.",
+      "en": "[panting] Doing my best here, ma'am.",
       "ja": "全力を尽くしてます"
     }
   },
@@ -3583,7 +3583,7 @@
   },
   {
     "translation": {
-      "en": "Understood.",
+      "en": "[Dyson] Understood.",
       "ja": "了解"
     }
   },
@@ -3607,7 +3607,7 @@
   },
   {
     "translation": {
-      "en": "And we got some background on Alexander Kessel.",
+      "en": "[Dyson] And we got some background on Alexander Kessel.",
       "ja": "ケッセルの情報だ"
     }
   },
@@ -3620,31 +3620,31 @@
   {
     "translation": {
       "en": "Started out doing Russian work, then became a psy ops and torture specialist.",
-      "ja": "ロシアを担当し 心理戦と拷問の専門家に"
+      "ja": "ロシアを担当し心理戦と拷問の専門家に"
     }
   },
   {
     "translation": {
-      "en": "Torture?",
+      "en": "[Collins] Torture?",
       "ja": "拷問？"
     }
   },
   {
     "translation": {
-      "en": "He was good. Too good sometimes. Killed two prisoners while he was torturing them.",
-      "ja": "腕が立ち過ぎて 拷問中に２人殺してる"
+      "en": "[Dyson] He was good. Too good sometimes. Killed two prisoners while he was torturing them.",
+      "ja": "腕が立ち過ぎて拷問中に２人殺してる"
     }
   },
   {
     "translation": {
-      "en": "Jesus. I'm dealing with a genuine psychopath.",
+      "en": "[Collins] Jesus. I'm dealing with a genuine psychopath.",
       "ja": "本物のサイコパスね"
     }
   },
   {
     "translation": {
       "en": "You're not alone. Lot of smart people here trying to figure out a way to help you.",
-      "ja": "優秀な人々が 君を助けようとしてる"
+      "ja": "優秀な人々が君を助けようとしてる"
     }
   },
   {
@@ -3656,7 +3656,7 @@
   {
     "translation": {
       "en": "Fuck theory. I need some fucking soldiers with guns.",
-      "ja": "理論は無用よ 武装兵をよこして"
+      "ja": "理論は無用よ武装兵をよこして"
     }
   },
   {
@@ -3673,8 +3673,8 @@
   },
   {
     "translation": {
-      "en": "If you don't mind me saying, you are one armor- plated woman. Army never should have picked a fight with you.",
-      "ja": "君はタフな女性だ 陸軍は争うべきじゃなかった"
+      "en": "If you don't mind me saying, you are one armor-plated woman. Army never should have picked a fight with you.",
+      "ja": "君はタフな女性だ陸軍は争うべきじゃなかった"
     }
   },
   {
@@ -3734,12 +3734,12 @@
   {
     "translation": {
       "en": "Yeah, well, that's because I'm still fucking up his day.",
-      "ja": "あいつの夢を ぶち壊してるからね"
+      "ja": "あいつの夢をぶち壊してるからね"
     }
   },
   {
     "translation": {
-      "en": "Papa?",
+      "en": "[Collins] Papa?",
       "ja": "父さん？"
     }
   },
@@ -3769,14 +3769,14 @@
   },
   {
     "translation": {
-      "en": "I'll take care of it.",
+      "en": "[Papa] I'll take care of it.",
       "ja": "私が片づける"
     }
   },
   {
     "translation": {
       "en": "Do not let them get to you now. Don't let them win.",
-      "ja": "くじけるな ヤツらに勝たせるなよ"
+      "ja": "くじけるなヤツらに勝たせるなよ"
     }
   },
   {
@@ -3799,14 +3799,14 @@
   },
   {
     "translation": {
-      "en": "I care.",
+      "en": "[Papa] I care.",
       "ja": "私は気にする"
     }
   },
   {
     "translation": {
       "en": "I've lost everything. Everything I ever worked for.",
-      "ja": "積み上げたものを すべて失った"
+      "ja": "積み上げたものをすべて失った"
     }
   },
   {
@@ -3835,7 +3835,7 @@
   },
   {
     "translation": {
-      "en": "You got fight in you, kid.",
+      "en": "[Papa] You got fight in you, kid.",
       "ja": "お前には闘志がある"
     }
   },
@@ -3847,7 +3847,7 @@
   },
   {
     "translation": {
-      "en": "Captain?",
+      "en": "[Shah] Captain?",
       "ja": "大尉"
     }
   },
@@ -3865,13 +3865,13 @@
   },
   {
     "translation": {
-      "en": "Not long. Fifteen minutes or so.",
+      "en": "[Shah] Not long. Fifteen minutes or so.",
       "ja": "15分くらい前だ"
     }
   },
   {
     "translation": {
-      "en": "What now, asshole?",
+      "en": "[Collins] What now, asshole?",
       "ja": "何の用？　クズ"
     }
   },
@@ -3889,14 +3889,14 @@
   },
   {
     "translation": {
-      "en": "You know, growing up, I never summered where I wintered.",
-      "ja": "夏と冬を 同じ場所で過ごさなかった"
+      "en": "You know, growing up, I never summered where I wintered. [chuckles]",
+      "ja": "夏と冬を同じ場所で過ごさなかった"
     }
   },
   {
     "translation": {
       "en": "I was either on a yacht in the Hamptons or skiing in Val d'Isère.",
-      "ja": "ハンプトンズでヨットか ヴァル･ディゼールでスキー"
+      "ja": "ハンプトンズでヨットかヴァル･ディゼールでスキー"
     }
   },
   {
@@ -3920,13 +3920,13 @@
   {
     "translation": {
       "en": "A society that consistently rewards money and ignores everything else.",
-      "ja": "常にカネを重視し 他を無視する社会のな"
+      "ja": "常にカネを重視し他を無視する社会のな"
     }
   },
   {
     "translation": {
       "en": "What? You think my father became ambassador to the UN because of any worthwhile diplomatic skills",
-      "ja": "父が国連大使になった理由は 外交手腕だと思うか？"
+      "ja": "父が国連大使になった理由は外交手腕だと思うか？"
     }
   },
   {
@@ -3955,7 +3955,7 @@
   },
   {
     "translation": {
-      "en": "He inherited his money. - He didn't earn it. - God.",
+      "en": "He inherited his money. -He didn't earn it. -God.",
       "ja": "相続しただけだ"
     }
   },
@@ -3997,13 +3997,13 @@
   },
   {
     "translation": {
-      "en": "Thirty- six years.",
+      "en": "Thirty-six years.",
       "ja": "36年 務めた"
     }
   },
   {
     "translation": {
-      "en": "That's how he met your mom? When he was stationed in Spain?",
+      "en": "[Kessel] That's how he met your mom? When he was stationed in Spain?",
       "ja": "スペインで母親に会った？"
     }
   },
@@ -4015,7 +4015,7 @@
   },
   {
     "translation": {
-      "en": "Every day.",
+      "en": "[Collins] Every day.",
       "ja": "毎日ね"
     }
   },
@@ -4033,8 +4033,8 @@
   },
   {
     "translation": {
-      "en": "The Patriot's Valley Veterans Retirement Home.",
-      "ja": "パトリオットバレー 退役軍人の老人ホーム"
+      "en": "[Kessel] The Patriot's Valley Veterans Retirement Home.",
+      "ja": "パトリオットバレー退役軍人の老人ホーム"
     }
   },
   {
@@ -4057,7 +4057,7 @@
   },
   {
     "translation": {
-      "en": "- He's got nothing to do with this! - Beg to differ.",
+      "en": "-He's got nothing to do with this! -Beg to differ.",
       "ja": "解放して　父は関係ない 違う"
     }
   },
@@ -4081,7 +4081,7 @@
   },
   {
     "translation": {
-      "en": "- Let's see if that's still valid. - Fuck you!",
+      "en": "-[Kessel] Let's see if that's still valid. -Fuck you!",
       "ja": "まだ有効かな くたばれ！"
     }
   },
@@ -4105,14 +4105,14 @@
   },
   {
     "translation": {
-      "en": "Let him go!",
+      "en": "[gasps] Let him go!",
       "ja": "解放して！"
     }
   },
   {
     "translation": {
       "en": "If you don't open the door, I will take apart your father piece by piece.",
-      "ja": "扉を開けないと バラバラにする"
+      "ja": "扉を開けないとバラバラにする"
     }
   },
   {
@@ -4123,7 +4123,7 @@
   },
   {
     "translation": {
-      "en": "- Fine. Have it your way. - No, no! Please.",
+      "en": "-Fine. Have it your way. -No, no! Please.",
       "ja": "やめて！ 分かった　好きにしろ"
     }
   },
@@ -4135,7 +4135,7 @@
   },
   {
     "translation": {
-      "en": "- Do it. - No, no, no!",
+      "en": "-Do it. -No, no, no!",
       "ja": "やれ"
     }
   },
@@ -4147,19 +4147,19 @@
   },
   {
     "translation": {
-      "en": "- No, no, no! -",
+      "en": "-[Collins] No, no, no! -[groaning]",
       "ja": "ダメ　ダメ"
     }
   },
   {
     "translation": {
-      "en": "- You know I can't. - Yes, you can.",
+      "en": "-You know I can't. -[Kessel] Yes, you can.",
       "ja": "開けられない できるとも"
     }
   },
   {
     "translation": {
-      "en": "- No, I can't. - You can make this stop whenever you want.",
+      "en": "-No, I can't. -You can make this stop whenever you want.",
       "ja": "いつでも止められる"
     }
   },
@@ -4171,7 +4171,7 @@
   },
   {
     "translation": {
-      "en": "- Let me speak with him! - Captain, no.",
+      "en": "-Let me speak with him! -Captain, no.",
       "ja": "大尉　ダメだ"
     }
   },
@@ -4183,13 +4183,13 @@
   },
   {
     "translation": {
-      "en": "Papa?",
+      "en": "[Collins] Papa?",
       "ja": "父さん？"
     }
   },
   {
     "translation": {
-      "en": "- JJ. - I can't…",
+      "en": "-JJ. -I can't…",
       "ja": "ＪＪ"
     }
   },
@@ -4213,19 +4213,19 @@
   },
   {
     "translation": {
-      "en": "- Kill him. - No! No!",
+      "en": "-Kill him. -No! No!",
       "ja": "殺せ やめて！"
     }
   },
   {
     "translation": {
-      "en": "- No, please God. God! -",
+      "en": "-No, please God. God! -[gunshot]",
       "ja": "お願い　神様"
     }
   },
   {
     "translation": {
-      "en": "No!  No, no!",
+      "en": "No! [sobs] No, no!",
       "ja": "ダメ　イヤ！"
     }
   },
@@ -4243,7 +4243,7 @@
   },
   {
     "translation": {
-      "en": "How did they know?",
+      "en": "[Shah] How did they know?",
       "ja": "父上の居場所が⸺"
     }
   },
@@ -4256,31 +4256,31 @@
   {
     "translation": {
       "en": "The Army signed your transfer order last night, right?",
-      "ja": "転属命令書の署名は 昨夜だよね"
+      "ja": "転属命令書の署名は昨夜だよね"
     }
   },
   {
     "translation": {
-      "en": "Right.",
+      "en": "[panting] Right.",
       "ja": "そうよ"
     }
   },
   {
     "translation": {
       "en": "Which means they couldn't have known until a few hours ago.",
-      "ja": "数時間前まで 知らなかったはず"
+      "ja": "数時間前まで知らなかったはず"
     }
   },
   {
     "translation": {
-      "en": "You still don't get it? You're a pariah in your own ranks.",
+      "en": "[Kessel] You still don't get it? You're a pariah in your own ranks.",
       "ja": "分からないか のけ者なんだよ"
     }
   },
   {
     "translation": {
       "en": "The decision to have you transferred to this godforsaken rig was made three days ago. They only told you last night.",
-      "ja": "決定は３日前 でも知らせたのは昨夜"
+      "ja": "決定は３日前でも知らせたのは昨夜"
     }
   },
   {
@@ -4291,14 +4291,14 @@
   },
   {
     "translation": {
-      "en": "- What are you doing? - Activating my insurance policy.",
+      "en": "-[sharp inhale] What are you doing? -Activating my insurance policy.",
       "ja": "何してる？ 保険をかけておいた"
     }
   },
   {
     "translation": {
       "en": "If she's committed enough to watch her father die, you will find that I am equally as committed.",
-      "ja": "父親を見殺しにする女と 同じくらい 俺の意志も固い"
+      "ja": "父親を見殺しにする女と同じくらい 俺の意志も固い"
     }
   },
   {
@@ -4315,8 +4315,8 @@
   },
   {
     "translation": {
-      "en": "Our telemetry's saying SBX- 1's asset removal protocol just activated.",
-      "ja": "施設廃棄プロトコルが 起動した"
+      "en": "Our telemetry's saying SBX-1's asset removal protocol just activated.",
+      "ja": "施設廃棄プロトコルが起動した"
     }
   },
   {
@@ -4327,7 +4327,7 @@
   },
   {
     "translation": {
-      "en": "He's going to sink us.",
+      "en": "He's going to sink us. [gasps]",
       "ja": "沈める気です"
     }
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "translation": {
-      "en": "High value asset removal protocol activated.",
+      "en": "[computer voice] High value asset removal protocol activated.",
       "ja": "施設廃棄プロトコルが作動"
     }
   },
@@ -4357,7 +4357,7 @@
   },
   {
     "translation": {
-      "en": "Thirteen minutes until total vessel submersion.",
+      "en": "[computer voice] Thirteen minutes until total vessel submersion.",
       "ja": "船舶の完全水没まで13分"
     }
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "translation": {
-      "en": "Down where? Into the hulls?",
+      "en": "[Shah] Down where? Into the hulls?",
       "ja": "船体の中に？"
     }
   },
@@ -4417,7 +4417,7 @@
   },
   {
     "translation": {
-      "en": "You're running out of time. We clock it at 13 minutes.",
+      "en": "[Dyson] You're running out of time. We clock it at 13 minutes.",
       "ja": "あと13分しかない"
     }
   },
@@ -4435,13 +4435,13 @@
   },
   {
     "translation": {
-      "en": "Twenty- five.",
+      "en": "Twenty-five.",
       "ja": "25分"
     }
   },
   {
     "translation": {
-      "en": "Damn. I'll call you back.",
+      "en": "[sighs] Damn. I'll call you back.",
       "ja": "クソ　またかけます"
     }
   },
@@ -4477,7 +4477,7 @@
   },
   {
     "translation": {
-      "en": "You got this, Rahul.",
+      "en": "[Shah] You got this, Rahul.",
       "ja": "きっとできる"
     }
   },
@@ -4525,7 +4525,7 @@
   },
   {
     "translation": {
-      "en": "Twenty- two minutes out. Ready your weapons.",
+      "en": "[pilot] Twenty-two minutes out. Ready your weapons.",
       "ja": "あと22分　武器の用意"
     }
   },
@@ -4549,7 +4549,7 @@
   },
   {
     "translation": {
-      "en": "- You just have to slow it down. - Copy that.",
+      "en": "-[Collins] You just have to slow it down. -[Shah] Copy that.",
       "ja": "遅らせればいい 分かった"
     }
   },
@@ -4561,13 +4561,13 @@
   },
   {
     "translation": {
-      "en": "Recalculating. Recalculating.",
+      "en": "[computer voice] Recalculating. Recalculating.",
       "ja": "再計算中"
     }
   },
   {
     "translation": {
-      "en": "- 12 minutes 11 seconds until… - You just bought us two minutes.",
+      "en": "-12 minutes 11 seconds until… -[Collins] You just bought us two minutes.",
       "ja": "12分11秒 ２分 増えた"
     }
   },
@@ -4579,8 +4579,8 @@
   },
   {
     "translation": {
-      "en": "Hell, yeah. I'm an ass- kicking, valve- closing machine.",
-      "ja": "やったね 僕はイケてるバルブ閉め機だ"
+      "en": "Hell, yeah. I'm an ass-kicking, valve-closing machine.",
+      "ja": "やったね僕はイケてるバルブ閉め機だ"
     }
   },
   {
@@ -4591,7 +4591,7 @@
   },
   {
     "translation": {
-      "en": "- Oh. Shit. - What?",
+      "en": "-Oh. Shit. -What?",
       "ja": "マズい 何？"
     }
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "translation": {
-      "en": "It's too late.",
+      "en": "[Shah] It's too late.",
       "ja": "もう遅い"
     }
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "translation": {
-      "en": "Recalculating. Recalculating.",
+      "en": "[computer voice] Recalculating. Recalculating.",
       "ja": "再計算中"
     }
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "translation": {
-      "en": "Shah can't come to the phone right now.",
+      "en": "[Beaver] Shah can't come to the phone right now.",
       "ja": "シャーは電話に出られません"
     }
   },
@@ -4730,7 +4730,7 @@
   {
     "translation": {
       "en": "His psych evaluation said he'd fold under pressure. I didn't even bother to put people on his family.",
-      "ja": "重圧に弱いという評価で 家族も人質にしてない"
+      "ja": "重圧に弱いという評価で家族も人質にしてない"
     }
   },
   {
@@ -4753,8 +4753,8 @@
   },
   {
     "translation": {
-      "en": "ZSB, Zulu, Sierra, Bravo, 1- 9- 9- 6.",
-      "ja": "ＺＳＢ ズールー･シエラ･ブラボー 1996"
+      "en": "ZSB, Zulu, Sierra, Bravo, 1-9-9-6.",
+      "ja": "ＺＳＢズールー･シエラ･ブラボー 1996"
     }
   },
   {
@@ -4813,14 +4813,14 @@
   },
   {
     "translation": {
-      "en": "I should have known.",
+      "en": "I should have known. [inhales]",
       "ja": "そうだったか"
     }
   },
   {
     "translation": {
       "en": "You're not a nuclear terrorist or a fanatic. You've been paid for this.",
-      "ja": "テロリストじゃなくて 雇われ兵ね"
+      "ja": "テロリストじゃなくて雇われ兵ね"
     }
   },
   {
@@ -4832,19 +4832,19 @@
   {
     "translation": {
       "en": "So what if I'm getting paid? Huh? Am I wrong?",
-      "ja": "雇われ兵だとしたら 何が悪い？"
+      "ja": "雇われ兵だとしたら何が悪い？"
     }
   },
   {
     "translation": {
       "en": "I'm destroying a system that tried to destroy you.",
-      "ja": "君を壊そうとしたシステムを 壊してる"
+      "ja": "君を壊そうとしたシステムを壊してる"
     }
   },
   {
     "translation": {
       "en": "I'm making sure what happened to you doesn't happen to other women.",
-      "ja": "他の女性に 起こらないようにしてる"
+      "ja": "他の女性に起こらないようにしてる"
     }
   },
   {
@@ -4886,7 +4886,7 @@
   {
     "translation": {
       "en": "The Danilov, huh? Yeah, how's Danny?",
-      "ja": "ダニロフ号ね ダニーは元気？"
+      "ja": "ダニロフ号ねダニーは元気？"
     }
   },
   {
@@ -4951,38 +4951,38 @@
   },
   {
     "translation": {
-      "en": "Bullshit. I saw your file. You're just a total fucking psycho.",
-      "ja": "ウソね　資料を見た あんたはただのサイコよ"
+      "en": "[Collins] Bullshit. I saw your file. You're just a total fucking psycho.",
+      "ja": "ウソね　資料を見たあんたはただのサイコよ"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. - For what?",
+      "en": "-Thank you. -[Kessel] For what?",
       "ja": "ありがとう 何が？"
     }
   },
   {
     "translation": {
-      "en": "- For showing me your weakness. - Oh, yeah. What's that?",
+      "en": "-[Collins] For showing me your weakness. -Oh, yeah. What's that?",
       "ja": "弱点が見えた 何だよ？"
     }
   },
   {
     "translation": {
-      "en": "You want to get out of here alive.",
+      "en": "[Collins] You want to get out of here alive.",
       "ja": "生きて出たいのね"
     }
   },
   {
     "translation": {
-      "en": "You know what else I want? I want to hurt you, JJ.",
-      "ja": "もう１つ 君の指を切り落とし “殺して”と叫ばせたい"
+      "en": "[Kessel] You know what else I want? I want to hurt you, JJ.",
+      "ja": "もう１つ 君の指を切り落とし“殺して”と叫ばせたい"
     }
   },
   {
     "translation": {
       "en": "I want to cut off your fingers. I want you to beg me to kill you!",
-      "ja": "君の指を切り落とし “殺して”と叫ばせたい"
+      "ja": "君の指を切り落とし“殺して”と叫ばせたい"
     }
   },
   {
@@ -4994,7 +4994,7 @@
   {
     "translation": {
       "en": "Good job cutting the live feed. SEALS are 17 minutes out.",
-      "ja": "よく放送を止めた シールズはあと17分だ"
+      "ja": "よく放送を止めたシールズはあと17分だ"
     }
   },
   {
@@ -5012,7 +5012,7 @@
   {
     "translation": {
       "en": "And the second it goes under, these assholes will launch all their nukes.",
-      "ja": "その瞬間 ミサイルは発射される"
+      "ja": "その瞬間ミサイルは発射される"
     }
   },
   {
@@ -5024,13 +5024,13 @@
   {
     "translation": {
       "en": "I sort of have this plan.",
-      "ja": "１つあるけど 直観に反してます"
+      "ja": "１つあるけど直観に反してます"
     }
   },
   {
     "translation": {
-      "en": "- But it's a little counterintuitive. - Let's hear it, Captain.",
-      "ja": "１つあるけど 直観に反してます 聞かせて"
+      "en": "-But it's a little counterintuitive. -[President] Let's hear it, Captain.",
+      "ja": "１つあるけど直観に反してます 聞かせて"
     }
   },
   {
@@ -5054,7 +5054,7 @@
   {
     "translation": {
       "en": "We have to force them to fire the missiles before that happens.",
-      "ja": "その前に 核ミサイルを発射させる"
+      "ja": "その前に核ミサイルを発射させる"
     }
   },
   {
@@ -5066,12 +5066,12 @@
   {
     "translation": {
       "en": "And then I retake the command center and intercept their nukes.",
-      "ja": "司令室を取り戻し 核ミサイルを迎撃する"
+      "ja": "司令室を取り戻し核ミサイルを迎撃する"
     }
   },
   {
     "translation": {
-      "en": "Inside 12 minutes?",
+      "en": "[Dyson] Inside 12 minutes?",
       "ja": "12分で？"
     }
   },
@@ -5083,7 +5083,7 @@
   },
   {
     "translation": {
-      "en": "Hold on.",
+      "en": "[Dyson] Hold on.",
       "ja": "待ってろ"
     }
   },
@@ -5108,19 +5108,19 @@
   {
     "translation": {
       "en": "By my calculations, your proposed plan has a 14% chance of success.",
-      "ja": "僕の計算では 計画の成功率は14％です"
+      "ja": "僕の計算では計画の成功率は14％です"
     }
   },
   {
     "translation": {
       "en": "To give up that command center to a superior force with no certainty of regaining it",
-      "ja": "司令室を奪還の確証なしに 明け渡せば"
+      "ja": "司令室を奪還の確証なしに明け渡せば"
     }
   },
   {
     "translation": {
       "en": "is what we refer to as a negative outcome inducing event.",
-      "ja": "司令室を奪還の確証なしに 明け渡せば 否定的な結果を生む"
+      "ja": "司令室を奪還の確証なしに明け渡せば 否定的な結果を生む"
     }
   },
   {
@@ -5132,7 +5132,7 @@
   {
     "translation": {
       "en": "Are you willing to gamble every life in America on your ability to retake the center?",
-      "ja": "君の手腕に 全国民の命を賭けろと？"
+      "ja": "君の手腕に全国民の命を賭けろと？"
     }
   },
   {
@@ -5150,7 +5150,7 @@
   {
     "translation": {
       "en": "Listen, genius. You're saying my plan is running at 14%?",
-      "ja": "聞きな 天才 私の計画は14％？"
+      "ja": "聞きな 天才私の計画は14％？"
     }
   },
   {
@@ -5162,7 +5162,7 @@
   {
     "translation": {
       "en": "You haven't been beat up, strangled, or shot defending this rig today.",
-      "ja": "今日 殴られも撃たれも してないくせに"
+      "ja": "今日 殴られも撃たれもしてないくせに"
     }
   },
   {
@@ -5186,7 +5186,7 @@
   {
     "translation": {
       "en": "Half the people here think you're crazy. The other half think you're a rock star.",
-      "ja": "半数は“クレイジー” 半数は“ロックスター”と"
+      "ja": "半数は“クレイジー”半数は“ロックスター”と"
     }
   },
   {
@@ -5203,13 +5203,13 @@
   },
   {
     "translation": {
-      "en": "Still there?",
+      "en": "[Collins] Still there?",
       "ja": "まだいる？"
     }
   },
   {
     "translation": {
-      "en": "- What do you think? - I think you're getting nervous.",
+      "en": "-What do you think? -[Collins] I think you're getting nervous.",
       "ja": "どう思う？ 心配でしょ"
     }
   },
@@ -5227,7 +5227,7 @@
   },
   {
     "translation": {
-      "en": "Intercom off.",
+      "en": "[whispers] Intercom off.",
       "ja": "オフにしろ"
     }
   },
@@ -5245,7 +5245,7 @@
   },
   {
     "translation": {
-      "en": "About 30 seconds.",
+      "en": "[Beaver] About 30 seconds.",
       "ja": "あと30秒"
     }
   },
@@ -5263,7 +5263,7 @@
   },
   {
     "translation": {
-      "en": "Relax. I'm there.",
+      "en": "[Beaver] Relax. I'm there.",
       "ja": "落ち着け　すぐだ"
     }
   },
@@ -5275,7 +5275,7 @@
   },
   {
     "translation": {
-      "en": "What do you mean, gone? Where is she?",
+      "en": "[Kessel] What do you mean, gone? Where is she?",
       "ja": "どういう意味だ？"
     }
   },
@@ -5287,7 +5287,7 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[Kessel] What?",
       "ja": "どうした"
     }
   },
@@ -5300,7 +5300,7 @@
   {
     "translation": {
       "en": "Attention all missile teams, we have control of the interceptor.",
-      "ja": "ミサイルチーム 司令室を占拠した"
+      "ja": "ミサイルチーム司令室を占拠した"
     }
   },
   {
@@ -5311,38 +5311,38 @@
   },
   {
     "translation": {
-      "en": "Multiple missile launch detected. Multiple missile launch detected.",
+      "en": "[computer voice] Multiple missile launch detected. Multiple missile launch detected.",
       "ja": "複数のミサイル発射を検知"
     }
   },
   {
     "translation": {
-      "en": "Woo! Let's go, baby. Light 'em up!",
+      "en": "[Beaver] Woo! Let's go, baby. Light 'em up!",
       "ja": "ウー！　やったぜ 火をつけろ"
     }
   },
   {
     "translation": {
-      "en": "Targets acquired. Targets acquired.",
+      "en": "[computer voice] Targets acquired. Targets acquired.",
       "ja": "複数の目標を捕捉"
     }
   },
   {
     "translation": {
       "en": "Seattle, San Francisco, Las Vegas, Denver, St. Louis, Memphis,",
-      "ja": "シアトル サンフランシスコ ラスベガス デンバー セントルイス メンフィス"
+      "ja": "シアトル サンフランシスコ ラスベガス デンバーセントルイス メンフィス"
     }
   },
   {
     "translation": {
       "en": "Chicago, Cincinnati, Atlanta, Miami, Washington DC,",
-      "ja": "シカゴ シンシナティ アトランタ マイアミ ワシントンＤＣ"
+      "ja": "シカゴ シンシナティアトランタ マイアミ ワシントンＤＣ"
     }
   },
   {
     "translation": {
       "en": "Boston, New York, Dallas, Philadelphia.",
-      "ja": "ボストン ニューヨーク ダラス フィラデルフィア"
+      "ja": "ボストン ニューヨークダラス フィラデルフィア"
     }
   },
   {
@@ -5353,25 +5353,25 @@
   },
   {
     "translation": {
-      "en": "She come for me.",
+      "en": "[Beaver] She come for me.",
       "ja": "俺を狙ってるな"
     }
   },
   {
     "translation": {
-      "en": "Come make ten million, he says.",
+      "en": "\"Come make ten million,\" he says.",
       "ja": "彼は“1000万を稼げ”とさ"
     }
   },
   {
     "translation": {
-      "en": "Buy yourself a private island, he says. Piece of cake.",
+      "en": "\"Buy yourself a private island,\" he says. \"Piece of cake.\"",
       "ja": "“島を買え　簡単だ”"
     }
   },
   {
     "translation": {
-      "en": "Oh, man.",
+      "en": "Oh, man. [inhales]",
       "ja": "まったく"
     }
   },
@@ -5401,13 +5401,13 @@
   },
   {
     "translation": {
-      "en": "Where are you, darlin'?",
+      "en": "[Beaver] Where are you, darlin'?",
       "ja": "どこだ？　ダーリン"
     }
   },
   {
     "translation": {
-      "en": "Come out, come out, wherever you are.",
+      "en": "[in singsong] Come out, come out, wherever you are.",
       "ja": "出てこい　どこにいる"
     }
   },
@@ -5461,19 +5461,19 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in eight minutes.",
+      "en": "[computer voice] Intercept launch expires in eight minutes.",
       "ja": "迎撃可能時間は残り８分です"
     }
   },
   {
     "translation": {
-      "en": "Ivan.",
+      "en": "[whispers] Ivan.",
       "ja": "アイヴァン"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in seven minutes.",
+      "en": "[computer voice] Intercept launch expires in seven minutes.",
       "ja": "迎撃可能時間は残り７分です"
     }
   },
@@ -5485,14 +5485,14 @@
   },
   {
     "translation": {
-      "en": "Can't let you do that, darlin'.",
+      "en": "[Beaver] Can't let you do that, darlin'.",
       "ja": "やらせねえよ　ダーリン"
     }
   },
   {
     "translation": {
       "en": "Let me go, Beaver. You don't want this.",
-      "ja": "放して こんなことイヤでしょ"
+      "ja": "放してこんなことイヤでしょ"
     }
   },
   {
@@ -5509,19 +5509,19 @@
   },
   {
     "translation": {
-      "en": "No, I'm not. I'm on the next submarine out of here.",
-      "ja": "いいや 次の潜水艦でここを出る"
+      "en": "No, I'm not. I'm on the next submarine out of here. [chuckles]",
+      "ja": "いいや次の潜水艦でここを出る"
     }
   },
   {
     "translation": {
-      "en": "With Alexander? He's gone.",
-      "ja": "アレグザンダーなら もう行った"
+      "en": "With Alexander? He's gone. [panting]",
+      "ja": "アレグザンダーならもう行った"
     }
   },
   {
     "translation": {
-      "en": "- - Bullshit.",
+      "en": "-[Collins groans] -[Beaver] Bullshit.",
       "ja": "デタラメだ"
     }
   },
@@ -5533,13 +5533,13 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in five minutes.",
+      "en": "[computer voice] Intercept launch expires in five minutes.",
       "ja": "迎撃可能時間は残り５分です"
     }
   },
   {
     "translation": {
-      "en": "Really think a little bit of razor wire is gonna kill me?",
+      "en": "[snickers] Really think a little bit of razor wire is gonna kill me?",
       "ja": "有刺鉄線で殺せるかよ"
     }
   },
@@ -5551,7 +5551,7 @@
   },
   {
     "translation": {
-      "en": "JJ… JJ, come on.",
+      "en": "[father] JJ… JJ, come on.",
       "ja": "ＪＪ　ＪＪ"
     }
   },
@@ -5575,13 +5575,13 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in three minutes.",
+      "en": "[computer voice] Intercept launch expires in three minutes.",
       "ja": "迎撃可能時間は残り３分です"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 60 seconds.",
+      "en": "[computer voice] Intercept launch expires in 60 seconds.",
       "ja": "迎撃可能時間は残り60秒です"
     }
   },
@@ -5605,31 +5605,31 @@
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 40 seconds.",
+      "en": "[computer voice] Intercept launch expires in 40 seconds.",
       "ja": "迎撃可能時間は残り40秒です"
     }
   },
   {
     "translation": {
-      "en": "Don't give up. Don't give up.",
+      "en": "[panting] Don't give up. Don't give up.",
       "ja": "“戦いをやめるな”"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 30 seconds.",
+      "en": "[computer voice] Intercept launch expires in 30 seconds.",
       "ja": "迎撃可能時間は残り30秒です"
     }
   },
   {
     "translation": {
-      "en": "Intercept launch expires in 20 seconds.",
+      "en": "[computer voice] Intercept launch expires in 20 seconds.",
       "ja": "迎撃可能時間は残り20秒です"
     }
   },
   {
     "translation": {
-      "en": "Ten seconds. Nine, eight, seven, six,",
+      "en": "[computer voice] Ten seconds. Nine, eight, seven, six,",
       "ja": "10　９　８　７　６"
     }
   },
@@ -5641,7 +5641,7 @@
   },
   {
     "translation": {
-      "en": "Interceptors launched.",
+      "en": "[computer voice] Interceptors launched.",
       "ja": "迎撃ミサイル発射"
     }
   },
@@ -5653,13 +5653,13 @@
   },
   {
     "translation": {
-      "en": "Multiple missile interception complete.",
+      "en": "[computer voice] Multiple missile interception complete.",
       "ja": "複数ミサイルの迎撃完了"
     }
   },
   {
     "translation": {
-      "en": "Yeah! Woo- hoo!",
+      "en": "Yeah! Woo-hoo!",
       "ja": "やった！"
     }
   },
@@ -5671,7 +5671,7 @@
   },
   {
     "translation": {
-      "en": "Look at you.",
+      "en": "[Kessel] Look at you.",
       "ja": "すごいな"
     }
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "translation": {
-      "en": "Told you. War's not over yet.",
+      "en": "[panting] Told you. War's not over yet.",
       "ja": "戦いは終わってない"
     }
   },
@@ -5719,43 +5719,43 @@
   },
   {
     "translation": {
-      "en": "There's my ride.",
+      "en": "[Kessel] There's my ride.",
       "ja": "あれに乗る"
     }
   },
   {
     "translation": {
-      "en": "There's no room for you.",
+      "en": "[Kessel] There's no room for you.",
       "ja": "君は乗せない"
     }
   },
   {
     "translation": {
-      "en": "I've arrived. I can see him.",
+      "en": "[man 1, in Russian] I've arrived. I can see him.",
       "ja": "〈到着　彼を発見〉"
     }
   },
   {
     "translation": {
-      "en": "You know what to do.",
+      "en": "[man 2, in Russian] You know what to do.",
       "ja": "〈どうするか分かるな〉"
     }
   },
   {
     "translation": {
-      "en": "What about the woman?",
+      "en": "[man 1] What about the woman?",
       "ja": "〈女は？〉"
     }
   },
   {
     "translation": {
-      "en": "Your choice.",
+      "en": "[man 2] Your choice.",
       "ja": "〈君の選択だ〉"
     }
   },
   {
     "translation": {
-      "en": "Target in sight. We'll arrive in 30 seconds.",
+      "en": "[pilot, in English] Target in sight. We'll arrive in 30 seconds.",
       "ja": "目標を目視　30秒で到着"
     }
   },
@@ -5791,13 +5791,13 @@
   },
   {
     "translation": {
-      "en": "Greely's back up. Interceptors on standby.",
+      "en": "[President] Greely's back up. Interceptors on standby.",
       "ja": "復活して待機中よ"
     }
   },
   {
     "translation": {
-      "en": "And we're going to replace SBX- 1 as soon as possible,",
+      "en": "And we're going to replace SBX-1 as soon as possible,",
       "ja": "ＳＢＸ-１も交代させる"
     }
   },
@@ -5810,7 +5810,7 @@
   {
     "translation": {
       "en": "In fact, I think a soldier of your caliber would be better put to use on my National Security staff.",
-      "ja": "国家安全保障局の職員として 私を補佐してほしい"
+      "ja": "国家安全保障局の職員として私を補佐してほしい"
     }
   },
   {
@@ -5821,7 +5821,7 @@
   },
   {
     "translation": {
-      "en": "I'll take that as a yes.",
+      "en": "[President] I'll take that as a yes.",
       "ja": "今のはイエスね"
     }
   },
@@ -5839,7 +5839,7 @@
   },
   {
     "translation": {
-      "en": "- Papa? - JJ.",
+      "en": "-Papa? -JJ.",
       "ja": "父さん？ ＪＪ"
     }
   },
@@ -5851,14 +5851,14 @@
   },
   {
     "translation": {
-      "en": "Turns out your dad has some very well- armed Army buddies watching over him in that retirement home.",
-      "ja": "重装備の軍人仲間が 老人ホームで見守ってた"
+      "en": "Turns out your dad has some very well-armed Army buddies watching over him in that retirement home.",
+      "ja": "重装備の軍人仲間が老人ホームで見守ってた"
     }
   },
   {
     "translation": {
       "en": "They saw what was happening on TV. Broke down my goddamn door.",
-      "ja": "テレビで見て 助けに来てくれたよ"
+      "ja": "テレビで見て助けに来てくれたよ"
     }
   },
   {
@@ -5870,7 +5870,7 @@
   {
     "translation": {
       "en": "Well, I'll expect you to report to the White House next week, Captain.",
-      "ja": "では 来週 ホワイトハウスで待ってるわ"
+      "ja": "では 来週ホワイトハウスで待ってるわ"
     }
   },
   {
@@ -5905,8 +5905,8 @@
   },
   {
     "translation": {
-      "en": "SEAL team found him swimming around the wreckage of SBX- 1.",
-      "ja": "シールズが 残骸のそばで見つけた"
+      "en": "SEAL team found him swimming around the wreckage of SBX-1.",
+      "ja": "シールズが残骸のそばで見つけた"
     }
   },
   {
@@ -5917,14 +5917,14 @@
   },
   {
     "translation": {
-      "en": "I heard what happened. I'm sorry.",
+      "en": "[father sighs] I heard what happened. I'm sorry.",
       "ja": "聞いた　残念だよ"
     }
   },
   {
     "translation": {
       "en": "You know, sometimes it's… it's best to talk about those we've lost so we don't forget.",
-      "ja": "亡くなった人の話をすれば 忘れずにいられる"
+      "ja": "亡くなった人の話をすれば忘れずにいられる"
     }
   },
   {
@@ -5935,7 +5935,7 @@
   },
   {
     "translation": {
-      "en": "Rahul?",
+      "en": "[father] Rahul?",
       "ja": "ラウルか"
     }
   },
@@ -5947,7 +5947,7 @@
   },
   {
     "translation": {
-      "en": "I see.",
+      "en": "[father] I see.",
       "ja": "そうか"
     }
   },

@@ -13,13 +13,13 @@
   },
   {
     "translation": {
-      "en": "- - Here's some water, okay?",
+      "en": "-[sighs] -[Cal] Here's some water, okay?",
       "ja": "ほら　お水"
     }
   },
   {
     "translation": {
-      "en": "Ugh... You okay?",
+      "en": "[Cal] Ugh... You okay?",
       "ja": "大丈夫？"
     }
   },
@@ -85,7 +85,7 @@
   },
   {
     "translation": {
-      "en": "- We're halfway to San Diego. - I know.",
+      "en": "-We're halfway to San Diego. -I know.",
       "ja": "もう中間地点まで来た ええ　分かってる"
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "It's just been hard to know for sure.",
+      "en": "[sighs] It's just been hard to know for sure.",
       "ja": "モヤモヤしてて"
     }
   },
@@ -115,20 +115,20 @@
   },
   {
     "translation": {
-      "en": "Look, Beck, I know it's not in your nature to put yourself first,",
-      "ja": "ベッキーは いつも 自分を後回しにするけど"
+      "en": "[sighs] Look, Beck, I know it's not in your nature to put yourself first,",
+      "ja": "ベッキーは いつも自分を後回しにするけど"
     }
   },
   {
     "translation": {
       "en": "but in this case, I don't think you should take Mom and Dad's feelings into account.",
-      "ja": "今回は父さんや 母さんのことを忘れて"
+      "ja": "今回は父さんや母さんのことを忘れて"
     }
   },
   {
     "translation": {
       "en": "I don't think you should take my feelings into account. I don't think you should even take the baby's needs into account.",
-      "ja": "僕のことや 赤ちゃんのことも考えるな"
+      "ja": "僕のことや赤ちゃんのことも考えるな"
     }
   },
   {
@@ -146,7 +146,7 @@
   {
     "translation": {
       "en": "Guess I'll have another 1,500 miles to decide, right?",
-      "ja": "残りの2400キロで 考えればいいよね"
+      "ja": "残りの2400キロで考えればいいよね"
     }
   },
   {
@@ -157,13 +157,13 @@
   },
   {
     "translation": {
-      "en": "- Let's just get back on the road and... - Help!",
+      "en": "-Let's just get back on the road and... -[boy] Help!",
       "ja": "とりあえず車を走らせて…"
     }
   },
   {
     "translation": {
-      "en": "- ...not worry about any of this. - Did you hear that?",
+      "en": "-...not worry about any of this. -Did you hear that?",
       "ja": "とりあえず車を走らせて… 聞こえた？"
     }
   },
@@ -175,7 +175,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[boy] Help!",
       "ja": "助けて"
     }
   },
@@ -199,7 +199,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[boy] Help!",
       "ja": "助けて"
     }
   },
@@ -217,8 +217,8 @@
   },
   {
     "translation": {
-      "en": "I've been trying to get to the road, - but I can't find it! -",
-      "ja": "捜しても 道が見つからないんだ"
+      "en": "[boy] I've been trying to get to the road, -but I can't find it! -[sighs]",
+      "ja": "捜しても道が見つからないんだ"
     }
   },
   {
@@ -265,19 +265,19 @@
   },
   {
     "translation": {
-      "en": "Yes!",
+      "en": "[boy] Yes!",
       "ja": "うん"
     }
   },
   {
     "translation": {
       "en": "Help me! I've been stuck in here for days!",
-      "ja": "助けて もう何日も迷子なんだ"
+      "ja": "助けてもう何日も迷子なんだ"
     }
   },
   {
     "translation": {
-      "en": "Tobin? Stop calling.",
+      "en": "[woman] Tobin? Stop calling.",
       "ja": "トービン　やめなさい"
     }
   },
@@ -295,7 +295,7 @@
   },
   {
     "translation": {
-      "en": "We're lost!",
+      "en": "[Tobin] We're lost!",
       "ja": "迷子なんだ"
     }
   },
@@ -307,7 +307,7 @@
   },
   {
     "translation": {
-      "en": "No! Tobin, no! No!",
+      "en": "[woman] No! Tobin, no! No!",
       "ja": "ダメよ　トービン"
     }
   },
@@ -319,8 +319,8 @@
   },
   {
     "translation": {
-      "en": "Where are you? Are you coming?",
-      "ja": "どこにいるの？ 助けに来るの？"
+      "en": "[Tobin] Where are you? Are you coming?",
+      "ja": "どこにいるの？助けに来るの？"
     }
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "translation": {
-      "en": "No, I can't see anything!",
+      "en": "[Tobin] No, I can't see anything!",
       "ja": "見えない　何も見えない"
     }
   },
@@ -367,13 +367,13 @@
   },
   {
     "translation": {
-      "en": "- Over here! - Cal, wait.",
+      "en": "-[Tobin] Over here! -[Becky] Cal, wait.",
       "ja": "こっち カル　待って"
     }
   },
   {
     "translation": {
-      "en": "- Slow down. Ugh! - Tobin!",
+      "en": "-Slow down. Ugh! -[Cal] Tobin!",
       "ja": "カル　待って 名前はトービンだな？"
     }
   },
@@ -385,49 +385,49 @@
   },
   {
     "translation": {
-      "en": "- Yes! Please hurry! - Emergency services.  - Please stay on the line. - I'm tired!",
-      "ja": "緊急センターです そのままお待ちください"
+      "en": "-[Tobin] Yes! Please hurry! -[voice recording] Emergency services.  -Please stay on the line. -[Tobin] I'm tired!",
+      "ja": "緊急センターですそのままお待ちください"
     }
   },
   {
     "translation": {
-      "en": "- Hello? - Listen...",
+      "en": "-Hello? -[Cal] Listen...",
       "ja": "もしもし"
     }
   },
   {
     "translation": {
-      "en": "Kiowa County, 911.",
+      "en": "[911 operator] Kiowa County, 911.",
       "ja": "カイオワ郡 911番です"
     }
   },
   {
     "translation": {
-      "en": "Okay, Tobin, listen to me. Just sit tight. We're gonna come to you.",
-      "ja": "今 行くから じっとしてるんだ"
+      "en": "[Cal] Okay, Tobin, listen to me. Just sit tight. We're gonna come to you.",
+      "ja": "今 行くからじっとしてるんだ"
     }
   },
   {
     "translation": {
-      "en": "- Hi, uh... I'm on Route 400. - Help!",
+      "en": "-Hi, uh... I'm on Route 400. -[Tobin] Help!",
       "ja": "ここは400号線沿いで―"
     }
   },
   {
     "translation": {
-      "en": "I don't know the town name, but there's a kid lost in the grass.",
-      "ja": "地名は分からないけど 草むらに迷子の子供が"
+      "en": "[Becky] I don't know the town name, but there's a kid lost in the grass.",
+      "ja": "地名は分からないけど草むらに迷子の子供が"
     }
   },
   {
     "translation": {
-      "en": "- Tobin! -",
+      "en": "-[Cal] Tobin! -[static crackling]",
       "ja": "トービン こっち"
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[call disconnects] -[Becky sighs]",
       "ja": "トービン"
     }
   },
@@ -451,7 +451,7 @@
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[Cal grunts] Fuck.",
       "ja": "クソ"
     }
   },
@@ -481,14 +481,14 @@
   },
   {
     "translation": {
-      "en": "- Becky? - I'm fine.",
+      "en": "-Becky? -[Becky] I'm fine.",
       "ja": "ベッキー こっち"
     }
   },
   {
     "translation": {
       "en": "I lost the 911 chick. Is your phone working?",
-      "ja": "911番への電話が切れた そっちは？"
+      "ja": "911番への電話が切れたそっちは？"
     }
   },
   {
@@ -505,26 +505,26 @@
   },
   {
     "translation": {
-      "en": "- Tobin! - Are you coming?",
+      "en": "-Tobin! -[Tobin] Are you coming?",
       "ja": "トービン 来るの？"
     }
   },
   {
     "translation": {
       "en": "Please, keep coming. I can't find you.",
-      "ja": "助けに来て どこにいるの？"
+      "ja": "助けに来てどこにいるの？"
     }
   },
   {
     "translation": {
       "en": "Kid, you sound like you're headed for Nebraska. Stay still!",
-      "ja": "動き回らないで じっとしてろ"
+      "ja": "動き回らないでじっとしてろ"
     }
   },
   {
     "translation": {
       "en": "I don't care how scared you are, don't move. Let us come to you.",
-      "ja": "僕たちが そっちに行くまで動くな"
+      "ja": "僕たちがそっちに行くまで動くな"
     }
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "translation": {
-      "en": "I'm right here.",
+      "en": "[Becky] I'm right here.",
       "ja": "私はここ"
     }
   },
@@ -554,7 +554,7 @@
   {
     "translation": {
       "en": "Something's not right about this. I think we should head back to the road.",
-      "ja": "ここは何かおかしい 道に戻ろう"
+      "ja": "ここは何かおかしい道に戻ろう"
     }
   },
   {
@@ -572,7 +572,7 @@
   {
     "translation": {
       "en": "I'll keep talking and you work your way back towards me, okay?",
-      "ja": "私が話してるから こっちに戻って"
+      "ja": "私が話してるからこっちに戻って"
     }
   },
   {
@@ -589,20 +589,20 @@
   },
   {
     "translation": {
-      "en": "What do you talk about when you're lost in a field?",
+      "en": "[Becky] What do you talk about when you're lost in a field?",
       "ja": "何を話したらいい？"
     }
   },
   {
     "translation": {
-      "en": "Thousands of miles of gabbing, and you can't think of anything to say?",
-      "ja": "何千キロも話が 尽きなかったじゃないか"
+      "en": "[Cal] Thousands of miles of gabbing, and you can't think of anything to say?",
+      "ja": "何千キロも話が尽きなかったじゃないか"
     }
   },
   {
     "translation": {
       "en": "There once was a guy named McSweeney",
-      "ja": "マクスウィーニー という男がいた"
+      "ja": "マクスウィーニーという男がいた"
     }
   },
   {
@@ -614,7 +614,7 @@
   {
     "translation": {
       "en": "Just to be couth, he added vermouth",
-      "ja": "ベルモットを加え 上品に仕上げ"
+      "ja": "ベルモットを加え上品に仕上げ"
     }
   },
   {
@@ -631,8 +631,8 @@
   },
   {
     "translation": {
-      "en": "Hey, you guys, are you looking for me? I'm scared!",
-      "ja": "ねえ 助けに来るの？ 怖いよ"
+      "en": "[Tobin] Hey, you guys, are you looking for me? I'm scared!",
+      "ja": "ねえ 助けに来るの？怖いよ"
     }
   },
   {
@@ -668,7 +668,7 @@
   {
     "translation": {
       "en": "They found her vagina in North Carolina--",
-      "ja": "ノースカロライナで 膣(ちつ)を発見…"
+      "ja": "ノースカロライナで膣(ちつ)を発見…"
     }
   },
   {
@@ -679,7 +679,7 @@
   },
   {
     "translation": {
-      "en": "Cal, quit fucking around. This isn't funny.",
+      "en": "[Becky] Cal, quit fucking around. This isn't funny.",
       "ja": "カル　ふざけないで"
     }
   },
@@ -691,7 +691,7 @@
   },
   {
     "translation": {
-      "en": "Yeah?",
+      "en": "[Becky] Yeah?",
       "ja": "何？"
     }
   },
@@ -710,7 +710,7 @@
   {
     "translation": {
       "en": "On the count of three, we both jump with our hands raised in the air.",
-      "ja": "手を挙げて 同時に飛び上がる"
+      "ja": "手を挙げて同時に飛び上がる"
     }
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "translation": {
-      "en": "Yeah, of course I can jump. What do you think?",
+      "en": "[Becky] Yeah, of course I can jump. What do you think?",
       "ja": "当たり前でしょ？"
     }
   },
@@ -745,7 +745,7 @@
   },
   {
     "translation": {
-      "en": "Yeah. Yeah, you did. You must have! You still are.",
+      "en": "[Becky] Yeah. Yeah, you did. You must have! You still are.",
       "ja": "絶対 動いてる　今もそうよ"
     }
   },
@@ -757,7 +757,7 @@
   },
   {
     "translation": {
-      "en": "Okay, just...",
+      "en": "Okay, just... [groans]",
       "ja": "もう…"
     }
   },
@@ -775,7 +775,7 @@
   },
   {
     "translation": {
-      "en": "- Ready? - Okay.",
+      "en": "-Ready? -Okay.",
       "ja": "ああ"
     }
   },
@@ -799,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "- All right. - One, two, three.",
+      "en": "-All right. -One, two, three.",
       "ja": "ああ １、２の３"
     }
   },
@@ -823,7 +823,7 @@
   },
   {
     "translation": {
-      "en": "- Becky! - Over here!",
+      "en": "-Becky! -Over here!",
       "ja": "ベッキー こっち"
     }
   },
@@ -835,7 +835,7 @@
   },
   {
     "translation": {
-      "en": "Here!",
+      "en": "[Becky] Here!",
       "ja": "こっち"
     }
   },
@@ -847,7 +847,7 @@
   },
   {
     "translation": {
-      "en": "Over here!",
+      "en": "[Becky] Over here!",
       "ja": "こっち"
     }
   },
@@ -859,8 +859,8 @@
   },
   {
     "translation": {
-      "en": "Cal? Are you okay? What is it?",
-      "ja": "カル　大丈夫？ どうしたの？"
+      "en": "[Becky] Cal? Are you okay? What is it?",
+      "ja": "カル　大丈夫？どうしたの？"
     }
   },
   {
@@ -889,7 +889,7 @@
   },
   {
     "translation": {
-      "en": "We're gonna get out of here.",
+      "en": "[groans] We're gonna get out of here.",
       "ja": "ここを出るの"
     }
   },
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "- What about the kid? - Forget the kid.",
+      "en": "-What about the kid? -Forget the kid.",
       "ja": "あの子は？ 忘れて"
     }
   },
@@ -913,44 +913,44 @@
   },
   {
     "translation": {
-      "en": "Becky!",
+      "en": "[Cal] Becky!",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "Cal!",
+      "en": "[Becky] Cal!",
       "ja": "カル"
     }
   },
   {
     "translation": {
-      "en": "Becky!",
+      "en": "[Cal] Becky!",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "Cal?",
+      "en": "[Becky] Cal?",
       "ja": "カル"
     }
   },
   {
     "translation": {
-      "en": "Beck.",
+      "en": "[Cal] Beck.",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "Cal.",
+      "en": "[Becky] Cal.",
       "ja": "カル"
     }
   },
   {
     "translation": {
-      "en": "Beck, just stay where you are, okay? Don't move.",
-      "ja": "もう動かないで じっとしてろ"
+      "en": "[Cal] Beck, just stay where you are, okay? Don't move.",
+      "ja": "もう動かないでじっとしてろ"
     }
   },
   {
@@ -967,13 +967,13 @@
   },
   {
     "translation": {
-      "en": "- Becky! -",
+      "en": "-[Cal] Becky! -[whimpers]",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "Beck!",
+      "en": "[Cal] Beck!",
       "ja": "ベッキー"
     }
   },
@@ -985,7 +985,7 @@
   },
   {
     "translation": {
-      "en": "- Beck! - Cal!",
+      "en": "-Beck! -Cal!",
       "ja": "ベッキー カル"
     }
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "translation": {
-      "en": "Becky, you there?",
+      "en": "[Cal] Becky, you there?",
       "ja": "ベッキー　どこ？"
     }
   },
@@ -1022,7 +1022,7 @@
   {
     "translation": {
       "en": "If you wanna get out of here, come with me.",
-      "ja": "ここを出たいなら ついてこい"
+      "ja": "ここを出たいならついてこい"
     }
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "translation": {
       "en": "I'm looking for my boy and my wife. They're lost in here, too.",
-      "ja": "息子と妻を捜してる 彼らも迷子なんだ"
+      "ja": "息子と妻を捜してる彼らも迷子なんだ"
     }
   },
   {
@@ -1051,19 +1051,19 @@
   },
   {
     "translation": {
-      "en": "Ross Humbolt's the name. Real estate's the game.",
-      "ja": "僕はロス･ハンボルト 不動産業者だ"
+      "en": "Ross Humbolt's the name. Real estate's the game. [chuckles]",
+      "ja": "僕はロス･ハンボルト不動産業者だ"
     }
   },
   {
     "translation": {
       "en": "Poughkeepsie, wife's Natalie, boy's Tobin.",
-      "ja": "妻はナタリー 息子はトービンだ"
+      "ja": "妻はナタリー息子はトービンだ"
     }
   },
   {
     "translation": {
-      "en": "Becky, what's happening?",
+      "en": "[Cal] Becky, what's happening?",
       "ja": "ベッキー　返事して"
     }
   },
@@ -1088,13 +1088,13 @@
   {
     "translation": {
       "en": "Not like walking a straight line, though. Nothing is around here.",
-      "ja": "この場所に 一本道は ないけどね"
+      "ja": "この場所に一本道は ないけどね"
     }
   },
   {
     "translation": {
       "en": "Just follow me, but stay close. Whatever you do, don't lose sight of me, okay?",
-      "ja": "とにかく近くにいろ 何があっても はぐれるな"
+      "ja": "とにかく近くにいろ何があっても はぐれるな"
     }
   },
   {
@@ -1111,7 +1111,7 @@
   },
   {
     "translation": {
-      "en": "Becky!",
+      "en": "[Cal] Becky!",
       "ja": "ベッキー"
     }
   },
@@ -1123,7 +1123,7 @@
   },
   {
     "translation": {
-      "en": "- You can find things. -",
+      "en": "-[Tobin] You can find things. -[gasps]",
       "ja": "見つけられるよ"
     }
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "translation": {
-      "en": "- Six months. - Oh!",
+      "en": "-Six months. -Oh!",
       "ja": "６カ月"
     }
   },
@@ -1453,7 +1453,7 @@
   },
   {
     "translation": {
-      "en": "Tobin!",
+      "en": "[Cal] Tobin!",
       "ja": "トービン"
     }
   },
@@ -1483,13 +1483,13 @@
   },
   {
     "translation": {
-      "en": "- Tobin. - Here it is.",
+      "en": "-Tobin. -Here it is.",
       "ja": "ほら"
     }
   },
   {
     "translation": {
-      "en": "Wait, please.",
+      "en": "[Cal] Wait, please.",
       "ja": "待って"
     }
   },
@@ -1525,13 +1525,13 @@
   },
   {
     "translation": {
-      "en": "Get away from me!",
+      "en": "[Becky] Get away from me!",
       "ja": "あっち行って！"
     }
   },
   {
     "translation": {
-      "en": "- Get away from me! - Sorry, Cal.",
+      "en": "-Get away from me! -Sorry, Cal.",
       "ja": "ごめんね"
     }
   },
@@ -1579,26 +1579,26 @@
   },
   {
     "translation": {
-      "en": "...south breezes today, we've certainly been warming up.",
-      "ja": "南風により 気温が上昇中ですが"
+      "en": "[man on radio] ...south breezes today, we've certainly been warming up.",
+      "ja": "南風により気温が上昇中ですが"
     }
   },
   {
     "translation": {
       "en": "That is about to change as another cold front moves in late tonight into the morning.",
-      "ja": "深夜から朝にかけて 寒冷前線が訪れます"
+      "ja": "深夜から朝にかけて寒冷前線が訪れます"
     }
   },
   {
     "translation": {
       "en": "Ahead of that, clouds increase tonight. Humidity level creeps up just a little bit,",
-      "ja": "今夜は雲量が増え 湿度も少し高くなり―"
+      "ja": "今夜は雲量が増え湿度も少し高くなり―"
     }
   },
   {
     "translation": {
       "en": "and that helps to kind of set the stage for some drizzle, possibly,",
-      "ja": "火曜日には 特に 東部や南東部の郡で"
+      "ja": "火曜日には 特に東部や南東部の郡で"
     }
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "translation": {
       "en": "Considering this time of year, abnormally cool. But today was abnormally warm.",
-      "ja": "今日の異常な暖かさからは 大きな寒暖差です"
+      "ja": "今日の異常な暖かさからは大きな寒暖差です"
     }
   },
   {
@@ -1700,13 +1700,13 @@
   {
     "translation": {
       "en": "But they're not connected to us, so... doesn't matter.",
-      "ja": "つながってないから 関係ないけどね"
+      "ja": "つながってないから関係ないけどね"
     }
   },
   {
     "translation": {
       "en": "We... are connected?",
-      "ja": "僕たちは つながってるのか？"
+      "ja": "僕たちはつながってるのか？"
     }
   },
   {
@@ -1729,7 +1729,7 @@
   },
   {
     "translation": {
-      "en": "- Look, kid, we've never met before. I'm-- - Travis.",
+      "en": "-Look, kid, we've never met before. I'm-- -Travis.",
       "ja": "初対面だ　僕は… トラビス"
     }
   },
@@ -1831,13 +1831,13 @@
   },
   {
     "translation": {
-      "en": "- But... - But what?",
+      "en": "-But... -But what?",
       "ja": "でも… 何だ？"
     }
   },
   {
     "translation": {
-      "en": "- Are you sure you wanna see her? - Of course! Just...",
+      "en": "-Are you sure you wanna see her? -Of course! Just...",
       "ja": "本当に会いたい？ 当たり前だ"
     }
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "translation": {
-      "en": "Becky. No.",
+      "en": "[sobbing] Becky. No.",
       "ja": "ベッキー　そんな"
     }
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "translation": {
-      "en": "The field doesn't move dead things.",
+      "en": "[Tobin] The field doesn't move dead things.",
       "ja": "草むらは死体を動かさない"
     }
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "translation": {
-      "en": "Oh, my God. Oh, my God, oh, my...",
+      "en": "[sobbing] Oh, my God. Oh, my God, oh, my...",
       "ja": "なんてことだ"
     }
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "translation": {
-      "en": "Well, we don't know whose car it is...",
+      "en": "[woman] Well, we don't know whose car it is...",
       "ja": "誰の車かしら"
     }
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "translation": {
-      "en": "- Hello! - Tobin, keep an eye on Freddy.",
+      "en": "-Hello! -[Ross] Tobin, keep an eye on Freddy.",
       "ja": "誰か 僕がフレディを"
     }
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "translation": {
-      "en": "Hello? Is someone out there?",
+      "en": "[Tobin] Hello? Is someone out there?",
       "ja": "誰かいるの？"
     }
   },
@@ -1999,7 +1999,7 @@
   },
   {
     "translation": {
-      "en": "- Tobin, it's Travis. -",
+      "en": "-Tobin, it's Travis. -[Freddy whimpers]",
       "ja": "トラビスだ"
     }
   },
@@ -2035,109 +2035,109 @@
   },
   {
     "translation": {
-      "en": "- Are you sure? - Tobin?",
+      "en": "-Are you sure? -[Travis] Tobin?",
       "ja": "本当？ トービン"
     }
   },
   {
     "translation": {
-      "en": "- It's okay, Freddy. Stay. - Help me!",
+      "en": "-It's okay, Freddy. Stay. -[Travis] Help me!",
       "ja": "フレディ　落ち着いて"
     }
   },
   {
     "translation": {
-      "en": "- Get out! Get somebody. - We'll close when I get back next week. Okay?",
+      "en": "-Get out! Get somebody. -We'll close when I get back next week. Okay?",
       "ja": "週明けに成立させます"
     }
   },
   {
     "translation": {
-      "en": "- - What?",
+      "en": "-[Freddy barking] -What?",
       "ja": "え？"
     }
   },
   {
     "translation": {
-      "en": "- No. No, no, no. I'm telling you. - Freddy!",
+      "en": "-No. No, no, no. I'm telling you. -[Tobin] Freddy!",
       "ja": "待ってください"
     }
   },
   {
     "translation": {
-      "en": "Don't back out of escrow. - You're not overpaying. - Tobin! Damn it!",
+      "en": "Don't back out of escrow. -You're not overpaying. -Tobin! Damn it!",
       "ja": "払いすぎじゃありません"
     }
   },
   {
     "translation": {
-      "en": "- Ross! - Uh, just a minute, please.",
+      "en": "-Ross! -Uh, just a minute, please.",
       "ja": "ロス ちょっと失礼"
     }
   },
   {
     "translation": {
-      "en": "- - Freddy!",
+      "en": "-[barking] -[Tobin] Freddy!",
       "ja": "フレディ"
     }
   },
   {
     "translation": {
-      "en": "Toby, stay close. Don't go in there, it's private property.",
-      "ja": "トービン　戻れ そこは私有地だ"
+      "en": "[Ross] Toby, stay close. Don't go in there, it's private property.",
+      "ja": "トービン　戻れそこは私有地だ"
     }
   },
   {
     "translation": {
-      "en": "He went after Freddy.",
+      "en": "[Natalie] He went after Freddy.",
       "ja": "フレディを追いかけた"
     }
   },
   {
     "translation": {
-      "en": "Toby!",
+      "en": "[Ross] Toby!",
       "ja": "トービン"
     }
   },
   {
     "translation": {
-      "en": "Tobin!",
+      "en": "[Natalie] Tobin!",
       "ja": "トービン"
     }
   },
   {
     "translation": {
-      "en": "Toby, where are ya?",
+      "en": "[Ross] Toby, where are ya?",
       "ja": "どこだ？"
     }
   },
   {
     "translation": {
-      "en": "- Tobin! - Freddy!",
+      "en": "-[Natalie] Tobin! -[Tobin] Freddy!",
       "ja": "トービン フレディ"
     }
   },
   {
     "translation": {
-      "en": "Toby, don't worry about Freddy. Just come back to us.",
+      "en": "[Ross] Toby, don't worry about Freddy. Just come back to us.",
       "ja": "フレディは忘れて戻ってこい"
     }
   },
   {
     "translation": {
-      "en": "Tobin, where are you, honey?",
+      "en": "[Natalie] Tobin, where are you, honey?",
       "ja": "トービン　どこなの？"
     }
   },
   {
     "translation": {
-      "en": "Toby!",
+      "en": "[Ross] Toby!",
       "ja": "トービン"
     }
   },
   {
     "translation": {
-      "en": "Freddy!",
+      "en": "[Tobin] Freddy!",
       "ja": "フレディ"
     }
   },
@@ -2156,60 +2156,60 @@
   {
     "translation": {
       "en": "If you're still outside the grass, don't come back in here!",
-      "ja": "草むらの外にいるなら 中に入るな"
+      "ja": "草むらの外にいるなら中に入るな"
     }
   },
   {
     "translation": {
-      "en": "Tobin, where are you?",
+      "en": "[Natalie] Tobin, where are you?",
       "ja": "トービン　どこ？"
     }
   },
   {
     "translation": {
-      "en": "I'm over here, Mommy.",
+      "en": "[Tobin] I'm over here, Mommy.",
       "ja": "ここだよ"
     }
   },
   {
     "translation": {
-      "en": "Tobin Humbolt, didn't you hear your mother? Come back here!",
-      "ja": "トービン 早く戻って来なさい"
+      "en": "[Ross] Tobin Humbolt, didn't you hear your mother? Come back here!",
+      "ja": "トービン早く戻って来なさい"
     }
   },
   {
     "translation": {
-      "en": "Honey, can you see him?",
+      "en": "[Natalie] Honey, can you see him?",
       "ja": "トービンは どこ？"
     }
   },
   {
     "translation": {
-      "en": "- Where is he? - Over here!",
+      "en": "-Where is he? -[Tobin] Over here!",
       "ja": "こっち"
     }
   },
   {
     "translation": {
-      "en": "- Sounds like he's in front of us. - Are you Tobin's dad?",
+      "en": "-[Ross] Sounds like he's in front of us. -Are you Tobin's dad?",
       "ja": "近いはず トービンの父親か？"
     }
   },
   {
     "translation": {
-      "en": "Yeah. Who are you? What's going on?",
+      "en": "[Ross] Yeah. Who are you? What's going on?",
       "ja": "ああ　一体どうなってる？"
     }
   },
   {
     "translation": {
-      "en": "- Don't come in here! - Little late for that, buddy.",
+      "en": "-Don't come in here! -[Ross] Little late for that, buddy.",
       "ja": "中に入るな もう遅いね"
     }
   },
   {
     "translation": {
-      "en": "Tobin.",
+      "en": "[Travis] Tobin.",
       "ja": "トービン"
     }
   },
@@ -2246,7 +2246,7 @@
   {
     "translation": {
       "en": "Toby, don't let that man get near you, okay? Don't talk to him.",
-      "ja": "トービン あの男に気を付けろ"
+      "ja": "トービンあの男に気を付けろ"
     }
   },
   {
@@ -2257,31 +2257,31 @@
   },
   {
     "translation": {
-      "en": "I'm afraid, Daddy!",
+      "en": "[Tobin] I'm afraid, Daddy!",
       "ja": "怖いよ　パパ"
     }
   },
   {
     "translation": {
-      "en": "Did you hear that? He went right by us.",
+      "en": "[Natalie] Did you hear that? He went right by us.",
       "ja": "さっきすれ違ったわ"
     }
   },
   {
     "translation": {
-      "en": "- No, honey, no! - Tobin!",
+      "en": "-[Ross] No, honey, no! -Tobin!",
       "ja": "待て"
     }
   },
   {
     "translation": {
-      "en": "- He went the other way! - Tobin!",
+      "en": "-He went the other way! -Tobin!",
       "ja": "逆方向だ トービン"
     }
   },
   {
     "translation": {
-      "en": "Natalie!",
+      "en": "[Ross] Natalie!",
       "ja": "ナタリー"
     }
   },
@@ -2341,25 +2341,25 @@
   },
   {
     "translation": {
-      "en": "Mind that's light sells right.",
-      "ja": "プラス思考は 売り上げを伸ばす"
+      "en": "\"Mind that's light sells right.\"",
+      "ja": "プラス思考は売り上げを伸ばす"
     }
   },
   {
     "translation": {
-      "en": "Mind that's light sells right. Right? The mind that's light sells right.",
-      "ja": "プラス思考は 売り上げを伸ばす"
+      "en": "\"Mind that's light sells right.\" Right? \"The mind that's light sells right.\"",
+      "ja": "プラス思考は売り上げを伸ばす"
     }
   },
   {
     "translation": {
-      "en": "Right? The mind that's light sells right. The mind that's light sells right.",
-      "ja": "プラス思考は 売り上げを伸ばす"
+      "en": "Right? \"The mind that's light sells right. The mind that's light sells right.",
+      "ja": "プラス思考は売り上げを伸ばす"
     }
   },
   {
     "translation": {
-      "en": "The mind that...",
+      "en": "The mind that...\"",
       "ja": "プラス…"
     }
   },
@@ -2390,7 +2390,7 @@
   {
     "translation": {
       "en": "Maybe if your mother acted like a mother for once, kept an eye on you.",
-      "ja": "母親がちゃんと 見張っていれば…"
+      "ja": "母親がちゃんと見張っていれば…"
     }
   },
   {
@@ -2407,7 +2407,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
@@ -2419,7 +2419,7 @@
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "[Becky] Hello?",
       "ja": "誰？"
     }
   },
@@ -2431,25 +2431,25 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
   {
     "translation": {
-      "en": "- I'm lost in here! - Sounds like he's in trouble.",
+      "en": "- I'm lost in here! -[Becky] Sounds like he's in trouble.",
       "ja": "迷子なんだ 困ってるみたい"
     }
   },
   {
     "translation": {
-      "en": "- I've been trying to get to the road... - ...but I can't find it!",
-      "ja": "捜しても 道が見つからないんだ"
+      "en": "-I've been trying to get to the road... -[Cal sighs] ...but I can't find it!",
+      "ja": "捜しても道が見つからないんだ"
     }
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Cal] Okay.",
       "ja": "分かった"
     }
   },
@@ -2461,25 +2461,25 @@
   },
   {
     "translation": {
-      "en": "It's really hot.",
+      "en": "[Becky] It's really hot.",
       "ja": "暑いね"
     }
   },
   {
     "translation": {
-      "en": "Careful. Don't slide down into that ditch.",
-      "ja": "溝に気をつけて 閉めるよ"
+      "en": "[Cal] Careful. Don't slide down into that ditch.",
+      "ja": "溝に気をつけて閉めるよ"
     }
   },
   {
     "translation": {
       "en": "Watch your arm. I'm gonna pull this thing off the side of the road.",
-      "ja": "溝に気をつけて 閉めるよ 車を止めてくる"
+      "ja": "溝に気をつけて閉めるよ 車を止めてくる"
     }
   },
   {
     "translation": {
-      "en": "Help me! Help me!",
+      "en": "[Tobin] Help me! Help me!",
       "ja": "助けて"
     }
   },
@@ -2497,8 +2497,8 @@
   },
   {
     "translation": {
-      "en": "There once was a man named McSweeney",
-      "ja": "マクスウィーニー という男がいた"
+      "en": "[Becky at a distance] There once was a man named McSweeney",
+      "ja": "マクスウィーニーという男がいた"
     }
   },
   {
@@ -2510,7 +2510,7 @@
   {
     "translation": {
       "en": "Just to be couth, he added vermouth",
-      "ja": "ベルモットを加え 上品に仕上げ"
+      "ja": "ベルモットを加え上品に仕上げ"
     }
   },
   {
@@ -2521,19 +2521,19 @@
   },
   {
     "translation": {
-      "en": "Oh, that's charming.",
+      "en": "[Cal] Oh, that's charming.",
       "ja": "しゃれてるね"
     }
   },
   {
     "translation": {
-      "en": "Hey, you guys, are you looking for me? I'm scared!",
-      "ja": "ねえ 助けに来るの？ 怖いよ"
+      "en": "[Tobin] Hey, you guys, are you looking for me? I'm scared!",
+      "ja": "ねえ 助けに来るの？怖いよ"
     }
   },
   {
     "translation": {
-      "en": "Yes. Yes. Hang on.",
+      "en": "[Cal] Yes. Yes. Hang on.",
       "ja": "ああ　待ってろ"
     }
   },
@@ -2545,31 +2545,31 @@
   },
   {
     "translation": {
-      "en": "There once was a woman named Jill...",
+      "en": "[Becky] There once was a woman named Jill...",
       "ja": "ジルという女がいた"
     }
   },
   {
     "translation": {
-      "en": "- Becky? - ...Who swallowed an exploding pill",
+      "en": "-Becky? -...Who swallowed an exploding pill",
       "ja": "ベッキー 爆発剤を飲み込んだ"
     }
   },
   {
     "translation": {
       "en": "They found her vagina in North Carolina--",
-      "ja": "ノースカロライナで 膣を発見…"
+      "ja": "ノースカロライナで膣を発見…"
     }
   },
   {
     "translation": {
-      "en": "Stop, stop. I overshot you.",
+      "en": "[Cal] Stop, stop. I overshot you.",
       "ja": "待って　通り過ぎた"
     }
   },
   {
     "translation": {
-      "en": "Becky?",
+      "en": "[Travis] Becky?",
       "ja": "ベッキー"
     }
   },
@@ -2587,13 +2587,13 @@
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "[Becky] Hello?",
       "ja": "誰？"
     }
   },
   {
     "translation": {
-      "en": "- - Is someone else out there?",
+      "en": "-[gasps] -[Becky] Is someone else out there?",
       "ja": "誰かいるの？"
     }
   },
@@ -2611,7 +2611,7 @@
   },
   {
     "translation": {
-      "en": "I'm in here!",
+      "en": "[Travis] I'm in here!",
       "ja": "ここにいる"
     }
   },
@@ -2629,13 +2629,13 @@
   },
   {
     "translation": {
-      "en": "How... How the hell did you get here?",
+      "en": "[Becky] How... How the hell did you get here?",
       "ja": "どうしてここに？"
     }
   },
   {
     "translation": {
-      "en": "I don't know, but I'm here.",
+      "en": "[Travis] I don't know, but I'm here.",
       "ja": "分からない"
     }
   },
@@ -2659,13 +2659,13 @@
   },
   {
     "translation": {
-      "en": "I don't know. But it doesn't matter now.",
-      "ja": "分からない でも もういいんだ"
+      "en": "[Travis] I don't know. But it doesn't matter now.",
+      "ja": "分からないでも もういいんだ"
     }
   },
   {
     "translation": {
-      "en": "You're here.",
+      "en": "You're here. [laughs]",
       "ja": "みんな―"
     }
   },
@@ -2683,7 +2683,7 @@
   },
   {
     "translation": {
-      "en": "Travis?",
+      "en": "[Tobin] Travis?",
       "ja": "トラビス"
     }
   },
@@ -2713,13 +2713,13 @@
   },
   {
     "translation": {
-      "en": "- He's dead. - Freddy?",
+      "en": "-He's dead. -Freddy?",
       "ja": "死んでる フレディ？"
     }
   },
   {
     "translation": {
-      "en": "- Someone killed him. - Freddy?",
+      "en": "-Someone killed him. -Freddy?",
       "ja": "誰かに殺された"
     }
   },
@@ -2731,7 +2731,7 @@
   },
   {
     "translation": {
-      "en": "My dog.",
+      "en": "[Tobin] My dog.",
       "ja": "僕の犬"
     }
   },
@@ -2755,7 +2755,7 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Tobin] Yeah.",
       "ja": "うん"
     }
   },
@@ -2815,7 +2815,7 @@
   },
   {
     "translation": {
-      "en": "Well, this time, I think it might.",
+      "en": "[Travis] Well, this time, I think it might.",
       "ja": "今回は うまくいく"
     }
   },
@@ -2839,7 +2839,7 @@
   },
   {
     "translation": {
-      "en": "Like what Becky was doing?",
+      "en": "[Tobin] Like what Becky was doing?",
       "ja": "ベッキーみたいに？"
     }
   },
@@ -2851,14 +2851,14 @@
   },
   {
     "translation": {
-      "en": "- Yeah, just like that. - Okay.",
+      "en": "-Yeah, just like that. -Okay.",
       "ja": "そうだ 分かった"
     }
   },
   {
     "translation": {
       "en": "There once was a man named McSweeney",
-      "ja": "マクスウィーニー という男がいた"
+      "ja": "マクスウィーニーという男がいた"
     }
   },
   {
@@ -2917,13 +2917,13 @@
   },
   {
     "translation": {
-      "en": "- Becky! - Oh!",
+      "en": "-[Cal] Becky! -[Becky] Oh!",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "- Thank God! - Oh, God!",
+      "en": "-Thank God! -Oh, God!",
       "ja": "よかった"
     }
   },
@@ -3002,7 +3002,7 @@
   {
     "translation": {
       "en": "you didn't show up in San Diego.",
-      "ja": "サンディエゴに 来なかったから"
+      "ja": "サンディエゴに来なかったから"
     }
   },
   {
@@ -3020,7 +3020,7 @@
   {
     "translation": {
       "en": "No, it was longer than that. It was more like... two months.",
-      "ja": "もっと前だ ２カ月くらい前だよ"
+      "ja": "もっと前だ２カ月くらい前だよ"
     }
   },
   {
@@ -3038,18 +3038,18 @@
   {
     "translation": {
       "en": "Well, I'm not making Becky blindly walk through Wonderland anymore.",
-      "ja": "ベッキーをこれ以上 やみくもに歩かせない"
+      "ja": "ベッキーをこれ以上やみくもに歩かせない"
     }
   },
   {
     "translation": {
-      "en": "- We need some kind of plan. - Well, we can't just sit here.",
-      "ja": "ベッキーをこれ以上 やみくもに歩かせない ここで待つのか？"
+      "en": "-We need some kind of plan. -Well, we can't just sit here.",
+      "ja": "ベッキーをこれ以上やみくもに歩かせない ここで待つのか？"
     }
   },
   {
     "translation": {
-      "en": "- - Are you okay?",
+      "en": "-[groans] -Are you okay?",
       "ja": "大丈夫？"
     }
   },
@@ -3061,7 +3061,7 @@
   },
   {
     "translation": {
-      "en": "- I think we have to get moving. - Yeah.",
+      "en": "-I think we have to get moving. -[Becky] Yeah.",
       "ja": "動かないと ええ"
     }
   },
@@ -3073,7 +3073,7 @@
   },
   {
     "translation": {
-      "en": "- Well, in which direction? - I don't know!",
+      "en": "-Well, in which direction? -I don't know!",
       "ja": "どこに？ 分からない"
     }
   },
@@ -3115,13 +3115,13 @@
   },
   {
     "translation": {
-      "en": "Tobin,",
+      "en": "[Travis] Tobin,",
       "ja": "トービン"
     }
   },
   {
     "translation": {
-      "en": "- hop on my shoulders. - Okay.",
+      "en": "-hop on my shoulders. -Okay.",
       "ja": "肩車だ"
     }
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "translation": {
-      "en": "- Wait! - What?",
+      "en": "-Wait! -[Travis] What?",
       "ja": "待って 何だ？"
     }
   },
@@ -3187,19 +3187,19 @@
   },
   {
     "translation": {
-      "en": "- Okay, which way is it? - That way.",
+      "en": "-Okay, which way is it? -That way.",
       "ja": "どっちだ？ あっち"
     }
   },
   {
     "translation": {
-      "en": "So, you saw our car at the church and you didn't call anybody?",
-      "ja": "僕たちの車を見て 通報しなかったのか？"
+      "en": "[Cal] So, you saw our car at the church and you didn't call anybody?",
+      "ja": "僕たちの車を見て通報しなかったのか？"
     }
   },
   {
     "translation": {
-      "en": "No, Cal, I didn't.",
+      "en": "[Travis] No, Cal, I didn't.",
       "ja": "ああ　してない"
     }
   },
@@ -3218,7 +3218,7 @@
   {
     "translation": {
       "en": "I don't suppose you, um, told anyone where you were headed, did you?",
-      "ja": "どこに行くか 誰かに言わなかった？"
+      "ja": "どこに行くか誰かに言わなかった？"
     }
   },
   {
@@ -3277,13 +3277,13 @@
   },
   {
     "translation": {
-      "en": "- - Are you okay?",
+      "en": "-[groans] -Are you okay?",
       "ja": "大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "Fine. Just, um...",
+      "en": "[sighs] Fine. Just, um...",
       "ja": "ええ　ただ…"
     }
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "translation": {
-      "en": "- She? - Yeah.",
+      "en": "-She? -[Becky] Yeah.",
       "ja": "女の子？ ええ"
     }
   },
@@ -3332,7 +3332,7 @@
   {
     "translation": {
       "en": "For now, anyways, after my great aunt Virginia.",
-      "ja": "大おばの バージニアにちなんで"
+      "ja": "大おばのバージニアにちなんで"
     }
   },
   {
@@ -3361,7 +3361,7 @@
   },
   {
     "translation": {
-      "en": "Old- school.",
+      "en": "Old-school.",
       "ja": "古風で"
     }
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "translation": {
-      "en": "Don't let Cal hurt Travis!",
+      "en": "[Becky over phone] Don't let Cal hurt Travis!",
       "ja": "カルからトラビスを守って"
     }
   },
@@ -3428,7 +3428,7 @@
   {
     "translation": {
       "en": "Or else we're gonna keep making the same mistake!",
-      "ja": "さもないと 同じ失敗を繰り返す さもないと 同じ失敗を繰り返す 〝不明〞"
+      "ja": "さもないと同じ失敗を繰り返す さもないと同じ失敗を繰り返す 〝不明〞"
     }
   },
   {
@@ -3463,13 +3463,13 @@
   },
   {
     "translation": {
-      "en": "- Becky! - Wake up!",
+      "en": "-Becky! -[Cal] Wake up!",
       "ja": "ベッキー　起きろ"
     }
   },
   {
     "translation": {
-      "en": "- Move. Move! Move! - Hey!",
+      "en": "-Move. Move! Move! -Hey!",
       "ja": "どけ　下がれ"
     }
   },
@@ -3481,19 +3481,19 @@
   },
   {
     "translation": {
-      "en": "- No, no, no. - Come here.",
+      "en": "-No, no, no. -Come here.",
       "ja": "しっかり"
     }
   },
   {
     "translation": {
-      "en": "- It's okay. - Come here.",
+      "en": "-It's okay. -Come here.",
       "ja": "安心しろ"
     }
   },
   {
     "translation": {
-      "en": "- Daddy! - Toby! Oh, thank God.",
+      "en": "-Daddy! -Toby! Oh, thank God.",
       "ja": "パパ トービン　無事だったか"
     }
   },
@@ -3505,14 +3505,14 @@
   },
   {
     "translation": {
-      "en": "- The baby's moving. - Hey, you okay?",
+      "en": "-The baby's moving. -Hey, you okay?",
       "ja": "赤ちゃんが動いてる"
     }
   },
   {
     "translation": {
       "en": "It's probably just her condition and a touch of heatstroke. That's all.",
-      "ja": "その体だし 熱中症気味になっただけだ"
+      "ja": "その体だし熱中症気味になっただけだ"
     }
   },
   {
@@ -3535,20 +3535,20 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "Yeah. [chuckles]",
       "ja": "ああ"
     }
   },
   {
     "translation": {
       "en": "Hey, don't worry. Your mother, she's out there.",
-      "ja": "心配するな お母さんも見つけて ここを出るぞ"
+      "ja": "心配するな お母さんも見つけてここを出るぞ"
     }
   },
   {
     "translation": {
       "en": "We're gonna find her, and then we're leaving.",
-      "ja": "お母さんも見つけて ここを出るぞ"
+      "ja": "お母さんも見つけてここを出るぞ"
     }
   },
   {
@@ -3566,7 +3566,7 @@
   {
     "translation": {
       "en": "Yeah, I got to the road, but I wasn't gonna leave without my family.",
-      "ja": "道路に出たが 家族を捜しに戻った"
+      "ja": "道路に出たが家族を捜しに戻った"
     }
   },
   {
@@ -3578,18 +3578,18 @@
   {
     "translation": {
       "en": "Well, it's not a straight line. I can say that much.",
-      "ja": "一本道じゃないよ 君らはどっちへ？"
+      "ja": "一本道じゃないよ君らはどっちへ？"
     }
   },
   {
     "translation": {
-      "en": "- Which way were you headed? - Towards that building.",
-      "ja": "一本道じゃないよ 君らはどっちへ？ あの建物へ"
+      "en": "-Which way were you headed? -Towards that building.",
+      "ja": "一本道じゃないよ君らはどっちへ？ あの建物へ"
     }
   },
   {
     "translation": {
-      "en": "- Building? - We were almost there.",
+      "en": "-Building? -We were almost there.",
       "ja": "建物？ 近いはず"
     }
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "translation": {
-      "en": "All right, come on. Up on my shoulders, Tobin.",
+      "en": "[Travis] All right, come on. Up on my shoulders, Tobin.",
       "ja": "さあ　肩に乗って"
     }
   },
@@ -3613,7 +3613,7 @@
   },
   {
     "translation": {
-      "en": "That's the way things work around here.",
+      "en": "[Ross] That's the way things work around here.",
       "ja": "そういうもんだ"
     }
   },
@@ -3643,25 +3643,25 @@
   },
   {
     "translation": {
-      "en": "Four- piece, with a weekly gig at the local?",
+      "en": "Four-piece, with a weekly gig at the local?",
       "ja": "地元の４人組バンドの？"
     }
   },
   {
     "translation": {
-      "en": "- Kinda. - Hmm.",
+      "en": "-Kinda. -Hmm.",
       "ja": "まあね"
     }
   },
   {
     "translation": {
       "en": "I'm a good judge of people. You gotta be, in my field.",
-      "ja": "営業畑だと 人を見る目が必要でね"
+      "ja": "営業畑だと人を見る目が必要でね"
     }
   },
   {
     "translation": {
-      "en": "Field!",
+      "en": "Field! [chuckles]",
       "ja": "畑か"
     }
   },
@@ -3709,14 +3709,14 @@
   },
   {
     "translation": {
-      "en": "Isn't that always the way?",
+      "en": "Isn't that always the way? [chuckles]",
       "ja": "そういうもんだろ"
     }
   },
   {
     "translation": {
       "en": "You know, believe it or not, before I ended up here, before, uh, real estate was my game,",
-      "ja": "驚くかもしれないが 不動産業に入る前―"
+      "ja": "驚くかもしれないが不動産業に入る前―"
     }
   },
   {
@@ -3734,7 +3734,7 @@
   {
     "translation": {
       "en": "Me and my Gibson and Jesus were gonna rock the world.",
-      "ja": "ギターとイエスと共に 世界を変えるのが夢だった"
+      "ja": "ギターとイエスと共に世界を変えるのが夢だった"
     }
   },
   {
@@ -3752,7 +3752,7 @@
   {
     "translation": {
       "en": "Still, nothin', but nothin' compares to this.",
-      "ja": "だが こいつとは 比べ物にならない"
+      "ja": "だが こいつとは比べ物にならない"
     }
   },
   {
@@ -3787,8 +3787,8 @@
   },
   {
     "translation": {
-      "en": "Oh, I think it's a safe bet it's been here since before the Kiowa hunted on the Osage Cuestas.",
-      "ja": "恐らく先住民族が 現れる前からあったんだろう"
+      "en": "[Ross] Oh, I think it's a safe bet it's been here since before the Kiowa hunted on the Osage Cuestas.",
+      "ja": "恐らく先住民族が現れる前からあったんだろう"
     }
   },
   {
@@ -3800,18 +3800,18 @@
   {
     "translation": {
       "en": "Probably was here before the glaciers came and carried the hills away.",
-      "ja": "氷河が 地形を変える前から あったはずだ"
+      "ja": "氷河が 地形を変える前からあったはずだ"
     }
   },
   {
     "translation": {
       "en": "You realize we're in the center of the contiguous United States.",
-      "ja": "ここは アメリカ合衆国本土の中心だ"
+      "ja": "ここはアメリカ合衆国本土の中心だ"
     }
   },
   {
     "translation": {
-      "en": "Smack- dab in the middle of the continent.",
+      "en": "Smack-dab in the middle of the continent.",
       "ja": "大陸の ど真ん中だ"
     }
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "translation": {
-      "en": "- Nat? - Mommy!",
+      "en": "-[gasps] Nat? -Mommy!",
       "ja": "ナタリー ママ"
     }
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "translation": {
-      "en": "- Thank God you're all right. - Stay away! Stay away from us!",
+      "en": "-Thank God you're all right. -Stay away! Stay away from us!",
       "ja": "無事だったか 離れて 来ないで"
     }
   },
@@ -3937,7 +3937,7 @@
   },
   {
     "translation": {
-      "en": "- What is it, honey? - I saw...",
+      "en": "-What is it, honey? -I saw...",
       "ja": "何だ？ 見たの"
     }
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "translation": {
-      "en": "I saw her on the ground some ways back.",
+      "en": "[sobs] I saw her on the ground some ways back.",
       "ja": "地面に倒れてた"
     }
   },
@@ -4028,7 +4028,7 @@
   {
     "translation": {
       "en": "I am not confused. I saw her. I saw her, and you...",
-      "ja": "混乱してない 本当に彼女を見た"
+      "ja": "混乱してない本当に彼女を見た"
     }
   },
   {
@@ -4039,7 +4039,7 @@
   },
   {
     "translation": {
-      "en": "You were gonna...",
+      "en": "[sobbing] You were gonna...",
       "ja": "あなたは…"
     }
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "translation": {
-      "en": "You were gonna hurt me.",
+      "en": "[sobs] You were gonna hurt me.",
       "ja": "私を傷つけようと"
     }
   },
@@ -4063,8 +4063,8 @@
   },
   {
     "translation": {
-      "en": "- How could you even think that? - We're all in this together.",
-      "ja": "ありえない みんな仲間なのに"
+      "en": "-How could you even think that? -[groans] We're all in this together.",
+      "ja": "ありえないみんな仲間なのに"
     }
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "translation": {
       "en": "And this rock, in its wisdom, brought our two families together to do just that.",
-      "ja": "岩は そのために 僕たちを引き合わせてくれた"
+      "ja": "岩は そのために僕たちを引き合わせてくれた"
     }
   },
   {
@@ -4178,7 +4178,7 @@
   {
     "translation": {
       "en": "Five little fingers on its face and you will be redeemed!",
-      "ja": "岩に手を置くだけで 救われるんだ"
+      "ja": "岩に手を置くだけで救われるんだ"
     }
   },
   {
@@ -4238,7 +4238,7 @@
   {
     "translation": {
       "en": "If you think I was doing the soft sell because I was afraid of going the other way,",
-      "ja": "独りになるのが怖いから 売り込んでると思ったか？"
+      "ja": "独りになるのが怖いから売り込んでると思ったか？"
     }
   },
   {
@@ -4250,7 +4250,7 @@
   {
     "translation": {
       "en": "It's better that you come to the rock on your own. Open your heart to it, like I did.",
-      "ja": "自分の意志で受け入れるんだ 僕みたいに"
+      "ja": "自分の意志で受け入れるんだ僕みたいに"
     }
   },
   {
@@ -4268,7 +4268,7 @@
   {
     "translation": {
       "en": "Because the rock wouldn't let you find us unless it wanted you to.",
-      "ja": "岩に何らかの 意図があるはずだ"
+      "ja": "岩に何らかの意図があるはずだ"
     }
   },
   {
@@ -4309,25 +4309,25 @@
   },
   {
     "translation": {
-      "en": "- - Travis! - No! -",
+      "en": "-[Natalie whimpers] -Travis! -No! -[yells]",
       "ja": "トラビス　やめて"
     }
   },
   {
     "translation": {
-      "en": "- No! - Go!",
+      "en": "-No! -Go!",
       "ja": "行け"
     }
   },
   {
     "translation": {
-      "en": "- No! - Go!",
+      "en": "-No! -Go!",
       "ja": "行け"
     }
   },
   {
     "translation": {
-      "en": "Travis!",
+      "en": "Travis! [screams]",
       "ja": "トラビス"
     }
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "translation": {
-      "en": "- Cal! Cal! - No. Come with--",
+      "en": "-Cal! Cal! -No. Come with--",
       "ja": "カル"
     }
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "translation": {
-      "en": "- Please! - I'm no fibber.",
+      "en": "-Please! -I'm no fibber.",
       "ja": "ウソじゃない"
     }
   },
@@ -4364,7 +4364,7 @@
   {
     "translation": {
       "en": "Everything the grass knows, including how to leave.",
-      "ja": "草むらが知ってることや 抜け方も"
+      "ja": "草むらが知ってることや抜け方も"
     }
   },
   {
@@ -4381,25 +4381,25 @@
   },
   {
     "translation": {
-      "en": "- No! - Mommy! - Mommy! -",
+      "en": "-No! -Mommy! -Mommy! -[screams]",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "- No. - Don't worry, son.",
+      "en": "-No. -[sobs] Don't worry, son.",
       "ja": "トービン　安心しろ"
     }
   },
   {
     "translation": {
-      "en": "- It's just flesh. - Mommy!",
+      "en": "-It's just flesh. -[Tobin] Mommy!",
       "ja": "ただの肉だ"
     }
   },
   {
     "translation": {
-      "en": "- And all flesh is grass. - No!",
+      "en": "-And all flesh is grass. -No!",
       "ja": "肉は草むらと一体なんだ"
     }
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "translation": {
-      "en": "Save your breath, kids.",
+      "en": "[Ross] Save your breath, kids.",
       "ja": "抵抗しても無駄だ"
     }
   },
@@ -4435,25 +4435,25 @@
   },
   {
     "translation": {
-      "en": "Come on!",
+      "en": "[Travis] Come on!",
       "ja": "行くぞ"
     }
   },
   {
     "translation": {
-      "en": "Come on! Hurry!",
+      "en": "[Tobin] Come on! Hurry!",
       "ja": "こっち　早く"
     }
   },
   {
     "translation": {
-      "en": "Cal!",
+      "en": "[Travis] Cal!",
       "ja": "カル"
     }
   },
   {
     "translation": {
-      "en": "What are we gonna do?",
+      "en": "[Cal] What are we gonna do?",
       "ja": "どうする？"
     }
   },
@@ -4465,55 +4465,55 @@
   },
   {
     "translation": {
-      "en": "Listen to me. First thing we have to do is you need to take hold of my hand.",
+      "en": "[Travis] Listen to me. First thing we have to do is you need to take hold of my hand.",
       "ja": "いいか　まず肩を治してくれ"
     }
   },
   {
     "translation": {
-      "en": "It's okay, Tobin.",
+      "en": "[Becky] It's okay, Tobin.",
       "ja": "大丈夫よ"
     }
   },
   {
     "translation": {
-      "en": "My daddy's right. We're grass.",
-      "ja": "パパは正しい 僕らは草と一体で 死んでも生き返る"
+      "en": "[Tobin] My daddy's right. We're grass.",
+      "ja": "パパは正しい 僕らは草と一体で死んでも生き返る"
     }
   },
   {
     "translation": {
       "en": "We keep dying and coming back.",
-      "ja": "僕らは草と一体で 死んでも生き返る"
+      "ja": "僕らは草と一体で死んでも生き返る"
     }
   },
   {
     "translation": {
-      "en": "- Like Freddy did. - One, two...",
+      "en": "-Like Freddy did. -One, two...",
       "ja": "フレディみたいに １… ２"
     }
   },
   {
     "translation": {
-      "en": "Here.",
+      "en": "[Cal] Here.",
       "ja": "さあ"
     }
   },
   {
     "translation": {
-      "en": "- Come here. -",
+      "en": "-Come here. -[groans]",
       "ja": "座って"
     }
   },
   {
     "translation": {
-      "en": "- Are you okay? - I'm fine. I'm fine.",
+      "en": "-Are you okay? -I'm fine. I'm fine.",
       "ja": "大丈夫？ ええ　大丈夫"
     }
   },
   {
     "translation": {
-      "en": "- I didn't know what to do. - Yeah, you sure didn't.",
+      "en": "-I didn't know what to do. -Yeah, you sure didn't.",
       "ja": "おじけづいた 全くだ"
     }
   },
@@ -4538,7 +4538,7 @@
   {
     "translation": {
       "en": "If we're just gonna go round and round in circles, I'll feel a lot better saying what we all know.",
-      "ja": "空回りするだけなら 事実を指摘させてよ"
+      "ja": "空回りするだけなら事実を指摘させてよ"
     }
   },
   {
@@ -4550,7 +4550,7 @@
   {
     "translation": {
       "en": "Are you forgetting the detail that he completely abandoned you?",
-      "ja": "こいつが 何をしたか忘れたのか"
+      "ja": "こいつが何をしたか忘れたのか"
     }
   },
   {
@@ -4567,32 +4567,32 @@
   },
   {
     "translation": {
-      "en": "Becky...",
+      "en": "[Travis] Becky...",
       "ja": "ベッキー"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry.",
+      "en": "I'm sorry. [sighs]",
       "ja": "ごめん"
     }
   },
   {
     "translation": {
-      "en": "- I just wanted... - You just wanted to what?",
+      "en": "-I just wanted... -You just wanted to what?",
       "ja": "僕はただ… 何よ？"
     }
   },
   {
     "translation": {
       "en": "Look after me? Protect me?",
-      "ja": "私の面倒を見て 守りたかった？"
+      "ja": "私の面倒を見て守りたかった？"
     }
   },
   {
     "translation": {
       "en": "I need food. I need water. I need a place to sleep.",
-      "ja": "私は食べ物と 水と寝る場所が必要"
+      "ja": "私は食べ物と水と寝る場所が必要"
     }
   },
   {
@@ -4603,7 +4603,7 @@
   },
   {
     "translation": {
-      "en": "No. Cal's right.",
+      "en": "[Travis] No. Cal's right.",
       "ja": "いや　カルは正しい"
     }
   },
@@ -4627,8 +4627,8 @@
   },
   {
     "translation": {
-      "en": "But that's not the real reason you don't like me. - Is it, Cal? -",
-      "ja": "でも僕を嫌う本当の理由は それじゃない"
+      "en": "But that's not the real reason you don't like me. -Is it, Cal? -[sighs]",
+      "ja": "でも僕を嫌う本当の理由はそれじゃない"
     }
   },
   {
@@ -4640,7 +4640,7 @@
   {
     "translation": {
       "en": "No, it's a good excuse, but it's not the reason.",
-      "ja": "違う 理由じゃなくて言い訳だ"
+      "ja": "違う理由じゃなくて言い訳だ"
     }
   },
   {
@@ -4652,18 +4652,18 @@
   {
     "translation": {
       "en": "The truth is, there's nothing that I could have done to make you like me,",
-      "ja": "僕が何をしても お前は僕を嫌ってた"
+      "ja": "僕が何をしてもお前は僕を嫌ってた"
     }
   },
   {
     "translation": {
       "en": "because no one is ever gonna be good enough for your little sister.",
-      "ja": "妹にふさわしい男は いないから"
+      "ja": "妹にふさわしい男はいないから"
     }
   },
   {
     "translation": {
-      "en": "- A high school diploma would be nice. - You know what?",
+      "en": "-A high school diploma would be nice. -You know what?",
       "ja": "高卒だと嬉しいね"
     }
   },
@@ -4676,13 +4676,13 @@
   {
     "translation": {
       "en": "Oh, no. No, no. You're a real rock star.",
-      "ja": "分かるよ お前はロックスターだ"
+      "ja": "分かるよお前はロックスターだ"
     }
   },
   {
     "translation": {
       "en": "You've sacrificed everything for that ridiculous, infantile fantasy,",
-      "ja": "アホらしい夢のために 全てを犠牲にして―"
+      "ja": "アホらしい夢のために全てを犠牲にして―"
     }
   },
   {
@@ -4694,13 +4694,13 @@
   {
     "translation": {
       "en": "And you're a real hero. Playing hubby to your little sister?",
-      "ja": "お前は？ 夫婦ごっこは楽しいか？"
+      "ja": "お前は？夫婦ごっこは楽しいか？"
     }
   },
   {
     "translation": {
       "en": "That's the next best thing to fucking her, which is what you really want, isn't it?",
-      "ja": "本当は妹と ヤりたいだけなんだろ"
+      "ja": "本当は妹とヤりたいだけなんだろ"
     }
   },
   {
@@ -4723,7 +4723,7 @@
   },
   {
     "translation": {
-      "en": "Open up!",
+      "en": "[Ross] Open up!",
       "ja": "開けろ"
     }
   },
@@ -4735,13 +4735,13 @@
   },
   {
     "translation": {
-      "en": "Redemption is coming!",
+      "en": "[Ross] Redemption is coming!",
       "ja": "救いが来たぞ"
     }
   },
   {
     "translation": {
-      "en": "- - Come on.",
+      "en": "-[groaning] -Come on.",
       "ja": "さあ"
     }
   },
@@ -4759,7 +4759,7 @@
   },
   {
     "translation": {
-      "en": "- Get the door! - Yeah.",
+      "en": "-Get the door! -[Cal] Yeah.",
       "ja": "ドアを"
     }
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "translation": {
-      "en": "We saw it, too.",
+      "en": "[Becky] We saw it, too.",
       "ja": "私も見た"
     }
   },
@@ -4807,7 +4807,7 @@
   },
   {
     "translation": {
-      "en": "- Are you okay? - Mm- hmm.",
+      "en": "-Are you okay? -Mm-hmm.",
       "ja": "大丈夫？"
     }
   },
@@ -4832,7 +4832,7 @@
   {
     "translation": {
       "en": "Only thing is, we go in that grass again and we're back to square one.",
-      "ja": "でも草むらに入ったら また振り出しに戻る"
+      "ja": "でも草むらに入ったらまた振り出しに戻る"
     }
   },
   {
@@ -4903,7 +4903,7 @@
   },
   {
     "translation": {
-      "en": "Where's Travis?",
+      "en": "[Becky] Where's Travis?",
       "ja": "トラビスは？"
     }
   },
@@ -4927,19 +4927,19 @@
   },
   {
     "translation": {
-      "en": "Tobin, come back!",
+      "en": "[Becky] Tobin, come back!",
       "ja": "トービン　戻って"
     }
   },
   {
     "translation": {
-      "en": "- Travis! - Beck, we have to keep moving!",
+      "en": "-Travis! -Beck, we have to keep moving!",
       "ja": "トラビス 止まっちゃダメだ"
     }
   },
   {
     "translation": {
-      "en": "We can't just leave!",
+      "en": "[pants] We can't just leave!",
       "ja": "待たないと"
     }
   },
@@ -4957,20 +4957,20 @@
   },
   {
     "translation": {
-      "en": "Travis!",
+      "en": "[Becky] Travis!",
       "ja": "トラビス"
     }
   },
   {
     "translation": {
-      "en": "- We're so close! - Travis!",
+      "en": "-We're so close! -Travis!",
       "ja": "すぐそこだ"
     }
   },
   {
     "translation": {
       "en": "Beck, I'm your brother, and I'm telling you right now to forget about that asshole.",
-      "ja": "兄さんの言うことを聞け あいつを忘れろ"
+      "ja": "兄さんの言うことを聞けあいつを忘れろ"
     }
   },
   {
@@ -4981,7 +4981,7 @@
   },
   {
     "translation": {
-      "en": "Beck.",
+      "en": "[sighs] Beck.",
       "ja": "ベッキー"
     }
   },
@@ -4993,19 +4993,19 @@
   },
   {
     "translation": {
-      "en": "- Get away from me. - Beck.",
+      "en": "-Get away from me. -Beck.",
       "ja": "来ないで"
     }
   },
   {
     "translation": {
-      "en": "- No, wait. - - Beck, wait. - No...",
+      "en": "-No, wait. -[groans] -Beck, wait. -No...",
       "ja": "ベッキー　待ってくれ"
     }
   },
   {
     "translation": {
-      "en": "- Beck, please. - No...",
+      "en": "-Beck, please. -No...",
       "ja": "頼む"
     }
   },
@@ -5018,13 +5018,13 @@
   {
     "translation": {
       "en": "Thought that you would lose your sister when you got out of here.",
-      "ja": "ここを出たら 妹を失うとでも？"
+      "ja": "ここを出たら妹を失うとでも？"
     }
   },
   {
     "translation": {
       "en": "That the baby would bring her and Travis together, you'd be left out in the cold.",
-      "ja": "妹はトラビスと家族になり 君は忘れられる"
+      "ja": "妹はトラビスと家族になり君は忘れられる"
     }
   },
   {
@@ -5041,7 +5041,7 @@
   },
   {
     "translation": {
-      "en": "- I'm impressed. Yeah. -",
+      "en": "-I'm impressed. Yeah. -[grunting]",
       "ja": "悪くない走りだ"
     }
   },
@@ -5059,14 +5059,14 @@
   },
   {
     "translation": {
-      "en": "- - I know. I know. I know.",
+      "en": "-[screams] -[grunts] I know. I know. I know.",
       "ja": "ああ　なるほどね"
     }
   },
   {
     "translation": {
       "en": "You're thinking if you had just turned left instead of right,",
-      "ja": "もし あの時 左に曲がっていたら―"
+      "ja": "もし あの時左に曲がっていたら―"
     }
   },
   {
@@ -5077,8 +5077,8 @@
   },
   {
     "translation": {
-      "en": "But you did go left, - and you turned right. -",
-      "ja": "だが君は左に行き 右に曲がった"
+      "en": "But you did go left, -and you turned right. -[grunts]",
+      "ja": "だが君は左に行き右に曲がった"
     }
   },
   {
@@ -5119,7 +5119,7 @@
   },
   {
     "translation": {
-      "en": "Travis?",
+      "en": "[Becky] Travis?",
       "ja": "トラビス"
     }
   },
@@ -5155,7 +5155,7 @@
   },
   {
     "translation": {
-      "en": "Becky?",
+      "en": "[Travis] Becky?",
       "ja": "ベッキー"
     }
   },
@@ -5167,7 +5167,7 @@
   },
   {
     "translation": {
-      "en": "You okay?",
+      "en": "[Travis] You okay?",
       "ja": "大丈夫？"
     }
   },
@@ -5293,7 +5293,7 @@
   },
   {
     "translation": {
-      "en": "- You don't want that anymore? -",
+      "en": "-You don't want that anymore? -[groans]",
       "ja": "考え直したのか？"
     }
   },
@@ -5317,7 +5317,7 @@
   },
   {
     "translation": {
-      "en": "She's a strong one.",
+      "en": "[laughs] She's a strong one.",
       "ja": "強い子よ"
     }
   },
@@ -5341,7 +5341,7 @@
   },
   {
     "translation": {
-      "en": "- - Becky?",
+      "en": "-[screams] -Becky?",
       "ja": "ベッキー"
     }
   },
@@ -5353,25 +5353,25 @@
   },
   {
     "translation": {
-      "en": "- Becky, what's going on? -",
+      "en": "-Becky, what's going on? -[screaming]",
       "ja": "どうしたんだ？"
     }
   },
   {
     "translation": {
       "en": "How funny. This is where I tussled with Natalie for the first time.",
-      "ja": "初めてナタリーと もみ合った場所だ"
+      "ja": "初めてナタリーともみ合った場所だ"
     }
   },
   {
     "translation": {
       "en": "I tried to show her the way, but she just wouldn't listen.",
-      "ja": "道を教えようとしたが 拒まれた"
+      "ja": "道を教えようとしたが拒まれた"
     }
   },
   {
     "translation": {
-      "en": "- - Come on.",
+      "en": "-[yelling] -Come on.",
       "ja": "よせ"
     }
   },
@@ -5396,7 +5396,7 @@
   {
     "translation": {
       "en": "Beneath the pinwheel stars while the grass sings our names?",
-      "ja": "星空の下で 草の歌を聞きながら？"
+      "ja": "星空の下で草の歌を聞きながら？"
     }
   },
   {
@@ -5414,12 +5414,12 @@
   {
     "translation": {
       "en": "but tears are better for an old, thirsty rock like that.",
-      "ja": "この古くて飢えた岩には 涙の方がふさわしい"
+      "ja": "この古くて飢えた岩には涙の方がふさわしい"
     }
   },
   {
     "translation": {
-      "en": "- It has to be quick, though. -",
+      "en": "-It has to be quick, though. -[thunder rumbling]",
       "ja": "早く済ませよう"
     }
   },
@@ -5443,7 +5443,7 @@
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "[Becky over phone] Hello?",
       "ja": "もしもし"
     }
   },
@@ -5474,18 +5474,18 @@
   {
     "translation": {
       "en": "Or else we're gonna keep making the same mistakes forever.",
-      "ja": "さもないと 同じ失敗を繰り返す"
+      "ja": "さもないと同じ失敗を繰り返す"
     }
   },
   {
     "translation": {
-      "en": "Hello? Who is this?",
+      "en": "[Becky] Hello? Who is this?",
       "ja": "誰なの？"
     }
   },
   {
     "translation": {
-      "en": "- - Hello? What's going on?",
+      "en": "-[screams] -Hello? What's going on?",
       "ja": "どういうこと？"
     }
   },
@@ -5503,13 +5503,13 @@
   },
   {
     "translation": {
-      "en": "Baby...",
+      "en": "[pants] Baby...",
       "ja": "赤ちゃん"
     }
   },
   {
     "translation": {
-      "en": "- It's okay. - Baby...",
+      "en": "-It's okay. -Baby...",
       "ja": "大丈夫だ"
     }
   },
@@ -5521,19 +5521,19 @@
   },
   {
     "translation": {
-      "en": "- No, not too fast. - I don't want you to get sick.",
+      "en": "-No, not too fast. -[gulps] I don't want you to get sick.",
       "ja": "ゆっくり　少しずつ飲むんだ"
     }
   },
   {
     "translation": {
-      "en": "- May I have a look? My baby? - It's okay.",
+      "en": "-May I have a look? My baby? -It's okay.",
       "ja": "赤ちゃんを見せて"
     }
   },
   {
     "translation": {
-      "en": "- I've got her. I've got her. - Baby...",
+      "en": "-I've got her. I've got her. -Baby...",
       "ja": "ここにいるよ"
     }
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "translation": {
-      "en": "There once was a farmer from Leeds",
+      "en": "[Cal] There once was a farmer from Leeds",
       "ja": "昔 リーズのある農民が"
     }
   },
@@ -5593,13 +5593,13 @@
   },
   {
     "translation": {
-      "en": "- Big bunches of grass... - Mm.",
+      "en": "-Big bunches of grass... -Mm.",
       "ja": "立派な草が―"
     }
   },
   {
     "translation": {
-      "en": "- ...sprouted out of his ass... -",
+      "en": "-...sprouted out of his ass... -[swallowing]",
       "ja": "尻から発芽"
     }
   },
@@ -5611,13 +5611,13 @@
   },
   {
     "translation": {
-      "en": "- grew all shaggy with weeds - Mm.",
+      "en": "-grew all shaggy with weeds -Mm.",
       "ja": "雑草が生い茂った"
     }
   },
   {
     "translation": {
-      "en": "Cal...",
+      "en": "Cal... [chews]",
       "ja": "カル"
     }
   },
@@ -5659,13 +5659,13 @@
   },
   {
     "translation": {
-      "en": "Here's another piece.",
+      "en": "[Cal] Here's another piece.",
       "ja": "もっと食べて"
     }
   },
   {
     "translation": {
-      "en": "- It's good for you. - Mm.",
+      "en": "-It's good for you. -Mm.",
       "ja": "ためになる"
     }
   },
@@ -5695,7 +5695,7 @@
   },
   {
     "translation": {
-      "en": "Like what?",
+      "en": "[Cal] Like what?",
       "ja": "何だ？"
     }
   },
@@ -5719,7 +5719,7 @@
   },
   {
     "translation": {
-      "en": "Becky?",
+      "en": "[Travis] Becky?",
       "ja": "ベッキー"
     }
   },
@@ -5767,7 +5767,7 @@
   },
   {
     "translation": {
-      "en": "My daddy killed the baby.",
+      "en": "[Tobin] My daddy killed the baby.",
       "ja": "パパが赤ちゃんを殺した"
     }
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "translation": {
-      "en": "- Travis! -",
+      "en": "-[Tobin] Travis! -[grunts]",
       "ja": "トラビス！"
     }
   },
@@ -5924,12 +5924,12 @@
   {
     "translation": {
       "en": "Too bad, kid. I liked ya. Saw a seed of myself in there.",
-      "ja": "気に入ってたのに残念だ 僕たちは似ていた"
+      "ja": "気に入ってたのに残念だ僕たちは似ていた"
     }
   },
   {
     "translation": {
-      "en": "Dad, no!",
+      "en": "[Tobin] Dad, no!",
       "ja": "パパ　やめて"
     }
   },
@@ -5989,7 +5989,7 @@
   },
   {
     "translation": {
-      "en": "- No! - It wants you to touch it.",
+      "en": "-No! -It wants you to touch it.",
       "ja": "触ってほしいんだ"
     }
   },
@@ -6013,13 +6013,13 @@
   },
   {
     "translation": {
-      "en": "- Redemption is so very, very easy. -",
+      "en": "-Redemption is so very, very easy. -[groans]",
       "ja": "救いは すぐそこだ"
     }
   },
   {
     "translation": {
-      "en": "I'm not coming back here!",
+      "en": "[Travis] I'm not coming back here!",
       "ja": "僕は二度と戻らない"
     }
   },
@@ -6109,13 +6109,13 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "[Becky] Hello?",
       "ja": "誰？"
     }
   },
@@ -6127,7 +6127,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
@@ -6145,8 +6145,8 @@
   },
   {
     "translation": {
-      "en": "I've been trying to get to the road, - but I can't find it! -",
-      "ja": "捜しても 道が見つからないんだ"
+      "en": "I've been trying to get to the road, -but I can't find it! -[sighs]",
+      "ja": "捜しても道が見つからないんだ"
     }
   },
   {
@@ -6193,7 +6193,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
@@ -6205,7 +6205,7 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[Tobin] Help!",
       "ja": "助けて"
     }
   },
@@ -6223,19 +6223,19 @@
   },
   {
     "translation": {
-      "en": "- Kid, where are your parents? - It doesn't matter. Please.",
-      "ja": "両親は？ いいから とにかく車に乗って"
+      "en": "-Kid, where are your parents? -It doesn't matter. Please.",
+      "ja": "両親は？ いいからとにかく車に乗って"
     }
   },
   {
     "translation": {
-      "en": "- We just have to go. Get in the car. - Okay.",
-      "ja": "いいから とにかく車に乗って"
+      "en": "-We just have to go. Get in the car. -Okay.",
+      "ja": "いいからとにかく車に乗って"
     }
   },
   {
     "translation": {
-      "en": "- I can't find my way out! - What do we do?",
+      "en": "-[Tobin] I can't find my way out! -What do we do?",
       "ja": "どうする？"
     }
   },
@@ -6254,12 +6254,12 @@
   {
     "translation": {
       "en": "If he goes in, you'll go in and you'll never get out.",
-      "ja": "入ったら二度と 出られなくなる"
+      "ja": "入ったら二度と出られなくなる"
     }
   },
   {
     "translation": {
-      "en": "- Please! - Okay...",
+      "en": "-Please! -Okay...",
       "ja": "お願い"
     }
   },
@@ -6271,7 +6271,7 @@
   },
   {
     "translation": {
-      "en": "Are you coming?",
+      "en": "[Tobin] Are you coming?",
       "ja": "助けに来るの？"
     }
   },
@@ -6283,7 +6283,7 @@
   },
   {
     "translation": {
-      "en": "- Where did you get this? - Travis.",
+      "en": "-Where did you get this? -Travis.",
       "ja": "どこから？ トラビス"
     }
   },
@@ -6301,7 +6301,7 @@
   },
   {
     "translation": {
-      "en": "Hey! Don't leave!",
+      "en": "[Tobin] Hey! Don't leave!",
       "ja": "行かないで"
     }
   },
@@ -6326,12 +6326,12 @@
   {
     "translation": {
       "en": "I'll explain later, I promise. But right now, we have to go. Please.",
-      "ja": "後で説明するから 早くここから離れて"
+      "ja": "後で説明するから早くここから離れて"
     }
   },
   {
     "translation": {
-      "en": "- Hey. -",
+      "en": "-Hey. -[groans]",
       "ja": "おい"
     }
   },
@@ -6343,7 +6343,7 @@
   },
   {
     "translation": {
-      "en": "We have to go.",
+      "en": "[groans] We have to go.",
       "ja": "行かないと"
     }
   },
@@ -6355,7 +6355,7 @@
   },
   {
     "translation": {
-      "en": "Can you hear me?",
+      "en": "[Tobin] Can you hear me?",
       "ja": "聞こえる？"
     }
   },
@@ -6385,13 +6385,13 @@
   },
   {
     "translation": {
-      "en": "- Please. - All right, get in.",
+      "en": "-Please. -All right, get in.",
       "ja": "お願い 乗って"
     }
   },
   {
     "translation": {
-      "en": "Help me!",
+      "en": "[Tobin] Help me!",
       "ja": "助けて"
     }
   },
@@ -6415,7 +6415,7 @@
   },
   {
     "translation": {
-      "en": "- Wait. - What? What?",
+      "en": "-Wait. -What? What?",
       "ja": "待って 何だ？"
     }
   },
@@ -6433,7 +6433,7 @@
   },
   {
     "translation": {
-      "en": "- That's back the way we came. - Yeah, I know.",
+      "en": "-That's back the way we came. -Yeah, I know.",
       "ja": "逆方向だ 分かってる"
     }
   },

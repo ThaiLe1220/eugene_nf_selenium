@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "Are you a dangerous man?",
+      "en": "[interviewer] Are you a dangerous man?",
       "ja": "あなたは危険人物ですか？"
     }
   },
@@ -56,7 +56,7 @@
   {
     "translation": {
       "en": "There are those who would say you got away with it.",
-      "ja": "こう言ってる人たちも いますよ うまく逃げたと"
+      "ja": "こう言ってる人たちもいますよ うまく逃げたと"
     }
   },
   {
@@ -74,7 +74,7 @@
   {
     "translation": {
       "en": "After all, I cannot now face trial...",
-      "ja": "でも もう裁判を 受けることはない"
+      "ja": "でも もう裁判を受けることはない"
     }
   },
   {
@@ -85,13 +85,13 @@
   },
   {
     "translation": {
-      "en": "- Time to party, girls. -",
+      "en": "-[man] Time to party, girls. -[women laugh]",
       "ja": "パーティタイムだ"
     }
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "Come on. [chuckles]",
       "ja": "おいで"
     }
   },
@@ -115,43 +115,43 @@
   },
   {
     "translation": {
-      "en": "- Welcome to Kanit House. - Hello.",
+      "en": "-Welcome to Kanit House. -Hello.",
       "ja": "カニット･ハウスへようこそ"
     }
   },
   {
     "translation": {
-      "en": "- Get them a drink, Ajay. - With pleasure.",
+      "en": "-Get them a drink, Ajay. -With pleasure.",
       "ja": "飲み物を 了解"
     }
   },
   {
     "translation": {
-      "en": "Looks like it's a fun night.",
+      "en": "[in French] Looks like it's a fun night.",
       "ja": "〈楽しそうね〉"
     }
   },
   {
     "translation": {
-      "en": "The usual, my angel.",
+      "en": "[in French] The usual, my angel.",
       "ja": "〈いつもどおりだ〉"
     }
   },
   {
     "translation": {
-      "en": "Relax, we must take the fever down.",
+      "en": "[Charles] Relax, we must take the fever down.",
       "ja": "まずは熱を下げないと"
     }
   },
   {
     "translation": {
-      "en": "I want to go home.",
+      "en": "[man] I want to go home.",
       "ja": "帰りたい"
     }
   },
   {
     "translation": {
-      "en": "Can you bring me his bag?",
+      "en": "[in French] Can you bring me his bag?",
       "ja": "〈彼のバッグは？〉"
     }
   },
@@ -164,24 +164,24 @@
   {
     "translation": {
       "en": "but next summer we'll open offices in Paris and Zurich.",
-      "ja": "パリとチューリッヒに 事務所を出します"
+      "ja": "パリとチューリッヒに事務所を出します"
     }
   },
   {
     "translation": {
       "en": "We have a network of couriers throughout Asia and Western Europe.",
-      "ja": "アジアと西ヨーロッパに 輸送ネットワークを 持っています"
+      "ja": "アジアと西ヨーロッパに 輸送ネットワークを持っています"
     }
   },
   {
     "translation": {
       "en": "Which is how we are able to offer such attractive prices.",
-      "ja": "だからこそ こんな魅力的な 価格を提示できるのです"
+      "ja": "だからこそ こんな魅力的な価格を提示できるのです"
     }
   },
   {
     "translation": {
-      "en": "- Sorry. - Oh, it's all right.",
+      "en": "-Sorry. -Oh, it's all right.",
       "ja": "失礼 いいえ"
     }
   },
@@ -199,7 +199,7 @@
   },
   {
     "translation": {
-      "en": "- You're Dutch? - Yes.",
+      "en": "-You're Dutch? -Yes.",
       "ja": "オランダ人？ そう"
     }
   },
@@ -247,25 +247,25 @@
   },
   {
     "translation": {
-      "en": "- I'm Alain. - Willem.",
+      "en": "-I'm Alain. -Willem.",
       "ja": "アランだ"
     }
   },
   {
     "translation": {
-      "en": "- Wim. - My wife, Monique.",
+      "en": "-Wim. -My wife, Monique.",
       "ja": "僕は ヴィム 妻のモニク"
     }
   },
   {
     "translation": {
-      "en": "- Oh, hi. - Enchantée.",
+      "en": "-Oh, hi. -Enchantée.",
       "ja": "やあ 〈はじめまして〉"
     }
   },
   {
     "translation": {
-      "en": "- Wim. - Don't you want to know the cost?",
+      "en": "-Wim. -Don't you want to know the cost?",
       "ja": "ヴィムだ 値段を聞こうか？"
     }
   },
@@ -289,19 +289,19 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - What is her name?",
+      "en": "-Yeah. -What is her name?",
       "ja": "ああ 何て名前？"
     }
   },
   {
     "translation": {
-      "en": "- Lena. - Lena?",
+      "en": "-Lena. -Lena?",
       "ja": "レーナ レーナ？"
     }
   },
   {
     "translation": {
-      "en": "- Wow, is he a professional? - He is.",
+      "en": "-Wow, is he a professional? -He is.",
       "ja": "彼はプロ？ ええ"
     }
   },
@@ -313,14 +313,14 @@
   },
   {
     "translation": {
-      "en": "- How much? -",
+      "en": "-[in Cantonese] How much? -[man replies]",
       "ja": "〈いくら？〉 〈お待ちを〉"
     }
   },
   {
     "translation": {
       "en": "If you'd like, I'm certain I can break him down to... this?",
-      "ja": "これくらいに 下げさせようか どう？"
+      "ja": "これくらいに下げさせようか どう？"
     }
   },
   {
@@ -349,20 +349,20 @@
   },
   {
     "translation": {
-      "en": "- A year. - And you have not run out of money yet?",
+      "en": "-A year. -And you have not run out of money yet?",
       "ja": "１年 よくお金が続いてるわね"
     }
   },
   {
     "translation": {
       "en": "No, we've been... sensible.",
-      "ja": "それは 僕らが倹約家だから"
+      "ja": "それは僕らが倹約家だから"
     }
   },
   {
     "translation": {
       "en": "But still, you want to tell Lena that you love her.",
-      "ja": "それでも　レーナに 気持ちを伝えたいのね"
+      "ja": "それでも　レーナに気持ちを伝えたいのね"
     }
   },
   {
@@ -380,78 +380,78 @@
   {
     "translation": {
       "en": "I could have you made a sapphire set in diamonds",
-      "ja": "ダイヤを添えたサファイアの プラチナリングを"
+      "ja": "ダイヤを添えたサファイアのプラチナリングを"
     }
   },
   {
     "translation": {
       "en": "on a platinum ring for half the price I just showed you,",
-      "ja": "ダイヤを添えたサファイアの プラチナリングを 今の半額で作ってあげると 言ったらどうする？"
+      "ja": "ダイヤを添えたサファイアのプラチナリングを 今の半額で作ってあげると言ったらどうする？"
     }
   },
   {
     "translation": {
       "en": "what would you say?",
-      "ja": "今の半額で作ってあげると 言ったらどうする？"
+      "ja": "今の半額で作ってあげると言ったらどうする？"
     }
   },
   {
     "translation": {
-      "en": "We didn't come out here for jewelry.",
-      "ja": "〈宝石を買いに ここに来たんじゃない〉 〈宝石を買いに ここに来たんじゃない〉 〝オランダ製 〞"
+      "en": "[woman, in Dutch] We didn't come out here for jewelry.",
+      "ja": "〈宝石を買いにここに来たんじゃない〉 〈宝石を買いにここに来たんじゃない〉〝オランダ製 〞"
     }
   },
   {
     "translation": {
-      "en": "That money could keep us going to Kathmandu, even Kabul.",
-      "ja": "〝オランダ製 〞 〝オランダ製 〞 〈そのお金で カトマンズか―〉 〈カブールまで行ける〉"
+      "en": "[in Dutch] That money could keep us going to Kathmandu, even Kabul.",
+      "ja": "〝オランダ製 〞 〝オランダ製 〞〈そのお金でカトマンズか―〉 〈カブールまで行ける〉"
     }
   },
   {
     "translation": {
-      "en": "We've got to go home some time.",
-      "ja": "〈でも そろそろ帰らないと〉"
+      "en": "[in Dutch] We've got to go home some time.",
+      "ja": "〈でもそろそろ帰らないと〉"
     }
   },
   {
     "translation": {
-      "en": "- You want to go home? -",
+      "en": "-[in Dutch] You want to go home? -[music plays on radio]",
       "ja": "〈家に帰りたいの？〉"
     }
   },
   {
     "translation": {
-      "en": "Just whatever's next for us.",
-      "ja": "〈次の２人の住みかを 見つけたい〉"
+      "en": "[in Dutch] Just whatever's next for us.",
+      "ja": "〈次の２人の住みかを見つけたい〉"
     }
   },
   {
     "translation": {
-      "en": "An apartment?",
+      "en": "[in Dutch] An apartment?",
       "ja": "〈アパートでも〉"
     }
   },
   {
     "translation": {
-      "en": "A houseboat maybe.",
+      "en": "[in Dutch] A houseboat maybe.",
       "ja": "〈アパートでも〉 〈ボートでも〉"
     }
   },
   {
     "translation": {
-      "en": "Like an old married couple, then?",
+      "en": "[in Dutch] Like an old married couple, then?",
       "ja": "〈まるで老夫婦みたい〉"
     }
   },
   {
     "translation": {
-      "en": "- An old married couple? -",
+      "en": "-[in Dutch] An old married couple? -[she yells and laughs]",
       "ja": "〈老夫婦？〉"
     }
   },
   {
     "translation": {
-      "en": "- Hello, Wim. - Lena.",
+      "en": "-Hello, Wim. -[chuckles] Lena.",
       "ja": "ヴィム レーナよ"
     }
   },
@@ -475,7 +475,7 @@
   },
   {
     "translation": {
-      "en": "Wow.",
+      "en": "[Lena] Wow.",
       "ja": "キレイね"
     }
   },
@@ -523,7 +523,7 @@
   },
   {
     "translation": {
-      "en": "- Yes, of course it is. - Our home is always open to friends.",
+      "en": "-Yes, of course it is. -Our home is always open to friends.",
       "ja": "もちろん 友達はいつでも大歓迎だ"
     }
   },
@@ -535,25 +535,25 @@
   },
   {
     "translation": {
-      "en": "Is that okay?",
+      "en": "[in Dutch] Is that okay?",
       "ja": "〈ほんとに？〉"
     }
   },
   {
     "translation": {
-      "en": "- Are you sure? No... - Yes... Of course.",
+      "en": "-[in Dutch] Are you sure? No... -[in Dutch] Yes... Of course.",
       "ja": "〈どうする？〉 〈うん いいわ〉"
     }
   },
   {
     "translation": {
-      "en": "Let's dance!",
+      "en": "[Lena, in Dutch] Let's dance!",
       "ja": "〈踊ろう〉 〈全く〉"
     }
   },
   {
     "translation": {
-      "en": "- Yes? - Mr. Knippenberg?",
+      "en": "-Yes? -[woman] Mr. Knippenberg?",
       "ja": "クニッペンバーグさん"
     }
   },
@@ -571,32 +571,32 @@
   },
   {
     "translation": {
-      "en": "That long, huh?",
+      "en": "[sighs] That long, huh?",
       "ja": "とっくの昔？"
     }
   },
   {
     "translation": {
       "en": "It's just this gentleman, Mr. Hilgers,",
-      "ja": "このヒルガースという人が 人を捜してほしいと"
+      "ja": "このヒルガースという人が人を捜してほしいと"
     }
   },
   {
     "translation": {
-      "en": "is asking for help in locating his sister- in- law Helena Dekker",
-      "ja": "義理の妹の ヘレナ･デッカーさんと"
+      "en": "is asking for help in locating his sister-in-law Helena Dekker",
+      "ja": "義理の妹のヘレナ･デッカーさんと"
     }
   },
   {
     "translation": {
       "en": "and Willem Bloem, her boyfriend.",
-      "ja": "彼女の恋人の ヴィレム･ブルーム氏だ"
+      "ja": "彼女の恋人のヴィレム･ブルーム氏だ"
     }
   },
   {
     "translation": {
       "en": "To help us, he also enclosed an accompanying package",
-      "ja": "休日に撮った 写真と家に届いた手紙も―"
+      "ja": "休日に撮った写真と家に届いた手紙も―"
     }
   },
   {
@@ -614,7 +614,7 @@
   {
     "translation": {
       "en": "How can we help find them if we've lost their damn photographs?",
-      "ja": "写真がなきゃ 捜しようがないだろ？"
+      "ja": "写真がなきゃ捜しようがないだろ？"
     }
   },
   {
@@ -644,13 +644,13 @@
   {
     "translation": {
       "en": "In Vietnam, Laos, Cambodia.",
-      "ja": "ベトナム　ラオス カンボジア"
+      "ja": "ベトナム　ラオスカンボジア"
     }
   },
   {
     "translation": {
       "en": "They ask if Thailand might also fall to revolution.",
-      "ja": "次はタイに革命が 起こりそうだと"
+      "ja": "次はタイに革命が起こりそうだと"
     }
   },
   {
@@ -661,26 +661,26 @@
   },
   {
     "translation": {
-      "en": "Jasmine, sir?",
+      "en": "[in Thai] Jasmine, sir?",
       "ja": "〈ジャスミンは？〉"
     }
   },
   {
     "translation": {
-      "en": "No, thank you.",
+      "en": "[in Thai] No, thank you.",
       "ja": "〈結構だ〉"
     }
   },
   {
     "translation": {
-      "en": "Goddamnit.",
+      "en": "[in Dutch] Goddamnit.",
       "ja": "〈まいったな〉"
     }
   },
   {
     "translation": {
       "en": "Yotin, it started at 4:00 and it's already quarter past.",
-      "ja": "開始時間をもう15分も オーバーしてる"
+      "ja": "開始時間をもう15分もオーバーしてる"
     }
   },
   {
@@ -692,24 +692,24 @@
   {
     "translation": {
       "en": "The athletic club is only three or four blocks north.",
-      "ja": "アスレチッククラブは すぐそこだ"
+      "ja": "アスレチッククラブはすぐそこだ"
     }
   },
   {
     "translation": {
-      "en": "- But Mr. Knippenberg-- - I can't just sit here.",
+      "en": "-But Mr. Knippenberg-- -I can't just sit here.",
       "ja": "クニッペンバーグさん じっとしてられない"
     }
   },
   {
     "translation": {
-      "en": "- Oh. S- Sorry. -",
+      "en": "-Oh. S-Sorry. -[man replies in Thai]",
       "ja": "失礼"
     }
   },
   {
     "translation": {
-      "en": "- Herman! - Hi.",
+      "en": "-Herman! -Hi.",
       "ja": "ヘルマン"
     }
   },
@@ -721,74 +721,74 @@
   },
   {
     "translation": {
-      "en": "Ambassador. I'm sorry, the traffic was unbelievable.",
-      "ja": "〈大使 すみません〉 〈渋滞で30分間 車がほとんど進まず〉"
+      "en": "[in Dutch] Ambassador. I'm sorry, the traffic was unbelievable.",
+      "ja": "〈大使 すみません〉 〈渋滞で30分間車がほとんど進まず〉"
     }
   },
   {
     "translation": {
-      "en": "We didn't move a yard in 30 minutes, and the rain...",
-      "ja": "〈その後 雨が…〉 こちら三等書記官の クニッペンバーグです"
+      "en": "[in Dutch] We didn't move a yard in 30 minutes, and the rain...",
+      "ja": "〈その後 雨が…〉 こちら三等書記官のクニッペンバーグです"
     }
   },
   {
     "translation": {
       "en": "This is Knippenberg, my Third Secretary.",
-      "ja": "こちら三等書記官の クニッペンバーグです"
+      "ja": "こちら三等書記官のクニッペンバーグです"
     }
   },
   {
     "translation": {
       "en": "Knippenberg, this is Giles Easton, my opposite number with the British.",
-      "ja": "こちらはイギリス大使の ジャイルズ･イーストンさん"
+      "ja": "こちらはイギリス大使のジャイルズ･イーストンさん"
     }
   },
   {
     "translation": {
-      "en": "- How do you do? How do you do? - Good afternoon.",
+      "en": "-How do you do? How do you do? -Good afternoon.",
       "ja": "よろしく どうも"
     }
   },
   {
     "translation": {
-      "en": "- Good shot! - Ambassador, may I speak with you--",
+      "en": "-Good shot! -Ambassador, may I speak with you--",
       "ja": "ナイス！ 大使　すこしお話を"
     }
   },
   {
     "translation": {
       "en": "That is Mrs. Knippenberg.",
-      "ja": "あれが クニッペンバーグ夫人です"
+      "ja": "あれがクニッペンバーグ夫人です"
     }
   },
   {
     "translation": {
       "en": "I told Angela to play with De Jongh. As you were late.",
-      "ja": "君が来ないから デ･ヨンと組ませた"
+      "ja": "君が来ないからデ･ヨンと組ませた"
     }
   },
   {
     "translation": {
-      "en": "- You didn't tell me she was learning Thai. - Did I not?",
+      "en": "-You didn't tell me she was learning Thai. -Did I not?",
       "ja": "タイ語を学んでるんだって？ 妻ですか？"
     }
   },
   {
     "translation": {
       "en": "To add to the four or five other languages she already speaks.",
-      "ja": "すでに５ヵ国語 しゃべれるのに感心だ"
+      "ja": "すでに５ヵ国語しゃべれるのに感心だ"
     }
   },
   {
     "translation": {
       "en": "If she wasn't German, I'd offer her a job!",
-      "ja": "ドイツ人じゃないなら 雇いたかったのに"
+      "ja": "ドイツ人じゃないなら雇いたかったのに"
     }
   },
   {
     "translation": {
       "en": "Well, if you weren't Dutch, I might take it.",
-      "ja": "あなたがオランダ人 じゃなければ よろこんで"
+      "ja": "あなたがオランダ人じゃなければ よろこんで"
     }
   },
   {
@@ -806,7 +806,7 @@
   {
     "translation": {
       "en": "Yes, no, of course, but I thought this was rather urgent.",
-      "ja": "ですが 緊急性があると 思いまして"
+      "ja": "ですが 緊急性があると思いまして"
     }
   },
   {
@@ -818,31 +818,31 @@
   {
     "translation": {
       "en": "Their families haven't heard from them in over two months.",
-      "ja": "家族が２ヵ月 連絡が取れないのだそうです"
+      "ja": "家族が２ヵ月連絡が取れないのだそうです"
     }
   },
   {
     "translation": {
       "en": "Knippenberg, when did you last speak to your mother?",
-      "ja": "母親と 最後に話したのは？"
+      "ja": "母親と最後に話したのは？"
     }
   },
   {
     "translation": {
       "en": "And does she write letters declaring you missing?",
-      "ja": "彼女は 君の失踪届を出すか？"
+      "ja": "彼女は君の失踪届を出すか？"
     }
   },
   {
     "translation": {
       "en": "It's not a diplomat's job to go chasing after longhair bums.",
-      "ja": "ヒッピーどもを 追いかけるのは 外交官の仕事ではない タイの警察の仕事だ"
+      "ja": "ヒッピーどもを追いかけるのは 外交官の仕事ではないタイの警察の仕事だ"
     }
   },
   {
     "translation": {
       "en": "If it's for anyone, it's for the Thai police.",
-      "ja": "外交官の仕事ではない タイの警察の仕事だ"
+      "ja": "外交官の仕事ではないタイの警察の仕事だ"
     }
   },
   {
@@ -865,13 +865,13 @@
   },
   {
     "translation": {
-      "en": "Once again, a Dutch triumph over you Brits.",
-      "ja": "またオランダ人が イギリス人に勝利した"
+      "en": "[Dutch ambassador] Once again, a Dutch triumph over you Brits.",
+      "ja": "またオランダ人がイギリス人に勝利した"
     }
   },
   {
     "translation": {
-      "en": "Yes, please!",
+      "en": "[Easton] Yes, please!",
       "ja": "ウエイター"
     }
   },
@@ -883,13 +883,13 @@
   },
   {
     "translation": {
-      "en": "Congratulations.",
+      "en": "[in Dutch] Congratulations.",
       "ja": "〈おめでとう〉"
     }
   },
   {
     "translation": {
-      "en": "- Hello. - What was all that?",
+      "en": "-Hello. -What was all that?",
       "ja": "やあ 何してたの？"
     }
   },
@@ -913,19 +913,19 @@
   },
   {
     "translation": {
-      "en": "He takes his work too seriously.",
-      "ja": "“彼はまじめに 仕事をしすぎる”"
+      "en": "\"He takes his work too seriously.",
+      "ja": "“彼はまじめに仕事をしすぎる”"
     }
   },
   {
     "translation": {
       "en": "He will never take the day off to make love to you",
-      "ja": "“休みを取って サイアムポイントの15階で”"
+      "ja": "“休みを取ってサイアムポイントの15階で”"
     }
   },
   {
     "translation": {
-      "en": "on the 15th floor of the Siam Point.",
+      "en": "on the 15th floor of the Siam Point.\"",
       "ja": "“愛し合うことはないって”"
     }
   },
@@ -937,25 +937,25 @@
   },
   {
     "translation": {
-      "en": "Why are you writing that? Alain said we could stay at his place.",
-      "ja": "〈なぜホテルを？〉 〈アランの所に 泊まれるんだろ？〉"
+      "en": "[in Dutch] Why are you writing that? Alain said we could stay at his place.",
+      "ja": "〈なぜホテルを？〉 〈アランの所に泊まれるんだろ？〉"
     }
   },
   {
     "translation": {
-      "en": "It's too much. Too generous.",
-      "ja": "〈いくらなんでも 親切すぎる〉"
+      "en": "[in Dutch] It's too much. Too generous.",
+      "ja": "〈いくらなんでも親切すぎる〉"
     }
   },
   {
     "translation": {
-      "en": "But Alain is expecting us.",
+      "en": "[in Dutch] But Alain is expecting us.",
       "ja": "〈でもアランが待ってる〉"
     }
   },
   {
     "translation": {
-      "en": "We can go and see them later.",
+      "en": "[in Dutch] We can go and see them later.",
       "ja": "〈後で会いに行けばいい〉"
     }
   },
@@ -991,7 +991,7 @@
   },
   {
     "translation": {
-      "en": "- Alain sent me. I work for him. - How did you know it was us?",
+      "en": "-Alain sent me. I work for him. -How did you know it was us?",
       "ja": "アランに言われて来た なぜ僕らが？"
     }
   },
@@ -1010,13 +1010,13 @@
   {
     "translation": {
       "en": "Let me help you with your bags. We're all expecting you.",
-      "ja": "荷物を運ぶよ みんなが待ってる"
+      "ja": "荷物を運ぶよみんなが待ってる"
     }
   },
   {
     "translation": {
       "en": "We were planning on going to the Santa Cruz first?",
-      "ja": "先に サンタクルーズ･ ホテルに行こうと"
+      "ja": "先に サンタクルーズ･ホテルに行こうと"
     }
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "translation": {
       "en": "No. Alain wouldn't allow it. Not for his friends.",
-      "ja": "友達をあそこに泊めるなんて アランが許さない"
+      "ja": "友達をあそこに泊めるなんてアランが許さない"
     }
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "translation": {
       "en": "The bathwater comes straight out of the klong.",
-      "ja": "風呂には 運河の水を使ってるし"
+      "ja": "風呂には運河の水を使ってるし"
     }
   },
   {
@@ -1051,49 +1051,49 @@
   },
   {
     "translation": {
-      "en": "- We don't want to go to the-- - No.",
+      "en": "-We don't want to go to the-- -No.",
       "ja": "やめたほうがいいな"
     }
   },
   {
     "translation": {
-      "en": "Welcome to Bangkok. Come on, then.",
-      "ja": "バンコクにようこそ 行くぞ"
+      "en": "Welcome to Bangkok. Come on, then. [chuckling]",
+      "ja": "バンコクにようこそ行くぞ"
     }
   },
   {
     "translation": {
-      "en": "Look who I found.",
+      "en": "[Ajay] Look who I found.",
       "ja": "連れてきたよ"
     }
   },
   {
     "translation": {
-      "en": "- Hey. Welcome. - Lena!",
+      "en": "-[Charles] Hey. Welcome. -[Monique] Lena!",
       "ja": "やあ レーナ ようこそ"
     }
   },
   {
     "translation": {
-      "en": "You made it.",
+      "en": "[Monique] You made it.",
       "ja": "待ってたのよ"
     }
   },
   {
     "translation": {
-      "en": "- Nice to see you. - You too. Welcome.",
+      "en": "-[Lena] Nice to see you. -[Monique] You too. Welcome.",
       "ja": "モニク よく来たわね"
     }
   },
   {
     "translation": {
-      "en": "- Welcome to Kanit House. - Thank you very much.",
+      "en": "-Welcome to Kanit House. -[Wim] Thank you very much.",
       "ja": "カニット･ハウスへようこそ"
     }
   },
   {
     "translation": {
-      "en": "- How was the trip? - Yeah, it was good.",
+      "en": "-How was the trip? -Yeah, it was good.",
       "ja": "フライトは？ 快適だった"
     }
   },
@@ -1105,19 +1105,19 @@
   },
   {
     "translation": {
-      "en": "- Our friend Dominique. - Bonjour.",
+      "en": "-Our friend Dominique. -Bonjour.",
       "ja": "彼はドミニク 〈こんにちは〉"
     }
   },
   {
     "translation": {
-      "en": "- This is for you. For you. - Thank you.",
+      "en": "-This is for you. For you. -Thank you.",
       "ja": "どうぞ ありがと"
     }
   },
   {
     "translation": {
-      "en": "- Fresh towel. - Well, thank you very much.",
+      "en": "-Fresh towel. -Well, thank you very much.",
       "ja": "冷たいタオルも これはありがたい"
     }
   },
@@ -1129,19 +1129,19 @@
   },
   {
     "translation": {
-      "en": "Here, I'll take your bag for you.",
+      "en": "[Dominique] Here, I'll take your bag for you.",
       "ja": "僕が返しとく"
     }
   },
   {
     "translation": {
-      "en": "Come on. We'll wash your dirty things for you.",
+      "en": "[Charles] Come on. We'll wash your dirty things for you.",
       "ja": "汚れ物があれば洗うよ"
     }
   },
   {
     "translation": {
-      "en": "- But it's all dirty. - Then we'll wash it all.",
+      "en": "-[Wim] But it's all dirty. -[Charles] Then we'll wash it all.",
       "ja": "全部汚れてる 全部洗ってくれ"
     }
   },
@@ -1159,122 +1159,122 @@
   },
   {
     "translation": {
-      "en": "Thanks for not listening to me.",
-      "ja": "〈私の言うとおりにしなくて 正解ね〉"
+      "en": "[in Dutch] Thanks for not listening to me.",
+      "ja": "〈私の言うとおりにしなくて正解ね〉"
     }
   },
   {
     "translation": {
-      "en": "Now, wash, rest. Make yourself at home.",
-      "ja": "部屋で ゆっくりくつろいでくれ"
+      "en": "[Charles] Now, wash, rest. Make yourself at home.",
+      "ja": "部屋でゆっくりくつろいでくれ"
     }
   },
   {
     "translation": {
-      "en": "I'm calling from the Dutch Embassy",
+      "en": "[in Thai] I'm calling from the Dutch Embassy",
       "ja": "〈オランダ大使館の―〉"
     }
   },
   {
     "translation": {
       "en": "on behalf of Herman Knippenberg.",
-      "ja": "〈クニッペンバーグの 代理の者です〉"
+      "ja": "〈クニッペンバーグの代理の者です〉"
     }
   },
   {
     "translation": {
-      "en": "I'd like to talk to someone concerning a missing persons enquiry.",
-      "ja": "〈行方不明の担当者を お願いします〉"
+      "en": "[in Thai] I'd like to talk to someone concerning a missing persons enquiry.",
+      "ja": "〈行方不明の担当者をお願いします〉"
     }
   },
   {
     "translation": {
       "en": "I am very sorry, Mr. Knippenberg,",
-      "ja": "クニッペンバーグさん 残念ですが"
+      "ja": "クニッペンバーグさん残念ですが"
     }
   },
   {
     "translation": {
       "en": "but the police ask us to call back after the holiday.",
-      "ja": "警察は祝日明けに かけ直すようにと"
+      "ja": "警察は祝日明けにかけ直すようにと"
     }
   },
   {
     "translation": {
-      "en": "- But that's three days. - Lawana!",
+      "en": "-But that's three days. -[woman outside] Lawana!",
       "ja": "だけど 休みは３日もある"
     }
   },
   {
     "translation": {
-      "en": "- Okay, Lawana, you can go. - Sir.",
+      "en": "-Okay, Lawana, you can go. -Sir.",
       "ja": "ご苦労様　帰っていいよ では"
     }
   },
   {
     "translation": {
-      "en": "Knippenberg, you've passed that business onto the police?",
-      "ja": "〈あの件は警察に 引き継いだか？〉"
+      "en": "[in Dutch] Knippenberg, you've passed that business onto the police?",
+      "ja": "〈あの件は警察に引き継いだか？〉"
     }
   },
   {
     "translation": {
-      "en": "Yes, Ambassador.",
+      "en": "[in Dutch] Yes, Ambassador.",
       "ja": "〈はい　大使〉"
     }
   },
   {
     "translation": {
-      "en": "Just this moment.",
+      "en": "[in Dutch] Just this moment.",
       "ja": "〈今 連絡したところです〉"
     }
   },
   {
     "translation": {
-      "en": "Belgium.",
+      "en": "[man, in French] Belgium.",
       "ja": "〈ベルギーです〉"
     }
   },
   {
     "translation": {
       "en": "Oh, Mr. Siemons? It's Herman Knippenberg.",
-      "ja": "シーモンズさんですか？ クニッペンバーグです"
+      "ja": "シーモンズさんですか？クニッペンバーグです"
     }
   },
   {
     "translation": {
       "en": "I sit on the Intergovernmental Narcotics Liaison with you.",
-      "ja": "大使館の麻薬対策連絡会で お会いした者です"
+      "ja": "大使館の麻薬対策連絡会でお会いした者です"
     }
   },
   {
     "translation": {
-      "en": "- Which one are you? - Excuse me?",
+      "en": "-[Siemons] Which one are you? -[Herman] Excuse me?",
       "ja": "所属は？ あの…"
     }
   },
   {
     "translation": {
-      "en": "- Nation! - Oh! Dutch.",
+      "en": "-[Siemons] Nation! -[Herman] Oh! Dutch.",
       "ja": "国は？ オランダです"
     }
   },
   {
     "translation": {
-      "en": "I believe the Belgian Embassy",
-      "ja": "きっと通常業務以外の 仕事を―"
+      "en": "[Herman] I believe the Belgian Embassy",
+      "ja": "きっと通常業務以外の仕事を―"
     }
   },
   {
     "translation": {
       "en": "also asks you to manage its more irregular problems.",
-      "ja": "きっと通常業務以外の 仕事を― 頼まれることがあると思って"
+      "ja": "きっと通常業務以外の仕事を― 頼まれることがあると思って"
     }
   },
   {
     "translation": {
-      "en": "And what can I do for you, my clog- wearing friend?",
-      "ja": "オランダ君が 私に何の用なんだ？"
+      "en": "[Siemons] And what can I do for you, my clog-wearing friend?",
+      "ja": "オランダ君が私に何の用なんだ？"
     }
   },
   {
@@ -1297,25 +1297,25 @@
   },
   {
     "translation": {
-      "en": "Yeah, I'll bet they are.",
+      "en": "[laughs] Yeah, I'll bet they are.",
       "ja": "そうだろうな"
     }
   },
   {
     "translation": {
-      "en": "Are you eating?",
+      "en": "[in Thai] Are you eating?",
       "ja": "〈注文は？〉 〈こんにちは〉"
     }
   },
   {
     "translation": {
-      "en": "Soup?",
+      "en": "[in Thai] Soup?",
       "ja": "〈スープ？〉"
     }
   },
   {
     "translation": {
-      "en": "No soup.",
+      "en": "No soup. [speaks Thai]",
       "ja": "〈いいえ 結構です〉"
     }
   },
@@ -1333,7 +1333,7 @@
   },
   {
     "translation": {
-      "en": "- You have a master's degree? - Yes.",
+      "en": "-You have a master's degree? -Yes.",
       "ja": "修士号を持ってるだろ？"
     }
   },
@@ -1346,12 +1346,12 @@
   {
     "translation": {
       "en": "Taken at Johns Hopkins, Bologna and Washington.",
-      "ja": "イタリアとアメリカの 大学院に行きました"
+      "ja": "イタリアとアメリカの大学院に行きました"
     }
   },
   {
     "translation": {
-      "en": "- You did well? - Yes. A distinction.",
+      "en": "-You did well? -Yes. A distinction.",
       "ja": "成績は？ トップクラスでした"
     }
   },
@@ -1369,7 +1369,7 @@
   },
   {
     "translation": {
-      "en": "- Now, you want to find them? - Well, yes.",
+      "en": "-Now, you want to find them? -Well, yes.",
       "ja": "見つけたいのか？ はい"
     }
   },
@@ -1388,12 +1388,12 @@
   {
     "translation": {
       "en": "If they did, there will be documentation. Landing cards.",
-      "ja": "来たなら 記録が残ってるはずだ 来たなら 記録が残ってるはずだ 〝ヴィレム･ブルーム ヘレナ･デッカー 〞 入国カードだ"
+      "ja": "来たなら記録が残ってるはずだ 来たなら記録が残ってるはずだ 〝ヴィレム･ブルームヘレナ･デッカー 〞 入国カードだ"
     }
   },
   {
     "translation": {
-      "en": "They definitely arrived, sir.",
+      "en": "[Yotin translates] They definitely arrived, sir.",
       "ja": "確かに入国してます 確かに入国してます 〝デッカー･ヘレナ 〞"
     }
   },
@@ -1417,13 +1417,13 @@
   },
   {
     "translation": {
-      "en": "I thought the Ambassador told you to pass it on to the police?",
-      "ja": "大使は警察に 任せとけばいいって…"
+      "en": "[Angela] I thought the Ambassador told you to pass it on to the police?",
+      "ja": "大使は警察に任せとけばいいって…"
     }
   },
   {
     "translation": {
-      "en": "It's just one phone call.",
+      "en": "[Herman] It's just one phone call.",
       "ja": "１本電話するだけだ"
     }
   },
@@ -1447,14 +1447,14 @@
   },
   {
     "translation": {
-      "en": "Do you have any letters for Willem Bloem or Helena Dekker?",
-      "ja": "〈ヴィレム･ブルームか〉 〈ヘレナ･デッカー宛の 手紙はありますか〉"
+      "en": "[in Thai] Do you have any letters for Willem Bloem or Helena Dekker?",
+      "ja": "〈ヴィレム･ブルームか〉 〈ヘレナ･デッカー宛の手紙はありますか〉"
     }
   },
   {
     "translation": {
-      "en": "Six for Bloem from Amsterdam.",
-      "ja": "〝ＷＳ ブルーム 〞 〈アムステルダムから ブルーム宛に６通来てます〉 〈アムステルダムから ブルーム宛に６通来てます〉"
+      "en": "[man replies in Thai] Six for Bloem from Amsterdam.",
+      "ja": "〝ＷＳ ブルーム 〞 〈アムステルダムからブルーム宛に６通来てます〉 〈アムステルダムからブルーム宛に６通来てます〉"
     }
   },
   {
@@ -1484,7 +1484,7 @@
   {
     "translation": {
       "en": "It's one of those traveler hostels.",
-      "ja": "バックパッカー用の ホステルよ"
+      "ja": "バックパッカー用のホステルよ"
     }
   },
   {
@@ -1495,7 +1495,7 @@
   },
   {
     "translation": {
-      "en": "- I don't smoke pot. -",
+      "en": "-I don't smoke pot. -[Angela chuckles]",
       "ja": "ハッパは吸わない"
     }
   },
@@ -1507,7 +1507,7 @@
   },
   {
     "translation": {
-      "en": "- Hello. - Who are you, man?",
+      "en": "-Hello. -Who are you, man?",
       "ja": "どうも 何の用？"
     }
   },
@@ -1538,19 +1538,19 @@
   {
     "translation": {
       "en": "Here on their landing cards it says Santa Cruz Hotel.",
-      "ja": "入国カードに滞在先は ここだと"
+      "ja": "入国カードに滞在先はここだと"
     }
   },
   {
     "translation": {
       "en": "I wonder if you could look to see if they checked in?",
-      "ja": "チェックインしたか 調べてください"
+      "ja": "チェックインしたか調べてください"
     }
   },
   {
     "translation": {
       "en": "It should be December 11th or 12th.",
-      "ja": "チェックインしたか 調べてください 12月11日辺りで"
+      "ja": "チェックインしたか調べてください 12月11日辺りで"
     }
   },
   {
@@ -1568,19 +1568,19 @@
   {
     "translation": {
       "en": "Hey, Company Man! Are you done? Or do you need a xerox?",
-      "ja": "おい まだか？ コピー機が必要か？"
+      "ja": "おい まだか？コピー機が必要か？"
     }
   },
   {
     "translation": {
       "en": "Thank you.",
-      "ja": "おい まだか？ コピー機が必要か？ ありがと"
+      "ja": "おい まだか？コピー機が必要か？ ありがと"
     }
   },
   {
     "translation": {
       "en": "So they arrived in Bangkok,",
-      "ja": "つまり バンコクには着いたが"
+      "ja": "つまりバンコクには着いたが"
     }
   },
   {
@@ -1603,13 +1603,13 @@
   },
   {
     "translation": {
-      "en": "Sorry. I just got in.",
+      "en": "[American accent] Sorry. I just got in.",
       "ja": "ゴメンね 着いたばかりで"
     }
   },
   {
     "translation": {
-      "en": "- Bad jet lag. - No hassle, man.",
+      "en": "-Bad jet lag. -[English accent] No hassle, man.",
       "ja": "時差ボケで ゆっくりやって"
     }
   },
@@ -1634,7 +1634,7 @@
   {
     "translation": {
       "en": "Do you want to split a room maybe? Might be cheaper.",
-      "ja": "部屋をシェアしない？ そのほうが安く済む"
+      "ja": "部屋をシェアしない？そのほうが安く済む"
     }
   },
   {
@@ -1645,7 +1645,7 @@
   },
   {
     "translation": {
-      "en": "- All right. - Okay, cool.",
+      "en": "-All right. -Okay, cool.",
       "ja": "オーケー じゃあ ふたり"
     }
   },
@@ -1657,7 +1657,7 @@
   },
   {
     "translation": {
-      "en": "- Hey, what's your name? - Teresa.",
+      "en": "-[English girl] Hey, what's your name? -[American girl] Teresa.",
       "ja": "名前は？ 名前は？ 〝テレサ･ノートン 〞 〝テレサ･ノートン 〞 〝テレサ･ノートン 〞 テレサ"
     }
   },
@@ -1688,13 +1688,13 @@
   {
     "translation": {
       "en": "Why Nepal if you don't smoke hash?",
-      "ja": "大麻吸わないのに ネパールに？"
+      "ja": "大麻吸わないのにネパールに？"
     }
   },
   {
     "translation": {
       "en": "Kathmandu is still freak Nirvana.",
-      "ja": "カトマンズはいまでも ハッパ天国"
+      "ja": "カトマンズはいまでもハッパ天国"
     }
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "translation": {
       "en": "I mean, isn't all this a little bit of a trip already?",
-      "ja": "こうしてるだけで 最高の気分になれない？"
+      "ja": "こうしてるだけで最高の気分になれない？"
     }
   },
   {
@@ -1735,19 +1735,19 @@
   },
   {
     "translation": {
-      "en": "- Do you want it? - Yes, I do.",
+      "en": "-Do you want it? -Yes, I do.",
       "ja": "欲しい？ もらってもいい？"
     }
   },
   {
     "translation": {
       "en": "Seriously, maybe you're, like, my spirit guide or something.",
-      "ja": "あなたは 私の魂のガイドみたい"
+      "ja": "あなたは私の魂のガイドみたい"
     }
   },
   {
     "translation": {
-      "en": "- Your spirit guide? - Yeah.",
+      "en": "-Your spirit guide? -Yeah.",
       "ja": "魂のガイド？"
     }
   },
@@ -1777,32 +1777,32 @@
   },
   {
     "translation": {
-      "en": "- I'm Ajay. - Celia.",
+      "en": "-I'm Ajay. -Celia.",
       "ja": "アジェイだ セリアよ"
     }
   },
   {
     "translation": {
-      "en": "- Celia? Ah! What are you doing tonight? - Thanks.",
+      "en": "-Celia? Ah! What are you doing tonight? -Thanks.",
       "ja": "セリア？　今晩の予定は？ ありがと"
     }
   },
   {
     "translation": {
-      "en": "- You two are friends? - Yeah.",
+      "en": "-You two are friends? -Yeah.",
       "ja": "２人は友達？ ええ"
     }
   },
   {
     "translation": {
       "en": "Hey, there's a party, you guys should both come.",
-      "ja": "パーティがあるんだ 一緒に来ない？"
+      "ja": "パーティがあるんだ一緒に来ない？"
     }
   },
   {
     "translation": {
-      "en": "- Don't know. - Really, it'll be a cool scene. Hip, you know? Not like the tourists here.",
-      "ja": "イカした連中が集まるんだぜ こことは大違い"
+      "en": "-Don't know. -Really, it'll be a cool scene. Hip, you know? Not like the tourists here.",
+      "ja": "イカした連中が集まるんだぜこことは大違い"
     }
   },
   {
@@ -1820,7 +1820,7 @@
   {
     "translation": {
       "en": "There's a pool. Bring your bikinis and we can have a swim.",
-      "ja": "ビキニを持ってくれば プールで泳げるぞ"
+      "ja": "ビキニを持ってくればプールで泳げるぞ"
     }
   },
   {
@@ -1837,13 +1837,13 @@
   },
   {
     "translation": {
-      "en": "- Celia... - Yeah?",
+      "en": "-Celia... -Yeah?",
       "ja": "セリア 何？"
     }
   },
   {
     "translation": {
-      "en": "- Let me tell you where I'm headed. - Yeah?",
+      "en": "-Let me tell you where I'm headed. -Yeah?",
       "ja": "明日の行き先だけど"
     }
   },
@@ -1856,7 +1856,7 @@
   {
     "translation": {
       "en": "I was there a year ago and I'm going back, but to live.",
-      "ja": "去年 訪ねた僧院に行って そこに住むの"
+      "ja": "去年 訪ねた僧院に行ってそこに住むの"
     }
   },
   {
@@ -1867,14 +1867,14 @@
   },
   {
     "translation": {
-      "en": "Not like. Actually a nun.",
-      "ja": "みたいじゃない 本物の尼になるの"
+      "en": "Not \"like\". Actually a nun.",
+      "ja": "みたいじゃない本物の尼になるの"
     }
   },
   {
     "translation": {
       "en": "There's a whole bunch of things that I will never get to do again,",
-      "ja": "やれなくなることが いっぱいあるから"
+      "ja": "やれなくなることがいっぱいあるから"
     }
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "translation": {
-      "en": "- If you're sure. Okay. - Hey, you're amazing.",
+      "en": "-If you're sure. Okay. -Hey, you're amazing.",
       "ja": "そうなら 行って 大好き"
     }
   },
@@ -1903,13 +1903,13 @@
   },
   {
     "translation": {
-      "en": "- Erm, okay, cool, well, have fun. - I'll see you...",
+      "en": "-Erm, okay, cool, well, have fun. -I'll see you...",
       "ja": "それじゃあ また… また いつか…"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Maybe.",
+      "en": "-Yeah. -Maybe.",
       "ja": "また いつか…"
     }
   },
@@ -1921,37 +1921,37 @@
   },
   {
     "translation": {
-      "en": "Oh, just some shit.",
+      "en": "[Teresa] Oh, just some shit.",
       "ja": "ああ… 誰かさん"
     }
   },
   {
     "translation": {
-      "en": "Some shit. Great.",
+      "en": "[Ajay] \"Some shit.\" Great.",
       "ja": "誰かさん？ オーケー"
     }
   },
   {
     "translation": {
-      "en": "I did everything you said, Paul. Wim Bloem and Lena Dekker",
-      "ja": "４ヵ月後 言われたとおりに しました ４ヵ月後 ４ヵ月後 ヴィムとレーナは―"
+      "en": "[Herman] I did everything you said, Paul. Wim Bloem and Lena Dekker",
+      "ja": "４ヵ月後言われたとおりにしました ４ヵ月後 ４ヵ月後ヴィムとレーナは―"
     }
   },
   {
     "translation": {
       "en": "landed in Bangkok but never checked in to their--",
-      "ja": "バンコクに着いたものの ホテルには現れな…"
+      "ja": "バンコクに着いたもののホテルには現れな…"
     }
   },
   {
     "translation": {
-      "en": "Oi, Siemons! Who's your girlfriend?",
+      "en": "[Australian accent] Oi, Siemons! Who's your girlfriend?",
       "ja": "シーモンズ　その彼女は？"
     }
   },
   {
     "translation": {
-      "en": "- Laver. Australia. - Laver, like the tennis player, right?",
+      "en": "-[laughs] Laver. Australia. -Laver, like the tennis player, right?",
       "ja": "オーストラリアのレーバーだ テニスの選手と同じですね"
     }
   },
@@ -1963,31 +1963,31 @@
   },
   {
     "translation": {
-      "en": "- Nippenberg from the Dutch. - It's Knippenberg.",
+      "en": "-\"Nippenberg\" from the Dutch. -It's \"Knippenberg\".",
       "ja": "オランダ人のニッペンバーグ クニッペンバーグです"
     }
   },
   {
     "translation": {
-      "en": "How long you got left, Ker- nippenberg?",
-      "ja": "クニッペンバーグ 君は残りあと何年？"
+      "en": "[slurring] How long you got left, Ker-nippenberg?",
+      "ja": "クニッペンバーグ君は残りあと何年？"
     }
   },
   {
     "translation": {
-      "en": "- Left? - Before you go home?",
+      "en": "-Left? -Before you go home?",
       "ja": "残り？ 帰国は？"
     }
   },
   {
     "translation": {
       "en": "Quite some time. We only arrived six months ago.",
-      "ja": "まだずっと先ですね 僕らが来たのは半年前です"
+      "ja": "まだずっと先ですね僕らが来たのは半年前です"
     }
   },
   {
     "translation": {
-      "en": "- We? - My wife and I.",
+      "en": "-\"We\"? -My wife and I.",
       "ja": "僕ら？ 僕と妻"
     }
   },
@@ -2000,13 +2000,13 @@
   {
     "translation": {
       "en": "Knippenberg has lost a couple of longhairs and it's troubling him.",
-      "ja": "行方不明のヒッピーを 捜すのに 今苦戦してる"
+      "ja": "行方不明のヒッピーを捜すのに 今苦戦してる"
     }
   },
   {
     "translation": {
       "en": "Peace and love, right, Knippenberg?",
-      "ja": "ラブ･アンド･ピースの 旅だろ"
+      "ja": "ラブ･アンド･ピースの旅だろ"
     }
   },
   {
@@ -2017,26 +2017,26 @@
   },
   {
     "translation": {
-      "en": "They're work- shy hobos, mate.",
+      "en": "They're work-shy hobos, mate.",
       "ja": "働きもせずに ふらふらして"
     }
   },
   {
     "translation": {
       "en": "I disagree. What they do is hard work.",
-      "ja": "いいえ 彼らの旅は過酷です"
+      "ja": "いいえ彼らの旅は過酷です"
     }
   },
   {
     "translation": {
-      "en": "There's no five- star hotels,",
-      "ja": "エアコンもない 安ホテルに泊まり"
+      "en": "There's no five-star hotels,",
+      "ja": "エアコンもない安ホテルに泊まり"
     }
   },
   {
     "translation": {
-      "en": "no air- conditioning, no drivers.",
-      "ja": "エアコンもない 安ホテルに泊まり 運転手もなし"
+      "en": "no air-conditioning, no drivers.",
+      "ja": "エアコンもない安ホテルに泊まり 運転手もなし"
     }
   },
   {
@@ -2065,26 +2065,26 @@
   },
   {
     "translation": {
-      "en": "Your friends are not welcome here.",
+      "en": "[manager] Your friends are not welcome here.",
       "ja": "お連れ様は入れません"
     }
   },
   {
     "translation": {
-      "en": "Let's move over here.",
+      "en": "[man] Let's move over here.",
       "ja": "あっちに"
     }
   },
   {
     "translation": {
-      "en": "I'll tell you a story about longhairs.",
+      "en": "[Laver] I'll tell you a story about longhairs.",
       "ja": "１つ教えてやろう"
     }
   },
   {
     "translation": {
-      "en": "It's a good story, once you get to the end.",
-      "ja": "いい話だ 最後まで聞けばな"
+      "en": "It's a good story, once you get to the end. [sniffs]",
+      "ja": "いい話だ最後まで聞けばな"
     }
   },
   {
@@ -2102,7 +2102,7 @@
   {
     "translation": {
       "en": "Aussie hippy kids, Knippenberg.",
-      "ja": "オーストラリア人の ヒッピーだ"
+      "ja": "オーストラリア人のヒッピーだ"
     }
   },
   {
@@ -2126,7 +2126,7 @@
   {
     "translation": {
       "en": "They found them in a ditch 58 Ks south of the old city at Ayutthaya.",
-      "ja": "アユタヤから58キロ南の 排水溝で見つかった"
+      "ja": "アユタヤから58キロ南の排水溝で見つかった"
     }
   },
   {
@@ -2144,7 +2144,7 @@
   {
     "translation": {
       "en": "You ever go to bed with two women at the same time?",
-      "ja": "２人の女と同時に 寝たことある？"
+      "ja": "２人の女と同時に寝たことある？"
     }
   },
   {
@@ -2155,7 +2155,7 @@
   },
   {
     "translation": {
-      "en": "- Forgive me, the Belgian attaché... -",
+      "en": "-Forgive me, the Belgian attaché... -[whistling]",
       "ja": "うちの大使館員だが"
     }
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "translation": {
-      "en": "- Time to go, mate. - My advice?",
+      "en": "-[Australian man] Time to go, mate. -[Laver] My advice?",
       "ja": "もう時間だ いいか"
     }
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "translation": {
-      "en": "- Night, gents. - Where's he going?",
+      "en": "-Night, gents. -Where's he going?",
       "ja": "おやすみ どこに？"
     }
   },
@@ -2215,31 +2215,31 @@
   },
   {
     "translation": {
-      "en": "- Sorry, Paul. -",
+      "en": "-Sorry, Paul. -[chuckles]",
       "ja": "僕はこれで"
     }
   },
   {
     "translation": {
       "en": "Mr. Laver, your story about the two Australian travelers?",
-      "ja": "レーバーさん そのオーストラリア人の 旅行者は？"
+      "ja": "レーバーさん そのオーストラリア人の旅行者は？"
     }
   },
   {
     "translation": {
       "en": "Johnson and Rosanna Watson.",
-      "ja": "ジョンソンと ロザンナ･ワトソン"
+      "ja": "ジョンソンとロザンナ･ワトソン"
     }
   },
   {
     "translation": {
-      "en": "- That was their names? - That's who the cops thought they were.",
+      "en": "-That was their names? -That's who the cops thought they were.",
       "ja": "二人の名前？ 警察はそう思ってた"
     }
   },
   {
     "translation": {
-      "en": "- - But they weren't?",
+      "en": "-[man announces over PA in Thai] -But they weren't?",
       "ja": "でも違った"
     }
   },
@@ -2269,14 +2269,14 @@
   },
   {
     "translation": {
-      "en": "- Whose? - Whose what?",
+      "en": "-Whose? -Whose what?",
       "ja": "誰です？ 誰って？"
     }
   },
   {
     "translation": {
       "en": "Whose problem are the two unidentified bodies?",
-      "ja": "その身元不明の遺体は 誰が？"
+      "ja": "その身元不明の遺体は誰が？"
     }
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "translation": {
       "en": "Hey! Keep your hair on, you little fucking mouse with clogs on.",
-      "ja": "おい 落ち着けよ このオランダ野郎が"
+      "ja": "おい 落ち着けよこのオランダ野郎が"
     }
   },
   {
@@ -2305,7 +2305,7 @@
   },
   {
     "translation": {
-      "en": "- Eastern Division. You're sure? - Sure as eggs, mate.",
+      "en": "-Eastern Division. You're sure? -Sure as eggs, mate.",
       "ja": "東部地域課ですね？ そうだ"
     }
   },
@@ -2330,7 +2330,7 @@
   {
     "translation": {
       "en": "They've been on some island living on coconuts and fish heads.",
-      "ja": "どっかの島でココナッツを 食べてた"
+      "ja": "どっかの島でココナッツを食べてた"
     }
   },
   {
@@ -2341,7 +2341,7 @@
   },
   {
     "translation": {
-      "en": "Let's go for this one.",
+      "en": "[man] Let's go for this one.",
       "ja": "それじゃあ これにしようか"
     }
   },
@@ -2353,31 +2353,31 @@
   },
   {
     "translation": {
-      "en": "Excuse me, Alain. Have you seen Lena?",
+      "en": "[Wim] Excuse me, Alain. Have you seen Lena?",
       "ja": "いいかな　アラン レーナを見た？"
     }
   },
   {
     "translation": {
-      "en": "- Pool, I think. - All right, thank you.",
+      "en": "-Pool, I think. -All right, thank you.",
       "ja": "プールだろ？ そうか　ありがと"
     }
   },
   {
     "translation": {
-      "en": "I brought you a beer.",
+      "en": "[Monique] I brought you a beer.",
       "ja": "ビール飲む？"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. Cheers. - Cheers.",
+      "en": "-Thank you. Cheers. -Cheers.",
       "ja": "ありがと 乾杯"
     }
   },
   {
     "translation": {
-      "en": "So you are French?",
+      "en": "[Lena] So you are French?",
       "ja": "フランス人なの？"
     }
   },
@@ -2390,19 +2390,19 @@
   {
     "translation": {
       "en": "It's amazing, right? The friends you make when you're far away from home.",
-      "ja": "遠い異国で友達を 作れるなんて"
+      "ja": "遠い異国で友達を作れるなんて"
     }
   },
   {
     "translation": {
-      "en": "- It's the best thing about it, I think. - Yes.",
+      "en": "-It's the best thing about it, I think. -Yes.",
       "ja": "最高だと思わない？ そうね"
     }
   },
   {
     "translation": {
       "en": "So, can I ask how you guys ended up here together?",
-      "ja": "２人はどうして ここに住むことに？"
+      "ja": "２人はどうしてここに住むことに？"
     }
   },
   {
@@ -2431,25 +2431,25 @@
   },
   {
     "translation": {
-      "en": "Hello, Wim.",
+      "en": "[Charles] Hello, Wim.",
       "ja": "ヴィム"
     }
   },
   {
     "translation": {
-      "en": "- Sleep well? - Yeah, like a child.",
+      "en": "-Sleep well? -Yeah, like a child.",
       "ja": "よく寝た？ ええ ぐっすり"
     }
   },
   {
     "translation": {
-      "en": "And you two?",
+      "en": "[Monique] And you two?",
       "ja": "そっちは？"
     }
   },
   {
     "translation": {
-      "en": "We were just friends.",
+      "en": "[Lena] We were just friends.",
       "ja": "友達だったの"
     }
   },
@@ -2462,7 +2462,7 @@
   {
     "translation": {
       "en": "Well, she's not marrying anyone else, that's for sure.",
-      "ja": "彼女が結婚するのは 僕だけだ"
+      "ja": "彼女が結婚するのは僕だけだ"
     }
   },
   {
@@ -2473,7 +2473,7 @@
   },
   {
     "translation": {
-      "en": "- Not as romantic as you and Alain. - I want to help you.",
+      "en": "-[Lena] Not as romantic as you and Alain. -I want to help you.",
       "ja": "あなたたちには負ける いい話がある"
     }
   },
@@ -2486,7 +2486,7 @@
   {
     "translation": {
       "en": "Two of those you could sell in Amsterdam for 15,000 guilders.",
-      "ja": "アムステルダムなら １万5000ギルダーで売れる"
+      "ja": "アムステルダムなら１万5000ギルダーで売れる"
     }
   },
   {
@@ -2546,12 +2546,12 @@
   {
     "translation": {
       "en": "I think every man must one day make a home.",
-      "ja": "男ならいつか 家庭を持たないと"
+      "ja": "男ならいつか家庭を持たないと"
     }
   },
   {
     "translation": {
-      "en": "And say to himself, This is my life,",
+      "en": "And say to himself, \"This is my life,",
       "ja": "家庭こそが 自分の人生"
     }
   },
@@ -2563,14 +2563,14 @@
   },
   {
     "translation": {
-      "en": "and this is who I am.",
+      "en": "and this is who I am.\"",
       "ja": "自分自身だ"
     }
   },
   {
     "translation": {
       "en": "But to get there, for men like you and me,",
-      "ja": "そのために 君とか僕は すべてのチャンスを"
+      "ja": "そのために 君とか僕はすべてのチャンスを"
     }
   },
   {
@@ -2587,25 +2587,25 @@
   },
   {
     "translation": {
-      "en": "Are you sure we should do that?",
+      "en": "[Lena, in Dutch] Are you sure we should do that?",
       "ja": "〈本当にするべきだと？〉"
     }
   },
   {
     "translation": {
-      "en": "Yeah, I...",
+      "en": "[Wim, in Dutch] Yeah, I...",
       "ja": "〈ああ 僕が…〉"
     }
   },
   {
     "translation": {
-      "en": "I know they want to help, but...",
-      "ja": "〈親切で言ってくれてると 思うけど〉"
+      "en": "[Lena, in Dutch] I know they want to help, but...",
+      "ja": "〈親切で言ってくれてると思うけど〉"
     }
   },
   {
     "translation": {
-      "en": "Are they still out there?",
+      "en": "[Charles] Are they still out there?",
       "ja": "２人はどこ？"
     }
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "translation": {
-      "en": "How much they got?",
+      "en": "[Ajay] How much they got?",
       "ja": "いくら持ってた？"
     }
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "translation": {
-      "en": "Oh! Don't you just hate a lie?",
+      "en": "[Ajay] Oh! Don't you just hate a lie?",
       "ja": "ウソつきは嫌いだよね"
     }
   },
@@ -2647,8 +2647,8 @@
   },
   {
     "translation": {
-      "en": "Alain thinks you don't understand.",
-      "ja": "アランが あなたは 分かってないって"
+      "en": "[Monique] Alain thinks you don't understand.",
+      "ja": "アランが あなたは分かってないって"
     }
   },
   {
@@ -2678,12 +2678,12 @@
   {
     "translation": {
       "en": "The money will give you a good start, a nice life.",
-      "ja": "そのお金でいい生活が 始められるのよ"
+      "ja": "そのお金でいい生活が始められるのよ"
     }
   },
   {
     "translation": {
-      "en": "- In any case, we really can't afford it. - I don't believe you.",
+      "en": "-In any case, we really can't afford it. -I don't believe you.",
       "ja": "買うお金がないし あるんでしょ？"
     }
   },
@@ -2707,32 +2707,32 @@
   },
   {
     "translation": {
-      "en": "- Taxi for Knippenberg! - You took your bloody time.",
-      "ja": "２ヵ月後 タクシーがつきました ずいぶん待った"
+      "en": "-[Angela] Taxi for Knippenberg! -You took your bloody time.",
+      "ja": "２ヵ月後タクシーがつきました ずいぶん待った"
     }
   },
   {
     "translation": {
-      "en": "- - It's almost curfew.",
+      "en": "-[man announces over PA in Thai] -It's almost curfew.",
       "ja": "捕まるぞ"
     }
   },
   {
     "translation": {
-      "en": "Scheisse, Herman!",
+      "en": "[Angela] Scheisse, Herman!",
       "ja": "〈ヘルマンのバカ！〉"
     }
   },
   {
     "translation": {
       "en": "You know, anytime you want to learn to drive, I'll entirely support that decision.",
-      "ja": "運転を学びたいなら サポートするけど"
+      "ja": "運転を学びたいならサポートするけど"
     }
   },
   {
     "translation": {
       "en": "You can call Yotin if you want someone to bark at.",
-      "ja": "怒鳴りたいなら ヨーティンを"
+      "ja": "怒鳴りたいならヨーティンを"
     }
   },
   {
@@ -2743,8 +2743,8 @@
   },
   {
     "translation": {
-      "en": "No one at the Embassy can know what we're about to do.",
-      "ja": "大使館員には 言えないことをする"
+      "en": "[sighs] No one at the Embassy can know what we're about to do.",
+      "ja": "大使館員には言えないことをする"
     }
   },
   {
@@ -2768,7 +2768,7 @@
   {
     "translation": {
       "en": "It's very cold in Holland right now, Herman.",
-      "ja": "今 オランダは ものすごく寒い"
+      "ja": "今 オランダはものすごく寒い"
     }
   },
   {
@@ -2815,7 +2815,7 @@
   },
   {
     "translation": {
-      "en": "- Monique. It's her place. - Oh, um, you're the gem dealer.",
+      "en": "-Monique. It's her place. -Oh, um, you're the gem dealer.",
       "ja": "モニクだ 宝石ディーラーね"
     }
   },
@@ -2833,19 +2833,19 @@
   },
   {
     "translation": {
-      "en": "You live with these guys?",
+      "en": "[Teresa] You live with these guys?",
       "ja": "ここの住民？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah, they are cool. - You want to dance?",
+      "en": "-[Dominique] Yeah, they are cool. -[Teresa] You want to dance?",
       "ja": "そうだよ 踊らない？"
     }
   },
   {
     "translation": {
-      "en": "No, I don't dance.",
+      "en": "[Dominique] No, I don't dance.",
       "ja": "僕は踊れないんだ"
     }
   },
@@ -2858,7 +2858,7 @@
   {
     "translation": {
       "en": "Soon as it starts ringing, I've gotta go.",
-      "ja": "目覚ましが鳴ったら 行くわ"
+      "ja": "目覚ましが鳴ったら行くわ"
     }
   },
   {
@@ -2875,43 +2875,43 @@
   },
   {
     "translation": {
-      "en": "- How do I say I'm sorry in French? - Um...",
+      "en": "-How do I say \"I'm sorry\" in French? -[clears throat] Um...",
       "ja": "フランス語でゴメンは？"
     }
   },
   {
     "translation": {
-      "en": "- Je suis désolée? Perfect? - Mm- hmm.",
+      "en": "-Je suis désolée? Perfect? -Mm-hmm.",
       "ja": "上手？"
     }
   },
   {
     "translation": {
       "en": "You know, it's crazy but I've never slept with a Frenchman before.",
-      "ja": "一度もフランス人と 寝たことないの"
+      "ja": "一度もフランス人と寝たことないの"
     }
   },
   {
     "translation": {
-      "en": "Dominique?",
+      "en": "[Charles] Dominique?",
       "ja": "〈ドミニク〉"
     }
   },
   {
     "translation": {
-      "en": "Monique needs you to bring up more ice.",
-      "ja": "〈モニカが 氷を持って来いと〉"
+      "en": "[in French] Monique needs you to bring up more ice.",
+      "ja": "〈モニカが氷を持って来いと〉"
     }
   },
   {
     "translation": {
-      "en": "Yes.",
+      "en": "[in French] Yes.",
       "ja": "〈はい〉"
     }
   },
   {
     "translation": {
-      "en": "- So you are Teresa? - I am.",
+      "en": "-So you are Teresa? -I am.",
       "ja": "君がテレサ？ ええ"
     }
   },
@@ -2923,13 +2923,13 @@
   },
   {
     "translation": {
-      "en": "Where are you heading?",
+      "en": "[Charles] Where are you heading?",
       "ja": "これからどこに？"
     }
   },
   {
     "translation": {
-      "en": "Nepal, to a monastery.",
+      "en": "[Teresa] Nepal, to a monastery.",
       "ja": "ネパールの僧院に行くの"
     }
   },
@@ -2942,19 +2942,19 @@
   {
     "translation": {
       "en": "why do you have all these travelers' cheques?",
-      "ja": "そんなに トラベラーズチェックが？"
+      "ja": "そんなにトラベラーズチェックが？"
     }
   },
   {
     "translation": {
-      "en": "Well, they're not for me. They're for the monastery.",
+      "en": "[chuckles] Well, they're not for me. They're for the monastery.",
       "ja": "僧院に渡すのよ"
     }
   },
   {
     "translation": {
-      "en": "The cost of pursuing Nirvana goes up and up.",
-      "ja": "悟りを開くのにも 金がかかるのか"
+      "en": "[Charles] The cost of pursuing Nirvana goes up and up.",
+      "ja": "悟りを開くのにも金がかかるのか"
     }
   },
   {
@@ -2990,7 +2990,7 @@
   {
     "translation": {
       "en": "Your life too full of opportunity.",
-      "ja": "いろんなチャンスを ためすべきだ"
+      "ja": "いろんなチャンスをためすべきだ"
     }
   },
   {
@@ -3014,18 +3014,18 @@
   {
     "translation": {
       "en": "I buy. I sell. And from time to time, others sell for me.",
-      "ja": "人に売ってもらうことも あるんだ"
+      "ja": "人に売ってもらうこともあるんだ"
     }
   },
   {
     "translation": {
       "en": "I am not going to smuggle gemstones for you.",
-      "ja": "宝石を密輸するなんて ごめんよ"
+      "ja": "宝石を密輸するなんてごめんよ"
     }
   },
   {
     "translation": {
-      "en": "- I'm taking vows. - And yet I find you here,",
+      "en": "-I'm taking vows. -And yet I find you here,",
       "ja": "私は尼になる そういう人が―"
     }
   },
@@ -3044,13 +3044,13 @@
   {
     "translation": {
       "en": "In which case, may I ask, have you been to...",
-      "ja": "それなら聞くけど タイのナイトクラブに 行ったことは？"
+      "ja": "それなら聞くけど タイのナイトクラブに行ったことは？"
     }
   },
   {
     "translation": {
       "en": "What shall we call them? Nightclubs here?",
-      "ja": "タイのナイトクラブに 行ったことは？"
+      "ja": "タイのナイトクラブに行ったことは？"
     }
   },
   {
@@ -3061,13 +3061,13 @@
   },
   {
     "translation": {
-      "en": "Well?",
+      "en": "[chuckles] Well?",
       "ja": "そう"
     }
   },
   {
     "translation": {
-      "en": "I have not.",
+      "en": "[sighs] I have not.",
       "ja": "まだない"
     }
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "translation": {
-      "en": "Heartwarming.",
+      "en": "Heartwarming. [chuckles]",
       "ja": "心がなごむ"
     }
   },
@@ -3127,14 +3127,14 @@
   },
   {
     "translation": {
-      "en": "- Don't touch me! Help! -",
+      "en": "-Don't touch me! Help! -[spectators cheering and whistling]",
       "ja": "離して　助けて"
     }
   },
   {
     "translation": {
       "en": "He's Alain, he's Ajay! They fucking drugged me!",
-      "ja": "アランとアジェイが クスリを盛ったの"
+      "ja": "アランとアジェイがクスリを盛ったの"
     }
   },
   {
@@ -3145,7 +3145,7 @@
   },
   {
     "translation": {
-      "en": "You draw attention to yourself, Teresa.",
+      "en": "[Charles] You draw attention to yourself, Teresa.",
       "ja": "大騒ぎするのは―"
     }
   },
@@ -3163,19 +3163,19 @@
   },
   {
     "translation": {
-      "en": "Help.",
+      "en": "[pants] Help.",
       "ja": "助けて"
     }
   },
   {
     "translation": {
-      "en": "Please take it all. Please take it.",
+      "en": "[Teresa] Please take it all. Please take it.",
       "ja": "全部持ってって 全部あげる"
     }
   },
   {
     "translation": {
-      "en": "- Won't the monastery miss it? -",
+      "en": "-Won't the monastery miss it? -[Ajay chuckles]",
       "ja": "僧院は？"
     }
   },
@@ -3187,26 +3187,26 @@
   },
   {
     "translation": {
-      "en": "You're vulgar.",
+      "en": "[Charles] You're vulgar.",
       "ja": "君は低俗だ"
     }
   },
   {
     "translation": {
       "en": "You throw yourself at men the way you throw yourself at religion.",
-      "ja": "宗教に身を投じるように 男の中に身を投じた"
+      "ja": "宗教に身を投じるように男の中に身を投じた"
     }
   },
   {
     "translation": {
       "en": "You cannot buy your way off the wheel, Teresa.",
-      "ja": "金で解脱することは できない"
+      "ja": "金で解脱することはできない"
     }
   },
   {
     "translation": {
       "en": "It is very American of you to think otherwise.",
-      "ja": "そう思うのが アメリカ人らしい"
+      "ja": "そう思うのがアメリカ人らしい"
     }
   },
   {
@@ -3218,19 +3218,19 @@
   {
     "translation": {
       "en": "Americans do not prosper in this part of the world.",
-      "ja": "アメリカ人は そっちの世界では繁栄しない"
+      "ja": "アメリカ人はそっちの世界では繁栄しない"
     }
   },
   {
     "translation": {
-      "en": "- Fuck you. - Hey, where are we going?",
-      "ja": "うるさい サンタクルーズ･ホテルで 降ろすんじゃ？"
+      "en": "-Fuck you. -[Ajay] Hey, where are we going?",
+      "ja": "うるさい サンタクルーズ･ホテルで降ろすんじゃ？"
     }
   },
   {
     "translation": {
       "en": "Aren't we leaving her at the Santa Cruz?",
-      "ja": "サンタクルーズ･ホテルで 降ろすんじゃ？"
+      "ja": "サンタクルーズ･ホテルで降ろすんじゃ？"
     }
   },
   {
@@ -3254,25 +3254,25 @@
   {
     "translation": {
       "en": "She will only be another reckless Westerner who took drugs and went swimming.",
-      "ja": "クスリやって泳いだ 無謀な 白人として処理されるさ"
+      "ja": "クスリやって泳いだ 無謀な白人として処理されるさ"
     }
   },
   {
     "translation": {
-      "en": "Once, I stole a taxi in Peshawar.",
-      "ja": "前にペシャワールで タクシーを盗んだ"
+      "en": "[sighs] Once, I stole a taxi in Peshawar.",
+      "ja": "前にペシャワールでタクシーを盗んだ"
     }
   },
   {
     "translation": {
       "en": "I had to take it to Tehran, you see?",
-      "ja": "テヘランまで 行きたかったんだ"
+      "ja": "テヘランまで行きたかったんだ"
     }
   },
   {
     "translation": {
       "en": "The driver refused so I had to dose him.",
-      "ja": "でも運転手が拒んだから クスリを飲ませて"
+      "ja": "でも運転手が拒んだからクスリを飲ませて"
     }
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "translation": {
       "en": "he awoke and began to moan and thump.",
-      "ja": "彼は目覚めて うめき出したんだ"
+      "ja": "彼は目覚めてうめき出したんだ"
     }
   },
   {
@@ -3314,7 +3314,7 @@
   {
     "translation": {
       "en": "so I took him out and helped him into the water.",
-      "ja": "だから僕は彼を 川に捨てたんだ"
+      "ja": "だから僕は彼を川に捨てたんだ"
     }
   },
   {
@@ -3397,7 +3397,7 @@
   },
   {
     "translation": {
-      "en": "Oh, compassionate ones.",
+      "en": "[Teresa] Oh, compassionate ones.",
       "ja": "慈悲深い者たちよ"
     }
   },
@@ -3440,7 +3440,7 @@
   {
     "translation": {
       "en": "She has no refuge. She has no protector.",
-      "ja": "逃げる場所も 守ってくれる者もいない"
+      "ja": "逃げる場所も守ってくれる者もいない"
     }
   },
   {
@@ -3464,7 +3464,7 @@
   {
     "translation": {
       "en": "She is seized by the great evil spirit.",
-      "ja": "しかし邪悪な霊によって 阻まれる"
+      "ja": "しかし邪悪な霊によって阻まれる"
     }
   },
   {
@@ -3488,13 +3488,13 @@
   {
     "translation": {
       "en": "Because of her karma, she is helpless.",
-      "ja": "カルマの前には なすすべがない"
+      "ja": "カルマの前にはなすすべがない"
     }
   },
   {
     "translation": {
       "en": "The time has come when she must go alone",
-      "ja": "その時が来たら １人でいかねばならない"
+      "ja": "その時が来たら１人でいかねばならない"
     }
   },
   {
@@ -3505,13 +3505,13 @@
   },
   {
     "translation": {
-      "en": "- - Lena. Shh.",
+      "en": "-[Lena sighs and groans] -[Wim] Lena. Shh.",
       "ja": "レーナ"
     }
   },
   {
     "translation": {
-      "en": "Are those dead bodies?",
+      "en": "[Angela] Are those dead bodies?",
       "ja": "それが遺体なの？"
     }
   },
@@ -3535,7 +3535,7 @@
   },
   {
     "translation": {
-      "en": "And the remains of their clothing.",
+      "en": "[Wim] And the remains of their clothing.",
       "ja": "服の一部が残ってる"
     }
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "translation": {
-      "en": "- Alain, please help us. - Shh.",
+      "en": "-[Lena] Alain, please help us. -[Charles] Shh.",
       "ja": "アラン　お願い助けて"
     }
   },

@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "When my father passed,",
+      "en": "[boy] When my father passed,",
       "ja": "父が死んだ時⸺"
     }
   },
@@ -43,14 +43,14 @@
   },
   {
     "translation": {
-      "en": "- What? -",
+      "en": "-[man] What? -[plucking banjo]",
       "ja": "何を？"
     }
   },
   {
     "translation": {
       "en": "How many years since we took over the ranch from the Old Gent and Old Lady?",
-      "ja": "俺らが先代から 牧場を継いで何年になる？"
+      "ja": "俺らが先代から牧場を継いで何年になる？"
     }
   },
   {
@@ -79,19 +79,19 @@
   },
   {
     "translation": {
-      "en": "Early up tomorrow, brother. Big old drive.",
+      "en": "[Phil] Early up tomorrow, brother. Big old drive.",
       "ja": "明日は朝が早い　長い移動だ"
     }
   },
   {
     "translation": {
-      "en": "There's a dead cow. Keep our cattle away.",
+      "en": "[Phil] There's a dead cow. Keep our cattle away.",
       "ja": "死んだ牛がいる　避けて通れ"
     }
   },
   {
     "translation": {
-      "en": "- What happened? - Anthrax. Don't touch.",
+      "en": "-[cowhand] What happened? -[Phil] Anthrax. Don't touch.",
       "ja": "病死か？ 炭疽(たんそ)症だ　触るな"
     }
   },
@@ -103,19 +103,19 @@
   },
   {
     "translation": {
-      "en": "What's it, Phil?",
+      "en": "What's \"it,\" Phil?",
       "ja": "何が？"
     }
   },
   {
     "translation": {
-      "en": "What's it? All right, fatso, I'll tell you what it is.",
+      "en": "What's \"it\"? All right, fatso, I'll tell you what \"it\" is.",
       "ja": "わからんのか？　太っちょ"
     }
   },
   {
     "translation": {
-      "en": "Twenty- five years since our first run together.",
+      "en": "Twenty-five years since our first run together.",
       "ja": "俺らが牧場を継いで25年だ"
     }
   },
@@ -152,13 +152,13 @@
   {
     "translation": {
       "en": "Go camping again in the mountains and shoot ourselves some fresh elk liver.",
-      "ja": "山でアカシカを撃って 焼いて食おう"
+      "ja": "山でアカシカを撃って焼いて食おう"
     }
   },
   {
     "translation": {
       "en": "Cook it right there on the coals like Bronco Henry taught us.",
-      "ja": "ブロンコ･ヘンリーの 教えどおりに"
+      "ja": "ブロンコ･ヘンリーの教えどおりに"
     }
   },
   {
@@ -199,7 +199,7 @@
   },
   {
     "translation": {
-      "en": "Yes?",
+      "en": "[boy] Yes?",
       "ja": "何？"
     }
   },
@@ -211,7 +211,7 @@
   },
   {
     "translation": {
-      "en": "All right.",
+      "en": "[boy] All right.",
       "ja": "わかった"
     }
   },
@@ -241,13 +241,13 @@
   },
   {
     "translation": {
-      "en": "- May I? - Sure.",
+      "en": "-[woman] May I? -Sure.",
       "ja": "見ても？ もちろん"
     }
   },
   {
     "translation": {
-      "en": "- Do you like the mansion? - Too much to clean.",
+      "en": "-[boy] Do you like the mansion? -[woman] Too much to clean.",
       "ja": "この家 好き？ 掃除が大変そう"
     }
   },
@@ -289,7 +289,7 @@
   },
   {
     "translation": {
-      "en": "For the tables?",
+      "en": "[woman] For the tables?",
       "ja": "お店に出しても？"
     }
   },
@@ -301,13 +301,13 @@
   },
   {
     "translation": {
-      "en": "- I need three chickens. Can you do them? - All right.",
+      "en": "-I need three chickens. Can you do them? -All right.",
       "ja": "ニワトリを潰して 了解"
     }
   },
   {
     "translation": {
-      "en": "You're gonna have to move your stuff to the shed.",
+      "en": "[sighs] You're gonna have to move your stuff to the shed.",
       "ja": "あなたの荷物は物置に"
     }
   },
@@ -325,19 +325,19 @@
   },
   {
     "translation": {
-      "en": "- He there? - Nope.",
+      "en": "-[Phil] He there? -Nope.",
       "ja": "来たか？ まだだ"
     }
   },
   {
     "translation": {
       "en": "Well, we can't wait forever. The cattle are in the yards, so drink up.",
-      "ja": "牛は囲いに入れた 先に飲もう"
+      "ja": "牛は囲いに入れた先に飲もう"
     }
   },
   {
     "translation": {
-      "en": "- You gonna say something? - Nope.",
+      "en": "-You gonna say something? -Nope.",
       "ja": "何か一言？ いや"
     }
   },
@@ -368,13 +368,13 @@
   {
     "translation": {
       "en": "Checked the power, and it's held up. Not coming till morning.",
-      "ja": "汽車が遅れてる 朝まで来ない"
+      "ja": "汽車が遅れてる朝まで来ない"
     }
   },
   {
     "translation": {
       "en": "Oh, no, thanks. Phil, they're ready for us next door at the Red Mill.",
-      "ja": "酒はいい もう食事の時間だ"
+      "ja": "酒はいいもう食事の時間だ"
     }
   },
   {
@@ -385,26 +385,26 @@
   },
   {
     "translation": {
-      "en": "Let's get a move on.",
+      "en": "[man] Let's get a move on.",
       "ja": "食堂へ"
     }
   },
   {
     "translation": {
-      "en": "Twenty- five years ago, where were you, Georgie Boy?",
-      "ja": "25年前 お前はどこにいた？"
+      "en": "Twenty-five years ago, where were you, Georgie Boy?",
+      "ja": "25年前お前はどこにいた？"
     }
   },
   {
     "translation": {
-      "en": "- With you. - I'll tell you.",
+      "en": "-With you. -I'll tell you.",
       "ja": "お前は⸺"
     }
   },
   {
     "translation": {
-      "en": "A chubby know- nothing too dumb to get through college.",
-      "ja": "大学を落第した バカな若造だった"
+      "en": "A chubby know-nothing too dumb to get through college.",
+      "ja": "大学を落第したバカな若造だった"
     }
   },
   {
@@ -416,48 +416,48 @@
   {
     "translation": {
       "en": "One person in particular taught you and me ranching so we damn well succeeded.",
-      "ja": "誰が俺らに 牧場の経営を教えてくれた？"
+      "ja": "誰が俺らに牧場の経営を教えてくれた？"
     }
   },
   {
     "translation": {
-      "en": "- Bronco Henry. - Hmm.",
+      "en": "-Bronco Henry. -Hmm.",
       "ja": "ブロンコ･ヘンリーだ"
     }
   },
   {
     "translation": {
-      "en": "So…",
+      "en": "[clears throat] So…",
       "ja": "それじゃ…"
     }
   },
   {
     "translation": {
       "en": "So, to us brothers, Romulus and Remus, and the wolf who raised us.",
-      "ja": "俺たち兄弟と 育ててくれたオオカミに"
+      "ja": "俺たち兄弟と育ててくれたオオカミに"
     }
   },
   {
     "translation": {
-      "en": "- Bronco Henry. - Bronco.",
+      "en": "-[cowhand 1] Bronco Henry. -[cowhands] Bronco.",
       "ja": "ブロンコ･ヘンリーに"
     }
   },
   {
     "translation": {
-      "en": "- Il Lupo. - Bronco.",
+      "en": "-Il Lupo. -[George] Bronco.",
       "ja": "〈オオカミに〉"
     }
   },
   {
     "translation": {
-      "en": "- Boss is leavin'. - Dinner, boys.",
+      "en": "-[cowhand 4] Boss is leavin'. -[cowhand 5] Dinner, boys.",
       "ja": "行こう 夕飯だ"
     }
   },
   {
     "translation": {
-      "en": "Much obliged.",
+      "en": "[George] Much obliged.",
       "ja": "どうも"
     }
   },
@@ -469,25 +469,25 @@
   },
   {
     "translation": {
-      "en": "I can't!",
+      "en": "[Rose] I can't!",
       "ja": "ムリよ"
     }
   },
   {
     "translation": {
-      "en": "- Play! Play! Play! - Come on!",
+      "en": "-[diners] Play! Play! Play! -[woman 1] Come on!",
       "ja": "弾け　弾け　弾け！"
     }
   },
   {
     "translation": {
-      "en": "- Is everything all right? - Yes, ma'am. Fine.",
+      "en": "-Is everything all right? -[George] Yes, ma'am. Fine.",
       "ja": "この席で？ 問題ない"
     }
   },
   {
     "translation": {
-      "en": "I can play the piano.",
+      "en": "[man] I can play the piano.",
       "ja": "問題ない"
     }
   },
@@ -505,13 +505,13 @@
   },
   {
     "translation": {
-      "en": "I've never seen a woman behind the wheel of a car.",
+      "en": "[woman 2] \"I've never seen a woman behind the wheel of a car.\"",
       "ja": "目を疑ったわ"
     }
   },
   {
     "translation": {
-      "en": "I said, Have you never seen a lady drive a car before?",
+      "en": "[woman 2] I said, \"Have you never seen a lady drive a car before?\"",
       "ja": "女が運転するなんて"
     }
   },
@@ -529,7 +529,7 @@
   },
   {
     "translation": {
-      "en": "- No! -",
+      "en": "-No! -[laughing]",
       "ja": "ホントよ"
     }
   },
@@ -584,18 +584,18 @@
   {
     "translation": {
       "en": "All right. Now, gentlemen, look. See, that's what you do with the cloth.",
-      "ja": "見ろよ　ナプキンは ああやって使うんだ"
+      "ja": "見ろよ　ナプキンはああやって使うんだ"
     }
   },
   {
     "translation": {
-      "en": "- It's really just for wine drips. - Ooh, you got that, boys?",
+      "en": "-It's really just for wine drips. -[Phil] Ooh, you got that, boys?",
       "ja": "ワイン用です 聞いたか？"
     }
   },
   {
     "translation": {
-      "en": "Only for the drips.",
+      "en": "Only for the drips. [lisps]",
       "ja": "“ワイン用”だってさ"
     }
   },
@@ -607,7 +607,7 @@
   },
   {
     "translation": {
-      "en": "- Did Bronco ever eat here? - No, he did not.",
+      "en": "-Did Bronco ever eat here? -No, he did not.",
       "ja": "ブロンコもこの店に？ 来てない"
     }
   },
@@ -620,31 +620,31 @@
   {
     "translation": {
       "en": "Uh, back then we had herring at the saloon and a whole lot of alcohol.",
-      "ja": "大抵は酒場で ニシンと酒だった"
+      "ja": "大抵は酒場でニシンと酒だった"
     }
   },
   {
     "translation": {
       "en": "Oh. I remember this one time, Bronco made this wager that he could jump any horse",
-      "ja": "彼は 店の裏に積まれてた テーブルを指して"
+      "ja": "彼は 店の裏に積まれてたテーブルを指して"
     }
   },
   {
     "translation": {
       "en": "over the tables and chairs of the saloon piled up in the street.",
-      "ja": "“どんな馬とでも 飛び越えてみせる”と"
+      "ja": "“どんな馬とでも飛び越えてみせる”と"
     }
   },
   {
     "translation": {
       "en": "Well, we chose him a nag all right.",
-      "ja": "だから 老いぼれ馬を選んだ"
+      "ja": "だから老いぼれ馬を選んだ"
     }
   },
   {
     "translation": {
       "en": "It didn't bother him. He took off his saddle,",
-      "ja": "彼は何食わぬ顔で 鞍(くら)を取ると⸺"
+      "ja": "彼は何食わぬ顔で鞍(くら)を取ると⸺"
     }
   },
   {
@@ -656,18 +656,18 @@
   {
     "translation": {
       "en": "talking to him all the while, stroking his big, ugly head while the horse sniffed.",
-      "ja": "話しかけたり 頭を撫(な)でたりしながら"
+      "ja": "話しかけたり頭を撫(な)でたりしながら"
     }
   },
   {
     "translation": {
-      "en": "And then he swung on and rode him back and…",
+      "en": "And then he swung on and rode him back and… [exhales]",
       "ja": "それから 馬に飛び乗ると 後ろに下がった"
     }
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[cowhand 1] What?",
       "ja": "それで？"
     }
   },
@@ -679,7 +679,7 @@
   },
   {
     "translation": {
-      "en": "- - He jumped it?",
+      "en": "-[all chuckling] -[cowhand 2] He jumped it?",
       "ja": "テーブルを？"
     }
   },
@@ -691,7 +691,7 @@
   },
   {
     "translation": {
-      "en": "Put it down to amour.",
+      "en": "Put it down to amour. [sighs]",
       "ja": "〈愛の力だな〉"
     }
   },
@@ -709,7 +709,7 @@
   },
   {
     "translation": {
-      "en": "What… I don't know what you're talking about.",
+      "en": "[hesitates] What… I don't know what you're talking about.",
       "ja": "外国語はわからん"
     }
   },
@@ -727,7 +727,7 @@
   },
   {
     "translation": {
-      "en": "Are you all right, Peter?",
+      "en": "[Rose] Are you all right, Peter?",
       "ja": "大丈夫？"
     }
   },
@@ -739,7 +739,7 @@
   },
   {
     "translation": {
-      "en": "Go on over. I'll settle up.",
+      "en": "[George] Go on over. I'll settle up.",
       "ja": "勘定を済ませる"
     }
   },
@@ -751,7 +751,7 @@
   },
   {
     "translation": {
-      "en": "I'll be along.",
+      "en": "[George] I'll be along.",
       "ja": "すぐ行く"
     }
   },
@@ -775,7 +775,7 @@
   },
   {
     "translation": {
-      "en": "Come over here. I love you.",
+      "en": "[cowhand] Come over here. I love you.",
       "ja": "ほら　来いよ"
     }
   },
@@ -799,14 +799,14 @@
   },
   {
     "translation": {
-      "en": "Where have you been?",
+      "en": "[sniffs] Where have you been?",
       "ja": "どこにいた？"
     }
   },
   {
     "translation": {
       "en": "What you said about her boy tonight, Phil…",
-      "ja": "兄さんが あの子をからかうから"
+      "ja": "兄さんがあの子をからかうから"
     }
   },
   {
@@ -829,14 +829,14 @@
   },
   {
     "translation": {
-      "en": "What the hell?",
+      "en": "[Phil] What the hell?",
       "ja": "それが何だ？"
     }
   },
   {
     "translation": {
       "en": "I said her boy needed to snap out of it and get human.",
-      "ja": "男のくせに 女々しいマネをするからだ"
+      "ja": "男のくせに女々しいマネをするからだ"
     }
   },
   {
@@ -853,7 +853,7 @@
   },
   {
     "translation": {
-      "en": "Hold it.",
+      "en": "[cowhand 1] Hold it.",
       "ja": "落ちるな"
     }
   },
@@ -865,7 +865,7 @@
   },
   {
     "translation": {
-      "en": "He's getting there.",
+      "en": "[cowhand 3] He's getting there.",
       "ja": "惜しい"
     }
   },
@@ -878,12 +878,12 @@
   {
     "translation": {
       "en": "I never saw him out on a lunge, that's a fact.",
-      "ja": "練習してるのは 見たことない"
+      "ja": "練習してるのは見たことない"
     }
   },
   {
     "translation": {
-      "en": "What is it you see up there, Phil?",
+      "en": "[cowhand 4] What is it you see up there, Phil?",
       "ja": "あの丘が何に見える？"
     }
   },
@@ -931,7 +931,7 @@
   },
   {
     "translation": {
-      "en": "Gotta be an animal.",
+      "en": "[cowhand 5] Gotta be an animal.",
       "ja": "動物だな"
     }
   },
@@ -955,7 +955,7 @@
   },
   {
     "translation": {
-      "en": "I really just came to see you.",
+      "en": "[hesitates] I really just came to see you.",
       "ja": "ただ… 顔が見たくて来た"
     }
   },
@@ -967,13 +967,13 @@
   },
   {
     "translation": {
-      "en": "This most wholesome sauce is excellent",
+      "en": "\"This most wholesome sauce is excellent",
       "ja": "“健康に良いソース”"
     }
   },
   {
     "translation": {
-      "en": "with meats, fish, and cheese.",
+      "en": "with meats, fish, and cheese.\"",
       "ja": "“肉や魚やチーズにどうぞ”"
     }
   },
@@ -992,37 +992,37 @@
   {
     "translation": {
       "en": "I'd say they have more in them than wine. Sounds like booze.",
-      "ja": "あの酔い方は もっと強い酒だな"
+      "ja": "あの酔い方はもっと強い酒だな"
     }
   },
   {
     "translation": {
       "en": "They're early. I should have never put the pianola in there.",
-      "ja": "自動ピアノなんて 置くんじゃなかった"
+      "ja": "自動ピアノなんて置くんじゃなかった"
     }
   },
   {
     "translation": {
-      "en": "- Here's the water. -",
+      "en": "-[Rose] Here's the water. -[diners cheering]",
       "ja": "お水よ"
     }
   },
   {
     "translation": {
       "en": "I see… I see the Herndon doctor and the undertaker, Mr. Weltz.",
-      "ja": "ハーンドンの医者と 葬儀屋のウェルツがいるな"
+      "ja": "ハーンドンの医者と葬儀屋のウェルツがいるな"
     }
   },
   {
     "translation": {
-      "en": "Oh, goodness.  I wish Peter were here.",
+      "en": "Oh, goodness. [sighs] I wish Peter were here. [chuckles]",
       "ja": "ピーターがいたら⸺"
     }
   },
   {
     "translation": {
       "en": "He should be serving the salad, and I need to fry the chicken.",
-      "ja": "サラダは任せて チキンを揚げられるのに"
+      "ja": "サラダは任せてチキンを揚げられるのに"
     }
   },
   {
@@ -1051,7 +1051,7 @@
   },
   {
     "translation": {
-      "en": "- Uh, looks like I'm the new waiter. -",
+      "en": "-Uh, looks like I'm the new waiter. -[piano stops playing]",
       "ja": "新入りのウェーターだ"
     }
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "translation": {
-      "en": "Mr. Weltz.",
+      "en": "[George] Mr. Weltz.",
       "ja": "ウェルツさん"
     }
   },
@@ -1081,14 +1081,14 @@
   },
   {
     "translation": {
-      "en": "None to speak of.",
+      "en": "[George] None to speak of.",
       "ja": "ちらつく程度だ"
     }
   },
   {
     "translation": {
       "en": "Well, I guess I'll roll me a smoke since I'm woke up.",
-      "ja": "目が覚めたし タバコでも吸うか"
+      "ja": "目が覚めたしタバコでも吸うか"
     }
   },
   {
@@ -1141,14 +1141,14 @@
   },
   {
     "translation": {
-      "en": "So she did.",
+      "en": "[George sighs] So she did.",
       "ja": "まあな"
     }
   },
   {
     "translation": {
       "en": "Give her half a chance, and she'll be after some dollar for Miss Nancy's college fee.",
-      "ja": "あの女の狙いは ヘナチョコ息子の学費だぞ"
+      "ja": "あの女の狙いはヘナチョコ息子の学費だぞ"
     }
   },
   {
@@ -1159,8 +1159,8 @@
   },
   {
     "translation": {
-      "en": "as soon as we could get hard- ons?  Oh my God.",
-      "ja": "お袋は東部の令嬢たちを 牧場に招いた"
+      "en": "as soon as we could get hard-ons? [chuckling] Oh my God.",
+      "ja": "お袋は東部の令嬢たちを牧場に招いた"
     }
   },
   {
@@ -1177,25 +1177,25 @@
   },
   {
     "translation": {
-      "en": "I always will remember the western moon?",
+      "en": "\"I always will remember the western moon\"?",
       "ja": "“西部の月を忘れないわ”"
     }
   },
   {
     "translation": {
       "en": "Well, guess you coulda taken her out",
-      "ja": "あの娘だけは⸺ 人前に出せる程度の ご面相だった"
+      "ja": "あの娘だけは⸺ 人前に出せる程度のご面相だった"
     }
   },
   {
     "translation": {
       "en": "without first putting a sack over her head.",
-      "ja": "人前に出せる程度の ご面相だった"
+      "ja": "人前に出せる程度のご面相だった"
     }
   },
   {
     "translation": {
-      "en": "Unlike some others.",
+      "en": "[chuckling] Unlike some others.",
       "ja": "他は全滅"
     }
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "translation": {
-      "en": "It's a piece of ass you're after, fatso,",
+      "en": "[Phil] It's a piece of ass you're after, fatso,",
       "ja": "女とヤるだけなら⸺"
     }
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "translation": {
-      "en": "What do you do with these?",
+      "en": "[cowhand] What do you do with these?",
       "ja": "この皮 どうする？"
     }
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "translation": {
-      "en": "George has…",
+      "en": "[Phil] George has…",
       "ja": "“ジョージは…”"
     }
   },
@@ -1255,20 +1255,20 @@
   },
   {
     "translation": {
-      "en": "…got himself… tangled",
+      "en": "[Phil] …got himself… tangled",
       "ja": "“自分のクビを…” “絞(し)めてる”"
     }
   },
   {
     "translation": {
       "en": "with a suicide… widow…",
-      "ja": "“男を食い殺す 後家さんと⸺”"
+      "ja": "“男を食い殺す後家さんと⸺”"
     }
   },
   {
     "translation": {
-      "en": "…and her half- cooked son.",
-      "ja": "“その女の ヘタレな息子のせいで”"
+      "en": "…and her half-cooked son.",
+      "ja": "“その女のヘタレな息子のせいで”"
     }
   },
   {
@@ -1279,20 +1279,20 @@
   },
   {
     "translation": {
-      "en": "Phil.",
+      "en": "[George] Phil.",
       "ja": "フィル"
     }
   },
   {
     "translation": {
-      "en": "Yep, got you, old- timer.",
+      "en": "Yep, got you, old-timer.",
       "ja": "何だい？"
     }
   },
   {
     "translation": {
-      "en": "- - Did you write to the Old Lady?",
-      "ja": "“お袋様”に 手紙を書いたのか？"
+      "en": "-[sighs] -Did you write to the Old Lady?",
+      "ja": "“お袋様”に手紙を書いたのか？"
     }
   },
   {
@@ -1316,13 +1316,13 @@
   {
     "translation": {
       "en": "Well, you know as well as I do what the Old Lady would feel",
-      "ja": "“お袋様”は どう思うかね？"
+      "ja": "“お袋様”はどう思うかね？"
     }
   },
   {
     "translation": {
       "en": "if she thought you were getting mixed up with her.",
-      "ja": "お前が あの手の女に ハマってると知ったら"
+      "ja": "お前が あの手の女にハマってると知ったら"
     }
   },
   {
@@ -1375,13 +1375,13 @@
   },
   {
     "translation": {
-      "en": "Look at me, you little bitch! Huh?  Yeah?",
+      "en": "Look at me, you little bitch! Huh? [grunts] Yeah?",
       "ja": "このメス馬！"
     }
   },
   {
     "translation": {
-      "en": "Quit it! You fat- faced bitch!",
+      "en": "Quit it! You fat-faced bitch!",
       "ja": "出てけ　ブス馬"
     }
   },
@@ -1393,13 +1393,13 @@
   },
   {
     "translation": {
-      "en": "My school boarders eat dinner at 6:00 p.m. sharp.",
+      "en": "[woman] My school boarders eat dinner at 6:00 p.m. sharp.",
       "ja": "夕食は６時からよ"
     }
   },
   {
     "translation": {
-      "en": "No dish- washing duty if he has homework.",
+      "en": "No dish-washing duty if he has homework.",
       "ja": "宿題があれば皿洗いは免除"
     }
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "translation": {
-      "en": "Maybe you'd like to come to the ranch sometimes?",
+      "en": "[Rose] Maybe you'd like to come to the ranch sometimes?",
       "ja": "時々 牧場に顔を出して"
     }
   },
@@ -1423,13 +1423,13 @@
   },
   {
     "translation": {
-      "en": "May I keep some of these rose petals?",
+      "en": "[Peter] May I keep some of these rose petals?",
       "ja": "花びらをもらっても？"
     }
   },
   {
     "translation": {
-      "en": "Hey, ho.",
+      "en": "[George] Hey, ho.",
       "ja": "いるか？"
     }
   },
@@ -1441,26 +1441,26 @@
   },
   {
     "translation": {
-      "en": "I've been thinking we should have some sort of dinner party",
-      "ja": "考えたんだが⸺ 俺の両親を招いて 食事会をやらないか？"
+      "en": "[George] I've been thinking we should have some sort of dinner party",
+      "ja": "考えたんだが⸺ 俺の両親を招いて食事会をやらないか？"
     }
   },
   {
     "translation": {
       "en": "to introduce you to my parents.",
-      "ja": "俺の両親を招いて 食事会をやらないか？"
+      "ja": "俺の両親を招いて食事会をやらないか？"
     }
   },
   {
     "translation": {
       "en": "And perhaps we could invite the governor and his wife too.",
-      "ja": "その時は知事夫妻も 招こうと思う"
+      "ja": "その時は知事夫妻も招こうと思う"
     }
   },
   {
     "translation": {
       "en": "I saw them in Herndon today, and, uh,",
-      "ja": "今日 ハーンドンで 知事に会ってね"
+      "ja": "今日 ハーンドンで知事に会ってね"
     }
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "translation": {
       "en": "Uh, maybe you'd be kind enough to play something on our old piano.",
-      "ja": "ピアノで 何か弾いてくれるか？"
+      "ja": "ピアノで何か弾いてくれるか？"
     }
   },
   {
@@ -1483,7 +1483,7 @@
   },
   {
     "translation": {
-      "en": "- I only played for the moving pictures. -",
+      "en": "-I only played for the moving pictures. -[chuckles]",
       "ja": "映画館で弾いてただけ"
     }
   },
@@ -1495,8 +1495,8 @@
   },
   {
     "translation": {
-      "en": "The Old Lady can't play a note, so…",
-      "ja": "“お袋様”は 鍵盤も触れない"
+      "en": "The Old Lady can't play a note, so… [chuckles]",
+      "ja": "“お袋様”は鍵盤も触れない"
     }
   },
   {
@@ -1519,7 +1519,7 @@
   },
   {
     "translation": {
-      "en": "A good spot for what?",
+      "en": "[George] A good spot for what?",
       "ja": "何をする？"
     }
   },
@@ -1537,7 +1537,7 @@
   },
   {
     "translation": {
-      "en": "Follow me.",
+      "en": "[Rose] Follow me.",
       "ja": "私のマネして"
     }
   },
@@ -1561,13 +1561,13 @@
   },
   {
     "translation": {
-      "en": "- To the side again. One, two… - Sorry, I… I really can't.",
+      "en": "-To the side again. One, two… -Sorry, I… I really can't.",
       "ja": "すまん　ついてけない"
     }
   },
   {
     "translation": {
-      "en": "- I really can't dance. I…  - You're dancing.",
+      "en": "-I really can't dance. I… [chuckles] -You're dancing. [chuckles]",
       "ja": "俺は踊れない 踊ってるわ"
     }
   },
@@ -1603,7 +1603,7 @@
   },
   {
     "translation": {
-      "en": "I told you I'd teach you.",
+      "en": "I told you I'd teach you. [chuckles]",
       "ja": "ほら　できた"
     }
   },
@@ -1627,7 +1627,7 @@
   },
   {
     "translation": {
-      "en": "I just…",
+      "en": "I just… [sighs]",
       "ja": "いや…"
     }
   },
@@ -1645,7 +1645,7 @@
   },
   {
     "translation": {
-      "en": "Go on up and get out of the cold.",
+      "en": "[George] Go on up and get out of the cold.",
       "ja": "先に中へ　外は寒い"
     }
   },
@@ -1663,19 +1663,19 @@
   },
   {
     "translation": {
-      "en": "- Oh, hello there. - Hello.",
+      "en": "-Oh, hello there. -Hello.",
       "ja": "やあ"
     }
   },
   {
     "translation": {
-      "en": "- Something wrong with the furnace? - Search me.",
+      "en": "-Something wrong with the furnace? -Search me.",
       "ja": "暖房が故障した？ 知らん"
     }
   },
   {
     "translation": {
-      "en": "- I'll go down and shake it up. - I've been hanging around for you all day.",
+      "en": "-I'll go down and shake it up. -I've been hanging around for you all day.",
       "ja": "直してくる お前を待ってた"
     }
   },
@@ -1693,7 +1693,7 @@
   },
   {
     "translation": {
-      "en": "- You all right? - I'm perfectly fine, George.",
+      "en": "-You all right? -I'm perfectly fine, George.",
       "ja": "すぐ戻る 大丈夫よ"
     }
   },
@@ -1723,13 +1723,13 @@
   },
   {
     "translation": {
-      "en": "We had such a nice trip.",
+      "en": "[mockingly] \"We had such a nice trip.\"",
       "ja": "“いい旅でした”"
     }
   },
   {
     "translation": {
-      "en": "Come on in.",
+      "en": "[whispers] Come on in.",
       "ja": "おいで"
     }
   },
@@ -1771,25 +1771,25 @@
   },
   {
     "translation": {
-      "en": "When the rains come, the cellar gets flooded.",
-      "ja": "雨が降ると⸺ 地下室が水浸しになって ネズミが死ぬの"
+      "en": "[housekeeper] When the rains come, the cellar gets flooded.",
+      "ja": "雨が降ると⸺ 地下室が水浸しになってネズミが死ぬの"
     }
   },
   {
     "translation": {
       "en": "So, the rats all drown. They float to the surface.",
-      "ja": "地下室が水浸しになって ネズミが死ぬの その死骸を⸺"
+      "ja": "地下室が水浸しになってネズミが死ぬの その死骸を⸺"
     }
   },
   {
     "translation": {
       "en": "I have to get the young lads in to scoop 'em all up with a…",
-      "ja": "若い衆に すくわせるんだけど…"
+      "ja": "若い衆にすくわせるんだけど…"
     }
   },
   {
     "translation": {
-      "en": "Please keep talking.",
+      "en": "Please keep talking. [chuckles]",
       "ja": "話を続けて"
     }
   },
@@ -1807,31 +1807,31 @@
   },
   {
     "translation": {
-      "en": "Easy.",
+      "en": "[George] Easy.",
       "ja": "気をつけろ"
     }
   },
   {
     "translation": {
-      "en": "Head to the right.",
+      "en": "[George] Head to the right.",
       "ja": "右側へ"
     }
   },
   {
     "translation": {
-      "en": "- Turn it around that way. - Please, I'll take it.",
+      "en": "-[George] Turn it around that way. -[young housekeeper] Please, I'll take it.",
       "ja": "正面へ回れ 預かるわ"
     }
   },
   {
     "translation": {
-      "en": "- What is it? - Head to the front door.",
+      "en": "-What is it? -[George] Head to the front door.",
       "ja": "あれ 何？"
     }
   },
   {
     "translation": {
-      "en": "George. Is that…",
+      "en": "[Rose panting] George. Is that…",
       "ja": "ジョージ それ… グランドピアノ？"
     }
   },
@@ -1843,14 +1843,14 @@
   },
   {
     "translation": {
-      "en": "- You got it? - Yeah, I got it.",
+      "en": "-[George] You got it? -[cowhand 2] Yeah, I got it.",
       "ja": "持てるか？"
     }
   },
   {
     "translation": {
-      "en": "- Whoa, hold it. - It's a Mason & Hamlin baby grand.",
-      "ja": "メイソン＆ハムリンの グランドピアノ"
+      "en": "-[cowhand 3 grunting] Whoa, hold it. -It's a Mason & Hamlin baby grand.",
+      "ja": "メイソン＆ハムリンのグランドピアノ"
     }
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "translation": {
       "en": "I'm just very average. I… I only know tunes.",
-      "ja": "上手くないのよ 曲が弾けるだけ"
+      "ja": "上手くないのよ曲が弾けるだけ"
     }
   },
   {
@@ -1880,30 +1880,30 @@
   {
     "translation": {
       "en": "We don't want a concert. We just wanna hear you play, Rose.",
-      "ja": "コンサートなんぞ 望んでない"
+      "ja": "コンサートなんぞ望んでない"
     }
   },
   {
     "translation": {
-      "en": "- I should like to look on the governor… - Easy.",
-      "ja": "知事が うちの牧場に やって来て⸺"
+      "en": "-I should like to look on the governor… -[George] Easy.",
+      "ja": "知事が うちの牧場にやって来て⸺"
     }
   },
   {
     "translation": {
-      "en": "…as he drives up and gets out of his vehicle.",
-      "ja": "車から降りるのを 見物したいね"
+      "en": "[housekeeper] …as he drives up and gets out of his vehicle.",
+      "ja": "車から降りるのを見物したいね"
     }
   },
   {
     "translation": {
-      "en": "- One step at a time, ready? - Two, three, four.",
+      "en": "-[cowhand 4] One step at a time, ready? -[cowhand 5] Two, three, four.",
       "ja": "一歩ずつ行くぞ"
     }
   },
   {
     "translation": {
-      "en": "- You make a rope with these? - These strips? Yeah.",
+      "en": "-[cowhand] You make a rope with these? -[Phil] These strips? Yeah.",
       "ja": "皮をロープに？ そうだ"
     }
   },
@@ -1915,7 +1915,7 @@
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "[cowhands] Yes, sir.",
       "ja": "了解です"
     }
   },
@@ -1934,7 +1934,7 @@
   {
     "translation": {
       "en": "His Nibs will be here for dinner and the Old Gent and the Old Lady.",
-      "ja": "今夜 お偉いさんが 食事に来る “親父殿”と“お袋様”も"
+      "ja": "今夜 お偉いさんが食事に来る “親父殿”と“お袋様”も"
     }
   },
   {
@@ -1945,7 +1945,7 @@
   },
   {
     "translation": {
-      "en": "She on the pinano again?",
+      "en": "[Phil] She on the pinano again?",
       "ja": "あのピアノの音…"
     }
   },
@@ -1969,31 +1969,31 @@
   },
   {
     "translation": {
-      "en": "Well, old- timer, what is it? What's in the noodle?",
+      "en": "Well, old-timer, what is it? What's in the noodle?",
       "ja": "それで何を言いたい？"
     }
   },
   {
     "translation": {
-      "en": "Well…",
+      "en": "[George] Well…",
       "ja": "その…"
     }
   },
   {
     "translation": {
-      "en": "Phil.  I, uh…",
+      "en": "Phil. [hesitates] I, uh…",
       "ja": "フィル　俺は…"
     }
   },
   {
     "translation": {
-      "en": "- I just… - Go on, spit it out.",
+      "en": "-I just… -Go on, spit it out.",
       "ja": "俺は… 言えよ"
     }
   },
   {
     "translation": {
-      "en": "- Well, it's about His Nibs, the governor. - All right.",
+      "en": "-Well, it's about His Nibs, the governor. -[Phil] All right.",
       "ja": "知事のことなんだ それで？"
     }
   },
@@ -2018,7 +2018,7 @@
   {
     "translation": {
       "en": "I was thinking His Nibs probably wouldn't mind so much,",
-      "ja": "たぶん知事自身は 気にしないと思うが"
+      "ja": "たぶん知事自身は気にしないと思うが"
     }
   },
   {
@@ -2035,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "Well, it's sort of a hard thing…",
+      "en": "Well, it's sort of a hard thing… [exhales sharply]",
       "ja": "なんて言うか…"
     }
   },
@@ -2048,7 +2048,7 @@
   {
     "translation": {
       "en": "She might mind if you come to the table without a washup.",
-      "ja": "食事の前に 風呂に入ってくれ"
+      "ja": "食事の前に風呂に入ってくれ"
     }
   },
   {
@@ -2059,7 +2059,7 @@
   },
   {
     "translation": {
-      "en": "Hello, Mother, Father.",
+      "en": "[George] Hello, Mother, Father.",
       "ja": "母さん　父さん"
     }
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "translation": {
-      "en": "They're here.",
+      "en": "[young housekeeper] They're here.",
       "ja": "来ました"
     }
   },
@@ -2125,20 +2125,20 @@
   },
   {
     "translation": {
-      "en": "Oh, how sweet. They have their own umbrella.",
-      "ja": "まあ ステキ 傘がついてるわ"
+      "en": "[woman chuckling] Oh, how sweet. They have their own umbrella.",
+      "ja": "まあ ステキ傘がついてるわ"
     }
   },
   {
     "translation": {
-      "en": "- Orange blossoms. - It's an island of civilization here.",
-      "ja": "カクテルか 洗練されてるな"
+      "en": "-[George] Orange blossoms. -It's an island of civilization here.",
+      "ja": "カクテルか洗練されてるな"
     }
   },
   {
     "translation": {
       "en": "I was, uh, telling Georgie about your brother.",
-      "ja": "君の兄さんのことを 妻に話してた"
+      "ja": "君の兄さんのことを妻に話してた"
     }
   },
   {
@@ -2150,13 +2150,13 @@
   {
     "translation": {
       "en": "Yes, in classics. That's right.",
-      "ja": "はい　イエール大で 古典を専攻しました"
+      "ja": "はい　イエール大で古典を専攻しました"
     }
   },
   {
     "translation": {
       "en": "So, uh… he swears at the cattle in Greek or Latin?",
-      "ja": "それじゃ 牛を怒鳴る時も ラテン語で？"
+      "ja": "それじゃ 牛を怒鳴る時もラテン語で？"
     }
   },
   {
@@ -2168,7 +2168,7 @@
   {
     "translation": {
       "en": "Uh, Rose plays the piano very well.",
-      "ja": "ローズは ピアノが得意なんですよ"
+      "ja": "ローズはピアノが得意なんですよ"
     }
   },
   {
@@ -2185,7 +2185,7 @@
   },
   {
     "translation": {
-      "en": "I'll just go have a look- see out the back for Phil.",
+      "en": "I'll just go have a look-see out the back for Phil.",
       "ja": "フィルを呼んできます"
     }
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "translation": {
-      "en": "Yes.",
+      "en": "[George] Yes.",
       "ja": "お待ちを"
     }
   },
@@ -2210,7 +2210,7 @@
   {
     "translation": {
       "en": "Oh no, you cannot. We know everything. We're walking encyclopedias.",
-      "ja": "そうよ　私たちは “歩く辞典”ですからね"
+      "ja": "そうよ　私たちは“歩く辞典”ですからね"
     }
   },
   {
@@ -2221,8 +2221,8 @@
   },
   {
     "translation": {
-      "en": "She's been reading The Curse of Tutankhamun in The Digest.",
-      "ja": "最近は 「ツタンカーメンの呪い」を"
+      "en": "[Old Gent] She's been reading \"The Curse of Tutankhamun\" in The Digest.",
+      "ja": "最近は「ツタンカーメンの呪い」を"
     }
   },
   {
@@ -2240,12 +2240,12 @@
   {
     "translation": {
       "en": "Yes, I do. But did you know that Tutankhamun was just a boy? Only 18.",
-      "ja": "ツタンカーメンが 18歳だったことはご存じ？"
+      "ja": "ツタンカーメンが18歳だったことはご存じ？"
     }
   },
   {
     "translation": {
-      "en": "Phil, are you here?",
+      "en": "[George] Phil, are you here?",
       "ja": "フィル　いるか？"
     }
   },
@@ -2282,19 +2282,19 @@
   {
     "translation": {
       "en": "Yes, we're counting on your conversation.",
-      "ja": "兄さんがいないと 間がもたん"
+      "ja": "兄さんがいないと間がもたん"
     }
   },
   {
     "translation": {
       "en": "I shouldn't have said what I said to you about--",
-      "ja": "余計なことを 言っちまって…"
+      "ja": "余計なことを言っちまって…"
     }
   },
   {
     "translation": {
       "en": "You two can keep your apologies to yourself. I'm not coming.",
-      "ja": "詫(わ)びはいらん 俺は行かない"
+      "ja": "詫(わ)びはいらん俺は行かない"
     }
   },
   {
@@ -2323,19 +2323,19 @@
   },
   {
     "translation": {
-      "en": "Nothing could have happened to Phil, could it?",
+      "en": "[Old Lady] Nothing could have happened to Phil, could it?",
       "ja": "病気じゃないのね？"
     }
   },
   {
     "translation": {
-      "en": "No, he'll be fine. Something just must've come up.",
+      "en": "[George] No, he'll be fine. Something just must've come up.",
       "ja": "大丈夫だ 何か急用らしい"
     }
   },
   {
     "translation": {
-      "en": "So, Rose…",
+      "en": "[Georgina] So, Rose…",
       "ja": "ローズ"
     }
   },
@@ -2347,20 +2347,20 @@
   },
   {
     "translation": {
-      "en": "Yes, George told me you play very well.",
+      "en": "[Old Lady] Yes, George told me you play very well.",
       "ja": "上手だって聞いたわ"
     }
   },
   {
     "translation": {
-      "en": "- Oh no, I'm terribly out of practice. - Yes, we'd love that.",
+      "en": "-Oh no, I'm terribly out of practice. -[Edward] Yes, we'd love that.",
       "ja": "いいえ　練習不足で"
     }
   },
   {
     "translation": {
       "en": "Come now, you've been playing a lot. You know you have.",
-      "ja": "大丈夫だ ちゃんと練習してた"
+      "ja": "大丈夫だちゃんと練習してた"
     }
   },
   {
@@ -2371,7 +2371,7 @@
   },
   {
     "translation": {
-      "en": "Why,",
+      "en": "[George] Why,",
       "ja": "そうだな"
     }
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "translation": {
-      "en": "- What one? - Why, the… the one about the Gypsy.",
+      "en": "-What one? -Why, the… the one about the Gypsy.",
       "ja": "どの曲？ ほら “流浪の民”の曲さ"
     }
   },
@@ -2395,7 +2395,7 @@
   },
   {
     "translation": {
-      "en": "Just play anything.",
+      "en": "Just play anything. [chuckles]",
       "ja": "何でもいいよ"
     }
   },
@@ -2407,14 +2407,14 @@
   },
   {
     "translation": {
-      "en": "I can't seem to play.",
+      "en": "I can't seem to play. [chuckles]",
       "ja": "弾けません"
     }
   },
   {
     "translation": {
       "en": "I… I played in a cinema pit for hours and hours.",
-      "ja": "昔は映画館で 何時間も弾いてたのに"
+      "ja": "昔は映画館で何時間も弾いてたのに"
     }
   },
   {
@@ -2426,19 +2426,19 @@
   {
     "translation": {
       "en": "Well, she got you halter trained, right, George? That's the main thing.",
-      "ja": "だが 亭主の躾(しつけ)には 成功してる"
+      "ja": "だが 亭主の躾(しつけ)には成功してる"
     }
   },
   {
     "translation": {
-      "en": "- - I'm so sorry.",
+      "en": "-[laughing] -[Rose] I'm so sorry.",
       "ja": "すみません"
     }
   },
   {
     "translation": {
       "en": "No, it was a lovely, lovely evening. Thank you.",
-      "ja": "いいんだ 今夜は実に楽しかった"
+      "ja": "いいんだ今夜は実に楽しかった"
     }
   },
   {
@@ -2455,7 +2455,7 @@
   },
   {
     "translation": {
-      "en": "Not yet.",
+      "en": "[Phil] Not yet.",
       "ja": "まだです"
     }
   },
@@ -2480,7 +2480,7 @@
   {
     "translation": {
       "en": "Anyhows, you don't want conversation. You've been listening to the pinano and dancing, I guess.",
-      "ja": "会話より ピアノやダンスを 楽しんだのでは？"
+      "ja": "会話より ピアノやダンスを楽しんだのでは？"
     }
   },
   {
@@ -2504,12 +2504,12 @@
   {
     "translation": {
       "en": "See, you wouldn't think there was much difference between a cinema pit and a dinner party.",
-      "ja": "映画館と食事会と 何が違うのかね？"
+      "ja": "映画館と食事会と何が違うのかね？"
     }
   },
   {
     "translation": {
-      "en": "Where have you been, Phil?",
+      "en": "[Old Lady] Where have you been, Phil?",
       "ja": "どこにいたの？"
     }
   },
@@ -2527,38 +2527,38 @@
   },
   {
     "translation": {
-      "en": "You didn't wash?",
+      "en": "[Old Lady chuckles] You didn't wash?",
       "ja": "お風呂？"
     }
   },
   {
     "translation": {
       "en": "Oh, he's a ranchman, isn't that right? That's honest dirt.",
-      "ja": "彼はカウボーイだ 埃(ほこり)まみれで当然さ"
+      "ja": "彼はカウボーイだ埃(ほこり)まみれで当然さ"
     }
   },
   {
     "translation": {
-      "en": "- Thank you, again. - Thank you.",
+      "en": "-Thank you, again. -Thank you.",
       "ja": "それじゃ"
     }
   },
   {
     "translation": {
-      "en": "I'll just run and grab you a blanket for the ride.",
+      "en": "[George] I'll just run and grab you a blanket for the ride.",
       "ja": "寒いので毛布を"
     }
   },
   {
     "translation": {
-      "en": "I wondered if you didn't think about leaving your medical books here for the summer.",
-      "ja": "夏休みの間 下宿に本を置けないの？"
+      "en": "[Rose] I wondered if you didn't think about leaving your medical books here for the summer.",
+      "ja": "夏休みの間下宿に本を置けないの？"
     }
   },
   {
     "translation": {
       "en": "I thought about it, but… but you understand they were Dad's.",
-      "ja": "置けるけど 父さんの大事な本だから"
+      "ja": "置けるけど父さんの大事な本だから"
     }
   },
   {
@@ -2582,7 +2582,7 @@
   {
     "translation": {
       "en": "He calls me Doctor, and I call him Professor, 'cause that's what we wanna be.",
-      "ja": "“ドクター”と“教授”って 呼び合ってる"
+      "ja": "“ドクター”と“教授”って呼び合ってる"
     }
   },
   {
@@ -2593,7 +2593,7 @@
   },
   {
     "translation": {
-      "en": "No, Rose.",
+      "en": "[scoffs] No, Rose.",
       "ja": "イヤだね"
     }
   },
@@ -2617,26 +2617,26 @@
   },
   {
     "translation": {
-      "en": "A bull calf, boss!  Keep that leg stretched out! You got him?",
+      "en": "[cowhand 1] A bull calf, boss! [cowhand 2] Keep that leg stretched out! You got him?",
       "ja": "ボス　捕まえました！"
     }
   },
   {
     "translation": {
-      "en": "How come you don't wear gloves?",
+      "en": "[cowhand 5] How come you don't wear gloves?",
       "ja": "手袋は？"
     }
   },
   {
     "translation": {
-      "en": "How 'bout 'cause they're not needed.",
+      "en": "[Phil] How 'bout 'cause they're not needed.",
       "ja": "いらん"
     }
   },
   {
     "translation": {
       "en": "Castrate 1,500 head, then nick your thumb on the last.",
-      "ja": "1500頭 去勢して 最後で指を切った"
+      "ja": "1500頭 去勢して最後で指を切った"
     }
   },
   {
@@ -2672,7 +2672,7 @@
   {
     "translation": {
       "en": "You're gonna see him creeping all over the place now. Big eyes goggling.",
-      "ja": "夏の間は あのギョロ目が 牧場をうろつくぞ"
+      "ja": "夏の間は あのギョロ目が牧場をうろつくぞ"
     }
   },
   {
@@ -2683,13 +2683,13 @@
   },
   {
     "translation": {
-      "en": "Rose?",
+      "en": "[George] Rose?",
       "ja": "ローズ？"
     }
   },
   {
     "translation": {
-      "en": "Does he like his room?",
+      "en": "[George] Does he like his room?",
       "ja": "部屋は問題ない？"
     }
   },
@@ -2701,25 +2701,25 @@
   },
   {
     "translation": {
-      "en": "Watch your fires. Summer's coming.",
+      "en": "[Phil] Watch your fires. Summer's coming.",
       "ja": "火事を出すな　もう夏だ"
     }
   },
   {
     "translation": {
       "en": "Which also means any Indians camping need to be moved off the property. No exceptions.",
-      "ja": "先住民が野営してたら つまみ出せ"
+      "ja": "先住民が野営してたらつまみ出せ"
     }
   },
   {
     "translation": {
-      "en": "- We got animals they want to eat. Got it? -",
+      "en": "-We got animals they want to eat. Got it? -[dog barking]",
       "ja": "奴らは牛を狙ってる"
     }
   },
   {
     "translation": {
-      "en": "Yes, sir.",
+      "en": "[cowhands] Yes, sir.",
       "ja": "了解です"
     }
   },
@@ -2744,7 +2744,7 @@
   {
     "translation": {
       "en": "Maybe find yourselves an arrowhead up by them aspens.",
-      "ja": "先住民が矢で 狙ってるかもしれん"
+      "ja": "先住民が矢で狙ってるかもしれん"
     }
   },
   {
@@ -2774,7 +2774,7 @@
   {
     "translation": {
       "en": "It's George's week in town, so it's just Phil.",
-      "ja": "今週 ジョージは街だから フィルだけなの"
+      "ja": "今週 ジョージは街だからフィルだけなの"
     }
   },
   {
@@ -2797,7 +2797,7 @@
   },
   {
     "translation": {
-      "en": "You're okay.",
+      "en": "You're okay. [kissing]",
       "ja": "大丈夫よ"
     }
   },
@@ -2809,13 +2809,13 @@
   },
   {
     "translation": {
-      "en": "- Come here. - Get it, Peter.",
+      "en": "-[Peter] Come here. -Get it, Peter.",
       "ja": "捕まえて"
     }
   },
   {
     "translation": {
-      "en": "Come here. Come here. Come here.",
+      "en": "[Peter] Come here. Come here. Come here.",
       "ja": "大丈夫だ　おいで"
     }
   },
@@ -2839,38 +2839,38 @@
   },
   {
     "translation": {
-      "en": "They dug up that graveyard to make way for the new highway.",
-      "ja": "高速道路を通すのに 墓地を掘ってね"
+      "en": "[housekeeper] They dug up that graveyard to make way for the new highway.",
+      "ja": "高速道路を通すのに墓地を掘ってね"
     }
   },
   {
     "translation": {
       "en": "Among those buried there was a friend of mine.",
-      "ja": "そこに埋まってた 友達の棺桶を⸺"
+      "ja": "そこに埋まってた友達の棺桶を⸺"
     }
   },
   {
     "translation": {
       "en": "A clumsy tractor driver broke open the coffin,",
-      "ja": "トラクターの運転手が 開けちまったんだ"
+      "ja": "トラクターの運転手が開けちまったんだ"
     }
   },
   {
     "translation": {
       "en": "and they found her hair had continued to grow after her death.",
-      "ja": "そしたら なんと 死体の髪の毛が伸びてた"
+      "ja": "そしたら なんと死体の髪の毛が伸びてた"
     }
   },
   {
     "translation": {
       "en": "The whole coffin just stuffed with her lovely golden hair.",
-      "ja": "キレイな金髪で 棺桶があふれてたってさ"
+      "ja": "キレイな金髪で棺桶があふれてたってさ"
     }
   },
   {
     "translation": {
       "en": "Except for a few feet from the end,",
-      "ja": "でも 毛先から 数十センチは⸺"
+      "ja": "でも 毛先から数十センチは⸺"
     }
   },
   {
@@ -2887,13 +2887,13 @@
   },
   {
     "translation": {
-      "en": "- Some say she was a beauty. - What?",
+      "en": "-[housekeeper] Some say she was a beauty. -What?",
       "ja": "彼女は美人でね"
     }
   },
   {
     "translation": {
-      "en": "Golden braids on top of her hair.",
+      "en": "[housekeeper] Golden braids on top of her hair.",
       "ja": "キレイに髪を結い上げて…"
     }
   },
@@ -2905,7 +2905,7 @@
   },
   {
     "translation": {
-      "en": "- No, please. Get out of my room. - Where's your rabbit?",
+      "en": "-No, please. Get out of my room. -Where's your rabbit?",
       "ja": "入るな ウサギは？"
     }
   },
@@ -2935,7 +2935,7 @@
   },
   {
     "translation": {
-      "en": "Shut the door.",
+      "en": "[clicks tongue] Shut the door.",
       "ja": "ドアを閉めろ"
     }
   },
@@ -2953,7 +2953,7 @@
   },
   {
     "translation": {
-      "en": "- Mom, I have a lot to do. - Come on.",
+      "en": "-Mom, I have a lot to do. -Come on.",
       "ja": "忙しいんだ"
     }
   },
@@ -3025,55 +3025,55 @@
   },
   {
     "translation": {
-      "en": "- Whoo! - Yeah, that was definitely out.",
+      "en": "-Whoo! -[Lola] Yeah, that was definitely out.",
       "ja": "今のはアウト"
     }
   },
   {
     "translation": {
       "en": "Lola, can you please take over? I have a migraine.",
-      "ja": "ローラ　代わって 頭痛がするの"
+      "ja": "ローラ　代わって頭痛がするの"
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Lola] Yeah.",
       "ja": "はい"
     }
   },
   {
     "translation": {
-      "en": "- Where do you want me? - Back there.",
+      "en": "-[cowhand 1] Where do you want me? -Back there.",
       "ja": "どこへ？ そっち"
     }
   },
   {
     "translation": {
-      "en": "Yes, ma'am.",
+      "en": "[cowhand 1] Yes, ma'am.",
       "ja": "了解"
     }
   },
   {
     "translation": {
-      "en": "- I hit that way. - I was aiming for you.",
+      "en": "-I hit that way. -I was aiming for you.",
       "ja": "狙ったの"
     }
   },
   {
     "translation": {
-      "en": "Don't listen to Bobby.",
+      "en": "[cowhand 2] Don't listen to Bobby.",
       "ja": "ウソだね"
     }
   },
   {
     "translation": {
-      "en": "Are you all right, Mother?",
+      "en": "[Peter] Are you all right, Mother?",
       "ja": "大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "I feel like my eyes are going to pop out of my head.",
+      "en": "[Rose sniffles] I feel like my eyes are going to pop out of my head.",
       "ja": "目玉が飛び出そう…"
     }
   },
@@ -3109,7 +3109,7 @@
   },
   {
     "translation": {
-      "en": "- - You want 'em off?",
+      "en": "-[laughing] -You want 'em off?",
       "ja": "脱げよ ほら！"
     }
   },
@@ -3139,13 +3139,13 @@
   },
   {
     "translation": {
-      "en": "Get out of here!",
+      "en": "[Phil] Get out of here!",
       "ja": "出てけ！"
     }
   },
   {
     "translation": {
-      "en": "♪ Oh, Lord, oh, Lord ♪",
+      "en": "[cowhand] ♪ Oh, Lord, oh, Lord ♪",
       "ja": "ああ　神様"
     }
   },
@@ -3158,7 +3158,7 @@
   {
     "translation": {
       "en": "♪ Let the snow melt off Wash away my sorrow ♪",
-      "ja": "雪と一緒に 　　悲しみも溶かしてくれ"
+      "ja": "雪と一緒に　　悲しみも溶かしてくれ"
     }
   },
   {
@@ -3181,25 +3181,25 @@
   },
   {
     "translation": {
-      "en": "Howdy, ma'am.",
+      "en": "[cowhand 1] Howdy, ma'am.",
       "ja": "奥さん"
     }
   },
   {
     "translation": {
-      "en": "- Little faggot. -",
+      "en": "-[cowhand 3] Little faggot. -[cowhands laugh]",
       "ja": "オカマ野郎"
     }
   },
   {
     "translation": {
-      "en": "Little Nancy.",
+      "en": "[cowhand 5] Little Nancy.",
       "ja": "よう　お嬢ちゃん"
     }
   },
   {
     "translation": {
-      "en": "Pete.",
+      "en": "[Phil] Pete.",
       "ja": "ピート"
     }
   },
@@ -3217,14 +3217,14 @@
   },
   {
     "translation": {
-      "en": "You want me, Mr. Burbank?",
+      "en": "[Peter] You want me, Mr. Burbank?",
       "ja": "バーバンクさん"
     }
   },
   {
     "translation": {
-      "en": "Well, I don't see any Mr. Burbank here.",
-      "ja": "“バーバンクさん”は いねえよ"
+      "en": "[Phil] Well, I don't see any Mr. Burbank here.",
+      "ja": "“バーバンクさん”はいねえよ"
     }
   },
   {
@@ -3242,13 +3242,13 @@
   {
     "translation": {
       "en": "I guess it's hard for a young'un like you to call an old fella like me",
-      "ja": "年上の男を名前で呼ぶのは 気まずかろうが"
+      "ja": "年上の男を名前で呼ぶのは気まずかろうが"
     }
   },
   {
     "translation": {
       "en": "just plain Phil, at first.",
-      "ja": "年上の男を名前で呼ぶのは 気まずかろうが すぐ慣れる"
+      "ja": "年上の男を名前で呼ぶのは気まずかろうが すぐ慣れる"
     }
   },
   {
@@ -3277,7 +3277,7 @@
   },
   {
     "translation": {
-      "en": "- Did we, sir? - Forget the sir stuff.",
+      "en": "-Did we, sir? -[Phil] Forget the \"sir\" stuff.",
       "ja": "そうですか？ 敬語はやめろ"
     }
   },
@@ -3320,7 +3320,7 @@
   {
     "translation": {
       "en": "I'm gonna finish this rope and give it to you and teach you how to use it.",
-      "ja": "このロープを仕上げて お前にやろう"
+      "ja": "このロープを仕上げてお前にやろう"
     }
   },
   {
@@ -3355,7 +3355,7 @@
   },
   {
     "translation": {
-      "en": "Well…",
+      "en": "[Peter] Well…",
       "ja": "それなら…"
     }
   },
@@ -3367,7 +3367,7 @@
   },
   {
     "translation": {
-      "en": "Get on it.",
+      "en": "[Phil] Get on it.",
       "ja": "乗ってみろ"
     }
   },
@@ -3391,7 +3391,7 @@
   },
   {
     "translation": {
-      "en": "- Yes. - You should wear 'em.",
+      "en": "-[Peter] Yes. -You should wear 'em.",
       "ja": "あります なら 履け"
     }
   },
@@ -3403,14 +3403,14 @@
   },
   {
     "translation": {
-      "en": "That's impressive, Phil.",
+      "en": "[Peter] That's impressive, Phil.",
       "ja": "見事ですね"
     }
   },
   {
     "translation": {
-      "en": "Well, just by sitting there, you're soaking up all the riding know- how you'll ever need and then some.",
-      "ja": "そこに座るだけで 乗馬のノウハウを学べるぞ"
+      "en": "Well, just by sitting there, you're soaking up all the riding know-how you'll ever need and then some.",
+      "ja": "そこに座るだけで乗馬のノウハウを学べるぞ"
     }
   },
   {
@@ -3434,7 +3434,7 @@
   {
     "translation": {
       "en": "Must have been some fella from the Lewis and Clark Expedition.",
-      "ja": "おそらく ルイス･クラーク探検隊だ"
+      "ja": "おそらくルイス･クラーク探検隊だ"
     }
   },
   {
@@ -3458,31 +3458,31 @@
   {
     "translation": {
       "en": "Wouldn't be surprised if there were gold",
-      "ja": "うまくいけば⸺ 金やら鉱物やらが 見つかるかもしれん"
+      "ja": "うまくいけば⸺ 金やら鉱物やらが見つかるかもしれん"
     }
   },
   {
     "translation": {
       "en": "or precious minerals in them there rocks.",
-      "ja": "金やら鉱物やらが 見つかるかもしれん"
+      "ja": "金やら鉱物やらが見つかるかもしれん"
     }
   },
   {
     "translation": {
-      "en": "Do many of the calves die from wolves?",
+      "en": "[Peter] Do many of the calves die from wolves?",
       "ja": "毎年 オオカミの被害が？"
     }
   },
   {
     "translation": {
       "en": "There's always a few that get… tore up or hamstrung or die of anthrax.",
-      "ja": "年に数頭は 獣に喰(く)われたり 炭疽症で死んだり"
+      "ja": "年に数頭は 獣に喰(く)われたり炭疽症で死んだり"
     }
   },
   {
     "translation": {
       "en": "Call it blackleg.",
-      "ja": "獣に喰(く)われたり 炭疽症で死んだり"
+      "ja": "獣に喰(く)われたり炭疽症で死んだり"
     }
   },
   {
@@ -3505,14 +3505,14 @@
   },
   {
     "translation": {
-      "en": "- Did Bronco Henry teach you to ride, Phil? - Yep.",
+      "en": "-Did Bronco Henry teach you to ride, Phil? -[Phil] Yep.",
       "ja": "ブロンコから乗馬を？ ああ"
     }
   },
   {
     "translation": {
       "en": "He taught me to use my eyes in ways that other people can't.",
-      "ja": "彼は目を使うことも 教えてくれた"
+      "ja": "彼は目を使うことも教えてくれた"
     }
   },
   {
@@ -3524,7 +3524,7 @@
   {
     "translation": {
       "en": "Most people look at it and just see a hill.",
-      "ja": "普通の人間は 丘しか見えない"
+      "ja": "普通の人間は丘しか見えない"
     }
   },
   {
@@ -3541,7 +3541,7 @@
   },
   {
     "translation": {
-      "en": "- The hell, you just saw that now? - No.",
+      "en": "-The hell, you just saw that now? -No.",
       "ja": "今 気づいた？ いいえ"
     }
   },
@@ -3554,7 +3554,7 @@
   {
     "translation": {
       "en": "See, it looks like a dog with its jaw wide open.",
-      "ja": "口を大きく開けてる 犬みたいだと"
+      "ja": "口を大きく開けてる犬みたいだと"
     }
   },
   {
@@ -3571,7 +3571,7 @@
   },
   {
     "translation": {
-      "en": "- - Peter.",
+      "en": "-[door opens] -[Rose] Peter.",
       "ja": "ピーター？"
     }
   },
@@ -3625,26 +3625,26 @@
   },
   {
     "translation": {
-      "en": "When I was little, I…",
+      "en": "[Rose] When I was little, I…",
       "ja": "子供の頃は⸺"
     }
   },
   {
     "translation": {
       "en": "I felt a chill in my spine when I heard the chalk squeak on a blackboard.",
-      "ja": "黒板にチョークが 当たる音が嫌いだった"
+      "ja": "黒板にチョークが当たる音が嫌いだった"
     }
   },
   {
     "translation": {
-      "en": "Oh, Miss…  Mrs. Merchant, that's who it was.",
-      "ja": "ミセス･マーチャントって 先生がいてね"
+      "en": "Oh, Miss… [chuckling] Mrs. Merchant, that's who it was.",
+      "ja": "ミセス･マーチャントって先生がいてね"
     }
   },
   {
     "translation": {
       "en": "She… she drew chalk stars by our names on the blackboard.",
-      "ja": "黒板に書かれた生徒の名前に 星印を付けるの"
+      "ja": "黒板に書かれた生徒の名前に星印を付けるの"
     }
   },
   {
@@ -3661,14 +3661,14 @@
   },
   {
     "translation": {
-      "en": "Why not spades?  Why…",
+      "en": "Why not spades? [laughs] Why…",
       "ja": "スペードだっていいのに！"
     }
   },
   {
     "translation": {
       "en": "I wonder why it was always stars.",
-      "ja": "なんで いつも 星印だったのかしら"
+      "ja": "なんで いつも星印だったのかしら"
     }
   },
   {
@@ -3686,19 +3686,19 @@
   {
     "translation": {
       "en": "But they weren't unreachable because she gave them to us.",
-      "ja": "名前の横に書いたら 手が届くわ"
+      "ja": "名前の横に書いたら手が届くわ"
     }
   },
   {
     "translation": {
-      "en": "- And, Peter? - Hmm?",
+      "en": "-And, Peter? -[Peter] Hmm?",
       "ja": "学校には⸺"
     }
   },
   {
     "translation": {
       "en": "We had this valentine box, and it was covered with white crepe paper.",
-      "ja": "バレンタインのカードを 入れる箱があってね"
+      "ja": "バレンタインのカードを入れる箱があってね"
     }
   },
   {
@@ -3709,7 +3709,7 @@
   },
   {
     "translation": {
-      "en": "Lopsided hearts.",
+      "en": "Lopsided hearts. [chuckles]",
       "ja": "いびつな形のね"
     }
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "translation": {
-      "en": "Hey.",
+      "en": "[Peter whispers] Hey.",
       "ja": "来て"
     }
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "translation": {
-      "en": "- This his first week? - Nope, third.",
+      "en": "-[Phil] This his first week? -[cowhand 1] Nope, third.",
       "ja": "何週目？ ３週目だ"
     }
   },
@@ -3787,19 +3787,19 @@
   },
   {
     "translation": {
-      "en": "- You sure? He's not ready. - Go on. Let him out.",
+      "en": "-You sure? He's not ready. -Go on. Let him out.",
       "ja": "まだ早い 外に出せ"
     }
   },
   {
     "translation": {
-      "en": "- Yeehaw, cowboy! Whoo! -",
+      "en": "-[cowhand 2] Yeehaw, cowboy! Whoo! -[all laughing]",
       "ja": "行け　カウボーイ！"
     }
   },
   {
     "translation": {
-      "en": "- What you doing? - Going to give him a hand.",
+      "en": "-[Phil] What you doing? -Going to give him a hand.",
       "ja": "どこ行く？ 手を貸す"
     }
   },
@@ -3811,13 +3811,13 @@
   },
   {
     "translation": {
-      "en": "- Let him figure it out. - Oh, oh!",
+      "en": "-Let him figure it out. -[cowhand 4] Oh, oh!",
       "ja": "自力でやらせろ"
     }
   },
   {
     "translation": {
-      "en": "Or not.",
+      "en": "[Phil] Or not.",
       "ja": "ムリかな…"
     }
   },
@@ -3829,19 +3829,19 @@
   },
   {
     "translation": {
-      "en": "Any happenings while I was away?",
+      "en": "[George in distance] Any happenings while I was away?",
       "ja": "俺の留守中は？"
     }
   },
   {
     "translation": {
-      "en": "Hey, Pete!",
+      "en": "[whistles] Hey, Pete!",
       "ja": "ピート"
     }
   },
   {
     "translation": {
-      "en": "Come here.",
+      "en": "[whistles] Come here.",
       "ja": "来い"
     }
   },
@@ -3853,7 +3853,7 @@
   },
   {
     "translation": {
-      "en": "Where are you two off to?",
+      "en": "[George] Where are you two off to?",
       "ja": "どこの平原へ？"
     }
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "translation": {
-      "en": "- Rose? - Peter!",
+      "en": "-Rose? -Peter!",
       "ja": "ローズ？ ピーター！"
     }
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "translation": {
-      "en": "Rose?",
+      "en": "[George] Rose?",
       "ja": "ローズ？"
     }
   },
@@ -3896,19 +3896,19 @@
   {
     "translation": {
       "en": "I don't want that.",
-      "ja": "フィルと一緒に いてほしくないの！"
+      "ja": "フィルと一緒にいてほしくないの！"
     }
   },
   {
     "translation": {
-      "en": "- I don't want him to be with Phil at all. - But, Rose…",
-      "ja": "フィルと一緒に いてほしくないの！ ローズ…"
+      "en": "-I don't want him to be with Phil at all. -But, Rose…",
+      "ja": "フィルと一緒にいてほしくないの！ ローズ…"
     }
   },
   {
     "translation": {
-      "en": "He's helping him. He taught him how to ride.",
-      "ja": "フィルは 乗馬を教えてるんだ"
+      "en": "[splutters] He's helping him. He taught him how to ride.",
+      "ja": "フィルは乗馬を教えてるんだ"
     }
   },
   {
@@ -3932,12 +3932,12 @@
   {
     "translation": {
       "en": "You know who started riding as late as you?",
-      "ja": "彼も乗り始めたのは 遅かった"
+      "ja": "彼も乗り始めたのは遅かった"
     }
   },
   {
     "translation": {
-      "en": "- Who? - Bronco Henry.",
+      "en": "-Who? -Bronco Henry.",
       "ja": "彼って？ ブロンコだ"
     }
   },
@@ -3956,19 +3956,19 @@
   {
     "translation": {
       "en": "Hey, Peter, let's see how long it takes",
-      "ja": "来いよ ウサ公を おちょくってやろう"
+      "ja": "来いよ ウサ公をおちょくってやろう"
     }
   },
   {
     "translation": {
       "en": "before Mr. Cottontail makes a run for the open.",
-      "ja": "ウサ公を おちょくってやろう"
+      "ja": "ウサ公をおちょくってやろう"
     }
   },
   {
     "translation": {
-      "en": "Now, as kids, we used to take bets…",
-      "ja": "ガキの頃は 賭けをしたもんだ"
+      "en": "Now, as kids, we used to take bets… [grunts]",
+      "ja": "ガキの頃は賭けをしたもんだ"
     }
   },
   {
@@ -4003,13 +4003,13 @@
   },
   {
     "translation": {
-      "en": "Damn son of a bitch.",
+      "en": "[Phil] Damn son of a bitch.",
       "ja": "クソ　しぶといな"
     }
   },
   {
     "translation": {
-      "en": "Come on, now. Come on.",
+      "en": "[Peter] Come on, now. Come on.",
       "ja": "さあ　出てこい"
     }
   },
@@ -4033,7 +4033,7 @@
   },
   {
     "translation": {
-      "en": "That's deep.",
+      "en": "[Peter] That's deep.",
       "ja": "傷が深いね"
     }
   },
@@ -4070,12 +4070,12 @@
   {
     "translation": {
       "en": "a man was made by patience and the odds against him.",
-      "ja": "男を強くするのは 苦境と忍耐だ"
+      "ja": "男を強くするのは苦境と忍耐だ"
     }
   },
   {
     "translation": {
-      "en": "My father said…",
+      "en": "[sighs] My father said…",
       "ja": "僕の父さんは⸺"
     }
   },
@@ -4093,19 +4093,19 @@
   },
   {
     "translation": {
-      "en": "Another way to put it.",
+      "en": "[Phil] Another way to put it.",
       "ja": "同じ意味だ"
     }
   },
   {
     "translation": {
       "en": "Well, you've certainly got obstacles. That's a fact, Pete, me boy.",
-      "ja": "たしかに お前には “障害物”があるな"
+      "ja": "たしかに お前には“障害物”があるな"
     }
   },
   {
     "translation": {
-      "en": "- Obstacles? - Well, take your ma.",
+      "en": "-[Peter] \"Obstacles\"? -Well, take your ma.",
       "ja": "障害物？ たとえば母親だ"
     }
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "translation": {
-      "en": "On the sauce?",
+      "en": "[Peter] \"On the sauce\"?",
       "ja": "ぐでんぐでん？"
     }
   },
@@ -4141,7 +4141,7 @@
   },
   {
     "translation": {
-      "en": "I guess you know she's been half- shot all summer.",
+      "en": "I guess you know she's been half-shot all summer.",
       "ja": "夏中ずっと"
     }
   },
@@ -4159,19 +4159,19 @@
   },
   {
     "translation": {
-      "en": "- Oh, didn't she now? - No.",
+      "en": "-Oh, didn't she now? -[Peter] No.",
       "ja": "どうだか 本当だ"
     }
   },
   {
     "translation": {
-      "en": "- She never did. - But your pa, Pete?",
+      "en": "-She never did. -But your pa, Pete?",
       "ja": "飲まなかった 親父はどうだ？"
     }
   },
   {
     "translation": {
-      "en": "My father?",
+      "en": "[Peter] My father?",
       "ja": "僕の父親？"
     }
   },
@@ -4285,7 +4285,7 @@
   },
   {
     "translation": {
-      "en": "Water!",
+      "en": "[Mrs. Lewis panting] Water!",
       "ja": "お水を！"
     }
   },
@@ -4297,13 +4297,13 @@
   },
   {
     "translation": {
-      "en": "Do we have any hides?",
+      "en": "\"Do we have any hides?\"",
       "ja": "“皮はあるか？”って"
     }
   },
   {
     "translation": {
-      "en": "Do we have any hides? Are they leaving?",
+      "en": "\"Do we have any hides?\" Are they leaving?",
       "ja": "見りゃわかるでしょ？ 帰った？"
     }
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "translation": {
-      "en": "I told them the hides are gonna be burned.",
+      "en": "[Mrs. Lewis panting] I told them the hides are gonna be burned.",
       "ja": "皮は全部 焼くんだよ"
     }
   },
@@ -4340,12 +4340,12 @@
   {
     "translation": {
       "en": "Waits till there's a big pile and sets fire to the lot.",
-      "ja": "人にやるより 焼くほうがいいと"
+      "ja": "人にやるより焼くほうがいいと"
     }
   },
   {
     "translation": {
-      "en": "He'd blow up if they even touched 'em.",
+      "en": "[chuckles] He'd blow up if they even touched 'em.",
       "ja": "誰にも触らせない"
     }
   },
@@ -4394,7 +4394,7 @@
   {
     "translation": {
       "en": "It would be my honor if you would take them.",
-      "ja": "もらってくれたら 嬉(うれ)しいわ"
+      "ja": "もらってくれたら嬉(うれ)しいわ"
     }
   },
   {
@@ -4423,7 +4423,7 @@
   },
   {
     "translation": {
-      "en": "So deliciously soft.",
+      "en": "[crying softly] So deliciously soft.",
       "ja": "フワフワね"
     }
   },
@@ -4435,25 +4435,25 @@
   },
   {
     "translation": {
-      "en": "- You all right, ma'am? - Is she breathing?",
+      "en": "-[cowhand 1] You all right, ma'am? -[cowhand 2] Is she breathing?",
       "ja": "奥さん？ 息してる？"
     }
   },
   {
     "translation": {
-      "en": "Ma'am.",
+      "en": "[cowhand 1] Ma'am.",
       "ja": "奥さん"
     }
   },
   {
     "translation": {
-      "en": "- Ma'am. - What happened?",
+      "en": "-Ma'am. -What happened?",
       "ja": "何があった？"
     }
   },
   {
     "translation": {
-      "en": "She just collapsed, sir.",
+      "en": "[cowhand 2] She just collapsed, sir.",
       "ja": "急に倒れました"
     }
   },
@@ -4465,7 +4465,7 @@
   },
   {
     "translation": {
-      "en": "Sorry, sir.",
+      "en": "[Lola] Sorry, sir.",
       "ja": "お大事に"
     }
   },
@@ -4477,7 +4477,7 @@
   },
   {
     "translation": {
-      "en": "I'll be damned.",
+      "en": "[Phil] I'll be damned.",
       "ja": "ふざけやがって"
     }
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "translation": {
-      "en": "Wrong?",
+      "en": "[Phil] Wrong?",
       "ja": "問題だと？"
     }
   },
@@ -4519,14 +4519,14 @@
   },
   {
     "translation": {
-      "en": "- She sold them? - Bloody tootin'.",
-      "ja": "皮を売った？ 売ったか タダでくれてやったか"
+      "en": "-She sold them? -Bloody tootin'.",
+      "ja": "皮を売った？ 売ったかタダでくれてやったか"
     }
   },
   {
     "translation": {
-      "en": "- Or maybe even gave them away. - Why? Why?",
-      "ja": "売ったか タダでくれてやったか なぜ そんなことを？"
+      "en": "-Or maybe even gave them away. -[Peter] Why? Why?",
+      "ja": "売ったかタダでくれてやったか なぜ そんなことを？"
     }
   },
   {
@@ -4543,25 +4543,25 @@
   },
   {
     "translation": {
-      "en": "Pie- eyed! She was smashed!",
+      "en": "Pie-eyed! She was smashed!",
       "ja": "頭がイカれてる！"
     }
   },
   {
     "translation": {
       "en": "I'd think you'd know from the books your pa left you that your ma's got a… a whatchamacallit.",
-      "ja": "医学書を読んでるなら わかるだろ？"
+      "ja": "医学書を読んでるならわかるだろ？"
     }
   },
   {
     "translation": {
       "en": "Alcoholic personality. It comes under the letter A!",
-      "ja": "お前の母親は依存症だ 病気なんだよ！"
+      "ja": "お前の母親は依存症だ病気なんだよ！"
     }
   },
   {
     "translation": {
-      "en": "- You're not gonna say anything to her? - Say anything?",
+      "en": "-You're not gonna say anything to her? -[Phil] Say anything?",
       "ja": "母に何か言う？ 俺が？"
     }
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "translation": {
-      "en": "Rose is not well, Phil.",
+      "en": "[George] Rose is not well, Phil.",
       "ja": "ローズは具合が悪い"
     }
   },
@@ -4598,7 +4598,7 @@
   {
     "translation": {
       "en": "It is high time that that bozo and you got next to a few…",
-      "ja": "あのバカ女もお前も いい加減に認めろ"
+      "ja": "あのバカ女もお前もいい加減に認めろ"
     }
   },
   {
@@ -4610,19 +4610,19 @@
   {
     "translation": {
       "en": "She stashes alcohol all around the place, even drinking in the stinking alley.",
-      "ja": "あの女は家中に酒瓶を隠して 所構わず飲んでる"
+      "ja": "あの女は家中に酒瓶を隠して所構わず飲んでる"
     }
   },
   {
     "translation": {
       "en": "Look at your face in the mirror!",
-      "ja": "鏡を見てみろ 女が惚(ほ)れるツラか？"
+      "ja": "鏡を見てみろ女が惚(ほ)れるツラか？"
     }
   },
   {
     "translation": {
       "en": "Is it that she could like? Or our money? Wake the hell up!",
-      "ja": "鏡を見てみろ 女が惚(ほ)れるツラか？ カネ目当てだ　目を覚ませ！"
+      "ja": "鏡を見てみろ女が惚(ほ)れるツラか？ カネ目当てだ　目を覚ませ！"
     }
   },
   {
@@ -4675,13 +4675,13 @@
   },
   {
     "translation": {
-      "en": "- Phil? - Huh?",
+      "en": "-Phil? -Huh?",
       "ja": "フィル？"
     }
   },
   {
     "translation": {
-      "en": "Phil, I've…",
+      "en": "[Peter] Phil, I've…",
       "ja": "生皮なら…"
     }
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "translation": {
-      "en": "You've got it? What are you doing with rawhide?",
+      "en": "[Phil] You've got it? What are you doing with rawhide?",
       "ja": "お前が生皮を？　なぜ？"
     }
   },
@@ -4730,7 +4730,7 @@
   {
     "translation": {
       "en": "Everything's gonna be plain sailing for you from now on in.",
-      "ja": "お前の未来には もう何の障害物もない"
+      "ja": "お前の未来にはもう何の障害物もない"
     }
   },
   {
@@ -4742,7 +4742,7 @@
   {
     "translation": {
       "en": "I'm gonna work. Finish up that rope tonight.",
-      "ja": "俺は今夜中に ロープを仕上げる"
+      "ja": "俺は今夜中にロープを仕上げる"
     }
   },
   {
@@ -4754,7 +4754,7 @@
   {
     "translation": {
       "en": "How old were you when you met Bronco Henry?",
-      "ja": "彼と出会ったのは 幾つの時？"
+      "ja": "彼と出会ったのは幾つの時？"
     }
   },
   {
@@ -4772,13 +4772,13 @@
   {
     "translation": {
       "en": "Yeah… he was.",
-      "ja": "ああ ブロンコは 友達以上の存在だった"
+      "ja": "ああ ブロンコは友達以上の存在だった"
     }
   },
   {
     "translation": {
       "en": "He was more than that.",
-      "ja": "ブロンコは 友達以上の存在だった"
+      "ja": "ブロンコは友達以上の存在だった"
     }
   },
   {
@@ -4790,7 +4790,7 @@
   {
     "translation": {
       "en": "We were way off up in the hills shooting elk, and the weather turned mean.",
-      "ja": "山でアカシカを撃ってたら 天気が荒れてな"
+      "ja": "山でアカシカを撃ってたら天気が荒れてな"
     }
   },
   {
@@ -4813,7 +4813,7 @@
   },
   {
     "translation": {
-      "en": "- Phil left already? - No, he's not here.",
+      "en": "-[cowhand 1] Phil left already? -[cowhand 2] No, he's not here.",
       "ja": "フィルは？ 見てない"
     }
   },
@@ -4825,13 +4825,13 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[cowhand 2] No.",
       "ja": "いや"
     }
   },
   {
     "translation": {
-      "en": "Good mornin'.",
+      "en": "[George] Good mornin'.",
       "ja": "おはよう"
     }
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "translation": {
-      "en": "Phil…",
+      "en": "[George] Phil…",
       "ja": "フィル"
     }
   },
@@ -4885,13 +4885,13 @@
   },
   {
     "translation": {
-      "en": "I'll get the car.",
+      "en": "[George] I'll get the car.",
       "ja": "今 車を"
     }
   },
   {
     "translation": {
-      "en": "Let's go, Phil.",
+      "en": "[George] Let's go, Phil.",
       "ja": "行こう"
     }
   },
@@ -4922,7 +4922,7 @@
   {
     "translation": {
       "en": "Rose would like you to join us for Christmas, if you care to.",
-      "ja": "ローズが クリスマスを一緒にと もしよければ"
+      "ja": "ローズがクリスマスを一緒にと もしよければ"
     }
   },
   {
@@ -4957,7 +4957,7 @@
   },
   {
     "translation": {
-      "en": "- Yes? - Terrible, truly frightful.",
+      "en": "-Yes? -Terrible, truly frightful.",
       "ja": "凄惨なものだった"
     }
   },
@@ -4982,7 +4982,7 @@
   {
     "translation": {
       "en": "But he never handled diseased animals.",
-      "ja": "兄は病気の家畜には 触らなかった"
+      "ja": "兄は病気の家畜には触らなかった"
     }
   },
   {
@@ -4993,8 +4993,8 @@
   },
   {
     "translation": {
-      "en": "Deliver my soul from the sword, my darling from the power of the dog.",
-      "ja": "“剣と犬の力から 私の魂を解放したまえ”"
+      "en": "[Peter] \"Deliver my soul from the sword, my darling from the power of the dog.\"",
+      "ja": "“剣と犬の力から私の魂を解放したまえ”"
     }
   }
 ]

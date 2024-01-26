@@ -1,37 +1,37 @@
 [
   {
     "translation": {
-      "en": "Here he is.",
+      "en": "[officer 1] Here he is.",
       "fr": "Il arrive."
     }
   },
   {
     "translation": {
-      "en": "Stay low, guys.",
+      "en": "[officer 2] Stay low, guys.",
       "fr": "Restez discrets."
     }
   },
   {
     "translation": {
-      "en": "Target is at the place of business now.",
+      "en": "[officer 1] Target is at the place of business now.",
       "fr": "La cible est sur place."
     }
   },
   {
     "translation": {
-      "en": "- Copy. - This could go south quickly.",
-      "fr": "- Bien reçu. - Ça peut dégénérer très vite."
+      "en": "-[police dispatch] Copy. -[officer 2] This could go south quickly.",
+      "fr": "- Bien reçu.- Ça peut dégénérer très vite."
     }
   },
   {
     "translation": {
-      "en": "He's getting out of the car.",
+      "en": "[officer 1] He's getting out of the car.",
       "fr": "Il descend."
     }
   },
   {
     "translation": {
-      "en": "Blue ball cap. Tan short- sleeve shirt.",
+      "en": "Blue ball cap. Tan short-sleeve shirt.",
       "fr": "Casquette bleue. T-shirt beige."
     }
   },
@@ -44,31 +44,31 @@
   {
     "translation": {
       "en": "Bob, why won't you just come out and say that you are not D.B. Cooper?",
-      "fr": "Bob, pourquoi tu ne dis pas que tu n'es pas D.B. Cooper ?"
+      "fr": "Bob, pourquoi tu ne dis pasque tu n'es pas D.B. Cooper ?"
     }
   },
   {
     "translation": {
-      "en": "On Thanksgiving eve, 1971, a Northwest flight was commandeered…",
-      "fr": "À Thanksgiving, en 1971, un avion de la Northwest a été détourné…"
+      "en": "[reporter 1] On Thanksgiving eve, 1971, a Northwest flight was commandeered…",
+      "fr": "À Thanksgiving, en 1971,un avion de la Northwest a été détourné…"
     }
   },
   {
     "translation": {
-      "en": "The FBI couldn't crack the case…",
+      "en": "[reporter 2] The FBI couldn't crack the case…",
       "fr": "L'affaire a résisté au FBI…"
     }
   },
   {
     "translation": {
-      "en": "Cooper became a legend after hijacking a plane",
+      "en": "[reporter 3] Cooper became a legend after hijacking a plane",
       "fr": "Après avoir détourné un avion,"
     }
   },
   {
     "translation": {
       "en": "and parachuting out of it with $200,000 cash.",
-      "fr": "Cooper en a sauté avec 200 000 $ en liquide."
+      "fr": "Cooper en a sautéavec 200 000 $ en liquide."
     }
   },
   {
@@ -79,8 +79,14 @@
   },
   {
     "translation": {
+      "en": "[man] D.B. Cooper…",
+      "fr": "D.B. Cooper…"
+    }
+  },
+  {
+    "translation": {
       "en": "The most clever and certainly the most audacious airplane hijacker",
-      "fr": "Le pirate de l'air le plus rusé et le plus audacieux"
+      "fr": "Le pirate de l'air le plus ruséet le plus audacieux"
     }
   },
   {
@@ -91,8 +97,8 @@
   },
   {
     "translation": {
-      "en": "It's incredible to think we've just passed the 50th anniversary",
-      "fr": "C'est incroyable, on vient de fêter les 50 ans"
+      "en": "[Gray] It's incredible to think we've just passed the 50th anniversary",
+      "fr": "C'est incroyable,on vient de fêter les 50 ans"
     }
   },
   {
@@ -104,12 +110,12 @@
   {
     "translation": {
       "en": "and it's still the only unsolved skyjacking in the history of our time.",
-      "fr": "et ça reste l'unique détournement jamais résolu à ce jour."
+      "fr": "et ça reste l'unique détournementjamais résolu à ce jour."
     }
   },
   {
     "translation": {
-      "en": "What he accomplished was truly amazing.",
+      "en": "[man 1] What he accomplished was truly amazing.",
       "fr": "Ce qu'il a accompli est incroyable."
     }
   },
@@ -122,18 +128,18 @@
   {
     "translation": {
       "en": "he stuck it to the man, and he didn't hurt any civilians doing it.",
-      "fr": "et a battu le système sans faire aucune victime civile."
+      "fr": "et a battu le systèmesans faire aucune victime civile."
     }
   },
   {
     "translation": {
       "en": "That is why he is the legend that he's become today.",
-      "fr": "C'est pour ça qu'il est devenu une légende."
+      "fr": "C'est pour çaqu'il est devenu une légende."
     }
   },
   {
     "translation": {
-      "en": "We have eyewitnesses that have you in Oregon",
+      "en": "[man] We have eyewitnesses that have you in Oregon",
       "fr": "Des témoins vous ont vu dans l'Oregon"
     }
   },
@@ -145,8 +151,8 @@
   },
   {
     "translation": {
-      "en": "My team has no doubt we have found D.B. Cooper.",
-      "fr": "Nous sommes sûrs d'avoir retrouvé D.B. Cooper."
+      "en": "[Colbert] My team has no doubt we have found D.B. Cooper.",
+      "fr": "Nous sommes sûrsd'avoir retrouvé D.B. Cooper."
     }
   },
   {
@@ -158,7 +164,7 @@
   {
     "translation": {
       "en": "We're dealing with a man who has multiple identities, and is a con artist.",
-      "fr": "C'est un homme aux identités multiples, un escroc."
+      "fr": "C'est un hommeaux identités multiples, un escroc."
     }
   },
   {
@@ -182,7 +188,7 @@
   {
     "translation": {
       "en": "It's a sacrifice, it's a gauntlet. It forces you to question your own sanity.",
-      "fr": "un sacrifice, un défi. On doute de notre propre santé mentale."
+      "fr": "un sacrifice, un défi.On doute de notre propre santé mentale."
     }
   },
   {
@@ -194,7 +200,7 @@
   {
     "translation": {
       "en": "Bottom line is, I don't do theories, I don't do folklore, I don't do legends.",
-      "fr": "Les théories, les rumeurs et les légendes urbaines ne sont pas mon truc."
+      "fr": "Les théories, les rumeurs et les légendesurbaines ne sont pas mon truc."
     }
   },
   {
@@ -205,50 +211,50 @@
   },
   {
     "translation": {
-      "en": "Hello?",
+      "en": "[Rackstraw] Hello?",
       "fr": "Allô ?"
     }
   },
   {
     "translation": {
-      "en": "A team of cold case investigators",
+      "en": "[reporter] A team of cold case investigators",
       "fr": "Une équipe d'enquêteurs"
     }
   },
   {
     "translation": {
       "en": "are convinced that you are the infamous D.B. Cooper.",
-      "fr": "est persuadée que vous êtes le tristement célèbre Dr Cooper."
+      "fr": "est persuadée que vous êtesle tristement célèbre Dr Cooper."
     }
   },
   {
     "translation": {
-      "en": "Infamous or famous? I thought it was famous.",
+      "en": "[Rackstraw] Infamous or famous? I thought it was famous.",
       "fr": "Tristement célèbre ou célèbre ?"
     }
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[reporter] Okay.",
       "fr": "Bien."
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[music stops] -[traffic rushing]",
       "fr": "ÉPISODE 1 PRENDS L'OSEILLE ET ÉLANCE-TOI"
     }
   },
   {
     "translation": {
-      "en": "This ten- year journey is the longest I've been on a case.",
-      "fr": "Dix ans. Cela aura été ma plus longue affaire."
+      "en": "[Colbert] This ten-year journey is the longest I've been on a case.",
+      "fr": "Dix ans. Cela aura étéma plus longue affaire."
     }
   },
   {
     "translation": {
-      "en": "I just want to share a question I always get, and that is, Why?",
-      "fr": "Je veux partager une question que j'entends sans cesse : Pourquoi ?"
+      "en": "I just want to share a question I always get, and that is, \"Why?\"",
+      "fr": "Je veux partager une questionque j'entends sans cesse : \"Pourquoi ?\""
     }
   },
   {
@@ -259,7 +265,7 @@
   },
   {
     "translation": {
-      "en": "why we tackled a 50- year- old case?",
+      "en": "why we tackled a 50-year-old case?",
       "fr": "à une affaire vieille de 50 ans ?"
     }
   },
@@ -284,7 +290,7 @@
   {
     "translation": {
       "en": "And we spent a lot of our own money through the whole thing.",
-      "fr": "et nous avons investi beaucoup de notre propre argent."
+      "fr": "et nous avons investibeaucoup de notre propre argent."
     }
   },
   {
@@ -301,8 +307,8 @@
   },
   {
     "translation": {
-      "en": "What Cooper was able to pull off was really, really difficult,",
-      "fr": "Le coup que Cooper a réussi était très difficile"
+      "en": "[Gray] What Cooper was able to pull off was really, really difficult,",
+      "fr": "Le coup que Cooper a réussiétait très difficile"
     }
   },
   {
@@ -314,7 +320,7 @@
   {
     "translation": {
       "en": "Especially when you consider this was the Wednesday before Thanksgiving.",
-      "fr": "D'autant que c'était le mercredi avant Thanksgiving,"
+      "fr": "D'autant que c'étaitle mercredi avant Thanksgiving,"
     }
   },
   {
@@ -326,31 +332,31 @@
   {
     "translation": {
       "en": "Fifty years ago, I was a sophomore at University of Oregon.",
-      "fr": "Il y a 50 ans, j'étais en deuxième année à l'université de l'Oregon."
+      "fr": "Il y a 50 ans, j'étais en deuxième annéeà l'université de l'Oregon."
     }
   },
   {
     "translation": {
       "en": "I had called my parents",
-      "fr": "J'avais dit à mes parents que j'avais un vol de 37 minutes"
+      "fr": "J'avais dit à mes parentsque j'avais un vol de 37 minutes"
     }
   },
   {
     "translation": {
-      "en": "and said, I got this 37- minute flight from Portland to Seattle.",
-      "fr": "J'avais dit à mes parents que j'avais un vol de 37 minutes de Portland à Seattle."
+      "en": "and said, \"I got this 37-minute flight from Portland to Seattle.\"",
+      "fr": "J'avais dit à mes parentsque j'avais un vol de 37 minutes de Portland à Seattle."
     }
   },
   {
     "translation": {
       "en": "The sun was out, but it was cloudy.",
-      "fr": "Il faisait beau, mais il y avait des nuages."
+      "fr": "Il faisait beau,mais il y avait des nuages."
     }
   },
   {
     "translation": {
       "en": "Walked up the back steps, sat in the back on the left.",
-      "fr": "J'ai monté les marches, je me suis assis au fond à gauche"
+      "fr": "J'ai monté les marches,je me suis assis au fond à gauche"
     }
   },
   {
@@ -379,20 +385,20 @@
   },
   {
     "translation": {
-      "en": "And I thought, That's kind of different.",
+      "en": "And I thought, \"That's kind of different.\"",
       "fr": "Je me suis dit que ce n'était pas banal,"
     }
   },
   {
     "translation": {
-      "en": "Who does he think he is?",
+      "en": "\"Who does he think he is?\"",
       "fr": "qu'il frimait."
     }
   },
   {
     "translation": {
-      "en": "The flight from Portland to Seattle is a puddle jump.",
-      "fr": "Le vol de Portland à Seattle est un saut de puce."
+      "en": "[Gray] The flight from Portland to Seattle is a puddle jump.",
+      "fr": "Le vol de Portland à Seattleest un saut de puce."
     }
   },
   {
@@ -409,26 +415,26 @@
   },
   {
     "translation": {
-      "en": "this strange- looking man passes a note to the stewardess.",
-      "fr": "cet homme étrange a passé un mot à l'hôtesse de l'air."
+      "en": "this strange-looking man passes a note to the stewardess.",
+      "fr": "cet homme étrangea passé un mot à l'hôtesse de l'air."
     }
   },
   {
     "translation": {
-      "en": "I just ignored him.",
+      "en": "[Schaffner] I just ignored him.",
       "fr": "Je l'ai ignoré."
     }
   },
   {
     "translation": {
       "en": "Then he said,",
-      "fr": "Puis il a dit… FLORENCE SCHAFFNER HÔTESSE"
+      "fr": "Puis il a dit… FLORENCE SCHAFFNERHÔTESSE"
     }
   },
   {
     "translation": {
-      "en": "I want you to read the note.",
-      "fr": "Je veux que vous le lisiez."
+      "en": "\"I want you to read the note.\"",
+      "fr": "\"Je veux que vous le lisiez.\""
     }
   },
   {
@@ -439,20 +445,20 @@
   },
   {
     "translation": {
-      "en": "Miss, I have a bomb in my briefcase.",
-      "fr": "Mademoiselle, j'ai une bombe dans ma mallette."
+      "en": "\"Miss, I have a bomb in my briefcase.\"",
+      "fr": "\"Mademoiselle, j'ai une bombedans ma mallette."
     }
   },
   {
     "translation": {
-      "en": "I want you to sit beside me.",
-      "fr": "Asseyez-vous à côté de moi."
+      "en": "\"I want you to sit beside me.\"",
+      "fr": "Asseyez-vous à côté de moi.\""
     }
   },
   {
     "translation": {
       "en": "This is the beginning of the extraordinary drama of D.B. Cooper.",
-      "fr": "C'est le début de l'histoire incroyable de D.B. Cooper."
+      "fr": "C'est le début de l'histoire incroyablede D.B. Cooper."
     }
   },
   {
@@ -470,13 +476,13 @@
   {
     "translation": {
       "en": "But had no clue what was going on.",
-      "fr": "Mais je n'avais aucune idée de ce qui se passait."
+      "fr": "Mais je n'avais aucune idéede ce qui se passait."
     }
   },
   {
     "translation": {
-      "en": "He asks for $200,000 in American currency and four parachutes.",
-      "fr": "Il demande 200 000 dollars et quatre parachutes."
+      "en": "[Gray] He asks for $200,000 in American currency and four parachutes.",
+      "fr": "Il demande 200 000 dollarset quatre parachutes."
     }
   },
   {
@@ -493,20 +499,20 @@
   },
   {
     "translation": {
-      "en": "He was very smart. He didn't order one or two. He ordered four.",
-      "fr": "C'était brillant, d'en demander non pas un ou deux, mais quatre."
+      "en": "[Colbert] He was very smart. He didn't order one or two. He ordered four.",
+      "fr": "C'était brillant, d'en demandernon pas un ou deux, mais quatre."
     }
   },
   {
     "translation": {
       "en": "He thought they were gonna dummy up a parachute on him, so he'd die.",
-      "fr": "Il s'attendait à ce qu'on lui en donne un faux, pour le tuer."
+      "fr": "Il s'attendait à ce qu'on lui en donneun faux, pour le tuer."
     }
   },
   {
     "translation": {
-      "en": "But if he's ordering four, He's taking a hostage. We can't dummy him up.",
-      "fr": "Quatre, par contre, ça impliquait qu'il prendrait un otage."
+      "en": "But if he's ordering four, \"He's taking a hostage. We can't dummy him up.\"",
+      "fr": "Quatre, par contre, ça impliquaitqu'il prendrait un otage."
     }
   },
   {
@@ -517,43 +523,43 @@
   },
   {
     "translation": {
-      "en": "The pilot comes on and says, We have engine trouble, and we're going to run out the fuel.",
-      "fr": "Le pilote dit : On a un ennui moteur, on va manquer de carburant."
+      "en": "The pilot comes on and says, \"We have engine trouble, and we're going to run out the fuel.\"",
+      "fr": "Le pilote dit : \"On a un ennui moteur,on va manquer de carburant.\""
     }
   },
   {
     "translation": {
-      "en": "Everybody can move up to the front of the plane.",
-      "fr": "Que tout le monde gagne l'avant de l'appareil."
+      "en": "\"Everybody can move up to the front of the plane.\"",
+      "fr": "\"Que tout le monde gagnel'avant de l'appareil.\""
     }
   },
   {
     "translation": {
       "en": "During that incident, I didn't know what's going on.",
-      "fr": "Durant cet incident, j'ignorait ce qui se passait."
+      "fr": "Durant cet incident,j'ignorait ce qui se passait."
     }
   },
   {
     "translation": {
       "en": "We're still flying, so there was nothing to worry about.",
-      "fr": "On était encore en l'air, pas de quoi s'inquiéter."
+      "fr": "On était encore en l'air,pas de quoi s'inquiéter."
     }
   },
   {
     "translation": {
       "en": "Cooper did not want the jet to land in Seattle until all the stuff",
-      "fr": "Cooper ne voulait pas que l'avion atterrisse"
+      "fr": "Cooper ne voulait pasque l'avion atterrisse"
     }
   },
   {
     "translation": {
       "en": "was properly staged at the airport, so the jet had to circle around.",
-      "fr": "avant que tout soit prêt, donc ils ont fait des tours."
+      "fr": "avant que tout soit prêt,donc ils ont fait des tours."
     }
   },
   {
     "translation": {
-      "en": "It's now getting dark.",
+      "en": "[Gray] It's now getting dark.",
       "fr": "Il commence à faire nuit."
     }
   },
@@ -566,7 +572,7 @@
   {
     "translation": {
       "en": "And once the hijacker knows that his demands have been met, $200,000 in cash,",
-      "fr": "Une fois toutes ses exigences satisfaites : 200 000 $ en liquide,"
+      "fr": "Une fois toutes ses exigencessatisfaites : 200 000 $ en liquide,"
     }
   },
   {
@@ -596,7 +602,7 @@
   {
     "translation": {
       "en": "Cooper asks the stewardess to shut the windows.",
-      "fr": "Cooper dit à l'hôtesse de fermer les hublots."
+      "fr": "Cooper dit à l'hôtessede fermer les hublots."
     }
   },
   {
@@ -608,19 +614,19 @@
   {
     "translation": {
       "en": "One stewardess comes out, a detective hands her the big money bag.",
-      "fr": "Une hôtesse sort, un policier lui tend le sac d'argent."
+      "fr": "Une hôtesse sort,un policier lui tend le sac d'argent."
     }
   },
   {
     "translation": {
       "en": "She then goes out for the parachutes, and all the passengers come off.",
-      "fr": "Elle revient prendre les parachutes, puis tous les passagers descendent."
+      "fr": "Elle revient prendre les parachutes,puis tous les passagers descendent."
     }
   },
   {
     "translation": {
-      "en": "We're a mile away from the terminal, so a bus comes and we get on a bus",
-      "fr": "On est à un kilomètre et demi du terminal, donc un bus arrive, on monte"
+      "en": "[Mitchell] We're a mile away from the terminal, so a bus comes and we get on a bus",
+      "fr": "On est à un kilomètre et demi du terminal,donc un bus arrive, on monte"
     }
   },
   {
@@ -631,14 +637,14 @@
   },
   {
     "translation": {
-      "en": "Thirty- six passengers got off the jetliner in Seattle last night,",
-      "fr": "Trente-six passagers ont débarqué à Seattle hier soir,"
+      "en": "[news anchor] Thirty-six passengers got off the jetliner in Seattle last night,",
+      "fr": "Trente-six passagersont débarqué à Seattle hier soir,"
     }
   },
   {
     "translation": {
       "en": "left aboard, four crew members and the hijacker.",
-      "fr": "laissant le pirate avec quatre membres d'équipage."
+      "fr": "laissant le pirateavec quatre membres d'équipage."
     }
   },
   {
@@ -650,18 +656,18 @@
   {
     "translation": {
       "en": "FBI agents there who are interviewing everybody.",
-      "fr": "Des agents du FBI interrogeant tout le monde."
+      "fr": "Des agents du FBIinterrogeant tout le monde."
     }
   },
   {
     "translation": {
-      "en": "Said, Yeah, you were hijacked. And so that's the first I'd heard of it.",
-      "fr": "Vous avez été détournés. C'est là que je l'ai appris."
+      "en": "Said, \"Yeah, you were hijacked.\" And so that's the first I'd heard of it.",
+      "fr": "\"Vous avez été détournés.\"C'est là que je l'ai appris."
     }
   },
   {
     "translation": {
-      "en": "The crew kept us ignorant of what was taking place,",
+      "en": "[man] The crew kept us ignorant of what was taking place,",
       "fr": "L'équipage nous a caché ce qui se passait,"
     }
   },
@@ -691,44 +697,44 @@
   },
   {
     "translation": {
-      "en": "- When did you find out? - After we landed. When they brought the money aboard.",
-      "fr": "- Quand l'avez-vous su ? - Quand ils ont donné l'argent."
+      "en": "-[reporter] When did you find out? -After we landed. When they brought the money aboard.",
+      "fr": "- Quand l'avez-vous su ?- Quand ils ont donné l'argent."
     }
   },
   {
     "translation": {
-      "en": "The hijacker, dressed in a business suit, demanding $200,000",
-      "fr": "Le pirate de l'air, en costume, exigeant 200 000 $,"
+      "en": "[news anchor] The hijacker, dressed in a business suit, demanding $200,000",
+      "fr": "Le pirate de l'air,en costume, exigeant 200 000 $,"
     }
   },
   {
     "translation": {
       "en": "and carrying a plain briefcase which he told the crew held explosives.",
-      "fr": "avait une mallette qui contenait des explosifs."
+      "fr": "avait une mallettequi contenait des explosifs."
     }
   },
   {
     "translation": {
-      "en": "I saw a big battery with six dynamite sticks wrapped around the battery.",
-      "fr": "J'ai vu une grosse pile et six bâtons de dynamite enroulés autour."
+      "en": "[Schaffner] I saw a big battery with six dynamite sticks wrapped around the battery.",
+      "fr": "J'ai vu une grosse pileet six bâtons de dynamite enroulés autour."
     }
   },
   {
     "translation": {
-      "en": "And he said to me, All I have to do is attach this wire to this gadget here,",
-      "fr": "Il m'a dit : Tout ce que j'ai à faire, c'est brancher ce fil"
+      "en": "And he said to me, \"All I have to do is attach this wire to this gadget here,",
+      "fr": "Il m'a dit : \"Tout ce que j'ai à faire, c'est brancher ce fil"
     }
   },
   {
     "translation": {
-      "en": "and we'll all be dead.",
-      "fr": "et on est tous morts."
+      "en": "and we'll all be dead.\"",
+      "fr": "et on est tous morts.\""
     }
   },
   {
     "translation": {
-      "en": "I got home, and it started catching up to me.",
-      "fr": "En rentrant, j'ai commencé à me rendre compte"
+      "en": "[Mitchell] I got home, and it started catching up to me.",
+      "fr": "En rentrant,j'ai commencé à me rendre compte"
     }
   },
   {
@@ -740,37 +746,37 @@
   {
     "translation": {
       "en": "In the fall of 1971, when this hijacking took place,",
-      "fr": "À l'automne 1971, quand ce détournement a eu lieu,"
+      "fr": "À l'automne 1971,quand ce détournement a eu lieu,"
     }
   },
   {
     "translation": {
       "en": "the experience of airline travel was vastly different than it is now.",
-      "fr": "les voyages en avion était très différents de ce qu'ils sont aujourd'hui."
+      "fr": "les voyages en avion était très différentsde ce qu'ils sont aujourd'hui."
     }
   },
   {
     "translation": {
       "en": "Walking into an airport back then was like walking into a supermarket.",
-      "fr": "Aller dans un aéroport, c'était comme aller au supermarché."
+      "fr": "Aller dans un aéroport,c'était comme aller au supermarché."
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Hi.",
+      "en": "-Hi. -Hi.",
       "fr": "Bonjour."
     }
   },
   {
     "translation": {
-      "en": "- Destination? - Let's just say, Where the action is.",
-      "fr": "- Destination ? - Eh bien disons… Là où ça se passe."
+      "en": "-Destination? -Let's just say, \"Where the action is.\"",
+      "fr": "- Destination ?- Eh bien disons… \"Là où ça se passe.\""
     }
   },
   {
     "translation": {
-      "en": "I love when people ask about airport security back in the 1970s,",
-      "fr": "J'adore qu'on m'interroge sur la sécurité des aéroports à l'époque."
+      "en": "[Burrough] I love when people ask about airport security back in the 1970s,",
+      "fr": "J'adore qu'on m'interrogesur la sécurité des aéroports à l'époque."
     }
   },
   {
@@ -781,19 +787,19 @@
   },
   {
     "translation": {
-      "en": "What airport security? I don't remember any at all.",
-      "fr": "c'est : Quelle sécurité ?"
+      "en": "\"What airport security?\" I don't remember any at all.",
+      "fr": "c'est : \"Quelle sécurité ?\""
     }
   },
   {
     "translation": {
-      "en": "You didn't need metal detectors. You didn't have to take off your shoes. You didn't have dogs smelling you.",
-      "fr": "Ni détecteur de métaux, ni besoin de se déchausser, ni chiens."
+      "en": "[Gray] You didn't need metal detectors. You didn't have to take off your shoes. You didn't have dogs smelling you.",
+      "fr": "Ni détecteur de métaux,ni besoin de se déchausser, ni chiens."
     }
   },
   {
     "translation": {
-      "en": "Certainly nobody searched you, or wanded you, or anything like that.",
+      "en": "[Burrough] Certainly nobody searched you, or wanded you, or anything like that.",
       "fr": "On ne se faisait pas fouiller."
     }
   },
@@ -806,25 +812,25 @@
   {
     "translation": {
       "en": "and got a flight to Dallas. That was pretty much it.",
-      "fr": "et on s'envolait pour Dallas. C'était tout."
+      "fr": "et on s'envolait pour Dallas.C'était tout."
     }
   },
   {
     "translation": {
-      "en": "And that is what Cooper did. He went and bought a ticket that day. It was very, very casual.",
-      "fr": "C'est ce qu'a fait Cooper. Il a acheté un billet. Rien de spécial."
+      "en": "[Gray] And that is what Cooper did. He went and bought a ticket that day. It was very, very casual.",
+      "fr": "C'est ce qu'a fait Cooper.Il a acheté un billet. Rien de spécial."
     }
   },
   {
     "translation": {
-      "en": "Remember, this was the beginning of the boom of mass air travel.",
-      "fr": "Souvenez-vous, c'était le début de l'essor du transport aérien."
+      "en": "[Gray] Remember, this was the beginning of the boom of mass air travel.",
+      "fr": "Souvenez-vous, c'était le début de l'essordu transport aérien."
     }
   },
   {
     "translation": {
-      "en": "They wanted to make the experience a fun, good time.",
-      "fr": "Ils voulaient rendre l'expérience agréable."
+      "en": "[Gray] They wanted to make the experience a fun, good time.",
+      "fr": "Ils voulaientrendre l'expérience agréable."
     }
   },
   {
@@ -841,14 +847,14 @@
   },
   {
     "translation": {
-      "en": "But unfortunately, at the time, the stewardesses became fetishized.",
-      "fr": "Mais hélas, les hôtesses de l'air sont devenues un fantasme."
+      "en": "[Gray] But unfortunately, at the time, the stewardesses became fetishized.",
+      "fr": "Mais hélas, les hôtesses de l'airsont devenues un fantasme."
     }
   },
   {
     "translation": {
-      "en": "When a Braniff International hostess meets you on the airplane…",
-      "fr": "Quand une hôtesse de Braniff vous accueille dans l'avion,"
+      "en": "[announcer] When a Braniff International hostess meets you on the airplane…",
+      "fr": "Quand une hôtesse de Braniffvous accueille dans l'avion,"
     }
   },
   {
@@ -859,8 +865,8 @@
   },
   {
     "translation": {
-      "en": "In the early '70s, flight attendants have a really hard time.",
-      "fr": "Au début des années 70, c'est très dur pour les hôtesses de l'air."
+      "en": "[Rymsza-Pawlowska] In the early '70s, flight attendants have a really hard time.",
+      "fr": "Au début des années 70,c'est très dur pour les hôtesses de l'air."
     }
   },
   {
@@ -872,7 +878,7 @@
   {
     "translation": {
       "en": "They're not paid as much as the men that they work with.",
-      "fr": "Elles sont moins bien payées que leurs collègues masculins."
+      "fr": "Elles sont moins bien payéesque leurs collègues masculins."
     }
   },
   {
@@ -884,31 +890,31 @@
   {
     "translation": {
       "en": "They're held to really rigorous and unfair standards about their looks.",
-      "fr": "Leur apparence doit satisfaire à des exigences strictes et injustes."
+      "fr": "Leur apparence doit satisfaireà des exigences strictes et injustes."
     }
   },
   {
     "translation": {
       "en": "She's not just pretty. She's pretty smart.",
-      "fr": "Elle n'est pas que jolie. Elle est intelligente."
+      "fr": "Elle n'est pas que jolie.Elle est intelligente."
     }
   },
   {
     "translation": {
-      "en": "When D.B. Cooper passed the stewardess the note,",
-      "fr": "Quand D.B. Cooper a donné son mot à l'hôtesse,"
+      "en": "[Rymsza-Pawlowska] When D.B. Cooper passed the stewardess the note,",
+      "fr": "Quand D.B. Cooper a donné son motà l'hôtesse,"
     }
   },
   {
     "translation": {
       "en": "he was probably the, like, tenth person that day to pass her a note.",
-      "fr": "c'était sûrement le 10e à lui en donner un, ce jour-là."
+      "fr": "c'était sûrement le 10eà lui en donner un, ce jour-là."
     }
   },
   {
     "translation": {
-      "en": "At that time, being a stewardess is difficult,",
-      "fr": "À cette époque, c'était dur d'être hôtesse."
+      "en": "[Gray] At that time, being a stewardess is difficult,",
+      "fr": "À cette époque,c'était dur d'être hôtesse."
     }
   },
   {
@@ -920,24 +926,24 @@
   {
     "translation": {
       "en": "Guerrilla hijack teams struck four airlines almost simultaneously.",
-      "fr": "Des pirates ont attaqué quatre compagnies presque simultanément."
+      "fr": "Des pirates ont attaqué quatre compagniespresque simultanément."
     }
   },
   {
     "translation": {
       "en": "One ticket agent in Houston, Texas, is dead, another agent is wounded.",
-      "fr": "Un agent à Houston, au Texas, est mort, un autre est blessé."
+      "fr": "Un agent à Houston, au Texas,est mort, un autre est blessé."
     }
   },
   {
     "translation": {
-      "en": "Aerial piracy is not exactly a new phenomenon.",
-      "fr": "Les pirates de l'air n'ont rien de nouveau."
+      "en": "[news anchor] Aerial piracy is not exactly a new phenomenon.",
+      "fr": "Les pirates de l'airn'ont rien de nouveau."
     }
   },
   {
     "translation": {
-      "en": "I was in the CIA.",
+      "en": "[Mendez] I was in the CIA.",
       "fr": "J'étais à la CIA."
     }
   },
@@ -961,20 +967,20 @@
   },
   {
     "translation": {
-      "en": "Fifteen Japanese radical students armed with samurai swords,",
-      "fr": "Quinze étudiants japonais radicalisés armés de katanas,"
+      "en": "[news anchor] Fifteen Japanese radical students armed with samurai swords,",
+      "fr": "Quinze étudiants japonais radicalisésarmés de katanas,"
     }
   },
   {
     "translation": {
       "en": "pistols, and homemade bombs, hijacked a Japan Airlines jetliner.",
-      "fr": "de pistolets et de bombes artisanales ont détourné un vol Japan Airlines."
+      "fr": "de pistolets et de bombes artisanalesont détourné un vol Japan Airlines."
     }
   },
   {
     "translation": {
-      "en": "And, of course, those hijackings, they all had a political goal.",
-      "fr": "Ces détournements avaient tous un but politique."
+      "en": "[Mendez] And, of course, those hijackings, they all had a political goal.",
+      "fr": "Ces détournementsavaient tous un but politique."
     }
   },
   {
@@ -986,12 +992,12 @@
   {
     "translation": {
       "en": "They were making themselves bigger and badder than they actually were.",
-      "fr": "Ils se faisaient plus gros et plus dangereux qu'ils ne l'étaient."
+      "fr": "Ils se faisaient plus groset plus dangereux qu'ils ne l'étaient."
     }
   },
   {
     "translation": {
-      "en": "What made you think he had a gun?",
+      "en": "[reporter] What made you think he had a gun?",
       "fr": "Vous le croyiez armé ?"
     }
   },
@@ -1003,20 +1009,20 @@
   },
   {
     "translation": {
-      "en": "He said, We're going to Havana, Cuba. Take me to the cockpit.",
-      "fr": "Il a dit : On va à La Havane. Emmenez-moi dans le cockpit."
+      "en": "He said, \"We're going to Havana, Cuba. Take me to the cockpit.\"",
+      "fr": "Il a dit : \"On va à La Havane.Emmenez-moi dans le cockpit.\""
     }
   },
   {
     "translation": {
-      "en": "There were only two reasons that you hijacked a plane.",
-      "fr": "On ne détournait un avion que pour deux raisons."
+      "en": "[Burrough] There were only two reasons that you hijacked a plane.",
+      "fr": "On ne détournait un avionque pour deux raisons."
     }
   },
   {
     "translation": {
       "en": "You either did it to threaten to kill people and get money,",
-      "fr": "Pour l'argent, en menaçant de tuer des gens,"
+      "fr": "Pour l'argent,en menaçant de tuer des gens,"
     }
   },
   {
@@ -1028,25 +1034,25 @@
   {
     "translation": {
       "en": "The Cuban ones were almost all young radicals who needed to get out of town.",
-      "fr": "Les Cubains étaient de jeunes radicaux qui avaient besoin de partir."
+      "fr": "Les Cubains étaient de jeunes radicauxqui avaient besoin de partir."
     }
   },
   {
     "translation": {
-      "en": "What did it turn out to be?",
+      "en": "[reporter] What did it turn out to be?",
       "fr": "Qu'est-ce que c'était ?"
     }
   },
   {
     "translation": {
       "en": "It turned out to be a metal comb with a pen on top wrapped with a sweater.",
-      "fr": "C'était un peigne en métal et un stylo enroulés dans un pull."
+      "fr": "C'était un peigne en métal et un styloenroulés dans un pull."
     }
   },
   {
     "translation": {
-      "en": "One of the things about crime, like any art form, it evolves.",
-      "fr": "Le crime, comme n'importe quel art, évolue."
+      "en": "[Gray] One of the things about crime, like any art form, it evolves.",
+      "fr": "Le crime,comme n'importe quel art, évolue."
     }
   },
   {
@@ -1058,25 +1064,25 @@
   {
     "translation": {
       "en": "and the greatest artist of them all was D.B. Cooper.",
-      "fr": "et le plus grand des artistes, c'était D.B. Cooper."
+      "fr": "et le plus grand des artistes,c'était D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "With the full ransom, collected from Seattle banks, and four parachutes aboard, the plane headed for Reno.",
-      "fr": "Une fois la rançon et les parachutes réunis, l'avion a décollé pour Reno."
+      "en": "[news anchor] With the full ransom, collected from Seattle banks, and four parachutes aboard, the plane headed for Reno.",
+      "fr": "Une fois la rançon et les parachutesréunis, l'avion a décollé pour Reno."
     }
   },
   {
     "translation": {
-      "en": "Cooper looks into the money bag, he's happy. And he has instructions.",
-      "fr": "Cooper vérifie le sac, il est satisfait. Il a des instructions."
+      "en": "[Gray] Cooper looks into the money bag, he's happy. And he has instructions.",
+      "fr": "Cooper vérifie le sac, il est satisfait.Il a des instructions."
     }
   },
   {
     "translation": {
       "en": "He's asking to fly at 250 miles an hour, which is slow for a jet,",
-      "fr": "Il leur dit de voler à 400 km/h, ce qui est lent pour un jet,"
+      "fr": "Il leur dit de voler à 400 km/h,ce qui est lent pour un jet,"
     }
   },
   {
@@ -1088,31 +1094,31 @@
   {
     "translation": {
       "en": "Even the pilots didn't know the aircraft was capable of flying that slow and that low.",
-      "fr": "Même les pilotes ignoraient que l'avion pouvait voler si lentement et si bas."
+      "fr": "Même les pilotes ignoraient que l'avionpouvait voler si lentement et si bas."
     }
   },
   {
     "translation": {
-      "en": "And he said, It can be done, do it.",
-      "fr": "Il a dit : C'est possible. Faites-le."
+      "en": "And he said, \"It can be done, do it.\"",
+      "fr": "Il a dit : \"C'est possible. Faites-le.\""
     }
   },
   {
     "translation": {
-      "en": "They head south over this area called the dark divide.",
-      "fr": "Ils survolent la zone appelée dark divide."
+      "en": "[Gray] They head south over this area called \"the dark divide.\"",
+      "fr": "Ils survolentla zone appelée \"dark divide\"."
     }
   },
   {
     "translation": {
       "en": "Tina Mucklow was alone with him sitting in the last row.",
-      "fr": "Tina Mucklow était seule avec lui au dernier rang."
+      "fr": "Tina Mucklow était seule avec luiau dernier rang."
     }
   },
   {
     "translation": {
       "en": "He was not nervous. He seemed rather nice, and…",
-      "fr": "Il n'était pas nerveux, il semblait gentil."
+      "fr": "Il n'était pas nerveux,il semblait gentil."
     }
   },
   {
@@ -1123,8 +1129,8 @@
   },
   {
     "translation": {
-      "en": "At that point, Cooper sent Tina Mucklow to the cockpit",
-      "fr": "Cooper a envoyé Tina Mucklow dans le cockpit"
+      "en": "[Ulis] At that point, Cooper sent Tina Mucklow to the cockpit",
+      "fr": "Cooper a envoyé Tina Mucklowdans le cockpit"
     }
   },
   {
@@ -1142,7 +1148,7 @@
   {
     "translation": {
       "en": "Around 8:12, there was a popping sensation in the ears of the pilots.",
-      "fr": "Vers 20h12, les pilotes ont senti une surpression dans leurs oreilles."
+      "fr": "Vers 20h12, les pilotes ont sentiune surpression dans leurs oreilles."
     }
   },
   {
@@ -1160,19 +1166,19 @@
   {
     "translation": {
       "en": "I told the air traffic controllers that our friend just took leave of us.",
-      "fr": "J'ai dit à la tour que notre ami venait de nous quitter."
+      "fr": "J'ai dit à la tourque notre ami venait de nous quitter."
     }
   },
   {
     "translation": {
-      "en": "To truly appreciate what Cooper did…",
+      "en": "[Gray] To truly appreciate what Cooper did…",
       "fr": "Pour apprécier ce qu'a accompli Cooper,"
     }
   },
   {
     "translation": {
       "en": "close your eyes and take a step, and imagine walking down those aft stairs.",
-      "fr": "fermez les yeux, faites un pas et imaginez que vous descendez cet escalier."
+      "fr": "fermez les yeux, faites un pas et imaginezque vous descendez cet escalier."
     }
   },
   {
@@ -1207,26 +1213,26 @@
   },
   {
     "translation": {
-      "en": "When's the time to jump?",
-      "fr": "Quand faut-il sauter ?"
+      "en": "\"When's the time to jump?\"",
+      "fr": "\"Quand faut-il sauter ?\""
     }
   },
   {
     "translation": {
-      "en": "Well, he either got away or else he sure made a big hole in the ground out there.",
-      "fr": "Soit il a filé, soit il a fait un gros trou dans le sol."
+      "en": "[Cotton] Well, he either got away or else he sure made a big hole in the ground out there.",
+      "fr": "Soit il a filé,soit il a fait un gros trou dans le sol."
     }
   },
   {
     "translation": {
       "en": "And if he made a hole in the ground, he's gonna be hard to find.",
-      "fr": "S'il a fait un trou, il sera dur à trouver."
+      "fr": "S'il a fait un trou,il sera dur à trouver."
     }
   },
   {
     "translation": {
-      "en": "By hole in the ground, you mean slammed into a mountainside?",
-      "fr": "Vous voulez dire s'il a percuté une montagne ?"
+      "en": "By \"hole in the ground,\" you mean slammed into a mountainside?",
+      "fr": "Vous voulez dires'il a percuté une montagne ?"
     }
   },
   {
@@ -1256,7 +1262,7 @@
   {
     "translation": {
       "en": "Suppose his chute did open, you think he landed safely",
-      "fr": "Si son parachute a marché, il a atterri sain et sauf"
+      "fr": "Si son parachute a marché,il a atterri sain et sauf"
     }
   },
   {
@@ -1268,19 +1274,19 @@
   {
     "translation": {
       "en": "Well, at this point, he doesn't appear to be hung up in any trees. At least this is what we're looking for from the air.",
-      "fr": "Il ne semble pas être suspendu aux arbres. C'est ce qu'on cherchait depuis les airs."
+      "fr": "Il ne semble pas être suspendu aux arbres.C'est ce qu'on cherchait depuis les airs."
     }
   },
   {
     "translation": {
       "en": "And so if he did bail out there and did make a successful landing,",
-      "fr": "S'il a bien sauté là et qu'il a réussi son atterrissage,"
+      "fr": "S'il a bien sauté làet qu'il a réussi son atterrissage,"
     }
   },
   {
     "translation": {
       "en": "it's possible that he has succeeded in hiding his parachute",
-      "fr": "il est possible qu'il ait réussi à cacher son parachute"
+      "fr": "il est possible qu'il ait réussià cacher son parachute"
     }
   },
   {
@@ -1291,26 +1297,26 @@
   },
   {
     "translation": {
-      "en": "Hundreds of troops combed the woods near Woodland, and east to the town of Ariel,",
-      "fr": "Des hommes ont ratissé les environs de Woodland et d'Ariel,"
+      "en": "[reporter] Hundreds of troops combed the woods near Woodland, and east to the town of Ariel,",
+      "fr": "Des hommes ont ratisséles environs de Woodland et d'Ariel,"
     }
   },
   {
     "translation": {
       "en": "but nobody knew where he bailed out, where he landed, or even if he survived.",
-      "fr": "mais on ignorait où il avait sauté, où il avait atterri et s'il avait survécu."
+      "fr": "mais on ignorait où il avait sauté,où il avait atterri et s'il avait survécu."
     }
   },
   {
     "translation": {
-      "en": "The main problem that the FBI faced initially",
+      "en": "[Mendez] The main problem that the FBI faced initially",
       "fr": "Au départ, le principal problème du FBI"
     }
   },
   {
     "translation": {
       "en": "is they didn't know exactly where that plane was",
-      "fr": "était qu'ils ignoraient où se trouvait l'avion"
+      "fr": "était qu'ils ignoraientoù se trouvait l'avion"
     }
   },
   {
@@ -1322,13 +1328,13 @@
   {
     "translation": {
       "en": "There were all these variables. What about the wind?",
-      "fr": "Il y avait de nombreuses variables. Et le vent ?"
+      "fr": "Il y avaitde nombreuses variables. Et le vent ?"
     }
   },
   {
     "translation": {
-      "en": "Maybe the wind had you a little off- course.",
-      "fr": "Le vent a pu le faire dériver."
+      "en": "\"Maybe the wind had you a little off-course.\"",
+      "fr": "\"Le vent a pu le faire dériver.\""
     }
   },
   {
@@ -1339,32 +1345,32 @@
   },
   {
     "translation": {
-      "en": "Right at this point,",
+      "en": "[Cotton] Right at this point,",
       "fr": "À ce stade,"
     }
   },
   {
     "translation": {
       "en": "probably a slim chance of actually finding him in this area.",
-      "fr": "il n'y a que peu de chances de le trouver dans cette zone."
+      "fr": "il n'y a que peu de chancesde le trouver dans cette zone."
     }
   },
   {
     "translation": {
       "en": "But at least we may develop information that'll give us leads on where to go next.",
-      "fr": "Mais on peut découvrir des informations pour savoir où chercher."
+      "fr": "Mais on peut découvrir des informationspour savoir où chercher."
     }
   },
   {
     "translation": {
-      "en": "It was from these steps, the rear of the 727,",
-      "fr": "C'est à partir de cet escalier, à l'arrière du 727,"
+      "en": "[reporter] It was from these steps, the rear of the 727,",
+      "fr": "C'est à partir de cet escalier,à l'arrière du 727,"
     }
   },
   {
     "translation": {
       "en": "that the FBI believes the skyjacker used his parachute",
-      "fr": "que le FBI pense que le pirate a utilisé son parachute."
+      "fr": "que le FBI pense que le piratea utilisé son parachute."
     }
   },
   {
@@ -1376,7 +1382,7 @@
   {
     "translation": {
       "en": "Earlier, it was felt that he perhaps bailed out somewhere nearer to Reno,",
-      "fr": "Plus tôt, on pensait qu'il avait pu sauter près de Reno,"
+      "fr": "Plus tôt, on pensaitqu'il avait pu sauter près de Reno,"
     }
   },
   {
@@ -1387,8 +1393,8 @@
   },
   {
     "translation": {
-      "en": "On Thanksgiving Day, people all around the world got wind of the story.",
-      "fr": "Le jour de Thanksgiving, le monde entier en a entndu parler."
+      "en": "[Gray] On Thanksgiving Day, people all around the world got wind of the story.",
+      "fr": "Le jour de Thanksgiving,le monde entier en a entndu parler."
     }
   },
   {
@@ -1400,7 +1406,7 @@
   {
     "translation": {
       "en": "The case went from being a truly phenomenal act of air piracy…",
-      "fr": "L'affaire est passée du statut d'incroyable détournement"
+      "fr": "L'affaire est passéedu statut d'incroyable détournement"
     }
   },
   {
@@ -1412,13 +1418,13 @@
   {
     "translation": {
       "en": "When he got on a plane last night, he was just another passenger.",
-      "fr": "Quand il a embarqué hier, c'était un banal passager."
+      "fr": "Quand il a embarqué hier,c'était un banal passager."
     }
   },
   {
     "translation": {
       "en": "But today, after hijacking a Northwest Airlines jet,",
-      "fr": "Mais aujourd'hui, après avoir détourné un avion,"
+      "fr": "Mais aujourd'hui,après avoir détourné un avion,"
     }
   },
   {
@@ -1430,19 +1436,19 @@
   {
     "translation": {
       "en": "then making a getaway by parachute somewhere between there and Reno,",
-      "fr": "puis avoir fui en parachute entre là-bas et Reno,"
+      "fr": "puis avoir fui en parachuteentre là-bas et Reno,"
     }
   },
   {
     "translation": {
       "en": "the description on one wire service: master criminal.",
-      "fr": "une agence de presse le décrit comme un génie du crime."
+      "fr": "une agence de presse le décritcomme un génie du crime."
     }
   },
   {
     "translation": {
       "en": "Man, don't you know what that is? That's Jesse James come back.",
-      "fr": "Vous savez quoi ? C'est le retour de Jesse James."
+      "fr": "Vous savez quoi ?C'est le retour de Jesse James."
     }
   },
   {
@@ -1454,43 +1460,43 @@
   {
     "translation": {
       "en": "They kill Lincoln a hundred years ago, and Kennedy, it's all going back.",
-      "fr": "Ils ont tué Lincoln il y a 100 ans. Maintenant, Kennedy. Tout se répète."
+      "fr": "Ils ont tué Lincoln il y a 100 ans.Maintenant, Kennedy. Tout se répète."
     }
   },
   {
     "translation": {
-      "en": "- Do you think he's a hero? - Oh, sure.",
-      "fr": "- C'est un héros ? - Oui."
+      "en": "-[reporter] Do you think he's a hero? -Oh, sure.",
+      "fr": "- C'est un héros ?- Oui."
     }
   },
   {
     "translation": {
-      "en": "Why?",
+      "en": "[reporter] Why?",
       "fr": "Pourquoi ?"
     }
   },
   {
     "translation": {
       "en": "'Cause the guy, evidently, really took a lot of time to plan the whole thing out.",
-      "fr": "Parce qu'il a passé beaucoup de temps à bien planifier son coup."
+      "fr": "Parce qu'il a passé beaucoup de tempsà bien planifier son coup."
     }
   },
   {
     "translation": {
       "en": "And I respect a man who takes his time to do a job well done.",
-      "fr": "Et je respecte celui qui se donne le temps pour un travail bien fait."
+      "fr": "Et je respecte celui qui se donne le tempspour un travail bien fait."
     }
   },
   {
     "translation": {
       "en": "He's one of the slickest cats to ever walk on the face of the Earth.",
-      "fr": "C'est l'un des types les plus finauds de la planète."
+      "fr": "C'est l'un des types les plus finaudsde la planète."
     }
   },
   {
     "translation": {
-      "en": "The riches in the case, the details that you just can't make up,",
-      "fr": "Les détails de l'affaire qu'on ne pourrait pas inventer,"
+      "en": "[Gray] The riches in the case, the details that you just can't make up,",
+      "fr": "Les détails de l'affairequ'on ne pourrait pas inventer,"
     }
   },
   {
@@ -1502,13 +1508,13 @@
   {
     "translation": {
       "en": "D.B. Cooper was not the hijacker.",
-      "fr": "D.B. Cooper n'était pas le pirate de l'air."
+      "fr": "D.B. Cooper n'était pasle pirate de l'air."
     }
   },
   {
     "translation": {
-      "en": "In Portland, he gave the name Dan Cooper to the ticket agent.",
-      "fr": "À Portland, il a indiqué Dan Cooper au guichet."
+      "en": "[Ulis] In Portland, he gave the name Dan Cooper to the ticket agent.",
+      "fr": "À Portland, il a indiqué \"Dan Cooper\"au guichet."
     }
   },
   {
@@ -1526,7 +1532,7 @@
   {
     "translation": {
       "en": "is there's an enormous amount of media attention focused",
-      "fr": "la presse apportait une attention énorme à l'affaire"
+      "fr": "la presse apportaitune attention énorme à l'affaire"
     }
   },
   {
@@ -1537,14 +1543,14 @@
   },
   {
     "translation": {
-      "en": "The authorities were going down some log they had,",
+      "en": "[Colbert] The authorities were going down some log they had,",
       "fr": "Les autorités parcouraient une liste"
     }
   },
   {
     "translation": {
-      "en": "and a reporter overheard it as D.B. Cooper.",
-      "fr": "et un journaliste a entendu D.B. Cooper."
+      "en": "and a reporter overheard it as \"D.B. Cooper.\"",
+      "fr": "et un journaliste a entendu \"D.B. Cooper\"."
     }
   },
   {
@@ -1567,14 +1573,14 @@
   },
   {
     "translation": {
-      "en": "No, it's not D.B. Cooper, it's Dan Cooper.",
-      "fr": "Non, pas D.B. Cooper. C'est Dan Cooper."
+      "en": "\"No, it's not D.B. Cooper, it's Dan Cooper.\"",
+      "fr": "\"Non, pas D.B. Cooper. C'est Dan Cooper.\""
     }
   },
   {
     "translation": {
-      "en": "But, frankly, D.B. Cooper is a more bad- ass name than Dan Cooper,",
-      "fr": "Mais franchement, D.B. Cooper, ça en jette plus que Dan Cooper,"
+      "en": "But, frankly, D.B. Cooper is a more bad-ass name than Dan Cooper,",
+      "fr": "Mais franchement, D.B. Cooper,ça en jette plus que Dan Cooper,"
     }
   },
   {
@@ -1585,14 +1591,14 @@
   },
   {
     "translation": {
-      "en": "Thus begins the D.B. Cooper branding, you know,",
-      "fr": "La marque D.B. Cooper est née ainsi. Car tout héros populaire a besoin d'une bonne marque."
+      "en": "[Gray] Thus begins the D.B. Cooper branding, you know,",
+      "fr": "La marque D.B. Cooper est née ainsi. Car tout héros populairea besoin d'une bonne marque."
     }
   },
   {
     "translation": {
       "en": "because every folk hero needs a good brand.",
-      "fr": "Car tout héros populaire a besoin d'une bonne marque."
+      "fr": "Car tout héros populairea besoin d'une bonne marque."
     }
   },
   {
@@ -1603,14 +1609,14 @@
   },
   {
     "translation": {
-      "en": "Oh, D.B. Who is that?",
-      "fr": "D.B. Qui est-ce ?"
+      "en": "\"Oh, D.B. Who is that?\"",
+      "fr": "\"D.B. Qui est-ce ?\""
     }
   },
   {
     "translation": {
       "en": "And so D.B. Cooper the skyjacker dropped out of the air,",
-      "fr": "Donc, D.B. Cooper le pirate est tombé du ciel,"
+      "fr": "Donc, D.B. Cooper le pirateest tombé du ciel,"
     }
   },
   {
@@ -1633,43 +1639,43 @@
   },
   {
     "translation": {
-      "en": "The man's beat the system, so to speak.",
+      "en": "[man] The man's beat the system, so to speak.",
       "fr": "Il a battu le système."
     }
   },
   {
     "translation": {
       "en": "I just think that any time that a fella's got this much nerve,",
-      "fr": "Dès qu'un type a un tel culot et réussit comme ça,"
+      "fr": "Dès qu'un type a un tel culotet réussit comme ça,"
     }
   },
   {
     "translation": {
       "en": "and is successful this far, that everybody's rooting for him.",
-      "fr": "Dès qu'un type a un tel culot et réussit comme ça, on le soutient tous."
+      "fr": "Dès qu'un type a un tel culotet réussit comme ça, on le soutient tous."
     }
   },
   {
     "translation": {
-      "en": "People wrote songs, sold T- shirts,",
+      "en": "[news anchor] People wrote songs, sold T-shirts,",
       "fr": "On a fait des chansons et des t-shirts"
     }
   },
   {
     "translation": {
       "en": "all in honor of the first and only man to get away with hijacking a US plane.",
-      "fr": "en l'honneur du premier à avoir réussi à détourner un avion américain."
+      "fr": "en l'honneur du premier à avoir réussià détourner un avion américain."
     }
   },
   {
     "translation": {
       "en": "I do think that D.B. Cooper will live on, because they never have found him.",
-      "fr": "Je pense que D.B. Cooper est immortel, car ils ne l'ont jamais trouvé."
+      "fr": "Je pense que D.B. Cooper est immortel,car ils ne l'ont jamais trouvé."
     }
   },
   {
     "translation": {
-      "en": "This case is so American.",
+      "en": "[Gray] This case is so American.",
       "fr": "Une affaire très américaine."
     }
   },
@@ -1688,13 +1694,25 @@
   {
     "translation": {
       "en": "almost going back to the heroes like Billy the Kid.",
-      "fr": "qui remonte à des héros comme Billy the Kid,"
+      "fr": "qui remonte à des héroscomme Billy the Kid,"
     }
   },
   {
     "translation": {
       "en": "And all the famous bandits and bank robbers.",
-      "fr": "aux bandits et aux braqueurs de banque célèbres."
+      "fr": "aux banditset aux braqueurs de banque célèbres."
+    }
+  },
+  {
+    "translation": {
+      "en": "[announcer] George \"Machine Gun\" Kelly,",
+      "fr": "George Machine Gun Kelly,"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Baby Face\" Nelson,",
+      "fr": "Baby Face Nelson,"
     }
   },
   {
@@ -1705,14 +1723,14 @@
   },
   {
     "translation": {
-      "en": "We prize the outlaw.",
+      "en": "[man] We prize the outlaw.",
       "fr": "On adule le hors-la-loi."
     }
   },
   {
     "translation": {
       "en": "We are fascinated with those who break the rules",
-      "fr": "Ceux qui enfreignent les règles nous fascinent,"
+      "fr": "Ceux qui enfreignent les règlesnous fascinent,"
     }
   },
   {
@@ -1723,7 +1741,7 @@
   },
   {
     "translation": {
-      "en": "Everybody wants to know who D.B. Cooper was.",
+      "en": "[Ulis] Everybody wants to know who D.B. Cooper was.",
       "fr": "Tout le monde veut savoir qui c'était."
     }
   },
@@ -1735,14 +1753,14 @@
   },
   {
     "translation": {
-      "en": "it's become this ever- larger mystery.",
+      "en": "it's become this ever-larger mystery.",
       "fr": "le mystère a gagné en ampleur."
     }
   },
   {
     "translation": {
       "en": "The evidence suggests that Cooper must have had military experience",
-      "fr": "Tout suggère que Cooper avait une formation militaire"
+      "fr": "Tout suggèreque Cooper avait une formation militaire"
     }
   },
   {
@@ -1753,8 +1771,8 @@
   },
   {
     "translation": {
-      "en": "When we return, we'll reveal an important new clue",
-      "fr": "Après la pause, nous révélerons un indice important"
+      "en": "[Robert Stack] When we return, we'll reveal an important new clue",
+      "fr": "Après la pause,nous révélerons un indice important"
     }
   },
   {
@@ -1765,14 +1783,14 @@
   },
   {
     "translation": {
-      "en": "At this point, so many people have played the role of D.B. Cooper.",
-      "fr": "Il y a eu tant d'interprètes du rôle de D.B. Cooper."
+      "en": "[man] At this point, so many people have played the role of D.B. Cooper.",
+      "fr": "Il y a eu tant d'interprètesdu rôle de D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "There's a lot of different reasons why D.B. Cooper has remained so prevalent",
-      "fr": "De nombreuses raisons expliquent la pérennité de D.B. Cooper"
+      "en": "[Rymsza-Pawlowska] There's a lot of different reasons why D.B. Cooper has remained so prevalent",
+      "fr": "De nombreuses raisonsexpliquent la pérennité de D.B. Cooper"
     }
   },
   {
@@ -1784,36 +1802,36 @@
   {
     "translation": {
       "en": "You know, like Amelia Earhart, we know so little about what actually happened.",
-      "fr": "Comme Amelia Earhart, on en sait tellement peu sur ce qui s'est passé."
+      "fr": "Comme Amelia Earhart, on en saittellement peu sur ce qui s'est passé."
     }
   },
   {
     "translation": {
-      "en": "The Western world has to have an answer to every question.",
-      "fr": "L'Occident exige que chaque question ait sa réponse."
+      "en": "[Heubusch] The Western world has to have an answer to every question.",
+      "fr": "L'Occident exige que chaque questionait sa réponse."
     }
   },
   {
     "translation": {
       "en": "And it's really frustrating to them when a story doesn't have an ending.",
-      "fr": "C'est très frustrant, une histoire qui n'a pas de fin."
+      "fr": "C'est très frustrant,une histoire qui n'a pas de fin."
     }
   },
   {
     "translation": {
       "en": "Doesn't have to be a happy ending, but it needs a period at the end of the sentence.",
-      "fr": "Il ne faut pas forcément une fin heureuse, mais il faut un point final."
+      "fr": "Il ne faut pas forcément une fin heureuse,mais il faut un point final."
     }
   },
   {
     "translation": {
       "en": "The D.B. Cooper case is a prime example of a sentence that's been left uncompleted.",
-      "fr": "L'affaire D.B. Cooper est l'exemple d'une phrase laissée inachevée."
+      "fr": "L'affaire D.B. Cooper est l'exempled'une phrase laissée inachevée."
     }
   },
   {
     "translation": {
-      "en": "At this point, there have been something north of a thousand suspects",
+      "en": "[Ulis] At this point, there have been something north of a thousand suspects",
       "fr": "Il y a eu plus d'un millier de suspects"
     }
   },
@@ -1832,19 +1850,19 @@
   {
     "translation": {
       "en": "Richard Floyd McCoy was an outstanding suspect.",
-      "fr": "Richard Floyd McCoy était un suspect exceptionnel."
+      "fr": "Richard Floyd McCoyétait un suspect exceptionnel."
     }
   },
   {
     "translation": {
       "en": "He was in Vietnam. He was an expert parachutist.",
-      "fr": "Un ancien du Vietnam, parachutiste expert."
+      "fr": "Un ancien du Vietnam,parachutiste expert."
     }
   },
   {
     "translation": {
-      "en": "McCoy skyjacked another 727 and jumped out",
-      "fr": "McCoy a détourné un autre 727 avant d'en sauter"
+      "en": "[Smith] McCoy skyjacked another 727 and jumped out",
+      "fr": "McCoy a détourné un autre 727avant d'en sauter"
     }
   },
   {
@@ -1855,32 +1873,32 @@
   },
   {
     "translation": {
-      "en": "But there's one very big problem.",
+      "en": "[Ulis] But there's one very big problem.",
       "fr": "Mais il y a un gros problème."
     }
   },
   {
     "translation": {
       "en": "All the witnesses that saw D.B. Cooper looked at Richard Floyd McCoy",
-      "fr": "Tous ceux qui ont vu D.B. Cooper l'ont vu lui et ont dit :"
+      "fr": "Tous ceux qui ont vu D.B. Cooperl'ont vu lui et ont dit :"
     }
   },
   {
     "translation": {
-      "en": "and said, He ain't the guy.",
-      "fr": "C'est pas lui."
+      "en": "and said, \"He ain't the guy.\"",
+      "fr": "\"C'est pas lui.\""
     }
   },
   {
     "translation": {
-      "en": "Duane Weber had a deathbed confession and looked like the second sketch.",
-      "fr": "Duane Weber a confessé sur son lit de mort et ressemblait au signalement."
+      "en": "[Gray] Duane Weber had a deathbed confession and looked like the second sketch.",
+      "fr": "Duane Weber a confessé sur son lit de mortet ressemblait au signalement."
     }
   },
   {
     "translation": {
       "en": "And he was living a double life. One as a charming insurance salesman,",
-      "fr": "En plus, il menait une double vie. À la fois charmant agent d'assurances"
+      "fr": "En plus, il menait une double vie.À la fois charmant agent d'assurances"
     }
   },
   {
@@ -1891,14 +1909,14 @@
   },
   {
     "translation": {
-      "en": "He was arrested, I think, 16 times, but there's absolutely no proof that he had any parachute training.",
-      "fr": "On l'a arrêté 16 fois, mais rien n'indique une formation en parachutisme."
+      "en": "[Smith] He was arrested, I think, 16 times, but there's absolutely no proof that he had any parachute training.",
+      "fr": "On l'a arrêté 16 fois, mais rien n'indiqueune formation en parachutisme."
     }
   },
   {
     "translation": {
       "en": "And he was a criminal that had a hard time staying out of jail.",
-      "fr": "C'était un criminel qui avait du mal à éviter la prison."
+      "fr": "C'était un criminelqui avait du mal à éviter la prison."
     }
   },
   {
@@ -1916,7 +1934,7 @@
   {
     "translation": {
       "en": "She had the first sex change operation in Washington state.",
-      "fr": "La première transgenre de l'État de Washington."
+      "fr": "La première transgenrede l'État de Washington."
     }
   },
   {
@@ -1939,25 +1957,25 @@
   },
   {
     "translation": {
-      "en": "It was the ultimate disguise.",
+      "en": "[Gray] It was the ultimate disguise.",
       "fr": "Le meilleur des déguisements."
     }
   },
   {
     "translation": {
       "en": "As a man, Bob Dayton was a guy with a grudge.",
-      "fr": "En tant qu'homme, Bob Dayton avait une revanche à prendre."
+      "fr": "En tant qu'homme,Bob Dayton avait une revanche à prendre."
     }
   },
   {
     "translation": {
       "en": "Merchant Marine, he could jump out of airplanes.",
-      "fr": "Un gars de la marine marchande, il savait sauter."
+      "fr": "Un gars de la marine marchande,il savait sauter."
     }
   },
   {
     "translation": {
-      "en": "But the problem is,",
+      "en": "[Ulis] But the problem is,",
       "fr": "Mais le problème,"
     }
   },
@@ -1975,13 +1993,13 @@
   },
   {
     "translation": {
-      "en": "Some people thought it was Ken Christiansen. He worked for Northwest Orient Airlines.",
-      "fr": "Certains ont soupçonné Ken Christiansen. Il travaillait pour Northwest."
+      "en": "[Gray] Some people thought it was Ken Christiansen. He worked for Northwest Orient Airlines.",
+      "fr": "Certains ont soupçonné Ken Christiansen.Il travaillait pour Northwest."
     }
   },
   {
     "translation": {
-      "en": "Other people thought it was Sheridan Peterson.",
+      "en": "[Ulis] Other people thought it was Sheridan Peterson.",
       "fr": "Pour d'autres, c'était Sheridan Peterson."
     }
   },
@@ -1993,31 +2011,31 @@
   },
   {
     "translation": {
-      "en": "But for a bunch of technical reasons, both of them have been ruled out.",
-      "fr": "mais pour un tas de raisons techniques, les deux ont été écartés."
+      "en": "[Gray] But for a bunch of technical reasons, both of them have been ruled out.",
+      "fr": "mais pour un tas de raisons techniques,les deux ont été écartés."
     }
   },
   {
     "translation": {
       "en": "Even though we still don't know who Cooper was, to me, what's remarkable is actually",
-      "fr": "Même si on ignore qui était Cooper, je trouve ça remarquable"
+      "fr": "Même si on ignore qui était Cooper,je trouve ça remarquable"
     }
   },
   {
     "translation": {
       "en": "how much people identify with Cooper 50 years later.",
-      "fr": "c'est combien on s'identifie à lui 50 ans après."
+      "fr": "c'est combien on s'identifie à lui50 ans après."
     }
   },
   {
     "translation": {
-      "en": "We're in Vancouver, Washington, at Victor- 23.",
+      "en": "[waitress] We're in Vancouver, Washington, at Victor-23.",
       "fr": "Nous sommes à Vancouver, au Victor-23,"
     }
   },
   {
     "translation": {
-      "en": "This is a D.B. Cooper- themed bar.",
+      "en": "This is a D.B. Cooper-themed bar.",
       "fr": "un bar sur le thème de D.B. Cooper."
     }
   },
@@ -2036,7 +2054,7 @@
   {
     "translation": {
       "en": "our Skyjacker IPA, our Headless Hijacker,",
-      "fr": "notre IPA Pirate de l'air, notre Pirate de l'air sans tête,"
+      "fr": "notre IPA Pirate de l'air,notre Pirate de l'air sans tête,"
     }
   },
   {
@@ -2048,7 +2066,7 @@
   {
     "translation": {
       "en": "And also why people still look to embed him into film and culture.",
-      "fr": "Et pourquoi les gens cherchent toujours à l'intégrer au cinéma et à la culture."
+      "fr": "Et pourquoi les gens cherchent toujoursà l'intégrer au cinéma et à la culture."
     }
   },
   {
@@ -2066,7 +2084,7 @@
   {
     "translation": {
       "en": "than just some guy who jumped out of a plane and disappeared,",
-      "fr": "que ce type qui a sauté d'un avion et qui a disparu,"
+      "fr": "que ce type qui a sauté d'un avionet qui a disparu,"
     }
   },
   {
@@ -2078,7 +2096,7 @@
   {
     "translation": {
       "en": "Check out this map. He pinpointed D.B.'s landing.",
-      "fr": "Regardez. Il a localisé l'atterrissage de D.B."
+      "fr": "Regardez. Il a localisél'atterrissage de D.B."
     }
   },
   {
@@ -2090,13 +2108,13 @@
   {
     "translation": {
       "en": "With respect to D.B. Cooper over the last 50 years,",
-      "fr": "En ce qui concerne D.B. Cooper après ces 50 dernières années,"
+      "fr": "En ce qui concerne D.B. Cooperaprès ces 50 dernières années,"
     }
   },
   {
     "translation": {
       "en": "arguably, we are no closer to knowing who D.B. Cooper was.",
-      "fr": "En ce qui concerne D.B. Cooper après ces 50 dernières années, on n'est pas plus avancés sur son identité."
+      "fr": "En ce qui concerne D.B. Cooperaprès ces 50 dernières années, on n'est pas plus avancéssur son identité."
     }
   },
   {
@@ -2108,7 +2126,7 @@
   {
     "translation": {
       "en": "Should I call the FBI and tell 'em I found D.B. Cooper?",
-      "fr": "J'appelle le FBI et je dis que j'ai trouvé D.B. Cooper ?"
+      "fr": "J'appelle le FBI et je disque j'ai trouvé D.B. Cooper ?"
     }
   },
   {
@@ -2120,25 +2138,25 @@
   {
     "translation": {
       "en": "Everybody wants to solve a mystery that's been unsolved",
-      "fr": "Tout le monde veut résoudre un mystère non résolu"
+      "fr": "Tout le monde veut résoudreun mystère non résolu"
     }
   },
   {
     "translation": {
       "en": "by some of the brightest minds and the best agencies in the country.",
-      "fr": "par les esprits les plus brillants et les meilleures agences du pays."
+      "fr": "par les esprits les plus brillantset les meilleures agences du pays."
     }
   },
   {
     "translation": {
-      "en": "After 50 years,",
+      "en": "[Kleinsmith] After 50 years,",
       "fr": "Au bout de 50 ans,"
     }
   },
   {
     "translation": {
       "en": "the Cooper case is almost a holy grail of cold cases to solve.",
-      "fr": "l'affaire Cooper est presque un Graal des affaires non résolues."
+      "fr": "l'affaire Cooper est presque un Graaldes affaires non résolues."
     }
   },
   {
@@ -2150,7 +2168,7 @@
   {
     "translation": {
       "en": "I'm the person, with my wife, Dawna Kay, at the machine in the corner.",
-      "fr": "Avec ma femme, Dawna Kay, qui se tient près de la machine,"
+      "fr": "Avec ma femme, Dawna Kay,qui se tient près de la machine,"
     }
   },
   {
@@ -2167,7 +2185,7 @@
   },
   {
     "translation": {
-      "en": "For me, the whole thing started when a friend of mine",
+      "en": "[Colbert] For me, the whole thing started when a friend of mine",
       "fr": "Pour moi, tout a commencé quand un ami,"
     }
   },
@@ -2180,19 +2198,19 @@
   {
     "translation": {
       "en": "I've known Rich for 25 years. I drop everything when Rich calls.",
-      "fr": "Je connais Rich depuis 25 ans. Je laisse tout tomber,  quand il appelle."
+      "fr": "Je connais Rich depuis 25 ans.Je laisse tout tomber,  quand il appelle."
     }
   },
   {
     "translation": {
-      "en": "I was in the middle of another project and I said, Rich, what's up?",
-      "fr": "J'étais sur un projet. J'ai répondu : Rich, ça va ?"
+      "en": "I was in the middle of another project and I said, \"Rich, what's up?\"",
+      "fr": "J'étais sur un projet.J'ai répondu : \"Rich, ça va ?\""
     }
   },
   {
     "translation": {
       "en": "I was in Vegas. I was shooting a series of infomercials.",
-      "fr": "J'étais à Vegas pour tourner des infomercials."
+      "fr": "J'étais à Vegaspour tourner des infomercials."
     }
   },
   {
@@ -2204,73 +2222,73 @@
   {
     "translation": {
       "en": "told me they knew some gambler who knew who D.B. Cooper was.",
-      "fr": "m'a dit connaître un joueur qui savait qui était D.B. Cooper."
+      "fr": "m'a dit connaître un joueurqui savait qui était D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "I rolled my eyes, and he said, No, Tom, you need to listen.",
+      "en": "I rolled my eyes, and he said, \"No, Tom, you need to listen.\"",
       "fr": "J'ai levé les yeux au ciel. Il a insisté :"
     }
   },
   {
     "translation": {
-      "en": "I have a guy on camera.",
-      "fr": "Je l'ai filmé."
+      "en": "\"I have a guy on camera.\"",
+      "fr": "\"Je l'ai filmé.\""
     }
   },
   {
     "translation": {
-      "en": "I told him, This guy seems credible",
-      "fr": "Je lui ai dit : Il m'a l'air crédible"
+      "en": "I told him, \"This guy seems credible",
+      "fr": "Je lui ai dit : \"Il m'a l'air crédible"
     }
   },
   {
     "translation": {
-      "en": "and he's willing to have lie detector tests.",
-      "fr": "et il est prêt à passer au détecteur de mensonge."
+      "en": "and he's willing to have lie detector tests.\"",
+      "fr": "et il est prêt à passerau détecteur de mensonge.\""
     }
   },
   {
     "translation": {
-      "en": "It's the only way that you're gonna believe me, and I'm much willing to do that.",
-      "fr": "Sans ça vous ne me croirez pas et je suis prêt à le faire."
+      "en": "\"It's the only way that you're gonna believe me, and I'm much willing to do that.\"",
+      "fr": "\"Sans ça vous ne me croirez paset je suis prêt à le faire.\""
     }
   },
   {
     "translation": {
-      "en": "I realized if this tip checked out,",
+      "en": "[Colbert] I realized if this tip checked out,",
       "fr": "J'ai compris que si c'était vrai,"
     }
   },
   {
     "translation": {
-      "en": "we would be solving one of the most high- profile cases in cold- case history.",
-      "fr": "on résoudrait l'une des affaires non élucidées les plus célèbres."
+      "en": "we would be solving one of the most high-profile cases in cold-case history.",
+      "fr": "on résoudrait l'une des affairesnon élucidées les plus célèbres."
     }
   },
   {
     "translation": {
-      "en": "What I found on Ron Carlson's tape was a game- changer.",
-      "fr": "Le contenu de la cassette de Ron Carlson a changé la donne."
+      "en": "What I found on Ron Carlson's tape was a game-changer.",
+      "fr": "Le contenu de la cassette de Ron Carlsona changé la donne."
     }
   },
   {
     "translation": {
-      "en": "The story started with Ron Carlson",
-      "fr": "Ron Carlson transportait de la drogue le long de la côte Pacifique"
+      "en": "[Kashanski] The story started with Ron Carlson",
+      "fr": "Ron Carlson transportait de la droguele long de la côte Pacifique"
     }
   },
   {
     "translation": {
       "en": "running drugs up and down the coast with his fast car.",
-      "fr": "Ron Carlson transportait de la drogue le long de la côte Pacifique dans sa voiture."
+      "fr": "Ron Carlson transportait de la droguele long de la côte Pacifique dans sa voiture."
     }
   },
   {
     "translation": {
       "en": "I'm here to tell a story that I truly believe is factual",
-      "fr": "Je suis venu raconter une histoire qui, j'en suis convaincu, est vraie."
+      "fr": "Je suis venu raconter une histoire qui,j'en suis convaincu, est vraie."
     }
   },
   {
@@ -2323,8 +2341,8 @@
   },
   {
     "translation": {
-      "en": "And he kept saying, You don't believe me, do you?",
-      "fr": "Il répétait : Vous n'y croyez pas ?"
+      "en": "And he kept saying, \"You don't believe me, do you?",
+      "fr": "Il répétait : \"Vous n'y croyez pas ?\""
     }
   },
   {
@@ -2335,49 +2353,49 @@
   },
   {
     "translation": {
-      "en": "And he says, I'm gonna tell you something that will prove to you who I am.",
-      "fr": "Il a dit : Je vais vous prouver qui je suis."
+      "en": "And he says, \"I'm gonna tell you something that will prove to you who I am.\"",
+      "fr": "Il a dit :\"Je vais vous prouver qui je suis.\""
     }
   },
   {
     "translation": {
-      "en": "He said, That couple over there. We said, Yeah?",
-      "fr": "Ce couple là-bas. On a dit : Oui ?"
+      "en": "He said, \"That couple over there.\" We said, \"Yeah?\"",
+      "fr": "\"Ce couple là-bas.\" On a dit : \"Oui ?\""
     }
   },
   {
     "translation": {
-      "en": "He says, They and their son… They were a hippie- looking couple.",
-      "fr": "Il a dit : Leur fils et eux… C'était un couple de hippies."
+      "en": "He says, \"They and their son…\" They were a hippie-looking couple.",
+      "fr": "Il a dit : \"Leur fils et eux…\"C'était un couple de hippies."
     }
   },
   {
     "translation": {
-      "en": "…are the ones that are going to find my money.",
-      "fr": "…ce sont eux qui vont retrouver mon argent."
+      "en": "\"…are the ones that are going to find my money.\"",
+      "fr": "\"…ce sont euxqui vont retrouver mon argent.\""
     }
   },
   {
     "translation": {
-      "en": "Dick Briggs says, On that north shore, in three days,",
-      "fr": "Il a dit : Sur le littoral nord, dans trois jours,"
+      "en": "[Colbert] Dick Briggs says, \"On that north shore, in three days,",
+      "fr": "Il a dit : \"Sur le littoral nord,dans trois jours,"
     }
   },
   {
     "translation": {
-      "en": "they're gonna find some of my money. Meaning Cooper's money.",
-      "fr": "ils vont en retrouver une partie. L'argent de Cooper."
+      "en": "they're gonna find some of my money.\" Meaning Cooper's money.",
+      "fr": "ils vont en retrouver une partie.\"L'argent de Cooper."
     }
   },
   {
     "translation": {
-      "en": "And that's when I knew, Whoa.",
-      "fr": "Je me suis dit : Ouah !"
+      "en": "And that's when I knew, \"Whoa.\"",
+      "fr": "Je me suis dit : \"Ouah !\""
     }
   },
   {
     "translation": {
-      "en": "The money was found here,",
+      "en": "[reporter] The money was found here,",
       "fr": "L'argent a été trouvé ici,"
     }
   },
@@ -2395,14 +2413,14 @@
   },
   {
     "translation": {
-      "en": "I got ready to set it down, and my son ran up and said, Wait, Daddy.",
-      "fr": "J'allais le poser et mon fils est arrivé : Attends, papa."
+      "en": "I got ready to set it down, and my son ran up and said, \"Wait, Daddy.\"",
+      "fr": "J'allais le poser et mon fils est arrivé :\"Attends, papa.\""
     }
   },
   {
     "translation": {
       "en": "So he raked a place in the sand there, and there it was.",
-      "fr": "Il a passé son râteau dans le sable et c'était là."
+      "fr": "Il a passé son râteau dans le sableet c'était là."
     }
   },
   {
@@ -2419,8 +2437,8 @@
   },
   {
     "translation": {
-      "en": "it hopes will help them solve the eight- and- a- half- year- old mystery",
-      "fr": "pour résoudre le mystère vieux de huit ans et demi"
+      "en": "it hopes will help them solve the eight-and-a-half-year-old mystery",
+      "fr": "pour résoudrele mystère vieux de huit ans et demi"
     }
   },
   {
@@ -2431,14 +2449,14 @@
   },
   {
     "translation": {
-      "en": "A few days after that party, all of a sudden this news alert come by.",
-      "fr": "Quelques jours après cette soirée, il y a eu un flash info."
+      "en": "[Carlson] A few days after that party, all of a sudden this news alert come by.",
+      "fr": "Quelques jours après cette soirée,il y a eu un flash info."
     }
   },
   {
     "translation": {
       "en": "And it said that they had found, I believe it was like $6,000",
-      "fr": "Il disait qu'ils avaient trouvé 6 000 $, je crois,"
+      "fr": "Il disaitqu'ils avaient trouvé 6 000 $, je crois,"
     }
   },
   {
@@ -2450,7 +2468,7 @@
   {
     "translation": {
       "en": "And when they showed the people who found the money,",
-      "fr": "Quand ils ont montré ceux qui avaient trouvé l'argent,"
+      "fr": "Quand ils ont montréceux qui avaient trouvé l'argent,"
     }
   },
   {
@@ -2461,14 +2479,14 @@
   },
   {
     "translation": {
-      "en": "In my years of knowing Brian Ingram and his family,",
+      "en": "[Kaye] In my years of knowing Brian Ingram and his family,",
       "fr": "Je connais les Ingram depuis des années."
     }
   },
   {
     "translation": {
       "en": "I've seen nothing that would indicate they had any nefarious connection",
-      "fr": "Rien n'indiquait qu'ils avaient quoi que ce soit à voir"
+      "fr": "Rien n'indiquait qu'ils avaientquoi que ce soit à voir"
     }
   },
   {
@@ -2480,7 +2498,7 @@
   {
     "translation": {
       "en": "So I believe Brian Ingram is an innocent bystander,",
-      "fr": "Je pense que Brian Ingram est un témoin innocent,"
+      "fr": "Je pense que Brian Ingramest un témoin innocent,"
     }
   },
   {
@@ -2491,50 +2509,50 @@
   },
   {
     "translation": {
-      "en": "Though these are the first pieces of this complex puzzle",
-      "fr": "Ces premiers éléments de ce mystère complexe"
+      "en": "[reporter] Though these are the first pieces of this complex puzzle",
+      "fr": "Ces premiers élémentsde ce mystère complexe"
     }
   },
   {
     "translation": {
       "en": "to surface in all these years, they are not falling into place easily.",
-      "fr": "à apparaître depuis toutes ces années ne s'imbriquent pas aisément."
+      "fr": "à apparaître depuis toutes ces annéesne s'imbriquent pas aisément."
     }
   },
   {
     "translation": {
-      "en": "Suddenly, 40 years later, we have a guy",
+      "en": "[Colbert] Suddenly, 40 years later, we have a guy",
       "fr": "Un type prétend, au bout de 40 ans,"
     }
   },
   {
     "translation": {
       "en": "who claims, basically, that Dick Briggs planted the money on the beach,",
-      "fr": "que Dick Briggs a placé l'argent sur la plage,"
+      "fr": "que Dick Briggs a placé l'argentsur la plage,"
     }
   },
   {
     "translation": {
       "en": "showing that it was set up, and that Cooper could be alive.",
-      "fr": "que c'était un coup monté et que Cooper serait en vie."
+      "fr": "que c'était un coup montéet que Cooper serait en vie."
     }
   },
   {
     "translation": {
-      "en": "And that's when I turned to my wife and I said, I think we got a wild one.",
-      "fr": "Là, j'ai dit à ma femme : Cette fois, c'est du solide."
+      "en": "And that's when I turned to my wife and I said, \"I think we got a wild one.\"",
+      "fr": "Là, j'ai dit à ma femme :\"Cette fois, c'est du solide.\""
     }
   },
   {
     "translation": {
-      "en": "Dick Briggs was perfectly capable of doing what it took to hijack this airplane.",
-      "fr": "Dick Briggs était parfaitement capable de détourner cet avion."
+      "en": "[Carlson] Dick Briggs was perfectly capable of doing what it took to hijack this airplane.",
+      "fr": "Dick Briggs était parfaitement capablede détourner cet avion."
     }
   },
   {
     "translation": {
       "en": "According to him, he'd been a Special Forces soldier during the Vietnam War.",
-      "fr": "Il disait avoir dans les forces spéciales pendant la guerre du Vietnam."
+      "fr": "Il disait avoir dans les forces spécialespendant la guerre du Vietnam."
     }
   },
   {
@@ -2546,13 +2564,13 @@
   {
     "translation": {
       "en": "He was familiar with the area. I'm sure he'd planned it out.",
-      "fr": "Il connaissait la région. Il avait tout prévu."
+      "fr": "Il connaissait la région.Il avait tout prévu."
     }
   },
   {
     "translation": {
       "en": "I mean, he had the physical and mental abilities.",
-      "fr": "Il avait les capacités physiques et mentales."
+      "fr": "Il avait les capacités physiqueset mentales."
     }
   },
   {
@@ -2569,8 +2587,8 @@
   },
   {
     "translation": {
-      "en": "One of his buddies from college told me that Dick lost his temper a lot.",
-      "fr": "Un de ses amis de fac m'a raconté que Dick se mettait souvent en colère."
+      "en": "[Colbert] One of his buddies from college told me that Dick lost his temper a lot.",
+      "fr": "Un de ses amis de fac m'a raconté que Dickse mettait souvent en colère."
     }
   },
   {
@@ -2582,30 +2600,30 @@
   {
     "translation": {
       "en": "He would get angry after a few beers and throw trash cans through windows at bars.",
-      "fr": "Il s'emportait après quelques bières et saccageait des bars."
+      "fr": "Il s'emportait après quelques bièreset saccageait des bars."
     }
   },
   {
     "translation": {
-      "en": "A lot of people feared him.",
+      "en": "[Robert] A lot of people feared him.",
       "fr": "Il était craint."
     }
   },
   {
     "translation": {
-      "en": "He was a weightlifter, bench- pressed 425 pounds.",
-      "fr": "Il pouvait soulever 192 kilos au développé couché."
+      "en": "He was a weightlifter, bench-pressed 425 pounds.",
+      "fr": "Il pouvait soulever 192 kilosau développé couché."
     }
   },
   {
     "translation": {
       "en": "You know, they called him Bugsy because he was a little squirrelly.",
-      "fr": "Ils l'appelaient Bugsy parce qu'il était un peu instable."
+      "fr": "Ils l'appelaient Bugsyparce qu'il était un peu instable."
     }
   },
   {
     "translation": {
-      "en": "The first time I met Dick Briggs,",
+      "en": "[Hunt] The first time I met Dick Briggs,",
       "fr": "Quand j'ai rencontré Dick Briggs,"
     }
   },
@@ -2624,25 +2642,25 @@
   {
     "translation": {
       "en": "and immediately proceeds to eat the glass.",
-      "fr": "et s'est immédiatement mis à manger le verre."
+      "fr": "et s'est immédiatement mis à mangerle verre."
     }
   },
   {
     "translation": {
       "en": "Blood is dripping down his face. He's chewing the glass.",
-      "fr": "Son visage était en sang, il mâchait le verre."
+      "fr": "Son visage était en sang,il mâchait le verre."
     }
   },
   {
     "translation": {
-      "en": "According to his family, Dick Briggs did lots of parlor tricks.",
-      "fr": "D'après sa famille, Dick Briggs aimait amuser la galerie."
+      "en": "[Carlson] According to his family, Dick Briggs did lots of parlor tricks.",
+      "fr": "D'après sa famille,Dick Briggs aimait amuser la galerie."
     }
   },
   {
     "translation": {
       "en": "He could take a woman's hat pin, stick it all the way through his forearm,",
-      "fr": "Il prenait une épingle à chapeau, se la plantait dans le bras,"
+      "fr": "Il prenait une épingle à chapeau,se la plantait dans le bras,"
     }
   },
   {
@@ -2660,19 +2678,19 @@
   {
     "translation": {
       "en": "that, every year, held an annual D.B. Cooper festival.",
-      "fr": "qui organisait chaque année une fête de D.B. Cooper."
+      "fr": "qui organisait chaque annéeune fête de D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "All he'd keep saying is, I just want to tell these people who I am.",
-      "fr": "Il répétait : J'ai envie de leur dire qui je suis."
+      "en": "All he'd keep saying is, \"I just want to tell these people who I am.\"",
+      "fr": "Il répétait :\"J'ai envie de leur dire qui je suis.\""
     }
   },
   {
     "translation": {
-      "en": "And They're here for me.",
-      "fr": "Ils sont là pour moi."
+      "en": "And \"They're here for me.\"",
+      "fr": "\"Ils sont là pour moi.\""
     }
   },
   {
@@ -2690,25 +2708,25 @@
   {
     "translation": {
       "en": "I think D.B. is, like, the coolest guy in America.",
-      "fr": "Je trouve que D.B. est le mec le plus cool d'Amérique."
+      "fr": "Je trouve que D.B.est le mec le plus cool d'Amérique."
     }
   },
   {
     "translation": {
-      "en": "- Is it on? - Yeah.",
-      "fr": "- Ça tourne ? - Oui."
+      "en": "-[Colbert] Is it on? -[man] Yeah.",
+      "fr": "- Ça tourne ?- Oui."
     }
   },
   {
     "translation": {
-      "en": "- Let me get focused. - Perfect.",
-      "fr": "- Je fais le point. - Parfait."
+      "en": "-Let me get focused. -[Colbert] Perfect.",
+      "fr": "- Je fais le point.- Parfait."
     }
   },
   {
     "translation": {
       "en": "When I realized Dick Briggs could be Cooper,",
-      "fr": "Voyant que Dick Briggs pouvait être Cooper,"
+      "fr": "Voyant que Dick Briggspouvait être Cooper,"
     }
   },
   {
@@ -2726,19 +2744,19 @@
   {
     "translation": {
       "en": "When Rich brought me this drug trafficker, Ron Carlson,",
-      "fr": "Quand Rich m'a amené ce trafiquant, Ron Carlson,"
+      "fr": "Quand Rich m'a amené ce trafiquant,Ron Carlson,"
     }
   },
   {
     "translation": {
       "en": "I did due diligence to make sure he's telling the truth about Dick Briggs.",
-      "fr": "J'ai enquêté pour m'assurer qu'il disait vrai sur Dick Briggs."
+      "fr": "J'ai enquêté pour m'assurerqu'il disait vrai sur Dick Briggs."
     }
   },
   {
     "translation": {
       "en": "We interviewed Ron Carlson three times, once under a lie detector.",
-      "fr": "On a interrogé Ron Carlson trois fois, dont une au polygraphe."
+      "fr": "On a interrogé Ron Carlson trois fois,dont une au polygraphe."
     }
   },
   {
@@ -2749,14 +2767,14 @@
   },
   {
     "translation": {
-      "en": "We had FBI agent Jack Trimarco do the test.",
-      "fr": "L'agent du FBI Jack Trimarco a mené le test."
+      "en": "[Colbert] We had FBI agent Jack Trimarco do the test.",
+      "fr": "L'agent du FBI Jack Trimarcoa mené le test."
     }
   },
   {
     "translation": {
-      "en": "I went to polygraph school at the Department of Defense Polygraph Institute",
-      "fr": "J'ai appris à utiliser le polygraphe au ministère de la Défense,"
+      "en": "[Trimarco] I went to polygraph school at the Department of Defense Polygraph Institute",
+      "fr": "J'ai appris à utiliser le polygrapheau ministère de la Défense,"
     }
   },
   {
@@ -2768,7 +2786,7 @@
   {
     "translation": {
       "en": "Jack Trimarco is the best of the best when it comes to polygraph.",
-      "fr": "Il n'y a pas meilleur que Jack Trimarco, en matière de polygraphe."
+      "fr": "Il n'y a pas meilleur que Jack Trimarco,en matière de polygraphe."
     }
   },
   {
@@ -2779,14 +2797,14 @@
   },
   {
     "translation": {
-      "en": "I'll ask you to lean forward in the chair",
+      "en": "[Trimarco] I'll ask you to lean forward in the chair",
       "fr": "Penchez-vous en avant."
     }
   },
   {
     "translation": {
       "en": "and put your arms out in front like you're gonna dive into a pool.",
-      "fr": "Les bras devant, comme pour plonger dans une piscine."
+      "fr": "Les bras devant,comme pour plonger dans une piscine."
     }
   },
   {
@@ -2798,19 +2816,19 @@
   {
     "translation": {
       "en": "Anything that's going on that's physiological, that's an anomaly, is gonna come through loud and clear to me.",
-      "fr": "Toutes les anomalies physiologiques me seront évidentes."
+      "fr": "Toutes les anomalies physiologiquesme seront évidentes."
     }
   },
   {
     "translation": {
       "en": "Meaning how the body changes for those few precious seconds…",
-      "fr": "C'est-à-dire les changements du corps pendant les secondes"
+      "fr": "C'est-à-dire les changements du corpspendant les secondes"
     }
   },
   {
     "translation": {
       "en": "when a person knows that they're telling a lie.",
-      "fr": "durant lesquelles une personne sait qu'elle ment."
+      "fr": "durant lesquellesune personne sait qu'elle ment."
     }
   },
   {
@@ -2822,7 +2840,7 @@
   {
     "translation": {
       "en": "Did Dick Briggs ever tell you that he was D.B. Cooper?",
-      "fr": "Dick Briggs vous a-t-il déjà dit qu'il était D.B. Cooper ?"
+      "fr": "Dick Briggs vous a-t-il déjà ditqu'il était D.B. Cooper ?"
     }
   },
   {
@@ -2833,14 +2851,14 @@
   },
   {
     "translation": {
-      "en": "For the question,",
+      "en": "[Trimarco] For the question,",
       "fr": "À la question"
     }
   },
   {
     "translation": {
-      "en": "Were you told by Dick Briggs that he was D.B. Cooper?",
-      "fr": "Dick Briggs vous a-t-il dit qu'il était Cooper ?"
+      "en": "\"Were you told by Dick Briggs that he was D.B. Cooper?\"",
+      "fr": "\"Dick Briggs vous a-t-il ditqu'il était Cooper ?\""
     }
   },
   {
@@ -2852,43 +2870,43 @@
   {
     "translation": {
       "en": "Have you ever lied to an authority figure?",
-      "fr": "Avez-vous déjà menti à une figure d'autorité ?"
+      "fr": "Avez-vous déjà mentià une figure d'autorité ?"
     }
   },
   {
     "translation": {
-      "en": "After the lie detector test, I told Rich, I think he's telling the truth.",
-      "fr": "Après le test, j'ai dit à Rich : Je pense qu'il dit vrai."
+      "en": "[Colbert] After the lie detector test, I told Rich, \"I think he's telling the truth.\"",
+      "fr": "Après le test, j'ai dit à Rich :\"Je pense qu'il dit vrai.\""
     }
   },
   {
     "translation": {
       "en": "So then we started doing the research to see if Dick Briggs was D.B. Cooper.",
-      "fr": "Donc on a entamé des recherches pour voir si Dick Briggs était D.B. Cooper."
+      "fr": "Donc on a entamé des recherches pourvoir si Dick Briggs était D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "D.B. Cooper was a Walter Mitty kind of man.",
-      "fr": "D.B. Cooper était une sorte de Walter Mitty."
+      "en": "[man] D.B. Cooper was a Walter Mitty kind of man.",
+      "fr": "D.B. Cooper étaitune sorte de Walter Mitty."
     }
   },
   {
     "translation": {
-      "en": "Ever since boyhood, he had bolstered his self- confidence",
-      "fr": "Depuis son enfance, il avait renforcé sa confiance en lui-même"
+      "en": "Ever since boyhood, he had bolstered his self-confidence",
+      "fr": "Depuis son enfance,il avait renforcé sa confiance en lui-même"
     }
   },
   {
     "translation": {
       "en": "by fantasizing wild adventures in which he, of course, was the hero.",
-      "fr": "en rêvant à des aventures folles dont il était, bien sûr, le héros."
+      "fr": "en rêvant à des aventures follesdont il était, bien sûr, le héros."
     }
   },
   {
     "translation": {
-      "en": "One day, we found out that Dick Briggs died mysteriously.",
-      "fr": "Un jour, on a vu que Briggs était mort dans des circonstances mystérieuses."
+      "en": "[Colbert] One day, we found out that Dick Briggs died mysteriously.",
+      "fr": "Un jour, on a vu que Briggs était mortdans des circonstances mystérieuses."
     }
   },
   {
@@ -2899,7 +2917,7 @@
   },
   {
     "translation": {
-      "en": "It was a one- car accident in the middle of nowhere in Portland.",
+      "en": "It was a one-car accident in the middle of nowhere in Portland.",
       "fr": "Un accident sans autre voiture à Portland."
     }
   },
@@ -2912,7 +2930,7 @@
   {
     "translation": {
       "en": "But that's where his story had a real problem.",
-      "fr": "Mais c'est là que son histoire ne collait pas."
+      "fr": "Mais c'est là que son histoirene collait pas."
     }
   },
   {
@@ -2930,12 +2948,12 @@
   {
     "translation": {
       "en": "But then I find out he's never been to Vietnam, can't parachute.",
-      "fr": "Mais j'ai appris qu'il n'avait ni fait le Vietnam, ni appris à sauter."
+      "fr": "Mais j'ai appris qu'il n'avaitni fait le Vietnam, ni appris à sauter."
     }
   },
   {
     "translation": {
-      "en": "He was a part- time weekend warrior for the Air Force,",
+      "en": "He was a part-time weekend warrior for the Air Force,",
       "fr": "C'était un réserviste de l'Air Force,"
     }
   },
@@ -2947,13 +2965,13 @@
   },
   {
     "translation": {
-      "en": "Right at that point, I'm looking at this man and thinking, I got the wrong guy.",
-      "fr": "À ce moment-là, je me suis dit : Ce n'est pas notre homme."
+      "en": "Right at that point, I'm looking at this man and thinking, \"I got the wrong guy.\"",
+      "fr": "À ce moment-là, je me suis dit :\"Ce n'est pas notre homme.\""
     }
   },
   {
     "translation": {
-      "en": "Here are the facts as we know them.",
+      "en": "[news anchor] Here are the facts as we know them.",
       "fr": "Les faits tels qu'on les connaît."
     }
   },
@@ -2966,43 +2984,43 @@
   {
     "translation": {
       "en": "Dick Briggs was a short, stocky, just gigantic, muscular man.",
-      "fr": "Dick Briggs était un homme petit, trapu et extrêmement musclé."
+      "fr": "Dick Briggs était un homme petit,trapu et extrêmement musclé."
     }
   },
   {
     "translation": {
-      "en": "Briggs wasn't the guy.",
+      "en": "[Kashanski] Briggs wasn't the guy.",
       "fr": "Ce n'était pas Briggs."
     }
   },
   {
     "translation": {
-      "en": "He was just some braggart saying, I'm D.B. Cooper, you know?",
-      "fr": "Il disait juste Je suis D.B. Cooper pour se faire mousser."
+      "en": "He was just some braggart saying, \"I'm D.B. Cooper,\" you know?",
+      "fr": "Il disait juste \"Je suis D.B. Cooper\"pour se faire mousser."
     }
   },
   {
     "translation": {
-      "en": "We were thinking, Hey, this is over.",
+      "en": "We were thinking, \"Hey, this is over.\"",
       "fr": "On s'est dit que c'était fichu."
     }
   },
   {
     "translation": {
-      "en": "Ron Carlson felt terrible,",
-      "fr": "Ron Carlson était très affecté, car 40 ans durant,"
+      "en": "[Colbert] Ron Carlson felt terrible,",
+      "fr": "Ron Carlson était très affecté,car 40 ans durant,"
     }
   },
   {
     "translation": {
       "en": "'cause for 40 years, he was told this man was Cooper.",
-      "fr": "Ron Carlson était très affecté, car 40 ans durant, il a cru que c'était Cooper."
+      "fr": "Ron Carlson était très affecté,car 40 ans durant, il a cru que c'était Cooper."
     }
   },
   {
     "translation": {
       "en": "Didn't even look like him, but he believed him because he had the money found.",
-      "fr": "Aucune ressemblance, mais il avait parlé de l'argent."
+      "fr": "Aucune ressemblance,mais il avait parlé de l'argent."
     }
   },
   {
@@ -3026,43 +3044,43 @@
   {
     "translation": {
       "en": "All who look for Cooper experience something called the Cooper curse.",
-      "fr": "Ceux qui cherchent Cooper vivent la soi-disant la malédiction Cooper."
+      "fr": "Ceux qui cherchent Cooper viventla soi-disant la malédiction Cooper."
     }
   },
   {
     "translation": {
       "en": "We don't know who he is or was, where he came from or where he went.",
-      "fr": "On ignore qui il est, d'où il vient et où il est passé."
+      "fr": "On ignore qui il est,d'où il vient et où il est passé."
     }
   },
   {
     "translation": {
-      "en": "This case is booby- trapped.",
+      "en": "[Gray] This case is booby-trapped.",
       "fr": "Cette affaire est piégée."
     }
   },
   {
     "translation": {
       "en": "Just as you get close to really thinking you know who the hijacker is,",
-      "fr": "Dès qu'on se croit sur le point de découvrir son identité,"
+      "fr": "Dès qu'on se croitsur le point de découvrir son identité,"
     }
   },
   {
     "translation": {
       "en": "something comes along the way and shows you that it's wrong.",
-      "fr": "un élément apparaît et vous prouve que c'est faux."
+      "fr": "un élément apparaîtet vous prouve que c'est faux."
     }
   },
   {
     "translation": {
       "en": "This one is not solved, and we're still after D.B. Cooper.",
-      "fr": "Cette affaire n'est pas élucidée et on recherche toujours D.B. Cooper."
+      "fr": "Cette affaire n'est pas élucidéeet on recherche toujours D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "We may never know what happened to D.B. Cooper or who he is,",
-      "fr": "On ne saura peut-être jamais où est D.B. Cooper, ni qui il est."
+      "en": "[reporter] We may never know what happened to D.B. Cooper or who he is,",
+      "fr": "On ne saura peut-être jamaisoù est D.B. Cooper, ni qui il est."
     }
   },
   {
@@ -3073,14 +3091,14 @@
   },
   {
     "translation": {
-      "en": "When I started the case, I thought I could solve it too. I thought I could solve this case.",
-      "fr": "Quand j'ai commencé à enquêter, moi aussi je me suis cru à la hauteur."
+      "en": "[Gray] When I started the case, I thought I could solve it too. I thought I could solve this case.",
+      "fr": "Quand j'ai commencé à enquêter,moi aussi je me suis cru à la hauteur."
     }
   },
   {
     "translation": {
       "en": "At the time, I was working as a reporter and writer in southern Manhattan.",
-      "fr": "À l'époque, j'étais reporter à Manhattan, j'écrivais des papiers."
+      "fr": "À l'époque, j'étais reporter à Manhattan,j'écrivais des papiers."
     }
   },
   {
@@ -3098,13 +3116,13 @@
   {
     "translation": {
       "en": "is taking on the hard cases. You know, the stuff that is just impossible to solve.",
-      "fr": "j'aime m'occuper des affaires difficiles, de celles impossibles à résoudre."
+      "fr": "j'aime m'occuper des affaires difficiles,de celles impossibles à résoudre."
     }
   },
   {
     "translation": {
       "en": "And when I first got a tip about D.B. Cooper, I knew that he was mine.",
-      "fr": "Quand j'ai eu le tuyau sur D.B. Cooper, j'ai su que c'était pour moi."
+      "fr": "Quand j'ai eu le tuyau sur D.B. Cooper,j'ai su que c'était pour moi."
     }
   },
   {
@@ -3116,19 +3134,19 @@
   {
     "translation": {
       "en": "I wrote a book about the case, my first book.",
-      "fr": "J'ai écrit un livre sur l'affaire, mon premier,"
+      "fr": "J'ai écrit un livre sur l'affaire,mon premier,"
     }
   },
   {
     "translation": {
-      "en": "I thought, If I solve the case, oh, the Pulitzer Prizes and all the rewards that would come in.",
-      "fr": "en me disant que si j'élucidais l'affaire, le Pulitzer et autres prix pleuvraient."
+      "en": "I thought, \"If I solve the case, oh, the Pulitzer Prizes and all the rewards that would come in.\"",
+      "fr": "en me disant que si j'élucidais l'affaire,le Pulitzer et autres prix pleuvraient."
     }
   },
   {
     "translation": {
       "en": "Random House Audio presents Skyjack: The Hunt for D.B. Cooper",
-      "fr": "Random House Audio présente Skyjack : The Hunt for D.B. Cooper"
+      "fr": "Random House Audio présenteSkyjack : The Hunt for D.B. Cooper"
     }
   },
   {
@@ -3146,25 +3164,25 @@
   {
     "translation": {
       "en": "It took me over four years, and I'm here to tell you the curse is real.",
-      "fr": "J'y ai passé plus de quatre ans et croyez-moi, la malédiction existe."
+      "fr": "J'y ai passé plus de quatre anset croyez-moi, la malédiction existe."
     }
   },
   {
     "translation": {
-      "en": "Over the decades,",
+      "en": "[Gray's voice] Over the decades,",
       "fr": "Au fil des décennies,"
     }
   },
   {
     "translation": {
       "en": "some suspects disappeared, some suspects faked their own deaths.",
-      "fr": "certains suspects ont disparu, d'autres ont simulé leur mort."
+      "fr": "certains suspects ont disparu,d'autres ont simulé leur mort."
     }
   },
   {
     "translation": {
-      "en": "One man nearly died in a custom- built submarine,",
-      "fr": "Un homme a failli mourir dans le sous-marin"
+      "en": "One man nearly died in a custom-built submarine,",
+      "fr": "Un homme a failli mourirdans le sous-marin"
     }
   },
   {
@@ -3176,7 +3194,7 @@
   {
     "translation": {
       "en": "One renowned reporter attempted suicide after his suspect",
-      "fr": "Un journaliste connu a tenté de se suicider"
+      "fr": "Un journaliste connua tenté de se suicider"
     }
   },
   {
@@ -3188,7 +3206,7 @@
   {
     "translation": {
       "en": "Only a steady program of electroshock treatment",
-      "fr": "Il aura fallu un traitement par électrochocs"
+      "fr": "Il aura falluun traitement par électrochocs"
     }
   },
   {
@@ -3199,14 +3217,14 @@
   },
   {
     "translation": {
-      "en": "I started to see that the Cooper case was not about Cooper himself, but about the people chasing Cooper.",
-      "fr": "J'ai compris qu'il s'agissait moins de Cooper, que des gens à sa recherche."
+      "en": "[Gray] I started to see that the Cooper case was not about Cooper himself, but about the people chasing Cooper.",
+      "fr": "J'ai compris qu'il s'agissait moinsde Cooper, que des gens à sa recherche."
     }
   },
   {
     "translation": {
       "en": "People like Tom Colbert and others, and people like me.",
-      "fr": "Des gens comme Tom Colbert et des gens comme moi."
+      "fr": "Des gens comme Tom Colbertet des gens comme moi."
     }
   },
   {
@@ -3217,26 +3235,26 @@
   },
   {
     "translation": {
-      "en": "Psychologically, this case takes you into the dark divide.",
-      "fr": "L'affaire vous plonge psychologiquement dans le Dark Divide."
+      "en": "[Gray] Psychologically, this case takes you into the dark divide.",
+      "fr": "L'affaire vous plonge psychologiquementdans le Dark Divide."
     }
   },
   {
     "translation": {
       "en": "This is a case that questions who you are and what you believe,",
-      "fr": "Elle remet en cause votre personnalité et vos croyances,"
+      "fr": "Elle remet en causevotre personnalité et vos croyances,"
     }
   },
   {
     "translation": {
       "en": "what you want to believe, and what really happened.",
-      "fr": "ce que vous voulez croire et ce qui s'est passé."
+      "fr": "ce que vous voulez croireet ce qui s'est passé."
     }
   },
   {
     "translation": {
       "en": "The only one more famous in the world than D.B. Cooper is the person who finds him.",
-      "fr": "Pour être plus connu que D.B. Cooper, il faut être celui qui le trouve."
+      "fr": "Pour être plus connu que D.B. Cooper,il faut être celui qui le trouve."
     }
   },
   {
@@ -3253,13 +3271,13 @@
   },
   {
     "translation": {
-      "en": "I pulled myself back, and I was like, Why have I gone to this point",
+      "en": "I pulled myself back, and I was like, \"Why have I gone to this point",
       "fr": "J'ai pris du recul et je me suis demandé"
     }
   },
   {
     "translation": {
-      "en": "where I believe that four people are the same guy?",
+      "en": "where I believe that four people are the same guy?\"",
       "fr": "comment j'en étais venu à croire ça ?"
     }
   },
@@ -3272,24 +3290,24 @@
   {
     "translation": {
       "en": "You so want to prove that your suspect is the one",
-      "fr": "On veut à tel point prouver qu'on tient le bon suspect"
+      "fr": "On veut à tel point prouverqu'on tient le bon suspect"
     }
   },
   {
     "translation": {
       "en": "that your belief systems take over your logic.",
-      "fr": "que les croyances l'emportent sur la logique."
+      "fr": "que les croyances l'emportentsur la logique."
     }
   },
   {
     "translation": {
       "en": "Four people can't be him, and some things just can't be true.",
-      "fr": "Un homme n'en est pas quatre, certaines choses sont impossibles."
+      "fr": "Un homme n'en est pas quatre,certaines choses sont impossibles."
     }
   },
   {
     "translation": {
-      "en": "Okay, we're back here.",
+      "en": "[Colbert] Okay, we're back here.",
       "fr": "Nous revoilà ici."
     }
   },
@@ -3302,25 +3320,25 @@
   {
     "translation": {
       "en": "When we finally figured out Dick Briggs was not D.B. Cooper,",
-      "fr": "Quand on a vu que Briggs n'était pas Cooper, j'ai demandé"
+      "fr": "Quand on a vu que Briggsn'était pas Cooper, j'ai demandé"
     }
   },
   {
     "translation": {
-      "en": "I said, Could he have had a partner?",
+      "en": "I said, \"Could he have had a partner?\"",
       "fr": "s'il avait pu avoir un complice."
     }
   },
   {
     "translation": {
       "en": "Tom's tenacity is amazing. I mean, he just won't give up.",
-      "fr": "Tom est d'une ténacité incroyable. Il n'abandonne jamais."
+      "fr": "Tom est d'une ténacité incroyable.Il n'abandonne jamais."
     }
   },
   {
     "translation": {
-      "en": "You know, when he sees a dead end, I'm going, Okay, that's it,",
-      "fr": "À chaque impasse, je me dis que c'est fichu,"
+      "en": "You know, when he sees a dead end, I'm going, \"Okay, that's it,\"",
+      "fr": "À chaque impasse,je me dis que c'est fichu,"
     }
   },
   {
@@ -3331,8 +3349,8 @@
   },
   {
     "translation": {
-      "en": "I make a decision. I'm going to call the police department in Portland,",
-      "fr": "J'ai pris la décision d'appeler la police de Portland"
+      "en": "[Colbert] I make a decision. I'm going to call the police department in Portland,",
+      "fr": "J'ai pris la décisiond'appeler la police de Portland"
     }
   },
   {
@@ -3343,20 +3361,20 @@
   },
   {
     "translation": {
-      "en": "And so I call and I said, You got a narc that remembers a guy named Dick Briggs?",
-      "fr": "J'ai demandé si l'un d'eux se souvenait d'un certain Dick Briggs."
+      "en": "And so I call and I said, \"You got a narc that remembers a guy named Dick Briggs?\"",
+      "fr": "J'ai demandé si l'un d'eux se souvenaitd'un certain Dick Briggs."
     }
   },
   {
     "translation": {
-      "en": "And sure enough, a week later, I get an 80- some- odd- year- old guy who's still alive.",
-      "fr": "Une semaine plus tard, j'ai déniché un octogénaire."
+      "en": "And sure enough, a week later, I get an 80-some-odd-year-old guy who's still alive.",
+      "fr": "Une semaine plus tard,j'ai déniché un octogénaire."
     }
   },
   {
     "translation": {
-      "en": "They give me a half- dozen to a dozen neighborhood friends of Dick Briggs.",
-      "fr": "Il m'a donné une dizaine d'amis du quartier de Dick Briggs."
+      "en": "They give me a half-dozen to a dozen neighborhood friends of Dick Briggs.",
+      "fr": "Il m'a donné une dizaine d'amisdu quartier de Dick Briggs."
     }
   },
   {
@@ -3374,7 +3392,7 @@
   {
     "translation": {
       "en": "And the last guy I decide to call is the one that scares me…",
-      "fr": "J'ai gardé pour la fin celui qui m'effrayait."
+      "fr": "J'ai gardé pour la fincelui qui m'effrayait."
     }
   },
   {
@@ -3385,50 +3403,50 @@
   },
   {
     "translation": {
-      "en": "I've watched too many cowboy movies with a guy named Pudgy, pulls out a sawed- off shotgun.",
-      "fr": "J'ai vu trop de westerns avec un Pudgy qui dégaine un canon scié."
+      "en": "I've watched too many cowboy movies with a guy named Pudgy, pulls out a sawed-off shotgun.",
+      "fr": "J'ai vu trop de westerns avec un Pudgyqui dégaine un canon scié."
     }
   },
   {
     "translation": {
-      "en": "Why do they call you Pudgy?",
+      "en": "[interviewer] Why do they call you Pudgy?",
       "fr": "Pourquoi ce surnom ?"
     }
   },
   {
     "translation": {
-      "en": "When I was nine months old, I weighed 36 pounds, I believe.",
+      "en": "[Pudgy] When I was nine months old, I weighed 36 pounds, I believe.",
       "fr": "À neuf mois, je pesais 16 kilos, je crois."
     }
   },
   {
     "translation": {
-      "en": "Tell us about Briggs' friend.",
+      "en": "[interviewer] Tell us about Briggs' friend.",
       "fr": "Et l'ami de Briggs ?"
     }
   },
   {
     "translation": {
-      "en": "One time, Dick Briggs introduced a friend of his.",
-      "fr": "Une fois, Dick Briggs m'a présenté un de ses amis."
+      "en": "[Pudgy] One time, Dick Briggs introduced a friend of his.",
+      "fr": "Une fois, Dick Briggs m'a présentéun de ses amis."
     }
   },
   {
     "translation": {
       "en": "And this guy pulled out some clippings from the local newspapers…",
-      "fr": "Le type a sorti des coupures de journaux locaux"
+      "fr": "Le type a sorti des coupuresde journaux locaux"
     }
   },
   {
     "translation": {
       "en": "talking about him being a Green Beret and a medal winner in the service.",
-      "fr": "disant qu'il était béret vert et qu'on lui avait remis une médaille."
+      "fr": "disant qu'il était béret vertet qu'on lui avait remis une médaille."
     }
   },
   {
     "translation": {
-      "en": "That's when I found out Dick Briggs' partner was a guy named Robert Rackstraw.",
-      "fr": "J'ai appris que l'associé de Dick Briggs s'appelait Robert Rackstraw."
+      "en": "[Colbert] That's when I found out Dick Briggs' partner was a guy named Robert Rackstraw.",
+      "fr": "J'ai appris que l'associé de Dick Briggss'appelait Robert Rackstraw."
     }
   },
   {
@@ -3439,8 +3457,8 @@
   },
   {
     "translation": {
-      "en": "We compared a picture of Rackstraw at that age",
-      "fr": "On a comparé une photo de Rackstraw à cet âge"
+      "en": "[Kashanski] We compared a picture of Rackstraw at that age",
+      "fr": "On a comparéune photo de Rackstraw à cet âge"
     }
   },
   {
@@ -3452,19 +3470,19 @@
   {
     "translation": {
       "en": "And Rackstraw's picture was almost identical.",
-      "fr": "La photo de Rackstraw était quasi identique."
+      "fr": "La photo de Rackstrawétait quasi identique."
     }
   },
   {
     "translation": {
-      "en": "You have parachute training, as you mentioned yourself.",
+      "en": "[reporter] You have parachute training, as you mentioned yourself.",
       "fr": "Vous avez été formé au saut en parachute."
     }
   },
   {
     "translation": {
       "en": "Your background suggests that you could have been D.B. Cooper.",
-      "fr": "Avec votre profil, vous auriez pu être D.B. Cooper."
+      "fr": "Avec votre profil,vous auriez pu être D.B. Cooper."
     }
   },
   {
@@ -3482,19 +3500,19 @@
   {
     "translation": {
       "en": "At that point, I knew we had D.B. Cooper.",
-      "fr": "À ce moment-là, j'ai su qu'on tenait D.B. Cooper."
+      "fr": "À ce moment-là,j'ai su qu'on tenait D.B. Cooper."
     }
   },
   {
     "translation": {
-      "en": "And I said, Thank you, Jesus.",
-      "fr": "J'ai dit : Merci, Jésus."
+      "en": "And I said, \"Thank you, Jesus.\"",
+      "fr": "J'ai dit : \"Merci, Jésus.\""
     }
   },
   {
     "translation": {
-      "en": "With Rackstraw, I believe we have cracked a 50- year- old case.",
-      "fr": "Avec Rackstraw, je crois qu'on a résolu une affaire vieille de 50 ans."
+      "en": "With Rackstraw, I believe we have cracked a 50-year-old case.",
+      "fr": "Avec Rackstraw, je crois qu'on a résoluune affaire vieille de 50 ans."
     }
   },
   {
@@ -3505,20 +3523,20 @@
   },
   {
     "translation": {
-      "en": "where I'm whacked on the head, Oh my God, how did I find that?",
-      "fr": "où je reçois un coup sur la tête : D'où je sors ça ?"
+      "en": "where I'm whacked on the head, \"Oh my God, how did I find that?\"",
+      "fr": "où je reçois un coup sur la tête :\"D'où je sors ça ?\""
     }
   },
   {
     "translation": {
       "en": "Are you willing to state one way or the other whether or not you're D.B. Cooper?",
-      "fr": "Êtes-vous prêt à déclarer que vous êtes ou non D.B. Cooper ?"
+      "fr": "Êtes-vous prêt à déclarerque vous êtes ou non D.B. Cooper ?"
     }
   },
   {
     "translation": {
       "en": "With a story like that, should it be fiction or should it be fact?",
-      "fr": "Avec une telle histoire, ce serait réel ou fictif ?"
+      "fr": "Avec une telle histoire,ce serait réel ou fictif ?"
     }
   },
   {
@@ -3529,31 +3547,31 @@
   },
   {
     "translation": {
-      "en": "Once my team began researching Rackstraw,",
-      "fr": "Quand mon équipe a commencé à étudier Rackstraw,"
+      "en": "[Colbert] Once my team began researching Rackstraw,",
+      "fr": "Quand mon équipea commencé à étudier Rackstraw,"
     }
   },
   {
     "translation": {
       "en": "they started to find out what he was doing when he wasn't jumping from a plane.",
-      "fr": "ils ont vu ce qu'il faisait quand il ne sautait pas d'un avion."
+      "fr": "ils ont vu ce qu'il faisaitquand il ne sautait pas d'un avion."
     }
   },
   {
     "translation": {
       "en": "He had all these fake identities, multiple criminal titles.",
-      "fr": "Il avait des fausses identités, plusieurs titres criminels."
+      "fr": "Il avait des fausses identités,plusieurs titres criminels."
     }
   },
   {
     "translation": {
       "en": "The guy is off the scale. You won't believe how crazy it gets.",
-      "fr": "Il est sans commune mesure. Vous n'avez pas idée."
+      "fr": "Il est sans commune mesure.Vous n'avez pas idée."
     }
   },
   {
     "translation": {
-      "en": "Are you D.B. Cooper?",
+      "en": "[reporter] Are you D.B. Cooper?",
       "fr": "Êtes-vous D.B. Cooper ?"
     }
   },

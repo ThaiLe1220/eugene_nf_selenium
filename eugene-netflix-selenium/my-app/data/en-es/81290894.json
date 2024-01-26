@@ -1,8 +1,8 @@
 [
   {
     "translation": {
-      "en": "Why do you think it's important to tell your story?",
-      "es": "¿Por qué crees que es importante contar tu historia?"
+      "en": "[interviewer] Why do you think it's important to tell your story?",
+      "es": "¿Por qué creesque es importante contar tu historia?"
     }
   },
   {
@@ -14,7 +14,7 @@
   {
     "translation": {
       "en": "and I want people to know that I'm not… I'm not crazy,",
-      "es": "y quiero que la gente sepa que no estoy loco,"
+      "es": "y quiero que la gente sepaque no estoy loco,"
     }
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "translation": {
-      "en": "- Hello? - Sheriff's office. Sheriff's office.",
-      "es": "- ¿Hola? - Oficina del alguacil."
+      "en": "-[Anthony] Hello? -[operator] Sheriff's office. Sheriff's office.",
+      "es": "- ¿Hola?- Oficina del alguacil."
     }
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "translation": {
-      "en": "I killed my dad.",
+      "en": "[Anthony] I killed my dad.",
       "es": "Maté a mi papá."
     }
   },
   {
     "translation": {
-      "en": "The scariest thing about Anthony is I don't know if he has empathy.",
-      "es": "Lo más aterrador sobre Anthony es que no sé si tiene empatía."
+      "en": "[woman 1] The scariest thing about Anthony is I don't know if he has empathy.",
+      "es": "Lo más aterrador sobre Anthonyes que no sé si tiene empatía."
     }
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "translation": {
-      "en": "I couldn't understand why Anthony would do that.",
-      "es": "No podía entender por qué Anthony lo haría."
+      "en": "[man 1] I couldn't understand why Anthony would do that.",
+      "es": "No podía entenderpor qué Anthony lo haría."
     }
   },
   {
     "translation": {
-      "en": "Such a quiet, well- behaved young man.",
+      "en": "Such a quiet, well-behaved young man.",
       "es": "Un joven tan tranquilo y educado."
     }
   },
@@ -80,25 +80,25 @@
   {
     "translation": {
       "en": "I think he took an opportunity, and he did something about it.",
-      "es": "Creo que vio la oportunidad y la aprovechó."
+      "es": "Creo que vio la oportunidady la aprovechó."
     }
   },
   {
     "translation": {
-      "en": "I don't feel like he's guilty.",
+      "en": "[woman 2] I don't feel like he's guilty.",
       "es": "No siento que sea culpable."
     }
   },
   {
     "translation": {
       "en": "I feel like he was pushed to that point, and he was young and he broke.",
-      "es": "Creo que lo llevaron a hacerlo. Era joven y colapsó."
+      "es": "Creo que lo llevaron a hacerlo.Era joven y colapsó."
     }
   },
   {
     "translation": {
-      "en": "His father pleaded with Anthony, Don't shoot me anymore.",
-      "es": "Su padre le rogó: No me dispares más."
+      "en": "His father pleaded with Anthony, \"Don't shoot me anymore.\"",
+      "es": "Su padre le rogó: \"No me dispares más\"."
     }
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "translation": {
-      "en": "I don't know the truth.",
+      "en": "[woman 1] I don't know the truth.",
       "es": "No conozco la verdad."
     }
   },
@@ -133,7 +133,7 @@
   },
   {
     "translation": {
-      "en": "911, where is your emergency?",
+      "en": "[operator] 911, where is your emergency?",
       "es": "911, ¿cuál es su emergencia?"
     }
   },
@@ -157,56 +157,62 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Anthony] Yeah.",
       "es": "Sí."
     }
   },
   {
     "translation": {
-      "en": "Okay, and um… Is he… Is he still alive, or…?",
+      "en": "[operator] Okay, and um… Is he… Is he still alive, or…?",
       "es": "Bien, ¿y sigue con vida o…?"
     }
   },
   {
     "translation": {
-      "en": "He might be. I don't know. I shot him like three times, I think.",
-      "es": "Puede ser. No lo sé. Le disparé tres veces, creo."
+      "en": "[Anthony] He might be. I don't know. I shot him like three times, I think.",
+      "es": "Puede ser. No lo sé.Le disparé tres veces, creo."
     }
   },
   {
     "translation": {
-      "en": "- You shot him three times? - I'm not sure.",
-      "es": "- ¿Le disparó tres veces? - No sé cuántas le di. Hay sangre en el piso, así que al menos una le pegó."
+      "en": "-[operator] You shot him three times? -[Anthony] I'm not sure.",
+      "es": "- ¿Le disparó tres veces?- No sé cuántas le di. Hay sangre en el piso,así que al menos una le pegó."
     }
   },
   {
     "translation": {
       "en": "There's blood on the floor, so I know he's been shot once.",
-      "es": "Hay sangre en el piso, así que al menos una le pegó."
+      "es": "Hay sangre en el piso,así que al menos una le pegó."
     }
   },
   {
     "translation": {
-      "en": "- I shot three times at him. - Okay…",
-      "es": "- Bien. - Le disparé tres veces."
+      "en": "-I shot three times at him. -[operator] Okay…",
+      "es": "- Bien.- Le disparé tres veces."
     }
   },
   {
     "translation": {
-      "en": "He's on the ground.",
+      "en": "[Anthony] He's on the ground.",
       "es": "Está en el suelo."
     }
   },
   {
     "translation": {
-      "en": "All right, and what's your name?",
+      "en": "[operator] All right, and what's your name?",
       "es": "Bien, ¿y cómo se llama?"
     }
   },
   {
     "translation": {
-      "en": "I'm an assistant district attorney and I'm the chief of litigation here.",
-      "es": "Soy asistente del fiscal de distrito y la jefa del departamento de litigios."
+      "en": "[Anthony] Anthony Joseph Templet.",
+      "es": "Anthony Joseph Templet."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] I'm an assistant district attorney and I'm the chief of litigation here.",
+      "es": "Soy asistente del fiscal de distritoy la jefa del departamento de litigios."
     }
   },
   {
@@ -218,7 +224,7 @@
   {
     "translation": {
       "en": "it came across my phone because we'd get emails all the time",
-      "es": "lo vi en mi teléfono, porque nos llegan correos todo el tiempo"
+      "es": "lo vi en mi teléfono,porque nos llegan correos todo el tiempo"
     }
   },
   {
@@ -229,8 +235,8 @@
   },
   {
     "translation": {
-      "en": "I just remember thinking Oh, that's sad.",
-      "es": "Recuerdo que pensé: Qué triste."
+      "en": "I just remember thinking \"Oh, that's sad.",
+      "es": "Recuerdo que pensé: \"Qué triste\"."
     }
   },
   {
@@ -253,44 +259,44 @@
   },
   {
     "translation": {
-      "en": "And I thought, Hm…",
+      "en": "And I thought, \"Hm…\"",
       "es": "Recuerdo que pensé:"
     }
   },
   {
     "translation": {
-      "en": "Gosh. That-- His affect is so flat.",
-      "es": "Dios, cuánta frialdad."
+      "en": "\"Gosh. That-- His affect is so flat.\"",
+      "es": "\"Dios, cuánta frialdad\"."
     }
   },
   {
     "translation": {
-      "en": "I hear sirens.",
+      "en": "[Anthony] I hear sirens.",
       "es": "Oigo las sirenas."
     }
   },
   {
     "translation": {
-      "en": "You hear the deputies coming?",
+      "en": "[operator] You hear the deputies coming?",
       "es": "¿Oye a los oficiales?"
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Anthony] Yeah.",
       "es": "Sí."
     }
   },
   {
     "translation": {
-      "en": "This was the first time I've come to this neighborhood for a major incident.",
-      "es": "Fue la primera vez que iba ahí por un incidente grave."
+      "en": "[man 2] This was the first time I've come to this neighborhood for a major incident.",
+      "es": "Fue la primera vez que iba ahípor un incidente grave."
     }
   },
   {
     "translation": {
       "en": "There's some places that you don't expect to get phone calls or dispatches of that type.",
-      "es": "Hay sitios de donde no se esperan ese tipo de llamadas."
+      "es": "Hay sitios de donde no se esperanese tipo de llamadas."
     }
   },
   {
@@ -301,49 +307,49 @@
   },
   {
     "translation": {
-      "en": "He's waiting outside. What color are you waiting in?",
-      "es": "Está esperando afuera. ¿De qué color está vestido?"
+      "en": "[operator] He's waiting outside. What color are you waiting in?",
+      "es": "Está esperando afuera.¿De qué color está vestido?"
     }
   },
   {
     "translation": {
-      "en": "I'm outside. I'm in blue gym shorts and a gray shirt.",
-      "es": "Estoy afuera. Tengo un short azul y una camiseta gris."
+      "en": "[Anthony] I'm outside. I'm in blue gym shorts and a gray shirt.",
+      "es": "Estoy afuera.Tengo un short azul y una camiseta gris."
     }
   },
   {
     "translation": {
-      "en": "Dispatch told us that the subject said that",
-      "es": "La central nos avisó que el sujeto dijo que el arma estaba dentro de la casa,"
+      "en": "[William] Dispatch told us that the subject said that",
+      "es": "La central nos avisó que el sujeto dijoque el arma estaba dentro de la casa,"
     }
   },
   {
     "translation": {
       "en": "the firearm was inside the residence, but you don't take that for granted.",
-      "es": "La central nos avisó que el sujeto dijo que el arma estaba dentro de la casa, pero no hay que confiarse."
+      "es": "La central nos avisó que el sujeto dijoque el arma estaba dentro de la casa, pero no hay que confiarse."
     }
   },
   {
     "translation": {
       "en": "You're always going to get out with the precautions that that person is armed.",
-      "es": "Siempre hay que tomar las precauciones como si la persona estuviera armada."
+      "es": "Siempre hay que tomar las precaucionescomo si la persona estuviera armada."
     }
   },
   {
     "translation": {
-      "en": "Where exactly are you waiting?",
+      "en": "[operator] Where exactly are you waiting?",
       "es": "¿Dónde está esperando?"
     }
   },
   {
     "translation": {
-      "en": "By the road, by the mailboxes.",
+      "en": "[Anthony] By the road, by the mailboxes.",
       "es": "En la calle, junto al buzón."
     }
   },
   {
     "translation": {
-      "en": "Hands in the air!",
+      "en": "[William] Hands in the air!",
       "es": "¡Arriba las manos!"
     }
   },
@@ -374,31 +380,31 @@
   {
     "translation": {
       "en": "For the type of dispatch, yeah, that is odd.",
-      "es": "Para el tipo de incidente, sí, fue muy extraño."
+      "es": "Para el tipo de incidente,sí, fue muy extraño."
     }
   },
   {
     "translation": {
-      "en": "I didn't understand what was going on.",
+      "en": "[Anthony] I didn't understand what was going on.",
       "es": "No entendía lo que pasaba."
     }
   },
   {
     "translation": {
       "en": "I thought they needed to cuff me for a second, so that they could figure out what was going on",
-      "es": "Pensé que me esposarían un rato para ver qué estaba pasando"
+      "es": "Pensé que me esposarían un ratopara ver qué estaba pasando"
     }
   },
   {
     "translation": {
       "en": "and then they'd let me go, but it didn't go that way.",
-      "es": "y que luego me dejarían ir, pero no fue así."
+      "es": "y que luego me dejarían ir,pero no fue así."
     }
   },
   {
     "translation": {
-      "en": "We went down the driveway through the carport in the back door,",
-      "es": "Fuimos por la cochera hacia la puerta de atrás,"
+      "en": "[William] We went down the driveway through the carport in the back door,",
+      "es": "Fuimos por la cocherahacia la puerta de atrás,"
     }
   },
   {
@@ -410,7 +416,7 @@
   {
     "translation": {
       "en": "I saw one revolver laying on the kitchen island with the hammer cocked back,",
-      "es": "Vi un revólver en la isla de la cocina con el martillo jalado hacia atrás,"
+      "es": "Vi un revólver en la isla de la cocinacon el martillo jalado hacia atrás,"
     }
   },
   {
@@ -422,7 +428,7 @@
   {
     "translation": {
       "en": "We made it through the kitchen, making sure that nobody else was in the house.",
-      "es": "Entramos para asegurarnos de que no hubiera nadie más en la casa."
+      "es": "Entramos para asegurarnosde que no hubiera nadie más en la casa."
     }
   },
   {
@@ -440,7 +446,7 @@
   {
     "translation": {
       "en": "laying on the bed with the hammer back on it.",
-      "es": "sobre la cama con el martillo jalado hacia atrás."
+      "es": "sobre la camacon el martillo jalado hacia atrás."
     }
   },
   {
@@ -458,7 +464,7 @@
   {
     "translation": {
       "en": "He was laying there in a puddle of blood, still breathing.",
-      "es": "Estaba sobre un charco de sangre y aún respiraba."
+      "es": "Estaba sobre un charco de sangrey aún respiraba."
     }
   },
   {
@@ -487,26 +493,26 @@
   },
   {
     "translation": {
-      "en": "I didn't know how the system worked.",
+      "en": "[Anthony] I didn't know how the system worked.",
       "es": "No sabía cómo era el sistema."
     }
   },
   {
     "translation": {
-      "en": "So I figured, Okay… I'm gonna have to spend a little bit-- A couple days in jail.",
-      "es": "Así que pensé: Bueno, estaré unos días en la cárcel."
+      "en": "So I figured, \"Okay… I'm gonna have to spend a little bit--\" \"A couple days in jail.\"",
+      "es": "Así que pensé:\"Bueno, estaré unos días en la cárcel\"."
     }
   },
   {
     "translation": {
       "en": "But they took me down to, like, a holding cell, and started interrogating me.",
-      "es": "Pero me llevaron a una celda y comenzaron a interrogarme."
+      "es": "Pero me llevaron a una celday comenzaron a interrogarme."
     }
   },
   {
     "translation": {
       "en": "When Anthony first arrived at the Violent Crime unit,",
-      "es": "Cuando Anthony llegó a la unidad de Crímenes Violentos,"
+      "es": "Cuando Anthony llegóa la unidad de Crímenes Violentos,"
     }
   },
   {
@@ -518,18 +524,18 @@
   {
     "translation": {
       "en": "And I informed him that I was the investigator, here to talk to him.",
-      "es": "Le informé que yo era el investigador y que venía a hablar con él."
+      "es": "Le informé que yo era el investigadory que venía a hablar con él."
     }
   },
   {
     "translation": {
       "en": "Asked him would he feel like talking about what happened?",
-      "es": "Le pregunté si quería contarme lo que había pasado."
+      "es": "Le preguntési quería contarme lo que había pasado."
     }
   },
   {
     "translation": {
-      "en": "He said, Yes.",
+      "en": "He said, \"Yes.\"",
       "es": "Me dijo que sí."
     }
   },
@@ -554,7 +560,7 @@
   {
     "translation": {
       "en": "Well, it's very off and on. We've… We have trouble getting along. And um…",
-      "es": "No es constante. Nos cuesta llevarnos bien. Y…"
+      "es": "No es constante.Nos cuesta llevarnos bien. Y…"
     }
   },
   {
@@ -565,8 +571,8 @@
   },
   {
     "translation": {
-      "en": "- You don't? - No.",
-      "es": "- ¿No? - No."
+      "en": "-You don't? -No.",
+      "es": "- ¿No?- No."
     }
   },
   {
@@ -578,19 +584,19 @@
   {
     "translation": {
       "en": "Well, I don't know. He just holds things over your head.",
-      "es": "Bueno, no lo sé. Se le meten cosas raras en la cabeza."
+      "es": "Bueno, no lo sé.Se le meten cosas raras en la cabeza."
     }
   },
   {
     "translation": {
-      "en": "He said his father would insult him,",
+      "en": "[Greg] He said his father would insult him,",
       "es": "Dijo que su padre lo insultaba,"
     }
   },
   {
     "translation": {
       "en": "call him bad names like a dickhead, or an asshole.",
-      "es": "que le decía que era un estúpido o un imbécil."
+      "es": "que le decíaque era un estúpido o un imbécil."
     }
   },
   {
@@ -607,14 +613,14 @@
   },
   {
     "translation": {
-      "en": "Let's talk about yesterday.",
+      "en": "[Greg] Let's talk about yesterday.",
       "es": "Hablemos de lo que pasó ayer."
     }
   },
   {
     "translation": {
       "en": "It was pretty normal. Had dinner. It was all good.",
-      "es": "Fue un día normal. Cenamos. Todo estaba bien."
+      "es": "Fue un día normal.Cenamos. Todo estaba bien."
     }
   },
   {
@@ -626,31 +632,31 @@
   {
     "translation": {
       "en": "And he started looking through my phone in the middle of the night,",
-      "es": "Y comenzó a revisar mi teléfono en medio de la noche."
+      "es": "Y comenzó a revisar mi teléfonoen medio de la noche."
     }
   },
   {
     "translation": {
-      "en": "and I was like, you know, Why are you looking through my phone?",
-      "es": "Le pregunté: ¿Por qué me revisas el teléfono?"
+      "en": "and I was like, you know, \"Why are you looking through my phone?\"",
+      "es": "Le pregunté:\"¿Por qué me revisas el teléfono?"
     }
   },
   {
     "translation": {
-      "en": "So, like, What the heck? And we got into a big argument.",
-      "es": "¿Qué carajo?. Y discutimos fuerte."
+      "en": "So, like, \"What the heck?\" And we got into a big argument.",
+      "es": "¿Qué carajo?\". Y discutimos fuerte."
     }
   },
   {
     "translation": {
       "en": "He was accusing me of calling-- Having calls with uh… my stepmother.",
-      "es": "Me acusaba de llamar… De haber llamado a mi madrastra."
+      "es": "Me acusaba de llamar…De haber llamado a mi madrastra."
     }
   },
   {
     "translation": {
-      "en": "Well, why wouldn't he want you to even talk to your stepmom?",
-      "es": "¿Por qué no querría que hablaras con tu madrastra?"
+      "en": "[Greg] Well, why wouldn't he want you to even talk to your stepmom?",
+      "es": "¿Por qué no querríaque hablaras con tu madrastra?"
     }
   },
   {
@@ -667,8 +673,8 @@
   },
   {
     "translation": {
-      "en": "Susan and Burt had separated for six months before.",
-      "es": "Susan y Burt se habían separado seis meses antes."
+      "en": "[Anthony] Susan and Burt had separated for six months before.",
+      "es": "Susan y Burtse habían separado seis meses antes."
     }
   },
   {
@@ -680,7 +686,7 @@
   {
     "translation": {
       "en": "He wanted to talk to her really bad, and I guess he just didn't want to feel left out, I guess.",
-      "es": "Él tenía muchas ganas de hablar con ella, y supongo que no quería sentirse excluido."
+      "es": "Él tenía muchas ganas de hablar con ella,y supongo que no quería sentirse excluido."
     }
   },
   {
@@ -692,19 +698,19 @@
   {
     "translation": {
       "en": "And then he started just yelling and going off about random stuff.",
-      "es": "Y luego empezó a gritar y recriminarme lo que fuera."
+      "es": "Y luego empezó a gritary recriminarme lo que fuera."
     }
   },
   {
     "translation": {
       "en": "Things went from verbal to physical.",
-      "es": "Las cosas pasaron de lo verbal a lo físico."
+      "es": "Las cosaspasaron de lo verbal a lo físico."
     }
   },
   {
     "translation": {
       "en": "Anthony said that Burt was trying to punch him and grab him.",
-      "es": "Anthony dijo que Burt intentaba golpearlo y agarrarlo."
+      "es": "Anthony dijo que Burtintentaba golpearlo y agarrarlo."
     }
   },
   {
@@ -716,12 +722,12 @@
   {
     "translation": {
       "en": "and managed to run out of his room into Burt's room.",
-      "es": "y logró salir corriendo de su habitación a la de Burt."
+      "es": "y logró salir corriendode su habitación a la de Burt."
     }
   },
   {
     "translation": {
-      "en": "I locked the door on him. And he started banging down the door.",
+      "en": "[Anthony] I locked the door on him. And he started banging down the door.",
       "es": "Me encerré. Comenzó a golpear la puerta."
     }
   },
@@ -740,13 +746,13 @@
   {
     "translation": {
       "en": "I didn't really know what to think. I'd figured I'd just get some guns to defend myself.",
-      "es": "No sabía qué pensar. Se me ocurrió agarrar unas armas para defenderme."
+      "es": "No sabía qué pensar. Se me ocurrióagarrar unas armas para defenderme."
     }
   },
   {
     "translation": {
-      "en": "You say, guns or a gun?",
-      "es": "¿Dijiste armas o un arma?"
+      "en": "[Greg] You say, \"guns\" or \"a gun\"?",
+      "es": "¿Dijiste \"armas\" o \"un arma\"?"
     }
   },
   {
@@ -758,13 +764,13 @@
   {
     "translation": {
       "en": "One-- I grabbed two in case one didn't work, because I'd never shot these guns in so long.",
-      "es": "Agarré dos por si una no funcionaba, porque hacía mucho que no las usaba."
+      "es": "Agarré dos por si una no funcionaba,porque hacía mucho que no las usaba."
     }
   },
   {
     "translation": {
       "en": "When somebody tell you they have a backup firearms,",
-      "es": "Cuando alguien te dice que tiene un arma extra por las dudas,"
+      "es": "Cuando alguien te diceque tiene un arma extra por las dudas,"
     }
   },
   {
@@ -776,13 +782,13 @@
   {
     "translation": {
       "en": "He had told me about past experiences with him using the firearm,",
-      "es": "Me contó sobre experiencias pasadas en las que había usado el arma,"
+      "es": "Me contó sobre experiencias pasadasen las que había usado el arma,"
     }
   },
   {
     "translation": {
       "en": "how it was easy to pull the trigger with the hammer pulled back.",
-      "es": "lo fácil que era apretar el gatillo con el martillo hacia atrás."
+      "es": "lo fácil que era apretar el gatillocon el martillo hacia atrás."
     }
   },
   {
@@ -793,14 +799,14 @@
   },
   {
     "translation": {
-      "en": "Hey. Did you tell him to stop?",
-      "es": "Oye…. ¿Le dijiste que se detuviera?"
+      "en": "\"Hey.\" Did you tell him to stop?",
+      "es": "\"Oye…\". ¿Le dijiste que se detuviera?"
     }
   },
   {
     "translation": {
-      "en": "Did you say, Hey, Dad, I got a gun?",
-      "es": "¿Le dijiste: Papá, tengo un arma?"
+      "en": "Did you say, \"Hey, Dad, I got a gun\"?",
+      "es": "¿Le dijiste: \"Papá, tengo un arma\"?"
     }
   },
   {
@@ -811,8 +817,8 @@
   },
   {
     "translation": {
-      "en": "He was like, You going to shoot me, motherfucker?",
-      "es": "Me decía: ¿Me vas a disparar, hijo de puta?."
+      "en": "He was like, \"You going to shoot me, motherfucker?\"",
+      "es": "Me decía:\"¿Me vas a disparar, hijo de puta?\"."
     }
   },
   {
@@ -859,14 +865,14 @@
   },
   {
     "translation": {
-      "en": "Burt apparently was trying to force his way in the room.",
-      "es": "Al parecer, Burt intentaba entrar a la fuerza."
+      "en": "[Greg] Burt apparently was trying to force his way in the room.",
+      "es": "Al parecer,Burt intentaba entrar a la fuerza."
     }
   },
   {
     "translation": {
       "en": "There was evidence of that from the crack on the door.",
-      "es": "Descubrimos evidencia de eso por unas rajaduras en la puerta."
+      "es": "Descubrimos evidencia de esopor unas rajaduras en la puerta."
     }
   },
   {
@@ -920,13 +926,13 @@
   {
     "translation": {
       "en": "Or is there a window, which you could climb out of?",
-      "es": "¿O hay una ventana por la que podrías salir?"
+      "es": "¿O hay una ventanapor la que podrías salir?"
     }
   },
   {
     "translation": {
       "en": "There's a couple of windows, probably locked.",
-      "es": "Hay un par de ventanas, probablemente cerradas."
+      "es": "Hay un par de ventanas,probablemente cerradas."
     }
   },
   {
@@ -937,31 +943,31 @@
   },
   {
     "translation": {
-      "en": "- Is there a phone in there? - Yeah, there is.",
-      "es": "- ¿Hay un teléfono? - Sí."
+      "en": "-[Greg] Is there a phone in there? -Yeah, there is.",
+      "es": "- ¿Hay un teléfono?- Sí."
     }
   },
   {
     "translation": {
-      "en": "- In the room? - There is.",
-      "es": "- ¿En la habitación? - Sí."
+      "en": "-[Greg] In the room? -There is.",
+      "es": "- ¿En la habitación?- Sí."
     }
   },
   {
     "translation": {
-      "en": "Anthony had other avenues he could have taken,",
+      "en": "[Greg] Anthony had other avenues he could have taken,",
       "es": "Anthony podía haber tomado otros caminos,"
     }
   },
   {
     "translation": {
       "en": "but Anthony clearly stated he wanted to end everything.",
-      "es": "pero fue claro cuando dijo que quería terminar con todo."
+      "es": "pero fue clarocuando dijo que quería terminar con todo."
     }
   },
   {
     "translation": {
-      "en": "Was there a choice when you opened that door?",
+      "en": "[interviewer] Was there a choice when you opened that door?",
       "es": "¿Tenías otra opción al abrir puerta?"
     }
   },
@@ -973,26 +979,26 @@
   },
   {
     "translation": {
-      "en": "How did you feel after it happened?",
+      "en": "[interviewer] How did you feel after it happened?",
       "es": "¿Y qué sentiste después?"
     }
   },
   {
     "translation": {
       "en": "I mean, I felt terrible, but, you know, I didn't see any other way.",
-      "es": "Me sentí terrible, pero no vi otra alternativa."
+      "es": "Me sentí terrible,pero no vi otra alternativa."
     }
   },
   {
     "translation": {
-      "en": "I don't believe that Anthony was is any danger.",
+      "en": "[Greg] I don't believe that Anthony was is any danger.",
       "es": "No creo que Anthony haya estado peligro."
     }
   },
   {
     "translation": {
       "en": "Anthony stated that Burt tried to physically attack him.",
-      "es": "Anthony dijo que Burt intentó atacarlo físicamente."
+      "es": "Anthony dijoque Burt intentó atacarlo físicamente."
     }
   },
   {
@@ -1004,13 +1010,13 @@
   {
     "translation": {
       "en": "indicative of being involved in a fistic altercation.",
-      "es": "que indicaran que estuvo involucrado en algún forcejeo físico."
+      "es": "que indicaran que estuvo involucradoen algún forcejeo físico."
     }
   },
   {
     "translation": {
       "en": "Your scene'll tell you a lot of things about an incident.",
-      "es": "La escena dice muchas cosas sobre un incidente."
+      "es": "La escena dice muchas cosassobre un incidente."
     }
   },
   {
@@ -1022,13 +1028,13 @@
   {
     "translation": {
       "en": "you could see overturned furniture, items that have fell to the floor.",
-      "es": "habrá muebles caídos, cosas tiradas en el suelo."
+      "es": "habrá muebles caídos,cosas tiradas en el suelo."
     }
   },
   {
     "translation": {
       "en": "The home was very, very clean. Nothing was out of order.",
-      "es": "La casa estaba muy prolija. No había nada fuera de lugar."
+      "es": "La casa estaba muy prolija.No había nada fuera de lugar."
     }
   },
   {
@@ -1040,13 +1046,13 @@
   {
     "translation": {
       "en": "Based on information learned, Anthony's statements,",
-      "es": "Según la información obtenida, la declaración de Anthony"
+      "es": "Según la información obtenida,la declaración de Anthony"
     }
   },
   {
     "translation": {
       "en": "and evidence at the scene, there was probable cause to arrest Anthony.",
-      "es": "y la evidencia en la escena, había una causa para arrestar a Anthony."
+      "es": "y la evidencia en la escena,había una causa para arrestar a Anthony."
     }
   },
   {
@@ -1064,7 +1070,7 @@
   {
     "translation": {
       "en": "that my husband was in trauma neurocritical care at Our Lady of the Lake.",
-      "es": "y me dijeron que mi esposo estaba internado en terapia intensiva."
+      "es": "y me dijeron que mi esposoestaba internado en terapia intensiva."
     }
   },
   {
@@ -1094,7 +1100,7 @@
   {
     "translation": {
       "en": "and I told him I was so sorry, that I loved him.",
-      "es": "le dije que lo sentía mucho y que lo amaba."
+      "es": "le dije que lo sentía muchoy que lo amaba."
     }
   },
   {
@@ -1123,26 +1129,26 @@
   },
   {
     "translation": {
-      "en": "At the hands of his own son.",
+      "en": "[emotionally] At the hands of his own son.",
       "es": "A manos de su propio hijo."
     }
   },
   {
     "translation": {
-      "en": "On June 6, 2019,",
+      "en": "[Greg] On June 6, 2019,",
       "es": "El 6 de junio de 2019,"
     }
   },
   {
     "translation": {
       "en": "the East Baton Rouge parish coroner's office contacted me,",
-      "es": "me llamaron de la morgue de East Baton Rouge"
+      "es": "me llamaron de la morguede East Baton Rouge"
     }
   },
   {
     "translation": {
       "en": "informed me that Burt Templet succumbed to his injuries.",
-      "es": "para informarme que Burt Templet sucumbió a sus lesiones."
+      "es": "para informarme que Burt Templetsucumbió a sus lesiones."
     }
   },
   {
@@ -1154,13 +1160,13 @@
   {
     "translation": {
       "en": "They removed fragments from his head, and a projectile from his chest.",
-      "es": "Le quitaron fragmentos de la cabeza y un proyectil del pecho."
+      "es": "Le quitaron fragmentos de la cabezay un proyectil del pecho."
     }
   },
   {
     "translation": {
       "en": "The pathologist ruled that Burt's death was a homicide.",
-      "es": "El forense dictaminó que la muerte de Burt fue un homicidio."
+      "es": "El forense dictaminóque la muerte de Burt fue un homicidio."
     }
   },
   {
@@ -1171,14 +1177,14 @@
   },
   {
     "translation": {
-      "en": "Investigators upgraded the charges against this Baton Rouge teen.",
-      "es": "Se elevaron los cargos contra el adolescente de Baton Rouge."
+      "en": "[reporter] Investigators upgraded the charges against this Baton Rouge teen.",
+      "es": "Se elevaron los cargoscontra el adolescente de Baton Rouge."
     }
   },
   {
     "translation": {
       "en": "He is accused of shooting his father, Burt Templet.",
-      "es": "Está acusado de dispararle a su padre, Burt Templet."
+      "es": "Está acusado de dispararle a su padre,Burt Templet."
     }
   },
   {
@@ -1189,14 +1195,14 @@
   },
   {
     "translation": {
-      "en": "That means 17- year- old Anthony Templet will now face manslaughter charges.",
-      "es": "Eso significa que Anthony Templet, de 17 años, enfrenta cargos por homicidio."
+      "en": "That means 17-year-old Anthony Templet will now face manslaughter charges.",
+      "es": "Eso significa que Anthony Templet,de 17 años, enfrenta cargos por homicidio."
     }
   },
   {
     "translation": {
       "en": "Neighbors we spoke with today say that teen's father, Burt Templet,",
-      "es": "Los vecinos dicen que el padre del joven, Burt Templet,"
+      "es": "Los vecinos dicenque el padre del joven, Burt Templet,"
     }
   },
   {
@@ -1214,7 +1220,7 @@
   {
     "translation": {
       "en": "but those that we spoke with said hardly anyone actually spent time",
-      "es": "pero aquellos con los que hablamos dijeron que no pasaban tiempo"
+      "es": "pero aquellos con los que hablamosdijeron que no pasaban tiempo"
     }
   },
   {
@@ -1226,7 +1232,7 @@
   {
     "translation": {
       "en": "When this story fell into my lap, we had the basic information on it,",
-      "es": "Cuando me llegó esta historia, teníamos la información básica,"
+      "es": "Cuando me llegó esta historia,teníamos la información básica,"
     }
   },
   {
@@ -1244,49 +1250,49 @@
   {
     "translation": {
       "en": "to try and figure out, to put on the news that night, was what happened.",
-      "es": "intentar averiguar qué pasó para pasarlo en las noticias esa noche."
+      "es": "intentar averiguar qué pasópara pasarlo en las noticias esa noche."
     }
   },
   {
     "translation": {
       "en": "My first involvement in this story was knocking on doors in the neighborhood,",
-      "es": "Mi primer acercamiento fue ir a tocar las puertas de los vecinos"
+      "es": "Mi primer acercamientofue ir a tocar las puertas de los vecinos"
     }
   },
   {
     "translation": {
       "en": "trying to just get the most basic information of who these people were.",
-      "es": "para tener algo de información básica de quiénes eran estas personas."
+      "es": "para tener algo de información básicade quiénes eran estas personas."
     }
   },
   {
     "translation": {
       "en": "It's not a large neighborhood. People know each other. Neighbors talk to each other.",
-      "es": "No es un barrio grande. La gente se conoce. Los vecinos hablan."
+      "es": "No es un barrio grande.La gente se conoce. Los vecinos hablan."
     }
   },
   {
     "translation": {
       "en": "It's people that you'd have over to watch the game, or have over for dinner or…",
-      "es": "Son las personas que invitarías a ver el partido o a cenar…"
+      "es": "Son las personas que invitaríasa ver el partido o a cenar…"
     }
   },
   {
     "translation": {
       "en": "It's just your good Southern American families.",
-      "es": "Son buenas familias del sur de Estados Unidos."
+      "es": "Son buenas familiasdel sur de Estados Unidos."
     }
   },
   {
     "translation": {
       "en": "They were shaken a bit that this crime had happened right next door to them,",
-      "es": "Les conmovió un poco que semejante crimen hubiera pasado allí,"
+      "es": "Les conmovió un poco que semejante crimenhubiera pasado allí,"
     }
   },
   {
     "translation": {
       "en": "in a neighborhood that never had anything go on in it,",
-      "es": "en un barrio en el que nunca había pasado nada,"
+      "es": "en un barrioen el que nunca había pasado nada,"
     }
   },
   {
@@ -1309,8 +1315,8 @@
   },
   {
     "translation": {
-      "en": "The thing that bothered me about Burt is he would really boast about",
-      "es": "Lo que me molestaba de Burt era que fanfarroneaba… ENTREVISTA DE LA FISCALÍA"
+      "en": "[neighbor 1] The thing that bothered me about Burt is he would really boast about",
+      "es": "Lo que me molestaba de Burtera que fanfarroneaba… ENTREVISTA DE LA FISCALÍA"
     }
   },
   {
@@ -1321,20 +1327,20 @@
   },
   {
     "translation": {
-      "en": "He was definitely odd. He was definitely off.",
+      "en": "[neighbor 2] He was definitely odd. He was definitely off.",
       "es": "Sin duda era raro. No era normal."
     }
   },
   {
     "translation": {
       "en": "I got a phone call from somebody on Gray Moss.",
-      "es": "Recibí una llamada de alguien en Gray Moss,"
+      "es": "Recibí una llamadade alguien en Gray Moss,"
     }
   },
   {
     "translation": {
       "en": "And they said that Burt had come over there and knocked on the door,",
-      "es": "que dijo que Burt había ido a golpearle la puerta"
+      "es": "que dijo que Burt había idoa golpearle la puerta"
     }
   },
   {
@@ -1345,13 +1351,13 @@
   },
   {
     "translation": {
-      "en": "And the husband said, He was drunk, he'd been drinking, and we told him to stay away from our house and from our property.",
-      "es": "Y el esposo dijo: Estaba ebrio, le dijimos que se fuera de nuestra casa."
+      "en": "And the husband said, \"He was drunk, he'd been drinking, and we told him to stay away from our house and from our property.\"",
+      "es": "Y el esposo dijo: \"Estaba ebrio,le dijimos que se fuera de nuestra casa\"."
     }
   },
   {
     "translation": {
-      "en": "No one knew too much about him. No one knew anything about Anthony.",
+      "en": "[Austin] No one knew too much about him. No one knew anything about Anthony.",
       "es": "Nadie sabía demasiado de él. Nadie sabía nada de Anthony."
     }
   },
@@ -1363,7 +1369,7 @@
   },
   {
     "translation": {
-      "en": "I ran into him when I was at Costco.",
+      "en": "[neighbor 1] I ran into him when I was at Costco.",
       "es": "Me lo encontré en Costco."
     }
   },
@@ -1381,98 +1387,98 @@
   },
   {
     "translation": {
-      "en": "When I was at their house, I didn't see him. Anytime I drove by their house, I didn't see them.",
-      "es": "Cuando fui a su casa, no lo vi. Cuando pasaba por su casa, no los veía."
+      "en": "[neighbor 2] When I was at their house, I didn't see him. Anytime I drove by their house, I didn't see them.",
+      "es": "Cuando fui a su casa, no lo vi.Cuando pasaba por su casa, no los veía."
     }
   },
   {
     "translation": {
-      "en": "- Visually, you never even… - No.",
+      "en": "-[investigator] Visually, you never even… -[neighbor 2] No.",
       "es": "Visualmente, ¿nunca… No."
     }
   },
   {
     "translation": {
-      "en": "…met or saw-- ? - Never. - No.",
-      "es": "- …los vieron o conocieron? - Nunca."
+      "en": "[investigator] …met or saw--? -[neighbor 1] Never. -[neighbor 2] No.",
+      "es": "- …los vieron o conocieron?- Nunca."
     }
   },
   {
     "translation": {
-      "en": "I didn't talk to anybody for like maybe a week or two.",
-      "es": "No hablé con nadie durante una o dos semanas."
+      "en": "[Anthony] I didn't talk to anybody for like maybe a week or two.",
+      "es": "No hablé con nadiedurante una o dos semanas."
     }
   },
   {
     "translation": {
       "en": "It was a scary time because I didn't know where I was going, what I was going to do, or… anything.",
-      "es": "Tenía miedo porque no sabía a dónde iría, qué iba a hacer, ni nada."
+      "es": "Tenía miedo porque no sabía a dónde iría,qué iba a hacer, ni nada."
     }
   },
   {
     "translation": {
-      "en": "This is a collect call from…",
+      "en": "[operator] This is a collect call from…",
       "es": "Es una llamada por cobrar de…"
     }
   },
   {
     "translation": {
-      "en": "…Anthony Templet.",
+      "en": "[Anthony] …Anthony Templet.",
       "es": "Anthony Templet."
     }
   },
   {
     "translation": {
-      "en": "Hey, are you there?",
+      "en": "[man] Hey, are you there?",
       "es": "Hola, ¿estás ahí?"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Hear me?",
-      "es": "- Sí. - ¿Me oyes?"
+      "en": "-[Anthony] Yeah. -[man] Hear me?",
+      "es": "- Sí.- ¿Me oyes?"
     }
   },
   {
     "translation": {
-      "en": "Calls are recorded, Got to watch what I say.",
-      "es": "Graban las llamadas, cuidado con lo que dices."
+      "en": "[Anthony] Calls are recorded, Got to watch what I say.",
+      "es": "Graban las llamadas,cuidado con lo que dices."
     }
   },
   {
     "translation": {
-      "en": "I know how this works.",
+      "en": "[man] I know how this works.",
       "es": "Sí, sé cómo funciona."
     }
   },
   {
     "translation": {
-      "en": "My bond has been set to 100,000 now, from 50,000.",
-      "es": "Mi fianza aumentó de 50 000 a 100 000 ahora."
+      "en": "[Anthony] My bond has been set to 100,000 now, from 50,000.",
+      "es": "Mi fianzaaumentó de 50 000 a 100 000 ahora."
     }
   },
   {
     "translation": {
-      "en": "Well, I knew it was gonna go up.",
+      "en": "[man] Well, I knew it was gonna go up.",
       "es": "Sabíamos que subiría."
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[Anthony] Yeah.",
       "es": "Sí."
     }
   },
   {
     "translation": {
       "en": "He called me. And I had a lot of questions about how the hell it happened.",
-      "es": "Él me llamó. Yo tenía muchas preguntas sobre qué había pasado."
+      "es": "Él me llamó. Yo tenía muchas preguntassobre qué había pasado."
     }
   },
   {
     "translation": {
       "en": "Nobody indicated to me that there was ever any problems between Burt and Anthony.",
-      "es": "Nadie me había dicho que Burt y Anthony tenían problemas."
+      "es": "Nadie me había dichoque Burt y Anthony tenían problemas."
     }
   },
   {
@@ -1489,14 +1495,14 @@
   },
   {
     "translation": {
-      "en": "When I first met Burt,",
+      "en": "[Susan] When I first met Burt,",
       "es": "Cuando conocí a Burt,"
     }
   },
   {
     "translation": {
       "en": "I was at a little sports bar watching the LSU game on my birthday.",
-      "es": "estaba en un bar viendo un partido en mi cumpleaños."
+      "es": "estaba en un barviendo un partido en mi cumpleaños."
     }
   },
   {
@@ -1514,13 +1520,13 @@
   {
     "translation": {
       "en": "We both loved to drink some beer, spend the day in the pool, barbecue.",
-      "es": "A los dos nos encantaba beber cerveza, estar en la piscina, hacer barbacoas."
+      "es": "A los dos nos encantaba beber cerveza,estar en la piscina, hacer barbacoas."
     }
   },
   {
     "translation": {
       "en": "Eventually, I was living with Burt and Anthony, and my son Peyton.",
-      "es": "Más tarde, acabé viviendo con Burt, Anthony y mi hijo Peyton."
+      "es": "Más tarde, acabé viviendo con Burt,Anthony y mi hijo Peyton."
     }
   },
   {
@@ -1537,7 +1543,7 @@
   },
   {
     "translation": {
-      "en": "He was laugh- y,",
+      "en": "He was laugh-y,",
       "es": "Era risueño,"
     }
   },
@@ -1550,12 +1556,12 @@
   {
     "translation": {
       "en": "making funny faces, somewhat sarcastic,",
-      "es": "Vivía haciendo muecas, era algo sarcástico,"
+      "es": "Vivía haciendo muecas,era algo sarcástico,"
     }
   },
   {
     "translation": {
-      "en": "non- caring, nonchalant.",
+      "en": "non-caring, nonchalant.",
       "es": "indiferente, despreocupado."
     }
   },
@@ -1568,7 +1574,7 @@
   {
     "translation": {
       "en": "and it was like you gave him a million dollars.",
-      "es": "Parecía que le hubieras dado un millón de dólares."
+      "es": "Parecía que le hubieras dadoun millón de dólares."
     }
   },
   {
@@ -1586,7 +1592,7 @@
   {
     "translation": {
       "en": "Whenever Burt came into our lives,",
-      "es": "Cada vez que Burt aparecía en nuestras vidas,"
+      "es": "Cada vez que Burtaparecía en nuestras vidas,"
     }
   },
   {
@@ -1598,13 +1604,13 @@
   {
     "translation": {
       "en": "For an example, we didn't joke as openly.",
-      "es": "Por ejemplo, no bromeamos tan abiertamente."
+      "es": "Por ejemplo,no bromeamos tan abiertamente."
     }
   },
   {
     "translation": {
       "en": "And that is why AJ did not like to come out of his room,",
-      "es": "Y es por eso que a AJ no le gustaba salir de su cuarto,"
+      "es": "Y es por eso que a AJno le gustaba salir de su cuarto,"
     }
   },
   {
@@ -1616,7 +1622,7 @@
   {
     "translation": {
       "en": "When he was around his dad, he couldn't be himself.",
-      "es": "Cuando estaba con su papá, no podía ser él mismo."
+      "es": "Cuando estaba con su papá,no podía ser él mismo."
     }
   },
   {
@@ -1628,7 +1634,7 @@
   {
     "translation": {
       "en": "He always kinda found a way to make me feel like I was doing something wrong.",
-      "es": "Siempre encontraba la forma de hacerme sentir que hacia algo mal."
+      "es": "Siempre encontraba la formade hacerme sentir que hacia algo mal."
     }
   },
   {
@@ -1645,8 +1651,8 @@
   },
   {
     "translation": {
-      "en": "Burt, in his own strange way, loved his son.",
-      "es": "Burt, a su manera extraña, amaba a su hijo."
+      "en": "[Peyton] Burt, in his own strange way, loved his son.",
+      "es": "Burt, a su manera extraña,amaba a su hijo."
     }
   },
   {
@@ -1657,8 +1663,8 @@
   },
   {
     "translation": {
-      "en": "As he evolved, he became really quiet.",
-      "es": "A medida que crecía, se volvía más reservado."
+      "en": "[Susan] As he evolved, he became really quiet.",
+      "es": "A medida que crecía,se volvía más reservado."
     }
   },
   {
@@ -1669,14 +1675,14 @@
   },
   {
     "translation": {
-      "en": "Susan'd tell me that she was scared of Anthony.",
-      "es": "Susan me decía que le tenía miedo a Anthony."
+      "en": "[Michael] Susan'd tell me that she was scared of Anthony.",
+      "es": "Susan me decíaque le tenía miedo a Anthony."
     }
   },
   {
     "translation": {
       "en": "She didn't know if he would shoot her, if he'd kill her, if he'd hurt her.",
-      "es": "No sabía si un día le dispararía, la mataría o la lastimaría."
+      "es": "No sabía si un día le dispararía,la mataría o la lastimaría."
     }
   },
   {
@@ -1694,7 +1700,7 @@
   {
     "translation": {
       "en": "And you can never tell whether he's angry or happy.",
-      "es": "Y nunca se sabe si está enojado o contento."
+      "es": "Y nunca se sabesi está enojado o contento."
     }
   },
   {
@@ -1712,13 +1718,13 @@
   {
     "translation": {
       "en": "When I watched the interview the first time, I was like,",
-      "es": "Cuando vi la entrevista por primera vez, pensé:"
+      "es": "Cuando vi la entrevistapor primera vez, pensé:"
     }
   },
   {
     "translation": {
-      "en": "Oh, my gosh, there's not a tear shed for his father.",
-      "es": "Por Dios, no derramó ni una lágrima por su padre."
+      "en": "\"Oh, my gosh, there's not a tear shed for his father.\"",
+      "es": "\"Por Dios, no derramóni una lágrima por su padre\"."
     }
   },
   {
@@ -1729,8 +1735,8 @@
   },
   {
     "translation": {
-      "en": "At least I shot the gun three times, but I don't know how many times I hit him.  Mm- hmm.",
-      "es": "Al menos le disparé tres veces, pero no sé cuántas veces le pegué."
+      "en": "At least I shot the gun three times, but I don't know how many times I hit him. [Greg] Mm-hmm.",
+      "es": "Al menos le disparé tres veces,pero no sé cuántas veces le pegué."
     }
   },
   {
@@ -1759,8 +1765,8 @@
   },
   {
     "translation": {
-      "en": "Why did he make me do it? This was going on. This is why I did what I did.",
-      "es": "¿Por qué me obligó a hacerlo? Las cosas eran así. Lo hice por esto."
+      "en": "\"Why did he make me do it? This was going on. This is why I did what I did.\"",
+      "es": "\"¿Por qué me obligó a hacerlo?Las cosas eran así. Lo hice por esto\"."
     }
   },
   {
@@ -1790,7 +1796,7 @@
   {
     "translation": {
       "en": "I probably felt love for my dad in my younger years, but as I got older,",
-      "es": "Supongo que cuando era niño quería a mi papá, pero al crecer,"
+      "es": "Supongo que cuando era niñoquería a mi papá, pero al crecer,"
     }
   },
   {
@@ -1819,61 +1825,61 @@
   },
   {
     "translation": {
-      "en": "Do you want to live having no feelings? Do you want to have feelings?",
-      "es": "¿Quieres vivir sin emoción o te gustaría recuperarla?"
+      "en": "[interviewer] Do you want to live having no feelings? Do you want to have feelings?",
+      "es": "¿Quieres vivir sin emocióno te gustaría recuperarla?"
     }
   },
   {
     "translation": {
       "en": "I can have feelings for people. I just choose not to for him.",
-      "es": "Puedo tener sentimientos por la gente. Elijo no hacerlo por él."
+      "es": "Puedo tener sentimientos por la gente.Elijo no hacerlo por él."
     }
   },
   {
     "translation": {
-      "en": "There was one thing, kind of struck me as, Wow, that's very weird.",
-      "es": "Hubo una cosa que me sorprendió, me pareció muy rara."
+      "en": "There was one thing, kind of struck me as, \"Wow, that's very weird.\"",
+      "es": "Hubo una cosa que me sorprendió,me pareció muy rara."
     }
   },
   {
     "translation": {
-      "en": "- Anthony, how old are you? - Seventeen.",
-      "es": "- Anthony, ¿cuántos años tienes? - Diecisiete."
+      "en": "-[Greg] Anthony, how old are you? -Seventeen.",
+      "es": "- Anthony, ¿cuántos años tienes?- Diecisiete."
     }
   },
   {
     "translation": {
-      "en": "- You're 17? - Yeah.",
-      "es": "- ¿Tienes 17? - Sí."
+      "en": "-[Greg] You're 17? -Yeah.",
+      "es": "- ¿Tienes 17?- Sí."
     }
   },
   {
     "translation": {
-      "en": "And your date of birth is what?",
+      "en": "[Greg] And your date of birth is what?",
       "es": "¿Cuál es tu fecha de nacimiento?"
     }
   },
   {
     "translation": {
       "en": "It's either September 13th, 2001, or two. I can't remember which one.",
-      "es": "El 13 de septiembre de 2001 o 2002. No recuerdo cuál."
+      "es": "El 13 de septiembre de 2001 o 2002.No recuerdo cuál."
     }
   },
   {
     "translation": {
-      "en": "And what's your current address?",
+      "en": "[Greg coughs] And what's your current address?",
       "es": "¿Cuál es tu dirección?"
     }
   },
   {
     "translation": {
-      "en": "- My home address? - Yes, sir.",
-      "es": "- ¿Mi dirección? - Sí."
+      "en": "-My home address? -[Greg] Yes, sir.",
+      "es": "- ¿Mi dirección?- Sí."
     }
   },
   {
     "translation": {
-      "en": "One- seven… 652 Gray Moss Avenue, I think.",
+      "en": "One-seven… 652 Gray Moss Avenue, I think.",
       "es": "Avenida Gray Moss 652, creo."
     }
   },
@@ -1885,8 +1891,8 @@
   },
   {
     "translation": {
-      "en": "He doesn't know his own birth date. He doesn't know his address.",
-      "es": "No sabía su fecha de nacimiento. No sabía su dirección."
+      "en": "[Dana] He doesn't know his own birth date. He doesn't know his address.",
+      "es": "No sabía su fecha de nacimiento.No sabía su dirección."
     }
   },
   {
@@ -1898,25 +1904,25 @@
   {
     "translation": {
       "en": "I had more questions after the interview than I had answers.",
-      "es": "Después de la entrevista, tuve más preguntas que respuestas."
+      "es": "Después de la entrevista,tuve más preguntas que respuestas."
     }
   },
   {
     "translation": {
-      "en": "When people find out that I'm in Louisiana, that I'm an attorney here, a criminal defense attorney…",
-      "es": "Cuando la gente se entera de que soy abogado penal defensor en Luisiana,"
+      "en": "[man] When people find out that I'm in Louisiana, that I'm an attorney here, a criminal defense attorney… [laughs]",
+      "es": "Cuando la gente se entera de que soyabogado penal defensor en Luisiana,"
     }
   },
   {
     "translation": {
-      "en": "…I get, Man, you're always gonna be in business.",
-      "es": "me dicen: Jamás te va a faltar trabajo."
+      "en": "…I get, \"Man, you're always gonna be in business.\" [chuckles]",
+      "es": "me dicen: \"Jamás te va a faltar trabajo\"."
     }
   },
   {
     "translation": {
       "en": "I mean, there are shootings and murders every week in Baton Rouge.",
-      "es": "Hay tiroteos y asesinatos todas las semanas en Baton Rouge."
+      "es": "Hay tiroteos y asesinatostodas las semanas en Baton Rouge."
     }
   },
   {
@@ -1928,7 +1934,7 @@
   {
     "translation": {
       "en": "We have the highest incarceration rate in the country.",
-      "es": "Tenemos la tasa de encarcelamiento más alta del país."
+      "es": "Tenemos la tasa de encarcelamientomás alta del país."
     }
   },
   {
@@ -1940,13 +1946,13 @@
   {
     "translation": {
       "en": "Or is that a product of the fact that the people of Louisiana are a little crazy?",
-      "es": "¿O es porque la gente de Luisiana está desquiciada?"
+      "es": "¿O es porque la gente de Luisianaestá desquiciada?"
     }
   },
   {
     "translation": {
       "en": "Frankly, I have a history of drinking like a crazy person, and I have been in a hundred bar fights.",
-      "es": "La verdad, he bebido como loco y estuve en cientos de peleas de bares."
+      "es": "La verdad, he bebido como locoy estuve en cientos de peleas de bares."
     }
   },
   {
@@ -1964,7 +1970,7 @@
   {
     "translation": {
       "en": "but it's also part of what's ingrained in me about being a Louisiana boy.",
-      "es": "pero también es lo que llevo arraigado por haber vivido acá."
+      "es": "pero también es lo que llevo arraigadopor haber vivido acá."
     }
   },
   {
@@ -1976,19 +1982,19 @@
   {
     "translation": {
       "en": "I embrace that part of me that is kind of crazy, that is a little out of the box.",
-      "es": "Acepto mi parte loca, mi lado fuera de lo común."
+      "es": "Acepto mi parte loca,mi lado fuera de lo común."
     }
   },
   {
     "translation": {
       "en": "And I can see in my clients that there are good people who made serious mistakes.",
-      "es": "Y puedo ver en mis clientes que son buena gente que cometió errores."
+      "es": "Y puedo ver en mis clientesque son buena gente que cometió errores."
     }
   },
   {
     "translation": {
       "en": "I heard the public story about Anthony's case, what's in the newspaper.",
-      "es": "Conocía la historia pública del caso de Anthony, la del periódico."
+      "es": "Conocía la historia públicadel caso de Anthony, la del periódico."
     }
   },
   {
@@ -2000,31 +2006,31 @@
   {
     "translation": {
       "en": "And someone else hooked me up with Susan, Anthony's stepmom.",
-      "es": "Y alguien me contactó con Susan, la madrastra de Anthony."
+      "es": "Y alguien me contactó con Susan,la madrastra de Anthony."
     }
   },
   {
     "translation": {
-      "en": "And I spoke to her and I said, Look, this is who I am, I'm exceedingly good at this.",
-      "es": "Hablé con ella y le dije: Mire, soy tal, soy muy bueno en esto."
+      "en": "And I spoke to her and I said, \"Look, this is who I am, I'm exceedingly good at this.\"",
+      "es": "Hablé con ella y le dije:\"Mire, soy tal, soy muy bueno en esto\"."
     }
   },
   {
     "translation": {
-      "en": "And I wanted to talk to Anthony. You know, Is this true?",
-      "es": "Y quería hablar con Anthony, saber si era cierto."
+      "en": "And I wanted to talk to Anthony. You know, \"Is this true?\"",
+      "es": "Y quería hablar con Anthony,saber si era cierto."
     }
   },
   {
     "translation": {
-      "en": "Was this really self- defense?",
+      "en": "\"Was this really self-defense?\"",
       "es": "¿Fue en defensa propia?"
     }
   },
   {
     "translation": {
-      "en": "Is this what really happened, or is this some made- up story, and he killed his dad in cold blood one night?",
-      "es": "¿Es verdad o es una historia inventada y sí mató a su padre a sangre fría?"
+      "en": "Is this what really happened, or is this some made-up story, and he killed his dad in cold blood one night?",
+      "es": "¿Es verdad o es una historia inventaday sí mató a su padre a sangre fría?"
     }
   },
   {
@@ -2036,18 +2042,18 @@
   {
     "translation": {
       "en": "So I went to the jail to talk to Anthony.",
-      "es": "Así que fui a la cárcel a hablar con Anthony."
+      "es": "Así que fui a la cárcela hablar con Anthony."
     }
   },
   {
     "translation": {
-      "en": "- How you doing? - I'm doing pretty good.",
-      "es": "- ¿Cómo estás? - Bastante bien."
+      "en": "-[Jarrett] How you doing? -[Anthony] I'm doing pretty good.",
+      "es": "- ¿Cómo estás?- Bastante bien."
     }
   },
   {
     "translation": {
-      "en": "You okay? Okay.",
+      "en": "[Jarrett] You okay? Okay.",
       "es": "¿Estás bien? Bueno."
     }
   },
@@ -2059,20 +2065,20 @@
   },
   {
     "translation": {
-      "en": "AJ or Anthony, whichever you prefer.",
+      "en": "[Anthony] AJ or Anthony, whichever you prefer.",
       "es": "Sí, AJ o Anthony, lo que prefieras."
     }
   },
   {
     "translation": {
-      "en": "- What do you prefer? - Anthony.",
-      "es": "¿Qué prefieres tú? - Anthony, supongo. - Bien."
+      "en": "-[Jarrett] What do you prefer? -[Anthony] Anthony.",
+      "es": "¿Qué prefieres tú? - Anthony, supongo.- Bien."
     }
   },
   {
     "translation": {
-      "en": "Okay.",
-      "es": "- Anthony, supongo. - Bien."
+      "en": "[Jarrett] Okay.",
+      "es": "- Anthony, supongo.- Bien."
     }
   },
   {
@@ -2084,13 +2090,13 @@
   {
     "translation": {
       "en": "It was hard to get him to share anything or talk at all.",
-      "es": "Fue muy difícil hacer que siquiera hablara."
+      "es": "Fue muy difícilhacer que siquiera hablara."
     }
   },
   {
     "translation": {
       "en": "At that time, he was really, really bad at communicating his own life,",
-      "es": "En ese momento, le costaba mucho hablar sobre su vida,"
+      "es": "En ese momento,le costaba mucho hablar sobre su vida,"
     }
   },
   {
@@ -2102,7 +2108,7 @@
   {
     "translation": {
       "en": "It was important to us to know what actually was going on in the house.",
-      "es": "Para nosotros era importante saber qué pasaba en la casa."
+      "es": "Para nosotros era importante saberqué pasaba en la casa."
     }
   },
   {
@@ -2114,7 +2120,7 @@
   {
     "translation": {
       "en": "to talk to people that were close or related to Burt Templet.",
-      "es": "a hablar con la gente cercana o relacionada con Burt Templet."
+      "es": "a hablar con la gente cercanao relacionada con Burt Templet."
     }
   },
   {
@@ -2126,13 +2132,13 @@
   {
     "translation": {
       "en": "A best friend, usually you can get kind of like a little bit more information.",
-      "es": "Un amigo, por lo general, brinda más información."
+      "es": "Un amigo, por lo general,brinda más información."
     }
   },
   {
     "translation": {
-      "en": "I was probably about 15 or 16 when I first met Burt.",
-      "es": "Tenía unos 15 o 16 años cuando conocí a Burt."
+      "en": "[friend] I was probably about 15 or 16 when I first met Burt.",
+      "es": "Tenía unos 15 o 16 añoscuando conocí a Burt."
     }
   },
   {
@@ -2150,13 +2156,13 @@
   {
     "translation": {
       "en": "And he always, of course, tried to be the man of the crowd.",
-      "es": "Y siempre, por supuesto, intentaba ser el chico popular."
+      "es": "Y siempre, por supuesto,intentaba ser el chico popular."
     }
   },
   {
     "translation": {
       "en": "He told me he worked in plants at times.",
-      "es": "Decía que trabajaba en plantas industriales."
+      "es": "Decía que trabajabaen plantas industriales."
     }
   },
   {
@@ -2179,13 +2185,13 @@
   },
   {
     "translation": {
-      "en": "He was a project controls engineer that made $100 an hour.",
-      "es": "Era un ingeniero de control de proyectos que ganaba $100 la hora."
+      "en": "[Susan] He was a project controls engineer that made $100 an hour.",
+      "es": "Era un ingeniero de control de proyectosque ganaba $100 la hora."
     }
   },
   {
     "translation": {
-      "en": "He was an excellent provider.",
+      "en": "[quavers] He was an excellent provider.",
       "es": "Era un excelente proveedor."
     }
   },
@@ -2203,7 +2209,7 @@
   },
   {
     "translation": {
-      "en": "We bought a swimming pool. We put it up together.",
+      "en": "We bought a swimming pool. We put it up together. [sniffles]",
       "es": "Compré una piscina. La montamos juntos."
     }
   },
@@ -2215,20 +2221,20 @@
   },
   {
     "translation": {
-      "en": "On the weekends, we'd hang out, and swim and barbecue,",
-      "es": "Los fines de semana nos metíamos en la piscina, hacíamos barbacoas,"
+      "en": "[James] On the weekends, we'd hang out, and swim and barbecue,",
+      "es": "Los fines de semana nos metíamosen la piscina, hacíamos barbacoas,"
     }
   },
   {
     "translation": {
-      "en": "and high- fiving, hugging, telling each other,",
-      "es": "chocamos los cinco, nos abrazábamos, nos decíamos:"
+      "en": "and high-fiving, hugging, telling each other,",
+      "es": "chocamos los cinco,nos abrazábamos, nos decíamos:"
     }
   },
   {
     "translation": {
-      "en": "I love you, my brother.   You know?",
-      "es": "Te quiero, hermano."
+      "en": "\"I love you, my brother.\"  [quavers] You know?",
+      "es": "\"Te quiero, hermano\"."
     }
   },
   {
@@ -2240,7 +2246,7 @@
   {
     "translation": {
       "en": "We hung out in the pool a few times, not much at all.",
-      "es": "Estuvimos en la piscina un par de veces, pero no mucho."
+      "es": "Estuvimos en la piscina un par de veces,pero no mucho."
     }
   },
   {
@@ -2252,7 +2258,7 @@
   {
     "translation": {
       "en": "Every time I'd go in the house, he'd be on his laptop, on the computer,",
-      "es": "Cada vez que iba a la casa, estaba en la computadora"
+      "es": "Cada vez que iba a la casa,estaba en la computadora"
     }
   },
   {
@@ -2269,7 +2275,7 @@
   },
   {
     "translation": {
-      "en": "Such a quiet and well- behaved young man.",
+      "en": "Such a quiet and well-behaved young man.",
       "es": "Era un muchacho muy tranquilo y educado."
     }
   },
@@ -2282,7 +2288,7 @@
   {
     "translation": {
       "en": "Now, they say that you never know what goes behind closed doors.",
-      "es": "Dicen que nunca se sabe lo que sucede a puertas cerradas."
+      "es": "Dicen que nunca se sabelo que sucede a puertas cerradas."
     }
   },
   {
@@ -2300,12 +2306,12 @@
   {
     "translation": {
       "en": "The entire house is on surveillance cameras, except for the master bedroom.",
-      "es": "Toda la casa tenía cámaras de seguridad, menos la habitación principal."
+      "es": "Toda la casa tenía cámaras de seguridad,menos la habitación principal."
     }
   },
   {
     "translation": {
-      "en": "There's eight cameras outside.",
+      "en": "[Michael] There's eight cameras outside.",
       "es": "Hay ocho cámaras afuera."
     }
   },
@@ -2317,7 +2323,7 @@
   },
   {
     "translation": {
-      "en": "He wanted to protect us.",
+      "en": "[Susan] He wanted to protect us.",
       "es": "Quería protegernos."
     }
   },
@@ -2354,37 +2360,37 @@
   {
     "translation": {
       "en": "Anything and everything immediately outside of the house, he saw.",
-      "es": "Veía todo lo que pasaba fuera de la casa al instante."
+      "es": "Veía todo lo que pasabafuera de la casa al instante."
     }
   },
   {
     "translation": {
       "en": "I didn't like it, but I chose to look past it at the time.",
-      "es": "No me gustaba, pero decidí ignorarlo en el momento."
+      "es": "No me gustaba,pero decidí ignorarlo en el momento."
     }
   },
   {
     "translation": {
-      "en": "Creepy.",
+      "en": "[woman] Creepy.",
       "es": "Qué miedo."
     }
   },
   {
     "translation": {
       "en": "That made me think-- That was very creepy to be checking on your child like that.",
-      "es": "Me pareció muy perturbador vigilar a tu hijo de esa manera."
+      "es": "Me pareció muy perturbadorvigilar a tu hijo de esa manera."
     }
   },
   {
     "translation": {
       "en": "When I met Anthony, I think he was 16.",
-      "es": "Creo que Anthony tenía 16 cuando lo conocí."
+      "es": "Creo que Anthony tenía 16cuando lo conocí."
     }
   },
   {
     "translation": {
       "en": "Anthony and I worked shoulder to shoulder, most days.",
-      "es": "Anthony y yo trabajábamos juntos a la par casi todos los días."
+      "es": "Anthony y yo trabajábamos juntos a la parcasi todos los días."
     }
   },
   {
@@ -2396,37 +2402,37 @@
   {
     "translation": {
       "en": "only because, you know, he didn't seem to have a mother figure there.",
-      "es": "porque no parecía tener una figura materna en su casa."
+      "es": "porque no parecía teneruna figura materna en su casa."
     }
   },
   {
     "translation": {
       "en": "My boss, Scott, lived in the same subdivision as Burt Templet.",
-      "es": "Mi jefe, Scott, vivía en la misma manzana que Burt Templet."
+      "es": "Mi jefe, Scott, vivíaen la misma manzana que Burt Templet."
     }
   },
   {
     "translation": {
       "en": "On June 3rd, Scott called me before work started",
-      "es": "El 3 de junio, Scott me llamó antes de ir a trabajar"
+      "es": "El 3 de junio,Scott me llamó antes de ir a trabajar"
     }
   },
   {
     "translation": {
-      "en": "and said, Hey, I just got a phone call from some of the neighbors.",
-      "es": "y me dijo: Me acaban de llamar unos vecinos."
+      "en": "and said, \"Hey, I just got a phone call from some of the neighbors.\"",
+      "es": "y me dijo:\"Me acaban de llamar unos vecinos."
     }
   },
   {
     "translation": {
-      "en": "There was a shooting at Anthony's house.",
-      "es": "Hubo disparos en la casa de Anthony."
+      "en": "\"There was a shooting at Anthony's house.\"",
+      "es": "Hubo disparos en la casa de Anthony\"."
     }
   },
   {
     "translation": {
       "en": "It seemed like, in the news media, it was just a random shooting,",
-      "es": "En los medios, lo pintaban como un tiroteo más."
+      "es": "En los medios,lo pintaban como un tiroteo más."
     }
   },
   {
@@ -2450,55 +2456,55 @@
   {
     "translation": {
       "en": "Burt knew Scott, and so that's how Anthony had gotten a job at the greenhouse.",
-      "es": "Burt conocía a Scott, por eso Anthony consiguió trabajar en el vivero."
+      "es": "Burt conocía a Scott, por eso Anthonyconsiguió trabajar en el vivero."
     }
   },
   {
     "translation": {
-      "en": "It started off with his dad",
+      "en": "[Scott] It started off with his dad",
       "es": "Todo empezó con su papá,"
     }
   },
   {
     "translation": {
       "en": "repeatedly asking me whether I could give his son a job.",
-      "es": "que me pedía una y otra vez que le diera trabajo a su hijo."
+      "es": "que me pedía una y otra vezque le diera trabajo a su hijo."
     }
   },
   {
     "translation": {
-      "en": "I told Burt, But I don't know your son.",
+      "en": "I told Burt, \"But I don't know your son.\"",
       "es": "Y yo le dije que no conocía a su hijo."
     }
   },
   {
     "translation": {
-      "en": "Maybe if we get a chance to meet each other, I can give you an answer.",
-      "es": "Le dije que, si me reunía con él, quizá podía considerarlo."
+      "en": "\"Maybe if we get a chance to meet each other, I can give you an answer.\"",
+      "es": "Le dije que, si me reunía con él,quizá podía considerarlo."
     }
   },
   {
     "translation": {
-      "en": "They went out to eat, you know, just to meet Anthony beforehand, to get an idea.",
-      "es": "Salieron a comer, para conocer a Anthony, ver cómo era."
+      "en": "[Elena] They went out to eat, you know, just to meet Anthony beforehand, to get an idea.",
+      "es": "Salieron a comer,para conocer a Anthony, ver cómo era."
     }
   },
   {
     "translation": {
-      "en": "And I was trying to get to know Anthony.",
+      "en": "[Scott] And I was trying to get to know Anthony.",
       "es": "Yo intentaba conocer a Anthony."
     }
   },
   {
     "translation": {
       "en": "I couldn't ask him a question without Burt being the one to answer everything.",
-      "es": "No podía hacerle una pregunta sin que Burt la respondiera antes."
+      "es": "No podía hacerle una preguntasin que Burt la respondiera antes."
     }
   },
   {
     "translation": {
       "en": "Burt had-- He wanted to be in control the whole time.",
-      "es": "Burt quería tener el control todo el tiempo."
+      "es": "Burt quería tener el controltodo el tiempo."
     }
   },
   {
@@ -2509,7 +2515,7 @@
   },
   {
     "translation": {
-      "en": "My first impressions of Anthony… Uh…",
+      "en": "My first impressions of Anthony… Uh… [sighs]",
       "es": "Mi primera impresión de Anthony…"
     }
   },
@@ -2522,7 +2528,7 @@
   {
     "translation": {
       "en": "It was like he had never been outside of his house,",
-      "es": "Era como si nunca hubiera salido de su casa."
+      "es": "Era como si nunca hubiera salidode su casa."
     }
   },
   {
@@ -2534,25 +2540,25 @@
   {
     "translation": {
       "en": "He had never heard of, you know, Tom Hanks or Tom Cruise.",
-      "es": "No sabía quiénes eran Tom Hanks o Tom Cruise."
+      "es": "No sabía quiénes eranTom Hanks o Tom Cruise."
     }
   },
   {
     "translation": {
-      "en": "He did something right, I said, Hey, up top, Anthony! Up top!",
-      "es": "Hizo algo bien y le dije: ¡Choca arriba, Anthony!."
+      "en": "He did something right, I said, \"Hey, up top, Anthony! Up top!\"",
+      "es": "Hizo algo bien y le dije:\"¡Choca arriba, Anthony!\"."
     }
   },
   {
     "translation": {
-      "en": "He looked at me like, What does that mean?",
-      "es": "Y me miró como: ¿De qué hablas?."
+      "en": "He looked at me like, \"What does that mean?\"",
+      "es": "Y me miró como: \"¿De qué hablas?\"."
     }
   },
   {
     "translation": {
-      "en": "And I was like, You know, give me a high five! You know what that is, right? No, I don't know what that is.",
-      "es": "Y yo: ¡Choca los cinco! ¿Sabes lo que es, ¿no?. Y él no sabía."
+      "en": "And I was like, \"You know, give me a high five!\" \"You know what that is, right?\" \"No, I don't know what that is.\"",
+      "es": "Y yo: \"¡Choca los cinco!¿Sabes lo que es, ¿no?\". Y él no sabía."
     }
   },
   {
@@ -2564,7 +2570,7 @@
   {
     "translation": {
       "en": "He didn't ever meet any of his relatives for the holidays.",
-      "es": "Nunca veía a sus familiares en las fiestas."
+      "es": "Nunca veía a sus familiaresen las fiestas."
     }
   },
   {
@@ -2581,13 +2587,13 @@
   },
   {
     "translation": {
-      "en": "I had asked him, What is her name? He didn't know her name.",
-      "es": "Le pregunté cómo se llamaba. No sabía su nombre."
+      "en": "I had asked him, \"What is her name?\" He didn't know her name.",
+      "es": "Le pregunté cómo se llamaba.No sabía su nombre."
     }
   },
   {
     "translation": {
-      "en": "I knew he was homeschooled.",
+      "en": "[Scott] I knew he was homeschooled.",
       "es": "Sabía que lo educaron en casa."
     }
   },
@@ -2600,7 +2606,7 @@
   {
     "translation": {
       "en": "and often their social abilities are lacking to some degree.",
-      "es": "y, en general, suelen tener dificultades en lo social."
+      "es": "y, en general,suelen tener dificultades en lo social."
     }
   },
   {
@@ -2611,56 +2617,56 @@
   },
   {
     "translation": {
-      "en": "But the boy just couldn't talk.   You know?",
+      "en": "But the boy just couldn't talk.  [chuckles] You know?",
       "es": "Pero él no podía ni hablar, ¿me explico?"
     }
   },
   {
     "translation": {
-      "en": "I would try to engage him in conversation, and ask him, you know, about where he was in school.",
-      "es": "Intentaba charlar con él, preguntarle por dónde iba en la escuela,"
+      "en": "[Elena] I would try to engage him in conversation, and ask him, you know, about where he was in school.",
+      "es": "Intentaba charlar con él,preguntarle por dónde iba en la escuela,"
     }
   },
   {
     "translation": {
       "en": "He never could quite tell me what classes he was in though.",
-      "es": "pero nunca pudo decirme qué materias estaba viendo."
+      "es": "pero nunca pudo decirmequé materias estaba viendo."
     }
   },
   {
     "translation": {
       "en": "I knew, you know, it wasn't right, but it wasn't enough for me to look into.",
-      "es": "Sabía que algo no estaba bien, pero tampoco tanto como para meterme más."
+      "es": "Sabía que algo no estaba bien,pero tampoco tanto como para meterme más."
     }
   },
   {
     "translation": {
       "en": "His dad was keeping serious tabs on him with a GPS tracker on his phone.",
-      "es": "Su padre lo vigilaba con el rastreador de su teléfono."
+      "es": "Su padre lo vigilabacon el rastreador de su teléfono."
     }
   },
   {
     "translation": {
       "en": "There was a couple of times when Burt called my boss and said,",
-      "es": "Un par de veces, Burt llamó a mi jefe y le dijo:"
+      "es": "Un par de veces,Burt llamó a mi jefe y le dijo:"
     }
   },
   {
     "translation": {
-      "en": "Hey, I noticed on Anthony's GPS tracker he hasn't moved in the last 30 minutes.",
-      "es": "Veo que el GPS de Anthony no se mueve hace media hora."
+      "en": "\"Hey, I noticed on Anthony's GPS tracker he hasn't moved in the last 30 minutes.\"",
+      "es": "\"Veo que el GPS de Anthonyno se mueve hace media hora."
     }
   },
   {
     "translation": {
-      "en": "What's he doing? What's going on?",
-      "es": "¿Qué está haciendo? ¿Qué pasó?."
+      "en": "\"What's he doing? What's going on?\"",
+      "es": "¿Qué está haciendo? ¿Qué pasó?\"."
     }
   },
   {
     "translation": {
       "en": "It would be because he was standing there fertilizing like a set group of pots. It was in one location.",
-      "es": "Y quizá estaba en un lugar fertilizando varias macetas."
+      "es": "Y quizá estaba en un lugarfertilizando varias macetas."
     }
   },
   {
@@ -2678,13 +2684,13 @@
   {
     "translation": {
       "en": "and I looked at Anthony's application a little more closely",
-      "es": "la solicitud de empleo de Anthony más en detalle"
+      "es": "la solicitud de empleo de Anthonymás en detalle"
     }
   },
   {
     "translation": {
       "en": "and realized that Burt had typed up the application for Anthony.",
-      "es": "y me di cuenta de que la había completado Burt."
+      "es": "y me di cuentade que la había completado Burt."
     }
   },
   {
@@ -2695,44 +2701,44 @@
   },
   {
     "translation": {
-      "en": "and it said Kaplan Prep.",
-      "es": "y decía Secundaria Kaplan."
+      "en": "and it said \"Kaplan Prep.\"",
+      "es": "y decía \"Secundaria Kaplan\"."
     }
   },
   {
     "translation": {
       "en": "When I went back and researched Kaplan Prep School, it was actually not a prep school.",
-      "es": "Cuando me puse a investigarla, vi que no era una escuela secundaria."
+      "es": "Cuando me puse a investigarla,vi que no era una escuela secundaria."
     }
   },
   {
     "translation": {
       "en": "It was a website to order standardized testing materials.",
-      "es": "Era un sitio web para comprar exámenes estándar."
+      "es": "Era un sitio webpara comprar exámenes estándar."
     }
   },
   {
     "translation": {
       "en": "So he actually never went to-- Was never homeschooled.",
-      "es": "Nunca fue a… No recibió educación en su casa."
+      "es": "Nunca fue a…No recibió educación en su casa."
     }
   },
   {
     "translation": {
-      "en": "That's when I kind of thought, Okay, maybe something is going on.",
+      "en": "That's when I kind of thought, \"Okay, maybe something is going on.\"",
       "es": "Ahí fue cuando pensé que había algo más."
     }
   },
   {
     "translation": {
-      "en": "This is not just a random shooting. You know, like maybe there's a reason.",
-      "es": "Que no le disparó porque sí, quizá había alguna razón detrás."
+      "en": "\"This is not just a random shooting. You know, like maybe there's a reason.\"",
+      "es": "Que no le disparó porque sí,quizá había alguna razón detrás."
     }
   },
   {
     "translation": {
-      "en": "The question then also was, Where is Anthony's mom?",
-      "es": "La pregunta también fue: ¿Dónde está la mamá de Anthony?."
+      "en": "The question then also was, \"Where is Anthony's mom?\"",
+      "es": "La pregunta también fue:\"¿Dónde está la mamá de Anthony?\"."
     }
   },
   {
@@ -2744,7 +2750,7 @@
   {
     "translation": {
       "en": "Anthony came into my life by sheer accident.",
-      "es": "Anthony llegó a mi vida de pura casualidad."
+      "es": "Anthony llegó a mi vidade pura casualidad."
     }
   },
   {
@@ -2755,32 +2761,32 @@
   },
   {
     "translation": {
-      "en": "Hey, have you heard anything about this kid in the news that shot his father?",
-      "es": "¿Oíste en las noticias sobre el chico que mató a su padre?."
+      "en": "\"Hey, have you heard anything about this kid in the news that shot his father?\"",
+      "es": "\"¿Oíste en las noticiassobre el chico que mató a su padre?\"."
     }
   },
   {
     "translation": {
-      "en": "And I said, Well, it seems pretty cut and dry to me.",
-      "es": "Y agregó: Creo que está clarísimo."
+      "en": "And I said, \"Well, it seems pretty cut and dry to me.\"",
+      "es": "Y agregó: \"Creo que está clarísimo."
     }
   },
   {
     "translation": {
-      "en": "I read the story and it sounds like snobby, rich kid",
-      "es": "Leí la noticia y suena como el clásico chico rico"
+      "en": "\"I read the story and it sounds like snobby, rich kid",
+      "es": "Leí la noticiay suena como el clásico chico rico"
     }
   },
   {
     "translation": {
-      "en": "that got mad at his dad and shot him.",
-      "es": "que se enojó con su papá y le disparó."
+      "en": "that got mad at his dad and shot him.\"",
+      "es": "que se enojó con su papá y le disparó\"."
     }
   },
   {
     "translation": {
       "en": "He told me that his coworker knew Anthony's manager,",
-      "es": "Me dijo que su colega conocía al gerente de Anthony"
+      "es": "Me dijo que su colegaconocía al gerente de Anthony"
     }
   },
   {
@@ -2798,7 +2804,7 @@
   {
     "translation": {
       "en": "because of my background in solving DNA puzzles.",
-      "es": "por mi experiencia resolviendo misterios sobre ADN."
+      "es": "por mi experienciaresolviendo misterios sobre ADN."
     }
   },
   {
@@ -2810,7 +2816,7 @@
   {
     "translation": {
       "en": "and found out that the man that I originally thought was my father wasn't.",
-      "es": "al descubrir que el hombre que pensé que era mi padre no lo era."
+      "es": "al descubrir que el hombreque pensé que era mi padre no lo era."
     }
   },
   {
@@ -2822,13 +2828,13 @@
   {
     "translation": {
       "en": "and found out that my father was someone totally different and he had no idea that I existed.",
-      "es": "y descubrí que mi padre era otra persona, y no tenía idea de mi existencia."
+      "es": "y descubrí que mi padre era otra persona,y no tenía idea de mi existencia."
     }
   },
   {
     "translation": {
       "en": "So I continued to help other families find their DNA matches or solve their mysteries.",
-      "es": "Así que seguí ayudando a otras familias a cotejar sus ADN o resolver misterios."
+      "es": "Así que seguí ayudando a otras familiasa cotejar sus ADN o resolver misterios."
     }
   },
   {
@@ -2840,19 +2846,19 @@
   {
     "translation": {
       "en": "or other family members that show up in people's DNA.",
-      "es": "u otros familiares que aparecen en el ADN de las personas"
+      "es": "u otros familiaresque aparecen en el ADN de las personas"
     }
   },
   {
     "translation": {
-      "en": "I called Shayna…  …and I said, Okay, someone needs to find his mom.",
-      "es": "Llamé a Shayna y le dije: Alguien tiene que encontrar a su mamá."
+      "en": "I called Shayna… [inhales] …and I said, \"Okay, someone needs to find his mom.\"",
+      "es": "Llamé a Shayna y le dije:\"Alguien tiene que encontrar a su mamá\"."
     }
   },
   {
     "translation": {
-      "en": "I was like, Let me give it a shot.",
-      "es": "Y yo respondí: Claro, lo intentaré."
+      "en": "I was like, \"Let me give it a shot.\"",
+      "es": "Y yo respondí: \"Claro, lo intentaré\"."
     }
   },
   {
@@ -2864,7 +2870,7 @@
   {
     "translation": {
       "en": "The initial jail he was in, though, was very rough,",
-      "es": "pero la primera cárcel en la que estuvo era muy estricta"
+      "es": "pero la primera cárcel en la que estuvoera muy estricta"
     }
   },
   {
@@ -2882,7 +2888,7 @@
   {
     "translation": {
       "en": "I was blasting social media,",
-      "es": "Hice publicaciones en todas las redes sociales"
+      "es": "Hice publicacionesen todas las redes sociales"
     }
   },
   {
@@ -2906,7 +2912,7 @@
   {
     "translation": {
       "en": "I knew that none of his information would show up online.",
-      "es": "sabía que su información no aparecería en línea."
+      "es": "sabía que su informaciónno aparecería en línea."
     }
   },
   {
@@ -2941,14 +2947,14 @@
   },
   {
     "translation": {
-      "en": "because it said assault with bodily injury of a family member.",
-      "es": "decía: agresión con lesiones físicas a un familiar."
+      "en": "because it said \"assault with bodily injury of a family member.\"",
+      "es": "decía: \"agresión con lesiones físicasa un familiar\"."
     }
   },
   {
     "translation": {
       "en": "And that one was done the same year that Anthony was born.",
-      "es": "Y era del mismo año en el que nació Anthony."
+      "es": "Y era del mismo añoen el que nació Anthony."
     }
   },
   {
@@ -2960,43 +2966,43 @@
   {
     "translation": {
       "en": "I have a private investigator friend who drove to Houston looking for more details.",
-      "es": "Un amigo es investigador privado y fue a Houston a buscar más detalles."
+      "es": "Un amigo es investigador privadoy fue a Houston a buscar más detalles."
     }
   },
   {
     "translation": {
       "en": "He was trying to find out if we could figure out who the victim was in the domestic violence cases.",
-      "es": "Queríamos averiguar quién era víctima del caso de violencia doméstica."
+      "es": "Queríamos averiguar quién era víctimadel caso de violencia doméstica."
     }
   },
   {
     "translation": {
-      "en": "Shayna starts looking, and I thought, How long is this gonna take her?",
-      "es": "Shayna empezó a investigar y yo pensaba: ¿Cuánto le llevará?"
+      "en": "[Elena] Shayna starts looking, and I thought, \"How long is this gonna take her?\"",
+      "es": "Shayna empezó a investigary yo pensaba: \"¿Cuánto le llevará?"
     }
   },
   {
     "translation": {
-      "en": "Because Anthony is locked up in jail",
+      "en": "\"Because Anthony is locked up in jail",
       "es": "Porque Anthony está preso"
     }
   },
   {
     "translation": {
-      "en": "and I don't want him to just kind of get lost in the system.",
-      "es": "y no quiero que quede olvidado en el sistema."
+      "en": "and I don't want him to just kind of get lost in the system.\"",
+      "es": "y no quieroque quede olvidado en el sistema."
     }
   },
   {
     "translation": {
-      "en": "So I don't want to tell her to hurry up, but I need her to hurry up, and so…",
-      "es": "Así que no quiero presionarla, pero necesito que se apure."
+      "en": "\"So I don't want to tell her to hurry up, but I need her to hurry up,\" and so… [laughs]",
+      "es": "Así que no quiero presionarla,pero necesito que se apure\"."
     }
   },
   {
     "translation": {
-      "en": "I started using this website that I use to find family members.",
-      "es": "Entonces recurrí al sitio que uso para encontrar familiares."
+      "en": "[Shayna] I started using this website that I use to find family members.",
+      "es": "Entonces recurrí al sitio que usopara encontrar familiares."
     }
   },
   {
@@ -3008,19 +3014,19 @@
   {
     "translation": {
       "en": "but it gives anyone who maybe got mail",
-      "es": "que lista a las personas que recibieron correo"
+      "es": "que lista a las personasque recibieron correo"
     }
   },
   {
     "translation": {
-      "en": "at the same home as them at any given time, as an associate.",
-      "es": "en la misma dirección en un momento dado, como un socio."
+      "en": "at the same home as them at any given time, as an \"associate.\"",
+      "es": "en la misma direcciónen un momento dado, como un \"socio\"."
     }
   },
   {
     "translation": {
       "en": "I wanted to see if I could find any associates from Texas",
-      "es": "Quería ver si podía encontrar estas relaciones en Texas,"
+      "es": "Quería ver si podía encontrarestas relaciones en Texas,"
     }
   },
   {
@@ -3043,32 +3049,32 @@
   },
   {
     "translation": {
-      "en": "And the way she spells her name, Netasha, is very unique.",
-      "es": "Y la forma en que escribe su nombre, Natasha, es muy particular."
+      "en": "And the way she spells her name, \"Netasha,\" is very unique.",
+      "es": "Y la forma en que escribe su nombre,Natasha, es muy particular."
     }
   },
   {
     "translation": {
-      "en": "She has an e in the beginning of it instead of an a.",
-      "es": "Lleva una e al principio, en lugar de una a."
+      "en": "She has an \"e\" in the beginning of it instead of an \"a.\"",
+      "es": "Lleva una \"e\" al principio,en lugar de una \"a\"."
     }
   },
   {
     "translation": {
-      "en": "So it's N- E- T- A- S- H- A.",
-      "es": "Es Netasha."
+      "en": "So it's \"N-E-T-A-S-H-A.\"",
+      "es": "Es \"Netasha\"."
     }
   },
   {
     "translation": {
       "en": "So it wasn't hard to just find her on Facebook.",
-      "es": "Así que no fue difícil encontrarla en Facebook."
+      "es": "Así que no fue difícilencontrarla en Facebook."
     }
   },
   {
     "translation": {
-      "en": "She sent me a picture and said, Do you think this could be his sister?",
-      "es": "Me envió una foto y me preguntó: ¿Crees que sea su hermana?."
+      "en": "[Elena] She sent me a picture and said, \"Do you think this could be his sister?\"",
+      "es": "Me envió una foto y me preguntó:\"¿Crees que sea su hermana?\"."
     }
   },
   {
@@ -3079,13 +3085,13 @@
   },
   {
     "translation": {
-      "en": "Oh, my gosh, that's absolutely his sister.",
-      "es": "¡Por Dios! Definitivamente es su hermana."
+      "en": "\"Oh, my gosh, that's absolutely his sister.\"",
+      "es": "\"¡Por Dios!Definitivamente es su hermana\"."
     }
   },
   {
     "translation": {
-      "en": "I sent her a Facebook message that day.",
+      "en": "[Shayna] I sent her a Facebook message that day.",
       "es": "Le envié un mensaje de Facebook ese día,"
     }
   },
@@ -3098,7 +3104,7 @@
   {
     "translation": {
       "en": "is because we weren't friends, it went into the secret mailbox",
-      "es": "como no éramos amigas, fue a parar a un buzón oculto"
+      "es": "como no éramos amigas,fue a parar a un buzón oculto"
     }
   },
   {
@@ -3110,19 +3116,19 @@
   {
     "translation": {
       "en": "After reading my message, Netasha immediately got with her mom and gave me a call.",
-      "es": "Después de leer mi mensaje, Natasha habló con su mamá y me llamaron."
+      "es": "Después de leer mi mensaje,Natasha habló con su mamá y me llamaron."
     }
   },
   {
     "translation": {
-      "en": "And I happened to be on the phone with Elena, so I actually conference- called them in.",
-      "es": "Yo justo estaba al teléfono con Elena, así que las incluí en la llamada."
+      "en": "And I happened to be on the phone with Elena, so I actually conference-called them in.",
+      "es": "Yo justo estaba al teléfono con Elena,así que las incluí en la llamada."
     }
   },
   {
     "translation": {
       "en": "We told them together that we were looking to help Anthony.",
-      "es": "Las dos les dijimos que queríamos ayudar a Anthony."
+      "es": "Las dos les dijimosque queríamos ayudar a Anthony."
     }
   },
   {
@@ -3146,19 +3152,19 @@
   {
     "translation": {
       "en": "I started digging for the story,",
-      "es": "Comencé a querer saber más sobre la historia,"
+      "es": "Comencé a querer saber mássobre la historia,"
     }
   },
   {
     "translation": {
       "en": "and immediately they sent me the missing poster.",
-      "es": "e inmediatamente me enviaron el cartel de desaparecido."
+      "es": "e inmediatamenteme enviaron el cartel de desaparecido."
     }
   },
   {
     "translation": {
       "en": "He was legitimately a missing child, with the poster and everything.",
-      "es": "Era un niño desaparecido, con el cartel y todo."
+      "es": "Era un niño desaparecido,con el cartel y todo."
     }
   },
   {
@@ -3194,25 +3200,25 @@
   {
     "translation": {
       "en": "we learned he may have been snatched from his home more than a decade ago.",
-      "es": "descubrimos que fue secuestrado de su casa hace más de una década."
+      "es": "descubrimos que fue secuestradode su casa hace más de una década."
     }
   },
   {
     "translation": {
       "en": "Part of the puzzle is this flier that actually surfaced from over a decade ago,",
-      "es": "Parte del rompecabezas es este volante que apareció hace más de una década,"
+      "es": "Parte del rompecabezas es este volanteque apareció hace más de una década,"
     }
   },
   {
     "translation": {
       "en": "claiming Templet was taken from his own home by his own father.",
-      "es": "que dice que su propio padre lo secuestró de su propia casa."
+      "es": "que dice que su propio padre lo secuestróde su propia casa."
     }
   },
   {
     "translation": {
-      "en": "There was all these questions in my head about what could have happened.",
-      "es": "Mi cabeza estaba llena de preguntas sobre lo que pudo haber pasado."
+      "en": "[Jarrett] There was all these questions in my head about what could have happened.",
+      "es": "Mi cabeza estaba llena de preguntassobre lo que pudo haber pasado."
     }
   },
   {
@@ -3224,7 +3230,7 @@
   {
     "translation": {
       "en": "Now, I've since learned just how bad it was.",
-      "es": "Recién en ese momento entendí lo terrible que era."
+      "es": "Recién en ese momento entendílo terrible que era."
     }
   }
 ]

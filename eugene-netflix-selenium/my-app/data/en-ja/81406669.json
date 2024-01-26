@@ -1,61 +1,61 @@
 [
   {
     "translation": {
-      "en": "We have a female patient, unconscious with a head injury.",
+      "en": "[paramedic 1] We have a female patient, unconscious with a head injury.",
       "ja": "患者は女性 頭部に外傷 意識不明です"
     }
   },
   {
     "translation": {
-      "en": "Olivia, can you hear me?",
-      "ja": "オリビア 聞こえる？ オーストラリア シドニー"
+      "en": "[paramedic 2] Olivia, can you hear me?",
+      "ja": "オリビア 聞こえる？ オーストラリアシドニー"
     }
   },
   {
     "translation": {
-      "en": "- Olivia, can you hear me? -",
+      "en": "-Olivia, can you hear me? -[gasps]",
       "ja": "オリビア？"
     }
   },
   {
     "translation": {
-      "en": "- - Fuck.",
+      "en": "-[cardiac monitor beeping] -[Olivia] Fuck.",
       "ja": "ヤバい"
     }
   },
   {
     "translation": {
-      "en": "- Look, it's okay. It's okay. No. - You're okay.",
+      "en": "-Look, it's okay. It's okay. No. -[paramedic 2] You're okay.",
       "ja": "大丈夫 大丈夫　そのままで 救急車の中よ"
     }
   },
   {
     "translation": {
-      "en": "- You're in an ambulance. - No, no. I need to--",
+      "en": "-You're in an ambulance. -No, no. I need to--",
       "ja": "救急車の中よ ダメ　私を―"
     }
   },
   {
     "translation": {
-      "en": "- - Let me out.",
+      "en": "-[monitor beeping rapidly] -Let me out.",
       "ja": "外に出して"
     }
   },
   {
     "translation": {
-      "en": "- It's okay. - Off. Off.",
+      "en": "-It's okay. -Off. Off.",
       "ja": "触らないで"
     }
   },
   {
     "translation": {
-      "en": "- Stop. - What is-- Let me out!",
+      "en": "-[paramedic 1] Stop. -What is-- Let me out!",
       "ja": "こら 外に出してよ"
     }
   },
   {
     "translation": {
-      "en": "- Miss Healy-- - Oh, my boob!",
+      "en": "-Miss Healy-- -Oh, my boob!",
       "ja": "オリビア 胸を…"
     }
   },
@@ -67,37 +67,37 @@
   },
   {
     "translation": {
-      "en": "- Grab her! - Oh, God! I wanna go home!",
+      "en": "-[paramedic 2] Grab her! -Oh, God! I wanna go home!",
       "ja": "やだ　私を家に― 帰らせて"
     }
   },
   {
     "translation": {
-      "en": "Sorry. My bad.",
+      "en": "[man] Sorry. My bad.",
       "ja": "ゴメン"
     }
   },
   {
     "translation": {
-      "en": "- That's too much eye contact. - Okay.",
+      "en": "-[Olivia] That's too much eye contact. -[man] Okay.",
       "ja": "目を見ないで 〝キッチンカー祭り〞"
     }
   },
   {
     "translation": {
-      "en": "- Oh, shit, I'm coming. - Okay.",
+      "en": "-[panting] Oh, shit, I'm coming. -[man] Okay.",
       "ja": "目を見ないで イキそう いいよ"
     }
   },
   {
     "translation": {
-      "en": "- You need to skedaddle. - Oh.",
+      "en": "-You need to skedaddle. -Oh.",
       "ja": "早く行って"
     }
   },
   {
     "translation": {
-      "en": "- You don't wanna grab a bite? - Well, I can't.",
+      "en": "-You don't wanna grab a bite? -Well, I can't.",
       "ja": "何か食べない？ ゴメン"
     }
   },
@@ -109,7 +109,7 @@
   },
   {
     "translation": {
-      "en": "- Tomorrow? - No can do.",
+      "en": "-Tomorrow? -No can do.",
       "ja": "明日は？ 無理"
     }
   },
@@ -146,13 +146,13 @@
   {
     "translation": {
       "en": "Yeah, well, existence is random, life is short.",
-      "ja": "“存在は偶然で 人生は短い”って言うからね"
+      "ja": "“存在は偶然で人生は短い”って言うからね"
     }
   },
   {
     "translation": {
       "en": "If you're not making the most of every moment, what's the fucking point?",
-      "ja": "今を楽しまなきゃ 意味が無い"
+      "ja": "今を楽しまなきゃ意味が無い"
     }
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "translation": {
-      "en": "- Hey. - Yo, Liv.",
+      "en": "-Hey. -Yo, Liv.",
       "ja": "やあ オリビア"
     }
   },
@@ -181,7 +181,7 @@
   },
   {
     "translation": {
-      "en": "Told you the oysters would work.",
+      "en": "[Liv] Told you the oysters would work.",
       "ja": "カキは効くでしょ"
     }
   },
@@ -206,19 +206,19 @@
   {
     "translation": {
       "en": "I'm not gonna hassle you about being a judge for the new TV show.",
-      "ja": "“新番組の 審査員にして”とは言わない"
+      "ja": "“新番組の審査員にして”とは言わない"
     }
   },
   {
     "translation": {
       "en": "Although, I do stand by my original pitch.",
-      "ja": "でも “世界の一流シェフを―”"
+      "ja": "でも“世界の一流シェフを―”"
     }
   },
   {
     "translation": {
-      "en": "World's top chefs being judged by Banquet's top food writer.",
-      "ja": "“「バンケット」のトップ･ フードライターが審査”？"
+      "en": "\"World's top chefs being judged by Banquet's top food writer.\"",
+      "ja": "“「バンケット」のトップ･フードライターが審査”？"
     }
   },
   {
@@ -230,7 +230,7 @@
   {
     "translation": {
       "en": "I know I'm not the obvious choice, but I think--",
-      "ja": "本命じゃないのは 分かるけど"
+      "ja": "本命じゃないのは分かるけど"
     }
   },
   {
@@ -242,7 +242,7 @@
   {
     "translation": {
       "en": "In fact, I think a million people across 120 territories",
-      "ja": "120の国や地域に住む 100万人の視聴者が―"
+      "ja": "120の国や地域に住む100万人の視聴者が―"
     }
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "translation": {
-      "en": "- Your writing's on point. - Oh, my God.",
+      "en": "-Your writing's on point. -Oh, my God.",
       "ja": "文章がすばらしい"
     }
   },
@@ -284,19 +284,19 @@
   {
     "translation": {
       "en": "and this whole Australian thing, I can sell it.",
-      "ja": "オーストラリア出身なのも 売りになる"
+      "ja": "オーストラリア出身なのも売りになる"
     }
   },
   {
     "translation": {
       "en": "Oh, my God. I can't feel my face.",
-      "ja": "驚きすぎて 顔の感覚が無い"
+      "ja": "驚きすぎて顔の感覚が無い"
     }
   },
   {
     "translation": {
       "en": "Is this really happening? Is my face being weird?",
-      "ja": "これは夢？ 私の顔 大丈夫？"
+      "ja": "これは夢？私の顔 大丈夫？"
     }
   },
   {
@@ -308,7 +308,7 @@
   {
     "translation": {
       "en": "Outside the food industry, Liv Healy means nothing.",
-      "ja": "あなたは 飲食業界の外では無名の人"
+      "ja": "あなたは飲食業界の外では無名の人"
     }
   },
   {
@@ -319,20 +319,20 @@
   },
   {
     "translation": {
-      "en": "- It's true, but harsh. - The show execs see you as a wild card.",
-      "ja": "きついね あなたが一般の人の 注目を集められると"
+      "en": "-It's true, but harsh. -The show execs see you as a wild card.",
+      "ja": "きついね あなたが一般の人の注目を集められると"
     }
   },
   {
     "translation": {
       "en": "I need to prove to them",
-      "ja": "あなたが一般の人の 注目を集められると"
+      "ja": "あなたが一般の人の注目を集められると"
     }
   },
   {
     "translation": {
       "en": "that your voice can reach an audience outside the food industry.",
-      "ja": "番組制作トップに 納得させる必要があるの"
+      "ja": "番組制作トップに納得させる必要があるの"
     }
   },
   {
@@ -356,13 +356,13 @@
   {
     "translation": {
       "en": "Yeah, I need you to write something that raises your profile globally.",
-      "ja": "世界的に名が売れるものを 書いてほしい"
+      "ja": "世界的に名が売れるものを書いてほしい"
     }
   },
   {
     "translation": {
       "en": "The execs need to see you reach a large audience,",
-      "ja": "あなたが バズって 人気が出るのを"
+      "ja": "あなたが バズって人気が出るのを"
     }
   },
   {
@@ -380,7 +380,7 @@
   {
     "translation": {
       "en": "Can we make it Monday? Gotta go to Australia for the weekend.",
-      "ja": "月曜は？ 土日はオーストラリアへ"
+      "ja": "月曜は？土日はオーストラリアへ"
     }
   },
   {
@@ -404,13 +404,13 @@
   {
     "translation": {
       "en": "Seriously, this is gonna take you from Stefani Germanotta",
-      "ja": "これは ステファニー･ ジャーマノッタが"
+      "ja": "これは ステファニー･ジャーマノッタが"
     }
   },
   {
     "translation": {
       "en": "to Lady fucking Gaga.",
-      "ja": "レディー･ガガに なるようなもの"
+      "ja": "レディー･ガガになるようなもの"
     }
   },
   {
@@ -422,24 +422,24 @@
   {
     "translation": {
       "en": "Okay, I gotta bounce. My dog needs her epilepsy meds.",
-      "ja": "うちの犬に 薬をやりに行かないと"
+      "ja": "うちの犬に薬をやりに行かないと"
     }
   },
   {
     "translation": {
-      "en": "- I'll talk to you soon. - Yeah.",
+      "en": "-I'll talk to you soon. -Yeah.",
       "ja": "また話しましょ"
     }
   },
   {
     "translation": {
-      "en": "- This is huge. - Wow.",
+      "en": "-This is huge. -Wow.",
       "ja": "すごいことよ うん"
     }
   },
   {
     "translation": {
-      "en": "- Don't fuck it up. - Uh- huh.",
+      "en": "-Don't fuck it up. -Uh-huh.",
       "ja": "しっかりね"
     }
   },
@@ -463,44 +463,44 @@
   },
   {
     "translation": {
-      "en": "- Cheers. - Thank you.",
+      "en": "-Cheers. -Thank you.",
       "ja": "乾杯"
     }
   },
   {
     "translation": {
-      "en": "Ladies and gentlemen, we'll shortly begin our descent into Sydney,",
-      "ja": "これより シドニーに向けて 降下します"
+      "en": "[stewardess] Ladies and gentlemen, we'll shortly begin our descent into Sydney,",
+      "ja": "これより シドニーに向けて降下します"
     }
   },
   {
     "translation": {
       "en": "where it's hot at 38 degrees.",
-      "ja": "現地の気温は高く 現在38度です"
+      "ja": "現地の気温は高く現在38度です"
     }
   },
   {
     "translation": {
-      "en": "- Fuck me dead. How's the fucking humidity? - Welcome to Sydney, mate.",
+      "en": "-Fuck me dead. How's the fucking humidity? -Welcome to Sydney, mate.",
       "ja": "何て蒸し暑いんだ それがシドニーさ"
     }
   },
   {
     "translation": {
       "en": "♪ Happy birthday to you ♪",
-      "ja": "ハッピーバースデー 　　　　　　トゥーユー"
+      "ja": "ハッピーバースデー　　　　　　トゥーユー"
     }
   },
   {
     "translation": {
       "en": "♪ Happy birthday to you ♪",
-      "ja": "ハッピーバースデー 　　　　　　トゥーユー"
+      "ja": "ハッピーバースデー　　　　　　トゥーユー"
     }
   },
   {
     "translation": {
       "en": "♪ Happy birthday, dear Amy-- ♪",
-      "ja": "ハッピーバースデー 　　　　　ディア エイミー"
+      "ja": "ハッピーバースデー　　　　　ディア エイミー"
     }
   },
   {
@@ -524,7 +524,7 @@
   {
     "translation": {
       "en": "Don't see how this tops the air fryer we got her.",
-      "ja": "うちがあげた ノンフライヤーよりいい？"
+      "ja": "うちがあげたノンフライヤーよりいい？"
     }
   },
   {
@@ -535,7 +535,7 @@
   },
   {
     "translation": {
-      "en": "- Hi. - This is the best present ever.",
+      "en": "-Hi. -This is the best present ever.",
       "ja": "本当に最高のプレゼント"
     }
   },
@@ -553,7 +553,7 @@
   },
   {
     "translation": {
-      "en": "- Here. - Oh. What-- Here, hold all this.",
+      "en": "-Here. -Oh. What-- Here, hold all this.",
       "ja": "ほら これ持ってて"
     }
   },
@@ -571,7 +571,7 @@
   },
   {
     "translation": {
-      "en": "- Okay. - I was drinking that.",
+      "en": "-Okay. -[woman] I was drinking that.",
       "ja": "よし 飲んでたのよ"
     }
   },
@@ -590,18 +590,18 @@
   {
     "translation": {
       "en": "you are a beautiful, flawless person.",
-      "ja": "あなたは美しくて 非の打ち所のない人"
+      "ja": "あなたは美しくて非の打ち所のない人"
     }
   },
   {
     "translation": {
-      "en": "You've been my ride- or- die since high school and my soul mate.",
-      "ja": "高校時代からの ソウルメイトだよね"
+      "en": "You've been my ride-or-die since high school and my soul mate.",
+      "ja": "高校時代からのソウルメイトだよね"
     }
   },
   {
     "translation": {
-      "en": "- Aw. - And there is no one in the world that I--",
+      "en": "-[Amy] Aw. -And there is no one in the world that I--",
       "ja": "彼女は世界の誰よりも…"
     }
   },
@@ -625,13 +625,13 @@
   },
   {
     "translation": {
-      "en": "♪ You can call me the good- time girl ♪",
-      "ja": "ウェルマニア ～私のウェルネス奮戦記～"
+      "en": "♪ You can call me the good-time girl ♪",
+      "ja": "ウェルマニア～私のウェルネス奮戦記～"
     }
   },
   {
     "translation": {
-      "en": "- Oh, wake up, boofhead. -",
+      "en": "-Oh, wake up, boofhead. -[Liv groans]",
       "ja": "起きろよ こら"
     }
   },
@@ -667,20 +667,20 @@
   },
   {
     "translation": {
-      "en": "- Welcome home. - Oh, get out.",
+      "en": "-Welcome home. -Oh, get out.",
       "ja": "元気？ 出てって"
     }
   },
   {
     "translation": {
       "en": "Oh, Mum, so the celebrant is confirmed, but I spoke to the florist.",
-      "ja": "司祭の確認は取れたけど 生花店の人の話では"
+      "ja": "司祭の確認は取れたけど生花店の人の話では"
     }
   },
   {
     "translation": {
       "en": "Unfortunately, the peonies will be out of season.",
-      "ja": "シャクヤクは 手に入らないらしい"
+      "ja": "シャクヤクは手に入らないらしい"
     }
   },
   {
@@ -692,7 +692,7 @@
   {
     "translation": {
       "en": "Oh, that's a shame. You love peonies.",
-      "ja": "シャクヤクが好きなのに 残念ね"
+      "ja": "シャクヤクが好きなのに残念ね"
     }
   },
   {
@@ -710,13 +710,13 @@
   {
     "translation": {
       "en": "about you entering into an antiquated institution",
-      "ja": "抑圧と所有の関係を 結ぶのを―"
+      "ja": "抑圧と所有の関係を結ぶのを―"
     }
   },
   {
     "translation": {
       "en": "that's predominantly about oppression and ownership.",
-      "ja": "あんたのゲイの先祖は どう思うだろうね"
+      "ja": "あんたのゲイの先祖はどう思うだろうね"
     }
   },
   {
@@ -739,7 +739,7 @@
   },
   {
     "translation": {
-      "en": "- Yes! - Wow.",
+      "en": "-Yes! -Wow.",
       "ja": "やった"
     }
   },
@@ -752,25 +752,25 @@
   {
     "translation": {
       "en": "Says the guy who visits his mum five times a week, Gaz.",
-      "ja": "週５で 実家に来てる奴が言う？"
+      "ja": "週５で実家に来てる奴が言う？"
     }
   },
   {
     "translation": {
-      "en": "- It's not that often. - I love having you both home.",
+      "en": "-It's not that often. -I love having you both home.",
       "ja": "それほどじゃ ２人とも 歓迎よ"
     }
   },
   {
     "translation": {
-      "en": "- Now, what do you want for dinner? - Surprise me.",
+      "en": "-Now, what do you want for dinner? -[Liv] Surprise me.",
       "ja": "夕飯は何がいい？"
     }
   },
   {
     "translation": {
-      "en": "- Oh! No. Your lamb chops. Delectable. - Hmm.",
-      "ja": "ママの ラムチョップ 最高だよね"
+      "en": "-Oh! No. Your lamb chops. Delectable. -[Gaz] Hmm.",
+      "ja": "ママの ラムチョップ最高だよね"
     }
   },
   {
@@ -788,13 +788,13 @@
   {
     "translation": {
       "en": "Internationally renowned chefs compete to be crowned world's best.",
-      "ja": "“この秋 世界の一流シェフが トップの座を争う―”"
+      "ja": "“この秋 世界の一流シェフがトップの座を争う―”"
     }
   },
   {
     "translation": {
       "en": "Coming this fall, Banquet Royale, your newest food obsession.",
-      "ja": "“「バンケット･ ロワイアル」がやって来る”"
+      "ja": "“「バンケット･ロワイアル」がやって来る”"
     }
   },
   {
@@ -812,19 +812,19 @@
   {
     "translation": {
       "en": "A great writer. And that's why they want me, my voice,",
-      "ja": "有能な記者だから 頼まれた"
+      "ja": "有能な記者だから頼まれた"
     }
   },
   {
     "translation": {
       "en": "so I can share my taste with, like, a gajillion people.",
-      "ja": "この味のセンスを 世界に広めるためにね"
+      "ja": "この味のセンスを世界に広めるためにね"
     }
   },
   {
     "translation": {
       "en": "Do you know who is a wonderful cook?",
-      "ja": "いい料理人なら 知ってるわ"
+      "ja": "いい料理人なら知ってるわ"
     }
   },
   {
@@ -841,14 +841,14 @@
   },
   {
     "translation": {
-      "en": "- Oh, her dad was hot. - Oh, her dad was hot.",
+      "en": "-Oh, her dad was hot. -Oh, her dad was hot.",
       "ja": "パパがカッコよかった"
     }
   },
   {
     "translation": {
       "en": "Well, she cooked the most delicious date slice",
-      "ja": "チャリティーイベントに 作ってくるお菓子が"
+      "ja": "チャリティーイベントに作ってくるお菓子が"
     }
   },
   {
@@ -872,18 +872,18 @@
   {
     "translation": {
       "en": "Oh, I'm so sorry. I didn't realize it was moist.",
-      "ja": "ああそう しっとりしてたんだ？"
+      "ja": "ああそうしっとりしてたんだ？"
     }
   },
   {
     "translation": {
-      "en": "Oh, Olivia.",
+      "en": "[Lorraine] Oh, Olivia.",
       "ja": "オリビア"
     }
   },
   {
     "translation": {
-      "en": "- I need some air. - Hmm.",
+      "en": "-I need some air. -[Gaz] Hmm.",
       "ja": "外の空気を"
     }
   },
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "Your face is a health hazard.",
+      "en": "[Liv] Your face is a health hazard.",
       "ja": "その顔が有害よ"
     }
   },
@@ -926,7 +926,7 @@
   {
     "translation": {
       "en": "If you wanna go to Sarah's, get upstairs now.",
-      "ja": "セーラの家に 行きたいのよね？"
+      "ja": "セーラの家に行きたいのよね？"
     }
   },
   {
@@ -937,13 +937,13 @@
   },
   {
     "translation": {
-      "en": "That's Mum to you.",
+      "en": "That's \"Mum\" to you.",
       "ja": "“ママ”でしょ"
     }
   },
   {
     "translation": {
-      "en": "Her attitude stinks lately.",
+      "en": "[in Cantonese] Her attitude stinks lately.",
       "ja": "〈最近 態度が悪いな〉"
     }
   },
@@ -955,7 +955,7 @@
   },
   {
     "translation": {
-      "en": "- Just got the bill from yesterday. - Mmm.",
+      "en": "-Just got the bill from yesterday. -Mmm.",
       "ja": "昨日の請求書が来た"
     }
   },
@@ -974,7 +974,7 @@
   {
     "translation": {
       "en": "Yeah, it's pretty cool Liv flew halfway around the world for you.",
-      "ja": "オリビアが地球の裏側から 来てくれたからな"
+      "ja": "オリビアが地球の裏側から来てくれたからな"
     }
   },
   {
@@ -986,25 +986,25 @@
   {
     "translation": {
       "en": "In fact, you're so sweet and understanding,",
-      "ja": "あなたは 今夜の授賞式だって"
+      "ja": "あなたは今夜の授賞式だって"
     }
   },
   {
     "translation": {
       "en": "you probably wouldn't mind if I took my best friend to the awards tonight.",
-      "ja": "私が彼女と行くのを 許してくれるわね"
+      "ja": "私が彼女と行くのを許してくれるわね"
     }
   },
   {
     "translation": {
       "en": "Oh! First I'm down 700 bucks, now this.",
-      "ja": "私が彼女と行くのを 許してくれるわね 700ドルの出費の次はそれか"
+      "ja": "私が彼女と行くのを許してくれるわね 700ドルの出費の次はそれか"
     }
   },
   {
     "translation": {
       "en": "Oh, Liv's heard me bang on about the AJAs since uni.",
-      "ja": "オリビアには学生時代から この賞の話をしてる"
+      "ja": "オリビアには学生時代からこの賞の話をしてる"
     }
   },
   {
@@ -1057,26 +1057,26 @@
   },
   {
     "translation": {
-      "en": "- Oh, my God. - Are you okay?",
+      "en": "-Oh, my God. -Are you okay?",
       "ja": "苦しい 大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "- Oh, it's just the kid's got my shit. - Come with me.",
+      "en": "-Oh, it's just the kid's got my shit. -Come with me.",
       "ja": "ガキに物をとられた 来て"
     }
   },
   {
     "translation": {
-      "en": "You're the cops. Really, that's all you can do?",
-      "ja": "警察が それしかできないの？"
+      "en": "[Liv] You're the cops. Really, that's all you can do?",
+      "ja": "警察がそれしかできないの？"
     }
   },
   {
     "translation": {
       "en": "My green card is in that bag, and I cannot be stranded here,",
-      "ja": "グリーンカードが入ってて 帰れない"
+      "ja": "グリーンカードが入ってて帰れない"
     }
   },
   {
@@ -1166,19 +1166,19 @@
   {
     "translation": {
       "en": "I have a flight tomorrow and no green card.",
-      "ja": "明日のフライトなのに グリーンカードが無い"
+      "ja": "明日のフライトなのにグリーンカードが無い"
     }
   },
   {
     "translation": {
       "en": "I need to figure out how to get back into the US.",
-      "ja": "どうやって アメリカに戻れば？"
+      "ja": "どうやってアメリカに戻れば？"
     }
   },
   {
     "translation": {
       "en": "Yeah, I don't think we have that crystal.",
-      "ja": "そういうクリスタルは うちには無いわね"
+      "ja": "そういうクリスタルはうちには無いわね"
     }
   },
   {
@@ -1208,25 +1208,25 @@
   {
     "translation": {
       "en": "Right, my contact got you an appointment at the US consulate tomorrow at 10.",
-      "ja": "明日の朝10時 アメリカ総領事館で"
+      "ja": "明日の朝10時アメリカ総領事館で"
     }
   },
   {
     "translation": {
       "en": "They'll give you a travel document, and you'll be good to make your flight.",
-      "ja": "渡航書類を 渡してもらえることになった"
+      "ja": "渡航書類を渡してもらえることになった"
     }
   },
   {
     "translation": {
-      "en": "You are one well- connected goddess. Thank you.",
+      "en": "You are one well-connected goddess. Thank you.",
       "ja": "顔が利く女神様だわ"
     }
   },
   {
     "translation": {
       "en": "I am. And can't smoke in here, okay?",
-      "ja": "そうよ でも マリファナは吸わないで"
+      "ja": "そうよ でもマリファナは吸わないで"
     }
   },
   {
@@ -1249,19 +1249,19 @@
   },
   {
     "translation": {
-      "en": "- What do we think of this? - Ah, serious BVE.",
+      "en": "-What do we think of this? -Ah, serious BVE.",
       "ja": "これは？ マジＢＶＥじゃん"
     }
   },
   {
     "translation": {
-      "en": "- Big vag energy. - Get fucked. I've had two kids.",
+      "en": "-Big vag energy. -Get fucked. I've had two kids.",
       "ja": "ビッグ･ヴァギナ･エネルギー(ＢＶＥ) ２人産んだからって？"
     }
   },
   {
     "translation": {
-      "en": "Oh, God, it's a compliment. - Oh. - It's like-- Yeah.",
+      "en": "Oh, God, it's a compliment. -Oh. -It's like-- Yeah.",
       "ja": "違う 褒め言葉だってば"
     }
   },
@@ -1273,13 +1273,13 @@
   },
   {
     "translation": {
-      "en": "- I'm just happy to be nominated. - That is absolute bullshit, Kwan.",
+      "en": "-I'm just happy to be nominated. -That is absolute bullshit, Kwan.",
       "ja": "ノミネートで十分 それは大うそだね"
     }
   },
   {
     "translation": {
-      "en": "- I know you wanna win. - Yeah, of course, but you can't say that.",
+      "en": "-I know you wanna win. -Yeah, of course, but you can't say that.",
       "ja": "取りたいくせに 口には出せないよ"
     }
   },
@@ -1292,13 +1292,13 @@
   {
     "translation": {
       "en": "Okay, it doesn't mean this Asian woman will win up against four men called Chris.",
-      "ja": "アジア系の女は 白人風な名前の男に勝てない"
+      "ja": "アジア系の女は白人風な名前の男に勝てない"
     }
   },
   {
     "translation": {
       "en": "Cool. All right, well, what about your gracious loser face?",
-      "ja": "じゃあ 賞を逃した時の 顔は決めた？"
+      "ja": "じゃあ 賞を逃した時の顔は決めた？"
     }
   },
   {
@@ -1321,7 +1321,7 @@
   },
   {
     "translation": {
-      "en": "- Yes. - Okay.",
+      "en": "-Yes. -Okay.",
       "ja": "そうよ やっぱり"
     }
   },
@@ -1340,12 +1340,12 @@
   {
     "translation": {
       "en": "And walk into a room full of people who have either rejected me or fired me?",
-      "ja": "私を受け入れなかった 人たちだよ"
+      "ja": "私を受け入れなかった人たちだよ"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - That's my idea of hell.",
+      "en": "-Yeah. -That's my idea of hell.",
       "ja": "うん 地獄でしょ"
     }
   },
@@ -1358,7 +1358,7 @@
   {
     "translation": {
       "en": "It's the reason I moved to New York, and you know that.",
-      "ja": "だから ニューヨークに 行ったんじゃん"
+      "ja": "だから ニューヨークに行ったんじゃん"
     }
   },
   {
@@ -1376,25 +1376,25 @@
   {
     "translation": {
       "en": "If you say living well, I will punch you in your perky bosoms.",
-      "ja": "“幸せに生きること”は やめて"
+      "ja": "“幸せに生きること”はやめて"
     }
   },
   {
     "translation": {
       "en": "No, shoving your success in the face of those arseholes.",
-      "ja": "あんたの成功をあいつらに 見せつけることよ"
+      "ja": "あんたの成功をあいつらに見せつけることよ"
     }
   },
   {
     "translation": {
       "en": "You're gonna be a judge on a fancy TV show,",
-      "ja": "テレビ番組の審査員に なるんだよ"
+      "ja": "テレビ番組の審査員になるんだよ"
     }
   },
   {
     "translation": {
       "en": "and I did just call in a massive favor to get you that consulate appointment.",
-      "ja": "さっき総領事館のアポも 取ってあげたし"
+      "ja": "さっき総領事館のアポも取ってあげたし"
     }
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "translation": {
       "en": "But only if I can wear this.",
-      "ja": "でも これを 着させてくれたらね"
+      "ja": "でも これを着させてくれたらね"
     }
   },
   {
@@ -1418,48 +1418,48 @@
   {
     "translation": {
       "en": "Remember when I had sex with Doug's brother at your wedding?",
-      "ja": "結婚式で ダグの弟とヤッたな"
+      "ja": "結婚式でダグの弟とヤッたな"
     }
   },
   {
     "translation": {
-      "en": "- What? - What?",
+      "en": "-What? -What?",
       "ja": "何て？ 何かな？"
     }
   },
   {
     "translation": {
-      "en": "Thank you. Yes. Thanks very much. Appreciate it.",
+      "en": "[woman] Thank you. Yes. Thanks very much. Appreciate it.",
       "ja": "ありがとう ええ　どうも"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Oh, hi, darling.",
+      "en": "-Hi. -[Lorraine] Oh, hi, darling.",
       "ja": "あら オリビア"
     }
   },
   {
     "translation": {
-      "en": "- Hi, Mary. - Heard about your ordeal with your bag.",
+      "en": "-Hi, Mary. -Heard about your ordeal with your bag.",
       "ja": "メアリー 盗まれたって？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Want a lollipop?",
+      "en": "-Yeah. -Want a lollipop?",
       "ja": "そうなの あめ要る？"
     }
   },
   {
     "translation": {
-      "en": "- Yes. Yes, I do. Oh, thank you. - This is a nice surprise.",
+      "en": "-Yes. Yes, I do. Oh, thank you. -This is a nice surprise.",
       "ja": "うん ありがとう ここに来るなんて珍しい"
     }
   },
   {
     "translation": {
-      "en": "- What are you doing here? - I just need to see Dr. Price.",
+      "en": "-What are you doing here? -I just need to see Dr. Price.",
       "ja": "何しに来たの？ プライス先生に会いに"
     }
   },
@@ -1484,7 +1484,7 @@
   {
     "translation": {
       "en": "I promised Amy I'd be her date at the Journalism Awards.",
-      "ja": "エイミーと ジャーナリズム賞の授賞式に"
+      "ja": "エイミーとジャーナリズム賞の授賞式に"
     }
   },
   {
@@ -1502,37 +1502,37 @@
   {
     "translation": {
       "en": "But more importantly, can I please get a lift to the consulate tomorrow?",
-      "ja": "あと明日 総領事館に 書類を取りに行くの"
+      "ja": "あと明日 総領事館に書類を取りに行くの"
     }
   },
   {
     "translation": {
-      "en": "- I need to get a new green card. - Why are you rushing back to New York?",
-      "ja": "車で送って なぜ急いで ニューヨークへ？"
+      "en": "-I need to get a new green card. -Why are you rushing back to New York?",
+      "ja": "車で送って なぜ急いでニューヨークへ？"
     }
   },
   {
     "translation": {
       "en": "You're here now. Why not stay till the wedding?",
-      "ja": "せっかくだから 結婚式まで居たら？"
+      "ja": "せっかくだから結婚式まで居たら？"
     }
   },
   {
     "translation": {
-      "en": "Mum, the TV show. Huge, life- altering opportunity.",
-      "ja": "あのテレビ番組は私にとって 大チャンスなんだよ"
+      "en": "Mum, the TV show. Huge, life-altering opportunity.",
+      "ja": "あのテレビ番組は私にとって大チャンスなんだよ"
     }
   },
   {
     "translation": {
       "en": "Well, I'm taking Gareth and Dalbert for a suit fitting in the morning.",
-      "ja": "明日ギャレスとダルバートを 衣装合わせに連れて行くの"
+      "ja": "明日ギャレスとダルバートを衣装合わせに連れて行くの"
     }
   },
   {
     "translation": {
       "en": "Oh, perfect. I'll just hitch a ride with you and Galbert.",
-      "ja": "それなら私も ギャルバートと一緒に"
+      "ja": "それなら私もギャルバートと一緒に"
     }
   },
   {
@@ -1556,19 +1556,19 @@
   {
     "translation": {
       "en": "I don't normally prescribe benzodiazepines.",
-      "ja": "私は 抗不安薬は 基本的に処方しない"
+      "ja": "私は 抗不安薬は基本的に処方しない"
     }
   },
   {
     "translation": {
       "en": "It's just to take the edge off this shitastic event I've got tonight.",
-      "ja": "今夜のイベントの 緊張感を取りたいだけ"
+      "ja": "今夜のイベントの緊張感を取りたいだけ"
     }
   },
   {
     "translation": {
-      "en": "- My New York doctor gives them like candy. - Well, this isn't New York.",
-      "ja": "ニューヨークでは 簡単に処方するよ ここは ニューヨークじゃない"
+      "en": "-My New York doctor gives them like candy. -Well, this isn't New York.",
+      "ja": "ニューヨークでは簡単に処方するよ ここはニューヨークじゃない"
     }
   },
   {
@@ -1591,7 +1591,7 @@
   },
   {
     "translation": {
-      "en": "- I still party like I'm 20. - I know.",
+      "en": "-I still party like I'm 20. -I know.",
       "ja": "今もパーティーざんまい"
     }
   },
@@ -1604,7 +1604,7 @@
   {
     "translation": {
       "en": "Oh, good on you for keeping up with technology.",
-      "ja": "テクノロジーに 付いていってる"
+      "ja": "テクノロジーに付いていってる"
     }
   },
   {
@@ -1628,25 +1628,25 @@
   {
     "translation": {
       "en": "Oh, it's probably spiked because all of my shit was stolen today,",
-      "ja": "持ち物が 全部盗まれたせいだよ"
+      "ja": "持ち物が全部盗まれたせいだよ"
     }
   },
   {
     "translation": {
       "en": "and Mum is on my back because I can't make dinner tonight.",
-      "ja": "夕飯のことで ママに責められるし"
+      "ja": "夕飯のことでママに責められるし"
     }
   },
   {
     "translation": {
-      "en": "- Oh, Lorraine. She's a firecracker. - Yes.",
-      "ja": "彼女は確かに かんしゃく持ちだ"
+      "en": "-Oh, Lorraine. She's a firecracker. -Yes.",
+      "ja": "彼女は確かにかんしゃく持ちだ"
     }
   },
   {
     "translation": {
       "en": "But it must be nice to catch up with your mum and dad though.",
-      "ja": "でも ご両親と 久々に会うのはいいことだね"
+      "ja": "でも ご両親と久々に会うのはいいことだね"
     }
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "translation": {
       "en": "and as his doctor, that's either one hell of a misdiagnosis,",
-      "ja": "かかりつけ医として 重大な誤診をしたか"
+      "ja": "かかりつけ医として重大な誤診をしたか"
     }
   },
   {
@@ -1676,7 +1676,7 @@
   {
     "translation": {
       "en": "I do apologize. I don't know what I was thinking.",
-      "ja": "すまない 何を考えてたんだか"
+      "ja": "すまない何を考えてたんだか"
     }
   },
   {
@@ -1693,8 +1693,8 @@
   },
   {
     "translation": {
-      "en": "- The who's who of Aussie journalism. - More like the who's that.",
-      "ja": "まるで ジャーナリズムの 名士録(フーズ･フー ) むしろ“あれ誰(フーズ･ザット)？”よ"
+      "en": "-The who's who of Aussie journalism. -More like the who's that.",
+      "ja": "まるで ジャーナリズムの名士録(フーズ･フー ) むしろ“あれ誰(フーズ･ザット)？”よ"
     }
   },
   {
@@ -1706,12 +1706,12 @@
   {
     "translation": {
       "en": "Liv Healy, this is Jeremy Jackson, lifestyle writer for Standard.",
-      "ja": "同僚でライフスタイル記者の ジェレミーよ"
+      "ja": "同僚でライフスタイル記者のジェレミーよ"
     }
   },
   {
     "translation": {
-      "en": "- Namaste. - Namaste.",
+      "en": "-Namaste. -Namaste.",
       "ja": "ナマステ ナマステ"
     }
   },
@@ -1724,7 +1724,7 @@
   {
     "translation": {
       "en": "Ah, ah, ah. No, I need both of these. This place is a battlefield.",
-      "ja": "ここは戦場だから ２杯とも要る"
+      "ja": "ここは戦場だから２杯とも要る"
     }
   },
   {
@@ -1735,13 +1735,13 @@
   },
   {
     "translation": {
-      "en": "that out- of- office Amy is cool while still being professional.",
-      "ja": "クールな私を ヘレンに見せたいの"
+      "en": "that out-of-office Amy is cool while still being professional.",
+      "ja": "クールな私をヘレンに見せたいの"
     }
   },
   {
     "translation": {
-      "en": "- Are you a bit obsessed with your boss? - Yeah, she's terrifying.",
+      "en": "-Are you a bit obsessed with your boss? -Yeah, she's terrifying.",
       "ja": "評価が気になる？ ボスは怖いけど好きよ"
     }
   },
@@ -1784,25 +1784,25 @@
   {
     "translation": {
       "en": "I actually interned for you when you were at the Star.",
-      "ja": "実は昔 あなたのインターンをしてて"
+      "ja": "実は昔あなたのインターンをしてて"
     }
   },
   {
     "translation": {
       "en": "You used to text me after hours and complain about your wife.",
-      "ja": "奥さんの愚痴をメールで 聞かされた"
+      "ja": "奥さんの愚痴をメールで聞かされた"
     }
   },
   {
     "translation": {
-      "en": "- You must be thinking of someone else. - No, definitely you.",
+      "en": "-You must be thinking of someone else. -No, definitely you.",
       "ja": "別人だろう 間違いない"
     }
   },
   {
     "translation": {
-      "en": "You also shut down all my pitches, said I was a shallow thinker.",
-      "ja": "私の企画案を全部却下して “考えが浅い”と"
+      "en": "You also shut down all my pitches, said I was a \"shallow thinker.\"",
+      "ja": "私の企画案を全部却下して“考えが浅い”と"
     }
   },
   {
@@ -1813,8 +1813,8 @@
   },
   {
     "translation": {
-      "en": "Mainly for top- tier publications, doing food and lifestyle stuff.",
-      "ja": "ライフスタイルや グルメについて書いてる"
+      "en": "Mainly for top-tier publications, doing food and lifestyle stuff.",
+      "ja": "ライフスタイルやグルメについて書いてる"
     }
   },
   {
@@ -1843,13 +1843,13 @@
   },
   {
     "translation": {
-      "en": "- - Oh, fuck off.",
+      "en": "-[dryer blowing] -Oh, fuck off.",
       "ja": "こら　止まれ"
     }
   },
   {
     "translation": {
-      "en": "Get it together, woman.",
+      "en": "[clears throat] Get it together, woman.",
       "ja": "しっかりしろ 私"
     }
   },
@@ -1867,7 +1867,7 @@
   },
   {
     "translation": {
-      "en": "- A hundred. - Oh!",
+      "en": "-A hundred. -Oh!",
       "ja": "100ドル"
     }
   },
@@ -1892,12 +1892,12 @@
   {
     "translation": {
       "en": "the price of narcotics in this country is fucking outrageous.",
-      "ja": "この国の麻薬の値段は 高すぎる"
+      "ja": "この国の麻薬の値段は高すぎる"
     }
   },
   {
     "translation": {
-      "en": "- Noted. -",
+      "en": "-Noted. -[chuckles]",
       "ja": "分かった"
     }
   },
@@ -1915,7 +1915,7 @@
   },
   {
     "translation": {
-      "en": "They say, Carpe that diem, my friend.",
+      "en": "They say, \"Carpe that diem,\" my friend.",
       "ja": "“今を楽しめ”って言うよね"
     }
   },
@@ -1934,19 +1934,19 @@
   {
     "translation": {
       "en": "That Amy's a rare talent.",
-      "ja": "エイミーは 才能にあふれてて"
+      "ja": "エイミーは才能にあふれてて"
     }
   },
   {
     "translation": {
-      "en": "- She's really forging a legacy. - Yeah, she's an assassin.",
+      "en": "-She's really forging a legacy. -Yeah, she's an assassin.",
       "ja": "後世に名を残してるって やり手よね"
     }
   },
   {
     "translation": {
       "en": "But as you said, babe, some average white guy's gonna win it",
-      "ja": "でも あんたが言うように 多分 操作されて"
+      "ja": "でも あんたが言うように多分 操作されて"
     }
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "translation": {
       "en": "broke a human trafficking operation wide open.",
-      "ja": "人身売買の事件が 明るみに出たわ"
+      "ja": "人身売買の事件が明るみに出たわ"
     }
   },
   {
@@ -2000,13 +2000,13 @@
   {
     "translation": {
       "en": "But you and I both know that Amy's too good for The Standard,",
-      "ja": "「スタンダード」に エイミーはもったいない"
+      "ja": "「スタンダード」にエイミーはもったいない"
     }
   },
   {
     "translation": {
       "en": "but in this backward arsehole part of the planet, it's the best she can do.",
-      "ja": "でも この後れた国では 我慢するしかないの"
+      "ja": "でも この後れた国では我慢するしかないの"
     }
   },
   {
@@ -2018,37 +2018,37 @@
   {
     "translation": {
       "en": "And you need to keep her star so she doesn't outgrow you.",
-      "ja": "引き抜かれないように 彼女を大事にね"
+      "ja": "引き抜かれないように彼女を大事にね"
     }
   },
   {
     "translation": {
-      "en": "- I am going to find my seat. - Okay.",
+      "en": "-I am going to find my seat. -Okay.",
       "ja": "席を探すわ 分かった"
     }
   },
   {
     "translation": {
-      "en": "- Dude, what the fuck? - What?",
+      "en": "-Dude, what the fuck? -What?",
       "ja": "一体 何なの？ 何？"
     }
   },
   {
     "translation": {
-      "en": "- You just insulted my boss. - She's fine-- I said you were amazing.",
+      "en": "-You just insulted my boss. -She's fine-- I said you were amazing.",
       "ja": "ボスを侮辱した あんたを褒めただけ"
     }
   },
   {
     "translation": {
       "en": "Okay, you think this is all a joke, but it's important to me.",
-      "ja": "ジャーナリズムは 私にとって大事なの"
+      "ja": "ジャーナリズムは私にとって大事なの"
     }
   },
   {
     "translation": {
       "en": "Which is why I'm here, even though it's fucking torture.",
-      "ja": "だから拷問みたいでも 来たわけ"
+      "ja": "だから拷問みたいでも来たわけ"
     }
   },
   {
@@ -2059,7 +2059,7 @@
   },
   {
     "translation": {
-      "en": "- What's wrong with trying to have fun? - Because you always take things too far.",
+      "en": "-What's wrong with trying to have fun? -Because you always take things too far.",
       "ja": "楽しもうとしちゃダメ？ いつも度を超すからよ"
     }
   },
@@ -2071,14 +2071,14 @@
   },
   {
     "translation": {
-      "en": "- You're the one that begged me to come. - Obviously, it was a bad idea.",
+      "en": "-You're the one that begged me to come. -Obviously, it was a bad idea.",
       "ja": "でも 頼まれて来たんだよ 間違いだった"
     }
   },
   {
     "translation": {
       "en": "Oh, all right, then. Well, if that's how you feel, I'll just go.",
-      "ja": "分かった そう思うなら もう帰る"
+      "ja": "分かったそう思うなら もう帰る"
     }
   },
   {
@@ -2089,7 +2089,7 @@
   },
   {
     "translation": {
-      "en": "- No. Forget it, I'm going. - Liv! Liv!",
+      "en": "-No. Forget it, I'm going. -Liv! Liv!",
       "ja": "いい　もう帰る"
     }
   },
@@ -2101,19 +2101,19 @@
   },
   {
     "translation": {
-      "en": "Good evening, ladies and gentlemen,",
+      "en": "[announcer] Good evening, ladies and gentlemen,",
       "ja": "皆さん こんばんは"
     }
   },
   {
     "translation": {
       "en": "and welcome to the Australian Journalism Awards.",
-      "ja": "オーストラリア･ ジャーナリズム賞の 授賞式へようこそ"
+      "ja": "オーストラリア･ジャーナリズム賞の 授賞式へようこそ"
     }
   },
   {
     "translation": {
-      "en": "- Well, this is exciting, isn't it? -",
+      "en": "-[woman] Well, this is exciting, isn't it? -[audience cheering]",
       "ja": "ワクワクするわね"
     }
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "translation": {
-      "en": "How were the awards?",
+      "en": "[Lorraine] How were the awards?",
       "ja": "受賞式はどうだった？"
     }
   },
@@ -2203,7 +2203,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, babe. - Hmm.",
+      "en": "-Oh, babe. -Hmm.",
       "ja": "ベイビー"
     }
   },
@@ -2221,7 +2221,7 @@
   },
   {
     "translation": {
-      "en": "- - Please don't touch my horn.",
+      "en": "-[honking horn] -Please don't touch my horn.",
       "ja": "触らないで"
     }
   },
@@ -2234,19 +2234,19 @@
   {
     "translation": {
       "en": "Well, you're not the only one who's inconvenienced.",
-      "ja": "困ってるのは 君だけじゃない"
+      "ja": "困ってるのは君だけじゃない"
     }
   },
   {
     "translation": {
       "en": "Oh, babe, the Vanessas got a babysitter so they're a yes.",
-      "ja": "ヴァネッサ夫妻が 式に出られるって"
+      "ja": "ヴァネッサ夫妻が式に出られるって"
     }
   },
   {
     "translation": {
       "en": "That means Liv's the only one who hasn't RSVP'd for our wedding.",
-      "ja": "出欠が確認できないのは オリビアだけだ"
+      "ja": "出欠が確認できないのはオリビアだけだ"
     }
   },
   {
@@ -2264,12 +2264,12 @@
   {
     "translation": {
       "en": "It's like you're holding it hostage for attention.",
-      "ja": "注意を引きたくて やってる？"
+      "ja": "注意を引きたくてやってる？"
     }
   },
   {
     "translation": {
-      "en": "- Shut up. Why would I do that? - Because that's what you do.",
+      "en": "-Shut up. Why would I do that? -Because that's what you do.",
       "ja": "そんなわけ無い いつもそうだ"
     }
   },
@@ -2282,25 +2282,25 @@
   {
     "translation": {
       "en": "Well, I can't help it if I'm a natural entertainer.",
-      "ja": "根っからの エンターテイナーだから"
+      "ja": "根っからのエンターテイナーだから"
     }
   },
   {
     "translation": {
-      "en": "- Move, dipshit! -",
+      "en": "-Move, dipshit! -[honking horn]",
       "ja": "動け バカ野郎！"
     }
   },
   {
     "translation": {
-      "en": "- Friendly reminder, horn's for the driver. - Oh, God.",
-      "ja": "クラクションは 運転手が鳴らす"
+      "en": "-Friendly reminder, horn's for the driver. -[Liv] Oh, God.",
+      "ja": "クラクションは運転手が鳴らす"
     }
   },
   {
     "translation": {
       "en": "Remember when you boycotted Nan's last Christmas?",
-      "ja": "昨年のクリスマスは 帰らなかった"
+      "ja": "昨年のクリスマスは帰らなかった"
     }
   },
   {
@@ -2312,30 +2312,30 @@
   {
     "translation": {
       "en": "Stalking a boy from Amnesty International is not a good cause, Olivia.",
-      "ja": "アムネスティの人を ストーカーすることが？"
+      "ja": "アムネスティの人をストーカーすることが？"
     }
   },
   {
     "translation": {
-      "en": "And then at my year- 12 formal, you had sex with my date.",
-      "ja": "俺の高校卒業パーティーで 俺の相手と寝た"
+      "en": "And then at my year-12 formal, you had sex with my date.",
+      "ja": "俺の高校卒業パーティーで俺の相手と寝た"
     }
   },
   {
     "translation": {
       "en": "I saved you from a very awkward experience.",
-      "ja": "気まずい体験から 救ったんだって"
+      "ja": "気まずい体験から救ったんだって"
     }
   },
   {
     "translation": {
       "en": "And Dad's funeral, you got hammered and passed out in the garden.",
-      "ja": "おやじの葬式では 庭で酔いつぶれてた"
+      "ja": "おやじの葬式では庭で酔いつぶれてた"
     }
   },
   {
     "translation": {
-      "en": "- Right on my petunias. - Yeah.",
+      "en": "-Right on my petunias. -Yeah.",
       "ja": "私の ペチュニアの上で"
     }
   },
@@ -2354,7 +2354,7 @@
   {
     "translation": {
       "en": "but somehow, the focus always ends up on you.",
-      "ja": "でも なぜかいつも 姉貴が注目の的"
+      "ja": "でも なぜかいつも姉貴が注目の的"
     }
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "translation": {
       "en": "Oh, come on. We're just having a bit of fun, Livvie.",
-      "ja": "からかって 楽しんでるだけよ"
+      "ja": "からかって楽しんでるだけよ"
     }
   },
   {
@@ -2378,7 +2378,7 @@
   {
     "translation": {
       "en": "All right. Well, what's fun about your family thinking that you're a joke?",
-      "ja": "家族に笑い者にされる 私の気持ちは？"
+      "ja": "家族に笑い者にされる私の気持ちは？"
     }
   },
   {
@@ -2395,7 +2395,7 @@
   },
   {
     "translation": {
-      "en": "- Olivia. - Nah. No. No.",
+      "en": "-Olivia. -Nah. No. No.",
       "ja": "オリビア イヤ 出ない"
     }
   },
@@ -2407,20 +2407,20 @@
   },
   {
     "translation": {
-      "en": "- No, it's no stopping. - No, I don't care. Just pull over.",
+      "en": "-No, it's no stopping. -No, I don't care. Just pull over.",
       "ja": "停車禁止だ いいから止めて"
     }
   },
   {
     "translation": {
-      "en": "- I'm not getting a ticket. - Olivia.",
+      "en": "-I'm not getting a ticket. -Olivia.",
       "ja": "車を止めて オリビア"
     }
   },
   {
     "translation": {
       "en": "Let's just get an ocean between us so we can all go back to being happy.",
-      "ja": "皆がハッピーになれるように 海の向こうに戻る"
+      "ja": "皆がハッピーになれるように海の向こうに戻る"
     }
   },
   {
@@ -2431,7 +2431,7 @@
   },
   {
     "translation": {
-      "en": "- Is there an Olivia Healy? - Ah. Yes, I'm here. Hello.",
+      "en": "-Is there an Olivia Healy? -Ah. Yes, I'm here. Hello.",
       "ja": "居ますか？ はい ここに"
     }
   },
@@ -2443,26 +2443,26 @@
   },
   {
     "translation": {
-      "en": "Far out.",
+      "en": "[whispers] Far out.",
       "ja": "ああ もう"
     }
   },
   {
     "translation": {
       "en": "Please keep your belongings on your person, ma'am.",
-      "ja": "所持品は 身に着けておくように"
+      "ja": "所持品は身に着けておくように"
     }
   },
   {
     "translation": {
-      "en": "No need to ma'am me.",
+      "en": "No need to \"ma'am\" me.",
       "ja": "冷ややかね"
     }
   },
   {
     "translation": {
       "en": "Okay, Chad, I have had a rough couple of days,",
-      "ja": "チャド 私は この数日間大変で"
+      "ja": "チャド私は この数日間大変で"
     }
   },
   {
@@ -2486,7 +2486,7 @@
   {
     "translation": {
       "en": "so if you could please just stamp it,",
-      "ja": "だから これに スタンプを押すなり"
+      "ja": "だから これにスタンプを押すなり"
     }
   },
   {
@@ -2498,31 +2498,31 @@
   {
     "translation": {
       "en": "I take my orders from the US government, not you.",
-      "ja": "アメリカ政府の 指示しか受けません"
+      "ja": "アメリカ政府の指示しか受けません"
     }
   },
   {
     "translation": {
       "en": "And I need to check each case thoroughly,",
-      "ja": "それに ミス１つで 申請が無効になるから"
+      "ja": "それに ミス１つで申請が無効になるから"
     }
   },
   {
     "translation": {
       "en": "because one little error can void an application.",
-      "ja": "１件ずつ慎重に 確認する必要がある"
+      "ja": "１件ずつ慎重に確認する必要がある"
     }
   },
   {
     "translation": {
-      "en": "- All right, well, it's all in order. - I'll be the judge of that.",
+      "en": "-All right, well, it's all in order. -I'll be the judge of that.",
       "ja": "全部そろってる 判断は私が"
     }
   },
   {
     "translation": {
       "en": "I feel like we got off on the wrong foot. I'm actually a really lovely person.",
-      "ja": "出だしが悪かったけど 私 本当はいい人なの"
+      "ja": "出だしが悪かったけど私 本当はいい人なの"
     }
   },
   {
@@ -2563,38 +2563,38 @@
   },
   {
     "translation": {
-      "en": "Oh, my God, stop the goddamn tapping, please.",
+      "en": "[echoing] Oh, my God, stop the goddamn tapping, please.",
       "ja": "お願い 鳴らさないで"
     }
   },
   {
     "translation": {
-      "en": "- Do not raise your voice at me. - Sorry.",
+      "en": "-Do not raise your voice at me. -Sorry.",
       "ja": "声を荒げないで ゴメン"
     }
   },
   {
     "translation": {
-      "en": "- Are you all right? You don't look well. - I'm fine.",
+      "en": "-Are you all right? You don't look well. -I'm fine.",
       "ja": "体調に問題が？ 平気"
     }
   },
   {
     "translation": {
-      "en": "- You know you can't fly if you're sick. - No, I'm not sick.",
+      "en": "-You know you can't fly if you're sick. -No, I'm not sick.",
       "ja": "渡航できませんよ 病気じゃない"
     }
   },
   {
     "translation": {
-      "en": "I have reason to believe you're lying to me,",
+      "en": "[Chad] I have reason to believe you're lying to me,",
       "ja": "うそをついてるのでは？"
     }
   },
   {
     "translation": {
       "en": "and if that's the case, I can't approve you.",
-      "ja": "うそなら 認可はできない"
+      "ja": "うそなら認可はできない"
     }
   },
   {
@@ -2611,19 +2611,19 @@
   },
   {
     "translation": {
-      "en": "Fuck. I need to get home!",
+      "en": "[gasps] Fuck. I need to get home!",
       "ja": "マズい 帰らなきゃ"
     }
   },
   {
     "translation": {
-      "en": "- - I wanna go home!",
+      "en": "-[cardiac monitor beeping rapidly] -I wanna go home!",
       "ja": "家に帰りたい"
     }
   },
   {
     "translation": {
-      "en": "Don't worry, you'll be home soon.",
+      "en": "[paramedic 1] Don't worry, you'll be home soon.",
       "ja": "すぐ帰れるよ 押さえて"
     }
   },
@@ -2648,12 +2648,12 @@
   {
     "translation": {
       "en": "Horrible cholesterol levels, insane blood pressure,",
-      "ja": "コレステロールも血圧も 異常な値よ"
+      "ja": "コレステロールも血圧も異常な値よ"
     }
   },
   {
     "translation": {
-      "en": "and family history of heart disease.",
+      "en": "and family history of heart disease. [blows a raspberry]",
       "ja": "家族の病歴に心臓病も多い"
     }
   },
@@ -2665,13 +2665,13 @@
   },
   {
     "translation": {
-      "en": "- Pass me for what? - The medical.",
+      "en": "-Pass me for what? -The medical.",
       "ja": "何が？ 健康診断"
     }
   },
   {
     "translation": {
-      "en": "- It's the first step to get a green card. - Oh, no, I have a green card.",
+      "en": "-It's the first step to get a green card. -Oh, no, I have a green card.",
       "ja": "グリーンカードへの第一歩 それは持ってる"
     }
   },
@@ -2690,18 +2690,18 @@
   {
     "translation": {
       "en": "After your incident, the consulate deemed that your poor health",
-      "ja": "あなたが倒れて 入国させるのは リスクだと見なされた"
+      "ja": "あなたが倒れて 入国させるのはリスクだと見なされた"
     }
   },
   {
     "translation": {
       "en": "could make you a burden to the US.",
-      "ja": "入国させるのは リスクだと見なされた"
+      "ja": "入国させるのはリスクだと見なされた"
     }
   },
   {
     "translation": {
-      "en": "As one of two consulate- approved doctors in Sydney,",
+      "en": "As one of two consulate-approved doctors in Sydney,",
       "ja": "私は 総領事館付きの医師で"
     }
   },
@@ -2738,13 +2738,13 @@
   {
     "translation": {
       "en": "so she can sell me for a TV show. It's a major deal.",
-      "ja": "私をテレビ番組に 出すために待ってるの"
+      "ja": "私をテレビ番組に出すために待ってるの"
     }
   },
   {
     "translation": {
       "en": "Unfortunate. Also, not my problem.",
-      "ja": "残念ね 私の問題じゃない"
+      "ja": "残念ね私の問題じゃない"
     }
   },
   {
@@ -2762,7 +2762,7 @@
   {
     "translation": {
       "en": "Um. Okay. Uh, let me do the medical again.",
-      "ja": "分かった もう１回受けさせて"
+      "ja": "分かったもう１回受けさせて"
     }
   },
   {
@@ -2780,25 +2780,25 @@
   {
     "translation": {
       "en": "A year-- No, I've gotta be in New York in four weeks for the show.",
-      "ja": "１カ月後に ニューヨークに居る必要が"
+      "ja": "１カ月後にニューヨークに居る必要が"
     }
   },
   {
     "translation": {
       "en": "Listen, you need to shift your cholesterol from a 6 to 4.5,",
-      "ja": "コレステロール値を ６から４.５に落として―"
+      "ja": "コレステロール値を６から４.５に落として―"
     }
   },
   {
     "translation": {
       "en": "get your blood pressure to 120/80,",
-      "ja": "血圧を上120 下80に下げて―"
+      "ja": "血圧を上120下80に下げて―"
     }
   },
   {
     "translation": {
       "en": "and lower your resting heart rate from 105 to at least 75.",
-      "ja": "安静時心拍数を105から 最低75にしないといけない"
+      "ja": "安静時心拍数を105から最低75にしないといけない"
     }
   },
   {
@@ -2809,14 +2809,14 @@
   },
   {
     "translation": {
-      "en": "- Well, you don't know me. - I don't, and don't want to.",
+      "en": "-Well, you don't know me. -I don't, and don't want to.",
       "ja": "やればできる どうぞ ご勝手に"
     }
   },
   {
     "translation": {
       "en": "I'm gonna get so well that I'm gonna smash that stupid medical,",
-      "ja": "元気になって その検査を通ってみせる"
+      "ja": "元気になってその検査を通ってみせる"
     }
   },
   {
@@ -2828,7 +2828,7 @@
   {
     "translation": {
       "en": "and I'm gonna be the best goddamn TV judge that the world's ever seen.",
-      "ja": "世界一のテレビの審査員に なってみせる"
+      "ja": "世界一のテレビの審査員になってみせる"
     }
   },
   {
@@ -2846,12 +2846,12 @@
   {
     "translation": {
       "en": "♪ Tell me what you wanna hear ♪ ♪ Tell me how you wanna roll Nah, yeah ♪",
-      "ja": "ウェルマニア ～私のウェルネス奮戦記～"
+      "ja": "ウェルマニア～私のウェルネス奮戦記～"
     }
   },
   {
     "translation": {
-      "en": "- Does this stay open or, I don't know-- - Shut it.",
+      "en": "-Does this stay open or, I don't know-- -Shut it.",
       "ja": "開けとくの？ 閉めて"
     }
   }

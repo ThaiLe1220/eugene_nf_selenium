@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "Road trip?",
-      "ja": "〝非常用毛布 救急箱　ロープ〞 長距離の旅？"
+      "en": "[clerk] Road trip?",
+      "ja": "〝非常用毛布救急箱　ロープ〞 長距離の旅？"
     }
   },
   {
     "translation": {
-      "en": "No, moving.",
+      "en": "[woman] No, moving.",
       "ja": "いいえ 引っ越すの"
     }
   },
@@ -31,7 +31,7 @@
   },
   {
     "translation": {
-      "en": "Jake, baby, please help me.",
+      "en": "[softly] Jake, baby, please help me.",
       "ja": "ジェイク 助けて"
     }
   },
@@ -61,7 +61,7 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[girl] Yeah.",
       "ja": "ええ"
     }
   },
@@ -98,7 +98,7 @@
   {
     "translation": {
       "en": "Whoo! Told you. Right on time. Y'all ready?",
-      "ja": "言ったろ　時間どおりだ 準備は？"
+      "ja": "言ったろ　時間どおりだ準備は？"
     }
   },
   {
@@ -109,13 +109,13 @@
   },
   {
     "translation": {
-      "en": "- What y'all waiting on? - Where you been?",
+      "en": "-What y'all waiting on? -Where you been?",
       "ja": "さあ出発だ　何を待ってる？ どこに？"
     }
   },
   {
     "translation": {
-      "en": "I was just saying some last- minute goodbyes.",
+      "en": "I was just saying some last-minute goodbyes.",
       "ja": "別れのあいさつだ"
     }
   },
@@ -133,7 +133,7 @@
   },
   {
     "translation": {
-      "en": "- Turn out your pocket. - Hey!",
+      "en": "-Turn out your pocket. -Hey!",
       "ja": "見せて"
     }
   },
@@ -152,7 +152,7 @@
   {
     "translation": {
       "en": "Reggie, you promised. No drugs and no weed for the entire trip.",
-      "ja": "移動中は ドラッグ抜きの約束よ"
+      "ja": "移動中はドラッグ抜きの約束よ"
     }
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "translation": {
-      "en": "- Mmm- hmm. - I do.",
+      "en": "-Mmm-hmm. -I do.",
       "ja": "本当だ"
     }
   },
@@ -199,19 +199,19 @@
   },
   {
     "translation": {
-      "en": "Boo!",
+      "en": "[boy] Boo!",
       "ja": "どうだ"
     }
   },
   {
     "translation": {
       "en": "Cameron, the train's leaving the station in two minutes.",
-      "ja": "キャム あと２分で列車が出る"
+      "ja": "キャムあと２分で列車が出る"
     }
   },
   {
     "translation": {
-      "en": "- I'm not going. - I'm sorry to hear that.",
+      "en": "-I'm not going. -I'm sorry to hear that.",
       "ja": "行かない それは残念"
     }
   },
@@ -223,7 +223,7 @@
   },
   {
     "translation": {
-      "en": "What if they don't like stinky- head boy smell?",
+      "en": "What if they don't like stinky-head boy smell?",
       "ja": "頭の臭い子は嫌いかも"
     }
   },
@@ -259,14 +259,14 @@
   },
   {
     "translation": {
-      "en": "- Hey. - Come on, just give me a hit.",
+      "en": "-Hey. -Come on, just give me a hit.",
       "ja": "やあ いいでしょ"
     }
   },
   {
     "translation": {
       "en": "Now what kind of uncle shares a joint with his teenage niece?",
-      "ja": "10代のめいとドラッグをやる 叔父がいるか？"
+      "ja": "10代のめいとドラッグをやる叔父がいるか？"
     }
   },
   {
@@ -295,14 +295,14 @@
   },
   {
     "translation": {
-      "en": "I assume you're bringing a back- up supply.",
+      "en": "I assume you're bringing a back-up supply.",
       "ja": "予備もあるんでしょ"
     }
   },
   {
     "translation": {
-      "en": "No, it's my last jay until we get to Houston.",
-      "ja": "ヒューストンまでは これだけ"
+      "en": "[scoffs] No, it's my last jay until we get to Houston.",
+      "ja": "ヒューストンまではこれだけ"
     }
   },
   {
@@ -320,7 +320,7 @@
   {
     "translation": {
       "en": "Don't be giving me no attitude, okay? And don't be giving it to your mom.",
-      "ja": "そういう態度はやめろ ママにもな"
+      "ja": "そういう態度はやめろママにもな"
     }
   },
   {
@@ -338,7 +338,7 @@
   {
     "translation": {
       "en": "Ever since your dad died, your mom's been doing everything in her power to hold this family together.",
-      "ja": "パパを亡くし ママは家庭を守ってきた"
+      "ja": "パパを亡くしママは家庭を守ってきた"
     }
   },
   {
@@ -367,13 +367,13 @@
   },
   {
     "translation": {
-      "en": "- Hey, Ma. - Hey, baby. How you doing?",
+      "en": "-Hey, Ma. -Hey, baby. How you doing?",
       "ja": "ママ？ もしもし どう？"
     }
   },
   {
     "translation": {
-      "en": "- Y'all on the road yet? - No, not yet. Just, um…",
+      "en": "-Y'all on the road yet? -No, not yet. Just, um…",
       "ja": "運転中？ まだよ　ただ…"
     }
   },
@@ -385,7 +385,7 @@
   },
   {
     "translation": {
-      "en": "- How long's the drive? - Three days.",
+      "en": "-How long's the drive? -Three days.",
       "ja": "到着は？ ３日後よ"
     }
   },
@@ -409,19 +409,19 @@
   },
   {
     "translation": {
-      "en": "- Yeah, I'll call you on the way. - Travel safe.",
+      "en": "-Yeah, I'll call you on the way. -Travel safe.",
       "ja": "途中でする 安全運転でね"
     }
   },
   {
     "translation": {
-      "en": "- Mmm- hmm. - I love you.",
+      "en": "-Mmm-hmm. -I love you.",
       "ja": "安全運転でね 愛してる"
     }
   },
   {
     "translation": {
-      "en": "- Yeah, I love you too. - Bye, baby.",
+      "en": "-Yeah, I love you too. -Bye, baby.",
       "ja": "私もよ じゃあ"
     }
   },
@@ -440,13 +440,13 @@
   {
     "translation": {
       "en": "Now, we not stopping between here and Arizona.",
-      "ja": "アリゾナまで走り続けるから 今やるわよ"
+      "ja": "アリゾナまで走り続けるから今やるわよ"
     }
   },
   {
     "translation": {
-      "en": "- So if you got to go, now is the time. - Mom, can we just leave?",
-      "ja": "アリゾナまで走り続けるから 今やるわよ 必要？"
+      "en": "-So if you got to go, now is the time. -Mom, can we just leave?",
+      "ja": "アリゾナまで走り続けるから今やるわよ 必要？"
     }
   },
   {
@@ -493,14 +493,14 @@
   },
   {
     "translation": {
-      "en": "Heavenly Father…",
+      "en": "[sighs] Heavenly Father…",
       "ja": "天にまします父よ"
     }
   },
   {
     "translation": {
       "en": "please bless and protect us on our journey",
-      "ja": "新しい人生に向かう 私たちの旅を"
+      "ja": "新しい人生に向かう私たちの旅を"
     }
   },
   {
@@ -512,12 +512,12 @@
   {
     "translation": {
       "en": "In your name, we pray. Amen.",
-      "ja": "イエスの御名によって 祈ります"
+      "ja": "イエスの御名によって祈ります"
     }
   },
   {
     "translation": {
-      "en": "- Amen. - Amen.",
+      "en": "-Amen. -Amen.",
       "ja": "アーメン"
     }
   },
@@ -542,7 +542,7 @@
   {
     "translation": {
       "en": "Please tell Señor Cross we are grateful for his assistance.",
-      "ja": "協力に感謝すると クロス氏に伝えてくれ"
+      "ja": "協力に感謝するとクロス氏に伝えてくれ"
     }
   },
   {
@@ -554,18 +554,18 @@
   {
     "translation": {
       "en": "We take all the risk, Mr. Cross gets to keep all the profit. Seem fair to you?",
-      "ja": "リスクは俺らで 儲けは全部クロスに？"
+      "ja": "リスクは俺らで儲けは全部クロスに？"
     }
   },
   {
     "translation": {
       "en": "You don't like the arrangement, talk to Mr. Cross.",
-      "ja": "不満なら ミスタークロスに言え"
+      "ja": "不満ならミスタークロスに言え"
     }
   },
   {
     "translation": {
-      "en": "Otherwise, shut the fuck up, bro.",
+      "en": "Otherwise, shut the fuck up, bro. [laughing]",
       "ja": "でなきゃ黙っとけ"
     }
   },
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "- Are we there? - Mom, what's wrong?",
+      "en": "-Are we there? -Mom, what's wrong?",
       "ja": "警察か？　今どこだ？ 何？"
     }
   },
@@ -626,12 +626,12 @@
   {
     "translation": {
       "en": "And I was hoping we could be like other families and converse. You know, talk.",
-      "ja": "普通の家族みたいに 会話がしたい"
+      "ja": "普通の家族みたいに会話がしたい"
     }
   },
   {
     "translation": {
-      "en": "- No. - Why?",
+      "en": "-[scoffs] No. -Why?",
       "ja": "却下 なぜ？"
     }
   },
@@ -650,7 +650,7 @@
   {
     "translation": {
       "en": "But people joke, they sing songs. They…",
-      "ja": "でも 冗談言ったり 歌ったりする"
+      "ja": "でも 冗談言ったり歌ったりする"
     }
   },
   {
@@ -668,13 +668,13 @@
   {
     "translation": {
       "en": "Yeah, uh, Mom, I think you've mistaken this for 1983.",
-      "ja": "そうだよ ママ 1983年とは違う"
+      "ja": "そうだよ ママ1983年とは違う"
     }
   },
   {
     "translation": {
       "en": "That's it. Everybody put your phones away. I'm serious.",
-      "ja": "分かった　携帯は禁止 真剣よ"
+      "ja": "分かった　携帯は禁止真剣よ"
     }
   },
   {
@@ -709,7 +709,7 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[woman] Okay.",
       "ja": "いいわ"
     }
   },
@@ -746,18 +746,18 @@
   {
     "translation": {
       "en": "My declarative statement is moving to Texas sucks.",
-      "ja": "僕の宣言はこう 引っ越しはクソだ"
+      "ja": "僕の宣言はこう引っ越しはクソだ"
     }
   },
   {
     "translation": {
-      "en": "I agree. Look at that! End of conversation, right?",
+      "en": "[laughs] I agree. Look at that! End of conversation, right?",
       "ja": "同感　会話は終わり"
     }
   },
   {
     "translation": {
-      "en": "- That's right. - You got that. Whatever.",
+      "en": "-That's right. -[woman] You got that. Whatever.",
       "ja": "そうだな 分かったわよ"
     }
   },
@@ -775,26 +775,26 @@
   },
   {
     "translation": {
-      "en": "- 27. - 27 different military bases in 17 years.",
-      "ja": "27回 17年で27カ所の 軍事基地に住んだ"
+      "en": "-[Cam, Kelly, Reggie] 27. -27 different military bases in 17 years.",
+      "ja": "27回 17年で27カ所の軍事基地に住んだ"
     }
   },
   {
     "translation": {
       "en": "Yes, Mom, we know.",
-      "ja": "おじいちゃんが 陸軍大佐だったから"
+      "ja": "おじいちゃんが陸軍大佐だったから"
     }
   },
   {
     "translation": {
-      "en": "- Your dad was an army colonel. - But he was a great dad.",
-      "ja": "おじいちゃんが 陸軍大佐だったから 最高の父"
+      "en": "-Your dad was an army colonel. -[woman] But he was a great dad.",
+      "ja": "おじいちゃんが陸軍大佐だったから 最高の父"
     }
   },
   {
     "translation": {
       "en": "He taught us how to hunt, how to shoot, how to fight, and when not to.",
-      "ja": "狩りや撃ち方や 戦い方を学んだ"
+      "ja": "狩りや撃ち方や戦い方を学んだ"
     }
   },
   {
@@ -805,7 +805,7 @@
   },
   {
     "translation": {
-      "en": "- Especially for you. -",
+      "en": "-Especially for you. -[Reggie chuckles]",
       "ja": "いつ戦わないかも"
     }
   },
@@ -824,7 +824,7 @@
   {
     "translation": {
       "en": "Question is, do any Black people live in Houston or will it just be us?",
-      "ja": "ヒューストンに黒人はいる？ 僕らだけ？"
+      "ja": "ヒューストンに黒人はいる？僕らだけ？"
     }
   },
   {
@@ -836,18 +836,18 @@
   {
     "translation": {
       "en": "You ain't heard of Megan Thee Stallion? Yes, you have. I know you have.",
-      "ja": "デスティニーズ･ チャイルドを知らない？"
+      "ja": "デスティニーズ･チャイルドを知らない？"
     }
   },
   {
     "translation": {
-      "en": "- How about Destiny's Child? - Who was they?",
-      "ja": "デスティニーズ･ チャイルドを知らない？ 誰？"
+      "en": "-How about Destiny's Child? -Who was they?",
+      "ja": "デスティニーズ･チャイルドを知らない？ 誰？"
     }
   },
   {
     "translation": {
-      "en": "- Willie D! - Scarface.",
+      "en": "-Willie D! -Scarface.",
       "ja": "ウィリーＤは？"
     }
   },
@@ -859,7 +859,7 @@
   },
   {
     "translation": {
-      "en": "- I don't know them. - Come on.",
+      "en": "-I don't know them. -Come on.",
       "ja": "知らないよ"
     }
   },
@@ -871,7 +871,7 @@
   },
   {
     "translation": {
-      "en": "- You need to study hip- hop. Anyway… - Too young for that.",
+      "en": "-You need to study hip-hop. Anyway… -Too young for that.",
       "ja": "ヒップホップを学ぶことね 若すぎる"
     }
   },
@@ -901,25 +901,25 @@
   },
   {
     "translation": {
-      "en": "Looks like a detour.",
+      "en": "[Reggie] Looks like a detour.",
       "ja": "回り道しろって 〝一旦停止〞"
     }
   },
   {
     "translation": {
-      "en": "- Ah, what the hell is this? - Slow down, please.",
+      "en": "-Ah, what the hell is this? -[worker] Slow down, please.",
       "ja": "〝一旦停止〞 何があった？ 何があった？"
     }
   },
   {
     "translation": {
-      "en": "Detour, next 85 miles.",
+      "en": "\"Detour, next 85 miles.\"",
       "ja": "“137キロ 迂回(うかい)”"
     }
   },
   {
     "translation": {
-      "en": "Go over by the shoulder.",
+      "en": "[worker] Go over by the shoulder.",
       "ja": "路肩に沿って"
     }
   },
@@ -931,7 +931,7 @@
   },
   {
     "translation": {
-      "en": "Knew I shoulda brought my weed.",
+      "en": "[Reggie] Knew I shoulda brought my weed.",
       "ja": "マリファナが必要だ"
     }
   },
@@ -950,7 +950,7 @@
   {
     "translation": {
       "en": "The car's gonna stall out, then we'll get hit by a tractor beam, and lifted up in a UFO.",
-      "ja": "車がエンストし ＵＦＯから トラクター･ビームだ"
+      "ja": "車がエンストし ＵＦＯからトラクター･ビームだ"
     }
   },
   {
@@ -961,32 +961,32 @@
   },
   {
     "translation": {
-      "en": "Next, we'll be strapped down on our stomachs with big- eyed aliens probing our ass.",
-      "ja": "ギョロ目の宇宙人に ケツを調べられる"
+      "en": "Next, we'll be strapped down on our stomachs with big-eyed aliens probing our ass.",
+      "ja": "ギョロ目の宇宙人にケツを調べられる"
     }
   },
   {
     "translation": {
-      "en": "- They won't do that to you, Uncle Reggie. - Why not?",
+      "en": "-They won't do that to you, Uncle Reggie. -Why not?",
       "ja": "叔父さんにはしない なぜ？"
     }
   },
   {
     "translation": {
-      "en": "'Cause the aliens only want to study intelligent life- forms.",
-      "ja": "宇宙人は知的生命体にしか 興味がない"
+      "en": "'Cause the aliens only want to study intelligent life-forms.",
+      "ja": "宇宙人は知的生命体にしか興味がない"
     }
   },
   {
     "translation": {
-      "en": "- Hear what I'm saying? - Ooh! Burn!",
+      "en": "-Hear what I'm saying? -Ooh! Burn!",
       "ja": "キツい"
     }
   },
   {
     "translation": {
       "en": "You know what? Because you're my nephew, I'll let that slide.",
-      "ja": "おいっ子だから 聞き逃してやるが"
+      "ja": "おいっ子だから聞き逃してやるが"
     }
   },
   {
@@ -997,7 +997,7 @@
   },
   {
     "translation": {
-      "en": "- What you gonna do with this brain power? - Tell me about it.",
+      "en": "-What you gonna do with this brain power? -Tell me about it.",
       "ja": "才能をどうする？ 私も知りたい"
     }
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "translation": {
-      "en": "Wait, wait, wait.",
+      "en": "[Reggie] Wait, wait, wait.",
       "ja": "待てよ"
     }
   },
@@ -1027,37 +1027,37 @@
   },
   {
     "translation": {
-      "en": "- No, sir. - Listen.",
+      "en": "-No, sir. -Listen.",
       "ja": "まさか"
     }
   },
   {
     "translation": {
       "en": "That's it. No more Snickers for none of y'all.",
-      "ja": "もういい チョコバーはやらん"
+      "ja": "もういいチョコバーはやらん"
     }
   },
   {
     "translation": {
-      "en": "- Hey! - I'm sorry!",
+      "en": "-Hey! -[Cam] I'm sorry!",
       "ja": "ごめん"
     }
   },
   {
     "translation": {
-      "en": "- No. Hell nah. - Listen.",
+      "en": "-[Reggie] No. Hell nah. -[Kelly] Listen.",
       "ja": "ダメだ 聞いて"
     }
   },
   {
     "translation": {
-      "en": "- No. - You know we love you. Okay?",
+      "en": "-No. -You know we love you. Okay?",
       "ja": "私たち叔父さんが大好き"
     }
   },
   {
     "translation": {
-      "en": "- You're our teddy bear. - Get off. Get off me.",
+      "en": "-You're our teddy bear. -Get off. Get off me.",
       "ja": "テディベアちゃん"
     }
   },
@@ -1081,13 +1081,13 @@
   },
   {
     "translation": {
-      "en": "You get detoured off the interstate?",
+      "en": "[clerk] You get detoured off the interstate?",
       "ja": "〝処理中です〞 〝処理中です〞 迂回を？"
     }
   },
   {
     "translation": {
-      "en": "You intend to stop and stay around here?",
+      "en": "[clerk] You intend to stop and stay around here?",
       "ja": "この辺りに宿泊を？"
     }
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "translation": {
-      "en": "- Hey, Mom, can I have a Red Bull? - No. We're leaving.",
+      "en": "-Hey, Mom, can I have a Red Bull? -No. We're leaving.",
       "ja": "買っても？ ダメ 行くわよ"
     }
   },
@@ -1124,7 +1124,7 @@
   {
     "translation": {
       "en": "Mom! How many dead bugs did I find on the windshield? Guess.",
-      "ja": "フロントガラスに 虫が何匹いたと思う？"
+      "ja": "フロントガラスに虫が何匹いたと思う？"
     }
   },
   {
@@ -1147,7 +1147,7 @@
   },
   {
     "translation": {
-      "en": "- Reggie, wake up. - Open up, I'm right here.",
+      "en": "-Reggie, wake up. -[man 1] Open up, I'm right here.",
       "ja": "起きて 窓を開けろ"
     }
   },
@@ -1177,38 +1177,38 @@
   },
   {
     "translation": {
-      "en": "- What do they want? - I don't know.",
+      "en": "-What do they want? -I don't know.",
       "ja": "何の用？ 分からない"
     }
   },
   {
     "translation": {
-      "en": "Don't worry.",
+      "en": "[Reggie] Don't worry.",
       "ja": "心配ない"
     }
   },
   {
     "translation": {
-      "en": "- You're kidding me. - What the hell?",
+      "en": "-[Kelly] You're kidding me. -What the hell?",
       "ja": "冗談でしょ 何なの"
     }
   },
   {
     "translation": {
-      "en": "- It's my fault, I'm sorry. - What are you talking about?",
+      "en": "-It's my fault, I'm sorry. -What are you talking about?",
       "ja": "私のせいよ 何の話？"
     }
   },
   {
     "translation": {
       "en": "They were… They were hitting on me at the gas station and being nasty,",
-      "ja": "スタンドでからかわれた キモいから…"
+      "ja": "スタンドでからかわれたキモいから…"
     }
   },
   {
     "translation": {
       "en": "so I gave 'em the finger.",
-      "ja": "スタンドでからかわれた キモいから… 中指を"
+      "ja": "スタンドでからかわれたキモいから… 中指を"
     }
   },
   {
@@ -1225,13 +1225,13 @@
   },
   {
     "translation": {
-      "en": "Hey!",
+      "en": "[Reggie] Hey!",
       "ja": "おい"
     }
   },
   {
     "translation": {
-      "en": "I swear to God…",
+      "en": "[Reggie] I swear to God…",
       "ja": "マジか"
     }
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "translation": {
-      "en": "- I know. - It's a different world out here.",
+      "en": "-I know. -It's a different world out here.",
       "ja": "分かった 別世界だから"
     }
   },
@@ -1285,7 +1285,7 @@
   },
   {
     "translation": {
-      "en": "Oh, they playing games.",
+      "en": "[Reggie] Oh, they playing games.",
       "ja": "遊ばれてる"
     }
   },
@@ -1309,26 +1309,26 @@
   },
   {
     "translation": {
-      "en": "Hell, I won't stay in the car and let these lanky- ass white boys start shit.",
-      "ja": "白人の小僧に 好きにさせられない"
+      "en": "Hell, I won't stay in the car and let these lanky-ass white boys start shit.",
+      "ja": "白人の小僧に好きにさせられない"
     }
   },
   {
     "translation": {
-      "en": "- Please, let me handle it. - Hell no.",
+      "en": "-Please, let me handle it. -Hell no.",
       "ja": "私が話す 絶対に断る"
     }
   },
   {
     "translation": {
       "en": "There's not a lot I do well, but this, I do damn well.",
-      "ja": "俺は不出来だが これは得意だ"
+      "ja": "俺は不出来だがこれは得意だ"
     }
   },
   {
     "translation": {
       "en": "No! You explode, then they react? Then what's gonna happen to my--",
-      "ja": "あなたがキレて 相手を怒らせたら？　もし…"
+      "ja": "あなたがキレて相手を怒らせたら？　もし…"
     }
   },
   {
@@ -1351,8 +1351,8 @@
   },
   {
     "translation": {
-      "en": "No. No. Your mom is going to handle it.",
-      "ja": "いや いいんだ ママが何とかする"
+      "en": "[sighs] No. No. Your mom is going to handle it.",
+      "ja": "いや いいんだママが何とかする"
     }
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, hell no. - Reggie.",
+      "en": "-Oh, hell no. -Reggie.",
       "ja": "あいつ レジー"
     }
   },
@@ -1441,7 +1441,7 @@
   },
   {
     "translation": {
-      "en": "- Don't you come near my family. - Then say it like you mean it.",
+      "en": "-Don't you come near my family. -Then say it like you mean it.",
       "ja": "家族はやめて 誠意を見せろ"
     }
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "translation": {
-      "en": "- Your white-- - Louder.",
+      "en": "-Your white-- -Louder.",
       "ja": "白人の… 大声で"
     }
   },
@@ -1489,13 +1489,13 @@
   },
   {
     "translation": {
-      "en": "Apology accepted.",
+      "en": "[man 1] Apology accepted.",
       "ja": "許してやる"
     }
   },
   {
     "translation": {
-      "en": "See how easy that was?",
+      "en": "[man 2] See how easy that was?",
       "ja": "簡単だったろ？"
     }
   },
@@ -1508,7 +1508,7 @@
   {
     "translation": {
       "en": "What, Reggie, you got something to say? You got a comment now that it's all over?",
-      "ja": "何？　レジー 言いたいことがあるの？"
+      "ja": "何？　レジー言いたいことがあるの？"
     }
   },
   {
@@ -1525,7 +1525,7 @@
   },
   {
     "translation": {
-      "en": "- Uh, Mom… - What?",
+      "en": "-Uh, Mom… -What?",
       "ja": "ママ 何？"
     }
   },
@@ -1567,7 +1567,7 @@
   },
   {
     "translation": {
-      "en": "You all right?",
+      "en": "[Kelly] You all right?",
       "ja": "分かった"
     }
   },
@@ -1579,20 +1579,20 @@
   },
   {
     "translation": {
-      "en": "- What you know about this? - I like this song.",
+      "en": "-What you know about this? -[Kelly] I like this song.",
       "ja": "知ってる？ 気に入った"
     }
   },
   {
     "translation": {
-      "en": "- Mom? - Mmm- hmm?",
+      "en": "-Mom? -Mmm-hmm?",
       "ja": "ママ？"
     }
   },
   {
     "translation": {
       "en": "Those guys today, were they going to hurt us?",
-      "ja": "ヤツら 僕らを傷つける気だった？"
+      "ja": "ヤツら僕らを傷つける気だった？"
     }
   },
   {
@@ -1633,7 +1633,7 @@
   },
   {
     "translation": {
-      "en": "Listen, little man.",
+      "en": "[sighs] Listen, little man.",
       "ja": "聞きなさい"
     }
   },
@@ -1646,13 +1646,13 @@
   {
     "translation": {
       "en": "It's your job to be a kid and it's my job to be your mom,",
-      "ja": "あなたの仕事は 子どもでいること"
+      "ja": "あなたの仕事は子どもでいること"
     }
   },
   {
     "translation": {
       "en": "and make sure that you and your sister are taken care of. Okay?",
-      "ja": "子どもの面倒を見るのは ママの仕事"
+      "ja": "子どもの面倒を見るのはママの仕事"
     }
   },
   {
@@ -1682,12 +1682,12 @@
   {
     "translation": {
       "en": "As long as we're together, none of us are ever homeless.",
-      "ja": "皆が一緒なら ホームレスにはならない"
+      "ja": "皆が一緒ならホームレスにはならない"
     }
   },
   {
     "translation": {
-      "en": "I miss Dad.",
+      "en": "[voice breaking] I miss Dad.",
       "ja": "パパに会いたい"
     }
   },
@@ -1712,7 +1712,7 @@
   {
     "translation": {
       "en": "It's okay, it's all right. I know. We all miss him too.",
-      "ja": "いいのよ　私も同じ 皆そうよ"
+      "ja": "いいのよ　私も同じ皆そうよ"
     }
   },
   {
@@ -1723,7 +1723,7 @@
   },
   {
     "translation": {
-      "en": "I hate this. Can I just sleep in the car or something?",
+      "en": "[sighs] I hate this. Can I just sleep in the car or something?",
       "ja": "ここ嫌　車で寝てもいい？"
     }
   },
@@ -1736,18 +1736,18 @@
   {
     "translation": {
       "en": "Why? Look, this room is ugly and there's zero privacy.",
-      "ja": "醜いし プライバシーがない"
+      "ja": "醜いしプライバシーがない"
     }
   },
   {
     "translation": {
-      "en": "- She wants to FaceTime Zac and be kissy. - Shut it, pipsqueak.",
+      "en": "-She wants to FaceTime Zac and be kissy. -Shut it, pipsqueak.",
       "ja": "ビデオ通話でキス？ 黙れチビ"
     }
   },
   {
     "translation": {
-      "en": "- Mom, she called me a pipsqueak. - Yeah, you are.",
+      "en": "-Mom, she called me a pipsqueak. -Yeah, you are.",
       "ja": "ママ チビって… だってチビだから"
     }
   },
@@ -1759,13 +1759,13 @@
   },
   {
     "translation": {
-      "en": "- You too! - You're smaller than me!",
+      "en": "-You too! -You're smaller than me!",
       "ja": "同じだ 私は大きい"
     }
   },
   {
     "translation": {
-      "en": "- Chubby cheeks. - No, I'm not!",
+      "en": "-Chubby cheeks. -No, I'm not!",
       "ja": "やめなさい 黙れよ"
     }
   },
@@ -1795,7 +1795,7 @@
   },
   {
     "translation": {
-      "en": "Do I look lighter?",
+      "en": "[sighs] Do I look lighter?",
       "ja": "俺 痩せた？"
     }
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "translation": {
-      "en": "- Hey! You know I don't snore. - And Kim Kardashian's butt is real.",
+      "en": "-Hey! You know I don't snore. -And Kim Kardashian's butt is real.",
       "ja": "いびきはかかない それ本気？"
     }
   },
@@ -1831,13 +1831,13 @@
   },
   {
     "translation": {
-      "en": "- You know y'all are adopted, right? - What?",
+      "en": "-You know y'all are adopted, right? -What?",
       "ja": "２人は実は養子だ 何？"
     }
   },
   {
     "translation": {
-      "en": "- Okay, enough. -",
+      "en": "-Okay, enough. -[scoffs]",
       "ja": "もう 十分よ"
     }
   },
@@ -1849,19 +1849,19 @@
   },
   {
     "translation": {
-      "en": "- Good night. - G'night.",
+      "en": "-Good night. -G'night.",
       "ja": "ほら おやすみ"
     }
   },
   {
     "translation": {
-      "en": "- You fools! - Oh, oh, oh!",
+      "en": "-You fools! -Oh, oh, oh!",
       "ja": "もうバカね"
     }
   },
   {
     "translation": {
-      "en": "- No. No! -",
+      "en": "-[Kelly] No. No! -[Brenda laughs]",
       "ja": "もう　やめて"
     }
   },
@@ -1891,7 +1891,7 @@
   },
   {
     "translation": {
-      "en": "Shh! Uh- oh.",
+      "en": "[whispers] Shh! Uh-oh.",
       "ja": "おっと"
     }
   },
@@ -1903,19 +1903,19 @@
   },
   {
     "translation": {
-      "en": "- Okay. - We don't want to get kicked out.",
+      "en": "-[Cam] Okay. -We don't want to get kicked out.",
       "ja": "ええ 追い出されたくない"
     }
   },
   {
     "translation": {
-      "en": "- Here. - You gonna get it now.",
+      "en": "-Here. -You gonna get it now.",
       "ja": "ほら これでいい"
     }
   },
   {
     "translation": {
-      "en": "- Boy, if you don't go to sleep… - Okay.",
+      "en": "-Boy, if you don't go to sleep… -Okay.",
       "ja": "もう寝ないと"
     }
   },
@@ -1934,18 +1934,18 @@
   {
     "translation": {
       "en": "What the hell is going on? Somebody throwing a party or something?",
-      "ja": "何が起きてる？ パーティーか？"
+      "ja": "何が起きてる？パーティーか？"
     }
   },
   {
     "translation": {
-      "en": "- It's four in the morning, Reg. - That's when the best parties get started.",
+      "en": "-It's four in the morning, Reg. -That's when the best parties get started.",
       "ja": "朝の４時よ 最高のパーティーはそうだ"
     }
   },
   {
     "translation": {
-      "en": "- No, no, no, this sounds like a fight. - What?",
+      "en": "-No, no, no, this sounds like a fight. -What?",
       "ja": "ケンカしてる 何？"
     }
   },
@@ -1957,7 +1957,7 @@
   },
   {
     "translation": {
-      "en": "- That definitely ain't no party. - I'm scared.",
+      "en": "-That definitely ain't no party. -[Cam] I'm scared.",
       "ja": "パーティーじゃない 怖いよ"
     }
   },
@@ -1969,49 +1969,49 @@
   },
   {
     "translation": {
-      "en": "- What? - Mom, please don't go out there.",
+      "en": "-What? -Mom, please don't go out there.",
       "ja": "何？ 行かないで"
     }
   },
   {
     "translation": {
       "en": "I'm a ER nurse. For all we know, some woman is getting beat by a man.",
-      "ja": "私は救急看護師よ 女性が殴られてるかも"
+      "ja": "私は救急看護師よ女性が殴られてるかも"
     }
   },
   {
     "translation": {
-      "en": "- You gonna get caught in the middle? -",
+      "en": "-You gonna get caught in the middle? -[muffled shouting]",
       "ja": "巻き込まれるぞ"
     }
   },
   {
     "translation": {
-      "en": "- Mom, no. - Sis…",
+      "en": "-Mom, no. -Sis…",
       "ja": "ママやめて"
     }
   },
   {
     "translation": {
-      "en": "- The fuck? -",
+      "en": "-The fuck? -[door opening next door]",
       "ja": "今のは？"
     }
   },
   {
     "translation": {
-      "en": "- Mom? -",
+      "en": "-[Cam] Mom? -[gasps]",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "- Mom, who is that? - Shh!",
+      "en": "-Mom, who is that? -Shh!",
       "ja": "ママ あれ誰？"
     }
   },
   {
     "translation": {
-      "en": "Sounds like he's gone.",
+      "en": "[softly] Sounds like he's gone.",
       "ja": "去ったわ"
     }
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "translation": {
-      "en": "- Somebody could be dead in there. - I better check.",
+      "en": "-Somebody could be dead in there. -I better check.",
       "ja": "死んでるかも 確認する"
     }
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "- But-- - Stay here.",
+      "en": "-But-- -[Kelly] Stay here.",
       "ja": "でも 部屋に居て"
     }
   },
@@ -2048,12 +2048,12 @@
   {
     "translation": {
       "en": "Kelly, call 911. There's a man with a gunshot wound to the throat.",
-      "ja": "救急車よ 喉を撃たれた人がいる"
+      "ja": "救急車よ喉を撃たれた人がいる"
     }
   },
   {
     "translation": {
-      "en": "- What? - Keep your brother in that room!",
+      "en": "-What? -Keep your brother in that room!",
       "ja": "何？ キャムは部屋に"
     }
   },
@@ -2072,7 +2072,7 @@
   {
     "translation": {
       "en": "Sir? Sir, I'm a nurse. My name is Brenda, I'm gonna help you.",
-      "ja": "看護師のブレンダです 救助します"
+      "ja": "看護師のブレンダです救助します"
     }
   },
   {
@@ -2102,12 +2102,12 @@
   {
     "translation": {
       "en": "I've called 911. Help is on the way. I'll take care of you.",
-      "ja": "救急車が来るわ 私が助ける"
+      "ja": "救急車が来るわ私が助ける"
     }
   },
   {
     "translation": {
-      "en": "- Hurry up, Reggie! Just hold on. -",
+      "en": "-Hurry up, Reggie! Just hold on. -[gasping]",
       "ja": "急いで レジー 待って"
     }
   },
@@ -2149,13 +2149,13 @@
   },
   {
     "translation": {
-      "en": "I need you.",
+      "en": "[sniffles] I need you.",
       "ja": "あなたが必要"
     }
   },
   {
     "translation": {
-      "en": "Captain Hammers, sir.",
+      "en": "[officer] Captain Hammers, sir.",
       "ja": "ハマーズ警部"
     }
   },
@@ -2185,32 +2185,32 @@
   },
   {
     "translation": {
-      "en": "The witnesses next door reported a fight.",
+      "en": "[officer] The witnesses next door reported a fight.",
       "ja": "隣の部屋の客が通報を"
     }
   },
   {
     "translation": {
       "en": "Harvey Ruck. Enforcer and bagman for Mr. Cross.",
-      "ja": "ハーヴィー･ラック クロスの用心棒兼取り立て屋"
+      "ja": "ハーヴィー･ラッククロスの用心棒兼取り立て屋"
     }
   },
   {
     "translation": {
       "en": "An informant of mine says that Ruck and his partner Pepe Ochoa",
-      "ja": "内通者によると ラックと相棒のペペが"
+      "ja": "内通者によるとラックと相棒のペペが"
     }
   },
   {
     "translation": {
       "en": "were supposed to deliver a payoff to Mr. Cross from the Sinaloa Cartel.",
-      "ja": "メキシコの麻薬組織から カネを受け取るはずだった"
+      "ja": "メキシコの麻薬組織からカネを受け取るはずだった"
     }
   },
   {
     "translation": {
       "en": "Looks like Ruck went independent, canceled Pepe's ticket.",
-      "ja": "ラックはカネ目当てで ぺぺを殺し"
+      "ja": "ラックはカネ目当てでぺぺを殺し"
     }
   },
   {
@@ -2222,25 +2222,25 @@
   {
     "translation": {
       "en": "Do you think the cartel caught him? We didn't find any money.",
-      "ja": "麻薬組織では？ カネはありませんでした"
+      "ja": "麻薬組織では？カネはありませんでした"
     }
   },
   {
     "translation": {
-      "en": "Reasonable assumption, or Cross did it.",
-      "ja": "クロスの犯行と 考えるのが妥当だ"
+      "en": "[Hammers] Reasonable assumption, or Cross did it.",
+      "ja": "クロスの犯行と考えるのが妥当だ"
     }
   },
   {
     "translation": {
       "en": "Man's had his hand in every dirty deal that ever went down in this part of the world.",
-      "ja": "この種の全ての 汚い取引に関わってる"
+      "ja": "この種の全ての汚い取引に関わってる"
     }
   },
   {
     "translation": {
       "en": "I've been chasing that slippery son of a bitch for years.",
-      "ja": "俺はあいつを 何年も追ってきた"
+      "ja": "俺はあいつを何年も追ってきた"
     }
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "translation": {
       "en": "If that family can ID the killer's voice,",
-      "ja": "その家族が 犯人の声を覚えてたら"
+      "ja": "その家族が犯人の声を覚えてたら"
     }
   },
   {
@@ -2329,14 +2329,14 @@
   },
   {
     "translation": {
-      "en": "How come Reggie gets to drive and I don't?",
+      "en": "[Kelly] How come Reggie gets to drive and I don't?",
       "ja": "なぜ私はダメ？"
     }
   },
   {
     "translation": {
       "en": "Because you only have a learner's permit for California.",
-      "ja": "あなたの免許は カリフォルニア限定でしょ"
+      "ja": "あなたの免許はカリフォルニア限定でしょ"
     }
   },
   {
@@ -2353,19 +2353,19 @@
   },
   {
     "translation": {
-      "en": "- Plenty? - Okay?",
+      "en": "-[Kelly] Plenty? -Okay?",
       "ja": "たくさん？"
     }
   },
   {
     "translation": {
-      "en": "- Are they valid? - Yes. I don't know what you talking about.",
+      "en": "-Are they valid? -Yes. I don't know what you talking about.",
       "ja": "有効？ ああ 何を言ってる"
     }
   },
   {
     "translation": {
-      "en": "- - Hello.",
+      "en": "-[phone ringing] -Hello.",
       "ja": "よく言う もしもし？"
     }
   },
@@ -2377,20 +2377,20 @@
   },
   {
     "translation": {
-      "en": "Yes, who's this?",
+      "en": "[Brenda] Yes, who's this?",
       "ja": "どなた？"
     }
   },
   {
     "translation": {
       "en": "Mrs. Freeman, I'm Capt. JD Hammers of the Arizona State Troopers.",
-      "ja": "アリゾナ州警察の ハマーズ警部です"
+      "ja": "アリゾナ州警察のハマーズ警部です"
     }
   },
   {
     "translation": {
       "en": "I'm in command of the homicide investigation at the Sunset Motel.",
-      "ja": "モーテルの殺人事件の 捜査をしています"
+      "ja": "モーテルの殺人事件の捜査をしています"
     }
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "translation": {
       "en": "I just want to get my family as far away from that motel as possible.",
-      "ja": "家族を可能な限り そこから遠ざけたい"
+      "ja": "家族を可能な限りそこから遠ざけたい"
     }
   },
   {
@@ -2431,7 +2431,7 @@
   },
   {
     "translation": {
-      "en": "I need to ask you some follow- up questions.",
+      "en": "I need to ask you some follow-up questions.",
       "ja": "まだ聞くことがあります"
     }
   },
@@ -2449,19 +2449,19 @@
   },
   {
     "translation": {
-      "en": "Look, Captain…  …I can't talk right now.",
+      "en": "Look, Captain… [softly] …I can't talk right now.",
       "ja": "それに警部 今は話せないの"
     }
   },
   {
     "translation": {
       "en": "I have your number. I promise I'll call you as soon as I can talk.",
-      "ja": "番号は分かる あとでかけ直すわ"
+      "ja": "番号は分かるあとでかけ直すわ"
     }
   },
   {
     "translation": {
-      "en": "- Ma'am, you don't-- Ma'am! - Have a good day.",
+      "en": "-Ma'am, you don't-- Ma'am! -Have a good day.",
       "ja": "ですが… よい一日を"
     }
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "translation": {
-      "en": "- Hello. - Hello.",
+      "en": "-Hello. -[distorted voice] Hello.",
       "ja": "もしもし もしもし"
     }
   },
@@ -2521,13 +2521,13 @@
   },
   {
     "translation": {
-      "en": "- I think you got the wrong number. - Don't hang up, Brenda.",
+      "en": "-I think you got the wrong number. -Don't hang up, Brenda.",
       "ja": "番号が違う 切るな　ブレンダ"
     }
   },
   {
     "translation": {
-      "en": "- How do you know my name? - Boss man wants his money, Brenda.",
+      "en": "-How do you know my name? -Boss man wants his money, Brenda.",
       "ja": "なぜ名前を？ 奪ったボスのカネだよ"
     }
   },
@@ -2546,12 +2546,12 @@
   {
     "translation": {
       "en": "I don't know what you talking about. Don't call me back anymore.",
-      "ja": "何の話？ 二度とかけて来ないで"
+      "ja": "何の話？二度とかけて来ないで"
     }
   },
   {
     "translation": {
-      "en": "- What was that? - Some weird voice.",
+      "en": "-What was that? -Some weird voice.",
       "ja": "何だ？ 私が誰かのカネを取ったって"
     }
   },
@@ -2563,20 +2563,20 @@
   },
   {
     "translation": {
-      "en": "I ain't got nothing for 'em to scam.",
+      "en": "[chuckles] I ain't got nothing for 'em to scam.",
       "ja": "お金なんてないのに"
     }
   },
   {
     "translation": {
-      "en": "I mean, think about it, double- quarter- pound burger.",
-      "ja": "ダブルクォーター パウンダーは"
+      "en": "[Reggie] I mean, think about it, double-quarter-pound burger.",
+      "ja": "ダブルクォーターパウンダーは"
     }
   },
   {
     "translation": {
-      "en": "That's half a pound, right? How come they ain't got the guts to call it a half- pounder?",
-      "ja": "ハーフパウンダーと 呼ぶべきだろ？ 〝ファーム＆フード〞"
+      "en": "That's half a pound, right? How come they ain't got the guts to call it a half-pounder?",
+      "ja": "ハーフパウンダーと呼ぶべきだろ？ 〝ファーム＆フード〞"
     }
   },
   {
@@ -2587,7 +2587,7 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[clicks tongue] No.",
       "ja": "違う"
     }
   },
@@ -2605,19 +2605,19 @@
   },
   {
     "translation": {
-      "en": "- What's wrong? - Nothing's wrong.",
+      "en": "-What's wrong? -Nothing's wrong.",
       "ja": "何？ 何も"
     }
   },
   {
     "translation": {
-      "en": "Uh- uh.",
+      "en": "Uh-uh.",
       "ja": "いいえ"
     }
   },
   {
     "translation": {
-      "en": "- I know that look, little brother. - What look?",
+      "en": "-I know that look, little brother. -What look?",
       "ja": "見れば分かる 何が？"
     }
   },
@@ -2629,14 +2629,14 @@
   },
   {
     "translation": {
-      "en": "- My eyes ain't darty. - You darty right now.",
+      "en": "-My eyes ain't darty. -You darty right now.",
       "ja": "誤解だ 今もそう"
     }
   },
   {
     "translation": {
       "en": "Like when you got a secret or you about to tell a lie. What's up?",
-      "ja": "秘密があるか ウソをつく直前 何？"
+      "ja": "秘密があるかウソをつく直前 何？"
     }
   },
   {
@@ -2654,18 +2654,18 @@
   {
     "translation": {
       "en": "I was going to surprise you once we got to Houston.",
-      "ja": "ヒューストンで 驚かせたかった"
+      "ja": "ヒューストンで驚かせたかった"
     }
   },
   {
     "translation": {
-      "en": "All my life, everybody say I'm the family fuck- up, right?",
-      "ja": "俺は家族のお荷物だと 言われてきた"
+      "en": "All my life, everybody say I'm the family fuck-up, right?",
+      "ja": "俺は家族のお荷物だと言われてきた"
     }
   },
   {
     "translation": {
-      "en": "- No comment. - This time, Reggie ain't the problem.",
+      "en": "-No comment. -This time, Reggie ain't the problem.",
       "ja": "続けて 今回のレジーは違う"
     }
   },
@@ -2684,7 +2684,7 @@
   {
     "translation": {
       "en": "The Lord is our savior, fell out the sky right into our laps.",
-      "ja": "救世主が 俺たちに与えてくれた"
+      "ja": "救世主が俺たちに与えてくれた"
     }
   },
   {
@@ -2695,26 +2695,26 @@
   },
   {
     "translation": {
-      "en": "- What the-- - The dead dude.",
-      "ja": "一体… 死んだ男だ 洗面台の下にあった"
+      "en": "-What the-- -The dead dude.",
+      "ja": "一体… 死んだ男だ洗面台の下にあった"
     }
   },
   {
     "translation": {
       "en": "He stashed it under the bathroom sink.",
-      "ja": "死んだ男だ 洗面台の下にあった"
+      "ja": "死んだ男だ洗面台の下にあった"
     }
   },
   {
     "translation": {
       "en": "It's gotta be drug money, right? I figured this dude is deader than shit.",
-      "ja": "麻薬絡みのカネだろ あの男はしくじった"
+      "ja": "麻薬絡みのカネだろあの男はしくじった"
     }
   },
   {
     "translation": {
       "en": "He can't use this money, but I know a needy family who can.",
-      "ja": "死者にカネは使えんが 俺らは違う"
+      "ja": "死者にカネは使えんが俺らは違う"
     }
   },
   {
@@ -2738,25 +2738,25 @@
   {
     "translation": {
       "en": "You thought you were just gonna take this, and make our lives better?",
-      "ja": "これを奪って いい人生を送れる？"
+      "ja": "これを奪っていい人生を送れる？"
     }
   },
   {
     "translation": {
-      "en": "- This money could save our lives. - It can end our lives!",
+      "en": "-This money could save our lives. -It can end our lives!",
       "ja": "これで救われる 命を失うかも"
     }
   },
   {
     "translation": {
       "en": "Bren, just say thank you. Stop looking on the dark side.",
-      "ja": "感謝するんだ 悪い面は見るな"
+      "ja": "感謝するんだ悪い面は見るな"
     }
   },
   {
     "translation": {
       "en": "We could turn around and go back to Los Angeles right now. Save the house and everything.",
-      "ja": "今ロサンゼルスに帰って 家を取り戻せる"
+      "ja": "今ロサンゼルスに帰って家を取り戻せる"
     }
   },
   {
@@ -2780,7 +2780,7 @@
   {
     "translation": {
       "en": "And their boss knows we have it. He knows who we are!",
-      "ja": "私たちが持ってることは バレてる"
+      "ja": "私たちが持ってることはバレてる"
     }
   },
   {
@@ -2792,19 +2792,19 @@
   {
     "translation": {
       "en": "What if he does? Huh? You gonna turn into some street gangster?",
-      "ja": "来たら？ ギャングに変身する？"
+      "ja": "来たら？ギャングに変身する？"
     }
   },
   {
     "translation": {
-      "en": "Instead of the assistant manager at Chick- fil- A?",
+      "en": "Instead of the assistant manager at Chick-fil-A?",
       "ja": "バーガー店の副支店長が？"
     }
   },
   {
     "translation": {
       "en": "Hey, that's an elite position. Okay? I had to work my way up to that.",
-      "ja": "エリートだぞ そのために努力した"
+      "ja": "エリートだぞそのために努力した"
     }
   },
   {
@@ -2815,14 +2815,14 @@
   },
   {
     "translation": {
-      "en": "- Okay, we gotta call the police. - What?",
+      "en": "-Okay, we gotta call the police. -What?",
       "ja": "警察に話す 何？"
     }
   },
   {
     "translation": {
       "en": "No. You call the police, they'll arrest the whole damn family.",
-      "ja": "警察に言えば 家族全員が逮捕される"
+      "ja": "警察に言えば家族全員が逮捕される"
     }
   },
   {
@@ -2839,7 +2839,7 @@
   },
   {
     "translation": {
-      "en": "We the next best thing.",
+      "en": "[scoffs] We the next best thing.",
       "ja": "さらにいいことに"
     }
   },
@@ -2863,13 +2863,13 @@
   },
   {
     "translation": {
-      "en": "- Bren, don't answer! - No, Reggie.",
+      "en": "-Bren, don't answer! -No, Reggie.",
       "ja": "やめろ 放して"
     }
   },
   {
     "translation": {
-      "en": "- Don't pick it up. - Get… Reggie, get… get off!",
+      "en": "-Don't pick it up. -Get… Reggie, get… get off!",
       "ja": "出ちゃダメだ レジーやめて"
     }
   },
@@ -2900,7 +2900,7 @@
   {
     "translation": {
       "en": "Look, you'll get your money back, but it'll be on my terms, okay?",
-      "ja": "お金は返すけど 私のやり方でやる"
+      "ja": "お金は返すけど私のやり方でやる"
     }
   },
   {
@@ -2929,26 +2929,26 @@
   },
   {
     "translation": {
-      "en": "Yeah, in the very next room.",
+      "en": "[Kelly] Yeah, in the very next room.",
       "ja": "そう 隣の部屋よ"
     }
   },
   {
     "translation": {
       "en": "Yeah, Zac, he was murdered. I mean, there was blood everywhere.",
-      "ja": "ザック 彼は殺されて 血だらけだった"
+      "ja": "ザック 彼は殺されて血だらけだった"
     }
   },
   {
     "translation": {
-      "en": "This is our game, Brenda. You don't make the rules. Mr. Cross does.",
-      "ja": "ルールを決めるのは ミスタークロスよ"
+      "en": "[distorted voice] This is our game, Brenda. You don't make the rules. Mr. Cross does.",
+      "ja": "ルールを決めるのはミスタークロスよ"
     }
   },
   {
     "translation": {
       "en": "The bag is in room 33 at the Center Star Inn.",
-      "ja": "センター･スター･インの 33号室にバッグを置く"
+      "ja": "センター･スター･インの33号室にバッグを置く"
     }
   },
   {
@@ -2996,7 +2996,7 @@
   {
     "translation": {
       "en": "I was getting some tourist brochures. Check it out.",
-      "ja": "観光のパンフレットを もらって来た"
+      "ja": "観光のパンフレットをもらって来た"
     }
   },
   {
@@ -3014,7 +3014,7 @@
   {
     "translation": {
       "en": "Maybe we should take advantage of it. You know, soak up some culture.",
-      "ja": "この機会を利用して 文化を吸収しよう"
+      "ja": "この機会を利用して文化を吸収しよう"
     }
   },
   {
@@ -3026,7 +3026,7 @@
   {
     "translation": {
       "en": "Look, after last night, I just think we all need to relax and breathe a little.",
-      "ja": "昨夜のこともある リラックスが必要だわ"
+      "ja": "昨夜のこともあるリラックスが必要だわ"
     }
   },
   {
@@ -3043,25 +3043,25 @@
   },
   {
     "translation": {
-      "en": "Shut your ass up.",
+      "en": "[quietly] Shut your ass up.",
       "ja": "黙ってて"
     }
   },
   {
     "translation": {
-      "en": "Howdy, folks. Welcome to Old Bravo.",
-      "ja": "〝オールド･ブラボー〞 オールド･ブラボーへ ようこそ"
+      "en": "[announcer] Howdy, folks. Welcome to Old Bravo.",
+      "ja": "〝オールド･ブラボー〞 オールド･ブラボーへようこそ"
     }
   },
   {
     "translation": {
       "en": "The town where the Wild West never dies!",
-      "ja": "〝オールド･ブラボー〞 この町では ワイルド･ウェストは永遠だ この町では ワイルド･ウェストは永遠だ"
+      "ja": "〝オールド･ブラボー〞 この町ではワイルド･ウェストは永遠だ この町ではワイルド･ウェストは永遠だ"
     }
   },
   {
     "translation": {
-      "en": "- - Get him!",
+      "en": "-[laughing] -Get him!",
       "ja": "捕まえろ"
     }
   },
@@ -3079,38 +3079,38 @@
   },
   {
     "translation": {
-      "en": "- Dork. - No, I'm not.",
+      "en": "-Dork. -No, I'm not.",
       "ja": "バカね どこが"
     }
   },
   {
     "translation": {
-      "en": "- You're in jail. - What?",
+      "en": "-You're in jail. -What?",
       "ja": "捕まってる"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - No.",
+      "en": "-Yeah. -No.",
       "ja": "ウソだ"
     }
   },
   {
     "translation": {
-      "en": "- You're in jail. - Oh.",
+      "en": "-You're in jail. -Oh.",
       "ja": "そこは留置所よ"
     }
   },
   {
     "translation": {
-      "en": "Brenda, you my big sister, I love you.",
+      "en": "[Reggie] Brenda, you my big sister, I love you.",
       "ja": "姉さんのことは愛してる"
     }
   },
   {
     "translation": {
       "en": "But you definitely just messed up the best thing that ever happened to us.",
-      "ja": "でも 俺の最高の出来事を 台無しにした"
+      "ja": "でも 俺の最高の出来事を台無しにした"
     }
   },
   {
@@ -3134,7 +3134,7 @@
   {
     "translation": {
       "en": "You damn right that's Jake talking. You gonna bring up my dead husband?",
-      "ja": "そうだけど 死んだ夫の話をする？"
+      "ja": "そうだけど死んだ夫の話をする？"
     }
   },
   {
@@ -3146,7 +3146,7 @@
   {
     "translation": {
       "en": "Jake was a hero, Jake was a god, 'cause Jake always did what was right.",
-      "ja": "ジェイクは英雄で神だ いつも正しい"
+      "ja": "ジェイクは英雄で神だいつも正しい"
     }
   },
   {
@@ -3170,7 +3170,7 @@
   {
     "translation": {
       "en": "You got the money by getting yourself so far in debt you lost your house.",
-      "ja": "そのとおり そのせいで家を失い"
+      "ja": "そのとおりそのせいで家を失い"
     }
   },
   {
@@ -3181,7 +3181,7 @@
   },
   {
     "translation": {
-      "en": "- You a asshole, you know that? - Yeah, I know it.",
+      "en": "-You a asshole, you know that? -Yeah, I know it.",
       "ja": "クソ野郎ね 知ってる"
     }
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "translation": {
-      "en": "You know what? Maybe I am just an assistant manager at Chick- fil- A.",
+      "en": "You know what? Maybe I am just an assistant manager at Chick-fil-A.",
       "ja": "俺はバーガー店の副支店長だ"
     }
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "translation": {
-      "en": "- This is really peaceful. - Yeah.",
+      "en": "-This is really peaceful. -Yeah.",
       "ja": "落ち着くね うん"
     }
   },
@@ -3319,25 +3319,25 @@
   },
   {
     "translation": {
-      "en": "Hey, folks. You hear that?",
+      "en": "[announcer] Hey, folks. You hear that?",
       "ja": "みんな 聞こえたか？"
     }
   },
   {
     "translation": {
       "en": "It's high noon. And there's a duel happening. Come on down!",
-      "ja": "正午だ　決闘が始まる 見物に集まれ"
+      "ja": "正午だ　決闘が始まる見物に集まれ"
     }
   },
   {
     "translation": {
-      "en": "- Feels kind of real. - Who you got?",
+      "en": "-Feels kind of real. -Who you got?",
       "ja": "本物みたい 勝者は？"
     }
   },
   {
     "translation": {
-      "en": "- My man right there. - Yep.",
+      "en": "-My man right there. -Yep.",
       "ja": "あの男が勝つ"
     }
   },
@@ -3349,8 +3349,8 @@
   },
   {
     "translation": {
-      "en": "Last person who took Mr. Cross for a fool is dead.",
-      "ja": "ボスのカネに 手をつければ死ぬ"
+      "en": "[distorted voice] Last person who took Mr. Cross for a fool is dead.",
+      "ja": "ボスのカネに手をつければ死ぬ"
     }
   },
   {
@@ -3385,7 +3385,7 @@
   },
   {
     "translation": {
-      "en": "- And now Mr. Cross has something of yours. -",
+      "en": "-And now Mr. Cross has something of yours. -[muffled screaming]",
       "ja": "ボスもあなたのものを取る"
     }
   },
@@ -3398,18 +3398,18 @@
   {
     "translation": {
       "en": "He's here. Cross is here. Go find Cameron. Bring him straight to the car.",
-      "ja": "クロスがここにいる キャムを探して"
+      "ja": "クロスがここにいるキャムを探して"
     }
   },
   {
     "translation": {
-      "en": "- Come on, we gotta go. - Whoa!",
+      "en": "-Come on, we gotta go. -Whoa!",
       "ja": "行くわよ"
     }
   },
   {
     "translation": {
-      "en": "- What is wrong? - Don't ask questions, just do as I say.",
+      "en": "-What is wrong? -Don't ask questions, just do as I say.",
       "ja": "何？ 言ったとおりにして"
     }
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "translation": {
-      "en": "- Are you gonna tell me what's going on? - Just Just get in the car right now.",
+      "en": "-Are you gonna tell me what's going on? -Just Just get in the car right now.",
       "ja": "何があったの？ 今は車に乗って"
     }
   },
@@ -3481,14 +3481,14 @@
   },
   {
     "translation": {
-      "en": "Hello, Brenda.",
+      "en": "[low voice] Hello, Brenda.",
       "ja": "やあ ブレンダ"
     }
   },
   {
     "translation": {
       "en": "This is Mr. Cross. He's with me.",
-      "ja": "クロスだ 息子と一緒にいる"
+      "ja": "クロスだ息子と一緒にいる"
     }
   },
   {
@@ -3499,8 +3499,8 @@
   },
   {
     "translation": {
-      "en": "Call the police, or fuck with me again,",
-      "ja": "通報や 再びナメたまねをしたら"
+      "en": "[Cross] Call the police, or fuck with me again,",
+      "ja": "通報や再びナメたまねをしたら"
     }
   },
   {
@@ -3518,7 +3518,7 @@
   {
     "translation": {
       "en": "You have two hours to retrieve my money. Then bring it back to Old Bravo and call me.",
-      "ja": "２時間以内に今居る場所に カネを運び 俺に電話しろ"
+      "ja": "２時間以内に今居る場所にカネを運び 俺に電話しろ"
     }
   },
   {
@@ -3535,13 +3535,13 @@
   },
   {
     "translation": {
-      "en": "Help!",
+      "en": "[sobs] Help!",
       "ja": "助けて"
     }
   },
   {
     "translation": {
-      "en": "- Cam? - Swear to God, if he hurts that boy…",
+      "en": "-Cam? -Swear to God, if he hurts that boy…",
       "ja": "キャム？ あの子を傷つけたら…"
     }
   },
@@ -3559,14 +3559,14 @@
   },
   {
     "translation": {
-      "en": "- Cam has been abducted. - Abducted?",
+      "en": "-Cam has been abducted. -Abducted?",
       "ja": "さらわれたの"
     }
   },
   {
     "translation": {
       "en": "Reggie will explain it to you but right now I gotta go.",
-      "ja": "レジーに聞いて ママは行かないと"
+      "ja": "レジーに聞いてママは行かないと"
     }
   },
   {
@@ -3590,7 +3590,7 @@
   {
     "translation": {
       "en": "Listen to me. I cannot worry about you and your brother and do this.",
-      "ja": "心配しながら やり遂げられない"
+      "ja": "心配しながらやり遂げられない"
     }
   },
   {
@@ -3607,13 +3607,13 @@
   },
   {
     "translation": {
-      "en": "- Mom, wait, please. -",
+      "en": "-Mom, wait, please. -[engine starts]",
       "ja": "待って　お願い"
     }
   },
   {
     "translation": {
-      "en": "- No, no, no. Come on. - Mom!",
+      "en": "-No, no, no. Come on. -Mom!",
       "ja": "いいんだ"
     }
   },
@@ -3625,7 +3625,7 @@
   },
   {
     "translation": {
-      "en": "- Mom! - Kelly, trust her.",
+      "en": "-Mom! -Kelly, trust her.",
       "ja": "ママ 信じて"
     }
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "translation": {
-      "en": "I'm sorry, baby.",
+      "en": "[softly] I'm sorry, baby.",
       "ja": "ごめんね"
     }
   },
@@ -3649,13 +3649,13 @@
   },
   {
     "translation": {
-      "en": "- Mom! -",
+      "en": "-Mom! -[car honking]",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "- Come on, move! -",
+      "en": "-Come on, move! -[honking]",
       "ja": "何なの　どいて"
     }
   },
@@ -3668,19 +3668,19 @@
   {
     "translation": {
       "en": "In pursuit of a speeding Chevy Suburban. Headed westbound, east of Old Bravo town.",
-      "ja": "スピード違反の ＳＵＶ車を追跡中"
+      "ja": "スピード違反のＳＵＶ車を追跡中"
     }
   },
   {
     "translation": {
-      "en": "Capt. Hammers, we got a hit on your plate request",
-      "ja": "ハマーズ警部 捜索中の車です"
+      "en": "[woman] Capt. Hammers, we got a hit on your plate request",
+      "ja": "ハマーズ警部捜索中の車です"
     }
   },
   {
     "translation": {
       "en": "coming out of Old Bravo. Driver is a female, Black.",
-      "ja": "ハマーズ警部 捜索中の車です 運転手は黒人女性"
+      "ja": "ハマーズ警部捜索中の車です 運転手は黒人女性"
     }
   },
   {
@@ -3692,7 +3692,7 @@
   {
     "translation": {
       "en": "If the cartel or Cross spot you, they'll kill her. Fall back.",
-      "ja": "クロスに見つかれば 彼女は殺される"
+      "ja": "クロスに見つかれば彼女は殺される"
     }
   },
   {
@@ -3715,14 +3715,14 @@
   },
   {
     "translation": {
-      "en": "Don't worry?",
+      "en": "\"Don't worry\"?",
       "ja": "“心配ない”？"
     }
   },
   {
     "translation": {
-      "en": "The last three months of my life have felt like a bad nightmare",
-      "ja": "この３カ月 私の人生は悪夢だった"
+      "en": "[crying] The last three months of my life have felt like a bad nightmare",
+      "ja": "この３カ月私の人生は悪夢だった"
     }
   },
   {
@@ -3763,14 +3763,14 @@
   },
   {
     "translation": {
-      "en": "I don't want to lose him.",
+      "en": "[sobbing] I don't want to lose him.",
       "ja": "失いたくない"
     }
   },
   {
     "translation": {
       "en": "Your dad is always going to be with you. You hear me?",
-      "ja": "パパはいつも一緒だ そうだろ？"
+      "ja": "パパはいつも一緒だそうだろ？"
     }
   },
   {
@@ -3782,7 +3782,7 @@
   {
     "translation": {
       "en": "And your mom's going to get Cam back. I promise.",
-      "ja": "それに ママがキャムを連れ戻す"
+      "ja": "それにママがキャムを連れ戻す"
     }
   },
   {
@@ -3799,7 +3799,7 @@
   },
   {
     "translation": {
-      "en": "I messed up big- time.",
+      "en": "I messed up big-time.",
       "ja": "やらかしたんだ"
     }
   },
@@ -3824,7 +3824,7 @@
   {
     "translation": {
       "en": "Breathe. Breathe. Breathe. Breathe.",
-      "ja": "待って 呼吸して 落ち着くの"
+      "ja": "待って 呼吸して落ち着くの"
     }
   },
   {
@@ -3913,7 +3913,7 @@
   },
   {
     "translation": {
-      "en": "- My bag! Give it back. -",
+      "en": "-My bag! Give it back. -[woman screams]",
       "ja": "バッグを返しな"
     }
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "translation": {
-      "en": "Yo!",
+      "en": "[man] Yo!",
       "ja": "お前"
     }
   },
@@ -3950,7 +3950,7 @@
   {
     "translation": {
       "en": "Shut the hell up. I'll blow your ass back to Africa.",
-      "ja": "黙れ アフリカまで吹っ飛ばすぞ"
+      "ja": "黙れアフリカまで吹っ飛ばすぞ"
     }
   },
   {
@@ -3961,7 +3961,7 @@
   },
   {
     "translation": {
-      "en": "Holy shit.",
+      "en": "[Mace] Holy shit.",
       "ja": "何事だよ"
     }
   },
@@ -3974,13 +3974,13 @@
   {
     "translation": {
       "en": "This woman here, she stole my property, but I got it back now.",
-      "ja": "取られた物を取り返した もう行くわ"
+      "ja": "取られた物を取り返したもう行くわ"
     }
   },
   {
     "translation": {
       "en": "So I'll just go get my car and go now. I don't want any trouble.",
-      "ja": "車を取りに行く トラブルは避けたい"
+      "ja": "車を取りに行くトラブルは避けたい"
     }
   },
   {
@@ -4009,7 +4009,7 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[Brenda] No.",
       "ja": "断る"
     }
   },
@@ -4034,13 +4034,13 @@
   {
     "translation": {
       "en": "This is Brenda, please leave it at the tone.",
-      "ja": "ブレンダです メッセージをどうぞ"
+      "ja": "ブレンダですメッセージをどうぞ"
     }
   },
   {
     "translation": {
-      "en": "Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
-      "ja": "オールド･ブラボーの外の ラッキー13って食堂にいる"
+      "en": "[voice wavering] Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
+      "ja": "オールド･ブラボーの外のラッキー13って食堂にいる"
     }
   },
   {
@@ -4070,19 +4070,19 @@
   {
     "translation": {
       "en": "Captain Hammers of the Arizona State Troopers.",
-      "ja": "アリゾナ州警察の ハマーズ警部だ"
+      "ja": "アリゾナ州警察のハマーズ警部だ"
     }
   },
   {
     "translation": {
       "en": "I'm looking into the homicide that took place last night at the Sunset Motel.",
-      "ja": "昨夜モーテルで起きた 殺人事件の捜査をしてる"
+      "ja": "昨夜モーテルで起きた殺人事件の捜査をしてる"
     }
   },
   {
     "translation": {
       "en": "I didn't spot y'all at Old Bravo so I figured you'd be here.",
-      "ja": "オールド･ブラボーでなきゃ ここかと"
+      "ja": "オールド･ブラボーでなきゃここかと"
     }
   },
   {
@@ -4093,7 +4093,7 @@
   },
   {
     "translation": {
-      "en": "- Sir, we already talked to the police. - I know.",
+      "en": "-Sir, we already talked to the police. -I know.",
       "ja": "もう話しました 知ってるよ"
     }
   },
@@ -4106,12 +4106,12 @@
   {
     "translation": {
       "en": "Darling, bring me a big old glass of iced tea, extra sweet, lots of ice.",
-      "ja": "氷たっぷりの 甘いアイスティーを"
+      "ja": "氷たっぷりの甘いアイスティーを"
     }
   },
   {
     "translation": {
-      "en": "- Thanks. - Sure, Captain.",
+      "en": "-Thanks. -Sure, Captain.",
       "ja": "はい 警部"
     }
   },
@@ -4154,7 +4154,7 @@
   {
     "translation": {
       "en": "your mom was last seen driving south of here like a bat out of hell.",
-      "ja": "ママは猛スピードで 走り去るのを目撃されてる"
+      "ja": "ママは猛スピードで走り去るのを目撃されてる"
     }
   },
   {
@@ -4172,12 +4172,12 @@
   {
     "translation": {
       "en": "Probably didn't see him because he's little for his age.",
-      "ja": "小柄だから 見えなかったのかも"
+      "ja": "小柄だから見えなかったのかも"
     }
   },
   {
     "translation": {
-      "en": "- Super sweet. - Thank you.",
+      "en": "-[waitress] Super sweet. -Thank you.",
       "ja": "甘めです どうも"
     }
   },
@@ -4190,19 +4190,19 @@
   {
     "translation": {
       "en": "There's a fortune in missing drug money.",
-      "ja": "巨額の 麻薬絡みのカネが消えた"
+      "ja": "巨額の麻薬絡みのカネが消えた"
     }
   },
   {
     "translation": {
       "en": "And if your mom's got it, she's in a whole world of danger.",
-      "ja": "君のママが持ってるなら 危険だ"
+      "ja": "君のママが持ってるなら危険だ"
     }
   },
   {
     "translation": {
       "en": "Because it either belongs to the Sinaloa Cartel, or a Mr. Cross,",
-      "ja": "そのカネは麻薬組織か クロスの物だ"
+      "ja": "そのカネは麻薬組織かクロスの物だ"
     }
   },
   {
@@ -4243,7 +4243,7 @@
   },
   {
     "translation": {
-      "en": "Reggie.",
+      "en": "[breathes deeply] Reggie.",
       "ja": "レジー"
     }
   },
@@ -4255,8 +4255,8 @@
   },
   {
     "translation": {
-      "en": "My brother's been kidnapped. Can you please help us?",
-      "ja": "弟は誘拐されました 助けて"
+      "en": "[panting] My brother's been kidnapped. Can you please help us?",
+      "ja": "弟は誘拐されました助けて"
     }
   },
   {
@@ -4273,7 +4273,7 @@
   },
   {
     "translation": {
-      "en": "- Not so fast, bitch. -",
+      "en": "-Not so fast, bitch. -[Brenda groans]",
       "ja": "待てよ　このアマ"
     }
   },
@@ -4298,13 +4298,13 @@
   {
     "translation": {
       "en": "SUV's been trailing us for the last five miles.",
-      "ja": "ＳＵＶ車が ８キロほど尾行して来てる"
+      "ja": "ＳＵＶ車が８キロほど尾行して来てる"
     }
   },
   {
     "translation": {
       "en": "I slow down, he slows down. I speed up, he speeds up.",
-      "ja": "速度を変えると 向こうも合わせる"
+      "ja": "速度を変えると向こうも合わせる"
     }
   },
   {
@@ -4339,14 +4339,14 @@
   },
   {
     "translation": {
-      "en": "- - You can come up for air.",
+      "en": "-[uncocks gun] -You can come up for air.",
       "ja": "もう大丈夫だ"
     }
   },
   {
     "translation": {
       "en": "Sorry to scare you like that, but I had to be sure.",
-      "ja": "怖がらせて悪いね 念のためだ"
+      "ja": "怖がらせて悪いね念のためだ"
     }
   },
   {
@@ -4363,7 +4363,7 @@
   },
   {
     "translation": {
-      "en": "No! Let me go.",
+      "en": "[Brenda] No! Let me go.",
       "ja": "やめて　放して"
     }
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "translation": {
-      "en": "Look who's here.",
+      "en": "[man] Look who's here.",
       "ja": "ほら見ろ"
     }
   },
@@ -4387,7 +4387,7 @@
   },
   {
     "translation": {
-      "en": "- Get off of me! - Well…",
+      "en": "-[Brenda] Get off of me! -Well…",
       "ja": "放して"
     }
   },
@@ -4399,19 +4399,19 @@
   },
   {
     "translation": {
-      "en": "Once you go white, you ain't ever walking right.",
-      "ja": "白人男とヤッたら もう歩けない"
+      "en": "Once you go white, you ain't ever walking right. [laughing]",
+      "ja": "白人男とヤッたらもう歩けない"
     }
   },
   {
     "translation": {
-      "en": "- Oh, you-- - Fuck, get off of me!",
+      "en": "-Oh, you-- -Fuck, get off of me!",
       "ja": "あんた… 触るな"
     }
   },
   {
     "translation": {
-      "en": "- Let me go. - Bitch broke my nose.",
+      "en": "-Let me go. -Bitch broke my nose.",
       "ja": "行かせて 鼻が折れた"
     }
   },
@@ -4429,13 +4429,13 @@
   },
   {
     "translation": {
-      "en": "Get the money!",
+      "en": "[Mace] Get the money!",
       "ja": "カネをよこせ"
     }
   },
   {
     "translation": {
-      "en": "Get away from that!",
+      "en": "[Brenda] Get away from that!",
       "ja": "それに触るな"
     }
   },
@@ -4453,7 +4453,7 @@
   },
   {
     "translation": {
-      "en": "- No! No! Please. Please. - Get the bag!",
+      "en": "-[Brenda] No! No! Please. Please. -[man] Get the bag!",
       "ja": "やめて　お願い"
     }
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "translation": {
-      "en": "- Here you go, Mace. - That's my bag.",
+      "en": "-Here you go, Mace. -[Brenda] That's my bag.",
       "ja": "メイス 私の物よ"
     }
   },
@@ -4550,7 +4550,7 @@
   {
     "translation": {
       "en": "I wonder what he would do if he finds out who stole his money.",
-      "ja": "誰が盗んだか知れば どうなる？"
+      "ja": "誰が盗んだか知ればどうなる？"
     }
   },
   {
@@ -4567,19 +4567,19 @@
   },
   {
     "translation": {
-      "en": "- All of it. - Get it in!",
+      "en": "-[Brenda] All of it. -[Mace] Get it in!",
       "ja": "全部よ 入れろ"
     }
   },
   {
     "translation": {
-      "en": "- Hurry up! - Do what he says.",
+      "en": "-Hurry up! -[man] Do what he says.",
       "ja": "急いでやれ 早く"
     }
   },
   {
     "translation": {
-      "en": "Jesus Christ.",
+      "en": "[Mace] Jesus Christ.",
       "ja": "何てこった"
     }
   },
@@ -4592,7 +4592,7 @@
   {
     "translation": {
       "en": "There ain't no reason to tell him about all this, huh?",
-      "ja": "彼にこのことを言う 必要はない"
+      "ja": "彼にこのことを言う必要はない"
     }
   },
   {
@@ -4609,7 +4609,7 @@
   },
   {
     "translation": {
-      "en": "If Mr. Cross or any of his friends decide to show up,",
+      "en": "[Hammers] If Mr. Cross or any of his friends decide to show up,",
       "ja": "もしクロスたちが訪れても"
     }
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "translation": {
-      "en": "Whoa. Whoa. Whoa.",
+      "en": "[Reggie] Whoa. Whoa. Whoa.",
       "ja": "おい 待てよ"
     }
   },
@@ -4633,13 +4633,13 @@
   },
   {
     "translation": {
-      "en": "- I do not like dogs. - Even the teeny- weeny ones freak him out.",
+      "en": "-I do not like dogs. -Even the teeny-weeny ones freak him out.",
       "ja": "犬は苦手だ 叔父さんは小さいのもダメ"
     }
   },
   {
     "translation": {
-      "en": "Well, it's the teeny- weeny ones that have the sharpest bite.",
+      "en": "Well, it's the teeny-weeny ones that have the sharpest bite.",
       "ja": "小さいのほど かむと痛い"
     }
   },
@@ -4651,7 +4651,7 @@
   },
   {
     "translation": {
-      "en": "- Hello, woman.  - Hello, man.",
+      "en": "-Hello, woman. [laughs] -Hello, man.",
       "ja": "ただいま おかえり"
     }
   },
@@ -4663,13 +4663,13 @@
   },
   {
     "translation": {
-      "en": "- Ma'am. - Well, how do you do? Nice to meet you.",
+      "en": "-Ma'am. -Well, how do you do? Nice to meet you.",
       "ja": "どうも よろしくね"
     }
   },
   {
     "translation": {
-      "en": "- Hello, Kelly. - Hi. Are you hungry, child?",
+      "en": "-Hello, Kelly. -Hi. Are you hungry, child?",
       "ja": "ケリー　お腹は空いてる？"
     }
   },
@@ -4688,12 +4688,12 @@
   {
     "translation": {
       "en": "I had to give him a shot to put him out, so he might be groggy.",
-      "ja": "連れ出す時に注射したから もうろうとしてるかも"
+      "ja": "連れ出す時に注射したからもうろうとしてるかも"
     }
   },
   {
     "translation": {
-      "en": "- - Oh, fuck no!",
+      "en": "-[Cam struggling] -Oh, fuck no!",
       "ja": "何だよ"
     }
   },
@@ -4705,7 +4705,7 @@
   },
   {
     "translation": {
-      "en": "- Cam. - You dead, motherfucker.",
+      "en": "-Cam. -You dead, motherfucker.",
       "ja": "キャム 殺してやる"
     }
   },
@@ -4741,8 +4741,8 @@
   },
   {
     "translation": {
-      "en": "Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
-      "ja": "オールド･ブラボーの外の ラッキー13って食堂にいる"
+      "en": "[Kelly] Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
+      "ja": "オールド･ブラボーの外のラッキー13って食堂にいる"
     }
   },
   {
@@ -4784,7 +4784,7 @@
   {
     "translation": {
       "en": "Ah, she's probably calling to say she's got the money and is on her way.",
-      "ja": "カネを手に入れたから 戻るって連絡だ"
+      "ja": "カネを手に入れたから戻るって連絡だ"
     }
   },
   {
@@ -4795,7 +4795,7 @@
   },
   {
     "translation": {
-      "en": "My own damn fault.",
+      "en": "[chuckles] My own damn fault.",
       "ja": "俺のミスだ"
     }
   },
@@ -4808,7 +4808,7 @@
   {
     "translation": {
       "en": "He didn't know I put a tracker on his car, so he wasn't hard to find.",
-      "ja": "車の追跡装置で すぐに見つかった"
+      "ja": "車の追跡装置ですぐに見つかった"
     }
   },
   {
@@ -4832,7 +4832,7 @@
   {
     "translation": {
       "en": "Figured I'd get it when I came back in my official capacity.",
-      "ja": "捜査中に 取り戻そうと思ったが"
+      "ja": "捜査中に取り戻そうと思ったが"
     }
   },
   {
@@ -4897,13 +4897,13 @@
   },
   {
     "translation": {
-      "en": "We're sending you a family portrait.",
+      "en": "[distorted voice] We're sending you a family portrait.",
       "ja": "家族写真を送る"
     }
   },
   {
     "translation": {
-      "en": "Don't be late.",
+      "en": "[Cross] Don't be late.",
       "ja": "遅れるな"
     }
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "translation": {
-      "en": "Oh, shit.",
+      "en": "[Brenda] Oh, shit.",
       "ja": "〝目的地まで18キロ〞 何なの"
     }
   },
@@ -4957,20 +4957,20 @@
   },
   {
     "translation": {
-      "en": "- But it's rusted shut. - Here, Kelly.",
+      "en": "-[Kelly] But it's rusted shut. -Here, Kelly.",
       "ja": "さびついてる ケリー"
     }
   },
   {
     "translation": {
-      "en": "- Okay, but what if they hear us upstairs? - They won't.",
+      "en": "-Okay, but what if they hear us upstairs? -[Reggie] They won't.",
       "ja": "上に聞こえる？ 大丈夫だ"
     }
   },
   {
     "translation": {
       "en": "This is housebreaking 101. Cam, hand me one of those rags over there.",
-      "ja": "家宅侵入はこうやる キャム そこの雑巾を"
+      "ja": "家宅侵入はこうやるキャム そこの雑巾を"
     }
   },
   {
@@ -4982,13 +4982,13 @@
   {
     "translation": {
       "en": "All right, take the end of it, gently press it up against the glass,",
-      "ja": "末端を持って ガラスの中心に押し当て"
+      "ja": "末端を持ってガラスの中心に押し当て"
     }
   },
   {
     "translation": {
       "en": "directly in the middle, then give it a fast punch.",
-      "ja": "末端を持って ガラスの中心に押し当て 素早く叩く"
+      "ja": "末端を持ってガラスの中心に押し当て 素早く叩く"
     }
   },
   {
@@ -4999,13 +4999,13 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[nervously] Okay.",
       "ja": "分かった"
     }
   },
   {
     "translation": {
-      "en": "- Go ahead. Go ahead. - Can you give me a lift?",
+      "en": "-Go ahead. Go ahead. -Can you give me a lift?",
       "ja": "いいぞ 上げて"
     }
   },
@@ -5017,7 +5017,7 @@
   },
   {
     "translation": {
-      "en": "It bit me.",
+      "en": "[groans] It bit me.",
       "ja": "かんだ"
     }
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "translation": {
-      "en": "- Here. - Here, boy!",
+      "en": "-Here. -[Hammers whistles] Here, boy!",
       "ja": "こっちよ　ほら"
     }
   },
@@ -5053,13 +5053,13 @@
   },
   {
     "translation": {
-      "en": "- - Sorry, sorry! Here.",
+      "en": "-[groans] -Sorry, sorry! Here.",
       "ja": "ごめんよ　ほら"
     }
   },
   {
     "translation": {
-      "en": "Come on!",
+      "en": "[Brenda] Come on!",
       "ja": "動いて"
     }
   },
@@ -5078,25 +5078,25 @@
   {
     "translation": {
       "en": "Should have warned you about my alarm dog.",
-      "ja": "番犬のことを 言ってなかったな"
+      "ja": "番犬のことを言ってなかったな"
     }
   },
   {
     "translation": {
       "en": "Got some good news though. Your mama's almost here.",
-      "ja": "いい知らせだ もうすぐママが来る"
+      "ja": "いい知らせだもうすぐママが来る"
     }
   },
   {
     "translation": {
       "en": "Y'all need to come back upstairs.",
-      "ja": "上階に戻ってくれ 巻き込んで悪かった"
+      "ja": "上階に戻ってくれ巻き込んで悪かった"
     }
   },
   {
     "translation": {
       "en": "Sorry you got caught in the crossfire, but soon as I get my money,",
-      "ja": "上階に戻ってくれ 巻き込んで悪かった カネが戻ったら"
+      "ja": "上階に戻ってくれ巻き込んで悪かった カネが戻ったら"
     }
   },
   {
@@ -5107,7 +5107,7 @@
   },
   {
     "translation": {
-      "en": "- Just gonna let us go on our merry way? - That's right.",
+      "en": "-Just gonna let us go on our merry way? -That's right.",
       "ja": "楽しく帰らせる？ そうだ"
     }
   },
@@ -5131,8 +5131,8 @@
   },
   {
     "translation": {
-      "en": "You can take this country, aw, shucks, fake Southern hospitality bullshit,",
-      "ja": "南部の素朴な おもてなしの精神で"
+      "en": "You can take this country, \"aw, shucks,\" fake Southern hospitality bullshit,",
+      "ja": "南部の素朴なおもてなしの精神で"
     }
   },
   {
@@ -5161,7 +5161,7 @@
   },
   {
     "translation": {
-      "en": "- - Clorox, motherfucker!",
+      "en": "-[screams] -Clorox, motherfucker!",
       "ja": "漂白剤だ　クソめ"
     }
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "translation": {
-      "en": "We wasn't going to hurt you.",
+      "en": "[voice wavering] We wasn't going to hurt you.",
       "ja": "傷つける気はなかった"
     }
   },
@@ -5245,8 +5245,8 @@
   },
   {
     "translation": {
-      "en": "get your evil, Martha- Stewart- looking ass down them steps.",
-      "ja": "邪悪なＭ(マーサ)･スチュワートめ 地下へ行け"
+      "en": "get your evil, Martha-Stewart-looking ass down them steps.",
+      "ja": "邪悪なＭ(マーサ)･スチュワートめ地下へ行け"
     }
   },
   {
@@ -5257,14 +5257,14 @@
   },
   {
     "translation": {
-      "en": "- Bitch, get your-- -",
+      "en": "-Bitch, get your-- -[screams]",
       "ja": "このババア"
     }
   },
   {
     "translation": {
       "en": "Girl, give me this weapon. Get our phones. Let's get the fuck out of this psycho house.",
-      "ja": "武器をくれ 携帯を見つけてここを出る"
+      "ja": "武器をくれ携帯を見つけてここを出る"
     }
   },
   {
@@ -5282,7 +5282,7 @@
   {
     "translation": {
       "en": "I got you. I ain't going nowhere, okay? You hear me?",
-      "ja": "ああ 俺はどこにも行かない"
+      "ja": "ああ俺はどこにも行かない"
     }
   },
   {
@@ -5293,7 +5293,7 @@
   },
   {
     "translation": {
-      "en": "- Okay? - Okay.",
+      "en": "-Okay? -Okay.",
       "ja": "いい？"
     }
   },
@@ -5305,13 +5305,13 @@
   },
   {
     "translation": {
-      "en": "- JD, they're getting away. -",
+      "en": "-JD, they're getting away. -[Hammers groaning]",
       "ja": "ＪＤ 逃げるわよ"
     }
   },
   {
     "translation": {
-      "en": "- Are you okay? - The little shit poured bleach in my eyes.",
+      "en": "-Are you okay? -The little shit poured bleach in my eyes.",
       "ja": "大丈夫？ 漂白剤をかけられた"
     }
   },
@@ -5329,7 +5329,7 @@
   },
   {
     "translation": {
-      "en": "- - Mom, come on. Pick up please.",
+      "en": "-[line ringing] -[Kelly] Mom, come on. Pick up please.",
       "ja": "ママ　電話に出て"
     }
   },
@@ -5341,7 +5341,7 @@
   },
   {
     "translation": {
-      "en": "- Come on. - Kelly!",
+      "en": "-Come on. -[Brenda] Kelly!",
       "ja": "ケリー"
     }
   },
@@ -5371,13 +5371,13 @@
   },
   {
     "translation": {
-      "en": "- - Mom!",
+      "en": "-[twigs snap] -Mom!",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "- Cam! - Mom!",
+      "en": "-Cam! -Mom!",
       "ja": "キャム ママ"
     }
   },
@@ -5389,7 +5389,7 @@
   },
   {
     "translation": {
-      "en": "- Mama! - Oh, Kelly!",
+      "en": "-Mama! -Oh, Kelly!",
       "ja": "ママ ケリーも"
     }
   },
@@ -5431,7 +5431,7 @@
   },
   {
     "translation": {
-      "en": "Okay, Mom, listen to me.",
+      "en": "[Kelly] Okay, Mom, listen to me.",
       "ja": "ママ 聞いて"
     }
   },
@@ -5443,14 +5443,14 @@
   },
   {
     "translation": {
-      "en": "- What? - Capt. Hammers is Mr. Cross.",
+      "en": "-What? -Capt. Hammers is Mr. Cross.",
       "ja": "何？ ハマーズ警部だ"
     }
   },
   {
     "translation": {
       "en": "And he's corrupt and evil, and his crazy wife is just as bad.",
-      "ja": "邪悪な人よ クレイジーな妻もいる"
+      "ja": "邪悪な人よクレイジーな妻もいる"
     }
   },
   {
@@ -5461,7 +5461,7 @@
   },
   {
     "translation": {
-      "en": "- He's what? Where are they now? - Locked in the cellar.",
+      "en": "-He's what? Where are they now? -Locked in the cellar.",
       "ja": "今どこに？ 地下室だ"
     }
   },
@@ -5486,7 +5486,7 @@
   {
     "translation": {
       "en": "Come on, sis. Hammers, Cross, whatever his name is, he's not gonna honor that deal.",
-      "ja": "ハマーズは 約束なんか守らない"
+      "ja": "ハマーズは約束なんか守らない"
     }
   },
   {
@@ -5521,7 +5521,7 @@
   },
   {
     "translation": {
-      "en": "- Give me my shotgun. - Here.",
+      "en": "-Give me my shotgun. -Here.",
       "ja": "散弾銃を ほら"
     }
   },
@@ -5533,13 +5533,13 @@
   },
   {
     "translation": {
-      "en": "Where are they?",
+      "en": "[Val] Where are they?",
       "ja": "どこへ？"
     }
   },
   {
     "translation": {
-      "en": "Look.",
+      "en": "[Hammers] Look.",
       "ja": "見ろ"
     }
   },
@@ -5563,7 +5563,7 @@
   },
   {
     "translation": {
-      "en": "Don't start the car until I yell.",
+      "en": "[Brenda] Don't start the car until I yell.",
       "ja": "合図でエンジンを"
     }
   },
@@ -5575,43 +5575,43 @@
   },
   {
     "translation": {
-      "en": "- All right. Let's get this baby started. - Okay, Kelly, go.",
+      "en": "-All right. Let's get this baby started. -Okay, Kelly, go.",
       "ja": "よし　動かすぞ 今よ"
     }
   },
   {
     "translation": {
-      "en": "- Come on. - Come on, please.",
+      "en": "-Come on. -[Brenda] Come on, please.",
       "ja": "動け 動いて お願い"
     }
   },
   {
     "translation": {
-      "en": "- Reg, you're gonna have to fix this. - I'm on it.",
+      "en": "-Reg, you're gonna have to fix this. -I'm on it.",
       "ja": "レジー　直して ああ"
     }
   },
   {
     "translation": {
-      "en": "Which way?",
+      "en": "[Val] Which way?",
       "ja": "どっち？"
     }
   },
   {
     "translation": {
-      "en": "Don't know. Lost their tracks.",
+      "en": "[Hammers] Don't know. Lost their tracks.",
       "ja": "分からない　見失った"
     }
   },
   {
     "translation": {
-      "en": "I think it's the fan belt.",
+      "en": "[Cam] I think it's the fan belt.",
       "ja": "ファンベルトだ"
     }
   },
   {
     "translation": {
-      "en": "- You a smart kid, you know that? - Thanks.",
+      "en": "-You a smart kid, you know that? -Thanks.",
       "ja": "賢い子だな どうも"
     }
   },
@@ -5623,7 +5623,7 @@
   },
   {
     "translation": {
-      "en": "- Make Uncle Reg proud. - I got you, Uncle Reg.",
+      "en": "-Make Uncle Reg proud. -I got you, Uncle Reg.",
       "ja": "自慢のおいだ そうだね"
     }
   },
@@ -5647,25 +5647,25 @@
   },
   {
     "translation": {
-      "en": "- Yes! - Yes!",
+      "en": "-Yes! -[Brenda] Yes!",
       "ja": "やった"
     }
   },
   {
     "translation": {
-      "en": "There you go.",
+      "en": "[Brenda] There you go.",
       "ja": "動いた"
     }
   },
   {
     "translation": {
-      "en": "- Yes! - Yeah!",
+      "en": "-Yes! -Yeah!",
       "ja": "よし"
     }
   },
   {
     "translation": {
-      "en": "- We did it! -",
+      "en": "-We did it! -[all laughing]",
       "ja": "やったわ"
     }
   },
@@ -5695,7 +5695,7 @@
   },
   {
     "translation": {
-      "en": "I heard that.",
+      "en": "[scoffs] I heard that.",
       "ja": "同感だ"
     }
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, shit, we got company. - What?",
+      "en": "-Oh, shit, we got company. -What?",
       "ja": "クソ お出ましだ"
     }
   },
@@ -5725,20 +5725,20 @@
   },
   {
     "translation": {
-      "en": "- Get down! - I think I got their attention.",
+      "en": "-Get down! -I think I got their attention.",
       "ja": "伏せて 気付かれたな"
     }
   },
   {
     "translation": {
-      "en": "- Oh, my God! - Take this. It's us or them.",
+      "en": "-[Brenda] Oh, my God! -Take this. It's us or them.",
       "ja": "何？ やるかやられるか"
     }
   },
   {
     "translation": {
       "en": "Come on, Mom. Focus and squeeze, like Grandpa taught you.",
-      "ja": "おじいちゃんが 教えたとおりに"
+      "ja": "おじいちゃんが教えたとおりに"
     }
   },
   {
@@ -5749,7 +5749,7 @@
   },
   {
     "translation": {
-      "en": "We got a live one.",
+      "en": "[Hammers] We got a live one.",
       "ja": "撃ってきた"
     }
   },
@@ -5761,13 +5761,13 @@
   },
   {
     "translation": {
-      "en": "- Yes! - Did you get 'em?",
+      "en": "-Yes! -[Reggie] Did you get 'em?",
       "ja": "やった"
     }
   },
   {
     "translation": {
-      "en": "- Hell yeah. - Yeah, but keep driving. Don't slow down.",
+      "en": "-[kids] Hell yeah. -Yeah, but keep driving. Don't slow down.",
       "ja": "当たった？ そのまま行って"
     }
   },
@@ -5779,31 +5779,31 @@
   },
   {
     "translation": {
-      "en": "Oh, God!",
+      "en": "[Cam] Oh, God!",
       "ja": "そんな"
     }
   },
   {
     "translation": {
-      "en": "- No, no, no! - No!",
+      "en": "-No, no, no! -No!",
       "ja": "ダメ"
     }
   },
   {
     "translation": {
-      "en": "- Missed me, motherfucker! - Reggie, keep it steady.",
+      "en": "-Missed me, motherfucker! -[Brenda] Reggie, keep it steady.",
       "ja": "外れだ　クソ 安定させて"
     }
   },
   {
     "translation": {
-      "en": "Bren, be careful.",
+      "en": "[Reggie] Bren, be careful.",
       "ja": "気を付けて"
     }
   },
   {
     "translation": {
-      "en": "- Mom! - Oh, no!",
+      "en": "-Mom! -Oh, no!",
       "ja": "ママ しまった"
     }
   },
@@ -5821,7 +5821,7 @@
   },
   {
     "translation": {
-      "en": "Be careful.",
+      "en": "[Kelly] Be careful.",
       "ja": "気を付けて"
     }
   },
@@ -5839,7 +5839,7 @@
   },
   {
     "translation": {
-      "en": "- Mom! - Mom!",
+      "en": "-Mom! -Mom!",
       "ja": "ママ ダメだ"
     }
   },
@@ -5851,7 +5851,7 @@
   },
   {
     "translation": {
-      "en": "- Mom! - No!",
+      "en": "-[Cam] Mom! -[Kelly] No!",
       "ja": "ママ"
     }
   },
@@ -5869,7 +5869,7 @@
   },
   {
     "translation": {
-      "en": "Bye- bye.",
+      "en": "Bye-bye.",
       "ja": "バイバイよ"
     }
   },
@@ -5887,13 +5887,13 @@
   },
   {
     "translation": {
-      "en": "- Mom? - Mama!",
+      "en": "-[Kelly] Mom? -[Cam] Mama!",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "Oh, my God.",
+      "en": "[Kelly] Oh, my God.",
       "ja": "ウソでしょ"
     }
   },
@@ -5923,7 +5923,7 @@
   },
   {
     "translation": {
-      "en": "- - No, Mom, no.",
+      "en": "-[engine starts] -[whimpers] No, Mom, no.",
       "ja": "ママ"
     }
   },
@@ -5935,7 +5935,7 @@
   },
   {
     "translation": {
-      "en": "- Jump, kids! Get out, now! - Cam, go!",
+      "en": "-Jump, kids! Get out, now! -[Kelly] Cam, go!",
       "ja": "降りて　今だ キャム急いで"
     }
   },
@@ -5959,7 +5959,7 @@
   },
   {
     "translation": {
-      "en": "- Hey, Mom? - Mom!",
+      "en": "-[Kelly] Hey, Mom? -[Cam] Mom!",
       "ja": "ママ？ ママ"
     }
   },
@@ -6007,7 +6007,7 @@
   },
   {
     "translation": {
-      "en": "- Never. - Okay.",
+      "en": "-Never. -Okay.",
       "ja": "絶対に"
     }
   },
@@ -6043,7 +6043,7 @@
   },
   {
     "translation": {
-      "en": "Oh, thank God.",
+      "en": "[Reggie] Oh, thank God.",
       "ja": "ああ 神よ"
     }
   },
@@ -6092,7 +6092,7 @@
   {
     "translation": {
       "en": "Listen, uh, y'all ain't got to worry about the check. I got it covered.",
-      "ja": "支払いは気にしなくていい 俺に任せて"
+      "ja": "支払いは気にしなくていい俺に任せて"
     }
   },
   {
@@ -6163,14 +6163,14 @@
   },
   {
     "translation": {
-      "en": "Oh, my gosh!",
+      "en": "[Kelly laughing] Oh, my gosh!",
       "ja": "何てこと"
     }
   },
   {
     "translation": {
       "en": "Yeah, you know, waffles, they taste best when you load 'em with lots of syrup.",
-      "ja": "シロップをたっぷりかけた ワッフルは最高だ"
+      "ja": "シロップをたっぷりかけたワッフルは最高だ"
     }
   },
   {
@@ -6212,7 +6212,7 @@
   {
     "translation": {
       "en": "Cam, Kelly, do not look at him like that. He is not a good role model.",
-      "ja": "２人とも 叔父さんを手本にしないで"
+      "ja": "２人とも叔父さんを手本にしないで"
     }
   },
   {
@@ -6271,13 +6271,13 @@
   },
   {
     "translation": {
-      "en": "Yeah, come on, Mom.",
+      "en": "[Cam] Yeah, come on, Mom.",
       "ja": "そうだよママ"
     }
   },
   {
     "translation": {
-      "en": "- Join the family. - Mmm- hmm.",
+      "en": "-Join the family. -[Reggie] Mmm-hmm.",
       "ja": "家族だろ"
     }
   },
@@ -6289,7 +6289,7 @@
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Cam] Come on.",
       "ja": "そうだ"
     }
   },
@@ -6307,14 +6307,14 @@
   },
   {
     "translation": {
-      "en": "Thank God.",
+      "en": "[sighs] Thank God.",
       "ja": "よかった"
     }
   },
   {
     "translation": {
       "en": "Let's put this money away. We don't need no problems.",
-      "ja": "片付けよう トラブルは不要よ"
+      "ja": "片付けようトラブルは不要よ"
     }
   },
   {

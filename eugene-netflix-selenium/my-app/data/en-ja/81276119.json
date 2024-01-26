@@ -7,13 +7,13 @@
   },
   {
     "translation": {
-      "en": "- Hi. - Liv, where are you?",
+      "en": "-Hi. -[Ruth] Liv, where are you?",
       "ja": "どうも リヴ どこにいるの？"
     }
   },
   {
     "translation": {
-      "en": "- I just got your email. - I'm fine.",
+      "en": "-I just got your email. -[Liv] I'm fine.",
       "ja": "リヴ どこにいるの？"
     }
   },
@@ -25,20 +25,20 @@
   },
   {
     "translation": {
-      "en": "Out of town? Is everything--",
+      "en": "[Ruth] Out of town? Is everything--",
       "ja": "街を離れる？"
     }
   },
   {
     "translation": {
       "en": "Everything's in the email I sent. I know it's a lot.",
-      "ja": "詳細は全部 メールで送ったわ"
+      "ja": "詳細は全部メールで送ったわ"
     }
   },
   {
     "translation": {
       "en": "I just don't want any surprises. I'll try to check in when I can.",
-      "ja": "詳細は全部 メールで送ったわ 電波が入れば また連絡する"
+      "ja": "詳細は全部メールで送ったわ 電波が入れば また連絡する"
     }
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "translation": {
-      "en": "Sure. Should I loop Danny in?",
+      "en": "[Ruth] Sure. Should I loop Danny in?",
       "ja": "ダニーに伝えるべき？"
     }
   },
@@ -85,7 +85,7 @@
   },
   {
     "translation": {
-      "en": "He's just asking if you still want him on this.",
+      "en": "[Ruth] He's just asking if you still want him on this.",
       "ja": "あなたは彼を必要としてる？"
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "- Liv, are you sure you're okay? - I'm fine.",
+      "en": "-[Ruth] Liv, are you sure you're okay? -I'm fine.",
       "ja": "大丈夫？ ええ"
     }
   },
@@ -122,18 +122,18 @@
   {
     "translation": {
       "en": "Ruth, I'm fine. I really have to go. Um,",
-      "ja": "もう行くね ルス 何かあればメールして"
+      "ja": "もう行くね ルス何かあればメールして"
     }
   },
   {
     "translation": {
-      "en": "- text me if you need anything, okay? Bye. - Liv…",
-      "ja": "もう行くね ルス 何かあればメールして リヴ…"
+      "en": "-text me if you need anything, okay? Bye. -[Ruth] Liv…",
+      "ja": "もう行くね ルス何かあればメールして リヴ…"
     }
   },
   {
     "translation": {
-      "en": "- Olivia Rivera? - Yeah.  You're the 1:10 trip to Inuvik, right?",
+      "en": "-[staff] Olivia Rivera? -[Liv] Yeah. [staff] You're the 1:10 trip to Inuvik, right?",
       "ja": "オリヴィア･リベラ様ですね"
     }
   },
@@ -146,13 +146,13 @@
   {
     "translation": {
       "en": "Yeah, sorry about that. It looks like wind's pretty bad up in Outer Rapids today.",
-      "ja": "申し訳ありませんが 本日 強風のため"
+      "ja": "申し訳ありませんが本日 強風のため"
     }
   },
   {
     "translation": {
       "en": "Your plane's stuck there, so, you're kind of SOL, unfortunately.",
-      "ja": "搭乗予定の便が 到着していません"
+      "ja": "搭乗予定の便が到着していません"
     }
   },
   {
@@ -164,7 +164,7 @@
   {
     "translation": {
       "en": "What? No! No, no, no. I-- I took two flights to get here from New York.",
-      "ja": "ウソでしょ ＮＹから はるばる来たのに"
+      "ja": "ウソでしょＮＹから はるばる来たのに"
     }
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "translation": {
-      "en": "- Maybe you can call them? - No, I…",
+      "en": "-Maybe you can call them? -[Liv] No, I…",
       "ja": "お電話は？ ムリよ"
     }
   },
@@ -211,31 +211,31 @@
   },
   {
     "translation": {
-      "en": "You look just like me when I was your age.",
+      "en": "[exhales] You look just like me when I was your age.",
       "ja": "私の若い頃に似てる"
     }
   },
   {
     "translation": {
-      "en": "I'm able to know that.",
+      "en": "[in Spanish] I'm able to know that.",
       "ja": "〈分かるの〉"
     }
   },
   {
     "translation": {
-      "en": "Where are we going this time?",
+      "en": "[George in English] Where are we going this time?",
       "ja": "今回はどこへ？"
     }
   },
   {
     "translation": {
-      "en": "Top of the Mackenzie River.",
+      "en": "[Sam] Top of the Mackenzie River.",
       "ja": "マッケンジー川の河口"
     }
   },
   {
     "translation": {
-      "en": "Jesus. That's past Inuvik.",
+      "en": "[George] Jesus. That's past Inuvik.",
       "ja": "イヌヴィックより先か"
     }
   },
@@ -247,13 +247,13 @@
   },
   {
     "translation": {
-      "en": "- Excuse me. -",
+      "en": "-Excuse me. -[PA system beeps]",
       "ja": "ちょっと　失礼"
     }
   },
   {
     "translation": {
-      "en": "- Sorry. Excuse me? - Flight 899…",
+      "en": "-Sorry. Excuse me? -[voice over PA] Flight 899…",
       "ja": "ちょっと　失礼 待って"
     }
   },
@@ -296,7 +296,7 @@
   {
     "translation": {
       "en": "Look, I'm small, I have this one bag. I promise I'll be quiet.",
-      "ja": "荷物も少ないし 静かにするから"
+      "ja": "荷物も少ないし静かにするから"
     }
   },
   {
@@ -308,18 +308,18 @@
   {
     "translation": {
       "en": "I just, I really need to get to Inuvik today. And it looks like my plane is stuck somewhere and--",
-      "ja": "今日 行きたいのに 搭乗できずに…"
+      "ja": "今日 行きたいのに搭乗できずに…"
     }
   },
   {
     "translation": {
-      "en": "- I'm sorry, we'd love to help you out. - Then help me out.",
+      "en": "-I'm sorry, we'd love to help you out. -[Liv] Then help me out.",
       "ja": "申し訳ない 助けてよ"
     }
   },
   {
     "translation": {
-      "en": "- Please. - If it was just me?",
+      "en": "-Please. -If it was just me?",
       "ja": "お願い 俺だけならな"
     }
   },
@@ -332,7 +332,7 @@
   {
     "translation": {
       "en": "Somebody else is picking up the tab and then if something happens, I think they may be liable for--",
-      "ja": "他人を乗せて 何か起こっても責任は…"
+      "ja": "他人を乗せて何か起こっても責任は…"
     }
   },
   {
@@ -386,25 +386,25 @@
   {
     "translation": {
       "en": "I just want to sit on your plane and travel in the direction that you're already flying.",
-      "ja": "あなたたちと同じ方向に 行きたい"
+      "ja": "あなたたちと同じ方向に行きたい"
     }
   },
   {
     "translation": {
-      "en": "- That's it. I just-- - Okay! Okay.",
+      "en": "-That's it. I just-- -Okay! Okay.",
       "ja": "そうか　分かったよ"
     }
   },
   {
     "translation": {
-      "en": "- Everything all right here? - Yes.",
+      "en": "-[security] Everything all right here? -Yes.",
       "ja": "解決しました？ ああ"
     }
   },
   {
     "translation": {
       "en": "Thank you. We're, we're just figuring out who gets the window seat.",
-      "ja": "大丈夫 誰が窓際に座るか決めてた"
+      "ja": "大丈夫誰が窓際に座るか決めてた"
     }
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "translation": {
-      "en": "- Sure. We'll get you to Inuvik. -",
+      "en": "-Sure. We'll get you to Inuvik. -[George sighs]",
       "ja": "連れていくよ"
     }
   },
@@ -433,13 +433,13 @@
   },
   {
     "translation": {
-      "en": "- Sam. - Sam. This is George, pilot ordinaire.",
-      "ja": "サムだ こっちは操縦士のジョージ"
+      "en": "-Sam. -[Liv] Sam. This is George, pilot ordinaire.",
+      "ja": "サムだこっちは操縦士のジョージ"
     }
   },
   {
     "translation": {
-      "en": "Just souping her up. Sam likes to go fast.",
+      "en": "[in loud voice] Just souping her up. Sam likes to go fast.",
       "ja": "エンジン全開で飛ばすよ"
     }
   },
@@ -469,44 +469,44 @@
   },
   {
     "translation": {
-      "en": "I'm a nervous crasher.",
+      "en": "[in unamplified voice] I'm a nervous crasher.",
       "ja": "（墜落が怖いの）"
     }
   },
   {
     "translation": {
-      "en": "- I said no, I'm a nervous crasher. -",
+      "en": "-I said no, I'm a nervous crasher. -[chuckles]",
       "ja": "違う　墜落が怖いの"
     }
   },
   {
     "translation": {
-      "en": "- - Is this normal?",
+      "en": "-[rattling] -Is this normal?",
       "ja": "これ 正常？"
     }
   },
   {
     "translation": {
       "en": "Late summer air, mixtures of hot and cold, makes for a rough ride.",
-      "ja": "晩夏は暖気と寒気が混じり 揺れが大きくなる"
+      "ja": "晩夏は暖気と寒気が混じり揺れが大きくなる"
     }
   },
   {
     "translation": {
-      "en": "Hey. Hey, no cell phone. You'll mess with the instruments.",
-      "ja": "携帯は禁止だ 計器をダメにする気か"
+      "en": "[George] Hey. Hey, no cell phone. You'll mess with the instruments.",
+      "ja": "携帯は禁止だ計器をダメにする気か"
     }
   },
   {
     "translation": {
-      "en": "- Seriously? That's a real thing. - Uh, it's fine.",
-      "ja": "それ 本当？ ウソだと思ってた ジョージはアナログ技術しか 信用しない"
+      "en": "-Seriously? That's a real thing. -[Sam] Uh, it's fine.",
+      "ja": "それ 本当？ウソだと思ってた ジョージはアナログ技術しか信用しない"
     }
   },
   {
     "translation": {
       "en": "George just doesn't trust anything without a rotary dial.",
-      "ja": "ジョージはアナログ技術しか 信用しない"
+      "ja": "ジョージはアナログ技術しか信用しない"
     }
   },
   {
@@ -523,7 +523,7 @@
   },
   {
     "translation": {
-      "en": "- I'm sorry. I'm just-- - Don't worry.",
+      "en": "-I'm sorry. I'm just-- -[Sam] Don't worry.",
       "ja": "ごめんなさい 大丈夫　彼に任せろ"
     }
   },
@@ -535,7 +535,7 @@
   },
   {
     "translation": {
-      "en": "If I didn't, I wouldn't tell you.",
+      "en": "[George] If I didn't, I wouldn't tell you.",
       "ja": "どうだろうな"
     }
   },
@@ -553,7 +553,7 @@
   },
   {
     "translation": {
-      "en": "- No, I'm good. - You sure?",
+      "en": "-No, I'm good. -[Sam] You sure?",
       "ja": "結構 そうか"
     }
   },
@@ -571,14 +571,14 @@
   },
   {
     "translation": {
-      "en": "- I'm not really a Power Bar person. - You ever been to Inuvik?",
+      "en": "-I'm not really a Power Bar person. -You ever been to Inuvik?",
       "ja": "バーは嫌い イヌヴィックは初めて？"
     }
   },
   {
     "translation": {
       "en": "There's not gonna be much open by the time we land. Take them.",
-      "ja": "今 食べなきゃ 食いっぱぐれるぞ"
+      "ja": "今 食べなきゃ食いっぱぐれるぞ"
     }
   },
   {
@@ -590,7 +590,7 @@
   {
     "translation": {
       "en": "So, uh, what… takes you to the northwest territories?",
-      "ja": "なぜノースウエスト準州へ 行こうと？"
+      "ja": "なぜノースウエスト準州へ行こうと？"
     }
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "Uh, not shoot. Shoot.",
+      "en": "Uh, not shoot. \"Shoot.\"",
       "ja": "獲(と)るんじゃなくて“撮る”"
     }
   },
@@ -620,7 +620,7 @@
   {
     "translation": {
       "en": "Well, I don't know about that. What kind of law do you practice?",
-      "ja": "さあね どんな訴訟を担当してる？"
+      "ja": "さあねどんな訴訟を担当してる？"
     }
   },
   {
@@ -638,7 +638,7 @@
   {
     "translation": {
       "en": "Caribou run this late? I thought that was a spring thing.",
-      "ja": "カリブーが移動するのは 春だと思った"
+      "ja": "カリブーが移動するのは春だと思った"
     }
   },
   {
@@ -656,7 +656,7 @@
   {
     "translation": {
       "en": "I'll be sitting in a camouflage tent with a thermos full of coffee and about 8,000 cameras,",
-      "ja": "コーヒー入りの水筒を抱え テントでカメラを構えて"
+      "ja": "コーヒー入りの水筒を抱えテントでカメラを構えて"
     }
   },
   {
@@ -716,12 +716,12 @@
   {
     "translation": {
       "en": "No, it's fine. it's just I'm-- I'm tired. Took me forever to get in from…",
-      "ja": "大丈夫　疲れただけ 出発まで長かったし"
+      "ja": "大丈夫　疲れただけ出発まで長かったし"
     }
   },
   {
     "translation": {
-      "en": "- I'm just… tired. - All right.",
+      "en": "-I'm just… tired. -[Sam] All right.",
       "ja": "本当に疲れただけ そうか"
     }
   },
@@ -733,14 +733,14 @@
   },
   {
     "translation": {
-      "en": "Close your eyes.",
+      "en": "[woman speaks in a calm voice] Close your eyes.",
       "ja": "目を閉じて"
     }
   },
   {
     "translation": {
       "en": "Ensure you're resting in a comfortable position.",
-      "ja": "楽な姿勢で 休めるようにしなさい"
+      "ja": "楽な姿勢で休めるようにしなさい"
     }
   },
   {
@@ -752,13 +752,13 @@
   {
     "translation": {
       "en": "in through the nose and out through the mouth.",
-      "ja": "鼻から息を吸って 口から吐いて"
+      "ja": "鼻から息を吸って口から吐いて"
     }
   },
   {
     "translation": {
       "en": "Focus on tensing and relaxing each part of your body.",
-      "ja": "体の各部位で 緊張と弛緩(しかん)を繰り返して"
+      "ja": "体の各部位で緊張と弛緩(しかん)を繰り返して"
     }
   },
   {
@@ -781,13 +781,13 @@
   },
   {
     "translation": {
-      "en": "Hey, you made it.",
+      "en": "[Ruth] Hey, you made it.",
       "ja": "来てくれたのね"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Hi. Of course, I made it. You said you were having a crisis?",
+      "en": "-Hi. -[Liv] Hi. Of course, I made it. You said you were having a crisis?",
       "ja": "ピンチだって言ってたよね"
     }
   },
@@ -799,13 +799,13 @@
   },
   {
     "translation": {
-      "en": "- Ruth, I have work to do. - No, Liv, no.",
+      "en": "-Ruth, I have work to do. -[Ruth] No, Liv, no.",
       "ja": "仕事があるの リヴ 待って"
     }
   },
   {
     "translation": {
-      "en": "- No. Come on. - We have all have work to do,",
+      "en": "-No. Come on. -[Ruth] We have all have work to do,",
       "ja": "リヴ 待って まずは これを持って"
     }
   },
@@ -817,25 +817,25 @@
   },
   {
     "translation": {
-      "en": "- No. - …your work is beating Danny at darts.",
+      "en": "-[Liv] No. -…your work is beating Danny at darts.",
       "ja": "イヤよ ダーツでダニーを負かすのよ"
     }
   },
   {
     "translation": {
-      "en": "- - We're down a player. Yes, yes.",
+      "en": "-[stammers] -[Ruth] We're down a player. Yes, yes.",
       "ja": "ダーツでダニーを負かすのよ"
     }
   },
   {
     "translation": {
-      "en": "- Go. No, it's fine just go. It's great. - Are you fucking…",
+      "en": "-Go. No, it's fine just go. It's great. -[Liv] Are you fucking…",
       "ja": "大丈夫　さあ 行って"
     }
   },
   {
     "translation": {
-      "en": "- - Hey.",
+      "en": "-[Ruth chuckles] -Hey.",
       "ja": "やあ"
     }
   },
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "- No, it isn't. - Right.",
+      "en": "-No, it isn't. -[Danny] Right.",
       "ja": "いいえ だな"
     }
   },
@@ -914,7 +914,7 @@
   {
     "translation": {
       "en": "Although, I guess, technically, we're not at work.",
-      "ja": "厳密に言えば 仕事中じゃないけど"
+      "ja": "厳密に言えば仕事中じゃないけど"
     }
   },
   {
@@ -925,19 +925,19 @@
   },
   {
     "translation": {
-      "en": "- Why are we flying so low? -",
+      "en": "-Why are we flying so low? -[alarm blares]",
       "ja": "なぜ低空飛行を？"
     }
   },
   {
     "translation": {
-      "en": "- - No, shit I got nothing!",
+      "en": "-[alarm beeps] -No, shit I got nothing!",
       "ja": "どうにもできない"
     }
   },
   {
     "translation": {
-      "en": "- Whoa, buddy! We're going down! - There's no pressure and fuel!",
+      "en": "-Whoa, buddy! We're going down! -There's no pressure and fuel!",
       "ja": "墜落するぞ 燃料がない"
     }
   },
@@ -961,37 +961,37 @@
   },
   {
     "translation": {
-      "en": "Help. Help! George. George, help me out.",
-      "ja": "ジョージ 助けて 助けてくれ"
+      "en": "[Sam] Help. Help! George. George, help me out.",
+      "ja": "ジョージ 助けて助けてくれ"
     }
   },
   {
     "translation": {
-      "en": "- Right here. - Yeah.",
+      "en": "-[Sam] Right here. -[Liv] Yeah.",
       "ja": "ここだ ええ"
     }
   },
   {
     "translation": {
-      "en": "Are you okay?",
+      "en": "[Liv] Are you okay?",
       "ja": "大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "I can't swim.  I can't swim.",
+      "en": "[gasping, pants] I can't swim. [heavy breathing] I can't swim.",
       "ja": "俺は泳げないんだ"
     }
   },
   {
     "translation": {
-      "en": "- Do you have, uh, life preservers? -",
+      "en": "-Do you have, uh, life preservers? -[whimpers]",
       "ja": "救命具はある？"
     }
   },
   {
     "translation": {
-      "en": "- Sam! Sam, do you have life preservers? -",
+      "en": "-Sam! Sam, do you have life preservers? -[George groaning]",
       "ja": "サム 救命具はあるの？"
     }
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "translation": {
-      "en": "- No. I don't know. I'll check. -",
+      "en": "-No. I don't know. I'll check. -[George grunting]",
       "ja": "分からない　確認するよ"
     }
   },
@@ -1033,13 +1033,13 @@
   },
   {
     "translation": {
-      "en": "- No, just stop, that hurts! - I know it hurts,",
+      "en": "-No, just stop, that hurts! -I know it hurts,",
       "ja": "痛い　やめろ！"
     }
   },
   {
     "translation": {
-      "en": "- but we've gotta get you out of here. - Okay.",
+      "en": "-but we've gotta get you out of here. -Okay.",
       "ja": "でも脱出しなきゃ"
     }
   },
@@ -1057,7 +1057,7 @@
   },
   {
     "translation": {
-      "en": "Liv!",
+      "en": "[Sam] Liv!",
       "ja": "リヴ"
     }
   },
@@ -1075,31 +1075,31 @@
   },
   {
     "translation": {
-      "en": "- Just kick your legs! - Help!",
+      "en": "-Just kick your legs! -[Sam] Help!",
       "ja": "バタ足して"
     }
   },
   {
     "translation": {
-      "en": "- Help me! - Use your legs, Sam.",
+      "en": "-Help me! -Use your legs, Sam.",
       "ja": "助けて 脚を使うの"
     }
   },
   {
     "translation": {
-      "en": "- It's okay, Sam. - Please, help me.",
+      "en": "-It's okay, Sam. -Please, help me.",
       "ja": "大丈夫 お願いだ　助けてくれ"
     }
   },
   {
     "translation": {
-      "en": "- Help me! - Hey!",
+      "en": "-Help me! -Hey!",
       "ja": "お願いだ　助けてくれ ちょっと"
     }
   },
   {
     "translation": {
-      "en": "Help me!",
+      "en": "[Sam] Help me!",
       "ja": "助けて"
     }
   },
@@ -1117,31 +1117,31 @@
   },
   {
     "translation": {
-      "en": "- - Stop, look I got you.",
+      "en": "-[pants] -Stop, look I got you.",
       "ja": "助けてあげる"
     }
   },
   {
     "translation": {
-      "en": "Kick your legs, - I'll take us both in, okay? - Uh- huh.",
+      "en": "Kick your legs, -I'll take us both in, okay? -Uh-huh.",
       "ja": "バタ足して　連れてくから"
     }
   },
   {
     "translation": {
-      "en": "- Okay. -",
+      "en": "-Okay. -[panting]",
       "ja": "いいわね"
     }
   },
   {
     "translation": {
-      "en": "- You got me? - I got you.",
+      "en": "-You got me? -I got you.",
       "ja": "離さないで ええ"
     }
   },
   {
     "translation": {
-      "en": "Oh, Sam.",
+      "en": "[Liv in a weak voice] Oh, Sam.",
       "ja": "サム"
     }
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "translation": {
-      "en": "- Sorry, no, I'm sorry. I'm sorry. - No!",
+      "en": "-Sorry, no, I'm sorry. I'm sorry. -No!",
       "ja": "ごめんなさい"
     }
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "translation": {
-      "en": "- I'm trying to take it out. - No! No, no, no, no, no, I'll bleed out.",
+      "en": "-I'm trying to take it out. -No! No, no, no, no, no, I'll bleed out.",
       "ja": "やめてくれ　失血死する"
     }
   },
@@ -1255,7 +1255,7 @@
   },
   {
     "translation": {
-      "en": "- My belt, use my belt. - Yeah.",
+      "en": "-[Sam] My belt, use my belt. -Yeah.",
       "ja": "俺のベルトを使え ええ"
     }
   },
@@ -1273,13 +1273,13 @@
   },
   {
     "translation": {
-      "en": "- - I'm sorry. I'm so sorry.",
+      "en": "-[groans, grunts] -I'm sorry. I'm so sorry.",
       "ja": "申し訳ないわね"
     }
   },
   {
     "translation": {
-      "en": "I can't get it tight enough.",
+      "en": "[Liv] I can't get it tight enough.",
       "ja": "きつく巻けない"
     }
   },
@@ -1357,14 +1357,14 @@
   },
   {
     "translation": {
-      "en": "Sam…  I'm not leaving.",
+      "en": "Sam… [pants] I'm not leaving.",
       "ja": "サム 離れるつもりはないの"
     }
   },
   {
     "translation": {
       "en": "I'm just gonna go try and get higher to see if I can get service, okay?",
-      "ja": "通話できるか 確かめに行ってくる"
+      "ja": "通話できるか確かめに行ってくる"
     }
   },
   {
@@ -1375,25 +1375,25 @@
   },
   {
     "translation": {
-      "en": "It's okay, it's gonna be okay.",
+      "en": "[whispers] It's okay, it's gonna be okay.",
       "ja": "大丈夫　きっと大丈夫"
     }
   },
   {
     "translation": {
       "en": "One bar. Just one bar. Stupid trees.",
-      "ja": "電波１本だけでいいから 立って"
+      "ja": "電波１本だけでいいから立って"
     }
   },
   {
     "translation": {
-      "en": "Really? Fuck.",
+      "en": "[in normal voice] Really? Fuck.",
       "ja": "ウソ　まったくもう"
     }
   },
   {
     "translation": {
-      "en": "Fuck!",
+      "en": "[screams] Fuck!",
       "ja": "クソ！"
     }
   },
@@ -1429,20 +1429,20 @@
   },
   {
     "translation": {
-      "en": "Come…",
+      "en": "Come… [sighs]",
       "ja": "お願い"
     }
   },
   {
     "translation": {
-      "en": "Come on, are you fucking kidding me?",
+      "en": "[in a strained voice] Come on, are you fucking kidding me?",
       "ja": "ちょっと ふざけてるの？"
     }
   },
   {
     "translation": {
       "en": "Okay. Well, I didn't see you helping.",
-      "ja": "これでよし 手伝ってくれなかったね"
+      "ja": "これでよし手伝ってくれなかったね"
     }
   },
   {
@@ -1465,31 +1465,31 @@
   },
   {
     "translation": {
-      "en": "- - Sam. Sam.",
+      "en": "-[Sam groans] -Sam. Sam.",
       "ja": "サム どうしたの？"
     }
   },
   {
     "translation": {
-      "en": "- Hey, it's Liv. -",
+      "en": "-Hey, it's Liv. -[grunts]",
       "ja": "ねえ リヴよ"
     }
   },
   {
     "translation": {
-      "en": "- Oh, it hurts. - I know, don't try to move. It's your leg.",
+      "en": "-Oh, it hurts. -I know, don't try to move. It's your leg.",
       "ja": "痛みが… 動いちゃダメ　脚でしょ"
     }
   },
   {
     "translation": {
-      "en": "No, my stomach.  It fucking hurts.",
-      "ja": "違う 腹だ 腹がメチャメチャ痛い"
+      "en": "No, my stomach. [groans] It fucking hurts.",
+      "ja": "違う 腹だ腹がメチャメチャ痛い"
     }
   },
   {
     "translation": {
-      "en": "- Make it stop. - Okay. Wait, hold on. Let me see.",
+      "en": "-Make it stop. -Okay. Wait, hold on. Let me see.",
       "ja": "止めてくれ 分かった　見せて"
     }
   },
@@ -1519,7 +1519,7 @@
   },
   {
     "translation": {
-      "en": "- What? Where? - I don't know.",
+      "en": "-What? Where? -[Liv] I don't know.",
       "ja": "何だって？　どこで？ さあ"
     }
   },
@@ -1532,7 +1532,7 @@
   {
     "translation": {
       "en": "We're-- we're just gonna have to wait for them to find us.",
-      "ja": "私たち 助けを待つしかないのよ"
+      "ja": "私たち助けを待つしかないのよ"
     }
   },
   {
@@ -1556,7 +1556,7 @@
   {
     "translation": {
       "en": "George logged a flight plan. When you don't show up, your company's gonna send--",
-      "ja": "あなたの会社の人が 気付いて…"
+      "ja": "あなたの会社の人が気付いて…"
     }
   },
   {
@@ -1579,7 +1579,7 @@
   },
   {
     "translation": {
-      "en": "- Where-- where are the bags? - Sam, National Geographic's not just…",
+      "en": "-Where-- where are the bags? -Sam, National Geographic's not just…",
       "ja": "バッグはどこだ？ あなたの同僚が⸺"
     }
   },
@@ -1598,7 +1598,7 @@
   {
     "translation": {
       "en": "No one's coming. No one knows we're here.",
-      "ja": "誰も俺たちの居場所を 知らない"
+      "ja": "誰も俺たちの居場所を知らない"
     }
   },
   {

@@ -1,49 +1,49 @@
 [
   {
     "translation": {
-      "en": "- Keep the pack together! -",
+      "en": "-[player 1] Keep the pack together! -[players yelling]",
       "es": "quienes inventaron sus reglas. ¡Manténganse juntos!"
     }
   },
   {
     "translation": {
-      "en": "Come on, Arthur!",
+      "en": "[player 1] Come on, Arthur!",
       "es": "Vamos, Arthur."
     }
   },
   {
     "translation": {
-      "en": "Drive it forwards.",
-      "es": "- Así es. - Ve hacia adelante."
+      "en": "[player 2] Drive it forwards.",
+      "es": "- Así es.- Ve hacia adelante."
     }
   },
   {
     "translation": {
-      "en": "Well played, Arthur.",
+      "en": "[player 3] Well played, Arthur.",
       "es": "Bien jugado, Arthur."
     }
   },
   {
     "translation": {
-      "en": "- Here he comes! - Are you sure it's him?",
-      "es": "- ¡Aquí viene! - ¿Seguro que es él? MAYFAIR, LONDRES"
+      "en": "-[boy 1] Here he comes! -[boy 2] Are you sure it's him?",
+      "es": "- ¡Aquí viene!- ¿Seguro que es él? MAYFAIR, LONDRES"
     }
   },
   {
     "translation": {
-      "en": "Mr. Kinnaird, will the Old Etonians",
+      "en": "[reporter] Mr. Kinnaird, will the Old Etonians",
       "es": "Sr. Kinnaird, ¿el Old Etonians"
     }
   },
   {
     "translation": {
-      "en": "take the FA Cup this year?  Can we have an autograph?",
-      "es": "- ganará la Copa este año? - ¿Nos da un autógrafo?"
+      "en": "take the FA Cup this year? [boy 1] Can we have an autograph?",
+      "es": "- ganará la Copa este año?- ¿Nos da un autógrafo?"
     }
   },
   {
     "translation": {
-      "en": "What of your quarter- final opponents, Darwen FC?",
+      "en": "What of your quarter-final opponents, Darwen FC?",
       "es": "¿Qué dice de su contrincante, Darwen FC?"
     }
   },
@@ -55,8 +55,8 @@
   },
   {
     "translation": {
-      "en": "- Oh, no, no, no! Not at all, sir! - Never!",
-      "es": "- ¡No! ¡Nunca! - No. Para nada, señor."
+      "en": "-Oh, no, no, no! Not at all, sir! -[boy 1] Never!",
+      "es": "- ¡No! ¡Nunca!- No. Para nada, señor."
     }
   },
   {
@@ -73,25 +73,25 @@
   },
   {
     "translation": {
-      "en": "Fergus Suter, you and I are gonna make history.",
+      "en": "[man] Fergus Suter, you and I are gonna make history.",
       "es": "Fergus Suter, tú y yo haremos historia."
     }
   },
   {
     "translation": {
-      "en": "Darwen. This is Darwen.",
+      "en": "[station attendant] Darwen. This is Darwen.",
       "es": "¡Llegamos a Darwen!"
     }
   },
   {
     "translation": {
-      "en": "- - Come on. Let's go.",
+      "en": "-[train whistle blows] -Come on. Let's go.",
       "es": "Anda. Vamos."
     }
   },
   {
     "translation": {
-      "en": "I've seen how you play in Scotland.",
+      "en": "[man] I've seen how you play in Scotland.",
       "es": "He visto cómo juegas en Escocia."
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "Let's talk in my office.",
+      "en": "[man] Let's talk in my office.",
       "es": "Hablemos en mi oficina."
     }
   },
@@ -115,8 +115,8 @@
   },
   {
     "translation": {
-      "en": "- How you both feeling? - Ready to get started.",
-      "es": "- ¿Cómo se sienten? - Listos para empezar."
+      "en": "-How you both feeling? -Ready to get started.",
+      "es": "- ¿Cómo se sienten?- Listos para empezar."
     }
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "translation": {
-      "en": "Not from round here, that's for sure.",
+      "en": "[man 1] Not from round here, that's for sure.",
       "es": "De aquí no son, eso es seguro."
     }
   },
@@ -163,13 +163,13 @@
   },
   {
     "translation": {
-      "en": "Why has Walsh gone and brought them here?",
+      "en": "[man 2] Why has Walsh gone and brought them here?",
       "es": "¿Por qué los trajo Walsh entonces?"
     }
   },
   {
     "translation": {
-      "en": "Got our new jerseys, lads.",
+      "en": "[man 3] Got our new jerseys, lads.",
       "es": "Tenemos nuestras camisetas nuevas."
     }
   },
@@ -181,14 +181,14 @@
   },
   {
     "translation": {
-      "en": "And youse, captain.",
+      "en": "[man 3] And youse, captain.",
       "es": "La tuya, capitán."
     }
   },
   {
     "translation": {
-      "en": "- There you go. - Ready for the big game Saturday?",
-      "es": "- Ahí tienes. - ¿Listo para el sábado?"
+      "en": "-There you go. -[man 4] Ready for the big game Saturday?",
+      "es": "- Ahí tienes.- ¿Listo para el sábado?"
     }
   },
   {
@@ -212,7 +212,7 @@
   {
     "translation": {
       "en": "I'd like to give Mr. Suter and Mr. Love a chance.",
-      "es": "Quisiera darles una oportunidad al Sr. Suter y al Sr. Love."
+      "es": "Quisiera darles una oportunidadal Sr. Suter y al Sr. Love."
     }
   },
   {
@@ -236,7 +236,7 @@
   {
     "translation": {
       "en": "They don't play for Partick anymore. They're Darwen players now.",
-      "es": "Ya no juegan para Partick. Ahora son jugadores de Darwen."
+      "es": "Ya no juegan para Partick.Ahora son jugadores de Darwen."
     }
   },
   {
@@ -247,14 +247,14 @@
   },
   {
     "translation": {
-      "en": "with respect, sir, Jones and Harris helped us get to the quarter- finals.",
-      "es": "con todo respeto, Jones y Harris nos ayudaron a llegar a cuartos."
+      "en": "with respect, sir, Jones and Harris helped us get to the quarter-finals.",
+      "es": "con todo respeto, Jones y Harrisnos ayudaron a llegar a cuartos."
     }
   },
   {
     "translation": {
       "en": "And these two are going to help us win the damn thing. Now, this is my mill.",
-      "es": "Y estos dos nos ayudarán a ganar la Copa. Es mi fábrica."
+      "es": "Y estos dos nos ayudarán a ganar la Copa.Es mi fábrica."
     }
   },
   {
@@ -265,13 +265,13 @@
   },
   {
     "translation": {
-      "en": "Now, give 'em the jerseys.",
+      "en": "[Walsh] Now, give 'em the jerseys.",
       "es": "Denles las camisetas."
     }
   },
   {
     "translation": {
-      "en": "Good lads.",
+      "en": "[Walsh] Good lads.",
       "es": "Buenos chicos."
     }
   },
@@ -295,7 +295,7 @@
   },
   {
     "translation": {
-      "en": "Mr. Walsh was most particular.",
+      "en": "[woman] Mr. Walsh was most particular.",
       "es": "El señor Walsh fue muy específico."
     }
   },
@@ -326,7 +326,7 @@
   {
     "translation": {
       "en": "Does Mr. Platt work for Mr. Walsh?",
-      "es": "¿El señor Platt trabaja para el señor Walsh?"
+      "es": "¿El señor Platt trabajapara el señor Walsh?"
     }
   },
   {
@@ -343,26 +343,26 @@
   },
   {
     "translation": {
-      "en": "- Jimmy, for the love of God, no. - What?",
-      "es": "- Jimmy, por el amor de Dios, no. - ¿Qué?"
+      "en": "-Jimmy, for the love of God, no. -What?",
+      "es": "- Jimmy, por el amor de Dios, no.- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "Keep your mind on the game.",
+      "en": "[Fergus] Keep your mind on the game.",
       "es": "Enfócate en el juego."
     }
   },
   {
     "translation": {
       "en": "Did you know there were 43 teams in the Cup this year?",
-      "es": "¿Sabías que hubo 43 equipos en la Copa este año?"
+      "es": "¿Sabías que hubo43 equipos en la Copa este año?"
     }
   },
   {
     "translation": {
       "en": "And Arthur's is one of the last eight left in.",
-      "es": "Y el de Arthur es uno de los últimos ocho que quedan."
+      "es": "Y el de Arthur es unode los últimos ocho que quedan."
     }
   },
   {
@@ -373,8 +373,8 @@
   },
   {
     "translation": {
-      "en": "We're playing a mill team in the quarter- finals this Saturday, Papa.",
-      "es": "Jugaremos los cuartos contra un equipo de fábrica este sábado, papá."
+      "en": "We're playing a mill team in the quarter-finals this Saturday, Papa.",
+      "es": "Jugaremos los cuartos contra un equipode fábrica este sábado, papá."
     }
   },
   {
@@ -385,25 +385,25 @@
   },
   {
     "translation": {
-      "en": "The quarter- finals?",
+      "en": "The quarter-finals?",
       "es": "¿Cuartos de final?"
     }
   },
   {
     "translation": {
       "en": "Do the millhands often get that far?",
-      "es": "¿Los de la fábrica suelen llegar tan lejos?"
+      "es": "¿Los de la fábricasuelen llegar tan lejos?"
     }
   },
   {
     "translation": {
-      "en": "No, not usually.",
+      "en": "[Arthur] No, not usually.",
       "es": "No, normalmente no."
     }
   },
   {
     "translation": {
-      "en": "Will you go on with this once your child arrives?",
+      "en": "[Lord Kinnaird] Will you go on with this once your child arrives?",
       "es": "¿Seguirás con esto cuando nazca tu hijo?"
     }
   },
@@ -433,8 +433,8 @@
   },
   {
     "translation": {
-      "en": "- I'm not against it-- - But you are against football?",
-      "es": "- No estoy en contra, pero... - Pero sí del fútbol."
+      "en": "-I'm not against it-- -But you are against football?",
+      "es": "- No estoy en contra, pero...- Pero sí del fútbol."
     }
   },
   {
@@ -446,12 +446,12 @@
   {
     "translation": {
       "en": "I think it a healthy way for little boys to get fit.",
-      "es": "Es una manera saludable para que los niños estén en forma."
+      "es": "Es una manera saludablepara que los niños estén en forma."
     }
   },
   {
     "translation": {
-      "en": "All aboard!",
+      "en": "[station attendant] All aboard!",
       "es": "¡Todos a bordo!"
     }
   },
@@ -475,7 +475,7 @@
   },
   {
     "translation": {
-      "en": "Only gentlemen have lifted the Cup.",
+      "en": "[Walsh] Only gentlemen have lifted the Cup.",
       "es": "Solo los caballeros levantaron la Copa."
     }
   },
@@ -494,7 +494,7 @@
   {
     "translation": {
       "en": "Imagine what it would mean to see men like us lift it.",
-      "es": "Imagina lo que significaría que hombres como nosotros la levanten."
+      "es": "Imagina lo que significaríaque hombres como nosotros la levanten."
     }
   },
   {
@@ -505,8 +505,8 @@
   },
   {
     "translation": {
-      "en": "Well, I want to wake up and find it's more than a dream.",
-      "es": "Quiero despertarme y ver que es más que un sueño."
+      "en": "[Walsh] Well, I want to wake up and find it's more than a dream.",
+      "es": "Quiero despertarme y verque es más que un sueño."
     }
   },
   {
@@ -523,13 +523,13 @@
   },
   {
     "translation": {
-      "en": "Wait here, lads.",
+      "en": "[Walsh] Wait here, lads.",
       "es": "Esperen aquí, muchachos."
     }
   },
   {
     "translation": {
-      "en": "Stop, lads. Hold up.",
+      "en": "[Darwen player] Stop, lads. Hold up.",
       "es": "Esperen un momento."
     }
   },
@@ -553,13 +553,13 @@
   },
   {
     "translation": {
-      "en": "- Look at these lads! - Gentlemen.",
+      "en": "-[Darwen player] Look at these lads! -Gentlemen.",
       "es": "Caballeros."
     }
   },
   {
     "translation": {
-      "en": "Welcome.",
+      "en": "[Arthur] Welcome.",
       "es": "Bienvenidos."
     }
   },
@@ -571,19 +571,19 @@
   },
   {
     "translation": {
-      "en": "- You're Arthur Kinnaird? - That's right.",
-      "es": "- ¿Eres Arthur Kinnaird? - Así es."
+      "en": "-You're Arthur Kinnaird? -That's right.",
+      "es": "- ¿Eres Arthur Kinnaird?- Así es."
     }
   },
   {
     "translation": {
       "en": "I saw you play at Hampden a few years back against Queen's Park.",
-      "es": "Te vi jugar en Hampden hace unos años contra Queen's Park."
+      "es": "Te vi jugar en Hampden hace unos añoscontra Queen's Park."
     }
   },
   {
     "translation": {
-      "en": "You were good.",
+      "en": "[stammers] You were good.",
       "es": "Eras bueno."
     }
   },
@@ -596,7 +596,7 @@
   {
     "translation": {
       "en": "Of course, the game's changed since your heyday.",
-      "es": "Claro, el juego ha cambiado desde tu apogeo."
+      "es": "Claro, el juego ha cambiadodesde tu apogeo."
     }
   },
   {
@@ -614,19 +614,19 @@
   {
     "translation": {
       "en": "Well, now we've established that my best days are in the past,",
-      "es": "Ahora que establecimos que mis mejores días son pasado,"
+      "es": "Ahora que establecimosque mis mejores días son pasado,"
     }
   },
   {
     "translation": {
       "en": "perhaps we should get moving.",
-      "es": "- deberíamos ir andando. - No quise decir..."
+      "es": "- deberíamos ir andando.- No quise decir..."
     }
   },
   {
     "translation": {
-      "en": "- I never meant-- - What's your name?",
-      "es": "- deberíamos ir andando. - No quise decir... ¿Cómo te llamas?"
+      "en": "-I never meant-- -What's your name?",
+      "es": "- deberíamos ir andando.- No quise decir... ¿Cómo te llamas?"
     }
   },
   {
@@ -661,14 +661,14 @@
   },
   {
     "translation": {
-      "en": "- Jimmy? - Jimmy Love.",
-      "es": "- ¿Jimmy? - Jimmy Love."
+      "en": "-Jimmy? -Jimmy Love.",
+      "es": "- ¿Jimmy?- Jimmy Love."
     }
   },
   {
     "translation": {
-      "en": "- He made the trip down, too. - Did he indeed?",
-      "es": "- Él también vino. - ¿De verdad?"
+      "en": "-He made the trip down, too. -Did he indeed?",
+      "es": "- Él también vino.- ¿De verdad?"
     }
   },
   {
@@ -679,38 +679,38 @@
   },
   {
     "translation": {
-      "en": "Hurry up, lads. Suit up and boot up.",
+      "en": "[Darwen player] Hurry up, lads. Suit up and boot up.",
       "es": "Apúrense, muchachos. Cámbiense."
     }
   },
   {
     "translation": {
       "en": "I've been through our Football Association records,",
-      "es": "Revisé los registros de la Federación Inglesa de Fútbol."
+      "es": "Revisé los registrosde la Federación Inglesa de Fútbol."
     }
   },
   {
     "translation": {
       "en": "and neither Fergus Suter nor Jimmy Love played for them in the previous rounds.",
-      "es": "Ni Fergus Suter ni Jimmy Love jugaron para ellos en las rondas anteriores."
+      "es": "Ni Fergus Suter ni Jimmy Love jugaronpara ellos en las rondas anteriores."
     }
   },
   {
     "translation": {
       "en": "There's nothing in the rules that say they can't switch team members.",
-      "es": "Las reglas no dicen que no pueden cambiar de equipo."
+      "es": "Las reglas no dicenque no pueden cambiar de equipo."
     }
   },
   {
     "translation": {
       "en": "True, but why would two successful Scottish players",
-      "es": "Es cierto, pero ¿por qué dos jugadores escoceses exitosos"
+      "es": "Es cierto, pero ¿por qué dos jugadoresescoceses exitosos"
     }
   },
   {
     "translation": {
       "en": "leave Glasgow to join a tinpot mill team in Darwen?",
-      "es": "se irían de Glasgow para unirse a un equipo de medio pelo en Darwen?"
+      "es": "se irían de Glasgow para unirsea un equipo de medio pelo en Darwen?"
     }
   },
   {
@@ -728,7 +728,7 @@
   {
     "translation": {
       "en": "Surely, no one would risk suspension from the Cup?",
-      "es": "Nadie se arriesgaría a ser suspendido de la Copa."
+      "es": "Nadie se arriesgaríaa ser suspendido de la Copa."
     }
   },
   {
@@ -740,13 +740,13 @@
   {
     "translation": {
       "en": "to join a team they have no connection with.",
-      "es": "para unirse a un equipo con el que no tienen conexión."
+      "es": "para unirse a un equipocon el que no tienen conexión."
     }
   },
   {
     "translation": {
-      "en": "- Now, how do we prove it? - We don't need to.",
-      "es": "- ¿Cómo lo probamos? - No hace falta."
+      "en": "-Now, how do we prove it? -[Arthur] We don't need to.",
+      "es": "- ¿Cómo lo probamos?- No hace falta."
     }
   },
   {
@@ -763,38 +763,38 @@
   },
   {
     "translation": {
-      "en": "- Are we right, lads? - Aye.",
-      "es": "- ¿Todo bien, muchachos? - Sí."
+      "en": "-Are we right, lads? -[players] Aye.",
+      "es": "- ¿Todo bien, muchachos?- Sí."
     }
   },
   {
     "translation": {
-      "en": "Now, remember, they're a rough team.",
+      "en": "[Walsh] Now, remember, they're a rough team.",
       "es": "Recuerden, son un equipo duro."
     }
   },
   {
     "translation": {
       "en": "They'll play as a pack and try to run through you.",
-      "es": "Jugarán como una manada e intentarán atravesarlos."
+      "es": "Jugarán como una manadae intentarán atravesarlos."
     }
   },
   {
     "translation": {
-      "en": "- Let's go then, boys. - Come on. Stick together.",
-      "es": "- Vamos, muchachos. - Manténganse unidos."
+      "en": "-[player 1] Let's go then, boys. -[player 2] Come on. Stick together.",
+      "es": "- Vamos, muchachos.- Manténganse unidos."
     }
   },
   {
     "translation": {
       "en": "When we get out, I lead from the front.",
-      "es": "Cuando salgamos, yo lidero desde el frente."
+      "es": "Cuando salgamos,yo lidero desde el frente."
     }
   },
   {
     "translation": {
-      "en": "- Come on. - Fergie!",
-      "es": "- Vamos. - ¡Fergie!"
+      "en": "-Come on. -[Jimmy] Fergie!",
+      "es": "- Vamos.- ¡Fergie!"
     }
   },
   {
@@ -805,14 +805,14 @@
   },
   {
     "translation": {
-      "en": "What's all this to- do about? Playing in the quarter- finals of the FA Cup.",
-      "es": "- ¿Qué es todo esto? - Jugaremos en los cuartos de la Copa."
+      "en": "[woman] What's all this to-do about? Playing in the quarter-finals of the FA Cup.",
+      "es": "- ¿Qué es todo esto?- Jugaremos en los cuartos de la Copa."
     }
   },
   {
     "translation": {
-      "en": "- Really? - Yeah.",
-      "es": "- ¿En serio? - Sí."
+      "en": "-Really? -Yeah.",
+      "es": "- ¿En serio?- Sí."
     }
   },
   {
@@ -830,7 +830,7 @@
   {
     "translation": {
       "en": "even if my glory days are behind me.",
-      "es": "aunque mis días de gloria hayan quedado atrás."
+      "es": "aunque mis días de gloriahayan quedado atrás."
     }
   },
   {
@@ -866,84 +866,84 @@
   {
     "translation": {
       "en": "Yep.",
-      "es": "- Sí. - Vamos, muchachos."
+      "es": "- Sí.- Vamos, muchachos."
     }
   },
   {
     "translation": {
-      "en": "Come on, boys. Send them back.",
-      "es": "- Sí. - Vamos, muchachos. Háganlos retroceder."
+      "en": "[Etonian player] Come on, boys. Send them back.",
+      "es": "- Sí.- Vamos, muchachos. Háganlos retroceder."
     }
   },
   {
     "translation": {
-      "en": "Play the ball.",
+      "en": "[Fergus] Play the ball.",
       "es": "Pásala."
     }
   },
   {
     "translation": {
-      "en": "Come on! In tight!",
-      "es": "- ¡Vamos! - ¡Eso es!"
+      "en": "[Darwen player] Come on! In tight!",
+      "es": "- ¡Vamos!- ¡Eso es!"
     }
   },
   {
     "translation": {
-      "en": "- Take him! -",
+      "en": "-[Arthur] Take him! -[Fergus grunts]",
       "es": "¡Derríbenlo!"
     }
   },
   {
     "translation": {
-      "en": "Come on now!",
-      "es": "- ¡Vamos! - ¡Vamos!"
+      "en": "[Darwen player] Come on now!",
+      "es": "- ¡Vamos!- ¡Vamos!"
     }
   },
   {
     "translation": {
       "en": "Game doesn't seem to have changed so very much, Mr. Suter.",
-      "es": "El juego no parece haber cambiado mucho, señor Suter."
+      "es": "El juego no parecehaber cambiado mucho, señor Suter."
     }
   },
   {
     "translation": {
-      "en": "Come on. Come on, boys.",
+      "en": "[Darwen player] Come on. Come on, boys.",
       "es": "Vamos. Vamos, muchachos."
     }
   },
   {
     "translation": {
-      "en": "The Old Etonians have scored again!",
+      "en": "[man] The Old Etonians have scored again!",
       "es": "¡Old Etonians anotó de nuevo!"
     }
   },
   {
     "translation": {
-      "en": "- There we go! - Yes!",
-      "es": "- ¡Eso es! - ¡Sí!"
+      "en": "-[Darwen player] There we go! -Yes!",
+      "es": "- ¡Eso es!- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "- We got one back! -",
+      "en": "-We got one back! -[crowd cheers]",
       "es": "¡Hicimos un gol!"
     }
   },
   {
     "translation": {
-      "en": "- It's three- one! - Yes!",
-      "es": "- Vamos 3 a 1. - ¡Sí!"
+      "en": "-It's three-one! -Yes!",
+      "es": "- Vamos 3 a 1.- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "- - Half- time!",
+      "en": "-[whistle blows] -[referee] Half-time!",
       "es": "¡Entretiempo!"
     }
   },
   {
     "translation": {
-      "en": "Half- time, gentlemen.",
+      "en": "[referee] Half-time, gentlemen.",
       "es": "Entretiempo, caballeros."
     }
   },
@@ -962,18 +962,18 @@
   {
     "translation": {
       "en": "They shove you, you shove 'em back. They hit you, you hit 'em back.",
-      "es": "Te empujan, los empujas. Te golpean, los golpeas."
+      "es": "Te empujan, los empujas.Te golpean, los golpeas."
     }
   },
   {
     "translation": {
-      "en": "- You can't win playing at their own game. - So, what do you suggest we do instead?",
-      "es": "- No puedes ganar jugando su juego. - ¿Qué sugieres que hagamos?"
+      "en": "-You can't win playing at their own game. -So, what do you suggest we do instead?",
+      "es": "- No puedes ganar jugando su juego.- ¿Qué sugieres que hagamos?"
     }
   },
   {
     "translation": {
-      "en": "At this rate, I'm gonna be coming out.",
+      "en": "[Etonian] At this rate, I'm gonna be coming out.",
       "es": "A este ritmo, voy a salir."
     }
   },
@@ -991,7 +991,7 @@
   },
   {
     "translation": {
-      "en": "Yes!",
+      "en": "[all] Yes!",
       "es": "¡Sí!"
     }
   },
@@ -1034,7 +1034,7 @@
   {
     "translation": {
       "en": "We don't always have to run the ball forward.",
-      "es": "No siempre tenemos que correr hacia adelante."
+      "es": "No siempre tenemos que correrhacia adelante."
     }
   },
   {
@@ -1058,19 +1058,19 @@
   {
     "translation": {
       "en": "I want you to go out wide on the left.",
-      "es": "Quiero que te abras a la izquierda. Eres el hombre más rápido del campo."
+      "es": "Quiero que te abras a la izquierda.Eres el hombre más rápido del campo."
     }
   },
   {
     "translation": {
       "en": "You're the fastest man on the pitch. You're not getting a chance to show it.",
-      "es": "Quiero que te abras a la izquierda. Eres el hombre más rápido del campo. No has podido demostrarlo. Deja que la pelota haga el trabajo."
+      "es": "Quiero que te abras a la izquierda.Eres el hombre más rápido del campo. No has podido demostrarlo.Deja que la pelota haga el trabajo."
     }
   },
   {
     "translation": {
-      "en": "Let the ball do the work.",
-      "es": "No has podido demostrarlo. Deja que la pelota haga el trabajo."
+      "en": "[Fergus] Let the ball do the work.",
+      "es": "No has podido demostrarlo.Deja que la pelota haga el trabajo."
     }
   },
   {
@@ -1105,8 +1105,8 @@
   },
   {
     "translation": {
-      "en": "- They've moved their formation. - Isn't that better?",
-      "es": "- Movieron su formación. - ¿No es mejor?"
+      "en": "-They've moved their formation. -Isn't that better?",
+      "es": "- Movieron su formación.- ¿No es mejor?"
     }
   },
   {
@@ -1117,38 +1117,38 @@
   },
   {
     "translation": {
-      "en": "- Come on, boys! I want the same again. -",
+      "en": "-Come on, boys! I want the same again. -[whistle blows]",
       "es": "¡Vamos! Hagamos lo mismo otra vez."
     }
   },
   {
     "translation": {
-      "en": "- Same again! - Here we go, Darwen.",
-      "es": "- ¡Lo mismo otra vez! - Aquí vamos, Darwen."
+      "en": "-[Arthur] Same again! -Here we go, Darwen.",
+      "es": "- ¡Lo mismo otra vez!- Aquí vamos, Darwen."
     }
   },
   {
     "translation": {
       "en": "Yes!",
-      "es": "- ¡Sí! - ¡Sí!"
+      "es": "- ¡Sí!- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "Get it over to him! Yeah!",
-      "es": "- ¡A él! - ¡Sí!"
+      "en": "[player] Get it over to him! Yeah!",
+      "es": "- ¡A él!- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "It's five- four!",
+      "en": "It's five-four!",
       "es": "¡Van 5 a 4!"
     }
   },
   {
     "translation": {
       "en": "The ball's gone before you can put a tackle in.",
-      "es": "Patean la pelota antes de que los marquemos."
+      "es": "Patean la pelotaantes de que los marquemos."
     }
   },
   {
@@ -1165,26 +1165,26 @@
   },
   {
     "translation": {
-      "en": "It's five- five!",
+      "en": "[woman] It's five-five!",
       "es": "¡Van 5 a 5!"
     }
   },
   {
     "translation": {
-      "en": "It's full- time, gentlemen.",
+      "en": "[referee] It's full-time, gentlemen.",
       "es": "Tiempo cumplido, caballeros."
     }
   },
   {
     "translation": {
-      "en": "- - Full- time, thank you.",
+      "en": "-[thunder rumbling] -[referee] Full-time, thank you.",
       "es": "Tiempo cumplido, gracias."
     }
   },
   {
     "translation": {
       "en": "We'll take a few minutes to get fresh air into our lungs and then extra time.",
-      "es": "Tomaremos unos minutos para recuperarnos y luego viene el tiempo extra."
+      "es": "Tomaremos unos minutos para recuperarnosy luego viene el tiempo extra."
     }
   },
   {
@@ -1219,7 +1219,7 @@
   },
   {
     "translation": {
-      "en": "I'm glad that's finished. That was more tiring than I expected.",
+      "en": "[Etonian player] I'm glad that's finished. That was more tiring than I expected.",
       "es": "Me alegra que haya terminado. Fue más agotador de lo esperado."
     }
   },
@@ -1232,12 +1232,12 @@
   {
     "translation": {
       "en": "What's all this about? Why are we not playing extra time?",
-      "es": "¿Qué es esto? ¿Por qué no jugamos tiempo extra?"
+      "es": "¿Qué es esto?¿Por qué no jugamos tiempo extra?"
     }
   },
   {
     "translation": {
-      "en": "Because he knows they're beaten.",
+      "en": "[Fergus] Because he knows they're beaten.",
       "es": "Porque sabe que los derrotaremos."
     }
   },
@@ -1250,7 +1250,7 @@
   {
     "translation": {
       "en": "These men have been up since before dawn and traveled for hours.",
-      "es": "Ellos se levantaron antes del amanecer y viajaron horas."
+      "es": "Ellos se levantaron antes del amanecery viajaron horas."
     }
   },
   {
@@ -1268,13 +1268,13 @@
   {
     "translation": {
       "en": "Look, we can refer this to the president of the Football Association, if you prefer.",
-      "es": "Podemos informarle al presidente de la Federación de Fútbol, si prefieres."
+      "es": "Podemos informarle al presidentede la Federación de Fútbol, si prefieres."
     }
   },
   {
     "translation": {
-      "en": "- Well, how long will that take? - Not too long.",
-      "es": "- ¿Cuánto tardará? - No mucho."
+      "en": "-Well, how long will that take? -Not too long.",
+      "es": "- ¿Cuánto tardará?- No mucho."
     }
   },
   {
@@ -1286,13 +1286,13 @@
   {
     "translation": {
       "en": "He's the president of the FA? He's your bloody goalkeeper.",
-      "es": "¿Él es el presidente? Es tu maldito portero."
+      "es": "¿Él es el presidente?Es tu maldito portero."
     }
   },
   {
     "translation": {
       "en": "We're all on the board of the Football Association. Do you have a problem with that?",
-      "es": "Todos estamos en la junta. ¿Tienes algún problema con eso?"
+      "es": "Todos estamos en la junta.¿Tienes algún problema con eso?"
     }
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "translation": {
       "en": "I'm afraid extra time wasn't agreed, gentlemen.",
-      "es": "Me temo que no acordaron tiempo extra, caballeros."
+      "es": "Me temo que no acordaron tiempo extra,caballeros."
     }
   },
   {
@@ -1315,8 +1315,8 @@
   },
   {
     "translation": {
-      "en": "And rules are made to be adhered to.  We had you beaten today.",
-      "es": "- Las reglas están hechas para cumplirlas. - Los vencimos hoy."
+      "en": "And rules are made to be adhered to. [Fergus] We had you beaten today.",
+      "es": "- Las reglas están hechas para cumplirlas.- Los vencimos hoy."
     }
   },
   {
@@ -1346,7 +1346,7 @@
   {
     "translation": {
       "en": "No, I just worry one day Arthur will come home with a broken leg.",
-      "es": "Me preocupa que Arthur vuelva a casa con la pierna rota."
+      "es": "Me preocupa que Arthurvuelva a casa con la pierna rota."
     }
   },
   {
@@ -1357,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "- - What am I missing up there?",
+      "en": "-[Alma laughs] -What am I missing up there?",
       "es": "¿Qué me estoy perdiendo?"
     }
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "There's nothing to tell.",
+      "en": "[sighs] There's nothing to tell.",
       "es": "No hay nada que contar."
     }
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "translation": {
-      "en": "Uh, it's not really my story.",
+      "en": "[chuckles] Uh, it's not really my story.",
       "es": "No es mi historia."
     }
   },
@@ -1418,19 +1418,19 @@
   {
     "translation": {
       "en": "When it was a draw, Arthur wouldn't allow them extra time to settle it.",
-      "es": "Empataron y Arthur no aceptó el tiempo extra para desempatar."
+      "es": "Empataron y Arthur no aceptóel tiempo extra para desempatar."
     }
   },
   {
     "translation": {
       "en": "So they must come back next week. All the way from Lancashire?",
-      "es": "- Deben regresar la próxima semana. - ¿Desde Lancashire?"
+      "es": "- Deben regresar la próxima semana.- ¿Desde Lancashire?"
     }
   },
   {
     "translation": {
       "en": "In all the years we've been married, I believe this is the first time you've ever asked me a single question about football.",
-      "es": "Desde que nos casamos, es la primera vez que preguntas sobre fútbol."
+      "es": "Desde que nos casamos, es la primera vezque preguntas sobre fútbol."
     }
   },
   {
@@ -1453,25 +1453,25 @@
   },
   {
     "translation": {
-      "en": "- Can I second that? - We must follow the rules.",
-      "es": "- ¿Puedo apoyarla? - Debemos seguir las reglas."
+      "en": "-Can I second that? -[Marindin] We must follow the rules.",
+      "es": "- ¿Puedo apoyarla?- Debemos seguir las reglas."
     }
   },
   {
     "translation": {
-      "en": "- Or why do we have them? - Absolutely.",
-      "es": "- ¿O para qué las tenemos? - Absolutamente."
+      "en": "-Or why do we have them? -Absolutely.",
+      "es": "- ¿O para qué las tenemos?- Absolutamente."
     }
   },
   {
     "translation": {
       "en": "And if you'd agreed extra time, Darwen would've beaten you.",
-      "es": "Y si hubiera habido tiempo extra, Darwen los habría vencido."
+      "es": "Y si hubiera habido tiempo extra,Darwen los habría vencido."
     }
   },
   {
     "translation": {
-      "en": "Don't be absurd.",
+      "en": "[chuckles] Don't be absurd.",
       "es": "No digas tonterías."
     }
   },
@@ -1484,31 +1484,31 @@
   {
     "translation": {
       "en": "Another ten minutes and you would've been out of the Cup on your ear.",
-      "es": "Diez minutos más y habrían salido de la Copa."
+      "es": "Diez minutos másy habrían salido de la Copa."
     }
   },
   {
     "translation": {
       "en": "Are you suggesting I acted in an underhand manner?",
-      "es": "¿Estás sugiriendo que actué de manera encubierta?"
+      "es": "¿Estás sugiriendo que actuéde manera encubierta?"
     }
   },
   {
     "translation": {
-      "en": "Well, I think underhand is a bit strong.",
+      "en": "Well, I think \"underhand\" is a bit strong.",
       "es": "Bueno, decirlo así es un poco fuerte."
     }
   },
   {
     "translation": {
       "en": "Shall we say, uh, the rules were very convenient.",
-      "es": "Digamos que las reglas eran muy convenientes."
+      "es": "Digamos que las reglaseran muy convenientes."
     }
   },
   {
     "translation": {
       "en": "Do you really think we would've been beaten by a gaggle of--",
-      "es": "¿Crees que nos habría vencido una pandilla de...?"
+      "es": "¿Crees que nos habría vencidouna pandilla de...?"
     }
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "translation": {
       "en": "Paying two members of their team to play.",
-      "es": "Pagaron a dos miembros de su equipo para jugar y..."
+      "es": "Pagaron a dos miembros de su equipopara jugar y..."
     }
   },
   {
@@ -1549,44 +1549,44 @@
   },
   {
     "translation": {
-      "en": "It's our game.  Your game?",
-      "es": "- Es nuestro juego. - ¿Su juego?"
+      "en": "It's our game. [laughs] Your game?",
+      "es": "- Es nuestro juego.- ¿Su juego?"
     }
   },
   {
     "translation": {
-      "en": "- We invented it. - Who's we?",
-      "es": "- Lo inventamos nosotros. - ¿Quiénes?"
+      "en": "-We invented it. -[Alma] Who's \"we\"?",
+      "es": "- Lo inventamos nosotros.- ¿Quiénes?"
     }
   },
   {
     "translation": {
       "en": "The Old Etonians?",
-      "es": "- ¿Los Old Etonians? - ¡Sí!"
+      "es": "- ¿Los Old Etonians?- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "Yes! As a matter of fact.",
-      "es": "- ¿Los Old Etonians? - ¡Sí! Precisamente."
+      "en": "[Arthur] Yes! As a matter of fact.",
+      "es": "- ¿Los Old Etonians?- ¡Sí! Precisamente."
     }
   },
   {
     "translation": {
       "en": "Eton, Charterhouse, Harrow. Lots of schools played a part,",
-      "es": "Eton, Charterhouse, Harrow, muchos colegios han participado."
+      "es": "Eton, Charterhouse, Harrow,muchos colegios han participado."
     }
   },
   {
     "translation": {
-      "en": "but the point is we took a raggle- taggle pastime...",
-      "es": "El punto es que tomamos un pasatiempo desorganizado"
+      "en": "but the point is we took a raggle-taggle pastime...",
+      "es": "El punto es que tomamosun pasatiempo desorganizado"
     }
   },
   {
     "translation": {
       "en": "with different rules wherever it was played, and we turned it into a proper game.",
-      "es": "que se jugaba con diferentes reglas, y lo convertimos en un juego decente."
+      "es": "que se jugaba con diferentes reglas,y lo convertimos en un juego decente."
     }
   },
   {
@@ -1622,12 +1622,12 @@
   {
     "translation": {
       "en": "Well, shall we talk about something a little less contentious?",
-      "es": "¿Hablamos de algo un poco menos conflictivo?"
+      "es": "¿Hablamos de algoun poco menos conflictivo?"
     }
   },
   {
     "translation": {
-      "en": "What? Like the Russian- Turkish War?",
+      "en": "What? Like the Russian-Turkish War?",
       "es": "¿De qué? ¿De la guerra ruso-turca?"
     }
   },
@@ -1670,7 +1670,7 @@
   {
     "translation": {
       "en": "You've given these people something to believe in.",
-      "es": "Les has dado a estas personas algo en lo que creer."
+      "es": "Les has dado a estas personasalgo en lo que creer."
     }
   },
   {
@@ -1693,8 +1693,8 @@
   },
   {
     "translation": {
-      "en": "- Come on, it's just getting started. - Jimmy, here.",
-      "es": "- Vamos, recién empieza. - Espera, toma."
+      "en": "-Come on, it's just getting started. -Jimmy, here.",
+      "es": "- Vamos, recién empieza.- Espera, toma."
     }
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "translation": {
       "en": "Fergie, come on, pal. Look, what's one more beer?",
-      "es": "Fergie, vamos, amigo. ¿Qué es una cerveza más?"
+      "es": "Fergie, vamos, amigo.¿Qué es una cerveza más?"
     }
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "translation": {
       "en": "You're afraid new teams like Darwen will take over your game.",
-      "es": "Temes que equipos nuevos como Darwen se apoderen de tu juego."
+      "es": "Temes que equipos nuevoscomo Darwen se apoderen de tu juego."
     }
   },
   {
@@ -1778,13 +1778,13 @@
   {
     "translation": {
       "en": "Arthur, you're a decent man, but this game brings out the worst in you.",
-      "es": "Eres un hombre decente, pero este juego saca lo peor de ti."
+      "es": "Eres un hombre decente,pero este juego saca lo peor de ti."
     }
   },
   {
     "translation": {
       "en": "Makes you childish and defensive and petulant.",
-      "es": "Te hace infantil, irritante y te pone a la defensiva."
+      "es": "Te hace infantil, irritantey te pone a la defensiva."
     }
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "translation": {
       "en": "We got off on the wrong foot. Let me buy you another.",
-      "es": "Empezamos con el pie izquierdo. Déjame comprarte otra."
+      "es": "Empezamos con el pie izquierdo.Déjame comprarte otra."
     }
   },
   {
@@ -1940,19 +1940,19 @@
   {
     "translation": {
       "en": "So what did Walsh offer to get you all the way down from Glasgow?",
-      "es": "¿Qué te ofreció Walsh para venir desde Glasgow?"
+      "es": "¿Qué te ofreció Walshpara venir desde Glasgow?"
     }
   },
   {
     "translation": {
-      "en": "Oh, my head!",
+      "en": "[man] Oh, my head!",
       "es": "Mi cabeza."
     }
   },
   {
     "translation": {
       "en": "Feels good to have a man in the house again.",
-      "es": "Es bueno volver a tener un hombre en la casa."
+      "es": "Es bueno volver a tenerun hombre en la casa."
     }
   },
   {
@@ -1969,8 +1969,8 @@
   },
   {
     "translation": {
-      "en": "- Sorry, I don't mean to embarrass you. - No, you didn't.",
-      "es": "- Lo siento, no quiero avergonzarte. - No, no lo hiciste."
+      "en": "-Sorry, I don't mean to embarrass you. -No, you didn't.",
+      "es": "- Lo siento, no quiero avergonzarte.- No, no lo hiciste."
     }
   },
   {
@@ -1999,8 +1999,8 @@
   },
   {
     "translation": {
-      "en": "- Thanks for that. - Ah, pleasure.",
-      "es": "- Gracias por eso. - De nada."
+      "en": "-Thanks for that. -Ah, pleasure.",
+      "es": "- Gracias por eso.- De nada."
     }
   },
   {
@@ -2030,31 +2030,31 @@
   {
     "translation": {
       "en": "Our mills are struggling to turn a profit,",
-      "es": "Nuestras fábricas luchan por obtener ganancias,"
+      "es": "Nuestras fábricas luchanpor obtener ganancias,"
     }
   },
   {
     "translation": {
       "en": "and the banks are starting to call in their loans.",
-      "es": "y los bancos están reclamando sus préstamos."
+      "es": "y los bancos están reclamandosus préstamos."
     }
   },
   {
     "translation": {
       "en": "It is regrettable that the only course of action",
-      "es": "Es lamentable, pero el único camino a seguir"
+      "es": "Es lamentable,pero el único camino a seguir"
     }
   },
   {
     "translation": {
       "en": "I can see to protect our business is a wage cut.",
-      "es": "para proteger nuestro negocio sería un recorte salarial."
+      "es": "para proteger nuestro negociosería un recorte salarial."
     }
   },
   {
     "translation": {
       "en": "As chairman of the guild, I must insist that we present a united front on this matter.",
-      "es": "Como presidente del gremio, insisto en que presentemos un frente unido al respecto."
+      "es": "Como presidente del gremio, insisto en quepresentemos un frente unido al respecto."
     }
   },
   {
@@ -2065,14 +2065,14 @@
   },
   {
     "translation": {
-      "en": "I propose a five- percent wage cut for every worker.",
-      "es": "Propongo un recorte salarial del cinco por ciento para cada trabajador."
+      "en": "I propose a five-percent wage cut for every worker.",
+      "es": "Propongo un recorte salarialdel cinco por ciento para cada trabajador."
     }
   },
   {
     "translation": {
-      "en": "- All those in favor. - Aye!",
-      "es": "- ¿Todos están a favor? - ¡Sí!"
+      "en": "-All those in favor. -[all] Aye!",
+      "es": "- ¿Todos están a favor?- ¡Sí!"
     }
   },
   {
@@ -2090,7 +2090,7 @@
   {
     "translation": {
       "en": "Most of my workers have families.",
-      "es": "La mayoría de mis empleados tienen familias."
+      "es": "La mayoría de mis empleadostienen familias."
     }
   },
   {
@@ -2108,19 +2108,19 @@
   {
     "translation": {
       "en": "but the alternative is that the mills go out of business.",
-      "es": "pero la alternativa es cerrar las fábricas."
+      "es": "pero la alternativa escerrar las fábricas."
     }
   },
   {
     "translation": {
-      "en": "How will they get by then?",
+      "en": "[man] How will they get by then?",
       "es": "¿Cómo sobrevivirían así?"
     }
   },
   {
     "translation": {
       "en": "How many workers do you employ at your mill, Mr. Walsh?",
-      "es": "¿Cuántos empleados tiene en su fábrica, señor Walsh?"
+      "es": "¿Cuántos empleados tieneen su fábrica, señor Walsh?"
     }
   },
   {
@@ -2131,7 +2131,7 @@
   },
   {
     "translation": {
-      "en": "A hundred and seventy- seven.",
+      "en": "A hundred and seventy-seven.",
       "es": "Ciento setenta y siete."
     }
   },
@@ -2155,13 +2155,13 @@
   },
   {
     "translation": {
-      "en": "Two- and- a- half.",
+      "en": "Two-and-a-half.",
       "es": "Dos mil quinientos."
     }
   },
   {
     "translation": {
-      "en": "The motion is passed.",
+      "en": "[chairman] The motion is passed.",
       "es": "Se aprueba la moción."
     }
   },
@@ -2246,7 +2246,7 @@
   {
     "translation": {
       "en": "but I don't remember your being there often.",
-      "es": "pero no recuerdo que estuvieras ahí a menudo."
+      "es": "pero no recuerdo que estuvieras ahía menudo."
     }
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "translation": {
       "en": "You came and saw me sometimes when I was already in bed.",
-      "es": "Ibas a verme a veces cuando ya estaba en la cama."
+      "es": "Ibas a verme a vecescuando ya estaba en la cama."
     }
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "translation": {
       "en": "You really cannot expect me to feel much sympathy",
-      "es": "No puedes esperar que sienta mucha compasión"
+      "es": "No puedes esperarque sienta mucha compasión"
     }
   },
   {
@@ -2305,7 +2305,7 @@
   },
   {
     "translation": {
-      "en": "Don't over- complicate it.",
+      "en": "Don't over-complicate it.",
       "es": "No lo compliques demasiado."
     }
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "translation": {
-      "en": "Don't tell me you've quarreled again.",
+      "en": "[Alma] Don't tell me you've quarreled again.",
       "es": "No me digas que discutieron de nuevo."
     }
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "translation": {
-      "en": "Oh, you surprise me.",
+      "en": "Oh, you surprise me. [chuckles]",
       "es": "Me sorprendes."
     }
   },
@@ -2348,7 +2348,7 @@
   {
     "translation": {
       "en": "And you'll be happy to hear that I want to know my children better than he did.",
-      "es": "Te alegrará saber que quiero conocer a mis hijos mejor que él."
+      "es": "Te alegrará saber que quiero conocera mis hijos mejor que él."
     }
   },
   {
@@ -2359,37 +2359,37 @@
   },
   {
     "translation": {
-      "en": "I'm so looking forward to becoming a mother.",
+      "en": "[Alma] I'm so looking forward to becoming a mother.",
       "es": "Tengo muchas ganas de ser madre."
     }
   },
   {
     "translation": {
-      "en": "- They've cut wages by five percent. - What?",
-      "es": "- Recortaron un cinco por ciento. - ¿Qué?"
+      "en": "-They've cut wages by five percent. -[woman 1] What?",
+      "es": "- Recortaron un cinco por ciento.- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "- And what's next, ten? Fifteen? - How will I feed my family?",
-      "es": "¿Y qué sigue, diez? ¿15? - ¿Cómo alimentaré a mi familia? - Lo sé."
+      "en": "-And what's next, ten? Fifteen? -[woman 1] How will I feed my family?",
+      "es": "¿Y qué sigue, diez? ¿15? - ¿Cómo alimentaré a mi familia?- Lo sé."
     }
   },
   {
     "translation": {
-      "en": "- I know. - What?",
-      "es": "- ¿Cómo alimentaré a mi familia? - Lo sé."
+      "en": "-I know. -[woman 2] What?",
+      "es": "- ¿Cómo alimentaré a mi familia?- Lo sé."
     }
   },
   {
     "translation": {
-      "en": "- It's a wage cut, five percent. - They can't do that.",
-      "es": "- Un cinco por ciento menos de salario. - No pueden hacer eso."
+      "en": "-It's a wage cut, five percent. -[woman] They can't do that.",
+      "es": "- Un cinco por ciento menos de salario.- No pueden hacer eso."
     }
   },
   {
     "translation": {
-      "en": "- The mill will reopen tomorrow. -",
+      "en": "-The mill will reopen tomorrow. -[crowd clamors]",
       "es": "La fábrica volverá a abrir mañana."
     }
   },
@@ -2401,14 +2401,14 @@
   },
   {
     "translation": {
-      "en": "- What? Why? - You've already cut our wages.",
-      "es": "¿Qué? ¿Por qué? - Ya nos recortaste el salario. - No importa por qué. Lo arreglaré."
+      "en": "-What? Why? -[worker] You've already cut our wages.",
+      "es": "¿Qué? ¿Por qué? - Ya nos recortaste el salario.- No importa por qué. Lo arreglaré."
     }
   },
   {
     "translation": {
-      "en": "It don't matter why. I'll get it sorted.",
-      "es": "- Ya nos recortaste el salario. - No importa por qué. Lo arreglaré."
+      "en": "[Walsh] It don't matter why. I'll get it sorted.",
+      "es": "- Ya nos recortaste el salario.- No importa por qué. Lo arreglaré."
     }
   },
   {
@@ -2420,12 +2420,12 @@
   {
     "translation": {
       "en": "I can't pay you for days when the mill isn't working.",
-      "es": "No puedo pagar cuando la fábrica no funciona."
+      "es": "No puedo pagarcuando la fábrica no funciona."
     }
   },
   {
     "translation": {
-      "en": "- - I'm sorry.",
+      "en": "-[clamoring] -[Walsh] I'm sorry.",
       "es": "Lo siento."
     }
   },
@@ -2444,7 +2444,7 @@
   {
     "translation": {
       "en": "All members of Darwen Football Club, follow me.",
-      "es": "Todos los miembros del equipo de Darwen, síganme."
+      "es": "Todos los miembros del equipo de Darwen,síganme."
     }
   },
   {
@@ -2456,13 +2456,13 @@
   {
     "translation": {
       "en": "When I couldn't pay up immediately, they foreclosed on the mill.",
-      "es": "Como no pude pagar de inmediato, ejecutaron la hipoteca de la fábrica."
+      "es": "Como no pude pagar de inmediato,ejecutaron la hipoteca de la fábrica."
     }
   },
   {
     "translation": {
       "en": "Now, I can get the mill reopened tomorrow, but it'll take all the liquidity.",
-      "es": "Puedo reabrir la fábrica, pero se necesitará toda la liquidez."
+      "es": "Puedo reabrir la fábrica,pero se necesitará toda la liquidez."
     }
   },
   {
@@ -2474,13 +2474,13 @@
   {
     "translation": {
       "en": "The train tickets to take the team back down to London, I need that money.",
-      "es": "Los boletos de tren para llevar al equipo a Londres. Necesito ese dinero."
+      "es": "Los boletos de tren para llevaral equipo a Londres. Necesito ese dinero."
     }
   },
   {
     "translation": {
       "en": "I need it to get the mill reopened and get the men back to work.",
-      "es": "Lo necesito para reabrir y poner a los hombres a trabajar."
+      "es": "Lo necesito para reabriry poner a los hombres a trabajar."
     }
   },
   {
@@ -2491,32 +2491,32 @@
   },
   {
     "translation": {
-      "en": "How much did you waste getting this pair in?  What?",
-      "es": "- ¿Cuánto desperdiciaste en estos dos? - ¿Qué?"
+      "en": "How much did you waste getting this pair in? [man] What?",
+      "es": "- ¿Cuánto desperdiciaste en estos dos?- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "He's paying 'em to play.",
+      "en": "[Tommy] He's paying 'em to play.",
       "es": "Les paga para jugar."
     }
   },
   {
     "translation": {
-      "en": "- He paid 'em to leave Partick. - Wait a minute.",
-      "es": "- Para que dejaran Partick. - Espera."
+      "en": "-He paid 'em to leave Partick. -Wait a minute.",
+      "es": "- Para que dejaran Partick.- Espera."
     }
   },
   {
     "translation": {
-      "en": "- I saw the money you gave Jimmy. - That's none of your business.",
-      "es": "Le diste dinero a Jimmy anoche, te vi. - No es asunto tuyo. - Y ahora estamos fuera de la Copa."
+      "en": "-I saw the money you gave Jimmy. -[Walsh] That's none of your business.",
+      "es": "Le diste dinero a Jimmy anoche, te vi. - No es asunto tuyo.- Y ahora estamos fuera de la Copa."
     }
   },
   {
     "translation": {
       "en": "Now we're out of the Cup 'cause you've given away our fares.",
-      "es": "- No es asunto tuyo. - Y ahora estamos fuera de la Copa."
+      "es": "- No es asunto tuyo.- Y ahora estamos fuera de la Copa."
     }
   },
   {
@@ -2527,38 +2527,38 @@
   },
   {
     "translation": {
-      "en": "- Barely a quarter of what's needed. - Maybe not.",
-      "es": "- Es apenas un cuarto de lo necesario. - Tal vez no."
+      "en": "-Barely a quarter of what's needed. -Maybe not.",
+      "es": "- Es apenas un cuarto de lo necesario.- Tal vez no."
     }
   },
   {
     "translation": {
       "en": "But whilst our wages were being cut, you were paying them to play football.",
-      "es": "Mientras nos recortaban los salarios, les pagabas para jugar al fútbol."
+      "es": "Mientras nos recortaban los salarios,les pagabas para jugar al fútbol."
     }
   },
   {
     "translation": {
       "en": "And what would've happened if we were found out?",
-      "es": "¿Qué habría pasado si nos hubieran descubierto?"
+      "es": "¿Qué habría pasadosi nos hubieran descubierto?"
     }
   },
   {
     "translation": {
       "en": "We'd be banned from the Cup for God knows how many years!",
-      "es": "¡Nos prohibirían la Copa por Dios sabe cuántos años!"
+      "es": "¡Nos prohibirían la Copapor Dios sabe cuántos años!"
     }
   },
   {
     "translation": {
-      "en": "- Enough. - You cheated.",
-      "es": "- Suficiente. - Hiciste trampa."
+      "en": "-[Walsh] Enough. -You cheated.",
+      "es": "- Suficiente.- Hiciste trampa."
     }
   },
   {
     "translation": {
       "en": "And you made the rest of us cheat without even knowing it.",
-      "es": "¡Y nos hiciste hacer trampa sin siquiera saberlo!"
+      "es": "¡Y nos hiciste hacer trampasin siquiera saberlo!"
     }
   },
   {
@@ -2636,7 +2636,7 @@
   {
     "translation": {
       "en": "I seen it last night when you realized how much this meant to these people.",
-      "es": "Anoche viste lo mucho que esto significaba para esta gente."
+      "es": "Anoche viste lo mucho que esto significabapara esta gente."
     }
   },
   {
@@ -2654,13 +2654,13 @@
   {
     "translation": {
       "en": "But we can't give up now! It's the FA Cup!",
-      "es": "- ¡No podemos entregar la Copa de la FA! - Se acabó."
+      "es": "- ¡No podemos entregar la Copa de la FA!- Se acabó."
     }
   },
   {
     "translation": {
       "en": "It is finished, Jimmy.",
-      "es": "- ¡No podemos entregar la Copa de la FA! - Se acabó. Jimmy."
+      "es": "- ¡No podemos entregar la Copa de la FA!- Se acabó. Jimmy."
     }
   },
   {
@@ -2672,7 +2672,7 @@
   {
     "translation": {
       "en": "And I can play football for nothing back home with my family.",
-      "es": "Puedo jugar al fútbol gratis en casa con mi familia."
+      "es": "Puedo jugar al fútbol gratisen casa con mi familia."
     }
   },
   {
@@ -2720,7 +2720,7 @@
   {
     "translation": {
       "en": "He needs me. Stay till tomorrow at least.",
-      "es": "- Me necesita. - Quédate al menos hasta mañana."
+      "es": "- Me necesita.- Quédate al menos hasta mañana."
     }
   },
   {
@@ -2732,7 +2732,7 @@
   {
     "translation": {
       "en": "Are you coming or not? Give me a minute.",
-      "es": "- ¿Vienes o no? - Dame un minuto."
+      "es": "- ¿Vienes o no?- Dame un minuto."
     }
   },
   {
@@ -2767,8 +2767,8 @@
   },
   {
     "translation": {
-      "en": "- You've got to come quickly. - What is it?",
-      "es": "- Tienes que venir rápido. - ¿Qué pasa?"
+      "en": "-[panting] You've got to come quickly. -What is it?",
+      "es": "- Tienes que venir rápido.- ¿Qué pasa?"
     }
   },
   {
@@ -2797,14 +2797,14 @@
   },
   {
     "translation": {
-      "en": "I don't understand.  Word got out Darwen would be forfeiting.",
-      "es": "- No entiendo. - Se supo que Darwen renunciaría."
+      "en": "[Fergus] I don't understand. [Doris] Word got out Darwen would be forfeiting.",
+      "es": "- No entiendo.- Se supo que Darwen renunciaría."
     }
   },
   {
     "translation": {
       "en": "The town won't have it. Tom Hindle came up with the idea.",
-      "es": "El pueblo no lo permitirá. A Tom Hindle se le ocurrió la idea."
+      "es": "El pueblo no lo permitirá.A Tom Hindle se le ocurrió la idea."
     }
   },
   {
@@ -2816,7 +2816,7 @@
   {
     "translation": {
       "en": "They can either pay weekly or all at once.",
-      "es": "Pueden pagar semanalmente o todo de una vez."
+      "es": "Pueden pagar semanalmenteo todo de una vez."
     }
   },
   {
@@ -2827,26 +2827,26 @@
   },
   {
     "translation": {
-      "en": "- Don't those people need that money? - Maybe, but they need football too.",
-      "es": "- ¿Esa gente no necesita ese dinero? - Tal vez. Pero también necesitan fútbol."
+      "en": "-Don't those people need that money? -Maybe, but they need football too.",
+      "es": "- ¿Esa gente no necesita ese dinero?- Tal vez. Pero también necesitan fútbol."
     }
   },
   {
     "translation": {
-      "en": "- We're proud of you, lads. - You're what Darwen's made of.",
-      "es": "- Estamos orgullosos de ustedes. - Representan a Darwen."
+      "en": "-[woman] We're proud of you, lads. -[man] You're what Darwen's made of.",
+      "es": "- Estamos orgullosos de ustedes.- Representan a Darwen."
     }
   },
   {
     "translation": {
-      "en": "Here you go.",
+      "en": "[woman] Here you go.",
       "es": "Aquí tienes."
     }
   },
   {
     "translation": {
       "en": "You're short three players. The match is due to start in ten minutes.",
-      "es": "Te faltan tres jugadores. El partido comenzará en diez minutos."
+      "es": "Te faltan tres jugadores.El partido comenzará en diez minutos."
     }
   },
   {
@@ -2858,7 +2858,7 @@
   {
     "translation": {
       "en": "You can use the dressing room if you'd like to be more comfortable.",
-      "es": "Pueden ir al vestuario para estar más cómodos."
+      "es": "Pueden ir al vestuariopara estar más cómodos."
     }
   },
   {
@@ -2875,14 +2875,14 @@
   },
   {
     "translation": {
-      "en": "Or you play with what you've got.",
+      "en": "[Walsh] Or you play with what you've got.",
       "es": "O juegan con lo que tienen."
     }
   },
   {
     "translation": {
       "en": "You can't expect us to play when there's only eight of us.",
-      "es": "No pueden pretender que juguemos con ocho."
+      "es": "No pueden pretender que juguemoscon ocho."
     }
   },
   {
@@ -2893,8 +2893,8 @@
   },
   {
     "translation": {
-      "en": "Rules are made to be adhered to.",
-      "es": "Las reglas están hechas para cumplirlas."
+      "en": "\"Rules are made to be adhered to.\"",
+      "es": "\"Las reglas están hechas para cumplirlas\"."
     }
   },
   {
@@ -2936,12 +2936,12 @@
   {
     "translation": {
       "en": "Then everyone will see what good sports you gentlemen are.",
-      "es": "Entonces todos verán qué buenos deportistas son."
+      "es": "Entonces todos veránqué buenos deportistas son."
     }
   },
   {
     "translation": {
-      "en": "Who does he think he is?",
+      "en": "[scoffs] Who does he think he is?",
       "es": "¿Quién se cree que es?"
     }
   },
@@ -2990,7 +2990,7 @@
   {
     "translation": {
       "en": "Whatever he's paying you, make sure you earn it.",
-      "es": "Lo que sea que te pague, asegúrate de ganártelo."
+      "es": "Lo que sea que te pague,asegúrate de ganártelo."
     }
   },
   {
@@ -3008,7 +3008,7 @@
   {
     "translation": {
       "en": "Where the hell have you been? You almost cost us the match.",
-      "es": "¿Dónde estaban? Casi nos cuestan el partido."
+      "es": "¿Dónde estaban?Casi nos cuestan el partido."
     }
   },
   {
@@ -3020,19 +3020,19 @@
   {
     "translation": {
       "en": "Now, we'll win this game, if we stop them playing their way.",
-      "es": "Ganaremos este juego si no los dejamos jugar a su manera."
+      "es": "Ganaremos este juegosi no los dejamos jugar a su manera."
     }
   },
   {
     "translation": {
       "en": "Alfred, stay on Love. Don't give him any time on the ball.",
-      "es": "Alfred, marca a Love. No lo dejes tocar la pelota."
+      "es": "Alfred, marca a Love.No lo dejes tocar la pelota."
     }
   },
   {
     "translation": {
-      "en": "- What about Suter? He's the real problem. - I'll stay on Suter.",
-      "es": "- ¿Qué hay de Suter? Él es el problema. - Yo lo marco."
+      "en": "-What about Suter? He's the real problem. -[Arthur] I'll stay on Suter.",
+      "es": "- ¿Qué hay de Suter? Él es el problema.- Yo lo marco."
     }
   },
   {
@@ -3043,37 +3043,37 @@
   },
   {
     "translation": {
-      "en": "- All right? - All right.",
-      "es": "- ¿De acuerdo? - Bien."
+      "en": "-All right? -[Lyttelton] All right.",
+      "es": "- ¿De acuerdo?- Bien."
     }
   },
   {
     "translation": {
-      "en": "- Time. - All right, gents.",
-      "es": "- Tiempo. - Muy bien, caballeros."
+      "en": "-[referee] Time. -[Lyttelton] All right, gents.",
+      "es": "- Tiempo.- Muy bien, caballeros."
     }
   },
   {
     "translation": {
-      "en": "Gentlemen.",
+      "en": "[referee] Gentlemen.",
       "es": "Caballeros."
     }
   },
   {
     "translation": {
-      "en": "Jimmy!",
+      "en": "[Fergus] Jimmy!",
       "es": "¡Jimmy!"
     }
   },
   {
     "translation": {
-      "en": "Cross it, Jimmy!",
+      "en": "[Fergus] Cross it, Jimmy!",
       "es": "¡Crúzala, Jimmy!"
     }
   },
   {
     "translation": {
-      "en": "Did you see what Alfred did?",
+      "en": "[Alma] Did you see what Alfred did?",
       "es": "¿Viste lo que hizo Alfred?"
     }
   },
@@ -3086,43 +3086,43 @@
   {
     "translation": {
       "en": "Maybe not, but I'm afraid there'll be a great deal more of it.",
-      "es": "Quizá no, pero me temo que habrá más de eso."
+      "es": "Quizá no, pero me temoque habrá más de eso."
     }
   },
   {
     "translation": {
-      "en": "Foul! Referee!",
+      "en": "[Walsh] Foul! Referee!",
       "es": "¡Falta! ¡Árbitro!"
     }
   },
   {
     "translation": {
-      "en": "- Forward! - As a pack!",
-      "es": "- ¡Adelante! - ¡Como manada!"
+      "en": "-Forward! -[Arthur] As a pack!",
+      "es": "- ¡Adelante!- ¡Como manada!"
     }
   },
   {
     "translation": {
-      "en": "- Get off me! -",
+      "en": "-Get off me! -[grunts]",
       "es": "¡Suéltame!"
     }
   },
   {
     "translation": {
-      "en": "Come on, Suter!",
+      "en": "[Walsh] Come on, Suter!",
       "es": "¡Vamos, Suter!"
     }
   },
   {
     "translation": {
-      "en": "Together! Together!",
+      "en": "[Fergus] Together! Together!",
       "es": "¡Juntos!"
     }
   },
   {
     "translation": {
       "en": "I thought you youngsters were meant to be quicker than us older folk.",
-      "es": "Creía que los jóvenes eran más rápidos que nosotros."
+      "es": "Creía que los jóvenes eranmás rápidos que nosotros."
     }
   },
   {
@@ -3133,7 +3133,7 @@
   },
   {
     "translation": {
-      "en": "Full- time. Full- time.",
+      "en": "[referee] Full-time. Full-time.",
       "es": "Tiempo cumplido."
     }
   },
@@ -3188,7 +3188,7 @@
   {
     "translation": {
       "en": "Tommy Marshall thinks I'm a waste of money.",
-      "es": "Tommy Marshall cree que soy una pérdida de dinero."
+      "es": "Tommy Marshall creeque soy una pérdida de dinero."
     }
   },
   {
@@ -3200,13 +3200,13 @@
   {
     "translation": {
       "en": "You're the only chance we've got of taking the Cup.",
-      "es": "Eres la única oportunidad que tenemos de ganar la Copa."
+      "es": "Eres la única oportunidad que tenemosde ganar la Copa."
     }
   },
   {
     "translation": {
       "en": "Besides, people here, they love to watch you play.",
-      "es": "Además, a la gente de aquí le encanta verte jugar."
+      "es": "Además, a la gente de aquíle encanta verte jugar."
     }
   },
   {
@@ -3248,7 +3248,7 @@
   {
     "translation": {
       "en": "Can I just say, well done us.",
-      "es": "Permítanme decir: Felicitaciones para nosotros."
+      "es": "Permítanme decir:\"Felicitaciones para nosotros\"."
     }
   },
   {
@@ -3265,31 +3265,31 @@
   },
   {
     "translation": {
-      "en": "- Come on, Arthur, speech! - Speech!",
+      "en": "-Come on, Arthur, speech! -[man] Speech!",
       "es": "¡Vamos, Arthur, habla!"
     }
   },
   {
     "translation": {
       "en": "Come on.",
-      "es": "- ¡Habla! - Vamos."
+      "es": "- ¡Habla!- Vamos."
     }
   },
   {
     "translation": {
       "en": "I won't pretend I'm not jolly pleased the way things have turned out.",
-      "es": "No voy a fingir que no estoy contento por cómo han sido las cosas."
+      "es": "No voy a fingir que no estoy contentopor cómo han sido las cosas."
     }
   },
   {
     "translation": {
-      "en": "To have beaten Darwen,",
+      "en": "[Arthur] To have beaten Darwen,",
       "es": "Haber vencido a Darwen"
     }
   },
   {
     "translation": {
-      "en": "and to be once again in the semi- finals...",
+      "en": "and to be once again in the semi-finals...",
       "es": "y volver a estar en las semifinales..."
     }
   },
@@ -3302,13 +3302,13 @@
   {
     "translation": {
       "en": "I'm so sorry, I... I must leave you for a moment.",
-      "es": "Lo siento mucho, debo retirarme un momento."
+      "es": "Lo siento mucho,debo retirarme un momento."
     }
   },
   {
     "translation": {
-      "en": "- Shall I-- - No, no, no. Please, sit.",
-      "es": "- ¿Quieres...? - No. Por favor, siéntense."
+      "en": "-Shall I-- -[Alma] No, no, no. Please, sit.",
+      "es": "- ¿Quieres...?- No. Por favor, siéntense."
     }
   },
   {
@@ -3355,7 +3355,7 @@
   },
   {
     "translation": {
-      "en": "They have, at last.",
+      "en": "They have, at last. [chuckles]",
       "es": "Sí. Por fin."
     }
   },
@@ -3379,7 +3379,7 @@
   },
   {
     "translation": {
-      "en": "No, not much better, to be honest.",
+      "en": "[sighs] No, not much better, to be honest.",
       "es": "No mucho, para ser honesta."
     }
   },
@@ -3391,14 +3391,14 @@
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "No! [whimpers]",
       "es": "¡No!"
     }
   },
   {
     "translation": {
-      "en": "- Can anybody hear me?! - No!",
-      "es": "- ¿Alguien me escucha? - ¡No!"
+      "en": "-[Arthur] Can anybody hear me?! -No!",
+      "es": "- ¿Alguien me escucha?- ¡No!"
     }
   },
   {
@@ -3409,7 +3409,7 @@
   },
   {
     "translation": {
-      "en": "Now, we might've lost...",
+      "en": "[Walsh] Now, we might've lost...",
       "es": "Puede que hayamos perdido..."
     }
   },
@@ -3422,7 +3422,7 @@
   {
     "translation": {
       "en": "Here's the man of the hour, Fergus Suter!",
-      "es": "¡Aquí está el hombre del momento, Fergus Suter!"
+      "es": "¡Aquí está el hombre del momento,Fergus Suter!"
     }
   }
 ]

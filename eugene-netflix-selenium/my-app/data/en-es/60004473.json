@@ -19,7 +19,7 @@
   },
   {
     "translation": {
-      "en": "- YOU READY, AMIGO? -  READY!",
+      "en": "- YOU READY, AMIGO? - [ Both ] READY!",
       "es": "¿Listos? - ¡Listo! - ¡Listo!"
     }
   },
@@ -31,7 +31,7 @@
   },
   {
     "translation": {
-      "en": "UH- UH, THIS IS GREAT! SCARED?",
+      "en": "UH-UH, THIS IS GREAT! SCARED?",
       "es": "- ¿Tienes miedo? - ¡No, es fantástico!"
     }
   },
@@ -49,13 +49,13 @@
   },
   {
     "translation": {
-      "en": "WHAT'S HAPPENING?  HOLD ON!",
+      "en": "[ Boy ] WHAT'S HAPPENING? [ Man ] HOLD ON!",
       "es": "- ¡Sujétate! - ¿Qué ocurre?"
     }
   },
   {
     "translation": {
-      "en": "MAKE IT STOP!",
+      "en": "[ Groaning ] MAKE IT STOP!",
       "es": "¡Que se detenga!"
     }
   },
@@ -85,7 +85,7 @@
   },
   {
     "translation": {
-      "en": "- MOVE YOUR HANDS. -  COME ON!",
+      "en": "- MOVE YOUR HANDS. - [ Crying ] COME ON!",
       "es": "Mueve las manos. - ¡Anda! - ¡Rápido!"
     }
   },
@@ -187,7 +187,7 @@
   },
   {
     "translation": {
-      "en": "IT'S SAD.",
+      "en": "[ Laughing ] IT'S SAD.",
       "es": "Qué triste."
     }
   },
@@ -217,8 +217,8 @@
   },
   {
     "translation": {
-      "en": "UH- OH. CALL OF THE WILD ONE.",
-      "es": "- El llamado de la salvaje. - Yo me encargaré."
+      "en": "[ Baby Crying ] UH-OH. CALL OF THE WILD ONE.",
+      "es": "- El llamado de \"la salvaje\". - Yo me encargaré."
     }
   },
   {
@@ -313,7 +313,7 @@
   },
   {
     "translation": {
-      "en": "-  - ELLIE, THEY WERE SMART.",
+      "en": "- [ Sighs ] - ELLIE, THEY WERE SMART.",
       "es": "Eran listos."
     }
   },
@@ -373,7 +373,7 @@
   },
   {
     "translation": {
-      "en": "THROUGH THE PAINSTAKING STUDY OF THE ANTERIOR CHAMBER...",
+      "en": "[ Alan's Voice ] THROUGH THE PAINSTAKING STUDY OF THE ANTERIOR CHAMBER...",
       "es": "A través del estudio de la cámara anterior... en múltiples especímenes, podemos determinar la correlación..."
     }
   },
@@ -583,25 +583,25 @@
   },
   {
     "translation": {
-      "en": "IRON HORN 20- MILLIMETER, GAS- OPERATED, SEMIAUTOMATIC,",
+      "en": "IRON HORN 20-MILLIMETER, GAS-OPERATED, SEMIAUTOMATIC,",
       "es": "Cuerno de hierro de 20 mm, de gas, semiautomático..."
     }
   },
   {
     "translation": {
-      "en": "TEN- SHOT MAGAZINE, ROTATING BOLT,",
+      "en": "TEN-SHOT MAGAZINE, ROTATING BOLT,",
       "es": "cargador de diez tiros, cerrojo giratorio..."
     }
   },
   {
     "translation": {
-      "en": "RECOIL- REDUCING MUZZLE BREAK, HIGH EXPLOSIVE INCENDIARY--",
+      "en": "RECOIL-REDUCING MUZZLE BREAK, HIGH EXPLOSIVE INCENDIARY--",
       "es": "boca reductora de culatazos, incendiario y explosivo--"
     }
   },
   {
     "translation": {
-      "en": "UDESKY.",
+      "en": "UDESKY. [ Ringing Continues ]",
       "es": "- Habla Udesky. - Sr. Udesky, habla Paul Kirby."
     }
   },
@@ -643,7 +643,7 @@
   },
   {
     "translation": {
-      "en": "ARE YOU ALL RIGHT?",
+      "en": "[ Paul ] ARE YOU ALL RIGHT?",
       "es": "¿Se encuentra bien?"
     }
   },
@@ -781,7 +781,7 @@
   },
   {
     "translation": {
-      "en": "IT'S DONE.",
+      "en": "IT'S DONE. [ Beeps ]",
       "es": "PROTOTIPO COMPLETO Está listo."
     }
   },
@@ -805,7 +805,7 @@
   },
   {
     "translation": {
-      "en": "SAD TO SAY, IT'S JUST A LITTLE BIT LATE.",
+      "en": "SAD TO SAY, IT'S JUST A LITTLE BIT LATE. [ Footsteps Approaching ]",
       "es": "Por desgracia, es un poco tarde."
     }
   },
@@ -991,7 +991,7 @@
   },
   {
     "translation": {
-      "en": "HOW LOW? I'M NO AVIATION EXPERT,",
+      "en": "[ Billy ] HOW LOW? I'M NO AVIATION EXPERT,",
       "es": "- ¿Cuán bajo? - No soy experto en aviación."
     }
   },
@@ -1039,7 +1039,7 @@
   },
   {
     "translation": {
-      "en": "MRS. KIRBY, I- I-- IT WOULD MAKE ALL THE DIFFERENCE.",
+      "en": "MRS. KIRBY, I-I-- IT WOULD MAKE ALL THE DIFFERENCE.",
       "es": "- Sería maravilloso. - Sra. Kirby, yo--"
     }
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "translation": {
-      "en": "UNIDENTIFIED AIRCRAFT APPROACHING ISLA SORNA,",
+      "en": "[ Man Over Headphones ] UNIDENTIFIED AIRCRAFT APPROACHING ISLA SORNA,",
       "es": "Nave no identificada cerca de la Isla Sorna..."
     }
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "translation": {
-      "en": "COOPER, IF YOU SEE ANYTHING, YELL UP.",
+      "en": "[ Udesky ] COOPER, IF YOU SEE ANYTHING, YELL UP.",
       "es": "Cooper, si ves algo, grita."
     }
   },
@@ -1291,19 +1291,19 @@
   },
   {
     "translation": {
-      "en": "- YOU CANNOT LAND ON THIS ISLAND. - IT'S GONNA BE FINE. YOU JUST DON'T UNDERSTAND.",
+      "en": "-YOU CANNOT LAND ON THIS ISLAND. -IT'S GONNA BE FINE. YOU JUST DON'T UNDERSTAND.",
       "es": "- ¡No pueden aterrizar en esta isla! - No pasará nada."
     }
   },
   {
     "translation": {
-      "en": "- ARE YOU CRAZY? -  SIT DOWN, PLEASE.",
+      "en": "- ARE YOU CRAZY? - [ Paul ] SIT DOWN, PLEASE.",
       "es": "- ¿Están locos? - Siéntese, por favor."
     }
   },
   {
     "translation": {
-      "en": "DR. GRANT, WILL YOU PLEASE SIT DOWN?",
+      "en": "[ Thump ] DR. GRANT, WILL YOU PLEASE SIT DOWN?",
       "es": "¿Podría sentarse, por favor?"
     }
   },
@@ -1315,7 +1315,7 @@
   },
   {
     "translation": {
-      "en": "ERIC? ERIC?",
+      "en": "[ Amanda ] ERIC? ERIC?",
       "es": "¿Eric? ¿Ben?"
     }
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "translation": {
-      "en": "OH, DR. GRANT, ARE YOU ALL RIGHT?",
+      "en": "[ Paul ] OH, DR. GRANT, ARE YOU ALL RIGHT?",
       "es": "¿Se encuentra bien? Lamento haber tenido que--"
     }
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "ERIC! WE HAVE TO GET BACK ON THAT PLANE.",
+      "en": "[ Amanda ] ERIC! WE HAVE TO GET BACK ON THAT PLANE.",
       "es": "Debemos subir al avión."
     }
   },
@@ -1387,7 +1387,7 @@
   },
   {
     "translation": {
-      "en": "-  - WHAT WAS THAT?",
+      "en": "- [ Dinosaur Roaring ] - WHAT WAS THAT?",
       "es": "¿Qué fue eso?"
     }
   },
@@ -1399,7 +1399,7 @@
   },
   {
     "translation": {
-      "en": "I DON'T THINK SO. IT SOUNDS BIGGER.",
+      "en": "[ Gunshots ] I DON'T THINK SO. IT SOUNDS BIGGER.",
       "es": "No lo creo. Suena como un animal más grande."
     }
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "translation": {
-      "en": "WHAT'S GOING ON?",
+      "en": "[ Shouting, Indistinct ] [ Paul ] WHAT'S GOING ON?",
       "es": "¿Qué ocurre? ¡Suban al avión!"
     }
   },
@@ -1429,7 +1429,7 @@
   },
   {
     "translation": {
-      "en": "-  - GET IN THE PLANE! HURRY!",
+      "en": "- [ Roaring, Gunshots ] - GET IN THE PLANE! HURRY!",
       "es": "¡Suban!"
     }
   },
@@ -1471,19 +1471,19 @@
   },
   {
     "translation": {
-      "en": "-  - YOU KNOW I CAN'T STOP THIS PLANE.",
+      "en": "- [ Sobs ] - YOU KNOW I CAN'T STOP THIS PLANE.",
       "es": "Sabes que no puedo detener el avión."
     }
   },
   {
     "translation": {
-      "en": "-  - OH, MY GOD!",
+      "en": "- [ Screams ] - OH, MY GOD!",
       "es": "¡Ay, Dios mío!"
     }
   },
   {
     "translation": {
-      "en": "-  - WE'RE GOING DOWN! FUEL CUT OFF!",
+      "en": "- [ Udesky ] - WE'RE GOING DOWN! FUEL CUT OFF!",
       "es": "- ¡Corte de combustible! - ¡Caemos!"
     }
   },
@@ -1495,7 +1495,7 @@
   },
   {
     "translation": {
-      "en": "WE'RE OKAY UP HERE.",
+      "en": "[ Udesky ] WE'RE OKAY UP HERE.",
       "es": "Nosotros estamos bien."
     }
   },
@@ -1525,19 +1525,19 @@
   },
   {
     "translation": {
-      "en": "ALL CIRCUITS ARE BUSY. DAMN IT! OH, MAN.",
+      "en": "[ Recording ] ALL CIRCUITS ARE BUSY. DAMN IT! OH, MAN.",
       "es": "- Todos los circuitos están ocupados. - ¡Maldita sea!"
     }
   },
   {
     "translation": {
-      "en": "WHAT WAS THAT?",
+      "en": "WHAT WAS THAT? [ Gasps ]",
       "es": "¿Qué fue eso?"
     }
   },
   {
     "translation": {
-      "en": "-  - KEEP STILL! KEEP STILL! WHAT?",
+      "en": "- [ Screaming ] - KEEP STILL! KEEP STILL! WHAT?",
       "es": "¡Tranquila! ¡Tranquila! ¿Qué sucede?"
     }
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "translation": {
-      "en": "IT'S OKAY, IT'S DEAD.",
+      "en": "[ Flies Buzzing ] IT'S OKAY, IT'S DEAD.",
       "es": "Descuiden, está muerto."
     }
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "translation": {
-      "en": "NO, NO, NO. PLEASE, PLEASE DON'T. STOP, P- PLEASE.",
+      "en": "NO, NO, NO. PLEASE, PLEASE DON'T. STOP, P-PLEASE.",
       "es": "No, por favor. Alto."
     }
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "translation": {
-      "en": "THE COSTA RICAN GOVERNMENT SAID THIS IS A NO- FLY ZONE.",
+      "en": "THE COSTA RICAN GOVERNMENT SAID THIS IS A NO-FLY ZONE.",
       "es": "El gobierno no permite que se vuele sobre la isla."
     }
   },
@@ -1633,7 +1633,7 @@
   },
   {
     "translation": {
-      "en": "YOU LET A 12- YEAR- OLD GO PARASAILING ALONE? NO!",
+      "en": "YOU LET A 12-YEAR-OLD GO PARASAILING ALONE? NO!",
       "es": "¿Un niño de 12 años subió sólo en paracaídas?"
     }
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "translation": {
-      "en": "- SO WHY ME? - HE SAID WE NEEDED SOMEONE WHO'D BEEN ON THE ISLAND BEFORE.",
+      "en": "-SO WHY ME? -HE SAID WE NEEDED SOMEONE WHO'D BEEN ON THE ISLAND BEFORE.",
       "es": "¿Y por qué yo? Dijo que necesitábamos alguien que conociera la isla."
     }
   },
@@ -1675,7 +1675,7 @@
   },
   {
     "translation": {
-      "en": "THAT WAS ISLA NUBLAR. THIS IS ISLA SORNA, SITE B.",
+      "en": "THAT WAS ISLA NUBLAR. THIS IS ISLA SORNA, SITE \"B.\"",
       "es": "Ésa era la Isla Nublar. Ésta es la Isla Sorna, emplazamiento B."
     }
   },
@@ -1795,7 +1795,7 @@
   },
   {
     "translation": {
-      "en": "MM- HMM.",
+      "en": "MM-HMM.",
       "es": "Es un súper predador."
     }
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "translation": {
-      "en": "I WILL PAY YOU, NO MATTER WHAT. THIS IS GOOD. THIS IS GOOD.",
+      "en": "[ Paul ] I WILL PAY YOU, NO MATTER WHAT. THIS IS GOOD. THIS IS GOOD.",
       "es": "- Esto es grandioso. - Les pagaré a toda costa."
     }
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "translation": {
-      "en": "DR. GRANT SAYS-- DR. GRANT SAYS THAT'S A BAD IDEA.",
+      "en": "\"DR. GRANT SAYS--\" DR. GRANT SAYS THAT'S A BAD IDEA.",
       "es": "El Dr. Grant dice que ésa es una idea mala."
     }
   },
@@ -2000,13 +2000,13 @@
   {
     "translation": {
       "en": "OKAY, FINE. GO AHEAD AND SCREAM.",
-      "es": "- Busca la costa. - Bien. Grita. Y cuando ese tricicloplot ataque, no acudas a mí llorando."
+      "es": "- Busca la costa. - Bien. Grita. Y cuando ese \"tricicloplot\" ataque, no acudas a mí llorando."
     }
   },
   {
     "translation": {
       "en": "THEN WHEN THAT TRICYCLOPLOTS ATTACKS YOU, DON'T COME CRYING TO ME.",
-      "es": "Y cuando ese tricicloplot ataque, no acudas a mí llorando."
+      "es": "Y cuando ese \"tricicloplot\" ataque, no acudas a mí llorando."
     }
   },
   {
@@ -2053,7 +2053,7 @@
   },
   {
     "translation": {
-      "en": "HEY, GUYS.",
+      "en": "[ Udesky ] HEY, GUYS.",
       "es": "Oigan, señores."
     }
   },
@@ -2077,25 +2077,25 @@
   },
   {
     "translation": {
-      "en": "WHERE WERE YOU ON THAT ONE, MA?",
+      "en": "[ Eric Over Video Camera ] WHERE WERE YOU ON THAT ONE, MA?",
       "es": "¿Por qué no lo atrapaste, mamá?"
     }
   },
   {
     "translation": {
-      "en": "OKAY, DIVE, DIVE. OKAY, DIVING.",
+      "en": "[ Ben Over Video Camera ] OKAY, DIVE, DIVE. OKAY, DIVING.",
       "es": "- Bien, lánzate. - Bueno, me lanzaré."
     }
   },
   {
     "translation": {
-      "en": "YOU WERE SUPPOSED TO CATCH IT. COME ON, MA!",
+      "en": "[ Amanda Over Video Camera ] YOU WERE SUPPOSED TO CATCH IT. COME ON, MA!",
       "es": "Vamos, mamá. Se suponía que debías atraparlo."
     }
   },
   {
     "translation": {
-      "en": "I SHOT THIS THE MORNING THEY DISAPPEARED.",
+      "en": "[ Video Camera Continues ] I SHOT THIS THE MORNING THEY DISAPPEARED.",
       "es": "Vamos, mamá. Se suponía que debías atraparlo. Filmé esto la mañana que desaparecieron."
     }
   },
@@ -2107,19 +2107,19 @@
   },
   {
     "translation": {
-      "en": "NO, NOT YET.  SEE ANYTHING YET?",
+      "en": "[ Ben ] NO, NOT YET. [ Eric ] SEE ANYTHING YET?",
       "es": "- ¿Ya puedes ver algo? - No, aún no."
     }
   },
   {
     "translation": {
-      "en": "WHAT WAS THAT?",
+      "en": "[ Eric ] WHAT WAS THAT?",
       "es": "¿Qué fue eso?"
     }
   },
   {
     "translation": {
-      "en": "UNCLIP US. THERE'S A BIG CLIP. I CAN'T SEE.",
+      "en": "[ Ben ] UNCLIP US. THERE'S A BIG CLIP. I CAN'T SEE.",
       "es": "¿Qué fue eso? - Desengánchanos. Ahí hay un gancho. - No puedo ver."
     }
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "translation": {
-      "en": "THE CAMERA'S STILL ON.",
+      "en": "THE CAMERA'S STILL ON. [ Pushes Button ]",
       "es": "La cámara sigue encendida."
     }
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "translation": {
-      "en": "WAIT!",
+      "en": "WAIT! [ Screaming ]",
       "es": "¡Amanda! ¡Espera!"
     }
   },
@@ -2257,13 +2257,13 @@
   },
   {
     "translation": {
-      "en": "DR. GRANT! YOU SHOULD COME LOOK AT THIS!",
+      "en": "[ Paul ] DR. GRANT! YOU SHOULD COME LOOK AT THIS!",
       "es": "¡Debería venir a ver esto!"
     }
   },
   {
     "translation": {
-      "en": "RAPTOR!",
+      "en": "[ Quietly ] RAPTOR!",
       "es": "¡Velocirraptor!"
     }
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "translation": {
-      "en": "I BET YOU ERIC'S IN THERE.",
+      "en": "[ Paul ] I BET YOU ERIC'S IN THERE.",
       "es": "Apuesto a que Eric esta ahí. ¿No creen?"
     }
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "translation": {
-      "en": "PAUL, DON'T!",
+      "en": "[ Quietly ] PAUL, DON'T!",
       "es": "¡No!"
     }
   },
@@ -2389,25 +2389,25 @@
   },
   {
     "translation": {
-      "en": "PUSH!",
+      "en": "PUSH! [ Shouting ]",
       "es": "¡Empuje!"
     }
   },
   {
     "translation": {
-      "en": "MY GOD.",
+      "en": "[ Cawing Continues ] MY GOD.",
       "es": "Dios mío."
     }
   },
   {
     "translation": {
-      "en": "-  - HE'S CALLING FOR HELP.",
+      "en": "- [ Cawing ] - HE'S CALLING FOR HELP.",
       "es": "Está pidiendo ayuda."
     }
   },
   {
     "translation": {
-      "en": "COME ON!",
+      "en": "[ Cawing Continues ] COME ON!",
       "es": "¡Vamos!"
     }
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "translation": {
-      "en": "MR. KIRBY?",
+      "en": "[ Billy ] MR. KIRBY?",
       "es": "¿Sr. Kirby?"
     }
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "translation": {
-      "en": "- HOLD ON! -",
+      "en": "- HOLD ON! - [ Screams ]",
       "es": "¡Sujétate!"
     }
   },
@@ -2599,13 +2599,13 @@
   },
   {
     "translation": {
-      "en": "AND I APPRECIATE THAT.",
+      "en": "AND I APPRECIATE THAT. [ Coughing ]",
       "es": "No sabes cuánto me alegra."
     }
   },
   {
     "translation": {
-      "en": "BE CAREFUL WITH THAT. T- REX.",
+      "en": "BE CAREFUL WITH THAT. T-REX.",
       "es": "Cuidado con eso. Es de tiranosaurio rex."
     }
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "translation": {
-      "en": "THIS IS T- REX PEE?",
+      "en": "THIS IS T-REX PEE?",
       "es": "¿Es orina de tiranosaurio rex?"
     }
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "translation": {
-      "en": "I- I DON'T KNOW. I MEAN, IT WAS KIND OF PREACHY.",
+      "en": "I-I DON'T KNOW. I MEAN, IT WAS KIND OF PREACHY.",
       "es": "No sé. Era puro sermón."
     }
   },
@@ -2695,7 +2695,7 @@
   },
   {
     "translation": {
-      "en": "LISTEN.",
+      "en": "LISTEN. [ Chittering ]",
       "es": "Escuche."
     }
   },
@@ -2713,7 +2713,7 @@
   },
   {
     "translation": {
-      "en": "ERIC'S ALWAYS BEEN A STRONG- WILLED KID.",
+      "en": "ERIC'S ALWAYS BEEN A STRONG-WILLED KID.",
       "es": "Eric siempre ha sido un niño muy terco."
     }
   },
@@ -2725,8 +2725,8 @@
   },
   {
     "translation": {
-      "en": "WELL-- WELL WHAT?",
-      "es": "- Pues-- - ¿Pues qué?"
+      "en": "WELL-- \"WELL\" WHAT?",
+      "es": "- Pues-- - ¿\"Pues\" qué?"
     }
   },
   {
@@ -2779,7 +2779,7 @@
   },
   {
     "translation": {
-      "en": "YEAH, THERE'S A BOAT RIGHT ALONGSIDE THE BANK.",
+      "en": "[ Alan ] YEAH, THERE'S A BOAT RIGHT ALONGSIDE THE BANK.",
       "es": "Hay un bote en la ribera."
     }
   },
@@ -2929,7 +2929,7 @@
   },
   {
     "translation": {
-      "en": "THAT'S MY DAD'S SATELLITE PHONE!",
+      "en": "THAT'S MY DAD'S SATELLITE PHONE! [ Cell Phone Ringing ]",
       "es": "Es el teléfono por satélite de mi papá."
     }
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "translation": {
-      "en": "- HOW DID YOU KNOW WE WERE HERE? - THE PHONE. THAT STUPID JINGLE FROM THE STORE, I HEARD IT.",
+      "en": "-HOW DID YOU KNOW WE WERE HERE? -THE PHONE. THAT STUPID JINGLE FROM THE STORE, I HEARD IT.",
       "es": "- ¿Cómo supiste que estábamos aquí? - Oí cómo sonaba tu teléfono tonto."
     }
   },
@@ -3073,7 +3073,7 @@
   },
   {
     "translation": {
-      "en": "NOW IT ALL MAKES SENSE.  I SWEAR...",
+      "en": "NOW IT ALL MAKES SENSE. [ Billy ] I SWEAR...",
       "es": "Ahora todo tiene lógica. Juro que si hubiera sabido que usted terminaría con ellos--"
     }
   },
@@ -3139,8 +3139,8 @@
   },
   {
     "translation": {
-      "en": "THOSE THINGS KNOW WE HAVE THE EGGS.",
-      "es": "Esas cosas saben que tenemos los huevos."
+      "en": "\"THOSE THINGS\" KNOW WE HAVE THE EGGS.",
+      "es": "\"Esas cosas\" saben que tenemos los huevos."
     }
   },
   {
@@ -3157,7 +3157,7 @@
   },
   {
     "translation": {
-      "en": "THERE'S A BOAT AT THE BOTTOM, JUST DOWNRIVER.",
+      "en": "[ Alan ] THERE'S A BOAT AT THE BOTTOM, JUST DOWNRIVER.",
       "es": "Hay un bote al fondo, río abajo."
     }
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "translation": {
-      "en": "YEAH.  YOU OKAY?",
+      "en": "YEAH. [ Whistles ] YOU OKAY?",
       "es": "- ¿Está bien? - Sí."
     }
   },
@@ -3325,7 +3325,7 @@
   },
   {
     "translation": {
-      "en": "- HANG ON, BILLY! -",
+      "en": "- HANG ON, BILLY! - [ Screeching ]",
       "es": "¡Aguanta!"
     }
   },
@@ -3337,7 +3337,7 @@
   },
   {
     "translation": {
-      "en": "GET AWAY.",
+      "en": "[ Gasping ] GET AWAY.",
       "es": "¡Váyanse!"
     }
   },
@@ -3391,8 +3391,8 @@
   },
   {
     "translation": {
-      "en": "I SAID, YOU'RE AS BAD AS THE PEOPLE THAT BUILT THIS PLACE.",
-      "es": "Dije: Eres igual que la gente que construyó este lugar."
+      "en": "I SAID, \"YOU'RE AS BAD AS THE PEOPLE THAT BUILT THIS PLACE.\"",
+      "es": "Dije: \"Eres igual que la gente que construyó este lugar\"."
     }
   },
   {
@@ -3475,7 +3475,7 @@
   },
   {
     "translation": {
-      "en": "LISTEN!",
+      "en": "[ Cell Phone Ringing ] LISTEN!",
       "es": "Escuchen."
     }
   },
@@ -3487,7 +3487,7 @@
   },
   {
     "translation": {
-      "en": "IT'S HERE. WAIT. WHOA- WHOA, IT'S HERE.",
+      "en": "IT'S HERE. WAIT. WHOA-WHOA, IT'S HERE.",
       "es": "Aquí está. Un momento. Aquí está."
     }
   },
@@ -3499,13 +3499,13 @@
   },
   {
     "translation": {
-      "en": "YOU TOO CAN OWN A TIME- SHARE IN BEAUTIFUL GUADALAJARA.",
+      "en": "[ Man ] YOU TOO CAN OWN A TIME-SHARE IN BEAUTIFUL GUADALAJARA.",
       "es": "Compre un tiempo compartido en la bella Guadalajara. Disfrute de nuestros restaurantes."
     }
   },
   {
     "translation": {
-      "en": "ENJOY A MEAL IN ONE OF OUR FOUR- STAR RESTAURANTS-- LOOK OUT!",
+      "en": "ENJOY A MEAL IN ONE OF OUR FOUR-STAR RESTAURANTS-- LOOK OUT!",
       "es": "Disfrute de nuestros restaurantes. ¡Cuidado!"
     }
   },
@@ -3547,7 +3547,7 @@
   },
   {
     "translation": {
-      "en": "PICK UP, PICK UP.",
+      "en": "[ Phone Ringing ] PICK UP, PICK UP.",
       "es": "Contesta."
     }
   },
@@ -3595,7 +3595,7 @@
   },
   {
     "translation": {
-      "en": "OH, HO- HO. HI, EVERYBODY!",
+      "en": "[ Barney On TV ] OH, HO-HO. HI, EVERYBODY!",
       "es": "¡Hola a todos!"
     }
   },
@@ -3607,7 +3607,7 @@
   },
   {
     "translation": {
-      "en": "THIS IS GONNA BE GREAT!",
+      "en": "[ Barney ] THIS IS GONNA BE GREAT!",
       "es": "¡Esto será grandioso!"
     }
   },
@@ -3631,7 +3631,7 @@
   },
   {
     "translation": {
-      "en": "-  - WHERE'S THE PHONE? - THERE! - GET THE PHONE!",
+      "en": "- [ Ringing ] - WHERE'S THE PHONE? - THERE! - GET THE PHONE!",
       "es": "¿Dónde está el teléfono? ¡Busquen el teléfono!"
     }
   },
@@ -3649,13 +3649,13 @@
   },
   {
     "translation": {
-      "en": "THE RIVER! SITE B! THE RIVER!",
+      "en": "THE RIVER! SITE \"B\"! THE RIVER!",
       "es": "¡El río! ¡Emplazamiento B!"
     }
   },
   {
     "translation": {
-      "en": "HELLO?",
+      "en": "HELLO? [ Phone Beeping ]",
       "es": "¿Hola?"
     }
   },
@@ -3667,7 +3667,7 @@
   },
   {
     "translation": {
-      "en": "-  - PAUL!",
+      "en": "- [ Screams ] - PAUL!",
       "es": "¡Paul!"
     }
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "translation": {
-      "en": "MR. KIRBY?",
+      "en": "[ Alan ] MR. KIRBY?",
       "es": "¿Sr. Kirby?"
     }
   },
@@ -3757,7 +3757,7 @@
   },
   {
     "translation": {
-      "en": "SHH. YOU HEAR THAT?",
+      "en": "[ Rumbling Sound ] SHH. YOU HEAR THAT?",
       "es": "¿Oyes eso?"
     }
   },
@@ -3793,7 +3793,7 @@
   },
   {
     "translation": {
-      "en": "- GET BEHIND ME. -",
+      "en": "- GET BEHIND ME. - [ Hissing ]",
       "es": "Ponte detrás de mí."
     }
   },
@@ -3823,7 +3823,7 @@
   },
   {
     "translation": {
-      "en": "DR. GRANT? DR. ALAN GRANT?",
+      "en": "[ Over Bullhorn ] DR. GRANT? DR. ALAN GRANT?",
       "es": "¿Dr. Grant? ¿Dr. Alan Grant?"
     }
   },
@@ -3895,13 +3895,13 @@
   },
   {
     "translation": {
-      "en": "SEA SHADOW DUST STORM ZERO FIVE, SIX SOULS ON BOARD.",
+      "en": "[ Pilot ] SEA SHADOW DUST STORM ZERO FIVE, SIX SOULS ON BOARD.",
       "es": "Sombra Marina, Tormenta de Polvo Cero Cinco, seis almas a bordo."
     }
   },
   {
     "translation": {
-      "en": "DUST STORM SEA SHADOW, ROGER. GOOD WORK.",
+      "en": "[ Control Tower ] DUST STORM SEA SHADOW, ROGER. GOOD WORK.",
       "es": "Tormenta de Polvo, Sombra Marina, entendido. Bien hecho."
     }
   },
@@ -3913,7 +3913,7 @@
   },
   {
     "translation": {
-      "en": "DR. GRANT, LOOK!",
+      "en": "[ Eric ] DR. GRANT, LOOK!",
       "es": "¡Dr. Grant, mire!"
     }
   },

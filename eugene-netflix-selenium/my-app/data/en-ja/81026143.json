@@ -7,7 +7,7 @@
   },
   {
     "translation": {
-      "en": "This site is a forgotten place.",
+      "en": "[Dennis] This site is a forgotten place.",
       "ja": "ここは忘れられた場所"
     }
   },
@@ -19,7 +19,7 @@
   },
   {
     "translation": {
-      "en": "We'll identify the anomalies and mark those out.",
+      "en": "[man] We'll identify the anomalies and mark those out.",
       "ja": "異常があれば印をする"
     }
   },
@@ -31,13 +31,13 @@
   },
   {
     "translation": {
-      "en": "Yeah, we're looking for a change in the density of the soil.",
+      "en": "[man] Yeah, we're looking for a change in the density of the soil.",
       "ja": "土壌(どじょう)密度の変化を探知する"
     }
   },
   {
     "translation": {
-      "en": "There are some anomalies sort of popping up.",
+      "en": "[man] There are some anomalies sort of popping up.",
       "ja": "たまに異常が見られる"
     }
   },
@@ -55,7 +55,7 @@
   },
   {
     "translation": {
-      "en": "Each stake represents a probable body.",
+      "en": "[Dennis] Each stake represents a probable body.",
       "ja": "棒は遺体がある可能性を示す"
     }
   },
@@ -68,13 +68,13 @@
   {
     "translation": {
       "en": "A hundred years ago, a deadly influenza virus",
-      "ja": "100年前 致命的な インフルエンザウイルスに―"
+      "ja": "100年前 致命的なインフルエンザウイルスに―"
     }
   },
   {
     "translation": {
       "en": "infected hundreds of millions of people around the world.",
-      "ja": "100年前 致命的な インフルエンザウイルスに― 世界中の数億人が感染した"
+      "ja": "100年前 致命的なインフルエンザウイルスに― 世界中の数億人が感染した"
     }
   },
   {
@@ -92,25 +92,25 @@
   {
     "translation": {
       "en": "So towns all over the world needed a quick solution.",
-      "ja": "世界中の町が 早い解決策を求めた"
+      "ja": "世界中の町が早い解決策を求めた"
     }
   },
   {
     "translation": {
       "en": "We could be standing in any number of towns",
-      "ja": "米国 ケニア インドやベトナム"
+      "ja": "米国 ケニアインドやベトナム"
     }
   },
   {
     "translation": {
       "en": "across the US, or Kenya, India, Vietnam.",
-      "ja": "これらの国のあらゆる町に 存在する―"
+      "ja": "これらの国のあらゆる町に存在する―"
     }
   },
   {
     "translation": {
       "en": "This grave site is a reminder of the devastation a flu pandemic can wreak.",
-      "ja": "この墓地は インフルエンザ パンデミックの惨事を物語る"
+      "ja": "この墓地は インフルエンザパンデミックの惨事を物語る"
     }
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "translation": {
-      "en": "- -",
-      "ja": "第１章 救急車だけでは不十分"
+      "en": "-[helicopter hovering] -[sirens blaring]",
+      "ja": "第１章救急車だけでは不十分"
     }
   },
   {
     "translation": {
-      "en": "- Take the stethoscope, and... - Yes, ensure that the gown covers.",
+      "en": "-[man] Take the stethoscope, and... -[Syra] Yes, ensure that the gown covers.",
       "ja": "聴診器を… 防護服(ガウン)を着て"
     }
   },
   {
     "translation": {
       "en": "We have received reports of an outbreak of respiratory illness.",
-      "ja": "呼吸器疾患の 爆発的流行(アウトブレイク)の報告"
+      "ja": "呼吸器疾患の爆発的流行(アウトブレイク)の報告"
     }
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "translation": {
-      "en": "- I can't breathe. -",
+      "en": "-[woman] I can't breathe. -[man speaking indistinctly]",
       "ja": "息ができない"
     }
   },
   {
     "translation": {
-      "en": "Unofficial case count is about over 220 with eight deaths.",
-      "ja": "未確認ですが患者数は220人 ８人死亡"
+      "en": "[Syra] Unofficial case count is about over 220 with eight deaths.",
+      "ja": "未確認ですが患者数は220人８人死亡"
     }
   },
   {
@@ -194,19 +194,19 @@
   {
     "translation": {
       "en": "but some of the patients are not testing positive for these normal seasonal flu viruses.",
-      "ja": "季節性インフルエンザに 陽性を示さない患者もいる"
+      "ja": "季節性インフルエンザに陽性を示さない患者もいる"
     }
   },
   {
     "translation": {
-      "en": "I don't feel okay.",
+      "en": "[coughs] I don't feel okay.",
       "ja": "気分が悪いわ"
     }
   },
   {
     "translation": {
-      "en": "Currently, the Emergency Department at Kings County Hospital is operating at 104%",
-      "ja": "キングス病院の救急科の 稼働率は104％"
+      "en": "[Syra] Currently, the Emergency Department at Kings County Hospital is operating at 104%",
+      "ja": "キングス病院の救急科の稼働率は104％"
     }
   },
   {
@@ -217,25 +217,25 @@
   },
   {
     "translation": {
-      "en": "What's going on?",
+      "en": "[doctor] What's going on?",
       "ja": "どうした？"
     }
   },
   {
     "translation": {
-      "en": "- I'm not doing well. I can't breathe. - Okay. Okay.",
+      "en": "-I'm not doing well. I can't breathe. -[doctor] Okay. Okay.",
       "ja": "息ができない"
     }
   },
   {
     "translation": {
-      "en": "I need intubation equipment. There's no intubation equipment.",
+      "en": "[Syra] I need intubation equipment. There's no intubation equipment.",
       "ja": "挿管(そうかん)器具がない"
     }
   },
   {
     "translation": {
-      "en": "Somebody get the ice. Ashley.",
+      "en": "[Syra] Somebody get the ice. Ashley.",
       "ja": "氷を！"
     }
   },
@@ -247,26 +247,26 @@
   },
   {
     "translation": {
-      "en": "Can you check the X- ray on bed one?",
+      "en": "Can you check the X-ray on bed one?",
       "ja": "レントゲンの確認を"
     }
   },
   {
     "translation": {
-      "en": "The simulation is ended. Let's go back to the debriefing room. - Thank you. - Thank you.",
-      "ja": "シミュレーション終了 部屋に戻りましょう"
+      "en": "[woman] The simulation is ended. Let's go back to the debriefing room. -Thank you. -[man] Thank you.",
+      "ja": "シミュレーション終了部屋に戻りましょう"
     }
   },
   {
     "translation": {
-      "en": "So all who participated, please come to make a circle.",
-      "ja": "インフルエンザ対策の シミュレーション調査 インフルエンザ対策の シミュレーション調査 参加者全員 輪になって下さい 参加者全員 輪になって下さい"
+      "en": "[Syra] So all who participated, please come to make a circle.",
+      "ja": "インフルエンザ対策のシミュレーション調査 インフルエンザ対策のシミュレーション調査 参加者全員輪になって下さい 参加者全員輪になって下さい"
     }
   },
   {
     "translation": {
       "en": "I think one of the things that we tried to bake into the simulation was just healthcare worker safety.",
-      "ja": "今回取り入れたのは 医療従事者の安全性"
+      "ja": "今回取り入れたのは医療従事者の安全性"
     }
   },
   {
@@ -277,8 +277,8 @@
   },
   {
     "translation": {
-      "en": "If I have to take the time out to switch my gown and someone needs to be intubated,",
-      "ja": "防護服(ガウン)の着替え中に 挿管が必要になったら"
+      "en": "[woman] If I have to take the time out to switch my gown and someone needs to be intubated,",
+      "ja": "防護服(ガウン)の着替え中に挿管が必要になったら"
     }
   },
   {
@@ -302,7 +302,7 @@
   {
     "translation": {
       "en": "is that healthcare workers were disproportionally affected in MERS and SARS,",
-      "ja": "医療従事者の多くが MARSやSARSに晒(さら)され"
+      "ja": "医療従事者の多くがMARSやSARSに晒(さら)され"
     }
   },
   {
@@ -314,13 +314,13 @@
   {
     "translation": {
       "en": "So if you're not protected, if you can't protect yourself, then how are you gonna help others?",
-      "ja": "自分自身を守れなければ 他人を助けられない"
+      "ja": "自分自身を守れなければ他人を助けられない"
     }
   },
   {
     "translation": {
-      "en": "My job is to contain the virus here in New York City.",
-      "ja": "私の仕事は 感染を市内にとどめること"
+      "en": "[Syra] My job is to contain the virus here in New York City.",
+      "ja": "私の仕事は感染を市内にとどめること"
     }
   },
   {
@@ -332,13 +332,13 @@
   {
     "translation": {
       "en": "We're basically human incubators, we can host a number of different diseases.",
-      "ja": "体の中には 数々の病原菌が宿り―"
+      "ja": "体の中には数々の病原菌が宿り―"
     }
   },
   {
     "translation": {
       "en": "It's just a matter of time where the next pandemic is going to start,",
-      "ja": "パンデミックは いつでも起こりうる"
+      "ja": "パンデミックはいつでも起こりうる"
     }
   },
   {
@@ -350,49 +350,49 @@
   {
     "translation": {
       "en": "I remember, at a very young age, watching a movie called Outbreak,",
-      "ja": "幼い頃見た映画 「アウトブレイク」"
+      "ja": "幼い頃見た映画「アウトブレイク」"
     }
   },
   {
     "translation": {
       "en": "and in this movie you had a novel virus",
-      "ja": "新型ウイルスが― カリフォルニアから 瞬く間に広まった"
+      "ja": "新型ウイルスが― カリフォルニアから瞬く間に広まった"
     }
   },
   {
     "translation": {
       "en": "that started in California that quickly spread.",
-      "ja": "カリフォルニアから 瞬く間に広まった"
+      "ja": "カリフォルニアから瞬く間に広まった"
     }
   },
   {
     "translation": {
-      "en": "Healthcare workers get suited up, and I was like, Oh, my God,",
-      "ja": "防護服姿の人々を見て 緊張感のある仕事に 憧れた"
+      "en": "Healthcare workers get suited up, and I was like, \"Oh, my God,",
+      "ja": "防護服姿の人々を見て 緊張感のある仕事に憧れた"
     }
   },
   {
     "translation": {
-      "en": "working in that high- risk environment, this is amazing.",
-      "ja": "緊張感のある仕事に 憧れた"
+      "en": "working in that high-risk environment, this is amazing.\"",
+      "ja": "緊張感のある仕事に憧れた"
     }
   },
   {
     "translation": {
       "en": "That was a formative moment for me, and I have been pursuing a career in infectious disease preparedness ever since.",
-      "ja": "それがきっかけで 感染症対策の仕事を志(こころざ)した"
+      "ja": "それがきっかけで感染症対策の仕事を志(こころざ)した"
     }
   },
   {
     "translation": {
-      "en": "In even a small outbreak, you have what we call hoarding.",
-      "ja": "小規模の流行でも 買いだめ問題があります"
+      "en": "In even a small outbreak, you have what we call \"hoarding.\"",
+      "ja": "小規模の流行でも買いだめ問題があります"
     }
   },
   {
     "translation": {
       "en": "We saw this in the H1N1 outbreak where vaccines were not made available in the United States",
-      "ja": "Ｈ１Ｎ１の流行時 他国がワクチンを買いだめし"
+      "ja": "Ｈ１Ｎ１の流行時他国がワクチンを買いだめし"
     }
   },
   {
@@ -404,13 +404,13 @@
   {
     "translation": {
       "en": "You know, these infectious disease outbreaks are scarier and more deadly than conventional warfare.",
-      "ja": "感染症の発生は 戦争より致命的で脅威になる"
+      "ja": "感染症の発生は戦争より致命的で脅威になる"
     }
   },
   {
     "translation": {
-      "en": "So this is something that people should pay attention to, but they forget in their day- to- day lives.",
-      "ja": "日々忘れがちでも 注目すべきだと忠告する"
+      "en": "So this is something that people should pay attention to, but they forget in their day-to-day lives.",
+      "ja": "日々忘れがちでも注目すべきだと忠告する"
     }
   },
   {
@@ -445,7 +445,7 @@
   },
   {
     "translation": {
-      "en": "I wake up in this building. I eat in this building.",
+      "en": "[Holly] I wake up in this building. I eat in this building.",
       "ja": "この病院で起きて食事して"
     }
   },
@@ -457,19 +457,19 @@
   },
   {
     "translation": {
-      "en": "How did I know you'd be the one to make my night?",
-      "ja": "72時間勤務の24時間目 72時間勤務の24時間目 来てくれると思ったわ 72時間勤務の24時間目"
+      "en": "[Juanita] How did I know you'd be the one to make my night?",
+      "ja": "72時間勤務の24時間目 72時間勤務の24時間目来てくれると思ったわ 72時間勤務の24時間目"
     }
   },
   {
     "translation": {
       "en": "I'm telling you.",
-      "ja": "72時間勤務の24時間目 言ったでしょ"
+      "ja": "72時間勤務の24時間目言ったでしょ"
     }
   },
   {
     "translation": {
-      "en": "Juanita.",
+      "en": "[Holly] Juanita.",
       "ja": "言ったでしょ"
     }
   },
@@ -481,14 +481,14 @@
   },
   {
     "translation": {
-      "en": "in the back of my mind I still had that vision of what it was to be a small- town doctor.",
-      "ja": "小さい町の医師の イメージがあった"
+      "en": "in the back of my mind I still had that vision of what it was to be a small-town doctor.",
+      "ja": "小さい町の医師のイメージがあった"
     }
   },
   {
     "translation": {
-      "en": "Very old- school, the one doctor in town.",
-      "ja": "昔ながらの 町で１人だけの医師"
+      "en": "Very old-school, the one doctor in town.",
+      "ja": "昔ながらの町で１人だけの医師"
     }
   },
   {
@@ -506,13 +506,13 @@
   {
     "translation": {
       "en": "they were the ones that were rotating through the ER.",
-      "ja": "外来も救急も担当して 入院患者を診て 赤ちゃんも取り上げる"
+      "ja": "外来も救急も担当して 入院患者を診て赤ちゃんも取り上げる"
     }
   },
   {
     "translation": {
       "en": "They were the ones seeing the patients in the hospital and delivering babies.",
-      "ja": "入院患者を診て 赤ちゃんも取り上げる"
+      "ja": "入院患者を診て赤ちゃんも取り上げる"
     }
   },
   {
@@ -524,42 +524,42 @@
   {
     "translation": {
       "en": "who took care of the patient when they were well and took care of the patient when they were sick.",
-      "ja": "患者さんが元気な時も 病気の時もケアする"
+      "ja": "患者さんが元気な時も病気の時もケアする"
     }
   },
   {
     "translation": {
-      "en": "- Stick it out and say, Ah. - Ah.",
+      "en": "-Stick it out and say, \"Ah.\" -Ah.",
       "ja": "舌を出して"
     }
   },
   {
     "translation": {
-      "en": "And took care of the patient when they were hurt",
+      "en": "[Holly] And took care of the patient when they were hurt",
       "ja": "怪我の治療をして"
     }
   },
   {
     "translation": {
       "en": "and ran into the patient in different social situations outside of the hospital or clinic.",
-      "ja": "病院の外でも 患者さんとばったり会ったり"
+      "ja": "病院の外でも患者さんとばったり会ったり"
     }
   },
   {
     "translation": {
-      "en": "You okay? - I need to see what's under there. - Yeah.",
+      "en": "You okay? -I need to see what's under there. -Yeah.",
       "ja": "大丈夫？　どれどれ"
     }
   },
   {
     "translation": {
-      "en": "I had other physicians that talked to me and I'd say, What advice do you have for me?",
-      "ja": "他の医師にアドバイスを 聞いたら―"
+      "en": "[Holly] I had other physicians that talked to me and I'd say, \"What advice do you have for me?\"",
+      "ja": "他の医師にアドバイスを聞いたら―"
     }
   },
   {
     "translation": {
-      "en": "And they'd say, Reconsider.",
+      "en": "And they'd say, \"Reconsider.\"",
       "ja": "“考え直せ”と"
     }
   },
@@ -571,56 +571,56 @@
   },
   {
     "translation": {
-      "en": "Hi, there. - So were you diagnosed with the flu? - Yeah.  They swabbed you?",
-      "ja": "こんにちは インフルエンザ陽性ね？"
+      "en": "Hi, there. -So were you diagnosed with the flu? -[woman] Yeah. [Holly] They swabbed you?",
+      "ja": "こんにちはインフルエンザ陽性ね？"
     }
   },
   {
     "translation": {
-      "en": "- It was positive? - Yes.",
+      "en": "-It was positive? -[woman] Yes.",
       "ja": "はい"
     }
   },
   {
     "translation": {
-      "en": "- Do you remember if it was the A or the B? - I think it was the A.",
+      "en": "-Do you remember if it was the A or the B? -[woman] I think it was the A.",
       "ja": "ＡかＢか覚えてる？"
     }
   },
   {
     "translation": {
-      "en": "- A, okay. - They did both of our noses.",
+      "en": "-[Holly] A, okay. -They did both of our noses.",
       "ja": "Ａだと思う　水曜に検査した"
     }
   },
   {
     "translation": {
-      "en": "- That was Wednesday. - You should be at the end of it, but you're not feeling better--",
+      "en": "-That was Wednesday. -[Holly] You should be at the end of it, but you're not feeling better--",
       "ja": "でも回復しないのね"
     }
   },
   {
     "translation": {
-      "en": "Yesterday, my symptoms started getting worse.",
+      "en": "[woman] Yesterday, my symptoms started getting worse.",
       "ja": "昨日から悪化してる"
     }
   },
   {
     "translation": {
-      "en": "Okay. Have you been feeling sweats, chills?",
+      "en": "[Holly] Okay. Have you been feeling sweats, chills?",
       "ja": "汗や悪寒は？"
     }
   },
   {
     "translation": {
-      "en": "Chills. He wakes up in a sweat.",
+      "en": "[woman] Chills. He wakes up in a sweat.",
       "ja": "悪寒　彼は汗で目を覚ます"
     }
   },
   {
     "translation": {
-      "en": "She said that you have not been feeling well at all. That you really haven't been getting over the flu like you ought to.",
-      "ja": "インフルエンザが回復せず 気分が悪いのね"
+      "en": "[Holly] She said that you have not been feeling well at all. That you really haven't been getting over the flu like you ought to.",
+      "ja": "インフルエンザが回復せず気分が悪いのね"
     }
   },
   {
@@ -638,37 +638,37 @@
   {
     "translation": {
       "en": "I honestly have no idea what I would do in a situation like a pandemic.",
-      "ja": "パンデミックが起きたら どうするかわからない"
+      "ja": "パンデミックが起きたらどうするかわからない"
     }
   },
   {
     "translation": {
       "en": "We're gonna be lower on the totem pole in terms of getting replenishment of our resources.",
-      "ja": "資源供給の優先順位が 低い病院だから"
+      "ja": "資源供給の優先順位が低い病院だから"
     }
   },
   {
     "translation": {
       "en": "Places that have higher populations are gonna be the places that get that lifesaving medication first.",
-      "ja": "先に人口の多い場所に 命を救える薬が届く"
+      "ja": "先に人口の多い場所に命を救える薬が届く"
     }
   },
   {
     "translation": {
       "en": "I think that we would be overwhelmed. We wouldn't be able to manage",
-      "ja": "この小さな町に パンデミックが起きたら―"
+      "ja": "この小さな町にパンデミックが起きたら―"
     }
   },
   {
     "translation": {
       "en": "should a flu pandemic occur in our little county.",
-      "ja": "この小さな町に パンデミックが起きたら― 手に負えないと思う"
+      "ja": "この小さな町にパンデミックが起きたら― 手に負えないと思う"
     }
   },
   {
     "translation": {
-      "en": "We have to follow the virus. Where is the virus located?",
-      "ja": "ウイルスの場所を 突き止めないと"
+      "en": "[Dennis] We have to follow the virus. Where is the virus located?",
+      "ja": "ウイルスの場所を突き止めないと"
     }
   },
   {
@@ -692,25 +692,25 @@
   {
     "translation": {
       "en": "My main responsibility is trying to prevent, trying to detect,",
-      "ja": "私の責任は ウイルスの脅威に対し―"
+      "ja": "私の責任はウイルスの脅威に対し―"
     }
   },
   {
     "translation": {
       "en": "and respond, and control emerging viral threats.",
-      "ja": "対策と検出 対応と制御すること 対策と検出 対応と制御すること デニス·キャロル氏 合衆国 国際開発庁 新脅威対策課"
+      "ja": "対策と検出対応と制御すること 対策と検出対応と制御することデニス·キャロル氏合衆国 国際開発庁新脅威対策課"
     }
   },
   {
     "translation": {
       "en": "There is no single, more dangerous influenza virus",
-      "ja": "今世界で最も危険な インフルエンザウイルスは―"
+      "ja": "今世界で最も危険なインフルエンザウイルスは―"
     }
   },
   {
     "translation": {
       "en": "circulating in this planet today than the avian flu in China right now.",
-      "ja": "今世界で最も危険な インフルエンザウイルスは― 中国の鳥インフルエンザ"
+      "ja": "今世界で最も危険なインフルエンザウイルスは― 中国の鳥インフルエンザ"
     }
   },
   {
@@ -721,38 +721,38 @@
   },
   {
     "translation": {
-      "en": "Chinese and global health authorities",
-      "ja": "２０１３年　中国 中国や各国の保健当局は 中国や各国の保健当局は 新型鳥インフルエンザ Ｈ７Ｎ９に注目"
+      "en": "[newscaster 1] Chinese and global health authorities",
+      "ja": "２０１３年　中国中国や各国の保健当局は 中国や各国の保健当局は 新型鳥インフルエンザＨ７Ｎ９に注目"
     }
   },
   {
     "translation": {
       "en": "are watching a new strain of bird flu. It's called H7N9.",
-      "ja": "新型鳥インフルエンザ Ｈ７Ｎ９に注目"
+      "ja": "新型鳥インフルエンザＨ７Ｎ９に注目"
     }
   },
   {
     "translation": {
       "en": "This is definitely one of the most lethal influenza viruses that we have seen so far.",
-      "ja": "致死率が非常に高い インフルエンザウイルス"
+      "ja": "致死率が非常に高いインフルエンザウイルス"
     }
   },
   {
     "translation": {
-      "en": "Authorities in China are at pains to say they're on top of this potential outbreak.",
+      "en": "[newscaster 1] Authorities in China are at pains to say they're on top of this potential outbreak.",
       "ja": "中国当局は流行対策に苦戦"
     }
   },
   {
     "translation": {
-      "en": "At least 108 cases, 22 of those people infected died.",
-      "ja": "少なくとも108人が感染 うち42人が死亡"
+      "en": "[newscaster 2] At least 108 cases, 22 of those people infected died.",
+      "ja": "少なくとも108人が感染うち42人が死亡"
     }
   },
   {
     "translation": {
       "en": "The recent H7N9 virus has a very high mortality rate.",
-      "ja": "Ｈ７Ｎ９ウイルスは 死亡率が非常に高い"
+      "ja": "Ｈ７Ｎ９ウイルスは死亡率が非常に高い"
     }
   },
   {
@@ -764,7 +764,7 @@
   {
     "translation": {
       "en": "So far, this virus has not yet spread beyond China,",
-      "ja": "今のところ中国の外には 広まっていないが"
+      "ja": "今のところ中国の外には広まっていないが"
     }
   },
   {
@@ -775,50 +775,50 @@
   },
   {
     "translation": {
-      "en": "- When were these birds last vaccinated? - Seven days ago.",
+      "en": "-When were these birds last vaccinated? -[woman] Seven days ago.",
       "ja": "いつワクチンを打った？ ７日前"
     }
   },
   {
     "translation": {
-      "en": "So they had a problem with neighboring farms having outbreaks?",
+      "en": "[Dennis] So they had a problem with neighboring farms having outbreaks?",
       "ja": "近隣農家で感染流行が？"
     }
   },
   {
     "translation": {
-      "en": "Yes, they did.",
+      "en": "[in Vietnamese] Yes, they did.",
       "ja": "はい"
     }
   },
   {
     "translation": {
       "en": "Some people bought sick chickens at the market.",
-      "ja": "誰かが市場で 病気の鳥を買った"
+      "ja": "誰かが市場で病気の鳥を買った"
     }
   },
   {
     "translation": {
-      "en": "There are almost endless variations of the influenza virus.",
-      "ja": "インフルエンザウイルスの 種類は無数にあり"
+      "en": "[Dennis in English] There are almost endless variations of the influenza virus.",
+      "ja": "インフルエンザウイルスの種類は無数にあり"
     }
   },
   {
     "translation": {
       "en": "They're denoted by different combinations of H's and N's, such as H5N1.",
-      "ja": "Ｈ５Ｎ１など 様々な ＨとＮの組み合わせがある"
+      "ja": "Ｈ５Ｎ１など 様々なＨとＮの組み合わせがある"
     }
   },
   {
     "translation": {
       "en": "The H's and N's ultimately define",
-      "ja": "ＨやＮは ウイルスの物理的な特徴や―"
+      "ja": "ＨやＮはウイルスの物理的な特徴や―"
     }
   },
   {
     "translation": {
       "en": "the physical characteristics an influenza virus will have",
-      "ja": "ＨやＮは ウイルスの物理的な特徴や― 感染がどれだけ致命的か示す"
+      "ja": "ＨやＮはウイルスの物理的な特徴や― 感染がどれだけ致命的か示す"
     }
   },
   {
@@ -830,31 +830,31 @@
   {
     "translation": {
       "en": "The pandemic flus and the seasonal flus are profoundly different.",
-      "ja": "パンデミックと季節性の インフルエンザは大きく違う"
+      "ja": "パンデミックと季節性のインフルエンザは大きく違う"
     }
   },
   {
     "translation": {
       "en": "A pandemic influenza will likely come from an animal",
-      "ja": "パンデミックの インフルエンザは動物から―"
+      "ja": "パンデミックのインフルエンザは動物から―"
     }
   },
   {
     "translation": {
-      "en": "and it will be a new and novel, never- seen- before virus.",
+      "en": "and it will be a new and novel, never-seen-before virus.",
       "ja": "前代未聞の新型ウイルス"
     }
   },
   {
     "translation": {
       "en": "When a novel virus emerges from animals, we will not have natural immunity.",
-      "ja": "動物から来る新型ウイルスに 我々は免疫がない"
+      "ja": "動物から来る新型ウイルスに我々は免疫がない"
     }
   },
   {
     "translation": {
       "en": "Our systems will have no means to fight the infection off,",
-      "ja": "自然の免疫力では 感染と闘えず―"
+      "ja": "自然の免疫力では感染と闘えず―"
     }
   },
   {
@@ -866,67 +866,67 @@
   {
     "translation": {
       "en": "That's why there are researchers around the world committed to developing a universal vaccine",
-      "ja": "だから世界中の研究者が 万能ワクチンを開発する"
+      "ja": "だから世界中の研究者が万能ワクチンを開発する"
     }
   },
   {
     "translation": {
       "en": "that will be effective against any and all influenza viruses.",
-      "ja": "あらゆるインフルエンザ ウイルスに効くワクチン"
+      "ja": "あらゆるインフルエンザウイルスに効くワクチン"
     }
   },
   {
     "translation": {
-      "en": "I don't really get stage fright anymore.",
+      "en": "[Jake] I don't really get stage fright anymore.",
       "ja": "もう舞台で緊張しない"
     }
   },
   {
     "translation": {
       "en": "I used to do this thing where if I knew I was about to go on the stage, my heart would start beating and I'd feel like I was gonna pass out,",
-      "ja": "以前は舞台に上がる前 緊張で倒れそうだった"
+      "ja": "以前は舞台に上がる前緊張で倒れそうだった"
     }
   },
   {
     "translation": {
       "en": "but I knew for the work that I wanted to do, I had to be an effective communicator.",
-      "ja": "でもこの仕事では 伝えることが大事"
+      "ja": "でもこの仕事では伝えることが大事"
     }
   },
   {
     "translation": {
       "en": "If I wasn't able to communicate my science, then it was almost like the science didn't exist.",
-      "ja": "自分の研究を伝えなければ 意味がない"
+      "ja": "自分の研究を伝えなければ意味がない"
     }
   },
   {
     "translation": {
       "en": "Can you get the slides up?",
-      "ja": "ジェイク·グランヴィル氏は 世界初の万能ワクチンを 開発中 ジェイク·グランヴィル氏は 世界初の万能ワクチンを 開発中 スライドを"
+      "ja": "ジェイク·グランヴィル氏は世界初の万能ワクチンを開発中 ジェイク·グランヴィル氏は世界初の万能ワクチンを開発中 スライドを"
     }
   },
   {
     "translation": {
       "en": "That's a different slide there.",
-      "ja": "ジェイク·グランヴィル氏は 世界初の万能ワクチンを 開発中 違うスライドだ"
+      "ja": "ジェイク·グランヴィル氏は世界初の万能ワクチンを開発中 違うスライドだ"
     }
   },
   {
     "translation": {
       "en": "All right, good afternoon, New York.",
-      "ja": "こんにちは こんにちは 治療開発学会"
+      "ja": "こんにちは こんにちは治療開発学会"
     }
   },
   {
     "translation": {
-      "en": "So, yeah, I'm the co- founder, Chief Science Officer,",
-      "ja": "私は― ディストリビューテッド· バイオの会長です"
+      "en": "So, yeah, I'm the co-founder, Chief Science Officer,",
+      "ja": "私は― ディストリビューテッド·バイオの会長です"
     }
   },
   {
     "translation": {
       "en": "and the Chairman of Distributed Bio,",
-      "ja": "ディストリビューテッド· バイオの会長です"
+      "ja": "ディストリビューテッド·バイオの会長です"
     }
   },
   {
@@ -937,20 +937,20 @@
   },
   {
     "translation": {
-      "en": "the story of a slow- burning revolution in biologic therapeutic discovery.",
-      "ja": "生物学的な 治療開発の進化の物語"
+      "en": "the story of a slow-burning revolution in biologic therapeutic discovery.",
+      "ja": "生物学的な治療開発の進化の物語"
     }
   },
   {
     "translation": {
       "en": "I never memorize a specific speech. I think about the arc of the story I'm gonna tell,",
-      "ja": "スピーチは暗記せず 物語の筋を思い描いて"
+      "ja": "スピーチは暗記せず物語の筋を思い描いて"
     }
   },
   {
     "translation": {
       "en": "and really good storytelling, those rules apply to science.",
-      "ja": "良い語り方を心がける これは科学も同じ"
+      "ja": "良い語り方を心がけるこれは科学も同じ"
     }
   },
   {
@@ -974,7 +974,7 @@
   {
     "translation": {
       "en": "The problem is that the virus mutates so quickly that your immune response becomes obsolete by the next year.",
-      "ja": "ウイルスの変異が早く 翌年 免疫が効かない"
+      "ja": "ウイルスの変異が早く翌年 免疫が効かない"
     }
   },
   {
@@ -986,13 +986,13 @@
   {
     "translation": {
       "en": "that are arguably the greatest advances since sanitation and fire,",
-      "ja": "公衆衛生と 火の発見以来の進歩"
+      "ja": "公衆衛生と火の発見以来の進歩"
     }
   },
   {
     "translation": {
       "en": "and yet they don't work on rapidly mutating viruses, like the flu, for instance.",
-      "ja": "でも変異が早い インフルエンザには効かない"
+      "ja": "でも変異が早いインフルエンザには効かない"
     }
   },
   {
@@ -1004,13 +1004,13 @@
   {
     "translation": {
       "en": "They're never really gonna be able to solve the problem",
-      "ja": "行き止まりかと思いました １本の注射でインフルエンザ 予防はできないと"
+      "ja": "行き止まりかと思いました １本の注射でインフルエンザ予防はできないと"
     }
   },
   {
     "translation": {
       "en": "of having a good single shot that's gonna solve our risk of being exposed to flu.",
-      "ja": "１本の注射でインフルエンザ 予防はできないと"
+      "ja": "１本の注射でインフルエンザ予防はできないと"
     }
   },
   {
@@ -1028,31 +1028,31 @@
   {
     "translation": {
       "en": "We're making a vaccine that could treat all future versions of flu.",
-      "ja": "どんなインフルエンザにも 効くワクチン"
+      "ja": "どんなインフルエンザにも効くワクチン"
     }
   },
   {
     "translation": {
       "en": "So, fundamentally, our approach was different, because we tested against future and past strains.",
-      "ja": "我々は新たなアプローチで 過去と未来の種類に試した"
+      "ja": "我々は新たなアプローチで過去と未来の種類に試した"
     }
   },
   {
     "translation": {
       "en": "Under some circumstances, some people end up producing these nice antibodies",
-      "ja": "特定の人々は 多くの種類の―"
+      "ja": "特定の人々は多くの種類の―"
     }
   },
   {
     "translation": {
       "en": "that hit all the strains or many of the strains of flu,",
-      "ja": "特定の人々は 多くの種類の― インフルエンザへの 抗体を作ります"
+      "ja": "特定の人々は多くの種類の― インフルエンザへの抗体を作ります"
     }
   },
   {
     "translation": {
       "en": "and they enjoy broad protection.",
-      "ja": "インフルエンザへの 抗体を作ります"
+      "ja": "インフルエンザへの抗体を作ります"
     }
   },
   {
@@ -1064,25 +1064,25 @@
   {
     "translation": {
       "en": "It's that annoying hippie friend of yours who's like,",
-      "ja": "友人にもいるでしょう ワクチン打たなくても 元気なタイプ"
+      "ja": "友人にもいるでしょう ワクチン打たなくても元気なタイプ"
     }
   },
   {
     "translation": {
-      "en": "I never take the flu shot and I'm fine. Right? - Some of them may be right.  -",
-      "ja": "ワクチン打たなくても 元気なタイプ"
+      "en": "\"I never take the flu shot and I'm fine.\" Right? -Some of them may be right. [chuckles] -[crowd chuckles]",
+      "ja": "ワクチン打たなくても元気なタイプ"
     }
   },
   {
     "translation": {
-      "en": "But why the hell aren't we all protected all the time?",
-      "ja": "なぜ我々全員 そうじゃないのか"
+      "en": "[Jake] But why the hell aren't we all protected all the time?",
+      "ja": "なぜ我々全員そうじゃないのか"
     }
   },
   {
     "translation": {
       "en": "Our approach was able to neutralize viruses all the way back to 1934",
-      "ja": "我々は 1934年から 未来のウイルスまでの―"
+      "ja": "我々は 1934年から未来のウイルスまでの―"
     }
   },
   {
@@ -1093,8 +1093,8 @@
   },
   {
     "translation": {
-      "en": "I met Jake Glanville in the fall of 2014.",
-      "ja": "ジェイクとは 2014年の秋に知り合って"
+      "en": "[Sarah] I met Jake Glanville in the fall of 2014.",
+      "ja": "ジェイクとは2014年の秋に知り合って"
     }
   },
   {
@@ -1106,13 +1106,13 @@
   {
     "translation": {
       "en": "He knew that I had skills that he would need",
-      "ja": "サンフランシスコ サンフランシスコ 私には 彼のプログラムに 必要なスキルがあった"
+      "ja": "サンフランシスコ サンフランシスコ 私には 彼のプログラムに必要なスキルがあった"
     }
   },
   {
     "translation": {
       "en": "if he wanted to launch this vaccine program.",
-      "ja": "私には 彼のプログラムに 必要なスキルがあった サラ·イーヴス 万能ワクチン開発を 率いる主任研究員"
+      "ja": "私には 彼のプログラムに必要なスキルがあった サラ·イーヴス万能ワクチン開発を率いる主任研究員"
     }
   },
   {
@@ -1123,38 +1123,38 @@
   },
   {
     "translation": {
-      "en": "Jake just thinks outside the box.",
+      "en": "[Sarah] Jake just thinks outside the box.",
       "ja": "ジェイクは型破りな発想"
     }
   },
   {
     "translation": {
       "en": "He thinks of these crazy ideas that are completely out of the norm.",
-      "ja": "常識を超える アイデアを思いつく"
+      "ja": "常識を超えるアイデアを思いつく"
     }
   },
   {
     "translation": {
       "en": "Okay, the NHS and EHC are added, so clock's ticking now.",
-      "ja": "ＮＨＳとＥＨＣを加えた あとは時間が経つのを待つわ"
+      "ja": "ＮＨＳとＥＨＣを加えたあとは時間が経つのを待つわ"
     }
   },
   {
     "translation": {
       "en": "We've done multiple animal studies so we know that this is reproducible. What we're seeing is real.",
-      "ja": "数々の動物実験をしたから これは再現可能"
+      "ja": "数々の動物実験をしたからこれは再現可能"
     }
   },
   {
     "translation": {
       "en": "I want to prove that my research and Jake's research could change the world.",
-      "ja": "我々の研究は 世界を 変えられると証明したい"
+      "ja": "我々の研究は 世界を変えられると証明したい"
     }
   },
   {
     "translation": {
       "en": "This vaccine could eradicate influenza as we know it.",
-      "ja": "インフルエンザを 撲滅できるかもしれない"
+      "ja": "インフルエンザを撲滅できるかもしれない"
     }
   },
   {
@@ -1165,7 +1165,7 @@
   },
   {
     "translation": {
-      "en": "Sir, this one is expected H1N1.",
+      "en": "[man in Hindi] Sir, this one is expected H1N1.",
       "ja": "おそらくＨ１Ｎ１"
     }
   },
@@ -1177,25 +1177,25 @@
   },
   {
     "translation": {
-      "en": "There has been an alarming rise in the swine flu or H1N1 cases in India this year.",
-      "ja": "今年インドでは Ｈ１Ｎ１患者数が急増"
+      "en": "[newscaster in English] There has been an alarming rise in the swine flu or H1N1 cases in India this year.",
+      "ja": "今年インドではＨ１Ｎ１患者数が急増"
     }
   },
   {
     "translation": {
       "en": "The situation is turning rather serious with the fatalities increasing by the day.",
-      "ja": "日々死亡者が増え 深刻な状況です"
+      "ja": "日々死亡者が増え深刻な状況です"
     }
   },
   {
     "translation": {
       "en": "The North Indian State of Rajasthan has been worst hit by the H1N1 virus.",
-      "ja": "最も深刻な場所は 北インドのラージャスターン"
+      "ja": "最も深刻な場所は北インドのラージャスターン"
     }
   },
   {
     "translation": {
-      "en": "- Negative. It's negative. - But, look.",
+      "en": "-[man in Hindi] Negative. It's negative. -[Dinesh] But, look.",
       "ja": "陰性だ"
     }
   },
@@ -1219,80 +1219,80 @@
   },
   {
     "translation": {
-      "en": "Should we continue with Tamiflu?",
+      "en": "[woman] Should we continue with Tamiflu?",
       "ja": "タミフル続ける？"
     }
   },
   {
     "translation": {
-      "en": "It's day six today, right? Give it for one more day.",
+      "en": "[Dinesh] It's day six today, right? Give it for one more day.",
       "ja": "６日目だね？　あと１日"
     }
   },
   {
     "translation": {
-      "en": "Tamiflu, stop after seven days.",
+      "en": "[woman in English] Tamiflu, stop after seven days.",
       "ja": "７日目までタミフル"
     }
   },
   {
     "translation": {
-      "en": "We will stop it tomorrow.",
+      "en": "[in Hindi] We will stop it tomorrow.",
       "ja": "明日まで"
     }
   },
   {
     "translation": {
-      "en": "Swine flu is a very rapidly progressing disease. Very rapidly.",
-      "ja": "豚インフルエンザは 進行が非常に早い"
+      "en": "[Dinesh in English] Swine flu is a very rapidly progressing disease. Very rapidly.",
+      "ja": "豚インフルエンザは進行が非常に早い"
     }
   },
   {
     "translation": {
-      "en": "In just a few days, it can affect both of the lungs, and it is a life- threatening disease.",
-      "ja": "ほんの数日で肺が侵され 命に関わる病気だ"
+      "en": "In just a few days, it can affect both of the lungs, and it is a life-threatening disease.",
+      "ja": "ほんの数日で肺が侵され命に関わる病気だ"
     }
   },
   {
     "translation": {
       "en": "Common flu. All patients came with throat pain, sneezing, fever, body ache.",
-      "ja": "喉や関節痛 熱やくしゃみは 一般的なインフルエンザ"
+      "ja": "喉や関節痛 熱やくしゃみは一般的なインフルエンザ"
     }
   },
   {
     "translation": {
       "en": "But a patient who has nausea, vomiting, along with breathlessness,",
-      "ja": "でも吐き気や嘔吐 息切れがあり―"
+      "ja": "でも吐き気や嘔吐息切れがあり―"
     }
   },
   {
     "translation": {
-      "en": "and he says troublesome cough,",
+      "en": "and he says \"troublesome cough,\"",
       "ja": "“厄介な咳(せき)”と言ったら"
     }
   },
   {
     "translation": {
-      "en": "always think swine flu. Always think swine flu.",
-      "ja": "必ず 豚インフルエンザを疑うべき"
+      "en": "always think \"swine flu.\" Always think swine flu.",
+      "ja": "必ず豚インフルエンザを疑うべき"
     }
   },
   {
     "translation": {
-      "en": "Breathe normally.",
+      "en": "[Dinesh in Hindi] Breathe normally.",
       "ja": "普通に呼吸して"
     }
   },
   {
     "translation": {
-      "en": "If it's not diagnosed properly at an early stage, it is difficult to treat.",
-      "ja": "早期に診断できなければ 治療が難しい"
+      "en": "[in English] If it's not diagnosed properly at an early stage, it is difficult to treat.",
+      "ja": "早期に診断できなければ治療が難しい"
     }
   },
   {
     "translation": {
-      "en": "The problem is, when she came here, she had 60%- 70% saturation.",
-      "ja": "ここに来た時点で 60〜70%進行していた"
+      "en": "[Dinesh in Hindi] The problem is, when she came here, she had 60%-70% saturation.",
+      "ja": "ここに来た時点で60〜70%進行していた"
     }
   },
   {
@@ -1309,14 +1309,14 @@
   },
   {
     "translation": {
-      "en": "We will shift to the ICU. Then treatment will start.",
+      "en": "[in English] We will shift to the ICU. Then treatment will start.",
       "ja": "ＩＣＵで治療を始める"
     }
   },
   {
     "translation": {
-      "en": "The later they come, the more laborious it gets to breathe,",
-      "ja": "治療が遅れるほど 呼吸が苦しくなり"
+      "en": "[in Hindi] The later they come, the more laborious it gets to breathe,",
+      "ja": "治療が遅れるほど呼吸が苦しくなり"
     }
   },
   {
@@ -1327,14 +1327,14 @@
   },
   {
     "translation": {
-      "en": "Biggest challenge with flu",
+      "en": "[Dennis] Biggest challenge with flu",
       "ja": "最大の課題"
     }
   },
   {
     "translation": {
       "en": "is not being lulled into acceptance of seasonal flu",
-      "ja": "季節性インフルエンザ だけが脅威だと―"
+      "ja": "季節性インフルエンザだけが脅威だと―"
     }
   },
   {
@@ -1346,13 +1346,13 @@
   {
     "translation": {
       "en": "Because every once in a while, there is a variant of flu that emerges",
-      "ja": "周期的に 人類の存在を脅(おびや)かす―"
+      "ja": "周期的に人類の存在を脅(おびや)かす―"
     }
   },
   {
     "translation": {
       "en": "that poses an existential threat to us as a species.",
-      "ja": "新型のインフルエンザが 発生するからだ"
+      "ja": "新型のインフルエンザが発生するからだ"
     }
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "and, you know, that flu profoundly impacted this Earth.",
-      "ja": "そんなインフルエンザが 世界を襲った"
+      "ja": "そんなインフルエンザが世界を襲った"
     }
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "translation": {
       "en": "Soldiers returning home from battle helped spread the virus around the world.",
-      "ja": "戦場から戻る兵士が 世界中に感染を広めた"
+      "ja": "戦場から戻る兵士が世界中に感染を広めた"
     }
   },
   {
@@ -1388,25 +1388,25 @@
   {
     "translation": {
       "en": "even at a time when population movements were a fraction of what they are today.",
-      "ja": "今と比べると 人口の移動は わずかだった時代"
+      "ja": "今と比べると 人口の移動はわずかだった時代"
     }
   },
   {
     "translation": {
-      "en": "Far more people died in the 18- month period of that flu",
-      "ja": "18ヶ月間の インフル死者数は― ２つの世界大戦の 死者数より遥(はる)かに多い"
+      "en": "Far more people died in the 18-month period of that flu",
+      "ja": "18ヶ月間のインフル死者数は― ２つの世界大戦の死者数より遥(はる)かに多い"
     }
   },
   {
     "translation": {
       "en": "than died in all of World War I and World War II.",
-      "ja": "２つの世界大戦の 死者数より遥(はる)かに多い"
+      "ja": "２つの世界大戦の死者数より遥(はる)かに多い"
     }
   },
   {
     "translation": {
       "en": "Somewhere in the order of 50 to 100 million deaths.",
-      "ja": "その数は およそ5000万から１億人"
+      "ja": "その数はおよそ5000万から１億人"
     }
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "translation": {
       "en": "If a similar virus emerged today, the result would be not 50 to 100,",
-      "ja": "もし今の時代に 同様のウイルスが発生すれば 死者数は数億人になるだろう"
+      "ja": "もし今の時代に同様のウイルスが発生すれば 死者数は数億人になるだろう"
     }
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "translation": {
       "en": "And it's a guarantee that another version",
-      "ja": "新たな 恐怖(キラー)のインフルエンザは―"
+      "ja": "新たな恐怖(キラー)のインフルエンザは―"
     }
   },
   {
@@ -1448,7 +1448,7 @@
   {
     "translation": {
       "en": "We don't know when, but we should always presume it can be... soon.",
-      "ja": "いつかはわからないが すぐだと思っておくべき"
+      "ja": "いつかはわからないがすぐだと思っておくべき"
     }
   },
   {
@@ -1466,13 +1466,13 @@
   {
     "translation": {
       "en": "The thing that will immediately be threatened is continuity of health services.",
-      "ja": "すぐに 医療サービスの 継続が脅(おびや)かされる"
+      "ja": "すぐに 医療サービスの継続が脅(おびや)かされる"
     }
   },
   {
     "translation": {
       "en": "But also, you'll have severe issues with normal infrastructure operating.",
-      "ja": "通常のインフラ基盤に 深刻な問題が起きる"
+      "ja": "通常のインフラ基盤に深刻な問題が起きる"
     }
   },
   {
@@ -1484,19 +1484,19 @@
   {
     "translation": {
       "en": "and power plants are dependent on a work force.",
-      "ja": "発電所の作業員が 病気になれば"
+      "ja": "発電所の作業員が病気になれば"
     }
   },
   {
     "translation": {
       "en": "That work force becomes ill, then you have huge vulnerabilities.",
-      "ja": "発電所の作業員が 病気になれば 大きな問題になる"
+      "ja": "発電所の作業員が病気になれば 大きな問題になる"
     }
   },
   {
     "translation": {
       "en": "What are urban areas going to do after a couple of weeks of disruptive impact on food supplies?",
-      "ja": "都心部で２週間 食料供給が止まったら？"
+      "ja": "都心部で２週間食料供給が止まったら？"
     }
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "translation": {
       "en": "they'll be dying from what are preventable deaths today.",
-      "ja": "予防できることが原因で 死に至る"
+      "ja": "予防できることが原因で死に至る"
     }
   },
   {
@@ -1538,31 +1538,31 @@
   {
     "translation": {
       "en": "because there are so many opportunities for emergence, and our resources for early detection are limited.",
-      "ja": "発生の機会は多く 早期発見の手段は限られる"
+      "ja": "発生の機会は多く早期発見の手段は限られる"
     }
   },
   {
     "translation": {
-      "en": "All right, good morning, everybody. We'll go ahead and get started with roll call.",
-      "ja": "おはようございます まずは電話から"
+      "en": "[Syra] All right, good morning, everybody. We'll go ahead and get started with roll call.",
+      "ja": "おはようございますまずは電話から"
     }
   },
   {
     "translation": {
       "en": "As always, one person from each facility can just state that they are on.",
-      "ja": "おはようございます まずは電話から ニューヨーク 各施設から１人ずつ"
+      "ja": "おはようございますまずは電話から ニューヨーク各施設から１人ずつ"
     }
   },
   {
     "translation": {
-      "en": "We started this weekly system- wide seasonal flu activation call with all hospitals that we have across the system,",
-      "ja": "システム内の病院を連携し 毎週電話会議を始めた"
+      "en": "We started this weekly system-wide seasonal flu activation call with all hospitals that we have across the system,",
+      "ja": "システム内の病院を連携し毎週電話会議を始めた"
     }
   },
   {
     "translation": {
       "en": "and the whole purpose of it is really, as we progress with seasonal flu, they let us know any impact that they're having.",
-      "ja": "季節性インフルエンザの 近況報告が目的"
+      "ja": "季節性インフルエンザの近況報告が目的"
     }
   },
   {
@@ -1574,19 +1574,19 @@
   {
     "translation": {
       "en": "This is the actual first week that widespread activity has been reported.",
-      "ja": "インフルエンザ広範囲流行の 報告がありました"
+      "ja": "インフルエンザ広範囲流行の報告がありました"
     }
   },
   {
     "translation": {
       "en": "Last year's flu season was one of the worst that we've had in decades.",
-      "ja": "去年はここ数十年で 最大級の流行で"
+      "ja": "去年はここ数十年で最大級の流行で"
     }
   },
   {
     "translation": {
-      "en": "A record- breaking number of hospitalizations and deaths.",
-      "ja": "記録的な 入院患者と死者数が出た"
+      "en": "A record-breaking number of hospitalizations and deaths.",
+      "ja": "記録的な入院患者と死者数が出た"
     }
   },
   {
@@ -1597,25 +1597,25 @@
   },
   {
     "translation": {
-      "en": "No changes from the current status.",
+      "en": "[man 1] No changes from the current status.",
       "ja": "状況に変化なし"
     }
   },
   {
     "translation": {
       "en": "Great. Thank you. Coney Island, any changes?",
-      "ja": "どうも コニーアイランドは？"
+      "ja": "どうもコニーアイランドは？"
     }
   },
   {
     "translation": {
-      "en": "No changes.",
+      "en": "[man 2] No changes.",
       "ja": "変化なし"
     }
   },
   {
     "translation": {
-      "en": "Great. Thank you.",
+      "en": "[Syra] Great. Thank you.",
       "ja": "どうも"
     }
   },
@@ -1628,37 +1628,37 @@
   {
     "translation": {
       "en": "There were shortages of Tamiflu,",
-      "ja": "タミフルが不足し 入手できない患者が―"
+      "ja": "タミフルが不足し入手できない患者が―"
     }
   },
   {
     "translation": {
       "en": "so much so that folks were coming back to the emergency department",
-      "ja": "タミフルが不足し 入手できない患者が― 子供を入院させたいと 救急に戻ってきた"
+      "ja": "タミフルが不足し入手できない患者が― 子供を入院させたいと救急に戻ってきた"
     }
   },
   {
     "translation": {
       "en": "asking for their children to be admitted, because they couldn't get this medication.",
-      "ja": "子供を入院させたいと 救急に戻ってきた"
+      "ja": "子供を入院させたいと救急に戻ってきた"
     }
   },
   {
     "translation": {
-      "en": "- Queens, any changes? - No changes.",
+      "en": "-Queens, any changes? -[man 3] No changes.",
       "ja": "クイーンズは？ 変化なし"
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "[Syra] Thank you.",
       "ja": "どうも"
     }
   },
   {
     "translation": {
-      "en": "So we activated an emergency operation center to really get a bird's- eye view of what's happening system- wide",
-      "ja": "状況を幅広く把握し 必要な 情報や資源を提供するため"
+      "en": "So we activated an emergency operation center to really get a bird's-eye view of what's happening system-wide",
+      "ja": "状況を幅広く把握し 必要な情報や資源を提供するため"
     }
   },
   {
@@ -1675,32 +1675,32 @@
   },
   {
     "translation": {
-      "en": "Yes. We have four patients on droplet precautions as of Monday and seven positive flu tests.",
-      "ja": "月曜から４人飛沫(ひまつ)予防中 ７人が検査陽性"
+      "en": "[woman] Yes. We have four patients on droplet precautions as of Monday and seven positive flu tests.",
+      "ja": "月曜から４人飛沫(ひまつ)予防中７人が検査陽性"
     }
   },
   {
     "translation": {
-      "en": "All right. Excellent. Well, thank you all so much for joining. We appreciate it and we will see you next week.",
-      "ja": "ありがとうございました ではまた来週"
+      "en": "[Syra] All right. Excellent. Well, thank you all so much for joining. We appreciate it and we will see you next week.",
+      "ja": "ありがとうございましたではまた来週"
     }
   },
   {
     "translation": {
       "en": "Take care, everybody.",
-      "ja": "ありがとうございました ではまた来週 緊急対策は 施設だけでなく 世界中と繋がること"
+      "ja": "ありがとうございましたではまた来週 緊急対策は 施設だけでなく世界中と繋がること"
     }
   },
   {
     "translation": {
       "en": "Part of emergency management is, you know, you're not just at the facilities, but just for me also worldwide.",
-      "ja": "緊急対策は 施設だけでなく 世界中と繋がること"
+      "ja": "緊急対策は 施設だけでなく世界中と繋がること"
     }
   },
   {
     "translation": {
       "en": "Sometimes when I wake up in the morning and I see 20 different emails, not just internally but also externally,",
-      "ja": "朝起きると 20通のメールが 内部や外部から来る"
+      "ja": "朝起きると 20通のメールが内部や外部から来る"
     }
   },
   {
@@ -1717,7 +1717,7 @@
   },
   {
     "translation": {
-      "en": "On any given day, it's meetings back- to- back.",
+      "en": "On any given day, it's meetings back-to-back.",
       "ja": "毎日 会議の連続"
     }
   },
@@ -1736,7 +1736,7 @@
   {
     "translation": {
       "en": "If this was a real world event, what are some crisis standards...",
-      "ja": "実際に起きたら 緊急対策の基準は…"
+      "ja": "実際に起きたら緊急対策の基準は…"
     }
   },
   {
@@ -1748,13 +1748,13 @@
   {
     "translation": {
       "en": "You wanna call the Department of Health. They will walk you through the case definition and they will...",
-      "ja": "保健省から電話で 症例基準を聞き…"
+      "ja": "保健省から電話で症例基準を聞き…"
     }
   },
   {
     "translation": {
       "en": "This isn't Atlanta. Anyone email back from CDC yet?",
-      "ja": "アトランタじゃない ＣＤＣからメールは？"
+      "ja": "アトランタじゃないＣＤＣからメールは？"
     }
   },
   {
@@ -1766,43 +1766,43 @@
   {
     "translation": {
       "en": "A good chunk of my work is actually done at night, so it's not surprising at all if you get an email from me, like, 11:00, 12:00 at night.",
-      "ja": "夜も仕事するから 深夜でもメールを送る"
+      "ja": "夜も仕事するから深夜でもメールを送る"
     }
   },
   {
     "translation": {
-      "en": "- Thank you so much. - Thank you for coming.",
+      "en": "-[woman] Thank you so much. -[Syra] Thank you for coming.",
       "ja": "ありがとうございました"
     }
   },
   {
     "translation": {
       "en": "I'm perfectly fine with it. I need to meet with these folks, I need to see what's happening.",
-      "ja": "人と会って 状況を把握したいから"
+      "ja": "人と会って状況を把握したいから"
     }
   },
   {
     "translation": {
       "en": "The threat of special pathogens is constantly on my mind.",
-      "ja": "常に特定病原体の 脅威を考える"
+      "ja": "常に特定病原体の脅威を考える"
     }
   },
   {
     "translation": {
       "en": "Things like MERS, SARS, Ebola, flu.",
-      "ja": "MERS SARS エボラ インフルエンザ"
+      "ja": "MERS SARS エボラインフルエンザ"
     }
   },
   {
     "translation": {
       "en": "While these outbreaks are happening remotely in distant areas,",
-      "ja": "アウトブレイクは 遠くで起きても―"
+      "ja": "アウトブレイクは遠くで起きても―"
     }
   },
   {
     "translation": {
       "en": "we know that they're just one flight away from coming here in the United States",
-      "ja": "１便のフライトで 米国に入って来れる"
+      "ja": "１便のフライトで米国に入って来れる"
     }
   },
   {
@@ -1819,14 +1819,14 @@
   },
   {
     "translation": {
-      "en": "It wasn't halal, but I got...",
-      "ja": "ハラルじゃないけど ペストのパスタ"
+      "en": "[Hassan] It wasn't halal, but I got...",
+      "ja": "ハラルじゃないけどペストのパスタ"
     }
   },
   {
     "translation": {
-      "en": "- pasta pesto. - Good job.",
-      "ja": "ハラルじゃないけど ペストのパスタ いいね"
+      "en": "-pasta pesto. -Good job.",
+      "ja": "ハラルじゃないけどペストのパスタ いいね"
     }
   },
   {
@@ -1838,25 +1838,25 @@
   {
     "translation": {
       "en": "So I wanna make sure that I'm doing it not just for my children, but for the greater good of humanity, 'cause we wanna make sure people are safe.",
-      "ja": "我が子だけでなく 人類全体の安全を守りたい"
+      "ja": "我が子だけでなく人類全体の安全を守りたい"
     }
   },
   {
     "translation": {
-      "en": "Back in 2012, I was working at Pfizer doing antibody engineering.",
-      "ja": "2012年 ファイザー社で 抗体工学を研究していた"
+      "en": "[Jake] Back in 2012, I was working at Pfizer doing antibody engineering.",
+      "ja": "2012年 ファイザー社で抗体工学を研究していた"
     }
   },
   {
     "translation": {
       "en": "I wasn't working on vaccines, but I was learning a lot",
-      "ja": "ワクチンではないが 抗体の標的(ターゲット)への反応を 学ぶうちに―"
+      "ja": "ワクチンではないが 抗体の標的(ターゲット)への反応を学ぶうちに―"
     }
   },
   {
     "translation": {
       "en": "about how the populations of antibodies respond to their targets.",
-      "ja": "抗体の標的(ターゲット)への反応を 学ぶうちに―"
+      "ja": "抗体の標的(ターゲット)への反応を学ぶうちに―"
     }
   },
   {
@@ -1868,13 +1868,13 @@
   {
     "translation": {
       "en": "to what was really going on when someone gets vaccinated",
-      "ja": "ワクチンの効果や― 抗体を利用した薬の開発に 目覚めた"
+      "ja": "ワクチンの効果や― 抗体を利用した薬の開発に目覚めた"
     }
   },
   {
     "translation": {
       "en": "or when we're trying to engineer an antibody as a drug.",
-      "ja": "抗体を利用した薬の開発に 目覚めた"
+      "ja": "抗体を利用した薬の開発に目覚めた"
     }
   },
   {
@@ -1886,151 +1886,151 @@
   {
     "translation": {
       "en": "so I was a principal scientist with a Bachelor's Degree.",
-      "ja": "毎年昇進して 主任研究員になった"
+      "ja": "毎年昇進して主任研究員になった"
     }
   },
   {
     "translation": {
       "en": "And friends of mine were... They thought I was crazy.",
-      "ja": "友人に バカげてると言われたよ"
+      "ja": "友人にバカげてると言われたよ"
     }
   },
   {
     "translation": {
-      "en": "Some of them were like, Why are you leaving a job where normally you need a PhD, and a post doc, and eight years of experience?",
-      "ja": "博士号や経験が必要な 仕事を辞めるなんて"
+      "en": "Some of them were like, \"Why are you leaving a job where normally you need a PhD, and a post doc, and eight years of experience?\"",
+      "ja": "博士号や経験が必要な仕事を辞めるなんて"
     }
   },
   {
     "translation": {
       "en": "But I was worried if I waited another ten years, I might start having children and then I would be too scared to make a big jump.",
-      "ja": "でも10年後には家庭を持って リスクが取れなくなる"
+      "ja": "でも10年後には家庭を持ってリスクが取れなくなる"
     }
   },
   {
     "translation": {
-      "en": "I definitely was like, I could be messing up my career right now, but...",
+      "en": "I definitely was like, \"I could be messing up my career right now, but...\"",
       "ja": "キャリアが台無しになるかも"
     }
   },
   {
     "translation": {
       "en": "I came up with this idea and I thought it was too beautiful not to try.",
-      "ja": "でもアイデアを 試すしかなかった"
+      "ja": "でもアイデアを試すしかなかった"
     }
   },
   {
     "translation": {
       "en": "More often than not, startups are looking for the quickest path to funding.",
-      "ja": "スタートアップは 早い資金集めを求める"
+      "ja": "スタートアップは早い資金集めを求める"
     }
   },
   {
     "translation": {
-      "en": "A lot of them have a fake it till you make it approach.",
-      "ja": "その多くは “成功するまでハッタリ”"
+      "en": "A lot of them have a \"fake it till you make it\" approach.",
+      "ja": "その多くは“成功するまでハッタリ”"
     }
   },
   {
     "translation": {
-      "en": "Well, she was a college dropout who became the youngest self- made female billionaire.",
-      "ja": "彼女は大学中退で 最年少の女性億万長者に"
+      "en": "[newscaster 1] Well, she was a college dropout who became the youngest self-made female billionaire.",
+      "ja": "彼女は大学中退で最年少の女性億万長者に"
     }
   },
   {
     "translation": {
-      "en": "In 2003, then 19- year- old Elizabeth Holmes founded Theranos",
-      "ja": "2003年 当時19歳の ホームズはセラノスを設立"
+      "en": "[newscaster 2] In 2003, then 19-year-old Elizabeth Holmes founded Theranos",
+      "ja": "2003年 当時19歳のホームズはセラノスを設立"
     }
   },
   {
     "translation": {
       "en": "with the hope of using small amounts of blood to do what normally took numerous tubes.",
-      "ja": "通常何本も必要なことを 一滴の血液で実現するため"
+      "ja": "通常何本も必要なことを一滴の血液で実現するため"
     }
   },
   {
     "translation": {
-      "en": "- Does it work? - Yes.",
+      "en": "-Does it work? -Yes.",
       "ja": "可能？ はい"
     }
   },
   {
     "translation": {
-      "en": "- You're confident in that? - I am confident in that.",
+      "en": "-You're confident in that? -I am confident in that.",
       "ja": "自信は？ あります"
     }
   },
   {
     "translation": {
-      "en": "In order to get funding, they often have to convince investors about ideas that haven't been proven out yet,",
-      "ja": "資金集めのため 投資家を説得する必要がある"
+      "en": "[Jake] In order to get funding, they often have to convince investors about ideas that haven't been proven out yet,",
+      "ja": "資金集めのため投資家を説得する必要がある"
     }
   },
   {
     "translation": {
       "en": "and sometimes, they do not have sound science to back up their plans.",
-      "ja": "アイデアに 科学的な根拠がない場合も"
+      "ja": "アイデアに科学的な根拠がない場合も"
     }
   },
   {
     "translation": {
       "en": "The company faces new investigations from the Securities and Exchange Commission",
-      "ja": "証券取引委員会と 連邦検察局は―"
+      "ja": "証券取引委員会と連邦検察局は―"
     }
   },
   {
     "translation": {
       "en": "and a US attorney's office in California.",
-      "ja": "証券取引委員会と 連邦検察局は― セラノス社を調査中です"
+      "ja": "証券取引委員会と連邦検察局は― セラノス社を調査中です"
     }
   },
   {
     "translation": {
       "en": "That's in addition to an ongoing probe by the centers for Medicare and Medicaid services.",
-      "ja": "メディケアとメディケイドも 調査中"
+      "ja": "メディケアとメディケイドも調査中"
     }
   },
   {
     "translation": {
-      "en": "In bio tech, you need time",
+      "en": "[Jake] In bio tech, you need time",
       "ja": "バイオテクノロジーでは"
     }
   },
   {
     "translation": {
       "en": "to cultivate your credibility and your science. on top of those plans.",
-      "ja": "計画に伴(ともな)った 科学的実証に時間がかかる"
+      "ja": "計画に伴(ともな)った科学的実証に時間がかかる"
     }
   },
   {
     "translation": {
-      "en": "Now Elizabeth Holmes is facing some pretty serious prison time.",
+      "en": "[newscaster 3] Now Elizabeth Holmes is facing some pretty serious prison time.",
       "ja": "ホームズは懲役に直面"
     }
   },
   {
     "translation": {
-      "en": "Holmes and the company's former president were indicted yesterday on federal wire fraud charges.",
-      "ja": "通信詐欺容疑で ホームズと元社長を起訴"
+      "en": "[newscaster 4] Holmes and the company's former president were indicted yesterday on federal wire fraud charges.",
+      "ja": "通信詐欺容疑でホームズと元社長を起訴"
     }
   },
   {
     "translation": {
       "en": "So, eventually, some of these companies realize",
-      "ja": "次第にこれらの会社は― 話題性(ハイプ)だけでは 多額の 資金は集まらないと気づく"
+      "ja": "次第にこれらの会社は― 話題性(ハイプ)だけでは 多額の資金は集まらないと気づく"
     }
   },
   {
     "translation": {
       "en": "that the hype that they're built on is not enough to support their quest for the almighty dollar.",
-      "ja": "話題性(ハイプ)だけでは 多額の 資金は集まらないと気づく"
+      "ja": "話題性(ハイプ)だけでは 多額の資金は集まらないと気づく"
     }
   },
   {
     "translation": {
       "en": "There are a million reasons why an experiment can fail.",
-      "ja": "実験が失敗する理由は 百万とある"
+      "ja": "実験が失敗する理由は百万とある"
     }
   },
   {
@@ -2042,7 +2042,7 @@
   {
     "translation": {
       "en": "and so far, our data is very promising.",
-      "ja": "今の所 我々のデータは期待できる"
+      "ja": "今の所我々のデータは期待できる"
     }
   },
   {
@@ -2054,7 +2054,7 @@
   {
     "translation": {
       "en": "Our goal here is that we want to enable the world to have access to our vaccines.",
-      "ja": "目標は このワクチンを 世界中に届けること"
+      "ja": "目標は このワクチンを世界中に届けること"
     }
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "translation": {
       "en": "That's obviously low on the list for investors.",
-      "ja": "投資家にとっては 優先順位が低い"
+      "ja": "投資家にとっては優先順位が低い"
     }
   },
   {
@@ -2084,7 +2084,7 @@
   {
     "translation": {
       "en": "you either lose control of your company or you lose control of your vision.",
-      "ja": "会社のコントロールや 目標を見失う"
+      "ja": "会社のコントロールや目標を見失う"
     }
   },
   {
@@ -2102,25 +2102,25 @@
   {
     "translation": {
       "en": "major pharmaceutical companies who have way more money than us",
-      "ja": "我々より人員も資金もある― 大手製薬会社には 勝てないはず"
+      "ja": "我々より人員も資金もある― 大手製薬会社には勝てないはず"
     }
   },
   {
     "translation": {
       "en": "and have way more people than us.",
-      "ja": "大手製薬会社には 勝てないはず"
+      "ja": "大手製薬会社には勝てないはず"
     }
   },
   {
     "translation": {
       "en": "But my experience in big pharmas is they typically move very slow and they're risk averse.",
-      "ja": "でも大手製薬会社は 動きが遅く リスク回避型"
+      "ja": "でも大手製薬会社は動きが遅く リスク回避型"
     }
   },
   {
     "translation": {
       "en": "And so, there actually aren't that many people as you might think working on new techniques.",
-      "ja": "だから新技術は 多くは開発されていない"
+      "ja": "だから新技術は多くは開発されていない"
     }
   },
   {
@@ -2143,8 +2143,8 @@
   },
   {
     "translation": {
-      "en": "Goochi, dear son... Wake up, it's seven o'clock.",
-      "ja": "グーチ　起きて ７時だよ"
+      "en": "[in Hindi] Goochi, dear son... Wake up, it's seven o'clock.",
+      "ja": "グーチ　起きて７時だよ"
     }
   },
   {
@@ -2155,8 +2155,8 @@
   },
   {
     "translation": {
-      "en": "It was my family's dream to have a doctor in the family.",
-      "ja": "医師を出すことは 家族の夢だった"
+      "en": "[Dinesh] It was my family's dream to have a doctor in the family.",
+      "ja": "医師を出すことは家族の夢だった"
     }
   },
   {
@@ -2168,18 +2168,18 @@
   {
     "translation": {
       "en": "They thought the first one would become a doctor, he didn't.",
-      "ja": "長男は期待されたが 医師にならず―"
+      "ja": "長男は期待されたが医師にならず―"
     }
   },
   {
     "translation": {
-      "en": "Second, third, fourth...",
+      "en": "[in English] Second, third, fourth...",
       "ja": "次男 三男 四男…"
     }
   },
   {
     "translation": {
-      "en": "When it came to me, the fifth, they found some hope.",
+      "en": "[in Hindi] When it came to me, the fifth, they found some hope.",
       "ja": "五男の私に期待した"
     }
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "translation": {
-      "en": "Hello. Just getting ready.",
+      "en": "[Dinesh] Hello. Just getting ready.",
       "ja": "今支度してる"
     }
   },
@@ -2216,13 +2216,13 @@
   {
     "translation": {
       "en": "I used to be poor in studies. That is the truth.",
-      "ja": "成績は良くなかった 本当だよ"
+      "ja": "成績は良くなかった本当だよ"
     }
   },
   {
     "translation": {
       "en": "But they knew that what little I studied, I did it with all my heart.",
-      "ja": "でも勉強しなかった分 全力で心を込めた"
+      "ja": "でも勉強しなかった分全力で心を込めた"
     }
   },
   {
@@ -2239,14 +2239,14 @@
   },
   {
     "translation": {
-      "en": "Yes, Nisha, how are you?",
+      "en": "[Dinesh] Yes, Nisha, how are you?",
       "ja": "ニシャ　気分は？"
     }
   },
   {
     "translation": {
       "en": "Tell me this. When we admitted you to emergency three days back, when you'd came here from Sikar...",
-      "ja": "３日前 この病院に来た時と比べて"
+      "ja": "３日前この病院に来た時と比べて"
     }
   },
   {
@@ -2263,7 +2263,7 @@
   },
   {
     "translation": {
-      "en": "The problem was going on for 15 days.",
+      "en": "[man] The problem was going on for 15 days.",
       "ja": "15日間も続いてる"
     }
   },
@@ -2282,30 +2282,30 @@
   {
     "translation": {
       "en": "They are villagers,  so not many people there know about this.",
-      "ja": "現地の医師たちはＨ１Ｎ１の 知識もなかった"
+      "ja": "現地の医師たちはＨ１Ｎ１の知識もなかった"
     }
   },
   {
     "translation": {
       "en": "Even the doctors don't know about H1N1. So they didn't test her for this.",
-      "ja": "現地の医師たちはＨ１Ｎ１の 知識もなかった 検査もしなかった"
+      "ja": "現地の医師たちはＨ１Ｎ１の知識もなかった 検査もしなかった"
     }
   },
   {
     "translation": {
       "en": "No one realized that it would become such a serious disease.",
-      "ja": "こんなに重病になるとは 誰も思わなかった"
+      "ja": "こんなに重病になるとは誰も思わなかった"
     }
   },
   {
     "translation": {
-      "en": "The patient is not responding up to the mark which I want.",
+      "en": "[in English] The patient is not responding up to the mark which I want.",
       "ja": "あまり回復が見られない"
     }
   },
   {
     "translation": {
-      "en": "The problem is...",
+      "en": "[in Hindi] The problem is...",
       "ja": "問題は…"
     }
   },
@@ -2318,19 +2318,19 @@
   {
     "translation": {
       "en": "When they become seriously ill, they head for the cities. It is too late by then.",
-      "ja": "重病になって 都心に来た頃にはもう遅い"
+      "ja": "重病になって都心に来た頃にはもう遅い"
     }
   },
   {
     "translation": {
-      "en": "Any patient who had immunity low",
+      "en": "[in English] Any patient who had immunity low",
       "ja": "免疫力が低い患者は―"
     }
   },
   {
     "translation": {
       "en": "is a culprit for swine flu...",
-      "ja": "豚インフルエンザの 犠牲になり―"
+      "ja": "豚インフルエンザの犠牲になり―"
     }
   },
   {
@@ -2359,7 +2359,7 @@
   },
   {
     "translation": {
-      "en": "What's troubling you?",
+      "en": "[Dinesh in Hindi] What's troubling you?",
       "ja": "どうしました？"
     }
   },
@@ -2371,14 +2371,14 @@
   },
   {
     "translation": {
-      "en": "- What are you tired of? - I'm really tired.",
+      "en": "-[Dinesh] What are you tired of? -I'm really tired.",
       "ja": "何に疲れた？ 重い疲労感だ"
     }
   },
   {
     "translation": {
-      "en": "Generally, we Indians think it's a small cough, all you should do is take honey, lemon, turmeric and it goes away.",
-      "ja": "インド人は少し咳が出たら 蜂蜜とレモンとウコンで治す"
+      "en": "[Dheeraj in English] Generally, we Indians think it's a small cough, all you should do is take honey, lemon, turmeric and it goes away.",
+      "ja": "インド人は少し咳が出たら蜂蜜とレモンとウコンで治す"
     }
   },
   {
@@ -2390,18 +2390,18 @@
   {
     "translation": {
       "en": "Nobody realized it was swine flu.",
-      "ja": "ディラジ　息子 誰もインフルなんて 思わなかった"
+      "ja": "ディラジ　息子誰もインフルなんて思わなかった"
     }
   },
   {
     "translation": {
-      "en": "So, now the condition is guarded. I won't say it's good.",
-      "ja": "症状を抑えているが 良くはない"
+      "en": "[Dinesh in Hindi] So, now the condition is guarded. I won't say it's good.",
+      "ja": "症状を抑えているが良くはない"
     }
   },
   {
     "translation": {
-      "en": "His kidney and heart have also become weaker...  Right, right.",
+      "en": "[Dheeraj] His kidney and heart have also become weaker... [Dinesh] Right, right.",
       "ja": "腎臓と心臓機能も弱まってる"
     }
   },
@@ -2413,32 +2413,32 @@
   },
   {
     "translation": {
-      "en": "Until and unless he's in ICU, he's critical.",
+      "en": "[in English] Until and unless he's in ICU, he's critical.",
       "ja": "ＩＣＵにいないと危険だ"
     }
   },
   {
     "translation": {
-      "en": "At this point of time, lungs have infection,",
-      "ja": "現時点で肺に感染症 腎臓機能"
+      "en": "[Dheeraj] At this point of time, lungs have infection,",
+      "ja": "現時点で肺に感染症腎臓機能"
     }
   },
   {
     "translation": {
       "en": "kidneys are not working, heart is under constant pressure.",
-      "ja": "現時点で肺に感染症 腎臓機能 心臓も圧迫されてる"
+      "ja": "現時点で肺に感染症腎臓機能 心臓も圧迫されてる"
     }
   },
   {
     "translation": {
       "en": "So, if these three vital organs are not working...",
-      "ja": "この３つの臓器が 機能しなければ…"
+      "ja": "この３つの臓器が機能しなければ…"
     }
   },
   {
     "translation": {
       "en": "I mean, it's really difficult.",
-      "ja": "この３つの臓器が 機能しなければ… 非常に難しい"
+      "ja": "この３つの臓器が機能しなければ… 非常に難しい"
     }
   },
   {
@@ -2467,32 +2467,32 @@
   },
   {
     "translation": {
-      "en": "He's an old kind of man, I want to go home,",
+      "en": "He's an old kind of man, \"I want to go home,",
       "ja": "父は古風なタイプで"
     }
   },
   {
     "translation": {
-      "en": "I want to take a walk in the garden. You know, do stuff like that.",
-      "ja": "“家に帰って 庭を散歩したい”と言う"
+      "en": "I want to take a walk in the garden.\" You know, do stuff like that.",
+      "ja": "“家に帰って庭を散歩したい”と言う"
     }
   },
   {
     "translation": {
-      "en": "I said, Yes, you will be able to, but just have some time off.",
-      "ja": "“家に帰って 庭を散歩したい”と言う “少し休んだら やりたいことができる”"
+      "en": "I said, \"Yes, you will be able to, but just have some time off.",
+      "ja": "“家に帰って庭を散歩したい”と言う “少し休んだらやりたいことができる”"
     }
   },
   {
     "translation": {
       "en": "Just relax...",
-      "ja": "“少し休んだら やりたいことができる”"
+      "ja": "“少し休んだらやりたいことができる”"
     }
   },
   {
     "translation": {
-      "en": "and soon you will be able to do all of those.",
-      "ja": "“少し休んだら やりたいことができる” そう伝えた"
+      "en": "and soon you will be able to do all of those.\"",
+      "ja": "“少し休んだらやりたいことができる” そう伝えた"
     }
   },
   {
@@ -2509,25 +2509,25 @@
   },
   {
     "translation": {
-      "en": "- Why you have a Band- Aid right here? -",
-      "ja": "ニューヨーク ニューヨーク このバンドエイドは？ このバンドエイドは？"
+      "en": "-Why you have a Band-Aid right here? -[Amar crying]",
+      "ja": "ニューヨーク ニューヨークこのバンドエイドは？ このバンドエイドは？"
     }
   },
   {
     "translation": {
-      "en": "- Because I got hurt. - How'd you get hurt?",
+      "en": "-Because I got hurt. -How'd you get hurt?",
       "ja": "怪我したの どうやって？"
     }
   },
   {
     "translation": {
-      "en": "- I was bleeding. - In school?",
+      "en": "-I was bleeding. -In school?",
       "ja": "血が出た 学校で？"
     }
   },
   {
     "translation": {
-      "en": "- No, at home. -",
+      "en": "-No, at home. -[Hassan shouting indistinctly]",
       "ja": "家で"
     }
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "translation": {
-      "en": "I have a three- year- old and I have a five- year- old.",
+      "en": "I have a three-year-old and I have a five-year-old.",
       "ja": "３歳と５歳の子供がいる"
     }
   },
@@ -2575,13 +2575,13 @@
   },
   {
     "translation": {
-      "en": "- What happened? What happened? -",
+      "en": "-What happened? What happened? -[Amar crying]",
       "ja": "どうしたの？"
     }
   },
   {
     "translation": {
-      "en": "Why don't you build something? You guys wanna build something?",
+      "en": "[Syra] Why don't you build something? You guys wanna build something?",
       "ja": "何か作ろうか？"
     }
   },
@@ -2594,7 +2594,7 @@
   {
     "translation": {
       "en": "And then there's other days where I'm just super exhausted, 'cause it's just been a really long or a rough day.",
-      "ja": "すごく忙しくて 疲れてる日もある"
+      "ja": "すごく忙しくて疲れてる日もある"
     }
   },
   {
@@ -2611,7 +2611,7 @@
   },
   {
     "translation": {
-      "en": "- Mommy. - Yes.",
+      "en": "-[Amar] Mommy. -[Syra] Yes.",
       "ja": "ママ"
     }
   },
@@ -2623,37 +2623,37 @@
   },
   {
     "translation": {
-      "en": "- Mommy, look at me. - Yes.",
+      "en": "-Mommy, look at me. -Yes.",
       "ja": "ママ　見て"
     }
   },
   {
     "translation": {
       "en": "I actually don't tell them exactly what I do",
-      "ja": "子供たちには はっきり 仕事の話はしない"
+      "ja": "子供たちには はっきり仕事の話はしない"
     }
   },
   {
     "translation": {
       "en": "and I try not to also share that with school friends or mommies,",
-      "ja": "子供たちには はっきり 仕事の話はしない 学校の友達や 他のママにも話さない"
+      "ja": "子供たちには はっきり仕事の話はしない 学校の友達や他のママにも話さない"
     }
   },
   {
     "translation": {
       "en": "'cause people's fear factor kicks in first before logic.",
-      "ja": "学校の友達や 他のママにも話さない 人は理屈より先に 恐怖を感じる"
+      "ja": "学校の友達や他のママにも話さない 人は理屈より先に恐怖を感じる"
     }
   },
   {
     "translation": {
       "en": "If they think I had any remote kind of contact with disease,",
-      "ja": "病気と接触が あると思われると"
+      "ja": "病気と接触があると思われると"
     }
   },
   {
     "translation": {
-      "en": "it's like, Don't touch me, don't come near me.",
+      "en": "it's like, \"Don't touch me, don't come near me.\"",
       "ja": "“近づかないで”って"
     }
   },
@@ -2666,7 +2666,7 @@
   {
     "translation": {
       "en": "I started to work in the field of bio defense, I did some work with FBI related to bio defense.",
-      "ja": "ＦＢＩの生物テロ防御の仕事 から始めた"
+      "ja": "ＦＢＩの生物テロ防御の仕事から始めた"
     }
   },
   {
@@ -2678,13 +2678,13 @@
   {
     "translation": {
       "en": "and then the bio threat team that I was part of in 2014",
-      "ja": "修士号論文のテーマはエボラ 2014年 私がいた テキサス州 保健局のチームが―"
+      "ja": "修士号論文のテーマはエボラ 2014年 私がいた テキサス州保健局のチームが―"
     }
   },
   {
     "translation": {
       "en": "at the Texas Department of State Health Services,",
-      "ja": "2014年 私がいた テキサス州 保健局のチームが―"
+      "ja": "2014年 私がいた テキサス州保健局のチームが―"
     }
   },
   {
@@ -2695,32 +2695,32 @@
   },
   {
     "translation": {
-      "en": "The patient admitted to this hospital has tested positive for Ebola virus",
-      "ja": "入院した患者は エボラウイルス陽性でした"
+      "en": "[doctor] The patient admitted to this hospital has tested positive for Ebola virus",
+      "ja": "入院した患者はエボラウイルス陽性でした"
     }
   },
   {
     "translation": {
       "en": "and we're taking every step possible to manage this situation.",
-      "ja": "あらゆる手段を使って 状況に対応します"
+      "ja": "あらゆる手段を使って状況に対応します"
     }
   },
   {
     "translation": {
       "en": "No one thought at that time that this would ever reach the shores of the United States,",
-      "ja": "沿岸まで広まるとは 誰も思わなかったから"
+      "ja": "沿岸まで広まるとは誰も思わなかったから"
     }
   },
   {
     "translation": {
       "en": "and so, there was no active monitoring or active screening in place.",
-      "ja": "モニタリングも スクリーニングもしなかった"
+      "ja": "モニタリングもスクリーニングもしなかった"
     }
   },
   {
     "translation": {
-      "en": "While caring for the first patient to test positive for the Ebola virus in US soil, a Dallas nurse contracted the disease.",
-      "ja": "米国初のエボラ患者の 看病中 看護師が感染"
+      "en": "[newscaster] While caring for the first patient to test positive for the Ebola virus in US soil, a Dallas nurse contracted the disease.",
+      "ja": "米国初のエボラ患者の看病中 看護師が感染"
     }
   },
   {
@@ -2738,7 +2738,7 @@
   {
     "translation": {
       "en": "and able to identify patients suspected with these types of special pathogens.",
-      "ja": "特定病原体の感染者を 診断できるのか？"
+      "ja": "特定病原体の感染者を診断できるのか？"
     }
   },
   {
@@ -2750,7 +2750,7 @@
   {
     "translation": {
       "en": "whether this patient's coming in with Ebola virus disease or a pandemic flu,",
-      "ja": "エボラや インフルエンザ患者を"
+      "ja": "エボラやインフルエンザ患者を"
     }
   },
   {
@@ -2761,7 +2761,7 @@
   },
   {
     "translation": {
-      "en": "- I want to read the night squirrel. - Okay.",
+      "en": "-[Amar] I want to read the night squirrel. -Okay.",
       "ja": "リスの本読みたい"
     }
   },
@@ -2792,31 +2792,31 @@
   {
     "translation": {
       "en": "I remember on the card someone wrote that,",
-      "ja": "カードに― “みんな逃げてる時 あなたは向かって行った”"
+      "ja": "カードに― “みんな逃げてる時あなたは向かって行った”"
     }
   },
   {
     "translation": {
-      "en": "When everybody was running away from this,",
-      "ja": "“みんな逃げてる時 あなたは向かって行った”"
+      "en": "\"When everybody was running away from this,",
+      "ja": "“みんな逃げてる時あなたは向かって行った”"
     }
   },
   {
     "translation": {
-      "en": "you ran towards it. Are you crazy?",
-      "ja": "“みんな逃げてる時 あなたは向かって行った” “クレイジーだ”と"
+      "en": "you ran towards it. Are you crazy?\"",
+      "ja": "“みんな逃げてる時あなたは向かって行った” “クレイジーだ”と"
     }
   },
   {
     "translation": {
-      "en": "Like, Ha, ha, ha.",
+      "en": "Like, \"Ha, ha, ha.\"",
       "ja": "“クレイジーだ”と"
     }
   },
   {
     "translation": {
       "en": "But I think for me, it really translates into helping those around me.",
-      "ja": "でも私にとって それが周りを助けること"
+      "ja": "でも私にとってそれが周りを助けること"
     }
   },
   {
@@ -2834,13 +2834,13 @@
   {
     "translation": {
       "en": "And yes, I may be putting myself in harm's way,",
-      "ja": "自分の身を 危険に晒(さら)してるけど"
+      "ja": "自分の身を危険に晒(さら)してるけど"
     }
   },
   {
     "translation": {
       "en": "but this is something that I have knowledge of",
-      "ja": "自分の身を 危険に晒(さら)してるけど 持っている知識を生かすべき"
+      "ja": "自分の身を危険に晒(さら)してるけど 持っている知識を生かすべき"
     }
   },
   {
@@ -2858,13 +2858,13 @@
   {
     "translation": {
       "en": "and we need to do something about it, and that something is now.",
-      "ja": "今すぐ 手を打たなくてはいけない"
+      "ja": "今すぐ手を打たなくてはいけない"
     }
   },
   {
     "translation": {
       "en": "So, I have an upwards of ten projects happening at any given time.",
-      "ja": "常に10近くの プロジェクトを抱えてる"
+      "ja": "常に10近くのプロジェクトを抱えてる"
     }
   },
   {
@@ -2875,31 +2875,31 @@
   },
   {
     "translation": {
-      "en": "- Shall we cheers? - Yeah, let's cheers.",
+      "en": "-[Sarah] Shall we cheers? -[woman] Yeah, let's cheers.",
       "ja": "乾杯！"
     }
   },
   {
     "translation": {
-      "en": "- Start off with... - Cheers.",
-      "ja": "乾杯！ 乾杯！ サンフランシスコ"
+      "en": "-[man 1] Start off with... -[all] Cheers.",
+      "ja": "乾杯！ 乾杯！サンフランシスコ"
     }
   },
   {
     "translation": {
-      "en": "In the book, I read you're supposed to make eye contact with everyone.",
-      "ja": "サンフランシスコ 全員と目を合わせるべき って本で読んだわ"
+      "en": "[woman] In the book, I read you're supposed to make eye contact with everyone.",
+      "ja": "サンフランシスコ全員と目を合わせるべきって本で読んだわ"
     }
   },
   {
     "translation": {
-      "en": "- I did, I read the book. - What?",
-      "ja": "全員と目を合わせるべき って本で読んだわ 本当よ！"
+      "en": "-[woman] I did, I read the book. -[man 1] What?",
+      "ja": "全員と目を合わせるべきって本で読んだわ 本当よ！"
     }
   },
   {
     "translation": {
-      "en": "We haven't been eating very much of the food. You guys need to do a better job.",
+      "en": "[Sarah] We haven't been eating very much of the food. You guys need to do a better job.",
       "ja": "みんなもっと食べて"
     }
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "translation": {
-      "en": "I'm just like, Fuck it. I follow protocols all day.",
+      "en": "I'm just like, \"Fuck it. I follow protocols all day.\"",
       "ja": "毎日手順に従ってるから"
     }
   },
@@ -2923,38 +2923,38 @@
   },
   {
     "translation": {
-      "en": "This is basically what you've been working on the entire time we've known you, then.",
+      "en": "[man 1] This is basically what you've been working on the entire time we've known you, then.",
       "ja": "ずっと開発してることだね"
     }
   },
   {
     "translation": {
-      "en": "Yeah, and we could have a human vaccine ready by 2025.",
-      "ja": "ええ　2025年までに 人間のワクチンが作れる"
+      "en": "[Sarah] Yeah, and we could have a human vaccine ready by 2025.",
+      "ja": "ええ　2025年までに人間のワクチンが作れる"
     }
   },
   {
     "translation": {
       "en": "We just need the money, 'cause the ferret study alone",
-      "ja": "資金が必要 動物実験だけで 100万ドル以上"
+      "ja": "資金が必要 動物実験だけで100万ドル以上"
     }
   },
   {
     "translation": {
       "en": "is like over a million dollars.",
-      "ja": "動物実験だけで 100万ドル以上"
+      "ja": "動物実験だけで100万ドル以上"
     }
   },
   {
     "translation": {
-      "en": "Have you thought about crowd funding?",
+      "en": "[man 2] Have you thought about crowd funding?",
       "ja": "クラウドファンディングは？"
     }
   },
   {
     "translation": {
-      "en": "I have not thought about it. My understanding was that crowd funding doesn't get you that much money, but maybe I'm wrong.",
-      "ja": "考えたことないけど あまり集まらないかしら？"
+      "en": "[Sarah] I have not thought about it. My understanding was that crowd funding doesn't get you that much money, but maybe I'm wrong.",
+      "ja": "考えたことないけどあまり集まらないかしら？"
     }
   },
   {
@@ -2965,7 +2965,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - That's true.",
+      "en": "-Yeah. -[woman 1] That's true.",
       "ja": "たしかに"
     }
   },
@@ -2978,43 +2978,43 @@
   {
     "translation": {
       "en": "in our lifetimes, or in our parents' lifetimes,",
-      "ja": "祖父母の世代も 体験してないけど"
+      "ja": "祖父母の世代も体験してないけど"
     }
   },
   {
     "translation": {
       "en": "or even in our grandparents', but the next flu pandemic is...",
-      "ja": "祖父母の世代も 体験してないけど 次のパンデミックは もうすぐかもしれない"
+      "ja": "祖父母の世代も体験してないけど 次のパンデミックはもうすぐかもしれない"
     }
   },
   {
     "translation": {
       "en": "probably on the horizon.",
-      "ja": "次のパンデミックは もうすぐかもしれない"
+      "ja": "次のパンデミックはもうすぐかもしれない"
     }
   },
   {
     "translation": {
       "en": "We don't know if it will happen to us or our kids, but it will eventually happen.",
-      "ja": "私たちか子供の世代か いずれ起きるわ"
+      "ja": "私たちか子供の世代かいずれ起きるわ"
     }
   },
   {
     "translation": {
       "en": "It's scary 'cause in 1918, it killed over 50 million people, but we didn't even have planes,",
-      "ja": "1918年 旅客機のない時代に ５千万人以上が亡くなった"
+      "ja": "1918年 旅客機のない時代に５千万人以上が亡くなった"
     }
   },
   {
     "translation": {
       "en": "and we didn't have people traveling from Asia to North America on a daily basis,",
-      "ja": "アジアから北米へ 毎日人も来なかった"
+      "ja": "アジアから北米へ毎日人も来なかった"
     }
   },
   {
     "translation": {
       "en": "we didn't have factory farms with thousands of pigs and thousands of chickens.",
-      "ja": "豚や鶏の 工場式農場もなかった"
+      "ja": "豚や鶏の工場式農場もなかった"
     }
   },
   {
@@ -3026,7 +3026,7 @@
   {
     "translation": {
       "en": "So, it could be hundreds of millions of people that would die from the next pandemic",
-      "ja": "次に同様の パンデミックが起きたら"
+      "ja": "次に同様のパンデミックが起きたら"
     }
   },
   {
@@ -3043,25 +3043,25 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[woman 2] No.",
       "ja": "飲まない！"
     }
   },
   {
     "translation": {
-      "en": "You said it was two million dollars. - That's all you guys need? - Yeah.",
+      "en": "You said it was two million dollars. -That's all you guys need? -Yeah.",
       "ja": "200万ドル？　それだけ？"
     }
   },
   {
     "translation": {
-      "en": "Robyn can send that to you.",
+      "en": "[man 1] Robyn can send that to you.",
       "ja": "ロビンが送金するよ"
     }
   },
   {
     "translation": {
-      "en": "- No, I don't. I'm just saying-- - I got my checkbook.",
+      "en": "-No, I don't. I'm just saying-- -[man 1] I got my checkbook.",
       "ja": "そうじゃなくて―"
     }
   },
@@ -3073,44 +3073,44 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - We got a billion dollars.",
+      "en": "-[Sarah] Yeah. -We got a billion dollars.",
       "ja": "10億ドルの調達を発表したの"
     }
   },
   {
     "translation": {
-      "en": "- Holy shit. - A billion dollars, like, Okay.",
+      "en": "-[Sarah] Holy shit. -A billion dollars, like, \"Okay.\"",
       "ja": "わあ 10億ドルだって！"
     }
   },
   {
     "translation": {
       "en": "We wanna maintain full ownership, so we have to get government grants,",
-      "ja": "自社保有したいから 政府や非営利団体の助成金 じゃないと"
+      "ja": "自社保有したいから 政府や非営利団体の助成金じゃないと"
     }
   },
   {
     "translation": {
       "en": "or like...",
-      "ja": "政府や非営利団体の助成金 じゃないと"
+      "ja": "政府や非営利団体の助成金じゃないと"
     }
   },
   {
     "translation": {
-      "en": "non- profit foundation grants, like through the Gates Foundation.",
-      "ja": "政府や非営利団体の助成金 じゃないと ゲイツ財団とか"
+      "en": "non-profit foundation grants, like through the Gates Foundation.",
+      "ja": "政府や非営利団体の助成金じゃないと ゲイツ財団とか"
     }
   },
   {
     "translation": {
-      "en": "So, you partnered with this foundation, Bill and Melinda Gates Foundation, - and they said yes? - Yeah, well, we...",
-      "ja": "ビル＆メリンダ·ゲイツ財団 は協力してくれると？"
+      "en": "[woman 2] So, you partnered with this foundation, Bill and Melinda Gates Foundation, -and they said yes? -Yeah, well, we...",
+      "ja": "ビル＆メリンダ·ゲイツ財団は協力してくれると？"
     }
   },
   {
     "translation": {
       "en": "We applied for a grant and we've been waiting to hear back.",
-      "ja": "助成金の申請をして 返事を待ってる"
+      "ja": "助成金の申請をして返事を待ってる"
     }
   },
   {
@@ -3121,14 +3121,14 @@
   },
   {
     "translation": {
-      "en": "that a respiratory- spread pathogen would kill more than 30 million people",
-      "ja": "呼吸感染する病原体は― １年で３千万人以上の 死者を出すおそれがある"
+      "en": "that a respiratory-spread pathogen would kill more than 30 million people",
+      "ja": "呼吸感染する病原体は― １年で３千万人以上の死者を出すおそれがある"
     }
   },
   {
     "translation": {
       "en": "in less than a year.",
-      "ja": "１年で３千万人以上の 死者を出すおそれがある"
+      "ja": "１年で３千万人以上の死者を出すおそれがある"
     }
   },
   {
@@ -3139,56 +3139,56 @@
   },
   {
     "translation": {
-      "en": "Research into a universal flu vaccine just got a big boost, thanks to Bill Gates.",
-      "ja": "ビル·ゲイツのおかげで 万能ワクチンの研究が躍進"
+      "en": "[reporter] Research into a universal flu vaccine just got a big boost, thanks to Bill Gates.",
+      "ja": "ビル·ゲイツのおかげで万能ワクチンの研究が躍進"
     }
   },
   {
     "translation": {
       "en": "The Bill and Melinda Gates Foundation is partnering with the CEO of Alphabet",
-      "ja": "ゲイツ財団はアルファベット と提携し"
+      "ja": "ゲイツ財団はアルファベットと提携し"
     }
   },
   {
     "translation": {
       "en": "to establish a $12 million fund for research into a universal flu vaccine.",
-      "ja": "万能ワクチンの 研究資金1200万ドルを提供"
+      "ja": "万能ワクチンの研究資金1200万ドルを提供"
     }
   },
   {
     "translation": {
       "en": "He says the vaccine is needed to help combat possible future pandemics.",
-      "ja": "将来のパンデミック対策 に必要なワクチンだと"
+      "ja": "将来のパンデミック対策に必要なワクチンだと"
     }
   },
   {
     "translation": {
       "en": "The Gates Foundation has an amazing record trying to help global populations...",
-      "ja": "ゲイツ財団は世界人口に 大きく貢献している"
+      "ja": "ゲイツ財団は世界人口に大きく貢献している"
     }
   },
   {
     "translation": {
       "en": "and they would enable communities that can't pay for it",
-      "ja": "〝ポリオ撲滅〞 貧困層にも 届けることができる 貧困層にも 届けることができる"
+      "ja": "〝ポリオ撲滅〞 貧困層にも届けることができる 貧困層にも届けることができる"
     }
   },
   {
     "translation": {
       "en": "to be able to be beneficiaries.",
-      "ja": "貧困層にも 届けることができる"
+      "ja": "貧困層にも届けることができる"
     }
   },
   {
     "translation": {
       "en": "I am trying not to sit on pins and needles to wait to hear the results.",
-      "ja": "結果を待つ間 緊張しないようにしてる"
+      "ja": "結果を待つ間緊張しないようにしてる"
     }
   },
   {
     "translation": {
-      "en": "It's cool stuff, so I think they're really interested in it. It's just...",
-      "ja": "興味を持って もらえるはずだけど…"
+      "en": "It's cool stuff, so I think they're really interested in it. It's just... [sighs]",
+      "ja": "興味を持ってもらえるはずだけど…"
     }
   },
   {
@@ -3199,14 +3199,14 @@
   },
   {
     "translation": {
-      "en": "- Should we cheers? - Yeah, let's cheers again.",
+      "en": "-[Sarah] Should we cheers? -[woman 2] Yeah, let's cheers again.",
       "ja": "もう一度乾杯"
     }
   },
   {
     "translation": {
-      "en": "Jefferson County Hospital, how can I help you?",
-      "ja": "オクラホマ州 ワウリカ ジェファーソン 郡病院です ジェファーソン 郡病院です"
+      "en": "[Holly] Jefferson County Hospital, how can I help you?",
+      "ja": "オクラホマ州ワウリカジェファーソン郡病院です ジェファーソン郡病院です"
     }
   },
   {
@@ -3218,7 +3218,7 @@
   {
     "translation": {
       "en": "So, Jefferson County Hospital, where I work, is in a rural setting.",
-      "ja": "ジェファーソン郡病院は 田舎の中"
+      "ja": "ジェファーソン郡病院は田舎の中"
     }
   },
   {
@@ -3236,7 +3236,7 @@
   {
     "translation": {
       "en": "The closest other hospital is 35 to 40 minutes away.",
-      "ja": "最寄りの別の病院は 35〜40分離れてる"
+      "ja": "最寄りの別の病院は35〜40分離れてる"
     }
   },
   {
@@ -3248,12 +3248,12 @@
   {
     "translation": {
       "en": "And if you have to travel an hour to get healthcare,",
-      "ja": "医療を受けるのに １時間かかるなら"
+      "ja": "医療を受けるのに１時間かかるなら"
     }
   },
   {
     "translation": {
-      "en": "people are gonna say, I'd rather not.",
+      "en": "people are gonna say, \"I'd rather not.\"",
       "ja": "人々は“やめとく”と言う"
     }
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "translation": {
-      "en": "- Why not? - They're gonna get me right here.",
+      "en": "-Why not? -[crying] They're gonna get me right here.",
       "ja": "ここ刺される！"
     }
   },
@@ -3283,8 +3283,8 @@
   },
   {
     "translation": {
-      "en": "When October, November come, then I begin to think, Okay, here we go.",
-      "ja": "10月や11月になると “来た”って思うわ"
+      "en": "[Holly] When October, November come, then I begin to think, \"Okay, here we go.\"",
+      "ja": "10月や11月になると“来た”って思うわ"
     }
   },
   {
@@ -3295,13 +3295,13 @@
   },
   {
     "translation": {
-      "en": "Okay, let's got see what they gotta do.",
+      "en": "[woman] Okay, let's got see what they gotta do.",
       "ja": "何するのかな"
     }
   },
   {
     "translation": {
-      "en": "- I don't want any shot. - You're not getting any shots",
+      "en": "-[boy] I don't want any shot. -[woman] You're not getting any shots",
       "ja": "注射ヤダ 注射しない　痛くないから"
     }
   },
@@ -3313,61 +3313,61 @@
   },
   {
     "translation": {
-      "en": "- You have a seat and wait for Mommy... - I don't want to...",
+      "en": "-You have a seat and wait for Mommy... -[boy] I don't want to...",
       "ja": "座ってママを待ってて"
     }
   },
   {
     "translation": {
-      "en": "By the 13th of January last year,",
-      "ja": "去年の１月13日までに オクラホマでは"
+      "en": "[Holly] By the 13th of January last year,",
+      "ja": "去年の１月13日までにオクラホマでは"
     }
   },
   {
     "translation": {
       "en": "we'd already had over 70 Oklahomans that had passed away from the flu.",
-      "ja": "去年の１月13日までに オクラホマでは 70人以上が インフルエンザで亡くなった"
+      "ja": "去年の１月13日までにオクラホマでは 70人以上がインフルエンザで亡くなった"
     }
   },
   {
     "translation": {
       "en": "Seventy people.",
-      "ja": "70人以上が インフルエンザで亡くなった"
+      "ja": "70人以上がインフルエンザで亡くなった"
     }
   },
   {
     "translation": {
       "en": "That is a lot of folks that died from an illness that could be prevented",
-      "ja": "ワクチンで予防できる病気で こんなに多くが亡くなった"
+      "ja": "ワクチンで予防できる病気でこんなに多くが亡くなった"
     }
   },
   {
     "translation": {
       "en": "with a vaccine or that could be prevented with good hand hygiene",
-      "ja": "ワクチンで予防できる病気で こんなに多くが亡くなった 手洗いや 早期の診察でも予防できた"
+      "ja": "ワクチンで予防できる病気でこんなに多くが亡くなった 手洗いや早期の診察でも予防できた"
     }
   },
   {
     "translation": {
       "en": "or if the patient knew to come in earlier",
-      "ja": "手洗いや 早期の診察でも予防できた"
+      "ja": "手洗いや早期の診察でも予防できた"
     }
   },
   {
     "translation": {
-      "en": "and they didn't just say, Well, I just have the flu.",
-      "ja": "手洗いや 早期の診察でも予防できた “ただの風邪”と言って"
+      "en": "and they didn't just say, \"Well, I just have the flu.\"",
+      "ja": "手洗いや早期の診察でも予防できた “ただの風邪”と言って"
     }
   },
   {
     "translation": {
-      "en": "And then they die from just the flu. That's just tragic.",
+      "en": "And then they die from \"just the flu.\" That's just tragic.",
       "ja": "それで死ぬなんて 悲劇だわ"
     }
   },
   {
     "translation": {
-      "en": "- Stop! - I don't wanna get a shot!",
+      "en": "-[woman] Stop! -[crying] I don't wanna get a shot!",
       "ja": "やめて！ 注射はヤダ！"
     }
   },
@@ -3379,26 +3379,26 @@
   },
   {
     "translation": {
-      "en": "- I really don't want a shot! - I know. I know.",
+      "en": "-I really don't want a shot! -I know. I know.",
       "ja": "注射ヤダ！"
     }
   },
   {
     "translation": {
-      "en": "You ready for it, you want us to do it, momma?",
+      "en": "[woman 1] You ready for it, you want us to do it, momma?",
       "ja": "お母さん やりますか？"
     }
   },
   {
     "translation": {
-      "en": "- Thank you, doctor. - Uh- huh.",
+      "en": "-[woman 2] Thank you, doctor. -Uh-huh.",
       "ja": "ありがとうございます"
     }
   },
   {
     "translation": {
-      "en": "Going into the flu season this year, what I have in my mind is, It's gonna be like last year.",
-      "ja": "今年のインフルエンザも 去年と同じだと思ってた"
+      "en": "Going into the flu season this year, what I have in my mind is, \"It's gonna be like last year.\"",
+      "ja": "今年のインフルエンザも去年と同じだと思ってた"
     }
   },
   {
@@ -3410,25 +3410,25 @@
   {
     "translation": {
       "en": "and if you've had the flu already, guess what, there's a good chance you could get it again.",
-      "ja": "一度かかっても再感染 するかもしれません"
+      "ja": "一度かかっても再感染するかもしれません"
     }
   },
   {
     "translation": {
-      "en": "Can you believe that? We are nearing record breaking numbers in the state of Oklahoma when it comes to flu- related deaths.",
-      "ja": "インフルエンザ死者数は 地元では記録的です"
+      "en": "[male newscaster] Can you believe that? We are nearing record breaking numbers in the state of Oklahoma when it comes to flu-related deaths.",
+      "ja": "インフルエンザ死者数は地元では記録的です"
     }
   },
   {
     "translation": {
-      "en": "- On that side? Okay. - Mmm- hmm.",
+      "en": "-On that side? Okay. -Mmm-hmm.",
       "ja": "こっち側？"
     }
   },
   {
     "translation": {
-      "en": "Even one death in a tiny town like ours is a pretty big deal.",
-      "ja": "この小さな町では １人の死者でも大問題"
+      "en": "[Holly] Even one death in a tiny town like ours is a pretty big deal.",
+      "ja": "この小さな町では１人の死者でも大問題"
     }
   },
   {
@@ -3440,12 +3440,12 @@
   {
     "translation": {
       "en": "I don't want to lose a patient to the flu.",
-      "ja": "インフルエンザで 患者を死なせたくない"
+      "ja": "インフルエンザで患者を死なせたくない"
     }
   },
   {
     "translation": {
-      "en": "Sit up, ma'am.",
+      "en": "[in Hindi] Sit up, ma'am.",
       "ja": "起きて"
     }
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "translation": {
-      "en": "- Was this connected last night? - No, sir.",
+      "en": "-Was this connected last night? -[man] No, sir.",
       "ja": "昨夜は酸素を繋げた？ いいえ"
     }
   },
@@ -3476,19 +3476,19 @@
   {
     "translation": {
       "en": "Before, you couldn't stay without it at night.",
-      "ja": "昨夜は酸素吸入なし もう以前のように 夜酸素は必要じゃない"
+      "ja": "昨夜は酸素吸入なし もう以前のように夜酸素は必要じゃない"
     }
   },
   {
     "translation": {
       "en": "There was no need for it now.",
-      "ja": "もう以前のように 夜酸素は必要じゃない"
+      "ja": "もう以前のように夜酸素は必要じゃない"
     }
   },
   {
     "translation": {
       "en": "Oxygen was running at ten liters before, now it is at one liter.",
-      "ja": "もう以前のように 夜酸素は必要じゃない 前は10リットル 今は１リットル"
+      "ja": "もう以前のように夜酸素は必要じゃない 前は10リットル今は１リットル"
     }
   },
   {
@@ -3505,8 +3505,8 @@
   },
   {
     "translation": {
-      "en": "Only at night, just a little, but not as much as before.",
-      "ja": "今は夜だけ 前ほどひどくない"
+      "en": "[Dinesh] Only at night, just a little, but not as much as before.",
+      "ja": "今は夜だけ前ほどひどくない"
     }
   },
   {
@@ -3518,13 +3518,13 @@
   {
     "translation": {
       "en": "You are getting bored here all by yourself. In the ward, you will talk to others, converse with them, you will not be bored.",
-      "ja": "ここじゃ１人で退屈でしょう 病棟なら他の人と話せる"
+      "ja": "ここじゃ１人で退屈でしょう病棟なら他の人と話せる"
     }
   },
   {
     "translation": {
       "en": "We are shifting her to the ward. Now, there is no requirement of ICU.",
-      "ja": "病棟に移動させよう ＩＣＵは不要になった"
+      "ja": "病棟に移動させようＩＣＵは不要になった"
     }
   },
   {
@@ -3536,7 +3536,7 @@
   {
     "translation": {
       "en": "I feel a great joy easing the suffering of others.",
-      "ja": "人々の苦しみを和らげるのが 私の喜び"
+      "ja": "人々の苦しみを和らげるのが私の喜び"
     }
   },
   {
@@ -3548,19 +3548,19 @@
   {
     "translation": {
       "en": "and if I bring tears of joy to their mother, that is the most priceless thing for me.",
-      "ja": "彼らの母親のうれし涙 これ以上のものはない"
+      "ja": "彼らの母親のうれし涙これ以上のものはない"
     }
   },
   {
     "translation": {
-      "en": "But these are complicated cases...  When the body is not responding to any treatment.",
-      "ja": "だがこれは複雑な症例 体が治療に反応しない"
+      "en": "But these are complicated cases... [in English] When the body is not responding to any treatment.",
+      "ja": "だがこれは複雑な症例体が治療に反応しない"
     }
   },
   {
     "translation": {
-      "en": "Often, in the 15 years of my professional life... when a patient of mine did not survive...",
-      "ja": "この15年間で 患者が亡くなるたび…"
+      "en": "[in Hindi] Often, in the 15 years of my professional life... when a patient of mine did not survive...",
+      "ja": "この15年間で患者が亡くなるたび…"
     }
   },
   {
@@ -3572,55 +3572,55 @@
   {
     "translation": {
       "en": "The sadness I feel when I lose a patient is more than the happiness of saving ten.",
-      "ja": "患者を亡くす悲しみは 救う喜びより重い"
+      "ja": "患者を亡くす悲しみは救う喜びより重い"
     }
   },
   {
     "translation": {
-      "en": "Hello.",
+      "en": "[in English] Hello.",
       "ja": "もしもし"
     }
   },
   {
     "translation": {
-      "en": "I never switch off my mobile for even a second in 24 hours.",
-      "ja": "24時間 １秒も携帯を切らない"
+      "en": "[in Hindi] I never switch off my mobile for even a second in 24 hours.",
+      "ja": "24時間１秒も携帯を切らない"
     }
   },
   {
     "translation": {
-      "en": "Never.",
+      "en": "[in English] Never.",
       "ja": "絶対に"
     }
   },
   {
     "translation": {
-      "en": "Only a person who has lost a patient will understand this.",
-      "ja": "患者を亡くした者にしか わからない"
+      "en": "[in Hindi] Only a person who has lost a patient will understand this.",
+      "ja": "患者を亡くした者にしかわからない"
     }
   },
   {
     "translation": {
       "en": "Even if others don't like it, including my wife, or my kids, I don't care.",
-      "ja": "妻や子供に嫌がられても 気にしない"
+      "ja": "妻や子供に嫌がられても気にしない"
     }
   },
   {
     "translation": {
       "en": "There is still no respite from swine flu.",
-      "ja": "豚インフルエンザに 休みはない"
+      "ja": "豚インフルエンザに休みはない"
     }
   },
   {
     "translation": {
-      "en": "Alarming rise in the number of swine flu cases.",
-      "ja": "豚インフルエンザの 報告が急増"
+      "en": "[newscaster 1 in English] Alarming rise in the number of swine flu cases.",
+      "ja": "豚インフルエンザの報告が急増"
     }
   },
   {
     "translation": {
       "en": "Over 9,000 people have tested positive for swine flu across India",
-      "ja": "豚インフルエンザの 報告が急増 インドでは９千人以上が陽性"
+      "ja": "豚インフルエンザの報告が急増 インドでは９千人以上が陽性"
     }
   },
   {
@@ -3632,7 +3632,7 @@
   {
     "translation": {
       "en": "The death toll has now jumped to 312.",
-      "ja": "死亡者数は312人に はね上がりました"
+      "ja": "死亡者数は312人にはね上がりました"
     }
   },
   {
@@ -3644,13 +3644,13 @@
   {
     "translation": {
       "en": "which means that once it reaches that level again, the spread will be that much faster.",
-      "ja": "そのレベルに達すると さらに早く広まります"
+      "ja": "そのレベルに達するとさらに早く広まります"
     }
   },
   {
     "translation": {
-      "en": "According to the CDC, last flu season killed 180 children.",
-      "ja": "昨シーズンの子供の インフル死亡者数は180人"
+      "en": "[newscaster 2] According to the CDC, last flu season killed 180 children.",
+      "ja": "昨シーズンの子供のインフル死亡者数は180人"
     }
   },
   {
@@ -3662,31 +3662,31 @@
   {
     "translation": {
       "en": "this new season ushers in one big question. Are we in for a repeat?",
-      "ja": "今シーズンも また同じことが？"
+      "ja": "今シーズンもまた同じことが？"
     }
   },
   {
     "translation": {
-      "en": "And everything indicates that this upcoming flu season, it's gonna be worse than usual.",
-      "ja": "今シーズンは通常より ひどくなる兆候(ちょうこう)が見られます"
+      "en": "[newscaster 3] And everything indicates that this upcoming flu season, it's gonna be worse than usual.",
+      "ja": "今シーズンは通常よりひどくなる兆候(ちょうこう)が見られます"
     }
   },
   {
     "translation": {
-      "en": "As we've seen various flu scares, we haven't had a super good response.",
-      "ja": "インフルエンザ脅威への 良い対応は見られない"
+      "en": "[Bill Gates] As we've seen various flu scares, we haven't had a super good response.",
+      "ja": "インフルエンザ脅威への良い対応は見られない"
     }
   },
   {
     "translation": {
       "en": "And it's pretty surprising how little preparedness there is for it.",
-      "ja": "驚くべきことに 対策が少ないのだ"
+      "ja": "驚くべきことに対策が少ないのだ"
     }
   },
   {
     "translation": {
       "en": "Fortunately, there's some amazing people who dedicate their life to this.",
-      "ja": "このことに 人生を捧げる人々がいる"
+      "ja": "このことに人生を捧げる人々がいる"
     }
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "translation": {
       "en": "But this is the greatest risk, and we're not ready.",
-      "ja": "これは最大の脅威 我々は準備不足だ"
+      "ja": "これは最大の脅威我々は準備不足だ"
     }
   }
 ]

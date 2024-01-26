@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "- ♪ It's Music Time ♪ -",
+      "en": "-[all] ♪ It's Music Time ♪ -[Tootson tooting]",
       "ja": "ミュージック･タイム！"
     }
   },
@@ -25,7 +25,7 @@
   },
   {
     "translation": {
-      "en": "- And I'm Ahan. - I'm Maple.",
+      "en": "-And I'm Ahan. -I'm Maple.",
       "ja": "ぼくはアハン メープル"
     }
   },
@@ -49,20 +49,20 @@
   },
   {
     "translation": {
-      "en": "- ♪ To Music Time ♪ -",
+      "en": "-♪ To Music Time ♪ -[Tootson tooting]",
       "ja": "ミュージック･タイム"
     }
   },
   {
     "translation": {
       "en": "♪ It's Music Time ♪",
-      "ja": "ミュージック･タイム！ ミュージック･タイム！ リトルベイビーバム: ミュージックタイム"
+      "ja": "ミュージック･タイム！ ミュージック･タイム！ リトルベイビーバム:ミュージックタイム"
     }
   },
   {
     "translation": {
-      "en": "Little Baby Bum.",
-      "ja": "リトルベイビーバム: ミュージックタイム リトルベイビーバム リトルベイビーバム: ミュージックタイム"
+      "en": "[Mia] Little Baby Bum.",
+      "ja": "リトルベイビーバム:ミュージックタイム リトルベイビーバム リトルベイビーバム:ミュージックタイム"
     }
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "translation": {
-      "en": "- Beep- beep. -",
+      "en": "-Beep-beep. -[bus horn honks]",
       "ja": "プップー"
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "- Hi, Timberly. - Hi.",
+      "en": "-Hi, Timberly. -Hi.",
       "ja": "先生　(せんせい)こんにちは"
     }
   },
@@ -115,38 +115,38 @@
   },
   {
     "translation": {
-      "en": "Higgledy- piggledy hound, it must be time for the secret sound.",
-      "ja": "あらあらまあまあ ひみつの音(おと)のじかんね"
+      "en": "Higgledy-piggledy hound, it must be time for the secret sound.",
+      "ja": "あらあらまあまあひみつの音(おと)のじかんね"
     }
   },
   {
     "translation": {
-      "en": "I love this part of music time.",
+      "en": "[whispers] I love this part of music time.",
       "ja": "ひみつの音(おと)をきいて"
     }
   },
   {
     "translation": {
       "en": "It's a guessing game where we try to guess a secret sound.",
-      "ja": "なんの音(おと)か あてるあそびだよ"
+      "ja": "なんの音(おと)かあてるあそびだよ"
     }
   },
   {
     "translation": {
-      "en": "The only thing I like more than guessing sounds is making them.",
-      "ja": "音(おと)をあてるのもいいけど 音(おと)をだすのはもっとすき"
+      "en": "The only thing I like more than guessing sounds is making them. [mimics farting]",
+      "ja": "音(おと)をあてるのもいいけど音(おと)をだすのはもっとすき"
     }
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "ja": "トゥートゥソン"
     }
   },
   {
     "translation": {
       "en": "Hello, there, Tootson Train. Oh, you always bring the best secret sounds.",
-      "ja": "トゥートゥソンが ひみつの音(おと)をはこんできた"
+      "ja": "トゥートゥソンがひみつの音(おと)をはこんできた"
     }
   },
   {
@@ -163,13 +163,13 @@
   },
   {
     "translation": {
-      "en": "- Oh, I know. It's a-- - Wow!",
+      "en": "-Oh, I know. It's a-- -[Timberly] Wow!",
       "ja": "わかった…"
     }
   },
   {
     "translation": {
-      "en": "The right answer might be in there somewhere.",
+      "en": "[laughs] The right answer might be in there somewhere.",
       "ja": "このなかにこたえがあるかも"
     }
   },
@@ -205,7 +205,7 @@
   },
   {
     "translation": {
-      "en": "None of those sound the same to me.",
+      "en": "[chuckles] None of those sound the same to me.",
       "ja": "どれもちがうよ"
     }
   },
@@ -235,7 +235,7 @@
   },
   {
     "translation": {
-      "en": "Beep- beep- beep.",
+      "en": "Beep-beep-beep.",
       "ja": "プップー"
     }
   },
@@ -253,7 +253,7 @@
   },
   {
     "translation": {
-      "en": "Beep- beep!",
+      "en": "Beep-beep!",
       "ja": "プップー"
     }
   },
@@ -271,7 +271,7 @@
   },
   {
     "translation": {
-      "en": "The part that goes swish, swish, swish, really shows off my dance moves.",
+      "en": "The part that goes \"swish, swish, swish,\" really shows off my dance moves.",
       "ja": "“シュッシュッシュッ”も ダンスがかっこいいの"
     }
   },
@@ -290,37 +290,37 @@
   {
     "translation": {
       "en": "or we'll never make it onto the rainbow stage.",
-      "ja": "レインボー･ステージへ いそがなきゃ"
+      "ja": "レインボー･ステージへいそがなきゃ"
     }
   },
   {
     "translation": {
       "en": "I think it's time I taught you all how to rest.",
-      "ja": "そろそろ “やすむ”をおしえるわ"
+      "ja": "そろそろ“やすむ”をおしえるわ"
     }
   },
   {
     "translation": {
       "en": "Rest? Like a nap? I already know how to do that.",
-      "ja": "やすむ？ おひるねならできるよ"
+      "ja": "やすむ？おひるねならできるよ"
     }
   },
   {
     "translation": {
-      "en": "That tickles, Twinkle.",
+      "en": "[giggles] That tickles, Twinkle.",
       "ja": "くすぐったい"
     }
   },
   {
     "translation": {
-      "en": "Oh, that is one kind of rest, Ahan. And I… I do enjoy a good nap.",
-      "ja": "それも“やすむ”ね わたしも おひるねはすき"
+      "en": "[chuckling] Oh, that is one kind of rest, Ahan. And I… I do enjoy a good nap.",
+      "ja": "それも“やすむ”ねわたしも おひるねはすき"
     }
   },
   {
     "translation": {
       "en": "But in music, a rest means stop,",
-      "ja": "でも音楽(おんがく)の“やすむ”は とまることなの"
+      "ja": "でも音楽(おんがく)の“やすむ”はとまることなの"
     }
   },
   {
@@ -332,12 +332,12 @@
   {
     "translation": {
       "en": "And I know a game we can play to show you just what I mean.",
-      "ja": "りかいするのに ぴったりのあそびがある"
+      "ja": "りかいするのにぴったりのあそびがある"
     }
   },
   {
     "translation": {
-      "en": "To the rug.",
+      "en": "[sing-song] To the rug.",
       "ja": "移動(いどう)して"
     }
   },
@@ -349,7 +349,7 @@
   },
   {
     "translation": {
-      "en": "- Hooray! - Yay!",
+      "en": "-[children] Hooray! -[Max] Yay!",
       "ja": "やったー！"
     }
   },
@@ -362,7 +362,7 @@
   {
     "translation": {
       "en": "For this game, Twinkle will be our musical traffic light.",
-      "ja": "トゥインクルが 信号(しんごう)のかわりをする"
+      "ja": "トゥインクルが信号(しんごう)のかわりをする"
     }
   },
   {
@@ -403,7 +403,7 @@
   },
   {
     "translation": {
-      "en": "♪ The wheels on the bus Go round and round ♪",
+      "en": "[Timberly] ♪ The wheels on the bus Go round and round ♪",
       "ja": "バスのタイヤはクルクル"
     }
   },
@@ -427,7 +427,7 @@
   },
   {
     "translation": {
-      "en": "- - …go!",
+      "en": "-[dings] -…go!",
       "ja": "すすめ！"
     }
   },
@@ -445,13 +445,13 @@
   },
   {
     "translation": {
-      "en": "- - Stop.",
+      "en": "-[dings] -Stop.",
       "ja": "とまれ"
     }
   },
   {
     "translation": {
-      "en": "Hold it. - Hold it. -",
+      "en": "Hold it. -[giggling] Hold it. -[all giggling]",
       "ja": "そのまま…"
     }
   },
@@ -463,7 +463,7 @@
   },
   {
     "translation": {
-      "en": "Maybe we held that rest a little too long.",
+      "en": "[chuckles] Maybe we held that rest a little too long.",
       "ja": "ちょっと ながすぎたかも"
     }
   },
@@ -482,7 +482,7 @@
   {
     "translation": {
       "en": "A rest means stop, until it's your time to go. It's like taking turns.",
-      "ja": "じぶんの番(ばん)がくるまで とまってまつってことだね"
+      "ja": "じぶんの番(ばん)がくるまでとまってまつってことだね"
     }
   },
   {
@@ -494,12 +494,12 @@
   {
     "translation": {
       "en": "Because when we take turns, we all get our chance to shine.",
-      "ja": "じゅんばんを守(まも)れば みんながかがやける"
+      "ja": "じゅんばんを守(まも)ればみんながかがやける"
     }
   },
   {
     "translation": {
-      "en": "Yay!",
+      "en": "[children] Yay!",
       "ja": "やったー！"
     }
   },
@@ -512,7 +512,7 @@
   {
     "translation": {
       "en": "When Twinkle starts the rainbow glow,",
-      "ja": "トゥインクルが 七色(なないろ)に光(ひか)ったら"
+      "ja": "トゥインクルが七色(なないろ)に光(ひか)ったら"
     }
   },
   {
@@ -523,13 +523,13 @@
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[children] To the rainbow stage!",
       "ja": "レインボー･ステージへ！"
     }
   },
   {
     "translation": {
-      "en": "♪ The wheels on the bus Go round and round ♪",
+      "en": "[all] ♪ The wheels on the bus Go round and round ♪",
       "ja": "バスのタイヤはクルクル"
     }
   },
@@ -553,20 +553,20 @@
   },
   {
     "translation": {
-      "en": "♪ The wipers on the bus Go swishy- swish- swish ♪",
-      "ja": "バスのワイパーは 　　シュッシュッシュ"
+      "en": "♪ The wipers on the bus Go swishy-swish-swish ♪",
+      "ja": "バスのワイパーは　　シュッシュッシュ"
     }
   },
   {
     "translation": {
-      "en": "♪ Swishy- swish- swish, swishy- swish- swish ♪",
+      "en": "♪ Swishy-swish-swish, swishy-swish-swish ♪",
       "ja": "シュッシュッシュ"
     }
   },
   {
     "translation": {
-      "en": "♪ The wipers on the bus Go swishy- swish- swish ♪",
-      "ja": "バスのワイパーは 　　シュッシュッシュ"
+      "en": "♪ The wipers on the bus Go swishy-swish-swish ♪",
+      "ja": "バスのワイパーは　　シュッシュッシュ"
     }
   },
   {
@@ -577,7 +577,7 @@
   },
   {
     "translation": {
-      "en": "♪ Swishy- swish- swish, swish- swish- swish ♪",
+      "en": "♪ Swishy-swish-swish, swish-swish-swish ♪",
       "ja": "シュッシュッシュ"
     }
   },
@@ -643,7 +643,7 @@
   },
   {
     "translation": {
-      "en": "♪ The singers on the bus Go la, la, la ♪",
+      "en": "[all] ♪ The singers on the bus Go la, la, la ♪",
       "ja": "じょうきゃく歌(うた)うよ ラララ"
     }
   },
@@ -692,7 +692,7 @@
   {
     "translation": {
       "en": "♪ Till Music Time is done ♪",
-      "ja": "ミュージック･タイムは 　　　　　これでおしまい"
+      "ja": "ミュージック･タイムは　　　　　これでおしまい"
     }
   },
   {
@@ -704,7 +704,7 @@
   {
     "translation": {
       "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー ジョン･ジェイコブ ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー ジョン･ジェイコブジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -722,19 +722,19 @@
   {
     "translation": {
       "en": "and I love to sing. Especially when it's loud.",
-      "ja": "にぎやかに歌(うた)うのが だいすきなんだ"
+      "ja": "にぎやかに歌(うた)うのがだいすきなんだ"
     }
   },
   {
     "translation": {
       "en": "Ahan, doesn't that song have a quieter part?",
-      "ja": "その歌(うた)にしずかなパートは ないの？"
+      "ja": "その歌(うた)にしずかなパートはないの？"
     }
   },
   {
     "translation": {
       "en": "Yes, Papa, but my favorite is the loud part.",
-      "ja": "あるけど にぎやかなほうがすき"
+      "ja": "あるけどにぎやかなほうがすき"
     }
   },
   {
@@ -757,25 +757,25 @@
   },
   {
     "translation": {
-      "en": "- - Is that today's secret sound?",
+      "en": "-[giggling] -Is that today's secret sound?",
       "ja": "いまのはひみつの音(おと)？"
     }
   },
   {
     "translation": {
-      "en": "- - No, it's me.",
+      "en": "-[pooting] -[Ahan laughs] No, it's me.",
       "ja": "ぼくだよ"
     }
   },
   {
     "translation": {
       "en": "These mushroom stools make a loud sound when you sit on them.",
-      "ja": "このキノコにすわると おおきな音(おと)がなる"
+      "ja": "このキノコにすわるとおおきな音(おと)がなる"
     }
   },
   {
     "translation": {
-      "en": "- - Come and try",
+      "en": "-[mushroom stool deflating loudly] -Come and try",
       "ja": "やろうよ"
     }
   },
@@ -787,13 +787,13 @@
   },
   {
     "translation": {
-      "en": "I know, Maple. Loud and so funny.",
-      "ja": "でしょ おおきな音(おと)っておもしろい"
+      "en": "[laughing] I know, Maple. Loud and so funny.",
+      "ja": "でしょおおきな音(おと)っておもしろい"
     }
   },
   {
     "translation": {
-      "en": "Indeed!",
+      "en": "Indeed! [laughing]",
       "ja": "ほんとうね"
     }
   },
@@ -806,7 +806,7 @@
   {
     "translation": {
       "en": "But there are some times we shouldn't be loud.",
-      "ja": "でもしずかにすべきときも あるの"
+      "ja": "でもしずかにすべきときもあるの"
     }
   },
   {
@@ -818,12 +818,12 @@
   {
     "translation": {
       "en": "Like when you need to listen for something important.",
-      "ja": "だいじなおはなしを きくときよ"
+      "ja": "だいじなおはなしをきくときよ"
     }
   },
   {
     "translation": {
-      "en": "Higgledy- piggledy hound!",
+      "en": "Higgledy-piggledy hound!",
       "ja": "あらあらまあまあ"
     }
   },
@@ -836,12 +836,12 @@
   {
     "translation": {
       "en": "Here comes Tootson. He's always nice and loud.",
-      "ja": "いつもにぎやかな トゥートゥソンがきた"
+      "ja": "いつもにぎやかなトゥートゥソンがきた"
     }
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "ja": "トゥートゥソン"
     }
   },
@@ -859,14 +859,14 @@
   },
   {
     "translation": {
-      "en": "- I don't know it. It's strange. - What is that?",
+      "en": "-I don't know it. It's strange. -[Mia] What is that?",
       "ja": "おかしな音(おと)だね"
     }
   },
   {
     "translation": {
       "en": "Max says that's the sound our dad makes when he blows his nose.",
-      "ja": "マックスが パパが鼻(はな)をかむ音(おと)だって"
+      "ja": "マックスがパパが鼻(はな)をかむ音(おと)だって"
     }
   },
   {
@@ -884,7 +884,7 @@
   {
     "translation": {
       "en": "Twinkle, could you show us some guesses?",
-      "ja": "トゥインクル ヒントをだして"
+      "ja": "トゥインクルヒントをだして"
     }
   },
   {
@@ -907,13 +907,13 @@
   },
   {
     "translation": {
-      "en": "- A bee? - A bee buzzing around a flower.",
+      "en": "-A bee? -A bee buzzing around a flower.",
       "ja": "ハチ？ お花(はな)のまわりをとんでるハチ"
     }
   },
   {
     "translation": {
-      "en": "Good guesses.",
+      "en": "[laughing] Good guesses.",
       "ja": "いいこたえね"
     }
   },
@@ -926,7 +926,7 @@
   {
     "translation": {
       "en": "It's a musical instrument that anyone can play.",
-      "ja": "だれでもかんたんにできる 楽器(がっき)よ"
+      "ja": "だれでもかんたんにできる楽器(がっき)よ"
     }
   },
   {
@@ -961,14 +961,14 @@
   },
   {
     "translation": {
-      "en": "- Wow! -",
+      "en": "-Wow! -[Maple exclaims softly]",
       "ja": "すごい！"
     }
   },
   {
     "translation": {
-      "en": "Cool. And today we all get to play them.",
-      "ja": "みんなでいっしょに カズーをふいてみましょう"
+      "en": "[Ahan] Cool. And today we all get to play them.",
+      "ja": "みんなでいっしょにカズーをふいてみましょう"
     }
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "translation": {
       "en": "it takes just a bit more effort and some practice.",
-      "ja": "もうちょっと練習(れんしゅう)する ひつようがある"
+      "ja": "もうちょっと練習(れんしゅう)するひつようがある"
     }
   },
   {
@@ -1033,14 +1033,14 @@
   },
   {
     "translation": {
-      "en": "- Hmm, doesn't seem like I can. -",
+      "en": "-Hmm, doesn't seem like I can. -[laughing]",
       "ja": "できないみたい"
     }
   },
   {
     "translation": {
       "en": "Almost any instrument can be played loudly or softly.",
-      "ja": "どんな楽器(がっき)でも 音(おと)のつよさを調節(ちょうせつ)できる"
+      "ja": "どんな楽器(がっき)でも音(おと)のつよさを調節(ちょうせつ)できる"
     }
   },
   {
@@ -1052,31 +1052,31 @@
   {
     "translation": {
       "en": "But wouldn't music be boring if it only came out one way?",
-      "ja": "でもずっとおなじだと たいくつじゃない？"
+      "ja": "でもずっとおなじだとたいくつじゃない？"
     }
   },
   {
     "translation": {
       "en": "Think of it like this. How does loud music make you feel?",
-      "ja": "にぎやかな音楽(おんがく)をきくと どんな気分(きぶん)になる？"
+      "ja": "にぎやかな音楽(おんがく)をきくとどんな気分(きぶん)になる？"
     }
   },
   {
     "translation": {
       "en": "Excited like I'm the leader of my own parade.",
-      "ja": "パレードの先頭(せんとう)みたいに ワクワクする"
+      "ja": "パレードの先頭(せんとう)みたいにワクワクする"
     }
   },
   {
     "translation": {
       "en": "That's a great way to show how loud music can make you feel.",
-      "ja": "にぎやかな音楽(おんがく)のたのしさが つたわってきたわ"
+      "ja": "にぎやかな音楽(おんがく)のたのしさがつたわってきたわ"
     }
   },
   {
     "translation": {
       "en": "Soft music can help us feel cozy and relaxed.",
-      "ja": "しずかな音楽(おんがく)をきくと ゆったりとした気分(きぶん)になれる"
+      "ja": "しずかな音楽(おんがく)をきくとゆったりとした気分(きぶん)になれる"
     }
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "translation": {
       "en": "When it's nap time at home, our mum sings to us very softly.",
-      "ja": "おひるねのとき ママはちいさな声(こえ)で歌(うた)うの"
+      "ja": "おひるねのときママはちいさな声(こえ)で歌(うた)うの"
     }
   },
   {
@@ -1112,13 +1112,13 @@
   {
     "translation": {
       "en": "'Course you do. You can sing any song softly.",
-      "ja": "どんな歌(うた)でも しずかに歌(うた)うことはできるわ"
+      "ja": "どんな歌(うた)でもしずかに歌(うた)うことはできるわ"
     }
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -1147,26 +1147,26 @@
   },
   {
     "translation": {
-      "en": "- Now I get it. - That's right.",
+      "en": "-Now I get it. -That's right.",
       "ja": "ほんとだ　うまくいった そういうこと"
     }
   },
   {
     "translation": {
       "en": "But when you really want to let loose and have some fun, it's good to be…",
-      "ja": "でも おもいっきり はしゃぎたいときは？"
+      "ja": "でも おもいっきりはしゃぎたいときは？"
     }
   },
   {
     "translation": {
-      "en": "- Loud! - Yay!",
+      "en": "-Loud! -Yay! [giggles]",
       "ja": "にぎやかに！"
     }
   },
   {
     "translation": {
       "en": "You know what that means. When Twinkle starts the rainbow glow,",
-      "ja": "トゥインクルが 七色(なないろ)に光(ひか)ったら"
+      "ja": "トゥインクルが七色(なないろ)に光(ひか)ったら"
     }
   },
   {
@@ -1177,14 +1177,14 @@
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[all] To the rainbow stage!",
       "ja": "レインボー･ステージへ！"
     }
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "en": "[all] ♪ John Jacob Jingleheimer Schmidt ♪",
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "ja": "まちをゆけば 　　みんながさけぶ"
+      "ja": "まちをゆけば　　みんながさけぶ"
     }
   },
   {
@@ -1213,8 +1213,8 @@
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "ja": "まちをゆけば 　　みんながさけぶ"
+      "ja": "まちをゆけば　　みんながさけぶ"
     }
   },
   {
@@ -1243,8 +1243,8 @@
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "ja": "まちをゆけば 　　みんながさけぶ"
+      "ja": "まちをゆけば　　みんながさけぶ"
     }
   },
   {
@@ -1267,14 +1267,14 @@
   },
   {
     "translation": {
-      "en": "So softly.",
+      "en": "[laughs] So softly.",
       "ja": "とてもしずかに"
     }
   },
   {
     "translation": {
-      "en": "♪ John Jacob Jingleheimer Schmidt ♪",
-      "ja": "ジョン･ジェイコブ･ 　　ジングルハイマー"
+      "en": "[softly] ♪ John Jacob Jingleheimer Schmidt ♪",
+      "ja": "ジョン･ジェイコブ･　　ジングルハイマー"
     }
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "translation": {
       "en": "♪ Whenever we go out The people always shout ♪",
-      "ja": "まちをゆけば 　　みんながさけぶ"
+      "ja": "まちをゆけば　　みんながさけぶ"
     }
   },
   {
@@ -1297,8 +1297,8 @@
   },
   {
     "translation": {
-      "en": "- Meow. - Come on, Maple.",
-      "ja": "４ひきの ちいさなこねこ ４ひきの ちいさなこねこ ニャオ〜 ニャオ〜 メープル"
+      "en": "-Meow. -Come on, Maple.",
+      "ja": "４ひきのちいさなこねこ ４ひきのちいさなこねこニャオ〜 ニャオ〜 メープル"
     }
   },
   {
@@ -1310,12 +1310,12 @@
   {
     "translation": {
       "en": "I'm not Maple. I'm a little kitten, Mummy.",
-      "ja": "メープルじゃなくて こねこだよ"
+      "ja": "メープルじゃなくてこねこだよ"
     }
   },
   {
     "translation": {
-      "en": "I'm pretending to be a kitten.",
+      "en": "[softly] I'm pretending to be a kitten.",
       "ja": "こねこになりきってるの"
     }
   },
@@ -1327,13 +1327,13 @@
   },
   {
     "translation": {
-      "en": "Come on, little kitten. Off we go.",
+      "en": "[laughing] Come on, little kitten. Off we go.",
       "ja": "いこうね　こねこちゃん"
     }
   },
   {
     "translation": {
-      "en": "- Meow. -",
+      "en": "-Meow. -[both chuckling]",
       "ja": "ニャ〜"
     }
   },
@@ -1357,14 +1357,14 @@
   },
   {
     "translation": {
-      "en": "Meow.",
+      "en": "Meow. [giggling]",
       "ja": "ニャ〜"
     }
   },
   {
     "translation": {
       "en": "Oh, look. It's not Maple. It's a cute little kitten.",
-      "ja": "メープルじゃなくて かわいいこねこちゃんね"
+      "ja": "メープルじゃなくてかわいいこねこちゃんね"
     }
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "- I want to be a kitten. - Me too.",
+      "en": "-I want to be a kitten. -Me too.",
       "ja": "ぼくもこねこになりたい わたしも　ほらマックスも"
     }
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "translation": {
-      "en": "- - Oh, there's Tootson.",
+      "en": "-[Tootson tooting] -Oh, there's Tootson.",
       "ja": "トゥートゥソンだ"
     }
   },
@@ -1417,7 +1417,7 @@
   },
   {
     "translation": {
-      "en": "♪ Ooh, Tootson! ♪",
+      "en": "[chorus] ♪ Ooh, Tootson! ♪",
       "ja": "トゥートゥソン"
     }
   },
@@ -1453,7 +1453,7 @@
   },
   {
     "translation": {
-      "en": "- Timberly, can we see our choices, please? - Absolutely.",
+      "en": "-Timberly, can we see our choices, please? -Absolutely.",
       "ja": "ヒントをだしてくれる？ もちろん　トゥインクル"
     }
   },
@@ -1495,19 +1495,19 @@
   },
   {
     "translation": {
-      "en": "- Cows go, Moo. -",
+      "en": "-Cows go, \"Moo.\" -[gasps]",
       "ja": "うしは“モー”で"
     }
   },
   {
     "translation": {
-      "en": "And it can't be a dog because they go, Woof- woof.",
+      "en": "And it can't be a dog because they go, \"Woof-woof.\"",
       "ja": "いぬは“ワンワン”だよ"
     }
   },
   {
     "translation": {
-      "en": "- Woof! -",
+      "en": "-Woof! -[all giggling]",
       "ja": "ワン！"
     }
   },
@@ -1526,18 +1526,18 @@
   {
     "translation": {
       "en": "Meow. It's a kitten like me.",
-      "ja": "こたえはこねこ わたしみたいなね"
+      "ja": "こたえはこねこわたしみたいなね"
     }
   },
   {
     "translation": {
-      "en": "- Meow. - That's right.",
-      "ja": "こたえはこねこ わたしみたいなね あたり"
+      "en": "-Meow. -That's right.",
+      "ja": "こたえはこねこわたしみたいなね あたり"
     }
   },
   {
     "translation": {
-      "en": "- Bye, Tootson. -",
+      "en": "-[all] Bye, Tootson. -[Tootson toots]",
       "ja": "さようなら"
     }
   },
@@ -1550,7 +1550,7 @@
   {
     "translation": {
       "en": "And I've got just the song for us today.",
-      "ja": "きょうのみんなに ぴったりの歌(うた)がある"
+      "ja": "きょうのみんなにぴったりの歌(うた)がある"
     }
   },
   {
@@ -1586,19 +1586,19 @@
   {
     "translation": {
       "en": "Now, we'll need these for today's song,",
-      "ja": "これをつけて歌(うた)う きょうの歌(うた)は―"
+      "ja": "これをつけて歌(うた)うきょうの歌(うた)は―"
     }
   },
   {
     "translation": {
-      "en": "Four Little Kittens.",
+      "en": "\"Four Little Kittens.\"",
       "ja": "「４ひきのちいさなこねこ」"
     }
   },
   {
     "translation": {
-      "en": "Wow! I mean, Meow!",
-      "ja": "こねこになりきれるね ニャ〜！"
+      "en": "Wow! I mean, \"Meow!\"",
+      "ja": "こねこになりきれるねニャ〜！"
     }
   },
   {
@@ -1615,8 +1615,8 @@
   },
   {
     "translation": {
-      "en": "you're going to sing as the kitten choir.",
-      "ja": "こねこ合唱団(がっしょうだん)になって 歌(うた)うのよ"
+      "en": "you're going to sing as the kitten choir. [laughs]",
+      "ja": "こねこ合唱団(がっしょうだん)になって歌(うた)うのよ"
     }
   },
   {
@@ -1628,13 +1628,13 @@
   {
     "translation": {
       "en": "Oh, a choir is a group who sing together.",
-      "ja": "いっしょに歌(うた)う グループのこと"
+      "ja": "いっしょに歌(うた)うグループのこと"
     }
   },
   {
     "translation": {
       "en": "♪ Four little kittens In fluffy little mittens ♪",
-      "ja": "４ひきのこねこ 　　てぶくろつけた"
+      "ja": "４ひきのこねこ　　てぶくろつけた"
     }
   },
   {
@@ -1645,7 +1645,7 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We love our mittens ♪",
+      "en": "[children] ♪ Oh, Mummy dear We love our mittens ♪",
       "ja": "お気(き)にいりのてぶくろだよ"
     }
   },
@@ -1658,7 +1658,7 @@
   {
     "translation": {
       "en": "It's too hot to dance and wear mittens.",
-      "ja": "ダンスをするには あついから"
+      "ja": "ダンスをするにはあついから"
     }
   },
   {
@@ -1676,7 +1676,7 @@
   {
     "translation": {
       "en": "Oh, I can't wait to sing on the rainbow stage later and show off our kitten mittens.",
-      "ja": "はやく歌声(うたごえ)とてぶくろを ひろうしたいな"
+      "ja": "はやく歌声(うたごえ)とてぶくろをひろうしたいな"
     }
   },
   {
@@ -1712,13 +1712,13 @@
   {
     "translation": {
       "en": "Don't worry, Maple. We'll help you find your mittens. Let's all look together.",
-      "ja": "しんぱいしないで みんなでいっしょにさがそう"
+      "ja": "しんぱいしないでみんなでいっしょにさがそう"
     }
   },
   {
     "translation": {
       "en": "Yeah, we're the kitten choir. Working together is what choirs do.",
-      "ja": "きょうりょくしあうのが 合唱団(がっしょうだん)だもんね"
+      "ja": "きょうりょくしあうのが合唱団(がっしょうだん)だもんね"
     }
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "translation": {
       "en": "Come on, everyone. Help us find Maple's kitten mittens.",
-      "ja": "メープルのてぶくろを さがしましょう"
+      "ja": "メープルのてぶくろをさがしましょう"
     }
   },
   {
@@ -1784,18 +1784,18 @@
   {
     "translation": {
       "en": "When Twinkle starts the rainbow glow, we know where it's time to go.",
-      "ja": "トゥインクルが 七色(なないろ)に光(ひか)ったら どこへいくの？"
+      "ja": "トゥインクルが七色(なないろ)に光(ひか)ったら どこへいくの？"
     }
   },
   {
     "translation": {
-      "en": "To the rainbow stage!",
+      "en": "[all] To the rainbow stage!",
       "ja": "レインボー･ステージへ！"
     }
   },
   {
     "translation": {
-      "en": "♪ Music Time ♪",
+      "en": "[chorus] ♪ Music Time ♪",
       "ja": "ミュージック･タイム"
     }
   },
@@ -1813,8 +1813,8 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We lost our mittens ♪",
-      "ja": "ママ てぶくろを 　　なくしちゃった"
+      "en": "[children] ♪ Oh, Mummy dear We lost our mittens ♪",
+      "ja": "ママ てぶくろを　　なくしちゃった"
     }
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we lost our toys ♪",
-      "ja": "ママ おもちゃを 　　なくしちゃった"
+      "ja": "ママ おもちゃを　　なくしちゃった"
     }
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "translation": {
       "en": "♪ Oh, Mummy dear, we lost our treats ♪",
-      "ja": "ママ おやつを 　　なくしちゃった"
+      "ja": "ママ おやつを　　なくしちゃった"
     }
   },
   {
@@ -1933,7 +1933,7 @@
   },
   {
     "translation": {
-      "en": "♪ Oh, Mummy dear We found our treats ♪",
+      "en": "[children] ♪ Oh, Mummy dear We found our treats ♪",
       "ja": "ママ おやつを見(み)つけたよ"
     }
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "translation": {
-      "en": "♪ Meow ♪",
+      "en": "[all] ♪ Meow ♪",
       "ja": "ニャ〜オ"
     }
   }

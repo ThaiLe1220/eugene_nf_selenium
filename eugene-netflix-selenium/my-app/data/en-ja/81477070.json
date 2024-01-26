@@ -1,7 +1,13 @@
 [
   {
     "translation": {
-      "en": "Peter!  Peter!",
+      "en": "[woman] Peter! [grunts] Peter!",
+      "ja": "ピーター！"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Peter!",
       "ja": "ピーター！"
     }
   },
@@ -13,44 +19,38 @@
   },
   {
     "translation": {
-      "en": "Peter!",
-      "ja": "ピーター！"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hello, dear.",
+      "en": "[Peter] Hello, dear.",
       "ja": "どうした？"
     }
   },
   {
     "translation": {
-      "en": "Look.",
+      "en": "Look. [breathes heavily]",
       "ja": "見てよ"
     }
   },
   {
     "translation": {
       "en": "Look, I know you love Christmas, but there's no need to shag the tree.",
-      "ja": "ツリーと ヤらなくてもいい"
+      "ja": "ツリーとヤらなくてもいい"
     }
   },
   {
     "translation": {
-      "en": "It was perfect!",
+      "en": "[sobs] It was perfect!",
       "ja": "完璧だったのに"
     }
   },
   {
     "translation": {
       "en": "I thought we were gonna decorate the tree together with the children.",
-      "ja": "子供たちと一緒に 飾るのでは？"
+      "ja": "子供たちと一緒に飾るのでは？"
     }
   },
   {
     "translation": {
-      "en": "I don't want their toilet roll decorations. - It has to be exquisite. - Yes.",
-      "ja": "トイレットペーパーの 飾りなんてお断りよ"
+      "en": "I don't want their toilet roll decorations. -It has to be exquisite. -Yes.",
+      "ja": "トイレットペーパーの飾りなんてお断りよ"
     }
   },
   {
@@ -67,14 +67,14 @@
   },
   {
     "translation": {
-      "en": "For once, I just want this family to have a perfect Christmas.",
-      "ja": "一度くらい 完璧なクリスマスを"
+      "en": "[woman] For once, I just want this family to have a perfect Christmas.",
+      "ja": "一度くらい完璧なクリスマスを"
     }
   },
   {
     "translation": {
-      "en": "Do you know what would be perfect, darling? The Bahamas.",
-      "ja": "それなら バハマで過ごすのがいい"
+      "en": "[Peter] Do you know what would be perfect, darling? The Bahamas.",
+      "ja": "それならバハマで過ごすのがいい"
     }
   },
   {
@@ -98,13 +98,13 @@
   {
     "translation": {
       "en": "We'll leave the key under the mat. They'll be fine.",
-      "ja": "鍵を置いていけば 問題ないだろ"
+      "ja": "鍵を置いていけば問題ないだろ"
     }
   },
   {
     "translation": {
       "en": "There's so much to do. I have to collect the wreath, pick up the kids.",
-      "ja": "リースを受け取ってから 子供たちを迎えに"
+      "ja": "リースを受け取ってから子供たちを迎えに"
     }
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "translation": {
-      "en": "- Redo the tree, obviously. -",
+      "en": "-[woman] Redo the tree, obviously. -[chuckles]",
       "ja": "ツリーもやり直しだし"
     }
   },
@@ -133,19 +133,19 @@
   },
   {
     "translation": {
-      "en": "- Well? - And the presents are?",
+      "en": "-Well? -And the presents are?",
       "ja": "ええ どこにある？"
     }
   },
   {
     "translation": {
-      "en": "- Upstairs in the bedroom. - Which one, dear? We have many.",
+      "en": "-Upstairs in the bedroom. -Which one, dear? We have many.",
       "ja": "寝室に どの寝室だ？"
     }
   },
   {
     "translation": {
-      "en": "- Ours. - Ours?",
+      "en": "-Ours. -Ours?",
       "ja": "私たちの 僕らの？"
     }
   },
@@ -163,7 +163,7 @@
   },
   {
     "translation": {
-      "en": "Family on the left. Nightingale on the right.",
+      "en": "[Caroline] Family on the left. Nightingale on the right.",
       "ja": "ホーム向けのは右よ"
     }
   },
@@ -199,31 +199,31 @@
   },
   {
     "translation": {
-      "en": "- Happy Christmas! - Thank you. Merry Christmas!",
+      "en": "-[woman] Happy Christmas! -Thank you. Merry Christmas!",
       "ja": "どうも メリークリスマス"
     }
   },
   {
     "translation": {
-      "en": "Look, Daisey, it's Mum!",
+      "en": "[boy] Look, Daisey, it's Mum!",
       "ja": "姉さん ママだ"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry. I'm here. I'm sorry I'm late.",
+      "en": "[Caroline] I'm sorry. I'm here. I'm sorry I'm late.",
       "ja": "遅くなってごめんね"
     }
   },
   {
     "translation": {
-      "en": "- It's Mum! - Come on, kids.",
+      "en": "-It's Mum! -[Caroline] Come on, kids.",
       "ja": "ママ！ 行こう"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. - It's all right.",
+      "en": "-Thank you. -It's all right.",
       "ja": "どうも いいの"
     }
   },
@@ -235,7 +235,7 @@
   },
   {
     "translation": {
-      "en": "- Merry Christmas. - Bye.",
+      "en": "-[mother] Merry Christmas. -Bye.",
       "ja": "バイバイ"
     }
   },
@@ -260,42 +260,42 @@
   {
     "translation": {
       "en": "And how about you? Did you manage to get any chocolate in your mouth?",
-      "ja": "あなたは チョコレート食べた？"
+      "ja": "あなたはチョコレート食べた？"
     }
   },
   {
     "translation": {
-      "en": "- He's eaten ten pieces. - Oh.",
+      "en": "-He's eaten ten pieces. -[Caroline] Oh.",
       "ja": "10個食べてた"
     }
   },
   {
     "translation": {
       "en": "I don't want to play Mary. It's too much pressure.",
-      "ja": "マリア様の役なんて 荷が重すぎる"
+      "ja": "マリア様の役なんて荷が重すぎる"
     }
   },
   {
     "translation": {
       "en": "But it's the lead. You're not a supporting actress.",
-      "ja": "主役なのよ 羊の役よりいいでしょ"
+      "ja": "主役なのよ羊の役よりいいでしょ"
     }
   },
   {
     "translation": {
-      "en": "- What do you want to be? A sheep? - I have to sing.",
-      "ja": "主役なのよ 羊の役よりいいでしょ 歌の場面が"
+      "en": "-What do you want to be? A sheep? -I have to sing.",
+      "ja": "主役なのよ羊の役よりいいでしょ 歌の場面が"
     }
   },
   {
     "translation": {
       "en": "Well, well, well. If it isn't the Virgin Mary.",
-      "ja": "やあやあ 聖母マリア様の登場だ"
+      "ja": "やあやあ聖母マリア様の登場だ"
     }
   },
   {
     "translation": {
-      "en": "Oh, Alan.",
+      "en": "[chuckles] Oh, Alan.",
       "ja": "アラン"
     }
   },
@@ -307,14 +307,14 @@
   },
   {
     "translation": {
-      "en": "Oh yes.  Sorry, we're late.",
+      "en": "Oh yes. [laughs] Sorry, we're late.",
       "ja": "ええ　遅くなってごめん"
     }
   },
   {
     "translation": {
-      "en": "Caroline Christmas- Hope, a lady like you is never late.",
-      "ja": "キャロライン･ クリスマスホープ"
+      "en": "Caroline Christmas-Hope, a lady like you is never late.",
+      "ja": "キャロライン･クリスマスホープ"
     }
   },
   {
@@ -337,7 +337,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, thank you. - Come on, kids.",
+      "en": "-[Caroline] Oh, thank you. -Come on, kids.",
       "ja": "どうも おいで"
     }
   },
@@ -355,7 +355,7 @@
   },
   {
     "translation": {
-      "en": "- Hello, everybody. Merry Christmas. - Merry Christmas.",
+      "en": "-Hello, everybody. Merry Christmas. -[man] Merry Christmas.",
       "ja": "皆さん メリークリスマス ああ"
     }
   },
@@ -373,26 +373,26 @@
   },
   {
     "translation": {
-      "en": "Are you looking forward to the nativity play?",
-      "ja": "降誕劇は楽しみ？ デイジーがマリア様役よ"
+      "en": "[chuckles] Are you looking forward to the nativity play?",
+      "ja": "降誕劇は楽しみ？デイジーがマリア様役よ"
     }
   },
   {
     "translation": {
-      "en": "- Daisey's playing the Virgin Mary. - Mum!",
-      "ja": "降誕劇は楽しみ？ デイジーがマリア様役よ ママ"
+      "en": "-Daisey's playing the Virgin Mary. -[exasperated] Mum!",
+      "ja": "降誕劇は楽しみ？デイジーがマリア様役よ ママ"
     }
   },
   {
     "translation": {
       "en": "I played the Virgin Mary at the National Theatre.",
-      "ja": "私はナショナルシアターで マリア様を演じたよ"
+      "ja": "私はナショナルシアターでマリア様を演じたよ"
     }
   },
   {
     "translation": {
       "en": "My God, the people I slept with to get the part!",
-      "ja": "役を得るために どれだけ枕営業したことか"
+      "ja": "役を得るためにどれだけ枕営業したことか"
     }
   },
   {
@@ -409,13 +409,13 @@
   },
   {
     "translation": {
-      "en": "Right, everybody out.",
+      "en": "[Caroline] Right, everybody out.",
       "ja": "降りて"
     }
   },
   {
     "translation": {
-      "en": "There we go. Oh, hang on.",
+      "en": "[Caroline] There we go. Oh, hang on.",
       "ja": "ちょっと待ってね"
     }
   },
@@ -427,7 +427,7 @@
   },
   {
     "translation": {
-      "en": "Come on. Chop- chop.",
+      "en": "Come on. Chop-chop.",
       "ja": "さあ　急いで"
     }
   },
@@ -475,13 +475,13 @@
   },
   {
     "translation": {
-      "en": "- You know, that's a pretty good idea. - Yeah.",
+      "en": "-You know, that's a pretty good idea. -Yeah.",
       "ja": "いいアイデアかも うん"
     }
   },
   {
     "translation": {
-      "en": "- It is, isn't it? It's a good idea. - Yeah.",
+      "en": "-It is, isn't it? It's a good idea. -Yeah.",
       "ja": "ああ 気が利いてる"
     }
   },
@@ -499,20 +499,20 @@
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[giggles] Yeah.",
       "ja": "うん"
     }
   },
   {
     "translation": {
       "en": "Do you remember last time? We put it all over the place.",
-      "ja": "去年はあちこちに まき散らしたよね"
+      "ja": "去年はあちこちにまき散らしたよね"
     }
   },
   {
     "translation": {
-      "en": "- Do you remember that? - I can make the best mince pies.",
-      "ja": "去年はあちこちに まき散らしたよね 僕は最高の ミンスパイが作れる"
+      "en": "-Do you remember that? -I can make the best mince pies.",
+      "ja": "去年はあちこちにまき散らしたよね 僕は最高のミンスパイが作れる"
     }
   },
   {
@@ -523,7 +523,7 @@
   },
   {
     "translation": {
-      "en": "- What are we doing? - Mince pies.",
+      "en": "-What are we doing? -Mince pies.",
       "ja": "何だ？ ミンスパイ"
     }
   },
@@ -571,7 +571,7 @@
   },
   {
     "translation": {
-      "en": "- Can you hold that? - I will.",
+      "en": "-Can you hold that? -I will.",
       "ja": "持って ああ"
     }
   },
@@ -595,20 +595,20 @@
   },
   {
     "translation": {
-      "en": "- It doesn't have to be perfect, darling. - Yes, it does.",
+      "en": "-It doesn't have to be perfect, darling. -[Caroline] Yes, it does.",
       "ja": "完璧じゃなくてもいい ダメよ"
     }
   },
   {
     "translation": {
       "en": "I've had 27 years of therapy trying to recalibrate Christmas,",
-      "ja": "27年間 調整に調整を重ねてきた"
+      "ja": "27年間調整に調整を重ねてきた"
     }
   },
   {
     "translation": {
       "en": "ever since our shithead of a father abandoned us on Christmas Day.",
-      "ja": "あの日 父さんが 私たちを捨てて以来ね"
+      "ja": "あの日 父さんが私たちを捨てて以来ね"
     }
   },
   {
@@ -620,19 +620,19 @@
   {
     "translation": {
       "en": "So why don't you tell Hamish to put his foot down? You're already late.",
-      "ja": "ヘイミッシュに 急ぐよう言ってね"
+      "ja": "ヘイミッシュに急ぐよう言ってね"
     }
   },
   {
     "translation": {
-      "en": "Slight wrinkle.",
+      "en": "[mother] Slight wrinkle.",
       "ja": "訂正しとく"
     }
   },
   {
     "translation": {
       "en": "Hamish is now Felix. She traded in her trader for a new one.",
-      "ja": "今はヘイミッシュじゃなく フェリックスが彼氏よ"
+      "ja": "今はヘイミッシュじゃなくフェリックスが彼氏よ"
     }
   },
   {
@@ -649,7 +649,7 @@
   },
   {
     "translation": {
-      "en": "Caroline Christmas- Hope,",
+      "en": "[woman] Caroline Christmas-Hope,",
       "ja": "〝ヘイミッシュ〞 ただのクリスマスでしょ ただのクリスマスでしょ ただのクリスマスでしょ 〝フェリックス〞"
     }
   },
@@ -674,7 +674,7 @@
   {
     "translation": {
       "en": "We don't want to stay in the Brontë room this year. It's too cramped, and we need a really comfortable bed.",
-      "ja": "いつもの部屋は窮屈だから 快適なベッドの部屋にして"
+      "ja": "いつもの部屋は窮屈だから快適なベッドの部屋にして"
     }
   },
   {
@@ -685,7 +685,7 @@
   },
   {
     "translation": {
-      "en": "- Sciatica, darling. I'm not 83. - We'll take the Queen room.",
+      "en": "-Sciatica, darling. I'm not 83. -We'll take the Queen room.",
       "ja": "座骨神経痛だ　83歳じゃない クイーンに"
     }
   },
@@ -698,7 +698,7 @@
   {
     "translation": {
       "en": "Her knees are bad, and she actually likes your two awful little banshees.",
-      "ja": "母さんは膝が悪いし 孫たちが好きだから"
+      "ja": "母さんは膝が悪いし孫たちが好きだから"
     }
   },
   {
@@ -709,7 +709,7 @@
   },
   {
     "translation": {
-      "en": "- Bye! - Okay.",
+      "en": "-Bye! -Okay.",
       "ja": "じゃあ ええ"
     }
   },
@@ -727,13 +727,13 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Caroline] Okay.",
       "ja": "了解"
     }
   },
   {
     "translation": {
-      "en": "Bye- bye.",
+      "en": "Bye-bye.",
       "ja": "待ってる"
     }
   },
@@ -745,13 +745,13 @@
   },
   {
     "translation": {
-      "en": "- Hey, hey! - Auntie Vicky!",
+      "en": "-Hey, hey! -[Daisey] Auntie Vicky!",
       "ja": "おばさん"
     }
   },
   {
     "translation": {
-      "en": "Hi! Hey!",
+      "en": "[Vicky] Hi! Hey!",
       "ja": "久しぶり"
     }
   },
@@ -763,7 +763,7 @@
   },
   {
     "translation": {
-      "en": "- Sis! - Vicky.",
+      "en": "-Sis! -Vicky.",
       "ja": "ヴィッキー"
     }
   },
@@ -776,24 +776,24 @@
   {
     "translation": {
       "en": "Never know how you're gonna turn up. I was hoping for a Red Arrow this year.",
-      "ja": "今年は戦闘機で 登場するかと思った"
+      "ja": "今年は戦闘機で登場するかと思った"
     }
   },
   {
     "translation": {
       "en": "Come and see our Christmas tree. We made all the decorations ourselves.",
-      "ja": "ツリーを見に来て 飾りつけたの"
+      "ja": "ツリーを見に来て飾りつけたの"
     }
   },
   {
     "translation": {
-      "en": "Good Lord, darling. Look at that. It's a Rolls- Royce.",
+      "en": "Good Lord, darling. Look at that. It's a Rolls-Royce.",
       "ja": "見ろよ　ロールス･ロイスだ"
     }
   },
   {
     "translation": {
-      "en": "That is sick!",
+      "en": "[Peter] That is sick!",
       "ja": "カッコいい"
     }
   },
@@ -829,7 +829,7 @@
   },
   {
     "translation": {
-      "en": "- Hello. Wow, love the car. - Hi.",
+      "en": "-Hello. Wow, love the car. -Hi.",
       "ja": "ようこそ　すごい車だ"
     }
   },
@@ -842,12 +842,12 @@
   {
     "translation": {
       "en": "Yes. Hamish, lovely to meet you at last. Heard a lot about you.",
-      "ja": "ヘイミッシュ ウワサはかねがね"
+      "ja": "ヘイミッシュウワサはかねがね"
     }
   },
   {
     "translation": {
-      "en": "- It's not Hamish. It's Felix. - Felix.",
+      "en": "-It's not Hamish. It's Felix. -Felix.",
       "ja": "フェリックスよ"
     }
   },
@@ -859,14 +859,14 @@
   },
   {
     "translation": {
-      "en": "- Nice outfit. - Oh.",
+      "en": "-Nice outfit. -Oh.",
       "ja": "いい服ね"
     }
   },
   {
     "translation": {
       "en": "Sexual repression is in. For once in your life, you're ahead of the curve.",
-      "ja": "性的抑圧はトレンドだから 時代の先取りね"
+      "ja": "性的抑圧はトレンドだから時代の先取りね"
     }
   },
   {
@@ -877,37 +877,37 @@
   },
   {
     "translation": {
-      "en": "- So you're much better. - Welcome, Felix.",
+      "en": "-So you're much better. -[laughs] Welcome, Felix.",
       "ja": "君のほうがいい　ようこそ"
     }
   },
   {
     "translation": {
-      "en": "- Lovely house. - Yes.",
+      "en": "-Lovely house. -Yes.",
       "ja": "豪邸だ　高かっただろ"
     }
   },
   {
     "translation": {
-      "en": "- Must have cost a packet. - Well, not really.",
-      "ja": "豪邸だ　高かっただろ 封建時代の先祖が数百年前 10ポンドほどで手に入れた"
+      "en": "-Must have cost a packet. -Well, not really.",
+      "ja": "豪邸だ　高かっただろ 封建時代の先祖が数百年前10ポンドほどで手に入れた"
     }
   },
   {
     "translation": {
       "en": "I think it was about £10 when one of my feudal ancestors picked it up a few centuries ago.",
-      "ja": "封建時代の先祖が数百年前 10ポンドほどで手に入れた"
+      "ja": "封建時代の先祖が数百年前10ポンドほどで手に入れた"
     }
   },
   {
     "translation": {
-      "en": "- Really? - So no need to be impressed. Nothing to do with me.",
+      "en": "-Really? -So no need to be impressed. Nothing to do with me.",
       "ja": "僕の功績は何もない"
     }
   },
   {
     "translation": {
-      "en": "- Let me show you around. Come on. - Oh, yes.",
+      "en": "-Let me show you around. Come on. -Oh, yes. [laughs]",
       "ja": "案内しよう あの"
     }
   },
@@ -919,26 +919,26 @@
   },
   {
     "translation": {
-      "en": "- Hi, I'm Felix. - Hello.",
+      "en": "-Hi, I'm Felix. -Hello.",
       "ja": "フェリックスだ ようこそ"
     }
   },
   {
     "translation": {
-      "en": "- Welcome. - Pleasure.",
+      "en": "-Welcome. -Pleasure.",
       "ja": "ええ"
     }
   },
   {
     "translation": {
-      "en": "Darling.",
+      "en": "[Peter] Darling.",
       "ja": "ダーリン"
     }
   },
   {
     "translation": {
       "en": "Caroline! Caroline, darling. I… I… I think I'm stuck.",
-      "ja": "キャロライン ここから出して"
+      "ja": "キャロラインここから出して"
     }
   },
   {
@@ -955,7 +955,7 @@
   },
   {
     "translation": {
-      "en": "- Hello. - Hello.",
+      "en": "-Hello. -Hello.",
       "ja": "母さん"
     }
   },
@@ -997,7 +997,7 @@
   },
   {
     "translation": {
-      "en": "Yes, all of them.",
+      "en": "Yes, all of them. [chuckles]",
       "ja": "届いてるよ"
     }
   },
@@ -1009,26 +1009,26 @@
   },
   {
     "translation": {
-      "en": "The theme was supposed to be The 12 Days of Christmas.",
-      "ja": "「クリスマスの12日」が テーマよ"
+      "en": "The theme was supposed to be \"The 12 Days of Christmas.\"",
+      "ja": "「クリスマスの12日」がテーマよ"
     }
   },
   {
     "translation": {
-      "en": "But you went with the theme of sewage instead. Nice work.",
-      "ja": "でも結局トイレを テーマにしたのね"
+      "en": "[Joanna] But you went with the theme of sewage instead. Nice work.",
+      "ja": "でも結局トイレをテーマにしたのね"
     }
   },
   {
     "translation": {
-      "en": "Hey!",
+      "en": "[Vicky] Hey!",
       "ja": "ハーイ"
     }
   },
   {
     "translation": {
       "en": "We decorated the Christmas tree with Daddy.",
-      "ja": "パパとツリーの 飾りつけしたの"
+      "ja": "パパとツリーの飾りつけしたの"
     }
   },
   {
@@ -1040,12 +1040,12 @@
   {
     "translation": {
       "en": "I think it's wonderful. Come and give your grandma a kiss.",
-      "ja": "すばらしいわ おばあちゃんにキスして"
+      "ja": "すばらしいわおばあちゃんにキスして"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Hi.",
+      "en": "-Hi. -Hi.",
       "ja": "どうも やあ"
     }
   },
@@ -1094,7 +1094,7 @@
   {
     "translation": {
       "en": "Touch it again, and I'll kill you! This bag is worth more than your kidneys.",
-      "ja": "触ったら殺す あなたの腎臓より高いの"
+      "ja": "触ったら殺すあなたの腎臓より高いの"
     }
   },
   {
@@ -1105,7 +1105,7 @@
   },
   {
     "translation": {
-      "en": "- Where did you get all these? - America.",
+      "en": "-Where did you get all these? -America.",
       "ja": "これどこで？ アメリカ"
     }
   },
@@ -1142,25 +1142,25 @@
   {
     "translation": {
       "en": "How on earth did you afford a trip across America? You're always broke.",
-      "ja": "いつも金欠なくせに 費用はどうしたの"
+      "ja": "いつも金欠なくせに費用はどうしたの"
     }
   },
   {
     "translation": {
-      "en": "I couch- surfed.",
+      "en": "I couch-surfed.",
       "ja": "無料宿泊よ"
     }
   },
   {
     "translation": {
-      "en": "Mattress- surfed, more like.",
+      "en": "Mattress-surfed, more like.",
       "ja": "ヤりまくったのね"
     }
   },
   {
     "translation": {
-      "en": "Felix, are you at the beginning or the end of a three- month relationship with my sister?",
-      "ja": "交際は始まったばかり？ それとも別れる寸前？"
+      "en": "Felix, are you at the beginning or the end of a three-month relationship with my sister?",
+      "ja": "交際は始まったばかり？それとも別れる寸前？"
     }
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "translation": {
       "en": "I can remember when you lot used to fight like Spitfires and Messerschmitts.",
-      "ja": "昔はよく戦闘機のように ケンカしてたものだがな"
+      "ja": "昔はよく戦闘機のようにケンカしてたものだがな"
     }
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "translation": {
       "en": "peacefully working together in a loving sisterhood.",
-      "ja": "姉妹愛のもとに 協力し合っている"
+      "ja": "姉妹愛のもとに協力し合っている"
     }
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "translation": {
       "en": "a tribute to that bewitching mother of yours.",
-      "ja": "そして君たちの 魅惑的な母親に賛辞を"
+      "ja": "そして君たちの魅惑的な母親に賛辞を"
     }
   },
   {
@@ -1237,19 +1237,19 @@
   },
   {
     "translation": {
-      "en": "- Merry, merry Christmas to all of us! - Merry Christmas!",
+      "en": "-Merry, merry Christmas to all of us! -Merry Christmas!",
       "ja": "クリスマスおめでとう"
     }
   },
   {
     "translation": {
-      "en": "Merry Christmas!",
+      "en": "[all] Merry Christmas!",
       "ja": "メリークリスマス"
     }
   },
   {
     "translation": {
-      "en": "Where did you get all this?",
+      "en": "[boy] Where did you get all this?",
       "ja": "それどうしたの？"
     }
   },
@@ -1285,8 +1285,8 @@
   },
   {
     "translation": {
-      "en": "Bloody marvelous. I love Christmas. - Mm- hmm. - Should happen more often.",
-      "ja": "クリスマスが しょっちゅうあればいいのに"
+      "en": "Bloody marvelous. I love Christmas. -Mm-hmm. -Should happen more often.",
+      "ja": "クリスマスがしょっちゅうあればいいのに"
     }
   },
   {
@@ -1309,7 +1309,7 @@
   },
   {
     "translation": {
-      "en": "- Jolly good. -",
+      "en": "-Jolly good. -[Caroline chuckles]",
       "ja": "どうも"
     }
   },
@@ -1327,8 +1327,8 @@
   },
   {
     "translation": {
-      "en": "She's been working on her thesis for ten years.",
-      "ja": "10年前から ずっと書いてるのよ"
+      "en": "[sighs] She's been working on her thesis for ten years.",
+      "ja": "10年前からずっと書いてるのよ"
     }
   },
   {
@@ -1340,7 +1340,7 @@
   {
     "translation": {
       "en": "We all know why. It's 'cause Robbie wanted a solo career.",
-      "ja": "ロビーが ソロになりたかったからよ"
+      "ja": "ロビーがソロになりたかったからよ"
     }
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "Sex and drugs and rock 'n' roll.",
-      "ja": "セックス ドラッグ ロックンロール"
+      "ja": "セックス ドラッグロックンロール"
     }
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "translation": {
       "en": "Well, if Paulina won't come to us, maybe we should go to her.",
-      "ja": "ポーリーナの 顔を見に行きましょ"
+      "ja": "ポーリーナの顔を見に行きましょ"
     }
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "translation": {
       "en": "Paulina, are you really going to spend the next three days in a darkened room?",
-      "ja": "３日間を 暗い部屋で過ごすつもり？"
+      "ja": "３日間を暗い部屋で過ごすつもり？"
     }
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "translation": {
       "en": "about the greatest rock band in the history of the world.",
-      "ja": "世界一の ロックバンドについて"
+      "ja": "世界一のロックバンドについて"
     }
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "translation": {
       "en": "Felix, would you like to see some family photos?",
-      "ja": "フェリックス 家族の写真 見る？"
+      "ja": "フェリックス家族の写真 見る？"
     }
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "translation": {
       "en": "Of when I was growing up, and Joanna was at university.",
-      "ja": "私が子供で ジョアンナは大学生"
+      "ja": "私が子供でジョアンナは大学生"
     }
   },
   {
@@ -1441,19 +1441,19 @@
   },
   {
     "translation": {
-      "en": "A decade apart.",
+      "en": "[sarcastic chuckle] A decade apart.",
       "ja": "10歳差よ"
     }
   },
   {
     "translation": {
-      "en": "Forty- five and still--",
+      "en": "Forty-five and still--",
       "ja": "45歳なのに"
     }
   },
   {
     "translation": {
-      "en": "Thirty- five! I'm thirty- five.",
+      "en": "Thirty-five! I'm thirty-five.",
       "ja": "35！　私は35歳よ"
     }
   },
@@ -1465,8 +1465,8 @@
   },
   {
     "translation": {
-      "en": "Sorry. I'd just like to go over the itinerary for the next few days.",
-      "ja": "今後の日程を 確認しておきたいの"
+      "en": "[chuckles] Sorry. I'd just like to go over the itinerary for the next few days.",
+      "ja": "今後の日程を確認しておきたいの"
     }
   },
   {
@@ -1484,13 +1484,13 @@
   {
     "translation": {
       "en": "Therefore tonight is heavy appetizers. If you're all still hungry, go to the Plough Inn.",
-      "ja": "今夜は前菜中心だから 空腹ならプラウ･インへ"
+      "ja": "今夜は前菜中心だから空腹ならプラウ･インへ"
     }
   },
   {
     "translation": {
       "en": "Oh, Vicky, you like a good plowing.",
-      "ja": "ヴィッキーは ヤる(プラウ)のが好きだしね"
+      "ja": "ヴィッキーはヤる(プラウ)のが好きだしね"
     }
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "translation": {
-      "en": "Yes, and tomorrow we have the Howden Christmas Fair,",
+      "en": "[Caroline] Yes, and tomorrow we have the Howden Christmas Fair,",
       "ja": "明日はホーデンのフェア"
     }
   },
@@ -1526,13 +1526,13 @@
   {
     "translation": {
       "en": "Christmas Day, we've got a nativity play at the Nightingale Lodge.",
-      "ja": "クリスマスは ナイチンゲールロッジで 降誕劇よ"
+      "ja": "クリスマスはナイチンゲールロッジで 降誕劇よ"
     }
   },
   {
     "translation": {
       "en": "Ooh, love a whiff of urine and old fart on Christmas Day.",
-      "ja": "老人の尿と おならのにおいが楽しみ"
+      "ja": "老人の尿とおならのにおいが楽しみ"
     }
   },
   {
@@ -1544,12 +1544,12 @@
   {
     "translation": {
       "en": "Please, could we just be a family and have a lovely Christmas?",
-      "ja": "お願いだから家族で 穏やかな休暇を過ごしましょ"
+      "ja": "お願いだから家族で穏やかな休暇を過ごしましょ"
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "[whispers] Thank you.",
       "ja": "お願い"
     }
   },
@@ -1567,7 +1567,7 @@
   },
   {
     "translation": {
-      "en": "- Yes, Peter, please. - I married the love of my life.",
+      "en": "-Yes, Peter, please. -I married the love of my life.",
       "ja": "ピーター 結婚記念日だ"
     }
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "translation": {
-      "en": "That's brilliant.",
+      "en": "That's brilliant. [laughs]",
       "ja": "すばらしい"
     }
   },
@@ -1591,7 +1591,7 @@
   },
   {
     "translation": {
-      "en": "- And I was-- - The old maid.",
+      "en": "-And I was-- -The old maid.",
       "ja": "私は… 小姑"
     }
   },
@@ -1609,25 +1609,25 @@
   },
   {
     "translation": {
-      "en": "- We are? - But why? Your room's all ready.",
+      "en": "-We are? -But why? Your room's all ready.",
       "ja": "えっ？ 部屋の用意が"
     }
   },
   {
     "translation": {
-      "en": "- I just carried everything upstairs. - And you can bring them down again.",
+      "en": "-I just carried everything upstairs. -And you can bring them down again.",
       "ja": "荷物を運んだ じゃあ降ろして"
     }
   },
   {
     "translation": {
       "en": "I refuse to spend another night under the same roof as you.",
-      "ja": "この子と同じ屋根の下なんて お断りよ"
+      "ja": "この子と同じ屋根の下なんてお断りよ"
     }
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "Okay. [laughs]",
       "ja": "そうか"
     }
   },
@@ -1639,26 +1639,26 @@
   },
   {
     "translation": {
-      "en": "You sure you can't convince her to stay? The Plough Inn is no Savoy.",
-      "ja": "説得できない？ あそこは高級ホテルじゃない"
+      "en": "[Peter] You sure you can't convince her to stay? The Plough Inn is no Savoy.",
+      "ja": "説得できない？あそこは高級ホテルじゃない"
     }
   },
   {
     "translation": {
-      "en": "Joanna is very strong- willed. Probably not worth the fight.",
+      "en": "[chuckles] Joanna is very strong-willed. Probably not worth the fight.",
       "ja": "ジョアンナの意志は固い"
     }
   },
   {
     "translation": {
       "en": "Well, if you change your mind, you can always come back here.",
-      "ja": "気が変わったら戻って 僕の部屋がある"
+      "ja": "気が変わったら戻って僕の部屋がある"
     }
   },
   {
     "translation": {
-      "en": "- You can have my room. - Your room?",
-      "ja": "気が変わったら戻って 僕の部屋がある つまり…"
+      "en": "-You can have my room. -Your room?",
+      "ja": "気が変わったら戻って僕の部屋がある つまり…"
     }
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "translation": {
       "en": "Uh, apparently, I snore, spin, steal the bedsheets… Generally annoying.",
-      "ja": "いびきをかき 寝相が悪くて シーツを奪うからね"
+      "ja": "いびきをかき 寝相が悪くてシーツを奪うからね"
     }
   },
   {
@@ -1699,13 +1699,13 @@
   },
   {
     "translation": {
-      "en": "- So no… - No, no.",
+      "en": "-So no… -No, no.",
       "ja": "じゃあ… ああ"
     }
   },
   {
     "translation": {
-      "en": "Not for a while, no.",
+      "en": "[inhales deeply] Not for a while, no.",
       "ja": "ご無沙汰だ"
     }
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "translation": {
-      "en": "- Really? - Yeah.",
+      "en": "-Really? -Yeah.",
       "ja": "本当？ ああ"
     }
   },
@@ -1754,19 +1754,19 @@
   {
     "translation": {
       "en": "No one in this family respects what I'm doing.",
-      "ja": "誰も私の論文を 評価してくれない"
+      "ja": "誰も私の論文を評価してくれない"
     }
   },
   {
     "translation": {
       "en": "I have dedicated my life to John, Paul, George, and Ringo.",
-      "ja": "人生をビートルズに ささげてきたのに"
+      "ja": "人生をビートルズにささげてきたのに"
     }
   },
   {
     "translation": {
       "en": "Paulina, even the Beatles didn't dedicate their lives to the Beatles.",
-      "ja": "メンバーは自分の人生を ささげてない"
+      "ja": "メンバーは自分の人生をささげてない"
     }
   },
   {
@@ -1796,7 +1796,7 @@
   {
     "translation": {
       "en": "You take one more step towards me, I swear to God, I will rip out your larynx and wrap it round your tits.",
-      "ja": "これ以上私に近寄ったら 喉を裂いておっぱいに巻くよ"
+      "ja": "これ以上私に近寄ったら喉を裂いておっぱいに巻くよ"
     }
   },
   {
@@ -1849,7 +1849,7 @@
   },
   {
     "translation": {
-      "en": "- I stayed with him. -",
+      "en": "-I stayed with him. -[gasps]",
       "ja": "家に滞在した"
     }
   },
@@ -1861,13 +1861,13 @@
   },
   {
     "translation": {
-      "en": "- For a week. Maybe two. - Oh my God.",
+      "en": "-For a week. Maybe two. -[inaudible] Oh my God.",
       "ja": "１週間…　２週間かな"
     }
   },
   {
     "translation": {
-      "en": "- - With Jackie.",
+      "en": "-[gasps] -With Jackie.",
       "ja": "ジャッキーも"
     }
   },
@@ -1879,7 +1879,7 @@
   },
   {
     "translation": {
-      "en": "- That's his-- - Hello, Mum!",
+      "en": "-That's his-- -[Caroline] Hello, Mum! [laughs]",
       "ja": "それ… 母さん"
     }
   },
@@ -1904,7 +1904,7 @@
   {
     "translation": {
       "en": "Mum, your buttons are all done wrong on your blouse.",
-      "ja": "ブラウスのボタンを かけ違ってる"
+      "ja": "ブラウスのボタンをかけ違ってる"
     }
   },
   {
@@ -1916,31 +1916,31 @@
   {
     "translation": {
       "en": "You'll have to get a room for me at Nightingale Lodge.",
-      "ja": "ナイチンゲールロッジに 入居しなきゃ"
+      "ja": "ナイチンゲールロッジに入居しなきゃ"
     }
   },
   {
     "translation": {
-      "en": "- - You can share Joanna's.",
+      "en": "-[Caroline laughs nervously] -You can share Joanna's.",
       "ja": "ジョアンナと住めば？"
     }
   },
   {
     "translation": {
-      "en": "- Would you like a plate? - Mm. Thank you.",
+      "en": "-Would you like a plate? -[Elizabeth] Mm. Thank you.",
       "ja": "お皿は？ どうも"
     }
   },
   {
     "translation": {
-      "en": "- Did you make this, darling? - Yes, it's for tomorrow.",
+      "en": "-Did you make this, darling? -Yes, it's for tomorrow.",
       "ja": "作ったの？ 明日用にね"
     }
   },
   {
     "translation": {
-      "en": "Silly me, asking about your private life. - - I didn't mean to intrude.",
-      "ja": "立ち入ったことを聞いて 悪かった"
+      "en": "Silly me, asking about your private life. -[Peter chuckles] -I didn't mean to intrude.",
+      "ja": "立ち入ったことを聞いて悪かった"
     }
   },
   {
@@ -1969,14 +1969,14 @@
   },
   {
     "translation": {
-      "en": "It's wonderful.",
+      "en": "It's wonderful. [chuckles]",
       "ja": "いいものだよ"
     }
   },
   {
     "translation": {
       "en": "Vicky, when you went to Florida, did you by any chance invite anyone for Christmas?",
-      "ja": "フロリダにいた時 誰かをうちに招待した？"
+      "ja": "フロリダにいた時誰かをうちに招待した？"
     }
   },
   {
@@ -2000,18 +2000,18 @@
   {
     "translation": {
       "en": "or that maybe you should have asked the host first?",
-      "ja": "せめて私に 先に聞いてからにしてよ"
+      "ja": "せめて私に先に聞いてからにしてよ"
     }
   },
   {
     "translation": {
-      "en": "- Did he come? - They came.",
+      "en": "-Did he come? -They came.",
       "ja": "来た？ ２人でね"
     }
   },
   {
     "translation": {
-      "en": "- Is it who I think it is? - Mm- hmm!",
+      "en": "-Is it who I think it is? -[squeaky] Mm-hmm!",
       "ja": "まさか"
     }
   },
@@ -2041,7 +2041,7 @@
   },
   {
     "translation": {
-      "en": "Especially if they have come all the way from Florida.",
+      "en": "Especially if they have come all the way from Florida. [chuckles]",
       "ja": "フロリダから来たなら特に"
     }
   },
@@ -2071,14 +2071,14 @@
   },
   {
     "translation": {
-      "en": "Hi!  It's so nice to meet you all.",
-      "ja": "ハーイ 皆さんに会えてうれしい"
+      "en": "Hi! [giggles] It's so nice to meet you all.",
+      "ja": "ハーイ皆さんに会えてうれしい"
     }
   },
   {
     "translation": {
       "en": "Oh my God! This castle is so adorable.",
-      "ja": "すごいわ このお城とってもステキね"
+      "ja": "すごいわこのお城とってもステキね"
     }
   },
   {
@@ -2089,19 +2089,19 @@
   },
   {
     "translation": {
-      "en": "I… I should introduce myself. I'm your son- in- law.",
+      "en": "I… I should introduce myself. I'm your son-in-law.",
       "ja": "自己紹介を　義理の息子です"
     }
   },
   {
     "translation": {
-      "en": "- Peter. - Peter.",
+      "en": "-Peter. -Peter.",
       "ja": "ピーター？ ええ"
     }
   },
   {
     "translation": {
-      "en": "- Yes. It's a pleasure. - Yeah.",
+      "en": "-Yes. It's a pleasure. -Yeah.",
       "ja": "会えてうれしいよ"
     }
   },
@@ -2114,7 +2114,7 @@
   {
     "translation": {
       "en": "Hi. I'm, uh, Joanna's boyfriend, Felix.",
-      "ja": "ジョアンナと交際してる フェリックスです"
+      "ja": "ジョアンナと交際してるフェリックスです"
     }
   },
   {
@@ -2125,13 +2125,13 @@
   },
   {
     "translation": {
-      "en": "Hi.",
+      "en": "[gasps] Hi.",
       "ja": "ハーイ"
     }
   },
   {
     "translation": {
-      "en": "- Hi.  - Yes, hi.",
+      "en": "-Hi. [chuckles] -Yes, hi.",
       "ja": "どうも"
     }
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "translation": {
-      "en": "- Lilibet? -",
+      "en": "-[James] Lilibet? -[gasps]",
       "ja": "エリザベス"
     }
   },
@@ -2186,7 +2186,7 @@
   {
     "translation": {
       "en": "And I love that you recycle. I saw the tree.",
-      "ja": "リサイクルにも関心が？ ツリーを見た"
+      "ja": "リサイクルにも関心が？ツリーを見た"
     }
   },
   {
@@ -2215,7 +2215,7 @@
   },
   {
     "translation": {
-      "en": "- He's got old, hasn't he? - It's been 27 years.",
+      "en": "-He's got old, hasn't he? -[scoffs] It's been 27 years.",
       "ja": "老けたよね 27年たったのよ"
     }
   },
@@ -2251,20 +2251,20 @@
   },
   {
     "translation": {
-      "en": "- Miami. - Miami?",
+      "en": "-Miami. -[Peter] Miami?",
       "ja": "マイアミに"
     }
   },
   {
     "translation": {
-      "en": "- Ah. - Twenty- five years now. Best thing I ever did.",
-      "ja": "25年になる 最高の決断だった"
+      "en": "-Ah. -Twenty-five years now. Best thing I ever did.",
+      "ja": "25年になる最高の決断だった"
     }
   },
   {
     "translation": {
       "en": "I wear shorts in January, afternoons are for golf,",
-      "ja": "１月に短パンをはき 午後はゴルフ"
+      "ja": "１月に短パンをはき午後はゴルフ"
     }
   },
   {
@@ -2300,7 +2300,7 @@
   {
     "translation": {
       "en": "And have you heard her speak? It's like she massacres the English language.",
-      "ja": "彼女の話し方ときたら 英語に対する冒とくよ"
+      "ja": "彼女の話し方ときたら英語に対する冒とくよ"
     }
   },
   {
@@ -2336,7 +2336,7 @@
   {
     "translation": {
       "en": "Paulina, what are you doing here? I told you to stay with Mum. Is she okay?",
-      "ja": "母さんに ついててと言ったのに"
+      "ja": "母さんについててと言ったのに"
     }
   },
   {
@@ -2347,8 +2347,8 @@
   },
   {
     "translation": {
-      "en": "I've maintained a strange devotion to my queen and country.",
-      "ja": "私は女王と祖国に 献身的な愛情を保っている"
+      "en": "[exhales] I've maintained a strange devotion to my queen and country.",
+      "ja": "私は女王と祖国に献身的な愛情を保っている"
     }
   },
   {
@@ -2383,20 +2383,20 @@
   },
   {
     "translation": {
-      "en": "- Except everyone thinks he's Australian. -",
-      "ja": "オーストラリア人と 間違われる"
+      "en": "-Except everyone thinks he's Australian. -[all laughing]",
+      "ja": "オーストラリア人と間違われる"
     }
   },
   {
     "translation": {
-      "en": "- I can't believe you invited him, Vicks. -",
+      "en": "-I can't believe you invited him, Vicks. -[exhales]",
       "ja": "招待するだなんて"
     }
   },
   {
     "translation": {
       "en": "You're so selfish. Can you imagine a world where you have responsibilities?",
-      "ja": "本当に自分勝手ね 責任を持とうと思わないの？"
+      "ja": "本当に自分勝手ね責任を持とうと思わないの？"
     }
   },
   {
@@ -2408,12 +2408,12 @@
   {
     "translation": {
       "en": "What, like yours? With your husband in the east wing? Bedroom door and legs shut.",
-      "ja": "姉さんみたいに 旦那を寝室から締め出す？"
+      "ja": "姉さんみたいに旦那を寝室から締め出す？"
     }
   },
   {
     "translation": {
-      "en": "You ruin everything!",
+      "en": "[exclaims] You ruin everything!",
       "ja": "放っておいて"
     }
   },
@@ -2425,8 +2425,8 @@
   },
   {
     "translation": {
-      "en": "The love you take is equal to the love you make. Paul McCartney.",
-      "ja": "“愛の総量は同じ” Ｐ･マッカートニー"
+      "en": "\"The love you take is equal to the love you make.\" Paul McCartney.",
+      "ja": "“愛の総量は同じ”Ｐ･マッカートニー"
     }
   },
   {
@@ -2449,14 +2449,14 @@
   },
   {
     "translation": {
-      "en": "- Mummy, are you all right? - Yes, I'm fine.",
-      "ja": "大丈夫？ 私は平気よ 時間が必要だっただけ"
+      "en": "-Mummy, are you all right? -Yes, I'm fine.",
+      "ja": "大丈夫？ 私は平気よ時間が必要だっただけ"
     }
   },
   {
     "translation": {
       "en": "I just need a moment.",
-      "ja": "私は平気よ 時間が必要だっただけ"
+      "ja": "私は平気よ時間が必要だっただけ"
     }
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "translation": {
       "en": "♪ On the first day of Christmas My true love sent to me ♪",
-      "ja": "クリスマスの初日 　　愛する人から贈り物"
+      "ja": "クリスマスの初日　　愛する人から贈り物"
     }
   },
   {
@@ -2480,19 +2480,19 @@
   {
     "translation": {
       "en": "♪ On the second day of Christmas My true love sent to me… ♪",
-      "ja": "クリスマス２日目 　　愛する人から贈り物"
+      "ja": "クリスマス２日目　　愛する人から贈り物"
     }
   },
   {
     "translation": {
       "en": "Where do you think you're going? We are all in this together.",
-      "ja": "どこへ行く気？ 勝手に逃げないでよ"
+      "ja": "どこへ行く気？勝手に逃げないでよ"
     }
   },
   {
     "translation": {
       "en": "I spent two weeks in Florida with him. He's all yours.",
-      "ja": "彼と２週間過ごした あとは任せる"
+      "ja": "彼と２週間過ごしたあとは任せる"
     }
   },
   {
@@ -2503,7 +2503,7 @@
   },
   {
     "translation": {
-      "en": "Merry Christmas, Mrs. Christmas- Hope.",
+      "en": "[in unison] Merry Christmas, Mrs. Christmas-Hope.",
       "ja": "メリークリスマス"
     }
   },
@@ -2516,12 +2516,12 @@
   {
     "translation": {
       "en": "It's because you put too much pressure on everything to make it…",
-      "ja": "クリスマスが窮屈なの もっと…"
+      "ja": "クリスマスが窮屈なのもっと…"
     }
   },
   {
     "translation": {
-      "en": "- You should just-- - Let it be.",
+      "en": "-You should just-- -Let it be.",
       "ja": "あるがままに(レットイットビー)"
     }
   },
@@ -2533,13 +2533,13 @@
   },
   {
     "translation": {
-      "en": "- Hey, don't you touch the Rolls- Royce. -",
+      "en": "-Hey, don't you touch the Rolls-Royce. -[carol singers continue]",
       "ja": "その車に触らないで"
     }
   },
   {
     "translation": {
-      "en": "Come back here!",
+      "en": "[Joanna] Come back here!",
       "ja": "戻りなさい"
     }
   },
@@ -2552,13 +2552,13 @@
   {
     "translation": {
       "en": "And don't worry about the nuclear bomb you just detonated.",
-      "ja": "爆弾を爆破して逃げれば？ 後処理は任せて"
+      "ja": "爆弾を爆破して逃げれば？後処理は任せて"
     }
   },
   {
     "translation": {
       "en": "We'll deal with the fallout. Will you just shut up?",
-      "ja": "爆弾を爆破して逃げれば？ 後処理は任せて 黙って！"
+      "ja": "爆弾を爆破して逃げれば？後処理は任せて 黙って！"
     }
   },
   {
@@ -2582,7 +2582,7 @@
   {
     "translation": {
       "en": "Uh, chocolate Hobnob? Take as many as you like.",
-      "ja": "チョコクッキーを お好きなだけ"
+      "ja": "チョコクッキーをお好きなだけ"
     }
   },
   {
@@ -2599,7 +2599,7 @@
   },
   {
     "translation": {
-      "en": "- Did Vicky just take my Rolls? - Felix, not the moment.",
+      "en": "-Did Vicky just take my Rolls? -Felix, not the moment.",
       "ja": "僕の車が 今はやめて"
     }
   },
@@ -2624,13 +2624,13 @@
   {
     "translation": {
       "en": "Anything is fine. Uh, we don't wanna cause any trouble.",
-      "ja": "何でもいい 迷惑をかけたくない"
+      "ja": "何でもいい迷惑をかけたくない"
     }
   },
   {
     "translation": {
-      "en": "We are paleo, keto, kosher, vegan, gluten- free, refined sugar- free,",
-      "ja": "ケトジェニック ヴィーガン グルテンフリー 白砂糖抜き"
+      "en": "We are paleo, keto, kosher, vegan, gluten-free, refined sugar-free,",
+      "ja": "ケトジェニック ヴィーガングルテンフリー 白砂糖抜き"
     }
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "translation": {
       "en": "How about Caroline cooks you up a nice piece of wood?",
-      "ja": "キャロラインに 木切れでも料理してもらえ"
+      "ja": "キャロラインに木切れでも料理してもらえ"
     }
   },
   {
@@ -2653,7 +2653,7 @@
   },
   {
     "translation": {
-      "en": "I've never had wood.",
+      "en": "[clears throat] I've never had wood.",
       "ja": "木切れは未体験よ"
     }
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "translation": {
-      "en": "- Well, I like these little characters. -",
+      "en": "-Well, I like these little characters. -[Jackie chuckles]",
       "ja": "かわいい人形だ"
     }
   },
@@ -2690,7 +2690,7 @@
   {
     "translation": {
       "en": "I'm your grandpa. And you are Daisey.",
-      "ja": "おじいちゃんだ デイジーだね？"
+      "ja": "おじいちゃんだデイジーだね？"
     }
   },
   {
@@ -2713,14 +2713,14 @@
   },
   {
     "translation": {
-      "en": "He does look a little dead, doesn't he?",
+      "en": "He does look a little dead, doesn't he? [chuckles]",
       "ja": "少し死人みたいだよな"
     }
   },
   {
     "translation": {
       "en": "Yes, well, the rumors of my death have been greatly exaggerated.",
-      "ja": "私の死亡のウワサは ずいぶん誇張されている"
+      "ja": "私の死亡のウワサはずいぶん誇張されている"
     }
   },
   {
@@ -2743,8 +2743,8 @@
   },
   {
     "translation": {
-      "en": "Step- grandma, Henry. Step- grandma.",
-      "ja": "義理のおばあちゃんよ ヘンリー"
+      "en": "Step-grandma, Henry. Step-grandma.",
+      "ja": "義理のおばあちゃんよヘンリー"
     }
   },
   {
@@ -2761,8 +2761,8 @@
   },
   {
     "translation": {
-      "en": "You're doing awfully well, Joanna. You used to cry over hand- me- downs.",
-      "ja": "お下がりがイヤで 泣いてたのに出世したな"
+      "en": "You're doing awfully well, Joanna. You used to cry over hand-me-downs.",
+      "ja": "お下がりがイヤで泣いてたのに出世したな"
     }
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "translation": {
       "en": "Uh, since when did you sprout massive knockers?",
-      "ja": "どうして急に 胸が大きくなったの？"
+      "ja": "どうして急に胸が大きくなったの？"
     }
   },
   {
@@ -2815,19 +2815,19 @@
   },
   {
     "translation": {
-      "en": "- - Sorry, Auntie Joanna.",
+      "en": "-[gasps] -Sorry, Auntie Joanna.",
       "ja": "ごめんなさい"
     }
   },
   {
     "translation": {
       "en": "That is a very expensive brassiere.",
-      "ja": "すごく高価な ブラジャーなのよ"
+      "ja": "すごく高価なブラジャーなのよ"
     }
   },
   {
     "translation": {
-      "en": "Six hundred and forty- nine pounds,",
+      "en": "Six hundred and forty-nine pounds,",
       "ja": "649ポンドもするの"
     }
   },
@@ -2840,7 +2840,7 @@
   {
     "translation": {
       "en": "and you have stuffed it with pairs of your cheesy socks.",
-      "ja": "しかもあんたの 安っぽい靴下を詰めるとは"
+      "ja": "しかもあんたの安っぽい靴下を詰めるとは"
     }
   },
   {
@@ -2858,7 +2858,7 @@
   {
     "translation": {
       "en": "And you, Liza Minnelli, come here.",
-      "ja": "そこのライザ･ミネリ おいで"
+      "ja": "そこのライザ･ミネリおいで"
     }
   },
   {
@@ -2888,7 +2888,7 @@
   {
     "translation": {
       "en": "No, you just believe in seducing old cosmetic dentists with fat wallets.",
-      "ja": "金持ちの審美歯科医を 誘惑するのはオーケーなの？"
+      "ja": "金持ちの審美歯科医を誘惑するのはオーケーなの？"
     }
   },
   {
@@ -2905,26 +2905,26 @@
   },
   {
     "translation": {
-      "en": "I don't want to go to prison.",
+      "en": "[sobs] I don't want to go to prison.",
       "ja": "刑務所はイヤ"
     }
   },
   {
     "translation": {
       "en": "No, not you. My little bitch of a sister who has stolen my clothes.",
-      "ja": "あんたじゃない 私の服を盗んだ妹よ"
+      "ja": "あんたじゃない私の服を盗んだ妹よ"
     }
   },
   {
     "translation": {
-      "en": "- And my car. - Vicky's family. She'll bring it all back.",
+      "en": "-And my car. -Vicky's family. She'll bring it all back.",
       "ja": "僕の車も ちゃんと返すわよ"
     }
   },
   {
     "translation": {
       "en": "There's no signal. We can't get out of this godforsaken place.",
-      "ja": "電波がない ここから抜け出せない"
+      "ja": "電波がないここから抜け出せない"
     }
   },
   {
@@ -2941,7 +2941,7 @@
   },
   {
     "translation": {
-      "en": "Well, I think this has been a marvelous catch- up.",
+      "en": "Well, I think this has been a marvelous catch-up.",
       "ja": "すばらしい再会だったな"
     }
   },
@@ -2960,7 +2960,7 @@
   {
     "translation": {
       "en": "so you can see what you've been missing for the last 27 years.",
-      "ja": "お前がいなかった27年間の 話を聞くといい"
+      "ja": "お前がいなかった27年間の話を聞くといい"
     }
   },
   {
@@ -3007,7 +3007,7 @@
   },
   {
     "translation": {
-      "en": "- Well, that's very gracious and generous. - Mm.",
+      "en": "-Well, that's very gracious and generous. -Mm.",
       "ja": "寛大な申し出に感謝する"
     }
   },
@@ -3020,18 +3020,18 @@
   {
     "translation": {
       "en": "Y'all live like Prince Charles and Queen Camilla.",
-      "ja": "チャールズ王子と カミラ王妃みたい"
+      "ja": "チャールズ王子とカミラ王妃みたい"
     }
   },
   {
     "translation": {
-      "en": "♪ In a one- horse open sleigh ♪ ♪ O'er the fields we go ♪",
+      "en": "♪ In a one-horse open sleigh ♪ ♪ O'er the fields we go ♪",
       "ja": "“プラウ･イン”"
     }
   },
   {
     "translation": {
-      "en": "- Try it. - Thank you.",
+      "en": "-[man 1] Try it. -[man 2] Thank you.",
       "ja": "どうぞ"
     }
   },
@@ -3049,20 +3049,20 @@
   },
   {
     "translation": {
-      "en": "Old- fashioned. Straight up.",
+      "en": "Old-fashioned. Straight up.",
       "ja": "オールドファッション"
     }
   },
   {
     "translation": {
-      "en": "- Oh, so you've read my Tinder profile? - Just the drink, please.",
+      "en": "-Oh, so you've read my Tinder profile? -Just the drink, please.",
       "ja": "俺のプロフを？ いいからお酒を"
     }
   },
   {
     "translation": {
       "en": "You know, that's not a regular request around here.",
-      "ja": "この辺じゃ 普通は頼まない酒だ"
+      "ja": "この辺じゃ普通は頼まない酒だ"
     }
   },
   {
@@ -3092,12 +3092,12 @@
   {
     "translation": {
       "en": "Come on, Zeus, you troublesome beast.",
-      "ja": "おいでゼウス 厄介なけものだ"
+      "ja": "おいでゼウス厄介なけものだ"
     }
   },
   {
     "translation": {
-      "en": "I beg your pardon?",
+      "en": "[Elizabeth] I beg your pardon?",
       "ja": "私のことかしら"
     }
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "translation": {
-      "en": "Olé!",
+      "en": "[Elizabeth gasps] Olé!",
       "ja": "オレ！"
     }
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "translation": {
-      "en": "- Take this off. Now. - Okay.",
+      "en": "-Take this off. Now. -Okay. [grunts]",
       "ja": "脱いで わかった"
     }
   },
@@ -3164,7 +3164,7 @@
   {
     "translation": {
       "en": "This is a fascinating read, Paulina. There's so much of it.",
-      "ja": "すごく面白い 読み応えがあるね"
+      "ja": "すごく面白い読み応えがあるね"
     }
   },
   {
@@ -3175,8 +3175,8 @@
   },
   {
     "translation": {
-      "en": "Well, Christmas is going great. First Vicky goes, and now I can't find Mum.",
-      "ja": "ヴィッキーの次は 母さんが行方不明"
+      "en": "[Caroline] Well, Christmas is going great. First Vicky goes, and now I can't find Mum.",
+      "ja": "ヴィッキーの次は母さんが行方不明"
     }
   },
   {
@@ -3193,7 +3193,7 @@
   },
   {
     "translation": {
-      "en": "Just a couple more.",
+      "en": "[Paulina] Just a couple more.",
       "ja": "あと数箱"
     }
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "translation": {
-      "en": "Last one.",
+      "en": "[Paulina] Last one.",
       "ja": "あと１つ"
     }
   },
@@ -3223,7 +3223,7 @@
   },
   {
     "translation": {
-      "en": "- Absolutely. - That's your lot.",
+      "en": "-Absolutely. -[Paulina] That's your lot.",
       "ja": "頼むよ 全部よ"
     }
   },
@@ -3325,25 +3325,25 @@
   },
   {
     "translation": {
-      "en": "- Night. - Night.",
+      "en": "-Night. -Night.",
       "ja": "おやすみ"
     }
   },
   {
     "translation": {
-      "en": "- Rat! Rat! - Rat! Rat! Get it, darling.",
+      "en": "-Rat! Rat! -Rat! Rat! Get it, darling.",
       "ja": "ネズミだ！　捕まえて"
     }
   },
   {
     "translation": {
-      "en": "- What's going on? - There's a rat!",
+      "en": "-What's going on? -There's a rat!",
       "ja": "どうしたの ネズミが！"
     }
   },
   {
     "translation": {
-      "en": "It's not a rat. It's Ringo.",
+      "en": "[exhales] It's not a rat. It's Ringo.",
       "ja": "違う　リンゴよ"
     }
   },
@@ -3355,7 +3355,7 @@
   },
   {
     "translation": {
-      "en": "I hate the country.",
+      "en": "[Joanna] I hate the country.",
       "ja": "田舎は嫌いよ"
     }
   },
@@ -3373,14 +3373,14 @@
   },
   {
     "translation": {
-      "en": "- Oh God, this house. - Oh my God.",
+      "en": "-Oh God, this house. -Oh my God.",
       "ja": "この家はもうイヤ"
     }
   },
   {
     "translation": {
       "en": "I almost had a heart attack. Are you sure there's only one?",
-      "ja": "心臓発作を起こすかと １匹？"
+      "ja": "心臓発作を起こすかと１匹？"
     }
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "translation": {
-      "en": "There we go.",
+      "en": "[whispers] There we go.",
       "ja": "さあリンゴ"
     }
   },
@@ -3404,7 +3404,7 @@
   {
     "translation": {
       "en": "Darling, I won't snore or spin or wrap myself up like a cocoon in all the covers.",
-      "ja": "いびきもかかないし 毛布をぐるぐる巻きにしない"
+      "ja": "いびきもかかないし毛布をぐるぐる巻きにしない"
     }
   },
   {
@@ -3427,7 +3427,7 @@
   },
   {
     "translation": {
-      "en": "I want to cancel Christmas.",
+      "en": "[sighs] I want to cancel Christmas.",
       "ja": "もう休暇はイヤ"
     }
   },
@@ -3445,7 +3445,7 @@
   },
   {
     "translation": {
-      "en": "We're the Christmas- Hopes. It's what we do.",
+      "en": "We're the Christmas-Hopes. It's what we do.",
       "ja": "クリスマスホープ家だろ"
     }
   },
@@ -3500,7 +3500,7 @@
   {
     "translation": {
       "en": "This almond milk is delish. So much better than America.",
-      "ja": "このアーモンドミルク アメリカのよりおいしい"
+      "ja": "このアーモンドミルクアメリカのよりおいしい"
     }
   },
   {
@@ -3524,18 +3524,18 @@
   {
     "translation": {
       "en": "I love the Beatles, Paulina. This makes me wanna move to Liverpool.",
-      "ja": "ビートルズは大好きだ リヴァプールに越したい"
+      "ja": "ビートルズは大好きだリヴァプールに越したい"
     }
   },
   {
     "translation": {
       "en": "I could get you into 20 Forthlin Road. Paul McCartney's actual house.",
-      "ja": "Ｐ･マッカートニーの 住んでた家に案内する"
+      "ja": "Ｐ･マッカートニーの住んでた家に案内する"
     }
   },
   {
     "translation": {
-      "en": "- The birthplace of-- - The Beatles and the Scaffold.",
+      "en": "-The birthplace of-- -The Beatles and the Scaffold.",
       "ja": "彼らの… 出発点だよね"
     }
   },
@@ -3577,7 +3577,7 @@
   },
   {
     "translation": {
-      "en": "Why is C- 3PO in my kitchen?",
+      "en": "Why is C-3PO in my kitchen?",
       "ja": "なぜＣ-３ＰＯが？"
     }
   },
@@ -3595,7 +3595,7 @@
   },
   {
     "translation": {
-      "en": "Where is Vicky? I want my own clothes back.",
+      "en": "[Joanna] Where is Vicky? I want my own clothes back.",
       "ja": "妹に早く服を返してほしい"
     }
   },
@@ -3625,14 +3625,14 @@
   },
   {
     "translation": {
-      "en": "- Ah! Hello. - Morning.",
+      "en": "-[John] Ah! Hello. -[Peter] Morning.",
       "ja": "どうも おはよう"
     }
   },
   {
     "translation": {
       "en": "So, is the, uh, cockerel taking a break from the hens?",
-      "ja": "雄鶏は雌鶏から 距離を置いてるのか？"
+      "ja": "雄鶏は雌鶏から距離を置いてるのか？"
     }
   },
   {
@@ -3650,7 +3650,7 @@
   {
     "translation": {
       "en": "We've gotta get a… get a cow out of a ditch, you know, before the--",
-      "ja": "雌牛を一頭 溝から救い出さないと"
+      "ja": "雌牛を一頭溝から救い出さないと"
     }
   },
   {
@@ -3667,20 +3667,20 @@
   },
   {
     "translation": {
-      "en": "I asked her to check out the cottage.",
+      "en": "[John] I asked her to check out the cottage.",
       "ja": "小屋を見てもらった"
     }
   },
   {
     "translation": {
-      "en": "She's got a wonderful eye for interior design.",
-      "ja": "彼女はインテリアの 趣味がいいからね"
+      "en": "She's got a wonderful eye for interior design. [chuckles]",
+      "ja": "彼女はインテリアの趣味がいいからね"
     }
   },
   {
     "translation": {
       "en": "So she's, uh, gonna try and brighten it up a bit. You know, boring old bachelor pad.",
-      "ja": "年寄りの独身男の部屋を少し 小ぎれいにしてもらおうと"
+      "ja": "年寄りの独身男の部屋を少し小ぎれいにしてもらおうと"
     }
   },
   {
@@ -3692,7 +3692,7 @@
   {
     "translation": {
       "en": "It's fallen in a ditch. Silly bitch.",
-      "ja": "溝に落ちてしまってな 愚かな牛だ"
+      "ja": "溝に落ちてしまってな愚かな牛だ"
     }
   },
   {
@@ -3703,19 +3703,19 @@
   },
   {
     "translation": {
-      "en": "Just go and buy yourself some fudge or something. - Come on. - There's a stall over there.",
-      "ja": "あっちでキャンディでも 買っておいで"
+      "en": "Just go and buy yourself some fudge or something. -Come on. -There's a stall over there.",
+      "ja": "あっちでキャンディでも買っておいで"
     }
   },
   {
     "translation": {
-      "en": "- Thank you, Grandma. - All right, darling.",
+      "en": "-Thank you, Grandma. -All right, darling.",
       "ja": "ありがとう ええ"
     }
   },
   {
     "translation": {
-      "en": "- Daisey. - I want to see my friends.",
+      "en": "-Daisey. -I want to see my friends.",
       "ja": "デイジー 友達を探してくる"
     }
   },
@@ -3734,13 +3734,13 @@
   {
     "translation": {
       "en": "My faith was dwindling. It has now been restored.",
-      "ja": "信頼が揺らぎかけてたけど 回復したわ"
+      "ja": "信頼が揺らぎかけてたけど回復したわ"
     }
   },
   {
     "translation": {
-      "en": "Caroline Christmas- Hope, by both name and nature.",
-      "ja": "さすがキャロライン･ クリスマスホープ"
+      "en": "Caroline Christmas-Hope, by both name and nature.",
+      "ja": "さすがキャロライン･クリスマスホープ"
     }
   },
   {
@@ -3758,7 +3758,7 @@
   {
     "translation": {
       "en": "No, no, no. My entry must remain anonymous.",
-      "ja": "まさか 無名のパイで終わるわ"
+      "ja": "まさか無名のパイで終わるわ"
     }
   },
   {
@@ -3776,7 +3776,7 @@
   {
     "translation": {
       "en": "It looks like we need a chef d'équipe for the Advent Wheel of Fortune.",
-      "ja": "ラッキールーレットの 司会者が必要ね"
+      "ja": "ラッキールーレットの司会者が必要ね"
     }
   },
   {
@@ -3818,7 +3818,7 @@
   {
     "translation": {
       "en": "Would be proud of you on the eve of his birth.",
-      "ja": "誕生前夜に あなたを誇りに思うわ"
+      "ja": "誕生前夜にあなたを誇りに思うわ"
     }
   },
   {
@@ -3835,7 +3835,7 @@
   },
   {
     "translation": {
-      "en": "Oh no, no. We're well- catered for there already.",
+      "en": "Oh no, no. We're well-catered for there already.",
       "ja": "いいえ　間に合ってる"
     }
   },
@@ -3865,19 +3865,19 @@
   },
   {
     "translation": {
-      "en": "- What the hell are you doing? - Raising money for the church.",
+      "en": "-What the hell are you doing? -Raising money for the church.",
       "ja": "何してるのよ バザーよ"
     }
   },
   {
     "translation": {
-      "en": "- Where's Felix's car? - I don't know.",
+      "en": "-Where's Felix's car? -I don't know.",
       "ja": "彼の車は？ 知らない"
     }
   },
   {
     "translation": {
-      "en": "- How much for this? - One pound.",
+      "en": "-How much for this? -One pound.",
       "ja": "おいくら？ １ポンド"
     }
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "translation": {
-      "en": "- Two? Perfect. Thank you. - What?",
+      "en": "-Two? Perfect. Thank you. -What?",
       "ja": "あら　ありがとう"
     }
   },
@@ -3920,7 +3920,7 @@
   {
     "translation": {
       "en": "Your father is finally here this Christmas.",
-      "ja": "クリスマスにようやく 父親が現れた"
+      "ja": "クリスマスにようやく父親が現れた"
     }
   },
   {
@@ -3938,7 +3938,7 @@
   {
     "translation": {
       "en": "Joanna! We are so thrilled with your very generous gifts,",
-      "ja": "ジョアンナ 太っ腹な寄付に 心から感謝するわ"
+      "ja": "ジョアンナ 太っ腹な寄付に心から感謝するわ"
     }
   },
   {
@@ -3991,7 +3991,7 @@
   },
   {
     "translation": {
-      "en": "Roll up.",
+      "en": "[unenthusiastically] Roll up.",
       "ja": "さあ"
     }
   },
@@ -4022,7 +4022,7 @@
   {
     "translation": {
       "en": "It's not a wet weekend in Wigan, darling. It's the Advent Wheel of Fortune!",
-      "ja": "景気が悪すぎる ラッキールーレットなのよ"
+      "ja": "景気が悪すぎるラッキールーレットなのよ"
     }
   },
   {
@@ -4033,13 +4033,13 @@
   },
   {
     "translation": {
-      "en": "Land on Christmas Day, and you get a knitted toilet- roll cover.",
-      "ja": "ニットの トイレットペーパーホルダー"
+      "en": "Land on Christmas Day, and you get a knitted toilet-roll cover.",
+      "ja": "ニットのトイレットペーパーホルダー"
     }
   },
   {
     "translation": {
-      "en": "- Brilliant. -",
+      "en": "-Brilliant. -[clapping]",
       "ja": "すごい"
     }
   },
@@ -4057,7 +4057,7 @@
   },
   {
     "translation": {
-      "en": "Say bye- bye to Santa now. Bye, Santa. Bye.",
+      "en": "[woman] Say bye-bye to Santa now. Bye, Santa. Bye.",
       "ja": "サンタさんにバイバイして"
     }
   },
@@ -4129,7 +4129,7 @@
   },
   {
     "translation": {
-      "en": "- Hi. Hi. Hi! Hi! - Hello.",
+      "en": "-Hi. Hi. Hi! Hi! -Hello.",
       "ja": "ハーイ どうも"
     }
   },
@@ -4184,13 +4184,13 @@
   {
     "translation": {
       "en": "Actually, there… there is something you could help with.",
-      "ja": "実は力を 貸してほしいことがある"
+      "ja": "実は力を貸してほしいことがある"
     }
   },
   {
     "translation": {
-      "en": "- You… - Yes. I'm going to dress you…",
-      "ja": "あなたに 着てもらいたいのは…"
+      "en": "-You… -Yes. I'm going to dress you…",
+      "ja": "あなたに着てもらいたいのは…"
     }
   },
   {
@@ -4207,14 +4207,14 @@
   },
   {
     "translation": {
-      "en": "- - Oh no!",
+      "en": "-[crowd groans] -[Felix] Oh no! [echoes]",
       "ja": "ウソだろ！"
     }
   },
   {
     "translation": {
       "en": "Apparently, he's been on the mulled wine since nine o'clock this morning.",
-      "ja": "朝９時から ホットワインを飲みつづけよ"
+      "ja": "朝９時からホットワインを飲みつづけよ"
     }
   },
   {
@@ -4225,14 +4225,14 @@
   },
   {
     "translation": {
-      "en": "Okay. All the threes. Thirty- three.",
+      "en": "Okay. All the threes. Thirty-three.",
       "ja": "番号は33です"
     }
   },
   {
     "translation": {
-      "en": "Well, I wouldn't say no to a glass of warm milk and a small, small plate of cookies.",
-      "ja": "温かいミルクと クッキーをこっそり"
+      "en": "[James] Well, I wouldn't say no to a glass of warm milk and a small, small plate of cookies.",
+      "ja": "温かいミルクとクッキーをこっそり"
     }
   },
   {
@@ -4268,7 +4268,7 @@
   {
     "translation": {
       "en": "Just because he didn't stay in touch doesn't mean he didn't want to.",
-      "ja": "連絡を取りたいと 思ってたかも"
+      "ja": "連絡を取りたいと思ってたかも"
     }
   },
   {
@@ -4303,7 +4303,7 @@
   },
   {
     "translation": {
-      "en": "That's my favorite elf, Jackie.",
+      "en": "[clears throat] That's my favorite elf, Jackie.",
       "ja": "彼女はエルフのジャッキーだ"
     }
   },
@@ -4406,12 +4406,12 @@
   {
     "translation": {
       "en": "but for right now, follow my favorite elf to Santa's workshop.",
-      "ja": "美人のエルフがサンタの 工房に連れてってくれる"
+      "ja": "美人のエルフがサンタの工房に連れてってくれる"
     }
   },
   {
     "translation": {
-      "en": "Hubba- hubba!",
+      "en": "Hubba-hubba!",
       "ja": "ではな"
     }
   },
@@ -4424,7 +4424,7 @@
   {
     "translation": {
       "en": "So, what sort of a Father Christmas are you? An absent one?",
-      "ja": "それでお前は 不在のクリスマスの父か？"
+      "ja": "それでお前は不在のクリスマスの父か？"
     }
   },
   {
@@ -4459,8 +4459,8 @@
   },
   {
     "translation": {
-      "en": "I know you're not real. I'm 12 and three- quarters.",
-      "ja": "偽物でしょ 私 12歳と４分の３だよ"
+      "en": "I know you're not real. I'm 12 and three-quarters.",
+      "ja": "偽物でしょ私 12歳と４分の３だよ"
     }
   },
   {
@@ -4532,7 +4532,7 @@
   {
     "translation": {
       "en": "and she gave a big donation to the Nightingale Lodge so they'd cast me.",
-      "ja": "ホームに大金を 寄付したから選ばれた"
+      "ja": "ホームに大金を寄付したから選ばれた"
     }
   },
   {
@@ -4543,14 +4543,14 @@
   },
   {
     "translation": {
-      "en": "I'm not.",
+      "en": "[sighs] I'm not.",
       "ja": "違う"
     }
   },
   {
     "translation": {
       "en": "Look, if you have enough courage to get up on that stage and sing,",
-      "ja": "舞台に上がって 歌う勇気さえあるなら"
+      "ja": "舞台に上がって歌う勇気さえあるなら"
     }
   },
   {
@@ -4561,20 +4561,20 @@
   },
   {
     "translation": {
-      "en": "- Really? - Mm- hmm.",
+      "en": "-Really? -Mm-hmm.",
       "ja": "本当に？"
     }
   },
   {
     "translation": {
       "en": "Look, I'm dressed as Santa Claus, and nobody seems to care.",
-      "ja": "サンタの格好も 誰も気にしない"
+      "ja": "サンタの格好も誰も気にしない"
     }
   },
   {
     "translation": {
       "en": "You know, people are gonna say and do a lot of things in your life.",
-      "ja": "人にあれこれ言われたり されたりしても"
+      "ja": "人にあれこれ言われたりされたりしても"
     }
   },
   {
@@ -4585,14 +4585,14 @@
   },
   {
     "translation": {
-      "en": "- Can I ask you a question? - Of course.",
+      "en": "-Can I ask you a question? -Of course.",
       "ja": "聞いていい？ もちろん"
     }
   },
   {
     "translation": {
       "en": "Why did you leave Grandma and Mum and her sisters?",
-      "ja": "なんでおばあちゃんや ママたちを捨てたの"
+      "ja": "なんでおばあちゃんやママたちを捨てたの"
     }
   },
   {
@@ -4604,7 +4604,7 @@
   {
     "translation": {
       "en": "Did you ever have something so beautiful, something you loved so much,",
-      "ja": "とても美しくて 愛しているものを もし―"
+      "ja": "とても美しくて愛しているものを もし―"
     }
   },
   {
@@ -4682,7 +4682,7 @@
   {
     "translation": {
       "en": "Can you believe I've had to win all these just to get my Rolls back?",
-      "ja": "車を取り戻すまでに これだけ賞品をもらった"
+      "ja": "車を取り戻すまでにこれだけ賞品をもらった"
     }
   },
   {
@@ -4700,13 +4700,13 @@
   {
     "translation": {
       "en": "Now there's a word I wouldn't use to define your family.",
-      "ja": "君の家族を 表すのにふさわしい？"
+      "ja": "君の家族を表すのにふさわしい？"
     }
   },
   {
     "translation": {
       "en": "They're not strictly mine. Well, one of them is.",
-      "ja": "妻を除いては 僕の身内じゃない"
+      "ja": "妻を除いては僕の身内じゃない"
     }
   },
   {
@@ -4717,14 +4717,14 @@
   },
   {
     "translation": {
-      "en": "- Merry Christmas, Father Christmas. -",
+      "en": "-Merry Christmas, Father Christmas. -[laughs]",
       "ja": "メリークリスマス"
     }
   },
   {
     "translation": {
-      "en": "I wish my Grammy could see me now. She would have loved Christmas in a palace. Hmm.",
-      "ja": "宮殿でのクリスマスを 祖母に見せたかった"
+      "en": "[sighs] I wish my Grammy could see me now. She would have loved Christmas in a palace. Hmm.",
+      "ja": "宮殿でのクリスマスを祖母に見せたかった"
     }
   },
   {
@@ -4754,13 +4754,13 @@
   {
     "translation": {
       "en": "You spent so long in the shower, I thought a prune was gonna walk out.",
-      "ja": "シャワーが長くて しわしわになるかと"
+      "ja": "シャワーが長くてしわしわになるかと"
     }
   },
   {
     "translation": {
       "en": "Jambo. You're so cute!",
-      "ja": "ジェームス あなたってかわいい"
+      "ja": "ジェームスあなたってかわいい"
     }
   },
   {
@@ -4778,7 +4778,7 @@
   {
     "translation": {
       "en": "Ah! Look who's here. The Ghost of Christmases Past.",
-      "ja": "過去のクリスマスの 幽霊の登場だ"
+      "ja": "過去のクリスマスの幽霊の登場だ"
     }
   },
   {
@@ -4802,7 +4802,7 @@
   {
     "translation": {
       "en": "Yes, yes. Like a bad penny, I always turn up, you know?",
-      "ja": "招かれざる客のように いつでも現れる"
+      "ja": "招かれざる客のようにいつでも現れる"
     }
   },
   {
@@ -4814,13 +4814,13 @@
   {
     "translation": {
       "en": "Okay. You wanted to meet my family. You've met them. They are a nightmare.",
-      "ja": "家族に会いたがったのは あなたよ"
+      "ja": "家族に会いたがったのはあなたよ"
     }
   },
   {
     "translation": {
       "en": "Please can we go back to London before I literally lose my mind?",
-      "ja": "私が正気を失う前に ロンドンに帰りましょ"
+      "ja": "私が正気を失う前にロンドンに帰りましょ"
     }
   },
   {
@@ -4868,18 +4868,18 @@
   {
     "translation": {
       "en": "So, I… I've made you something.",
-      "ja": "あなたのために 特別に用意した"
+      "ja": "あなたのために特別に用意した"
     }
   },
   {
     "translation": {
-      "en": "It's, um, it's vegan and gluten- free with a little touch of caffeine.",
-      "ja": "ヴィーガン グルテンフリー 少しのカフェイン"
+      "en": "It's, um, it's vegan and gluten-free with a little touch of caffeine.",
+      "ja": "ヴィーガン グルテンフリー少しのカフェイン"
     }
   },
   {
     "translation": {
-      "en": "- Ah. - Awesome.",
+      "en": "-Ah. -Awesome.",
       "ja": "最高"
     }
   },
@@ -4898,13 +4898,13 @@
   {
     "translation": {
       "en": "I want you to know I had to have a shower with cold water.",
-      "ja": "今朝は冷たい シャワーを浴びた"
+      "ja": "今朝は冷たいシャワーを浴びた"
     }
   },
   {
     "translation": {
       "en": "Our shower was like a steam room. I was in there for an hour.",
-      "ja": "私のは蒸し風呂みたいだった １時間浴びてたの"
+      "ja": "私のは蒸し風呂みたいだった１時間浴びてたの"
     }
   },
   {
@@ -4922,7 +4922,7 @@
   {
     "translation": {
       "en": "Perhaps it's time to have a little conversation about being fair with the hot water.",
-      "ja": "お湯の公平性について 話がしたいの"
+      "ja": "お湯の公平性について話がしたいの"
     }
   },
   {
@@ -4952,7 +4952,7 @@
   {
     "translation": {
       "en": "Please, could everybody just get along",
-      "ja": "お願いだから みんな仲良くして"
+      "ja": "お願いだからみんな仲良くして"
     }
   },
   {
@@ -4963,20 +4963,20 @@
   },
   {
     "translation": {
-      "en": "- Hear, hear. - Not you.",
+      "en": "-Hear, hear. -Not you.",
       "ja": "同意だ 黙って"
     }
   },
   {
     "translation": {
-      "en": "- Uh, where are the children? - Oh, they've already eaten, Mummy.",
-      "ja": "子供たちは？ もう食べさせた 大人だけのほうがいいかと"
+      "en": "-Uh, where are the children? -Oh, they've already eaten, Mummy.",
+      "ja": "子供たちは？ もう食べさせた大人だけのほうがいいかと"
     }
   },
   {
     "translation": {
       "en": "I thought it'd be nice to spend some adult time together.",
-      "ja": "もう食べさせた 大人だけのほうがいいかと"
+      "ja": "もう食べさせた大人だけのほうがいいかと"
     }
   },
   {
@@ -4987,13 +4987,13 @@
   },
   {
     "translation": {
-      "en": "- Ah. - Peter, if I may?",
+      "en": "-[Elizabeth] Ah. -Peter, if I may?",
       "ja": "ピーター いいかな？"
     }
   },
   {
     "translation": {
-      "en": "Yes, of course.",
+      "en": "[Peter] Yes, of course.",
       "ja": "もちろん"
     }
   },
@@ -5012,7 +5012,7 @@
   {
     "translation": {
       "en": "I'd like to say that I… I realize it's been many years.",
-      "ja": "ここに帰ってくるのに 少し時間がかかった"
+      "ja": "ここに帰ってくるのに少し時間がかかった"
     }
   },
   {
@@ -5036,7 +5036,7 @@
   {
     "translation": {
       "en": "You know what? I'll push this so far down your throat, you'll need a colonoscopy to remove it!",
-      "ja": "この拳を喉の奥まで 突っ込んでやりたい"
+      "ja": "この拳を喉の奥まで突っ込んでやりたい"
     }
   },
   {
@@ -5048,7 +5048,7 @@
   {
     "translation": {
       "en": "Me and Yankee Doodle Dandy here. Pistols at dawn.",
-      "ja": "アメリカ野郎と 夜明けにピストルで"
+      "ja": "アメリカ野郎と夜明けにピストルで"
     }
   },
   {
@@ -5083,19 +5083,19 @@
   },
   {
     "translation": {
-      "en": "- Come on, Uncle John! - My money's on Dad.",
+      "en": "-[Joanna] Come on, Uncle John! -[Vicky] My money's on Dad.",
       "ja": "おじさん！ パパ"
     }
   },
   {
     "translation": {
-      "en": "- Come on! - Come on, Dad!",
+      "en": "-Come on! -Come on, Dad!",
       "ja": "頑張れ 父さん"
     }
   },
   {
     "translation": {
-      "en": "- Come on! - You get him!",
+      "en": "-Come on! -You get him!",
       "ja": "やっちゃえ"
     }
   },
@@ -5107,31 +5107,31 @@
   },
   {
     "translation": {
-      "en": "- Come on, Uncle John! - Come on, John.",
+      "en": "-Come on, Uncle John! -Come on, John.",
       "ja": "ジョン 頑張れ"
     }
   },
   {
     "translation": {
-      "en": "- Come on! - Come on! Get in there!",
+      "en": "-[Jackie] Come on! -[Vicky] Come on! Get in there!",
       "ja": "早くやれ　ほら！"
     }
   },
   {
     "translation": {
-      "en": "Come on!",
+      "en": "[Joanna] Come on!",
       "ja": "ぶちのめせ"
     }
   },
   {
     "translation": {
-      "en": "Smack him!",
+      "en": "[Vicky] Smack him!",
       "ja": "やれ！"
     }
   },
   {
     "translation": {
-      "en": "Uncle, come on!",
+      "en": "[Joanna] Uncle, come on!",
       "ja": "おじさん！"
     }
   },
@@ -5144,24 +5144,24 @@
   {
     "translation": {
       "en": "What is it with you Americans? Why… why don't you play to ordinary rules?",
-      "ja": "なぜアメリカ人は 普通のルールに従わない"
+      "ja": "なぜアメリカ人は普通のルールに従わない"
     }
   },
   {
     "translation": {
-      "en": "- Go on, Dad! Kick him! - Oh my God.",
+      "en": "-[Vicky] Go on, Dad! Kick him! -[Felix] Oh my God.",
       "ja": "蹴りとばせ"
     }
   },
   {
     "translation": {
-      "en": "- Do it! Do it! Do it! - Come on!",
+      "en": "-Do it! Do it! Do it! -Come on!",
       "ja": "早く　ほら"
     }
   },
   {
     "translation": {
-      "en": "- Go on, do it. You can totally get him. - Come on!",
+      "en": "-Go on, do it. You can totally get him. -Come on!",
       "ja": "ぶっ倒しちゃってよ"
     }
   },
@@ -5252,18 +5252,18 @@
   {
     "translation": {
       "en": "So, as long as I do, I'd like you beside me.",
-      "ja": "生きてる間は ずっと私のそばにいて"
+      "ja": "生きてる間はずっと私のそばにいて"
     }
   },
   {
     "translation": {
       "en": "I wanna marry you, and I hope you wanna marry me too.",
-      "ja": "結婚してほしい 承諾してくれ"
+      "ja": "結婚してほしい承諾してくれ"
     }
   },
   {
     "translation": {
-      "en": "Oh, Jambo.",
+      "en": "Oh, Jambo. [squeals]",
       "ja": "ジェームス"
     }
   },
@@ -5299,7 +5299,7 @@
   },
   {
     "translation": {
-      "en": "I know.",
+      "en": "I know. [giggles]",
       "ja": "知ってる"
     }
   },
@@ -5336,19 +5336,19 @@
   {
     "translation": {
       "en": "You've been in America all this time. You haven't even thought about us.",
-      "ja": "私たちのこと 忘れてたくせに"
+      "ja": "私たちのこと忘れてたくせに"
     }
   },
   {
     "translation": {
-      "en": "- That's not true. - Really?",
+      "en": "-That's not true. -[Joanna] Really?",
       "ja": "それは違う 本当？"
     }
   },
   {
     "translation": {
       "en": "Maybe I should talk to the post office about the decades of missing birthday cards and Christmas presents.",
-      "ja": "二十数年分の誕生日カードと クリスマスの贈り物はどこ？"
+      "ja": "二十数年分の誕生日カードとクリスマスの贈り物はどこ？"
     }
   },
   {
@@ -5438,7 +5438,7 @@
   {
     "translation": {
       "en": "I was dangerously close to inflicting…",
-      "ja": "危うく人に 危害を与える寸前まで"
+      "ja": "危うく人に危害を与える寸前まで"
     }
   },
   {
@@ -5449,14 +5449,14 @@
   },
   {
     "translation": {
-      "en": "Believe me.",
+      "en": "[voice cracking] Believe me.",
       "ja": "信じてくれ"
     }
   },
   {
     "translation": {
       "en": "Leaving was the right thing to do, at least at the time.",
-      "ja": "あの時は 去るのが最善だった"
+      "ja": "あの時は去るのが最善だった"
     }
   },
   {
@@ -5546,13 +5546,13 @@
   {
     "translation": {
       "en": "Here's your order, guys. Six pints and six packets of crisps.",
-      "ja": "ビールが６杯と ポテトチップスよ"
+      "ja": "ビールが６杯とポテトチップスよ"
     }
   },
   {
     "translation": {
       "en": "Not quite the gourmet feast my beautiful wife prepared,",
-      "ja": "妻の作ったごちそうには 比べられないけど"
+      "ja": "妻の作ったごちそうには比べられないけど"
     }
   },
   {
@@ -5564,42 +5564,42 @@
   {
     "translation": {
       "en": "Hey, James. Jackie would have a heart attack right now.",
-      "ja": "ジャッキーが見たら 心臓発作だ"
+      "ja": "ジャッキーが見たら心臓発作だ"
     }
   },
   {
     "translation": {
-      "en": "I'm with my daughters.",
+      "en": "[laughs] I'm with my daughters.",
       "ja": "娘と一緒だぞ"
     }
   },
   {
     "translation": {
-      "en": "Do not begrudge me a good old- fashioned bag of crisps.",
+      "en": "Do not begrudge me a good old-fashioned bag of crisps.",
       "ja": "懐かしのチップスを断れない"
     }
   },
   {
     "translation": {
-      "en": "- To Dad! - Ooh! Yes.",
+      "en": "-To Dad! -Ooh! Yes.",
       "ja": "パパに！ そうね"
     }
   },
   {
     "translation": {
-      "en": "- Daddy. - Joanna.",
+      "en": "-Daddy. -Joanna.",
       "ja": "父さん 娘よ"
     }
   },
   {
     "translation": {
-      "en": "Cheers.",
+      "en": "[Peter] Cheers.",
       "ja": "乾杯"
     }
   },
   {
     "translation": {
-      "en": "This band is great.",
+      "en": "[James] This band is great.",
       "ja": "いいね"
     }
   },
@@ -5617,14 +5617,14 @@
   },
   {
     "translation": {
-      "en": "- What? - Mm- hmm.",
+      "en": "-What? -Mm-hmm.",
       "ja": "えっ？"
     }
   },
   {
     "translation": {
       "en": "Yeah, she tells us every year that she's gay, and she never provides any evidence.",
-      "ja": "毎年 告白するけど 証拠を見たことはない"
+      "ja": "毎年 告白するけど証拠を見たことはない"
     }
   },
   {
@@ -5636,7 +5636,7 @@
   {
     "translation": {
       "en": "I don't like men. I just like sleeping with them.",
-      "ja": "私も嫌い ヤるのが好きなだけ"
+      "ja": "私も嫌いヤるのが好きなだけ"
     }
   },
   {
@@ -5659,8 +5659,8 @@
   },
   {
     "translation": {
-      "en": "- And like Santa, he only comes once-- - No, don't!",
-      "ja": "サンタと同じで 年に一度しか…"
+      "en": "-And like Santa, he only comes once-- -No, don't!",
+      "ja": "サンタと同じで年に一度しか…"
     }
   },
   {
@@ -5696,7 +5696,7 @@
   {
     "translation": {
       "en": "Me and you would go shopping every year for Mum",
-      "ja": "毎年 一緒に母さんの プレゼントを買いに行って"
+      "ja": "毎年 一緒に母さんのプレゼントを買いに行って"
     }
   },
   {
@@ -5720,7 +5720,7 @@
   {
     "translation": {
       "en": "We all went. You just wanted to stay with me while the others went shopping.",
-      "ja": "買い物には全員で行ったが お前は私と過ごしたがった"
+      "ja": "買い物には全員で行ったがお前は私と過ごしたがった"
     }
   },
   {
@@ -5738,7 +5738,7 @@
   {
     "translation": {
       "en": "I looked for you that Christmas morning, and I looked every Christmas since.",
-      "ja": "あの日から毎年クリスマスに 父さんの姿を捜してた"
+      "ja": "あの日から毎年クリスマスに父さんの姿を捜してた"
     }
   },
   {
@@ -5755,13 +5755,13 @@
   },
   {
     "translation": {
-      "en": "Whiskey!",
+      "en": "Whiskey! [laughs]",
       "ja": "ウイスキー！"
     }
   },
   {
     "translation": {
-      "en": "Thank you, Joanna.",
+      "en": "[James] Thank you, Joanna.",
       "ja": "どうも"
     }
   },
@@ -5828,7 +5828,7 @@
   {
     "translation": {
       "en": "If you didn't know, the Christmas sisters are here tonight!",
-      "ja": "クリスマス家の姉妹が おそろいだ"
+      "ja": "クリスマス家の姉妹がおそろいだ"
     }
   },
   {
@@ -5858,36 +5858,36 @@
   {
     "translation": {
       "en": "We are the Christmas sisters,",
-      "ja": "私たちは クリスマス家の姉妹よ"
+      "ja": "私たちはクリスマス家の姉妹よ"
     }
   },
   {
     "translation": {
       "en": "and tonight we have a very, very, very special guest.",
-      "ja": "私たちは クリスマス家の姉妹よ 今夜は特別な人が来てる"
+      "ja": "私たちはクリスマス家の姉妹よ 今夜は特別な人が来てる"
     }
   },
   {
     "translation": {
       "en": "The man, the myth, the legend, our father, James Christmas!",
-      "ja": "伝説の男 ジェームス･クリスマス"
+      "ja": "伝説の男ジェームス･クリスマス"
     }
   },
   {
     "translation": {
-      "en": "Father Christmas is back!",
+      "en": "[Vicky] Father Christmas is back!",
       "ja": "クリスマスの父"
     }
   },
   {
     "translation": {
-      "en": "- What do you wanna sing? - Come on, Daddy.",
+      "en": "-What do you wanna sing? -Come on, Daddy.",
       "ja": "何を歌うんだ？"
     }
   },
   {
     "translation": {
-      "en": "- ♪ We… ♪ - Oh.",
+      "en": "-♪ We… ♪ -Oh.",
       "ja": "私たちは…"
     }
   },
@@ -6025,7 +6025,7 @@
   },
   {
     "translation": {
-      "en": "Hi!",
+      "en": "Hi! [squeaks]",
       "ja": "ハーイ"
     }
   },
@@ -6044,7 +6044,7 @@
   {
     "translation": {
       "en": "A New Yorker meets Yorkshire. My family tradition to yours!",
-      "ja": "ニューヨークの実家の伝統を ヨークシャーに届けるわ"
+      "ja": "ニューヨークの実家の伝統をヨークシャーに届けるわ"
     }
   },
   {
@@ -6061,13 +6061,13 @@
   },
   {
     "translation": {
-      "en": "Yes!",
+      "en": "[laughing] Yes!",
       "ja": "やった！"
     }
   },
   {
     "translation": {
-      "en": "O- M- G.",
+      "en": "O-M-G.",
       "ja": "オー･マイ･ガッド"
     }
   },
@@ -6085,7 +6085,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, that's very kind of you, John. - That's all right.",
+      "en": "-Oh, that's very kind of you, John. -That's all right.",
       "ja": "助かるよ ああ"
     }
   },
@@ -6115,7 +6115,7 @@
   },
   {
     "translation": {
-      "en": "Hi, kids. You okay?",
+      "en": "[Peter] Hi, kids. You okay?",
       "ja": "子供たち　大丈夫か？"
     }
   },
@@ -6128,18 +6128,18 @@
   {
     "translation": {
       "en": "Daddy, if we have no lights, how will Father Christmas find us?",
-      "ja": "明かりが切れてたら サンタが見つけてくれない"
+      "ja": "明かりが切れてたらサンタが見つけてくれない"
     }
   },
   {
     "translation": {
       "en": "Well, it's modern times, Henry. Father Christmas navigates by radar now.",
-      "ja": "今は現代だぞ サンタはレーダーを持ってる"
+      "ja": "今は現代だぞサンタはレーダーを持ってる"
     }
   },
   {
     "translation": {
-      "en": "- - He still won't see us.",
+      "en": "-[giggles] -He still won't see us.",
       "ja": "だけど僕らが見えない"
     }
   },
@@ -6152,18 +6152,18 @@
   {
     "translation": {
       "en": "uh, last Christmas, um, Rudolph got actually given",
-      "ja": "去年ルドルフが最新鋭の 暗視スコープをもらった"
+      "ja": "去年ルドルフが最新鋭の暗視スコープをもらった"
     }
   },
   {
     "translation": {
-      "en": "a pair of super- duper, top- of- the- range night- vision goggles for this very reason.",
-      "ja": "去年ルドルフが最新鋭の 暗視スコープをもらった 超イケてるゴーグルをね だから大丈夫だよ"
+      "en": "a pair of super-duper, top-of-the-range night-vision goggles for this very reason.",
+      "ja": "去年ルドルフが最新鋭の暗視スコープをもらった 超イケてるゴーグルをねだから大丈夫だよ"
     }
   },
   {
     "translation": {
-      "en": "- That's good.  - It is good. It is good.",
+      "en": "-That's good. [laughs] -It is good. It is good.",
       "ja": "よかった そうだろ？"
     }
   },
@@ -6193,7 +6193,7 @@
   },
   {
     "translation": {
-      "en": "- Night, Dad. - Night night.",
+      "en": "-[Daisey] Night, Dad. -Night night.",
       "ja": "おやすみなさい おやすみ"
     }
   },
@@ -6217,7 +6217,7 @@
   },
   {
     "translation": {
-      "en": "- I can't believe how drunk your wife got. - Yes.",
+      "en": "-I can't believe how drunk your wife got. -Yes.",
       "ja": "奥さんは大丈夫？ ああ"
     }
   },
@@ -6272,7 +6272,7 @@
   {
     "translation": {
       "en": "Hurry back. There's plenty more.",
-      "ja": "早く戻って まだたくさんある"
+      "ja": "早く戻ってまだたくさんある"
     }
   },
   {
@@ -6295,7 +6295,7 @@
   },
   {
     "translation": {
-      "en": "- You are so bossy. - You've not seen anything yet.",
+      "en": "-You are so bossy. -You've not seen anything yet.",
       "ja": "君って偉そうだな 序の口よ"
     }
   },
@@ -6313,7 +6313,7 @@
   },
   {
     "translation": {
-      "en": "- Peter. - Yes. What about foxes?",
+      "en": "-[Vicky] Peter. -Yes. What about foxes?",
       "ja": "キツネが来ちゃうかも"
     }
   },
@@ -6331,7 +6331,7 @@
   },
   {
     "translation": {
-      "en": "Please.",
+      "en": "[sighs] Please.",
       "ja": "いいんだ"
     }
   },
@@ -6362,7 +6362,7 @@
   {
     "translation": {
       "en": "so hopefully, by the morning, we'll have some light.",
-      "ja": "明日の朝には 電気がつくでしょう"
+      "ja": "明日の朝には電気がつくでしょう"
     }
   },
   {
@@ -6397,13 +6397,13 @@
   },
   {
     "translation": {
-      "en": "What are you doing?",
+      "en": "[knocking on door] What are you doing?",
       "ja": "何してるの？"
     }
   },
   {
     "translation": {
-      "en": "- I'm a little busy, darling. -",
+      "en": "-[Felix] I'm a little busy, darling. -[sighs]",
       "ja": "取り込み中"
     }
   },
@@ -6422,13 +6422,13 @@
   {
     "translation": {
       "en": "I have quite enough electricity, thank you.",
-      "ja": "私には 電気が満ち満ちてるよ"
+      "ja": "私には電気が満ち満ちてるよ"
     }
   },
   {
     "translation": {
       "en": "Between the two of us, we could power up the Pennines.",
-      "ja": "私と君ならペナイン山脈にも 送電できる"
+      "ja": "私と君ならペナイン山脈にも送電できる"
     }
   },
   {
@@ -6476,7 +6476,7 @@
   {
     "translation": {
       "en": "eventually we should have some electricity.",
-      "ja": "おそらく電気も 使えるようになるだろう"
+      "ja": "おそらく電気も使えるようになるだろう"
     }
   },
   {
@@ -6493,7 +6493,7 @@
   },
   {
     "translation": {
-      "en": "Sorry. Not in these shoes.",
+      "en": "Sorry. Not in these shoes. [laughs]",
       "ja": "この靴はムリ"
     }
   },
@@ -6523,7 +6523,7 @@
   },
   {
     "translation": {
-      "en": "- Kidding! -",
+      "en": "-Kidding! -[music resumes]",
       "ja": "冗談よ"
     }
   },
@@ -6548,7 +6548,7 @@
   {
     "translation": {
       "en": "You think Santa would mind if I open one of my presents early?",
-      "ja": "贈り物を早く開けたら 怒られるかな"
+      "ja": "贈り物を早く開けたら怒られるかな"
     }
   },
   {
@@ -6613,7 +6613,7 @@
   },
   {
     "translation": {
-      "en": "Fan- bloody- tasti…",
+      "en": "Fan-bloody-tasti…",
       "ja": "マジでクリスマスって最高…"
     }
   },
@@ -6625,13 +6625,13 @@
   },
   {
     "translation": {
-      "en": "Tomorrow and tomorrow and tomorrow creeps in this petty pace.",
-      "ja": "“明日 明日へと のろい足取りで日々が進む”"
+      "en": "\"Tomorrow and tomorrow and tomorrow creeps in this petty pace.\"",
+      "ja": "“明日 明日へとのろい足取りで日々が進む”"
     }
   },
   {
     "translation": {
-      "en": "- Merry-- - Don't…",
+      "en": "-Merry-- -Don't…",
       "ja": "メリー… よせ"
     }
   },
@@ -6656,7 +6656,7 @@
   {
     "translation": {
       "en": "Seventeen years, 364 days, and my marriage is over.",
-      "ja": "17年と364日で 僕の結婚生活は終わった"
+      "ja": "17年と364日で僕の結婚生活は終わった"
     }
   },
   {
@@ -6679,7 +6679,7 @@
   },
   {
     "translation": {
-      "en": "Star- crossed, my friend.",
+      "en": "Star-crossed, my friend.",
       "ja": "悪い星回りだ"
     }
   },
@@ -6704,7 +6704,7 @@
   {
     "translation": {
       "en": "To have a baby, my friend, one needs to have sex.",
-      "ja": "妊娠するには セックスしないと"
+      "ja": "妊娠するにはセックスしないと"
     }
   },
   {
@@ -6757,7 +6757,7 @@
   },
   {
     "translation": {
-      "en": "- I thought that was seahorses. - Who cares?",
+      "en": "-I thought that was seahorses. -[screams] Who cares?",
       "ja": "タツノオトシゴでは？ どうでもいい"
     }
   },
@@ -6805,20 +6805,20 @@
   },
   {
     "translation": {
-      "en": "Is it?",
+      "en": "[Peter] Is it?",
       "ja": "そう？"
     }
   },
   {
     "translation": {
-      "en": "Going somewhere?",
+      "en": "[James] Going somewhere?",
       "ja": "どこへ？"
     }
   },
   {
     "translation": {
       "en": "As far away from here as possible!",
-      "ja": "ここから できる限り遠い場所へ"
+      "ja": "ここからできる限り遠い場所へ"
     }
   },
   {
@@ -6841,7 +6841,7 @@
   },
   {
     "translation": {
-      "en": "- Something is very wrong. - Eee.",
+      "en": "-Something is very wrong. -Eee.",
       "ja": "様子が変だな"
     }
   },
@@ -6853,19 +6853,19 @@
   },
   {
     "translation": {
-      "en": "Merry Christmas, Granddad.",
+      "en": "[both] Merry Christmas, Granddad.",
       "ja": "メリークリスマス"
     }
   },
   {
     "translation": {
-      "en": "Presents! Presents!",
+      "en": "[both] Presents! Presents!",
       "ja": "プレゼント！"
     }
   },
   {
     "translation": {
-      "en": "- Merry Christmas. Merry Christmas. - Ah. Merry Christmas.",
+      "en": "-Merry Christmas. Merry Christmas. -Ah. Merry Christmas.",
       "ja": "メリークリスマス おめでとう"
     }
   },
@@ -6883,7 +6883,7 @@
   },
   {
     "translation": {
-      "en": "Peter! Presents!",
+      "en": "[Caroline] Peter! Presents!",
       "ja": "ピーター 贈り物を"
     }
   },
@@ -6907,7 +6907,7 @@
   },
   {
     "translation": {
-      "en": "What's this?",
+      "en": "[Henry] What's this?",
       "ja": "これ何？"
     }
   },
@@ -6932,7 +6932,7 @@
   {
     "translation": {
       "en": "It's because Father Christmas couldn't see the house.",
-      "ja": "家が暗くてサンタが 見えなかったせい？"
+      "ja": "家が暗くてサンタが見えなかったせい？"
     }
   },
   {
@@ -6955,7 +6955,7 @@
   },
   {
     "translation": {
-      "en": "Peter!",
+      "en": "[Caroline] Peter!",
       "ja": "ピーター"
     }
   },
@@ -6967,7 +6967,7 @@
   },
   {
     "translation": {
-      "en": "- Peter! - Caroline.",
+      "en": "-Peter! -[James] Caroline.",
       "ja": "ねえ お前"
     }
   },
@@ -6998,7 +6998,7 @@
   {
     "translation": {
       "en": "Oh, I'm sorry. Is this a sausage club where you all stick up for each other?",
-      "ja": "何よ 男同士でかばい合うの？"
+      "ja": "何よ男同士でかばい合うの？"
     }
   },
   {
@@ -7009,19 +7009,19 @@
   },
   {
     "translation": {
-      "en": "What do you mean, gone?",
+      "en": "What do you mean, \"gone\"?",
       "ja": "どういう意味？"
     }
   },
   {
     "translation": {
       "en": "He left. He said he wanted to get as far away from here as possible.",
-      "ja": "家を出た 遠くへ行きたいと言ってた"
+      "ja": "家を出た遠くへ行きたいと言ってた"
     }
   },
   {
     "translation": {
-      "en": "Because he mixed up the presents?",
+      "en": "[scoffs] Because he mixed up the presents?",
       "ja": "贈り物を取り違えて？"
     }
   },
@@ -7034,13 +7034,13 @@
   {
     "translation": {
       "en": "He wouldn't just leave for no reason. He's not you.",
-      "ja": "理由なく出ていくのは 父さんだけ"
+      "ja": "理由なく出ていくのは父さんだけ"
     }
   },
   {
     "translation": {
       "en": "Leaving you was the most difficult thing I did in my life.",
-      "ja": "去るのが どれだけつらかったか"
+      "ja": "去るのがどれだけつらかったか"
     }
   },
   {
@@ -7075,7 +7075,7 @@
   },
   {
     "translation": {
-      "en": "- Hm. What a mess. - Yeah.",
+      "en": "-Hm. What a mess. -Yeah.",
       "ja": "ひどい状態"
     }
   },
@@ -7087,7 +7087,7 @@
   },
   {
     "translation": {
-      "en": "It's just a thesis.",
+      "en": "[scoffs] It's just a thesis.",
       "ja": "ただの論文よ"
     }
   },
@@ -7099,14 +7099,14 @@
   },
   {
     "translation": {
-      "en": "- Really? - Yeah.",
+      "en": "-Really? -Yeah.",
       "ja": "本当？ ああ"
     }
   },
   {
     "translation": {
-      "en": "I mean, I can feel the passion, your love for those mop- top boys.",
-      "ja": "君のビートルズへの 愛と情熱を感じる"
+      "en": "I mean, I can feel the passion, your love for those mop-top boys.",
+      "ja": "君のビートルズへの愛と情熱を感じる"
     }
   },
   {
@@ -7118,7 +7118,7 @@
   {
     "translation": {
       "en": "Look, I was thinking, could I take it to my people?",
-      "ja": "持ってかえって 同僚に見せても？"
+      "ja": "持ってかえって同僚に見せても？"
     }
   },
   {
@@ -7136,7 +7136,7 @@
   {
     "translation": {
       "en": "No, that was Hamish. No, I'm into publishing.",
-      "ja": "それはヘイミッシュ 僕は出版業だ"
+      "ja": "それはヘイミッシュ僕は出版業だ"
     }
   },
   {
@@ -7148,7 +7148,7 @@
   {
     "translation": {
       "en": "We also have a great music department in Los Angeles.",
-      "ja": "優秀な音楽部門が ロサンゼルスにある"
+      "ja": "優秀な音楽部門がロサンゼルスにある"
     }
   },
   {
@@ -7159,13 +7159,13 @@
   },
   {
     "translation": {
-      "en": "Vicky! Vicky! Vicky! Vicky!",
+      "en": "[Caroline] Vicky! Vicky! Vicky! Vicky!",
       "ja": "ヴィッキー　ヴィッキー！"
     }
   },
   {
     "translation": {
-      "en": "What? I'm asleep.",
+      "en": "[Vicky] What? I'm asleep.",
       "ja": "何よ　まだ寝てるのに"
     }
   },
@@ -7184,12 +7184,12 @@
   {
     "translation": {
       "en": "Well, somebody left a positive pregnancy test in my bathroom, and Peter saw it, and now he's gone.",
-      "ja": "陽性の妊娠検査薬を見て ピーターが家を出てった"
+      "ja": "陽性の妊娠検査薬を見てピーターが家を出てった"
     }
   },
   {
     "translation": {
-      "en": "Paulina!",
+      "en": "[gasps] Paulina!",
       "ja": "ポーリーナ"
     }
   },
@@ -7201,7 +7201,7 @@
   },
   {
     "translation": {
-      "en": "Christmas is canceled.",
+      "en": "[sobs] Christmas is canceled.",
       "ja": "もう終わりよ"
     }
   },
@@ -7249,13 +7249,13 @@
   },
   {
     "translation": {
-      "en": "Because he thinks I'm having an affair.",
+      "en": "[sobbing] Because he thinks I'm having an affair.",
       "ja": "私が浮気してると思ったの"
     }
   },
   {
     "translation": {
-      "en": "- Are you? - No!",
+      "en": "-Are you? -[Caroline] No!",
       "ja": "事実？ 違う"
     }
   },
@@ -7273,14 +7273,14 @@
   },
   {
     "translation": {
-      "en": "- Are you? - No!",
+      "en": "-Are you? -No!",
       "ja": "事実？ 違う"
     }
   },
   {
     "translation": {
       "en": "I need to know whose this is. Somebody's pregnant.",
-      "ja": "これは誰の？ 誰かが妊娠してる"
+      "ja": "これは誰の？誰かが妊娠してる"
     }
   },
   {
@@ -7315,7 +7315,7 @@
   },
   {
     "translation": {
-      "en": "Oh my God.",
+      "en": "[Felix] Oh my God.",
       "ja": "驚いた"
     }
   },
@@ -7327,7 +7327,7 @@
   },
   {
     "translation": {
-      "en": "Of course it's yours.",
+      "en": "[splutters] Of course it's yours.",
       "ja": "もちろんあなたのよ"
     }
   },
@@ -7346,7 +7346,7 @@
   {
     "translation": {
       "en": "No, it's not wonderful. I'm gonna have a bloody baby.",
-      "ja": "そんなことない 赤ん坊を産むなんて"
+      "ja": "そんなことない赤ん坊を産むなんて"
     }
   },
   {
@@ -7363,7 +7363,7 @@
   },
   {
     "translation": {
-      "en": "- We are? - Yes.",
+      "en": "-We are? -Yes.",
       "ja": "本当？ そうだ"
     }
   },
@@ -7376,7 +7376,7 @@
   {
     "translation": {
       "en": "But because of you, my husband's left me because he thinks I'm an adulterer.",
-      "ja": "だけど姉さんのせいで ピーターが出てった"
+      "ja": "だけど姉さんのせいでピーターが出てった"
     }
   },
   {
@@ -7400,7 +7400,7 @@
   {
     "translation": {
       "en": "I guess it's tradition for the men in this family to walk out on Christmas Day.",
-      "ja": "この家の男がクリスマスに 出てくのは伝統ね"
+      "ja": "この家の男がクリスマスに出てくのは伝統ね"
     }
   },
   {
@@ -7501,13 +7501,13 @@
   },
   {
     "translation": {
-      "en": "It's me, isn't it?",
+      "en": "[sobs] It's me, isn't it?",
       "ja": "私のことね"
     }
   },
   {
     "translation": {
-      "en": "I always knew I was different.",
+      "en": "[sobbing] I always knew I was different.",
       "ja": "姉妹と違うと思ってた"
     }
   },
@@ -7550,7 +7550,7 @@
   {
     "translation": {
       "en": "What on earth is going on? Has Greek drama come to Dunnock Manor? What?",
-      "ja": "どうした ギリシャ悲劇のお稽古か？"
+      "ja": "どうしたギリシャ悲劇のお稽古か？"
     }
   },
   {
@@ -7567,14 +7567,14 @@
   },
   {
     "translation": {
-      "en": "Is Daddy back from his walk?",
+      "en": "[Henry] Is Daddy back from his walk?",
       "ja": "パパは散歩から戻った？"
     }
   },
   {
     "translation": {
       "en": "If we're going to do this nativity play, we need to go now.",
-      "ja": "出発しないと 降誕劇に間に合わない"
+      "ja": "出発しないと降誕劇に間に合わない"
     }
   },
   {
@@ -7609,14 +7609,14 @@
   },
   {
     "translation": {
-      "en": "Laughter, tears, good old- fashioned punch- up.",
-      "ja": "笑いあり 涙あり 昔ながらの殴り合いもあり"
+      "en": "Laughter, tears, good old-fashioned punch-up.",
+      "ja": "笑いあり 涙あり昔ながらの殴り合いもあり"
     }
   },
   {
     "translation": {
-      "en": "- Something for everyone. - We'll talk one day.",
-      "ja": "笑いあり 涙あり 昔ながらの殴り合いもあり 話はあとだ"
+      "en": "-Something for everyone. -We'll talk one day.",
+      "ja": "笑いあり 涙あり昔ながらの殴り合いもあり 話はあとだ"
     }
   },
   {
@@ -7640,7 +7640,7 @@
   {
     "translation": {
       "en": "sorry you behaved much better than I did.",
-      "ja": "お前のほうが 立派に振る舞った"
+      "ja": "お前のほうが立派に振る舞った"
     }
   },
   {
@@ -7657,13 +7657,13 @@
   },
   {
     "translation": {
-      "en": "- Hm. - Let's go.",
+      "en": "-Hm. -Let's go.",
       "ja": "行こう"
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "[reverend] Thank you.",
       "ja": "どうも"
     }
   },
@@ -7681,8 +7681,8 @@
   },
   {
     "translation": {
-      "en": "This year, as always, the children are well- prepared,",
-      "ja": "子供たちは 準備を重ねてきました"
+      "en": "This year, as always, the children are well-prepared,",
+      "ja": "子供たちは準備を重ねてきました"
     }
   },
   {
@@ -7694,7 +7694,7 @@
   {
     "translation": {
       "en": "who will also accompany them on the piano.",
-      "ja": "先生が ピアノ伴奏も担当します"
+      "ja": "先生がピアノ伴奏も担当します"
     }
   },
   {
@@ -7706,7 +7706,7 @@
   {
     "translation": {
       "en": "It was in a bleak midwinter when Mary and Joseph made their way to Bethlehem.",
-      "ja": "真冬の日 マリアとヨセフは ベツレヘムに向かいます"
+      "ja": "真冬の日 マリアとヨセフはベツレヘムに向かいます"
     }
   },
   {
@@ -7747,7 +7747,7 @@
   },
   {
     "translation": {
-      "en": "James.",
+      "en": "[Peter] James.",
       "ja": "ジェームス"
     }
   },
@@ -7783,7 +7783,7 @@
   },
   {
     "translation": {
-      "en": "Is it Felix?",
+      "en": "[splutters] Is it Felix?",
       "ja": "彼氏の？"
     }
   },
@@ -7795,19 +7795,19 @@
   },
   {
     "translation": {
-      "en": "Oh God!",
+      "en": "[sighs] Oh God!",
       "ja": "何だよ　神様"
     }
   },
   {
     "translation": {
-      "en": "- Sorry. -",
+      "en": "-Sorry. -[chuckles]",
       "ja": "失礼"
     }
   },
   {
     "translation": {
-      "en": "- Oh, Caroline must be furious with me. - She is.",
+      "en": "-Oh, Caroline must be furious with me. -She is.",
       "ja": "妻は怒ってる？ ああ"
     }
   },
@@ -7826,7 +7826,7 @@
   {
     "translation": {
       "en": "The face of a man who wishes he'd handled things a little differently.",
-      "ja": "違う行動を 取ればよかったと後悔を"
+      "ja": "違う行動を取ればよかったと後悔を"
     }
   },
   {
@@ -7838,19 +7838,19 @@
   {
     "translation": {
       "en": "You know, I was so wrapped up trying to build a practice",
-      "ja": "仕事を 軌道に乗せるのに夢中で"
+      "ja": "仕事を軌道に乗せるのに夢中で"
     }
   },
   {
     "translation": {
       "en": "that I actually neglected my wife and my girls.",
-      "ja": "妻と娘たちを ないがしろにした"
+      "ja": "妻と娘たちをないがしろにした"
     }
   },
   {
     "translation": {
       "en": "And my big brother, John, was there to fill in for me. Which he did.",
-      "ja": "結局 兄のジョンが 父親の代役を果たした"
+      "ja": "結局 兄のジョンが父親の代役を果たした"
     }
   },
   {
@@ -7862,7 +7862,7 @@
   {
     "translation": {
       "en": "So that Christmas morning, I ran.",
-      "ja": "それであのクリスマスの朝 私は逃げた"
+      "ja": "それであのクリスマスの朝私は逃げた"
     }
   },
   {
@@ -7874,7 +7874,7 @@
   {
     "translation": {
       "en": "Until Vicky came to visit me in Miami…",
-      "ja": "だがヴィッキーが マイアミにやってきた"
+      "ja": "だがヴィッキーがマイアミにやってきた"
     }
   },
   {
@@ -7928,25 +7928,25 @@
   {
     "translation": {
       "en": "Any fool could see how much in love they were. Still are, for that matter.",
-      "ja": "誰が見ても あの２人は愛し合ってる"
+      "ja": "誰が見てもあの２人は愛し合ってる"
     }
   },
   {
     "translation": {
       "en": "Just as any fool could see how much in love you and Caroline are.",
-      "ja": "君とキャロラインが 愛し合ってるのと同じだ"
+      "ja": "君とキャロラインが愛し合ってるのと同じだ"
     }
   },
   {
     "translation": {
-      "en": "Now, get up.",
+      "en": "Now, get up. [clears throat]",
       "ja": "立って"
     }
   },
   {
     "translation": {
       "en": "I've got some grandchildren to see in their Christmas pageant.",
-      "ja": "孫の出演する 降誕劇を見ないと"
+      "ja": "孫の出演する降誕劇を見ないと"
     }
   },
   {
@@ -7964,7 +7964,7 @@
   {
     "translation": {
       "en": "Behold, the Christmas star.",
-      "ja": "あれを見よ クリスマスの星だ"
+      "ja": "あれを見よクリスマスの星だ"
     }
   },
   {
@@ -8011,7 +8011,7 @@
   },
   {
     "translation": {
-      "en": "Hi.",
+      "en": "[Peter] Hi.",
       "ja": "やあ"
     }
   },
@@ -8042,7 +8042,7 @@
   {
     "translation": {
       "en": "Why does Wise Man Number Three have his guinea pig with him?",
-      "ja": "なぜ３番目の賢者は モルモットを？"
+      "ja": "なぜ３番目の賢者はモルモットを？"
     }
   },
   {
@@ -8083,14 +8083,14 @@
   },
   {
     "translation": {
-      "en": "Hello! Hi. Hi.",
+      "en": "[Alan] Hello! Hi. Hi.",
       "ja": "皆さん　どうも"
     }
   },
   {
     "translation": {
       "en": "Now, I really hope we all enjoy our delicious Christmas meal.",
-      "ja": "楽しみにしていた クリスマスディナーです"
+      "ja": "楽しみにしていたクリスマスディナーです"
     }
   },
   {
@@ -8102,18 +8102,18 @@
   {
     "translation": {
       "en": "that we say a big thank you to the Christmas family",
-      "ja": "クリスマス家の皆さんに 感謝の気持ちを表しましょう"
+      "ja": "クリスマス家の皆さんに感謝の気持ちを表しましょう"
     }
   },
   {
     "translation": {
       "en": "who have stepped in very kindly to serve food for you today.",
-      "ja": "今日のディナーを 用意してくれました"
+      "ja": "今日のディナーを用意してくれました"
     }
   },
   {
     "translation": {
-      "en": "- Beans? You're not a has- been. - Yes, please.",
+      "en": "-Beans? You're not a has-been. -Yes, please.",
       "ja": "豆をどうぞ"
     }
   },
@@ -8137,7 +8137,7 @@
   },
   {
     "translation": {
-      "en": "- Yes. - Yes.",
+      "en": "-[woman] Yes. -[man] Yes.",
       "ja": "はい"
     }
   },
@@ -8155,14 +8155,14 @@
   },
   {
     "translation": {
-      "en": "- Nothing would make me happier. -",
+      "en": "-Nothing would make me happier. -[squeals, laughs]",
       "ja": "この上ない幸せだ"
     }
   },
   {
     "translation": {
       "en": "Can we get a modern castle? Like, maybe five years old?",
-      "ja": "築５年くらいの お城を買える？"
+      "ja": "築５年くらいのお城を買える？"
     }
   },
   {
@@ -8179,7 +8179,7 @@
   },
   {
     "translation": {
-      "en": "- Not with turkey. - Too fattening.",
+      "en": "-[Edna] Not with turkey. -Too fattening.",
       "ja": "結構よ 太る？"
     }
   },
@@ -8215,13 +8215,13 @@
   },
   {
     "translation": {
-      "en": "- One more. - Yeah?",
+      "en": "-[woman] One more. -Yeah?",
       "ja": "お願い"
     }
   },
   {
     "translation": {
-      "en": "- Darling, I am so sorry about the meal. - Oh, don't worry about it.",
+      "en": "-Darling, I am so sorry about the meal. -Oh, don't worry about it.",
       "ja": "食事のことごめん いいのよ"
     }
   },
@@ -8257,7 +8257,7 @@
   },
   {
     "translation": {
-      "en": "That's a lot of turkey.",
+      "en": "[Jackie] That's a lot of turkey.",
       "ja": "七面鳥がたくさん"
     }
   },
@@ -8269,7 +8269,7 @@
   },
   {
     "translation": {
-      "en": "- Who's Ben? - The bartender.",
+      "en": "-Who's Ben? -The bartender.",
       "ja": "ベン？ バーテン"
     }
   },
@@ -8300,7 +8300,7 @@
   {
     "translation": {
       "en": "But promise me this. We spend next Christmas with my family.",
-      "ja": "でも次のクリスマスは うちの家族と一緒に"
+      "ja": "でも次のクリスマスはうちの家族と一緒に"
     }
   },
   {
@@ -8311,7 +8311,7 @@
   },
   {
     "translation": {
-      "en": "- Bahamas. - Yes!",
+      "en": "-Bahamas. -Yes!",
       "ja": "バハマ やった"
     }
   },
@@ -8330,7 +8330,7 @@
   {
     "translation": {
       "en": "Leave it with me. The name's not Christmas for nothing.",
-      "ja": "任せろ 私の姓はクリスマスだぞ"
+      "ja": "任せろ私の姓はクリスマスだぞ"
     }
   },
   {

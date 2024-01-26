@@ -1,85 +1,85 @@
 [
   {
     "translation": {
-      "en": "3654. We have foot pursuit outside of PNC Park.",
-      "es": "3654, persecución a pie fuera del parque PNC."
+      "en": "[officer 1, on radio] 3654. We have foot pursuit outside of PNC Park.",
+      "es": "3654, persecución a piefuera del parque PNC."
     }
   },
   {
     "translation": {
-      "en": "3169, here on Stockton Avenue. Heading down.",
-      "es": "3169, en la avenida Stockton. Va hacia abajo."
+      "en": "[officer 2] 3169, here on Stockton Avenue. Heading down.",
+      "es": "3169, en la avenida Stockton.Va hacia abajo."
     }
   },
   {
     "translation": {
-      "en": "438972. Suspect description, black jacket, black pants.",
-      "es": "438972, buscamos a alguien con chaqueta y pantalón negros."
+      "en": "[officer 3] 438972. Suspect description, black jacket, black pants.",
+      "es": "438972, buscamos a alguiencon chaqueta y pantalón negros."
     }
   },
   {
     "translation": {
-      "en": "Mayor requests we lock down. Lock it down on all four corners.",
-      "es": "No dejen que escape. Repito, aseguren las cuatro esquinas."
+      "en": "[officer 4] Mayor requests we lock down. Lock it down on all four corners.",
+      "es": "No dejen que escape.Repito, aseguren las cuatro esquinas."
     }
   },
   {
     "translation": {
-      "en": "Copy.",
+      "en": "[officer 3] Copy.",
       "es": "Copiado."
     }
   },
   {
     "translation": {
-      "en": "Suspect on foot. I repeat, suspect on foot.",
+      "en": "[officer 5] Suspect on foot. I repeat, suspect on foot.",
       "es": "La persona va a pie. Repito, va a pie."
     }
   },
   {
     "translation": {
-      "en": "Can we confirm present location of suspect?",
+      "en": "[officer 6] Can we confirm present location of suspect?",
       "es": "¿Nos confirman su ubicación actual?"
     }
   },
   {
     "translation": {
-      "en": "Got eyes on the suspect. Following.",
+      "en": "[officer 5] Got eyes on the suspect. Following.",
       "es": "Objetivo a la vista."
     }
   },
   {
     "translation": {
-      "en": "Dispatch, 3227. Be advised, suspect is entering PNC Park.",
-      "es": "Móvil 3227, la persona está entrando al parque."
+      "en": "[officer 7] Dispatch, 3227. Be advised, suspect is entering PNC Park.",
+      "es": "Móvil 3227, la personaestá entrando al parque."
     }
   },
   {
     "translation": {
-      "en": "On the move!",
-      "es": "- ¡Síganme! - ¡Se va, se está escapando!"
+      "en": "[officer 9] On the move!",
+      "es": "- ¡Síganme!- ¡Se va, se está escapando!"
     }
   },
   {
     "translation": {
-      "en": "- I'm on- site. - Move!",
+      "en": "-[officer 11, on radio] I'm on-site. -[officer 12] Move!",
       "es": "¡A un lado!"
     }
   },
   {
     "translation": {
-      "en": "Unit One- Two. I got your call. Negative.",
+      "en": "[officer 13, on radio] Unit One-Two. I got your call. Negative.",
       "es": "Unidad 1-2, recibí el llamado. Negativo."
     }
   },
   {
     "translation": {
       "en": "We have no visual. We have got no ID at this time.",
-      "es": "Se nos perdió de vista, no sabemos dónde está."
+      "es": "Se nos perdió de vista,no sabemos dónde está."
     }
   },
   {
     "translation": {
-      "en": "Suspect is on the roof.",
+      "en": "[officer 14, on radio] Suspect is on the roof.",
       "es": "Está en el techo."
     }
   },
@@ -91,7 +91,7 @@
   },
   {
     "translation": {
-      "en": "Ray!",
+      "en": "[officer 12] Ray!",
       "es": "¡Ray!"
     }
   },
@@ -133,19 +133,19 @@
   },
   {
     "translation": {
-      "en": "The past is like a dream.",
+      "en": "[Ray, echoing] The past is like a dream.",
       "es": "El pasado es como un sueño."
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[birds singing] -[water flowing]",
       "es": "AÑOS ANTES"
     }
   },
   {
     "translation": {
-      "en": "There are memories that shape us,",
+      "en": "[Ray] There are memories that shape us,",
       "es": "Hay recuerdos que nos marcan,"
     }
   },
@@ -175,7 +175,7 @@
   },
   {
     "translation": {
-      "en": "- You know this is all yours? -",
+      "en": "-You know this is all yours? -[Young Rachel chuckles]",
       "es": "Todo esto es tuyo."
     }
   },
@@ -193,31 +193,31 @@
   },
   {
     "translation": {
-      "en": "- I love you. - Love you too.",
+      "en": "-I love you. -[Young Rachel] Love you too.",
       "es": "Te amo. Yo también."
     }
   },
   {
     "translation": {
-      "en": "As the years pass, we realize",
+      "en": "[Ray] As the years pass, we realize",
       "es": "Con los años, nos damos cuenta"
     }
   },
   {
     "translation": {
       "en": "we are nothing more than the experiences that made us.",
-      "es": "de que solo somos las experiencias que vivimos."
+      "es": "de que solo somoslas experiencias que vivimos."
     }
   },
   {
     "translation": {
-      "en": "- Hi, Amanda. - Hi.",
-      "es": "- Hola, Amanda. - Hola."
+      "en": "-[doctor] Hi, Amanda. -Hi.",
+      "es": "- Hola, Amanda.- Hola."
     }
   },
   {
     "translation": {
-      "en": "- Doc. - Mr. Cooper.",
+      "en": "-[Ray] Doc. -[doctor] Mr. Cooper.",
       "es": "Señor Cooper."
     }
   },
@@ -229,14 +229,14 @@
   },
   {
     "translation": {
-      "en": "Yes. We'll go over the options,",
+      "en": "[doctor] Yes. We'll go over the options,",
       "es": "Sí. Podemos repasar las opciones,"
     }
   },
   {
     "translation": {
       "en": "but Infirmam is still the most effective way to cure this type of cancer.",
-      "es": "pero Infirmam es lo mejor para curar este tipo de cáncer."
+      "es": "pero Infirmam es lo mejorpara curar este tipo de cáncer."
     }
   },
   {
@@ -247,19 +247,19 @@
   },
   {
     "translation": {
-      "en": "The pain has brought us closer together.",
+      "en": "[Ray] The pain has brought us closer together.",
       "es": "El dolor nos unió más todavía."
     }
   },
   {
     "translation": {
       "en": "And watching her grow… has been to find myself again.",
-      "es": "Y verla crecer hizo que me encontrara de nuevo."
+      "es": "Y verla crecerhizo que me encontrara de nuevo."
     }
   },
   {
     "translation": {
-      "en": "Surprise!",
+      "en": "[all] Surprise!",
       "es": "¡Sorpresa!"
     }
   },
@@ -272,49 +272,49 @@
   {
     "translation": {
       "en": "I mean, it's not much, but it's all they had at the gift shop.",
-      "es": "No es mucho, pero es lo que había en la tienda."
+      "es": "No es mucho,pero es lo que había en la tienda."
     }
   },
   {
     "translation": {
-      "en": "- Oh. - Her name is Paloma.",
-      "es": "- Se llama Paloma. - Mamá, es perfecto."
+      "en": "-Oh. -[Amanda] Her name is Paloma.",
+      "es": "- Se llama Paloma.- Mamá, es perfecto."
     }
   },
   {
     "translation": {
       "en": "No, it's perfect. Thank you, Mom.",
-      "es": "- Se llama Paloma. - Mamá, es perfecto. Gracias."
+      "es": "- Se llama Paloma.- Mamá, es perfecto. Gracias."
     }
   },
   {
     "translation": {
-      "en": "But sometimes I wonder,",
+      "en": "[Ray] But sometimes I wonder,",
       "es": "Pero a veces me pregunto…"
     }
   },
   {
     "translation": {
-      "en": "Are these my memories, or are they hers?",
+      "en": "\"Are these my memories, or are they hers?\"",
       "es": "¿son mis recuerdos o los de ella?"
     }
   },
   {
     "translation": {
-      "en": "- - Put your hips into it. Again.",
+      "en": "-[Ray grunting] -[coach] Put your hips into it. Again.",
       "es": "Desde la cadera. ¡De nuevo!"
     }
   },
   {
     "translation": {
-      "en": "- Ooh. - Ooh, that was clean.",
+      "en": "-[Ray grunts] Ooh. -[laughs] Ooh, that was clean.",
       "es": "Eso estuvo bien."
     }
   },
   {
     "translation": {
-      "en": "- Lock that wrist so it don't get weak. - It won't!",
-      "es": "- Traba bien la muñeca. - ¡Entendido!"
+      "en": "-Lock that wrist so it don't get weak. -It won't!",
+      "es": "- Traba bien la muñeca.- ¡Entendido!"
     }
   },
   {
@@ -325,37 +325,37 @@
   },
   {
     "translation": {
-      "en": "- Whoa! - Fight fair!",
+      "en": "-Whoa! -Fight fair!",
       "es": "Juega limpio."
     }
   },
   {
     "translation": {
-      "en": "- - How do you win an unfair fight?",
+      "en": "-[both grunt] -[Ray] How do you win an unfair fight?",
       "es": "¿Cómo ganas una pelea injusta?"
     }
   },
   {
     "translation": {
-      "en": "- You always fight harder. - That's right.",
-      "es": "- Redoblando la apuesta. - Así es."
+      "en": "-[Rachel] You always fight harder. -That's right.",
+      "es": "- Redoblando la apuesta.- Así es."
     }
   },
   {
     "translation": {
-      "en": "Let me train her, Coop. She's got what it takes.",
+      "en": "[man] Let me train her, Coop. She's got what it takes.",
       "es": "Déjame entrenarla, Coop. Tiene talento."
     }
   },
   {
     "translation": {
-      "en": "- That's my sweet girl. -",
+      "en": "-That's my sweet girl. -[laughs]",
       "es": "Esa es mi nena."
     }
   },
   {
     "translation": {
-      "en": "- Done. - Done?",
+      "en": "-[Rachel] Done. -Done?",
       "es": "Listo."
     }
   },
@@ -367,14 +367,14 @@
   },
   {
     "translation": {
-      "en": "Parents and their children.",
+      "en": "[Ray] Parents and their children.",
       "es": "Padres e hijos."
     }
   },
   {
     "translation": {
       "en": "Where do we stop and they begin?",
-      "es": "¿Dónde terminamos nosotros y empiezan ellos?"
+      "es": "¿Dónde terminamos nosotrosy empiezan ellos?"
     }
   },
   {
@@ -385,31 +385,31 @@
   },
   {
     "translation": {
-      "en": "- Doc. - I have good news.",
-      "es": "- Doctor. - Traigo buenas noticias."
+      "en": "-Doc. -I have good news.",
+      "es": "- Doctor.- Traigo buenas noticias."
     }
   },
   {
     "translation": {
       "en": "We just got word",
-      "es": "Hay una versión genérica muy eficiente de Infirmam"
+      "es": "Hay una versión genéricamuy eficiente de Infirmam"
     }
   },
   {
     "translation": {
       "en": "a very effective generic version of Infirmam, called Spero,",
-      "es": "Hay una versión genérica muy eficiente de Infirmam llamada Spero que está en trámite para ser aprobada."
+      "es": "Hay una versión genéricamuy eficiente de Infirmam llamada Speroque está en trámite para ser aprobada."
     }
   },
   {
     "translation": {
       "en": "is in the final stages of FDA approval.",
-      "es": "llamada Spero que está en trámite para ser aprobada."
+      "es": "llamada Speroque está en trámite para ser aprobada."
     }
   },
   {
     "translation": {
-      "en": "This is great news, Ray.",
+      "en": "[softly] This is great news, Ray.",
       "es": "Son excelentes noticias, Ray."
     }
   },
@@ -421,13 +421,13 @@
   },
   {
     "translation": {
-      "en": "- You did, didn't you? - What?",
-      "es": "- Fuiste tú, ¿no? - ¿Qué?"
+      "en": "-You did, didn't you? -[Rachel] What?",
+      "es": "- Fuiste tú, ¿no?- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "This was your birthday wish, wasn't it?",
+      "en": "This was your birthday wish, wasn't it? [kisses]",
       "es": "Era tu deseo de cumpleaños, ¿no?"
     }
   },
@@ -457,26 +457,26 @@
   },
   {
     "translation": {
-      "en": "Dad, what's happening?",
+      "en": "[Rachel] Dad, what's happening?",
       "es": "Papá, ¿qué pasa?"
     }
   },
   {
     "translation": {
-      "en": "Dr. Wu? Dr. Wu!",
+      "en": "[Ray] Dr. Wu? Dr. Wu!",
       "es": "¿Doctor Wu?"
     }
   },
   {
     "translation": {
-      "en": "- Hi, Ray. - What's goin' on?",
-      "es": "Hola, Ray. ¿Qué pasa? Dijo que Amanda empezaría con Spero pronto."
+      "en": "-[Wu] Hi, Ray. -What's goin' on?",
+      "es": "Hola, Ray. ¿Qué pasa? Dijo que Amandaempezaría con Spero pronto."
     }
   },
   {
     "translation": {
       "en": "You said Amanda was gonna start Spero soon.",
-      "es": "¿Qué pasa? Dijo que Amanda empezaría con Spero pronto."
+      "es": "¿Qué pasa? Dijo que Amandaempezaría con Spero pronto."
     }
   },
   {
@@ -518,12 +518,12 @@
   {
     "translation": {
       "en": "paid the manufacturer to delay Spero's release.",
-      "es": "le pagó al fabricante para retrasar el lanzamiento."
+      "es": "le pagó al fabricantepara retrasar el lanzamiento."
     }
   },
   {
     "translation": {
-      "en": "- Delay? - For how long?",
+      "en": "-Delay? -For how long?",
       "es": "¿Retrasar? ¿Por cuánto tiempo?"
     }
   },
@@ -542,12 +542,12 @@
   {
     "translation": {
       "en": "I am delivering the same news to three other patients today…",
-      "es": "Hoy les daré la misma noticia a otros tres pacientes."
+      "es": "Hoy les daré la misma noticiaa otros tres pacientes."
     }
   },
   {
     "translation": {
-      "en": "…two of them kids.",
+      "en": "[quietly] …two of them kids.",
       "es": "Dos de ellos son niños."
     }
   },
@@ -565,32 +565,32 @@
   },
   {
     "translation": {
-      "en": "- - Welcome back.",
+      "en": "-[news fanfare plays] -[host] Welcome back.",
       "es": "Volvimos."
     }
   },
   {
     "translation": {
       "en": "For those just joining, I'm here with BioPrime CEO, Simon Keeley,",
-      "es": "Estoy aquí con Simon Keeley, el director general de BioPrime,"
+      "es": "Estoy aquí con Simon Keeley,el director general de BioPrime,"
     }
   },
   {
     "translation": {
       "en": "and Congresswoman Diana Morgan of Pennsylvania.",
-      "es": "y Diana Morgan, congresista de Pensilvania."
+      "es": "y Diana Morgan,congresista de Pensilvania."
     }
   },
   {
     "translation": {
       "en": "Congresswoman Morgan, why are you here today?",
-      "es": "Congresista Morgan, ¿por qué está aquí hoy?"
+      "es": "Congresista Morgan,¿por qué está aquí hoy?"
     }
   },
   {
     "translation": {
       "en": "Well, I've always taken a hard line against pharmaceutical lobbies",
-      "es": "Siempre me opuse a la presión de la industria farmacéutica"
+      "es": "Siempre me opusea la presión de la industria farmacéutica"
     }
   },
   {
@@ -602,31 +602,31 @@
   {
     "translation": {
       "en": "With all due respect, Congresswoman, BioPrime is unlike any other pharmaceutical company in the world.",
-      "es": "Con todo respeto, BioPrime no es como las demás empresas farmacéuticas."
+      "es": "Con todo respeto, BioPrime no escomo las demás empresas farmacéuticas."
     }
   },
   {
     "translation": {
-      "en": "- - Our scientists have created",
+      "en": "-[TV volume raises] -[Keeley] Our scientists have created",
       "es": "Nuestros científicos crearon"
     }
   },
   {
     "translation": {
       "en": "the most effective treatments in the fight against cancer.",
-      "es": "los tratamientos más efectivos en la lucha contra el cáncer."
+      "es": "los tratamientos más efectivosen la lucha contra el cáncer."
     }
   },
   {
     "translation": {
       "en": "Specifically with Infirmam, a drug that has increased life expectancy",
-      "es": "Puntualmente con Infirmam, aumentó un 86 % la esperanza de vida de los pacientes tratados."
+      "es": "Puntualmente con Infirmam, aumentó un 86 % la esperanza de vidade los pacientes tratados."
     }
   },
   {
     "translation": {
       "en": "in 86% of patients treated.",
-      "es": "aumentó un 86 % la esperanza de vida de los pacientes tratados."
+      "es": "aumentó un 86 % la esperanza de vidade los pacientes tratados."
     }
   },
   {
@@ -638,25 +638,25 @@
   {
     "translation": {
       "en": "It's the business practices. It's the company's business practices.",
-      "es": "sino de las prácticas comerciales de la empresa."
+      "es": "sino de las prácticas comercialesde la empresa."
     }
   },
   {
     "translation": {
       "en": "I believe that we all have a basic human right to safe, affordable medication.",
-      "es": "La población tiene derecho a recibir medicación segura y económica."
+      "es": "La población tiene derecho a recibirmedicación segura y económica."
     }
   },
   {
     "translation": {
       "en": "Yeah. Um, this talking point of health care as a human right.",
-      "es": "Sí, analicemos el tema de la salud como derecho humano."
+      "es": "Sí, analicemos el tema de la saludcomo derecho humano."
     }
   },
   {
     "translation": {
       "en": "Our medicines, they are a matter of research and science.",
-      "es": "Nuestros medicamentos requieren investigación y desarrollo científico."
+      "es": "Nuestros medicamentos requiereninvestigación y desarrollo científico."
     }
   },
   {
@@ -667,86 +667,86 @@
   },
   {
     "translation": {
-      "en": "All right. We have eager callers that wanna weigh in.",
+      "en": "[Langley] All right. We have eager callers that wanna weigh in.",
       "es": "Bien. Tenemos llamadas entrantes."
     }
   },
   {
     "translation": {
-      "en": "Can you please explain? Because I just don't understand.",
+      "en": "[caller] Can you please explain? Because I just don't understand.",
       "es": "¿Podrían explicarme? Porque no entiendo."
     }
   },
   {
     "translation": {
       "en": "It's crazy that a pill can cost that much.",
-      "es": "Es una locura que una pastilla cueste tanto."
+      "es": "Es una locuraque una pastilla cueste tanto."
     }
   },
   {
     "translation": {
-      "en": "- Yeah, this is, uh, a tricky issue. -",
+      "en": "-Yeah, this is, uh, a tricky issue. -[line ringing]",
       "es": "Sí, es un tema complicado."
     }
   },
   {
     "translation": {
       "en": "Uh, and don't get fooled by the talking points of… of politicians from Washington.",
-      "es": "Y no se dejen engañar por lo que dicen los políticos de Washington."
+      "es": "Y no se dejen engañar por lo que dicenlos políticos de Washington."
     }
   },
   {
     "translation": {
       "en": "Mr. Keeley, according to your own internal documents,",
-      "es": "Señor Keeley, según sus propios documentos internos,"
+      "es": "Señor Keeley,según sus propios documentos internos,"
     }
   },
   {
     "translation": {
       "en": "the cost of an entire course of treatment is only four dollars.",
-      "es": "un tratamiento completo cuesta solo cuatro dólares."
+      "es": "un tratamiento completocuesta solo cuatro dólares."
     }
   },
   {
     "translation": {
       "en": "You're absolutely right. A… A course of treatment is four dollars.",
-      "es": "Está en lo cierto, un tratamiento cuesta cuatro dólares."
+      "es": "Está en lo cierto,un tratamiento cuesta cuatro dólares."
     }
   },
   {
     "translation": {
       "en": "But it's funny how you failed to mention the billions of dollars spent on…",
-      "es": "Curioso que omita los miles de millones de dólares gastados…"
+      "es": "Curioso que omitalos miles de millones de dólares gastados…"
     }
   },
   {
     "translation": {
-      "en": "- Your name? - Ray Cooper.",
-      "es": "- ¿Nombre? - Ray Cooper."
+      "en": "-[operator] Your name? -Ray Cooper.",
+      "es": "- ¿Nombre?- Ray Cooper."
     }
   },
   {
     "translation": {
       "en": "…rebates, discounts, insurance companies, wholesalers. Look,",
-      "es": "…reembolsos, descuentos, aseguradoras, mayoristas."
+      "es": "…reembolsos, descuentos,aseguradoras, mayoristas."
     }
   },
   {
     "translation": {
       "en": "I'm here because BioPrime is committed to healing the world.",
-      "es": "Vine porque BioPrime tiene la meta de curar al mundo."
+      "es": "Vine porque BioPrimetiene la meta de curar al mundo."
     }
   },
   {
     "translation": {
       "en": "And if you look at the numbers, that is exactly what we're doing.",
-      "es": "Si miran los números, es lo que estamos haciendo."
+      "es": "Si miran los números,es lo que estamos haciendo."
     }
   },
   {
     "translation": {
-      "en": "- That is not what you are doing. - All right.",
-      "es": "- No es cierto. - Bien."
+      "en": "-[scoffs] That is not what you are doing. -All right.",
+      "es": "- No es cierto.- Bien."
     }
   },
   {
@@ -764,24 +764,24 @@
   {
     "translation": {
       "en": "My wife is dying in a hospital because you pulled Spero off the market.",
-      "es": "Mi esposa se está muriendo porque sacaron a Spero del mercado."
+      "es": "Mi esposa se está muriendoporque sacaron a Spero del mercado."
     }
   },
   {
     "translation": {
       "en": "Paying competitors to shelve generic brands of drugs?",
-      "es": "¿Le pagan a la competencia para cajonear medicamentos?"
+      "es": "¿Le pagan a la competenciapara cajonear medicamentos?"
     }
   },
   {
     "translation": {
-      "en": "That is immoral, Mr. Keeley.",
+      "en": "[scoffs] That is immoral, Mr. Keeley.",
       "es": "Eso es inmoral, señor Keeley."
     }
   },
   {
     "translation": {
-      "en": "Well…  …Ray…",
+      "en": "Well… [clears throat] …Ray…",
       "es": "Bueno, Ray…"
     }
   },
@@ -800,7 +800,7 @@
   {
     "translation": {
       "en": "Uh, first of all, I'd just like to say I'm so sorry to hear about your wife.",
-      "es": "Antes que nada, lamento mucho oír lo de tu esposa."
+      "es": "Antes que nada, lamento muchooír lo de tu esposa."
     }
   },
   {
@@ -818,13 +818,13 @@
   {
     "translation": {
       "en": "Saving lives? You're geared towards makin' a profit.",
-      "es": "¿A salvar vidas? Más bien, a hacer fortunas."
+      "es": "¿A salvar vidas?Más bien, a hacer fortunas."
     }
   },
   {
     "translation": {
       "en": "We've already refinanced our house. I've taken every double shift I can get.",
-      "es": "Refinanciamos nuestra casa, trabajo doble jornada."
+      "es": "Refinanciamos nuestra casa,trabajo doble jornada."
     }
   },
   {
@@ -835,14 +835,14 @@
   },
   {
     "translation": {
-      "en": "Ray, the sad reality is that cancer",
-      "es": "Ray… La triste realidad es que el cáncer suele ser una sentencia de muerte."
+      "en": "[Keeley] Ray, the sad reality is that cancer",
+      "es": "Ray… La triste realidad es que el cáncersuele ser una sentencia de muerte."
     }
   },
   {
     "translation": {
       "en": "is still very often a death sentence.",
-      "es": "La triste realidad es que el cáncer suele ser una sentencia de muerte."
+      "es": "La triste realidad es que el cáncersuele ser una sentencia de muerte."
     }
   },
   {
@@ -853,14 +853,14 @@
   },
   {
     "translation": {
-      "en": "What is the cost",
+      "en": "[hesitates] What is the cost",
       "es": "¿Cuál es el costo"
     }
   },
   {
     "translation": {
       "en": "of spending just a little bit more time with a loved one?",
-      "es": "de pasar un poco más de tiempo con seres queridos?"
+      "es": "de pasar un poco más de tiempocon seres queridos?"
     }
   },
   {
@@ -890,24 +890,24 @@
   {
     "translation": {
       "en": "I will hunt you down and kill you with my bare hands.",
-      "es": "Te buscaré y te mataré con mis propias manos."
+      "es": "Te buscaré y te matarécon mis propias manos."
     }
   },
   {
     "translation": {
-      "en": "Dad?",
+      "en": "[Rachel] Dad?",
       "es": "¿Papá?"
     }
   },
   {
     "translation": {
-      "en": "What ya lookin' at, man?",
+      "en": "[weakly] What ya lookin' at, man?",
       "es": "¿Qué miras, hombre?"
     }
   },
   {
     "translation": {
-      "en": "I'm lookin' at you, woman.",
+      "en": "[softly] I'm lookin' at you, woman.",
       "es": "Te miro a ti, mujer."
     }
   },
@@ -919,7 +919,7 @@
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "[shouting] No!",
       "es": "¡No!"
     }
   },
@@ -937,13 +937,13 @@
   },
   {
     "translation": {
-      "en": "Bye.",
+      "en": "[softly] Bye.",
       "es": "Adiós."
     }
   },
   {
     "translation": {
-      "en": "- Ah, God damn it. - What? Hospital bill?",
+      "en": "-[Ray] Ah, God damn it. -[Rachel] What? Hospital bill?",
       "es": "Demonios. ¿Boletas del hospital?"
     }
   },
@@ -955,25 +955,25 @@
   },
   {
     "translation": {
-      "en": "- We can't ignore it. - Sure you can.",
+      "en": "-We can't ignore it. -[Rachel] Sure you can.",
       "es": "No podemos ignorarlas. Claro que sí."
     }
   },
   {
     "translation": {
-      "en": "- - We voted for universal health care. Just… tell 'em we're taking a political stance.",
-      "es": "Votamos por la atención médica universal. Diles que es una postura política."
+      "en": "-[stove clicks] -We voted for universal health care. Just… tell 'em we're taking a political stance.",
+      "es": "Votamos por la atención médica universal.Diles que es una postura política."
     }
   },
   {
     "translation": {
       "en": "No, we are not eating that three nights in a row.",
-      "es": "No, no vamos a cenar eso por tercera vez seguida."
+      "es": "No, no vamos a cenar esopor tercera vez seguida."
     }
   },
   {
     "translation": {
-      "en": "- C'mon. You know you love this too. - It's not happening.",
+      "en": "-C'mon. You know you love this too. -[Ray] It's not happening.",
       "es": "A ti también te gusta. Ni lo sueñes. Pediremos algo con verduras."
     }
   },
@@ -985,32 +985,32 @@
   },
   {
     "translation": {
-      "en": "- - Fries do not count.",
+      "en": "-[Rachel laughing] -Fries do not count.",
       "es": "Las papas fritas no cuentan."
     }
   },
   {
     "translation": {
-      "en": "- Hey! - No. Stop.",
+      "en": "-[Rachel] Hey! -No. Stop.",
       "es": "No. Basta."
     }
   },
   {
     "translation": {
-      "en": "- Ah! Stop ticklin' me. -",
+      "en": "-Ah! Stop ticklin' me. -[cell phone vibrates]",
       "es": "No me hagas cosquillas."
     }
   },
   {
     "translation": {
-      "en": "Stop it.",
+      "en": "[Ray chuckles] Stop it.",
       "es": "Basta."
     }
   },
   {
     "translation": {
-      "en": "- Hello? - Ray Cooper?",
-      "es": "- ¿Hola? - ¿Ray Cooper?"
+      "en": "-Hello? -[man on phone] Ray Cooper?",
+      "es": "- ¿Hola?- ¿Ray Cooper?"
     }
   },
   {
@@ -1022,19 +1022,19 @@
   {
     "translation": {
       "en": "I'm doing a story on BioPrime, and I saw your call with Simon Keeley on TV.",
-      "es": "Sigo una historia sobre BioPrime, y vi su llamada a Keeley en la televisión."
+      "es": "Sigo una historia sobre BioPrime,y vi su llamada a Keeley en la televisión."
     }
   },
   {
     "translation": {
-      "en": "What do you want?",
+      "en": "[Ray] What do you want?",
       "es": "¿Qué quiere?"
     }
   },
   {
     "translation": {
       "en": "I can help you get justice for what happened to your wife.",
-      "es": "Puedo ayudarlo a hacer justicia por su esposa."
+      "es": "Puedo ayudarlo a hacer justiciapor su esposa."
     }
   },
   {
@@ -1046,48 +1046,48 @@
   {
     "translation": {
       "en": "I have proof that crimes have been committed.",
-      "es": "Tengo pruebas de que se cometieron delitos."
+      "es": "Tengo pruebasde que se cometieron delitos."
     }
   },
   {
     "translation": {
       "en": "Crimes that can land some very powerful people in jail.",
-      "es": "Delitos que enviarían a gente poderosa a la cárcel."
+      "es": "Delitos que enviaríana gente poderosa a la cárcel."
     }
   },
   {
     "translation": {
-      "en": "- Keeley? - Who's that?",
-      "es": "- ¿A Keeley? - ¿Quién es?"
+      "en": "-Keeley? -Who's that?",
+      "es": "- ¿A Keeley?- ¿Quién es?"
     }
   },
   {
     "translation": {
       "en": "Especially Keeley. We need to talk in person.",
-      "es": "Especialmente, a Keeley. Debemos hablar en persona."
+      "es": "Especialmente, a Keeley.Debemos hablar en persona."
     }
   },
   {
     "translation": {
-      "en": "- You can talk now. Now you have me. - Not over the phone.",
+      "en": "-You can talk now. Now you have me. -Not over the phone.",
       "es": "¿Por qué no ahora? Lo escucho. No por teléfono."
     }
   },
   {
     "translation": {
       "en": "Meet me at Gateway Station in 20 minutes. I won't waste your time.",
-      "es": "Lo veo en la estación Gateway en 20. No lo decepcionaré."
+      "es": "Lo veo en la estación Gateway en 20.No lo decepcionaré."
     }
   },
   {
     "translation": {
-      "en": "- - Who was that?",
+      "en": "-[call disconnects] -[Rachel] Who was that?",
       "es": "¿Quién era?"
     }
   },
   {
     "translation": {
-      "en": "I'll be right back.",
+      "en": "[Ray] I'll be right back.",
       "es": "Vuelvo en un rato."
     }
   },
@@ -1111,7 +1111,7 @@
   },
   {
     "translation": {
-      "en": "That's not fair.",
+      "en": "[Rachel] That's not fair.",
       "es": "No es justo."
     }
   },
@@ -1135,13 +1135,13 @@
   },
   {
     "translation": {
-      "en": "- I love you. - Love you.",
+      "en": "-I love you. -Love you. [sighs]",
       "es": "Te amo. Yo también."
     }
   },
   {
     "translation": {
-      "en": "Excuse me.",
+      "en": "[Ray] Excuse me.",
       "es": "Permiso."
     }
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "translation": {
-      "en": "- Get on the incoming train. - You were supposed to meet me here.",
+      "en": "-[Bennett] Get on the incoming train. -[Ray] You were supposed to meet me here.",
       "es": "Súbete al tren. ¿Qué pasa? Íbamos a vernos aquí."
     }
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. Now what? - Don't hang up. Just stay on the line.",
+      "en": "-Yeah. Now what? -Don't hang up. Just stay on the line.",
       "es": "Sí. ¿Y ahora? No cuelgues. Quédate en línea."
     }
   },
@@ -1196,19 +1196,19 @@
   {
     "translation": {
       "en": "There's a woman in a striped coat and a hipster guy with a scarf.",
-      "es": "Ubica a la mujer con abrigo a rayas y al tipo de bufanda."
+      "es": "Ubica a la mujer con abrigo a rayasy al tipo de bufanda."
     }
   },
   {
     "translation": {
-      "en": "- You see where they're headed? - Yeah. To street level.",
-      "es": "- ¿Ves a dónde van? - Suben a la calle."
+      "en": "-You see where they're headed? -Yeah. To street level.",
+      "es": "- ¿Ves a dónde van?- Suben a la calle."
     }
   },
   {
     "translation": {
       "en": "All right. There's a guy in a denim jacket going up the stairs.",
-      "es": "Hay un tipo con chaqueta de jean subiendo las escaleras."
+      "es": "Hay un tipo con chaqueta de jeansubiendo las escaleras."
     }
   },
   {
@@ -1226,13 +1226,13 @@
   {
     "translation": {
       "en": "Head to the south platform",
-      "es": "Dirígete a la plataforma sur y toma la línea roja hacia Allegheny."
+      "es": "Dirígete a la plataforma sury toma la línea roja hacia Allegheny."
     }
   },
   {
     "translation": {
       "en": "and take the Red Line towards Allegheny Station. Okay?",
-      "es": "Dirígete a la plataforma sur y toma la línea roja hacia Allegheny. ¿Entendido?"
+      "es": "Dirígete a la plataforma sury toma la línea roja hacia Allegheny. ¿Entendido?"
     }
   },
   {
@@ -1243,20 +1243,20 @@
   },
   {
     "translation": {
-      "en": "- Bennett? - Yeah. Martin.",
-      "es": "- ¿Bennett? - Sí. Disculpa todas esas vueltas, es por precaución."
+      "en": "-Bennett? -Yeah. Martin.",
+      "es": "- ¿Bennett?- Sí. Disculpa todas esas vueltas,es por precaución."
     }
   },
   {
     "translation": {
       "en": "Look, sorry about all this train hopping, but it's just a precaution.",
-      "es": "Disculpa todas esas vueltas, es por precaución."
+      "es": "Disculpa todas esas vueltas,es por precaución."
     }
   },
   {
     "translation": {
       "en": "Okay, honestly, I'm a little afraid of how deep this thing might go.",
-      "es": "Bien, a decir verdad, temo que esto sea mucho más grave."
+      "es": "Bien, a decir verdad,temo que esto sea mucho más grave."
     }
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "translation": {
       "en": "I got a source who told me about BioPrime's payouts",
-      "es": "Una fuente me habló de pagos que hizo BioPrime"
+      "es": "Una fuente me hablóde pagos que hizo BioPrime"
     }
   },
   {
@@ -1279,20 +1279,20 @@
   },
   {
     "translation": {
-      "en": "Bribery, cover- ups, who knows what else. All this leads to Simon Keeley.",
-      "es": "Sobornos, encubrimientos, quién sabe qué más. Todo lleva a Simon Keeley."
+      "en": "Bribery, cover-ups, who knows what else. All this leads to Simon Keeley.",
+      "es": "Sobornos, encubrimientos,quién sabe qué más. Todo lleva a Simon Keeley."
     }
   },
   {
     "translation": {
       "en": "There are other players at both the state and federal level.",
-      "es": "Hay más implicados a nivel estatal y federal,"
+      "es": "Hay más implicadosa nivel estatal y federal,"
     }
   },
   {
     "translation": {
       "en": "But recently, communication went silent.",
-      "es": "pero hace poco la comunicación se interrumpió."
+      "es": "pero hace pocola comunicación se interrumpió."
     }
   },
   {
@@ -1303,8 +1303,8 @@
   },
   {
     "translation": {
-      "en": "Enough to tie Keeley to bribes that pulled Spero off the market.",
-      "es": "Keeley pagó sobornos para sacar a Spero del mercado,"
+      "en": "[Bennett] Enough to tie Keeley to bribes that pulled Spero off the market.",
+      "es": "Keeley pagó sobornospara sacar a Spero del mercado,"
     }
   },
   {
@@ -1321,8 +1321,8 @@
   },
   {
     "translation": {
-      "en": "I have enough to bring public concern against BioPrime,",
-      "es": "Tengo lo suficiente para ir contra BioPrime,"
+      "en": "[Bennett] I have enough to bring public concern against BioPrime,",
+      "es": "Tengo lo suficientepara ir contra BioPrime,"
     }
   },
   {
@@ -1339,26 +1339,26 @@
   },
   {
     "translation": {
-      "en": "- I just-- - Look, just think about it.",
-      "es": "- No sé si… - Piénsalo."
+      "en": "-I just-- -Look, just think about it.",
+      "es": "- No sé si…- Piénsalo."
     }
   },
   {
     "translation": {
-      "en": "Look, Local family gets ravaged by Big Pharma's greed.",
-      "es": "Familia local arruinada por la industria farmacéutica."
+      "en": "Look, \"Local family gets ravaged by Big Pharma's greed.\"",
+      "es": "\"Familia local arruinadapor la industria farmacéutica\"."
     }
   },
   {
     "translation": {
-      "en": "You gotta help me, Ray.",
+      "en": "[Bennett] You gotta help me, Ray.",
       "es": "Ayúdame, Ray."
     }
   },
   {
     "translation": {
       "en": "Family, human interest. That's what grabs headlines.",
-      "es": "Familia, interés humano, eso llega a los titulares."
+      "es": "Familia, interés humano,eso llega a los titulares."
     }
   },
   {
@@ -1370,12 +1370,12 @@
   {
     "translation": {
       "en": "We can take down BioPrime. We can bring Simon Keeley to his knees.",
-      "es": "Podemos acabar con BioPrime y con Simon Keeley."
+      "es": "Podemos acabarcon BioPrime y con Simon Keeley."
     }
   },
   {
     "translation": {
-      "en": "- Hey! -",
+      "en": "-Hey! -[blade swishes]",
       "es": "¡Oye!"
     }
   },
@@ -1399,19 +1399,19 @@
   },
   {
     "translation": {
-      "en": "Rachel. Rachel, baby, are you okay? Look at me.",
+      "en": "[groans] Rachel. Rachel, baby, are you okay? Look at me.",
       "es": "Rachel. Nena, ¿estás bien? Mírame."
     }
   },
   {
     "translation": {
-      "en": "- Just like your dad. -",
+      "en": "-[coach] Just like your dad. -[Rachel grunting]",
       "es": "Igual que tu papá."
     }
   },
   {
     "translation": {
-      "en": "- Not about strength. -",
+      "en": "-Not about strength. -[both grunting]",
       "es": "No todo es fuerza."
     }
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "translation": {
-      "en": "- - You got it. Lock it in.",
+      "en": "-[both grunt] -[coach] You got it. Lock it in.",
       "es": "Lo tienes. Llave."
     }
   },
@@ -1495,7 +1495,7 @@
   },
   {
     "translation": {
-      "en": "He's tapping, Rachel.",
+      "en": "[coach] He's tapping, Rachel.",
       "es": "Hizo señas, Rachel."
     }
   },
@@ -1507,19 +1507,19 @@
   },
   {
     "translation": {
-      "en": "- He's tapping, Rachel. Rachel! -",
+      "en": "-He's tapping, Rachel. Rachel! -[sounds fading]",
       "es": "Hizo señas, Rachel. ¡Rachel!"
     }
   },
   {
     "translation": {
-      "en": "Rachel!",
+      "en": "[coach] Rachel!",
       "es": "¡Rachel!"
     }
   },
   {
     "translation": {
-      "en": "Rachel!",
+      "en": "[coach] Rachel!",
       "es": "¡Rachel!"
     }
   },
@@ -1532,25 +1532,25 @@
   {
     "translation": {
       "en": "that will make true progress in the war to find a cure for cancer.",
-      "es": "que hará grandes avances para hallar una cura contra el cáncer."
+      "es": "que hará grandes avancespara hallar una cura contra el cáncer."
     }
   },
   {
     "translation": {
       "en": "In collaboration with the CDC and the NIH,",
-      "es": "Con el Centro de Control de Enfermedades y el Instituto Nacional de Salud,"
+      "es": "Con el Centro de Control de Enfermedadesy el Instituto Nacional de Salud,"
     }
   },
   {
     "translation": {
       "en": "we are creating a strategic partnership with BioPrime Pharmaceuticals.",
-      "es": "estamos creando una sociedad estratégica con Laboratorios BioPrime."
+      "es": "estamos creando una sociedad estratégicacon Laboratorios BioPrime."
     }
   },
   {
     "translation": {
       "en": "Thanks to the effort of BioPrime CEO, Simon Keeley,",
-      "es": "Gracias a Simon Keeley, el director general de BioPrime,"
+      "es": "Gracias a Simon Keeley,el director general de BioPrime,"
     }
   },
   {
@@ -1562,31 +1562,31 @@
   {
     "translation": {
       "en": "this bill will effectively cap the cost of treatment.",
-      "es": "este proyecto de ley cubrirá los costos del tratamiento."
+      "es": "este proyecto de leycubrirá los costos del tratamiento."
     }
   },
   {
     "translation": {
       "en": "Finally, many of BioPrime's breakthrough treatments",
-      "es": "Por fin, muchos tratamientos innovadores de BioPrime"
+      "es": "Por fin, muchos tratamientos innovadoresde BioPrime"
     }
   },
   {
     "translation": {
       "en": "that used to cost in the hundreds of thousands of dollars",
-      "es": "que antes costaban cientos de miles de dólares"
+      "es": "que antes costabancientos de miles de dólares"
     }
   },
   {
     "translation": {
       "en": "will now be available to the public at affordable prices.",
-      "es": "estarán disponibles al público a precios asequibles."
+      "es": "estarán disponibles al públicoa precios asequibles."
     }
   },
   {
     "translation": {
       "en": "I told the American people that I would hold companies like BioPrime accountable,",
-      "es": "Dije que les exigiría respuestas a las empresas como BioPrime"
+      "es": "Dije que les exigiría respuestasa las empresas como BioPrime"
     }
   },
   {
@@ -1603,7 +1603,7 @@
   },
   {
     "translation": {
-      "en": "Again?",
+      "en": "[Ray] Again?",
       "es": "¿Otra vez?"
     }
   },
@@ -1616,7 +1616,7 @@
   {
     "translation": {
       "en": "I had a dream last night about that trip we took with Mom in the woods.",
-      "es": "Anoche soñé con aquel viaje al bosque que hicimos con mamá."
+      "es": "Anoche soñé con aquel viaje al bosqueque hicimos con mamá."
     }
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "translation": {
       "en": "I don't know. It's like I'm losing these tiny pieces of her every day, and I just…",
-      "es": "Es como si, cada día, fuera perdiendo pedacitos de ella y…"
+      "es": "Es como si, cada día,fuera perdiendo pedacitos de ella y…"
     }
   },
   {
@@ -1663,8 +1663,8 @@
   },
   {
     "translation": {
-      "en": "- I need to know. - Just… Just leave it alone, okay?",
-      "es": "- Necesito saber. - Ya… Ya olvídate de eso, ¿sí?"
+      "en": "-I need to know. -Just… Just leave it alone, okay?",
+      "es": "- Necesito saber.- Ya… Ya olvídate de eso, ¿sí?"
     }
   },
   {
@@ -1681,13 +1681,13 @@
   },
   {
     "translation": {
-      "en": "It just was a dead- end conspiracy.",
+      "en": "It just was a dead-end conspiracy.",
       "es": "Era una teoría conspirativa absurda."
     }
   },
   {
     "translation": {
-      "en": "- I don't believe that. -",
+      "en": "-I don't believe that. -[Rachel sighs]",
       "es": "Yo no creo eso."
     }
   },
@@ -1705,25 +1705,25 @@
   },
   {
     "translation": {
-      "en": "Keep it close, Mike. - I don't know how long I'll be. - Yes, sir.",
+      "en": "Keep it close, Mike. -I don't know how long I'll be. -[Mike] Yes, sir.",
       "es": "Quédate cerca. No sé cuánto tardaré."
     }
   },
   {
     "translation": {
-      "en": "- Mr. Keeley. - Ah.",
+      "en": "-Mr. Keeley. -Ah.",
       "es": "Señor Keeley."
     }
   },
   {
     "translation": {
-      "en": "Appreciate it. - Don't let me go dry tonight, will you? -",
-      "es": "Te lo agradezco. Sigue trayéndome bebidas, ¿sí?"
+      "en": "Appreciate it. -Don't let me go dry tonight, will you? -[server chuckles]",
+      "es": "Te lo agradezco.Sigue trayéndome bebidas, ¿sí?"
     }
   },
   {
     "translation": {
-      "en": "Good evening.",
+      "en": "[announcer] Good evening.",
       "es": "Buenas noches."
     }
   },
@@ -1736,7 +1736,7 @@
   {
     "translation": {
       "en": "by introducing you to the CEO of BioPrime,",
-      "es": "presentándoles al director general de BioPrime,"
+      "es": "presentándolesal director general de BioPrime,"
     }
   },
   {
@@ -1747,7 +1747,7 @@
   },
   {
     "translation": {
-      "en": "Nice to see you, Simon.",
+      "en": "[man] Nice to see you, Simon.",
       "es": "Qué bueno verte, Simon."
     }
   },
@@ -1765,8 +1765,8 @@
   },
   {
     "translation": {
-      "en": "T. S. Eliot said, We shall not cease in exploration.",
-      "es": "T. S. Eliot dijo: No dejaremos de explorar."
+      "en": "T. S. Eliot said, \"We shall not cease in exploration.\"",
+      "es": "T. S. Eliot dijo:\"No dejaremos de explorar\"."
     }
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "translation": {
       "en": "in hopes of raising ten million dollars…",
-      "es": "con la esperanza de recaudar diez millones de dólares."
+      "es": "con la esperanzade recaudar diez millones de dólares."
     }
   },
   {
@@ -1795,31 +1795,31 @@
   },
   {
     "translation": {
-      "en": "For medicine and assistance…",
+      "en": "[Keeley, over speakers] For medicine and assistance…",
       "es": "Para medicamentos y ayuda…"
     }
   },
   {
     "translation": {
       "en": "for children in Africa.",
-      "es": "FUERA DE SERVICIO …para niños en África. Perdón, en la India."
+      "es": "FUERA DE SERVICIO …para niños en África.Perdón, en la India."
     }
   },
   {
     "translation": {
-      "en": "India. Sorry.",
-      "es": "…para niños en África. Perdón, en la India."
+      "en": "India. Sorry. [laughs awkwardly]",
+      "es": "…para niños en África.Perdón, en la India."
     }
   },
   {
     "translation": {
       "en": "Either way, both places need a lot of help.",
-      "es": "De cualquier manera, ambos lugares necesitan mucha ayuda."
+      "es": "De cualquier manera,ambos lugares necesitan mucha ayuda."
     }
   },
   {
     "translation": {
-      "en": "- Thanks again for coming. -",
+      "en": "-Thanks again for coming. -[guests clap]",
       "es": "De nuevo, gracias por venir."
     }
   },
@@ -1844,7 +1844,7 @@
   {
     "translation": {
       "en": "You know what? I am so sick of doing your job for ya.",
-      "es": "¿Sabes qué? Estoy harto de hacer tu trabajo."
+      "es": "¿Sabes qué?Estoy harto de hacer tu trabajo."
     }
   },
   {
@@ -1873,7 +1873,7 @@
   },
   {
     "translation": {
-      "en": "- - What the fuck?",
+      "en": "-[drink spills] -What the fuck?",
       "es": "¿Qué carajo?"
     }
   },
@@ -1885,8 +1885,8 @@
   },
   {
     "translation": {
-      "en": "- Sir? - You kidding? Give me a napkin.",
-      "es": "- ¿Señor? - ¿Es broma? Dame tu servilleta, carajo."
+      "en": "-[bodyguard 1] Sir? -[Keeley] You kidding? Give me a napkin.",
+      "es": "- ¿Señor?- ¿Es broma? Dame tu servilleta, carajo."
     }
   },
   {
@@ -1897,14 +1897,14 @@
   },
   {
     "translation": {
-      "en": "- Let's start the auction. - Fucking balls are wet.",
-      "es": "- Comencemos la subasta. - Tengo las bolas mojadas."
+      "en": "-[auctioneer] Let's start the auction. -Fucking balls are wet.",
+      "es": "- Comencemos la subasta.- Tengo las bolas mojadas."
     }
   },
   {
     "translation": {
-      "en": "- It's out of order. - No shit. How'd you figure that out?",
-      "es": "Fuera de servicio. No me digas, Sherlock. ¿Cómo te diste cuenta?"
+      "en": "-[bodyguard 2] It's out of order. -No shit. How'd you figure that out?",
+      "es": "Fuera de servicio. No me digas, Sherlock.¿Cómo te diste cuenta?"
     }
   },
   {
@@ -1915,7 +1915,7 @@
   },
   {
     "translation": {
-      "en": "Well, let's go to it, then. All right?",
+      "en": "[Keeley] Well, let's go to it, then. All right?",
       "es": "Bueno, vayamos a ese, entonces."
     }
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "translation": {
-      "en": "- Hmm? - What the… fuck?",
+      "en": "-[Ray] Hmm? -What the… fuck?",
       "es": "¿Qué carajo?"
     }
   },
@@ -1946,13 +1946,13 @@
   {
     "translation": {
       "en": "All made her suffer, but she died because of you.",
-      "es": "Todos la hicieron sufrir, pero murió por tu culpa."
+      "es": "Todos la hicieron sufrir,pero murió por tu culpa."
     }
   },
   {
     "translation": {
       "en": "I didn't kill anyone, you psycho fuck. Cancer did.",
-      "es": "Yo no maté a nadie, demente. Fue el cáncer."
+      "es": "Yo no maté a nadie, demente.Fue el cáncer."
     }
   },
   {
@@ -1963,31 +1963,31 @@
   },
   {
     "translation": {
-      "en": "- What? Martin? - He was investigating your bribes.",
-      "es": "- ¿Qué? - Estaba investigando tus sobornos."
+      "en": "-What? Martin? -He was investigating your bribes.",
+      "es": "- ¿Qué?- Estaba investigando tus sobornos."
     }
   },
   {
     "translation": {
       "en": "What the… What are you talking about? I don't know any Martin Bennett.",
-      "es": "¿De qué hablas? No conozco a ningún Martin Bennett."
+      "es": "¿De qué hablas?No conozco a ningún Martin Bennett."
     }
   },
   {
     "translation": {
-      "en": "- You're the goddamn CEO of BioPrime. - All right.",
-      "es": "- ¡Eres el director de BioPrime! - Bien."
+      "en": "-You're the goddamn CEO of BioPrime. -All right.",
+      "es": "- ¡Eres el director de BioPrime!- Bien."
     }
   },
   {
     "translation": {
       "en": "I authorize a bribe now and again, but it's not like I read the fine print.",
-      "es": "Autorizo sobornos de vez en cuando, pero no leo la letra chica."
+      "es": "Autorizo sobornos de vez en cuando,pero no leo la letra chica."
     }
   },
   {
     "translation": {
-      "en": "Okay, now, stop! Stop!",
+      "en": "[yelling] Okay, now, stop! Stop!",
       "es": "¡Muy bien, basta!"
     }
   },
@@ -1999,7 +1999,7 @@
   },
   {
     "translation": {
-      "en": "All right. Uh…",
+      "en": "All right. Uh… [grunts]",
       "es": "De acuerdo."
     }
   },
@@ -2011,8 +2011,8 @@
   },
   {
     "translation": {
-      "en": "Nothing happens without his sign- off. He's the one that brought me on, okay?",
-      "es": "Todo requiere su aprobación. Él es quien manda, ¿sí?"
+      "en": "Nothing happens without his sign-off. He's the one that brought me on, okay?",
+      "es": "Todo requiere su aprobación.Él es quien manda, ¿sí?"
     }
   },
   {
@@ -2023,7 +2023,7 @@
   },
   {
     "translation": {
-      "en": "- Get him. -",
+      "en": "-Get him. -[tense music playing]",
       "es": "¡Ayúdenme!"
     }
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "- - Fuck!",
+      "en": "-[blade slashes] -[bodyguard 2 screams] Fuck!",
       "es": "¡Mierda!"
     }
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "translation": {
-      "en": "- - Sold! 50,000 dollars.",
+      "en": "-[Ray exhales shakily] -[auctioneer] Sold! 50,000 dollars.",
       "es": "¡Vendido por 50 000 dólares!"
     }
   },
@@ -2065,20 +2065,20 @@
   },
   {
     "translation": {
-      "en": "Dad? You're hurt.",
+      "en": "[Rachel] Dad? You're hurt.",
       "es": "Papá… Estás herido."
     }
   },
   {
     "translation": {
-      "en": "I'm fine. I need you to pack up. Only what we need.",
-      "es": "Estoy bien. Empaca lo mínimo e indispensable."
+      "en": "[Ray] I'm fine. I need you to pack up. Only what we need.",
+      "es": "Estoy bien.Empaca lo mínimo e indispensable."
     }
   },
   {
     "translation": {
-      "en": "- When are we coming back? - We're not.",
-      "es": "- ¿Cuándo vamos a volver? - Nunca."
+      "en": "-[Rachel] When are we coming back? -[Ray] We're not.",
+      "es": "- ¿Cuándo vamos a volver?- Nunca."
     }
   },
   {
@@ -2107,7 +2107,7 @@
   },
   {
     "translation": {
-      "en": "I don't know.",
+      "en": "[Ray] I don't know.",
       "es": "No sé."
     }
   },
@@ -2119,14 +2119,14 @@
   },
   {
     "translation": {
-      "en": "Go pack!",
+      "en": "[loudly] Go pack!",
       "es": "¡Ve a empacar!"
     }
   },
   {
     "translation": {
       "en": "Mr. Asbury, I'm Special Agent Sarah Meeker.",
-      "es": "Señor Asbury, soy la agente especial Sarah Meeker."
+      "es": "Señor Asbury,soy la agente especial Sarah Meeker."
     }
   },
   {
@@ -2137,8 +2137,8 @@
   },
   {
     "translation": {
-      "en": "Your partner, he took a bullet to the head tonight.",
-      "es": "Su compañero recibió un balazo en la cabeza."
+      "en": "[Meeker] Your partner, he took a bullet to the head tonight.",
+      "es": "Su compañerorecibió un balazo en la cabeza."
     }
   },
   {
@@ -2149,8 +2149,14 @@
   },
   {
     "translation": {
+      "en": "[Asbury] No.",
+      "es": "No."
+    }
+  },
+  {
+    "translation": {
       "en": "Did you hear anything at all before losing consciousness?",
-      "es": "¿Escuchó algo antes de perder el conocimiento?"
+      "es": "¿Escuchó algoantes de perder el conocimiento?"
     }
   },
   {
@@ -2167,31 +2173,31 @@
   },
   {
     "translation": {
-      "en": "All of them made her suffer.",
-      "es": "Todos la hicieron sufrir o…"
+      "en": "\"All of them made her suffer.\"",
+      "es": "\"Todos la hicieron sufrir\" o…"
     }
   },
   {
     "translation": {
-      "en": "- Or… All made her suffer. I don't know. - What do you mean? All what? All who?",
-      "es": "Todos la hicieron sufrir o… todo la hizo sufrir, no sé. ¿De qué o quiénes hablaba?"
+      "en": "-Or… \"All made her suffer.\" I don't know. -What do you mean? All what? All who?",
+      "es": "\"Todos la hicieron sufrir\" o… \"todo la hizo sufrir\", no sé. ¿De qué o quiénes hablaba?"
     }
   },
   {
     "translation": {
-      "en": "- I don't know. - Okay.",
-      "es": "- No sé. - Está bien."
+      "en": "-I don't know. -Okay.",
+      "es": "- No sé.- Está bien."
     }
   },
   {
     "translation": {
-      "en": "- Do you remember anything else? - No.",
+      "en": "-Do you remember anything else? -No.",
       "es": "¿Recuerda algo más? No."
     }
   },
   {
     "translation": {
-      "en": "- - Thank you.",
+      "en": "-[Asbury sighs] -Thank you.",
       "es": "Gracias."
     }
   },
@@ -2210,13 +2216,13 @@
   {
     "translation": {
       "en": "Whoever it was said they warned him.",
-      "es": "No sé quién era, pero ya le había advertido"
+      "es": "No sé quién era,pero ya le había advertido"
     }
   },
   {
     "translation": {
       "en": "They said they'd come for Mr. Keeley if anything happened to the woman.",
-      "es": "que vendría por él si le pasaba algo a la mujer."
+      "es": "que vendría por élsi le pasaba algo a la mujer."
     }
   },
   {
@@ -2228,19 +2234,19 @@
   {
     "translation": {
       "en": "Let's do a check on all death threats Keeley may have gotten in the past.",
-      "es": "Revisemos si Keeley recibió amenazas de muerte."
+      "es": "Revisemos si Keeleyrecibió amenazas de muerte."
     }
   },
   {
     "translation": {
-      "en": "You got it.",
+      "en": "[agent] You got it.",
       "es": "Entendido."
     }
   },
   {
     "translation": {
-      "en": "It's a long drive to Toronto on these back roads.",
-      "es": "El viaje a Toronto es largo por estos caminos."
+      "en": "[Ray] It's a long drive to Toronto on these back roads.",
+      "es": "El viaje a Torontoes largo por estos caminos."
     }
   },
   {
@@ -2251,20 +2257,20 @@
   },
   {
     "translation": {
-      "en": "- ♪ Who throws the dice ♪ - You gonna come sit up here?",
+      "en": "-♪ Who throws the dice ♪ -You gonna come sit up here?",
       "es": "¿Vas a pasarte adelante?"
     }
   },
   {
     "translation": {
-      "en": "Talk to Paloma.",
+      "en": "[Rachel grunts softly] Talk to Paloma.",
       "es": "Habla con Paloma."
     }
   },
   {
     "translation": {
       "en": "We ran all the Keeley death threats, and we got a match.",
-      "es": "Revisamos las amenazas de muerte y encontramos algo."
+      "es": "Revisamos las amenazas de muertey encontramos algo."
     }
   },
   {
@@ -2282,60 +2288,60 @@
   {
     "translation": {
       "en": "Her husband's Oldsmobile was at the auction. And we found this too.",
-      "es": "El auto de su esposo estaba en la subasta. Y también encontramos esto."
+      "es": "El auto de su esposo estaba en la subasta.Y también encontramos esto."
     }
   },
   {
     "translation": {
-      "en": "It's impossible to put a price on.",
+      "en": "[Keeley] It's impossible to put a price on.",
       "es": "Es imposible ponerle precio."
     }
   },
   {
     "translation": {
-      "en": "If my wife dies, it's your death sentence.",
-      "es": "Si mi esposa muere, será tu sentencia de muerte."
+      "en": "[Ray] If my wife dies, it's your death sentence.",
+      "es": "Si mi esposa muere,será tu sentencia de muerte."
     }
   },
   {
     "translation": {
       "en": "I will hunt you down and kill you with my bare hands.",
-      "es": "Te buscaré y te mataré con mis propias manos."
+      "es": "Te buscaré y te matarécon mis propias manos."
     }
   },
   {
     "translation": {
-      "en": "- We're gonna take-- - All made her suffer?",
-      "es": "Vamos a… - Todos la hicieron sufrir. - Exacto."
+      "en": "-[Langley] We're gonna take-- -[Meeker hits key] \"All made her suffer\"?",
+      "es": "Vamos a… - \"Todos la hicieron sufrir\".- Exacto."
     }
   },
   {
     "translation": {
-      "en": "- Right.  -",
-      "es": "- Todos la hicieron sufrir. - Exacto."
+      "en": "-Right. [chuckles] -[Meeker exhales]",
+      "es": "- \"Todos la hicieron sufrir\".- Exacto."
     }
   },
   {
     "translation": {
       "en": "Let's put an APB out on Cooper's vehicle.",
-      "es": "Enviemos una alerta para el vehículo de Cooper."
+      "es": "Enviemos una alertapara el vehículo de Cooper."
     }
   },
   {
     "translation": {
-      "en": "Here you are.",
+      "en": "[attendant] Here you are.",
       "es": "Aquí tiene."
     }
   },
   {
     "translation": {
-      "en": "Got the ID on the driver.",
+      "en": "[man] Got the ID on the driver.",
       "es": "Identificaron a quien conduce."
     }
   },
   {
     "translation": {
-      "en": "Yeah.",
+      "en": "[quietly] Yeah.",
       "es": "Sí."
     }
   },
@@ -2347,44 +2353,44 @@
   },
   {
     "translation": {
-      "en": "Evening.",
+      "en": "[Ray] Evening.",
       "es": "Buenas noches."
     }
   },
   {
     "translation": {
-      "en": "I'll be right up.",
+      "en": "[Ray] I'll be right up.",
       "es": "Enseguida voy."
     }
   },
   {
     "translation": {
-      "en": "- - This is Meeker.",
+      "en": "-[phone rings] -This is Meeker.",
       "es": "Habla Meeker."
     }
   },
   {
     "translation": {
-      "en": "You're the agent assigned to what happened at the UNICEF fundraiser.",
-      "es": "Usted tiene a cargo el caso de la subasta de Unicef."
+      "en": "[Rachel] You're the agent assigned to what happened at the UNICEF fundraiser.",
+      "es": "Usted tiene a cargoel caso de la subasta de Unicef."
     }
   },
   {
     "translation": {
       "en": "If you have any information, please call the tip line.",
-      "es": "Si tiene algún dato, llame a la línea informativa."
+      "es": "Si tiene algún dato,llame a la línea informativa."
     }
   },
   {
     "translation": {
-      "en": "- An agent will get back to you. - Yeah, I called the tip line.",
-      "es": "- La contactará un agente. - Ya llamé, pero solo hablaré con usted."
+      "en": "-An agent will get back to you. -Yeah, I called the tip line.",
+      "es": "- La contactará un agente.- Ya llamé, pero solo hablaré con usted."
     }
   },
   {
     "translation": {
-      "en": "- I told them I'm only talkin' to you. - And who am I speaking to?",
-      "es": "- La contactará un agente. - Ya llamé, pero solo hablaré con usted. ¿Y con quién hablo?"
+      "en": "-I told them I'm only talkin' to you. -And who am I speaking to?",
+      "es": "- La contactará un agente.- Ya llamé, pero solo hablaré con usted. ¿Y con quién hablo?"
     }
   },
   {
@@ -2395,7 +2401,7 @@
   },
   {
     "translation": {
-      "en": "- It was self- defense. - How do you know that? Who is this?",
+      "en": "-It was self-defense. -How do you know that? Who is this?",
       "es": "Fue en defensa propia. ¿Cómo sabe?"
     }
   },
@@ -2420,7 +2426,7 @@
   {
     "translation": {
       "en": "How many cancer patients died because of him? Thousands? More?",
-      "es": "¿Cuántos pacientes de cáncer murieron por su culpa? ¿Miles? ¿Más?"
+      "es": "¿Cuántos pacientes de cáncermurieron por su culpa? ¿Miles? ¿Más?"
     }
   },
   {
@@ -2431,7 +2437,7 @@
   },
   {
     "translation": {
-      "en": "- Goodbye. - Wait, I can help you.",
+      "en": "-Goodbye. -Wait, I can help you.",
       "es": "Adiós. Espera, puedo ayudarte."
     }
   },
@@ -2533,7 +2539,7 @@
   },
   {
     "translation": {
-      "en": "My number is 412- 046- 4378.",
+      "en": "My number is 412-046-4378.",
       "es": "Mi número es 412-046-4378."
     }
   },
@@ -2545,13 +2551,13 @@
   },
   {
     "translation": {
-      "en": "Now say it back to me. It's 412- 046- 4--",
+      "en": "Now say it back to me. It's 412-046-4--",
       "es": "Repítelo: 412-046-4…"
     }
   },
   {
     "translation": {
-      "en": "- - Fuck.",
+      "en": "-[call disconnects] -[quietly] Fuck.",
       "es": "¡Carajo!"
     }
   },
@@ -2587,7 +2593,7 @@
   },
   {
     "translation": {
-      "en": "- Twenty dollars? Seriously? -",
+      "en": "-Twenty dollars? Seriously? -[Rachel sighs]",
       "es": "¿Veinte dólares? ¿En serio?"
     }
   },
@@ -2600,7 +2606,7 @@
   {
     "translation": {
       "en": "Look, I know you've always taught me to do the right thing, okay?",
-      "es": "Sé que siempre me enseñaste a hacer lo correcto,"
+      "es": "Sé que siempre me enseñastea hacer lo correcto,"
     }
   },
   {
@@ -2617,13 +2623,13 @@
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Ray] Come on.",
       "es": "Vamos."
     }
   },
   {
     "translation": {
-      "en": "- - FBI! We have permission to gain entry.",
+      "en": "-[pounding on door] -[agent] FBI! We have permission to gain entry.",
       "es": "¡FBI! ¡Tenemos permiso para entrar!"
     }
   },
@@ -2635,13 +2641,19 @@
   },
   {
     "translation": {
+      "en": "[agent] Meeker.",
+      "es": "Meeker."
+    }
+  },
+  {
+    "translation": {
       "en": "Whoa. We definitely got our suspect.",
       "es": "Vaya. Definitivamente, dimos en el blanco."
     }
   },
   {
     "translation": {
-      "en": "It's Torres.",
+      "en": "[Meeker] It's Torres.",
       "es": "Es Torres."
     }
   },
@@ -2672,19 +2684,19 @@
   {
     "translation": {
       "en": "So, that APB we put out on Ray Cooper's vehicle?",
-      "es": "¿Recuerdas la alerta que enviamos para el auto?"
+      "es": "¿Recuerdas la alertaque enviamos para el auto?"
     }
   },
   {
     "translation": {
       "en": "It was spotted fleeing the scene",
-      "es": "Lo vieron en la escena de un homicidio doble"
+      "es": "Lo vieron en la escenade un homicidio doble"
     }
   },
   {
     "translation": {
       "en": "of a double homicide 70 miles north of here.",
-      "es": "Lo vieron en la escena de un homicidio doble a 80 km al norte de aquí."
+      "es": "Lo vieron en la escenade un homicidio doble a 80 km al norte de aquí."
     }
   },
   {
@@ -2713,26 +2725,26 @@
   },
   {
     "translation": {
-      "en": "It runs, if you're askin'.",
+      "en": "[man] It runs, if you're askin'.",
       "es": "Corre bien."
     }
   },
   {
     "translation": {
-      "en": "Like an odds- on favorite at the Kentucky Derby.",
-      "es": "Como un caballo purasangre del Derby de Kentucky."
+      "en": "Like an odds-on favorite at the Kentucky Derby.",
+      "es": "Como un caballo purasangredel Derby de Kentucky."
     }
   },
   {
     "translation": {
-      "en": "You take cash?",
+      "en": "[hit man] You take cash?",
       "es": "¿Acepta efectivo?"
     }
   },
   {
     "translation": {
-      "en": "We need to stay off the road until I figure out what's goin' on.",
-      "es": "Mejor alejarnos de la carretera hasta saber qué hacer."
+      "en": "[Ray] We need to stay off the road until I figure out what's goin' on.",
+      "es": "Mejor alejarnos de la carreterahasta saber qué hacer."
     }
   },
   {
@@ -2768,13 +2780,13 @@
   {
     "translation": {
       "en": "If they found us at the motel, they'll find us anywhere.",
-      "es": "Si nos encontraron en el motel, nos encontrarán en cualquier lugar."
+      "es": "Si nos encontraron en el motel,nos encontrarán en cualquier lugar."
     }
   },
   {
     "translation": {
       "en": "It's gonna be okay, Rae. I'm gonna keep you safe.",
-      "es": "Todo saldrá bien, Rae. Te mantendré a salvo."
+      "es": "Todo saldrá bien, Rae.Te mantendré a salvo."
     }
   },
   {
@@ -2791,13 +2803,13 @@
   },
   {
     "translation": {
-      "en": "I have to go after Shah.",
+      "en": "[Ray] I have to go after Shah.",
       "es": "Debo ir tras Shah."
     }
   },
   {
     "translation": {
-      "en": "You plan on using that?",
+      "en": "[Rachel] You plan on using that?",
       "es": "¿Planeas usarla?"
     }
   },
@@ -2815,7 +2827,7 @@
   },
   {
     "translation": {
-      "en": "- - You know I do, Rae.",
+      "en": "-[gun cocks] -You know I do, Rae.",
       "es": "Sabes que sé, Rae."
     }
   },
@@ -2828,7 +2840,7 @@
   {
     "translation": {
       "en": "It's better to have it and not need it than need it and not have it.",
-      "es": "Es mejor tenerla y no necesitarla que al revés."
+      "es": "Es mejor tenerla y no necesitarlaque al revés."
     }
   },
   {
@@ -2840,7 +2852,7 @@
   {
     "translation": {
       "en": "Okay, so all the values you taught me growing up are out the window?",
-      "es": "Bien, ¿tiramos todos los valores que me enseñaste por la ventana?"
+      "es": "Bien, ¿tiramos todos los valoresque me enseñaste por la ventana?"
     }
   },
   {
@@ -2857,13 +2869,13 @@
   },
   {
     "translation": {
-      "en": "- - This is Meeker.",
+      "en": "-[phone unlocks] -This is Meeker.",
       "es": "Habla Meeker."
     }
   },
   {
     "translation": {
-      "en": "There are people that are coming after us.",
+      "en": "[Rachel] There are people that are coming after us.",
       "es": "Nos están persiguiendo."
     }
   },
@@ -2899,7 +2911,7 @@
   },
   {
     "translation": {
-      "en": "- Can you tell me about her? - She…",
+      "en": "-Can you tell me about her? -She…",
       "es": "¿Puedes hablarme de ella? Era…"
     }
   },
@@ -2911,14 +2923,14 @@
   },
   {
     "translation": {
-      "en": "She had, uh… tendinitis and stress fractures.",
+      "en": "[sighs] She had, uh… tendinitis and stress fractures.",
       "es": "Tenía tendinitis y fracturas por estrés."
     }
   },
   {
     "translation": {
       "en": "My dad, I mean, he sparred with guys who could take a punch.",
-      "es": "Mi papá peleó con tipos que aguantaban los golpes."
+      "es": "Mi papá peleócon tipos que aguantaban los golpes."
     }
   },
   {
@@ -3007,20 +3019,20 @@
   },
   {
     "translation": {
-      "en": "I'm looking at a photo that says Rachel and Paloma.",
-      "es": "Estoy viendo una foto que dice: Rachel y Paloma."
+      "en": "I'm looking at a photo that says \"Rachel and Paloma.\"",
+      "es": "Estoy viendo una fotoque dice: \"Rachel y Paloma\"."
     }
   },
   {
     "translation": {
-      "en": "I… wanted a pet.",
+      "en": "I… wanted a pet. [sighs]",
       "es": "Yo quería una mascota."
     }
   },
   {
     "translation": {
       "en": "But we couldn't get one because of my mom's treatments, so…",
-      "es": "Pero no podía tener una por los tratamientos de mi mamá."
+      "es": "Pero no podía tener unapor los tratamientos de mi mamá."
     }
   },
   {
@@ -3043,7 +3055,7 @@
   },
   {
     "translation": {
-      "en": "Even when she couldn't.",
+      "en": "Even when she couldn't. [sighs]",
       "es": "Incluso cuando no podía."
     }
   },
@@ -3061,7 +3073,7 @@
   },
   {
     "translation": {
-      "en": "I don't know what he's gonna do.",
+      "en": "[breathing shakily] I don't know what he's gonna do.",
       "es": "No sé qué va a hacer."
     }
   },
@@ -3085,8 +3097,8 @@
   },
   {
     "translation": {
-      "en": "- You are in control. - Stop saying that.",
-      "es": "- Tú tienes el control. - Deja de decir eso."
+      "en": "-You are in control. -Stop saying that.",
+      "es": "- Tú tienes el control.- Deja de decir eso."
     }
   },
   {
@@ -3103,8 +3115,14 @@
   },
   {
     "translation": {
-      "en": "- Rachel Cooper. - Say it again.",
-      "es": "- Rachel Cooper. - Otra vez."
+      "en": "-Rachel Cooper. -Say it again.",
+      "es": "- Rachel Cooper.- Otra vez."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rachel Cooper. [sighs]",
+      "es": "Rachel Cooper."
     }
   },
   {
@@ -3127,25 +3145,25 @@
   },
   {
     "translation": {
-      "en": "- - I'm coming with you.",
+      "en": "-[clicks switch] -[Rachel] I'm coming with you.",
       "es": "Iré contigo."
     }
   },
   {
     "translation": {
-      "en": "No, you're not.",
+      "en": "[Ray] No, you're not.",
       "es": "Claro que no."
     }
   },
   {
     "translation": {
-      "en": "- I'm not leaving you. - This isn't a debate.",
-      "es": "- No me separaré de ti. - No lo discutiremos."
+      "en": "-[Rachel] I'm not leaving you. -This isn't a debate.",
+      "es": "- No me separaré de ti.- No lo discutiremos."
     }
   },
   {
     "translation": {
-      "en": "- You can't do this without me. - I am not putting you in danger, Rae.",
+      "en": "-You can't do this without me. -I am not putting you in danger, Rae.",
       "es": "No puedes hacer esto sin mí. No te pondré en peligro, Rae."
     }
   },
@@ -3199,7 +3217,7 @@
   },
   {
     "translation": {
-      "en": "You always say I have to fight harder, so…",
+      "en": "[sighs] You always say I have to fight harder, so…",
       "es": "Siempre dices que tengo que luchar más."
     }
   },
@@ -3211,7 +3229,7 @@
   },
   {
     "translation": {
-      "en": "I need you to get outta the car.",
+      "en": "[gently] I need you to get outta the car.",
       "es": "Necesito que salgas del auto."
     }
   },
@@ -3224,13 +3242,13 @@
   {
     "translation": {
       "en": "As long as we're together, we're still a family.",
-      "es": "Mientras estemos juntos, seremos una familia."
+      "es": "Mientras estemos juntos,seremos una familia."
     }
   },
   {
     "translation": {
       "en": "Okay? So if you can't promise me that we'll be together,",
-      "es": "Si no puedes prometerme que estaremos juntos,"
+      "es": "Si no puedes prometermeque estaremos juntos,"
     }
   },
   {
@@ -3241,13 +3259,13 @@
   },
   {
     "translation": {
-      "en": "Not this time.",
+      "en": "[Ray] Not this time.",
       "es": "Esta vez no."
     }
   },
   {
     "translation": {
-      "en": "Put your seat belt on.",
+      "en": "[quietly] Put your seat belt on.",
       "es": "Ponte el cinturón."
     }
   },
@@ -3265,7 +3283,7 @@
   },
   {
     "translation": {
-      "en": "- I'm not. -",
+      "en": "-I'm not. -[tense music playing]",
       "es": "No voy a entrar."
     }
   },
@@ -3277,20 +3295,20 @@
   },
   {
     "translation": {
-      "en": "What's this guy doin'?",
+      "en": "[Ray] What's this guy doin'?",
       "es": "¿Qué hace este?"
     }
   },
   {
     "translation": {
-      "en": "Look.",
+      "en": "[Rachel] Look.",
       "es": "Mira."
     }
   },
   {
     "translation": {
-      "en": "Okay. Keep an eye on your sister. See you at the airport.",
-      "es": "Bien. Cuida a tu hermana. Nos vemos en el aeropuerto."
+      "en": "[Shah] Okay. Keep an eye on your sister. See you at the airport.",
+      "es": "Bien. Cuida a tu hermana.Nos vemos en el aeropuerto."
     }
   },
   {
@@ -3313,7 +3331,7 @@
   },
   {
     "translation": {
-      "en": "What is this?",
+      "en": "[Shah] What is this?",
       "es": "¿Y esto?"
     }
   },
@@ -3337,7 +3355,7 @@
   },
   {
     "translation": {
-      "en": "Come on! Let's go!",
+      "en": "[driver] Come on! Let's go!",
       "es": "¡Vamos!"
     }
   },
@@ -3355,14 +3373,14 @@
   },
   {
     "translation": {
-      "en": "- Finish him. - Go!",
-      "es": "- ¡Encárgate! - ¡Vaya!"
+      "en": "-Finish him. -[bodyguard] Go!",
+      "es": "- ¡Encárgate!- ¡Vaya!"
     }
   },
   {
     "translation": {
-      "en": "Rachel, someone else is here. Stay in the car.",
-      "es": "Rachel, hay alguien más. Quédate en el auto."
+      "en": "[Ray] Rachel, someone else is here. Stay in the car.",
+      "es": "Rachel, hay alguien más.Quédate en el auto."
     }
   },
   {
@@ -3374,42 +3392,42 @@
   {
     "translation": {
       "en": "There's nowhere to go. We can get to anyone.",
-      "es": "No tienes adónde ir. Podemos llegar a cualquiera."
+      "es": "No tienes adónde ir.Podemos llegar a cualquiera."
     }
   },
   {
     "translation": {
       "en": "You killed a reporter to cover up bribes. Who were they paid out to?",
-      "es": "Lo mataron para cubrirse. ¿Para qué eran esos sobornos?"
+      "es": "Lo mataron para cubrirse.¿Para qué eran esos sobornos?"
     }
   },
   {
     "translation": {
       "en": "Soon, some powerful people are gonna be looking for a little girl who lost both her parents.",
-      "es": "Pronto enviarán a buscar a una chica que perdió a ambos padres."
+      "es": "Pronto enviarán a buscara una chica que perdió a ambos padres."
     }
   },
   {
     "translation": {
-      "en": "Daddy!",
+      "en": "[Rachel, echoing] Daddy!",
       "es": "¡Papi!"
     }
   },
   {
     "translation": {
-      "en": "- I know there's others. Who are they? - You don't have what it takes.",
-      "es": "- Sé que hay más. Quiero nombres. - Te faltan agallas."
+      "en": "-I know there's others. Who are they? -You don't have what it takes.",
+      "es": "- Sé que hay más. Quiero nombres.- Te faltan agallas."
     }
   },
   {
     "translation": {
-      "en": "- - Whoa!",
+      "en": "-[gunshot] -[Ray grunts] Whoa!",
       "es": "¡Mierda!"
     }
   },
   {
     "translation": {
-      "en": "Go!",
+      "en": "[Ray] Go!",
       "es": "¡Corre!"
     }
   },
@@ -3421,14 +3439,14 @@
   },
   {
     "translation": {
-      "en": "- - Why can't you just listen?",
+      "en": "-[engine cuts out] -Why can't you just listen?",
       "es": "¿Por qué no me escuchas?"
     }
   },
   {
     "translation": {
       "en": "You should've stayed in the car. You shouldn't have followed me to the subway.",
-      "es": "Debiste quedarte en el auto, no debiste seguirme al metro."
+      "es": "Debiste quedarte en el auto,no debiste seguirme al metro."
     }
   },
   {
@@ -3457,13 +3475,13 @@
   },
   {
     "translation": {
-      "en": "- Hold on. - What are you doing?",
+      "en": "-Hold on. -[Rachel] What are you doing?",
       "es": "Sujétate. ¿Qué vas a hacer?"
     }
   },
   {
     "translation": {
-      "en": "Sit down.",
+      "en": "[Ray, softly] Sit down.",
       "es": "Siéntate."
     }
   },
@@ -3494,7 +3512,7 @@
   {
     "translation": {
       "en": "My contract is to take out anyone who can implicate my employer.",
-      "es": "Mi tarea es eliminar a quien pueda comprometer a mi cliente."
+      "es": "Mi tarea es eliminara quien pueda comprometer a mi cliente."
     }
   },
   {
@@ -3554,7 +3572,7 @@
   {
     "translation": {
       "en": "They slaughtered my entire village. Everyone. Whole family, friends.",
-      "es": "Mataron a todo el mundo. A todos, a mi familia, a mis amigos."
+      "es": "Mataron a todo el mundo.A todos, a mi familia, a mis amigos."
     }
   },
   {
@@ -3578,13 +3596,13 @@
   {
     "translation": {
       "en": "that for years, I hunted them one by one.",
-      "es": "que, durante años, me dediqué a cazarlos uno por uno."
+      "es": "que, durante años,me dediqué a cazarlos uno por uno."
     }
   },
   {
     "translation": {
-      "en": "- Then you understand. - I do.",
-      "es": "- Entonces, me entiendes. - Sí."
+      "en": "-Then you understand. -[hit man] I do.",
+      "es": "- Entonces, me entiendes.- Sí."
     }
   },
   {
@@ -3625,14 +3643,14 @@
   },
   {
     "translation": {
-      "en": "Well, there's three ways this goes down.",
+      "en": "[clicks tongue] Well, there's three ways this goes down.",
       "es": "Hay tres desenlaces posibles."
     }
   },
   {
     "translation": {
       "en": "One, I tell those cops who we are",
-      "es": "Uno: les digo a esos policías quiénes somos"
+      "es": "Uno: les digo a esos policíasquiénes somos"
     }
   },
   {
@@ -3656,7 +3674,7 @@
   {
     "translation": {
       "en": "spend the rest of my life hiding in the four corners of this earth,",
-      "es": "me escondo el resto de mi vida por todo el mundo"
+      "es": "me escondo el resto de mi vidapor todo el mundo"
     }
   },
   {
@@ -3716,7 +3734,7 @@
   {
     "translation": {
       "en": "their deaths are still fresh in your eyes.",
-      "es": "pero tu mirada dice que aún te duelen sus muertes."
+      "es": "pero tu mirada diceque aún te duelen sus muertes."
     }
   },
   {
@@ -3746,7 +3764,7 @@
   {
     "translation": {
       "en": "You knew going after powerful people was a dangerous business.",
-      "es": "Sabías que perseguir gente poderosa era peligroso."
+      "es": "Sabías que perseguir gente poderosaera peligroso."
     }
   },
   {
@@ -3794,13 +3812,13 @@
   {
     "translation": {
       "en": "Does the idea of Rachel Cooper being dragged through all of this bother you at all?",
-      "es": "¿Te molesta la idea de que Rachel Cooper esté pasando por todo esto?"
+      "es": "¿Te molesta la idea de que Rachel Cooperesté pasando por todo esto?"
     }
   },
   {
     "translation": {
       "en": "Every case we work has me worried about my kids one way or another.",
-      "es": "Cada caso hace que me preocupe por mis hijos de una forma u otra."
+      "es": "Cada caso hace que me preocupepor mis hijos de una forma u otra."
     }
   },
   {
@@ -3818,7 +3836,7 @@
   {
     "translation": {
       "en": "how's a kid supposed to get past all that she's seen?",
-      "es": "¿cómo se supone que una niña supere todo lo que vivió?"
+      "es": "¿cómo se supone que una niñasupere todo lo que vivió?"
     }
   },
   {
@@ -3835,20 +3853,20 @@
   },
   {
     "translation": {
-      "en": "- Just do the work-- - Memo came through.",
+      "en": "-Just do the work-- -[agent] Memo came through.",
       "es": "Solo haz tu trabajo. Llegó memo. Hallaron el auto de Cooper."
     }
   },
   {
     "translation": {
-      "en": "- Search crew found Cooper's vehicle. - Where?",
+      "en": "-Search crew found Cooper's vehicle. -Where?",
       "es": "Llegó memo. Hallaron el auto de Cooper. ¿Dónde?"
     }
   },
   {
     "translation": {
-      "en": "In the woods, 20 miles outside Shah's compound.",
-      "es": "En el bosque, a 32 km del complejo de Shah."
+      "en": "[agent] In the woods, 20 miles outside Shah's compound.",
+      "es": "En el bosque,a 32 km del complejo de Shah."
     }
   },
   {
@@ -3871,14 +3889,14 @@
   },
   {
     "translation": {
-      "en": "- I'm on it. - Thank you.",
-      "es": "- Enseguida. - Gracias."
+      "en": "-[agent] I'm on it. -Thank you.",
+      "es": "- Enseguida.- Gracias."
     }
   },
   {
     "translation": {
       "en": "Okay. Fort Pitt Tunnel. Only 12 minutes away.",
-      "es": "Bien. El túnel Fort Pitt está a 12 minutos."
+      "es": "Bien. El túnel Fort Pittestá a 12 minutos."
     }
   },
   {
@@ -3890,12 +3908,12 @@
   {
     "translation": {
       "en": "Hey, guys. We got a hit on that tow truck. It's headed back to the city.",
-      "es": "Hay pistas de la grúa. Se dirige a la ciudad."
+      "es": "Hay pistas de la grúa.Se dirige a la ciudad."
     }
   },
   {
     "translation": {
-      "en": "Suspect is in a red tow truck. 10- 80.",
+      "en": "[dispatcher 1, on radio] Suspect is in a red tow truck. 10-80.",
       "es": "Seguimos a una grúa roja, 10-80."
     }
   },
@@ -3913,20 +3931,20 @@
   },
   {
     "translation": {
-      "en": "We may have something here. Westbound on Liberty passing 16th.",
-      "es": "Creo que la tenemos. Va al oeste, por las calles Liberty y 16."
+      "en": "[officer 1] We may have something here. Westbound on Liberty passing 16th.",
+      "es": "Creo que la tenemos.Va al oeste, por las calles Liberty y 16."
     }
   },
   {
     "translation": {
-      "en": "The chopper! It's on us.",
+      "en": "[Rachel] The chopper! It's on us.",
       "es": "¡El helicóptero nos sigue!"
     }
   },
   {
     "translation": {
-      "en": "We've got eyes on the suspect. Making a right turn on 9th.",
-      "es": "Tenemos visual de la grúa. Giró a la derecha en la 9."
+      "en": "[officer 1] We've got eyes on the suspect. Making a right turn on 9th.",
+      "es": "Tenemos visual de la grúa.Giró a la derecha en la 9."
     }
   },
   {
@@ -3943,31 +3961,31 @@
   },
   {
     "translation": {
-      "en": "Oh shit!",
+      "en": "[Rachel] Oh shit!",
       "es": "¡Mierda!"
     }
   },
   {
     "translation": {
-      "en": "Police! Stop the vehicle now!",
+      "en": "[officer 2, over speaker] Police! Stop the vehicle now!",
       "es": "¡Habla la policía! ¡Detenga el vehículo!"
     }
   },
   {
     "translation": {
-      "en": "- Where's the chopper? - It's on your right. On your right.",
-      "es": "- ¿Y el helicóptero? - A la derecha."
+      "en": "-Where's the chopper? -It's on your right. On your right.",
+      "es": "- ¿Y el helicóptero?- A la derecha."
     }
   },
   {
     "translation": {
-      "en": "Pull over.",
+      "en": "[officer 2] Pull over.",
       "es": "¡Deténgase!"
     }
   },
   {
     "translation": {
-      "en": "- Get outta the way! -",
+      "en": "-Get outta the way! -[people scream]",
       "es": "¡Apártense!"
     }
   },
@@ -3979,14 +3997,14 @@
   },
   {
     "translation": {
-      "en": "- God damn it! Hold on. Hang on! -",
+      "en": "-God damn it! Hold on. Hang on! -[Rachel screams]",
       "es": "¡Maldita sea! ¡Agárrate bien!"
     }
   },
   {
     "translation": {
-      "en": "All units, suspect is armed and dangerous.",
-      "es": "Unidades, la persona está armada y es peligrosa."
+      "en": "[dispatcher 1, on radio] All units, suspect is armed and dangerous.",
+      "es": "Unidades, la personaestá armada y es peligrosa."
     }
   },
   {
@@ -3997,50 +4015,50 @@
   },
   {
     "translation": {
-      "en": "The game's letting out.",
+      "en": "[Ray] The game's letting out.",
       "es": "El juego llega a su fin."
     }
   },
   {
     "translation": {
-      "en": "Oh shit!",
+      "en": "[quietly] Oh shit!",
       "es": "Mierda."
     }
   },
   {
     "translation": {
-      "en": "- Got eyes on the suspect. - On the move!",
+      "en": "-[dispatcher 2] Got eyes on the suspect. -[officer 3] On the move!",
       "es": "Objetivo a la vista, se está moviendo."
     }
   },
   {
     "translation": {
-      "en": "Suspect on foot. I repeat, suspect on foot.",
-      "es": "La persona sigue a pie. Repito, sigue a pie."
+      "en": "[officer 4, on radio] Suspect on foot. I repeat, suspect on foot.",
+      "es": "La persona sigue a pie.Repito, sigue a pie."
     }
   },
   {
     "translation": {
-      "en": "Suspect is entering PNC Park.",
+      "en": "[dispatcher 2] Suspect is entering PNC Park.",
       "es": "Está entrando en el parque PNC."
     }
   },
   {
     "translation": {
-      "en": "- Everybody clear. FBI! - Move! Out of the way!",
-      "es": "- Apártense. ¡FBI! - ¡Muévanse! ¡A un lado!"
+      "en": "-[Meeker] Everybody clear. FBI! -[Rothman] Move! Out of the way!",
+      "es": "- Apártense. ¡FBI!- ¡Muévanse! ¡A un lado!"
     }
   },
   {
     "translation": {
-      "en": "If he's down here, we squeeze him out. I'll take the upper level.",
-      "es": "Si está aquí, no se escapará. Iré al nivel superior."
+      "en": "[Meeker] If he's down here, we squeeze him out. I'll take the upper level.",
+      "es": "Si está aquí, no se escapará.Iré al nivel superior."
     }
   },
   {
     "translation": {
       "en": "PPD, cover this level. The rest, go upstairs.",
-      "es": "Oficiales, cubran este nivel. Nosotros subiremos."
+      "es": "Oficiales, cubran este nivel.Nosotros subiremos."
     }
   },
   {
@@ -4057,19 +4075,19 @@
   },
   {
     "translation": {
-      "en": "Move!",
+      "en": "[Rothman] Move!",
       "es": "¡Vamos!"
     }
   },
   {
     "translation": {
-      "en": "- I got eyes on. - Copy.",
-      "es": "- Objetivo a la vista. - ¡Copiado!"
+      "en": "-[officer 7] I got eyes on. -[Rothman] Copy.",
+      "es": "- Objetivo a la vista.- ¡Copiado!"
     }
   },
   {
     "translation": {
-      "en": "Wait!",
+      "en": "[Meeker] Wait!",
       "es": "¡Espera!"
     }
   },
@@ -4081,14 +4099,14 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "Okay. [gasps]",
       "es": "Bien."
     }
   },
   {
     "translation": {
       "en": "It wasn't right what happened to you. I understand that.",
-      "es": "No estuvo bien lo que te pasó. Te entiendo."
+      "es": "No estuvo bien lo que te pasó.Te entiendo."
     }
   },
   {
@@ -4111,7 +4129,7 @@
   },
   {
     "translation": {
-      "en": "- - I don't know you.",
+      "en": "-[somber music playing] -I don't know you.",
       "es": "No te conozco."
     }
   },
@@ -4136,7 +4154,7 @@
   {
     "translation": {
       "en": "You told me your stuffed bunny's name was Paloma.",
-      "es": "Me dijiste que tu peluche se llamaba Paloma."
+      "es": "Me dijiste que tu peluchese llamaba Paloma."
     }
   },
   {
@@ -4153,31 +4171,31 @@
   },
   {
     "translation": {
-      "en": "Your father was a good man.",
+      "en": "[Meeker] Your father was a good man.",
       "es": "Tu padre era un buen hombre."
     }
   },
   {
     "translation": {
-      "en": "You are not him.",
+      "en": "[Meeker] You are not him.",
       "es": "Tú no eres él."
     }
   },
   {
     "translation": {
-      "en": "- Say your name. -",
+      "en": "-[Meeker] Say your name. -[Rachel gasps]",
       "es": "Di tu nombre."
     }
   },
   {
     "translation": {
-      "en": "You are in control.",
+      "en": "[Meeker] You are in control.",
       "es": "Tú tienes el control."
     }
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[sighs] Fuck.",
       "es": "Mierda."
     }
   },
@@ -4189,14 +4207,26 @@
   },
   {
     "translation": {
+      "en": "[hit man] Rachel.",
+      "es": "Rachel."
+    }
+  },
+  {
+    "translation": {
       "en": "I'll see ya soon.",
       "es": "Nos vemos pronto."
     }
   },
   {
     "translation": {
-      "en": "Say your name.",
+      "en": "[echoing] Say your name.",
       "es": "Di tu nombre."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ray, echoing] Rachel.",
+      "es": "Rachel."
     }
   },
   {
@@ -4207,7 +4237,7 @@
   },
   {
     "translation": {
-      "en": "He shouldn't have been killed.",
+      "en": "[Meeker] He shouldn't have been killed.",
       "es": "No debería haber muerto."
     }
   },
@@ -4219,7 +4249,7 @@
   },
   {
     "translation": {
-      "en": "Just say your name!",
+      "en": "[Meeker] Just say your name!",
       "es": "Di tu nombre."
     }
   },
@@ -4231,8 +4261,8 @@
   },
   {
     "translation": {
-      "en": "We have a positive identification of the suspect. Her name is Rachel Cooper.",
-      "es": "Identificamos a la persona. Se llama Rachel Cooper."
+      "en": "[dispatcher 2] We have a positive identification of the suspect. Her name is Rachel Cooper.",
+      "es": "Identificamos a la persona.Se llama Rachel Cooper."
     }
   },
   {
@@ -4243,7 +4273,7 @@
   },
   {
     "translation": {
-      "en": "Her name is Rachel Cooper.",
+      "en": "[Meeker] Her name is Rachel Cooper.",
       "es": "Se llama Rachel Cooper,"
     }
   },
@@ -4255,37 +4285,37 @@
   },
   {
     "translation": {
-      "en": "Any family to contact?",
+      "en": "[paramedic] Any family to contact?",
       "es": "¿Familiares?"
     }
   },
   {
     "translation": {
-      "en": "Both parents deceased.",
+      "en": "[Meeker] Both parents deceased.",
       "es": "Ambos padres fallecieron."
     }
   },
   {
     "translation": {
-      "en": "- - Okay, calm down!",
+      "en": "-[grunts] -Okay, calm down!",
       "es": "¡Quieta!"
     }
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "[driver] No!",
       "es": "¡No!"
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[Rachel grunts] -[tires squeal]",
       "es": "¡No!"
     }
   },
   {
     "translation": {
-      "en": "Rachel, stop!",
+      "en": "[Meeker] Rachel, stop!",
       "es": "¡Rachel, basta!"
     }
   },
@@ -4304,7 +4334,7 @@
   {
     "translation": {
       "en": "I feel like the whole world's gone crazy.",
-      "es": "Es como si el mundo entero se hubiera puesto de cabeza."
+      "es": "Es como si el mundo enterose hubiera puesto de cabeza."
     }
   },
   {
@@ -4339,20 +4369,20 @@
   },
   {
     "translation": {
-      "en": "We're with you now.",
+      "en": "[softly] We're with you now.",
       "es": "Siempre estamos contigo."
     }
   },
   {
     "translation": {
-      "en": "The fight begins here.",
+      "en": "[Morgan] The fight begins here.",
       "es": "La pelea comienza ahora."
     }
   },
   {
     "translation": {
       "en": "Big business and corporate interests",
-      "es": "Las grandes empresas y los grupos corporativos"
+      "es": "Las grandes empresasy los grupos corporativos"
     }
   },
   {
@@ -4363,32 +4393,32 @@
   },
   {
     "translation": {
-      "en": "And I believe that our country is on the verge of imploding.",
-      "es": "Yo creo que nuestro país está a punto de explotar."
+      "en": "[Morgan] And I believe that our country is on the verge of imploding.",
+      "es": "Yo creo que nuestro paísestá a punto de explotar."
     }
   },
   {
     "translation": {
       "en": "Of rotting. Rotting from the inside out.",
-      "es": "De pudrirse, se pudre de adentro hacia afuera."
+      "es": "De pudrirse,se pudre de adentro hacia afuera."
     }
   },
   {
     "translation": {
-      "en": "We need someone who will clean…",
+      "en": "[Morgan] We need someone who will clean…",
       "es": "Necesitamos a alguien que limpie…"
     }
   },
   {
     "translation": {
-      "en": "…out the rot!",
-      "es": "Necesitamos a alguien que limpie… - ¡Lo podrido! - …lo podrido."
+      "en": "[Morgan and crowd] …out the rot!",
+      "es": "Necesitamos a alguien que limpie… - ¡Lo podrido!- …lo podrido."
     }
   },
   {
     "translation": {
-      "en": "- Clean out the rot! -",
-      "es": "- ¡Lo podrido! - …lo podrido."
+      "en": "-Clean out the rot! -[crowd cheers]",
+      "es": "- ¡Lo podrido!- …lo podrido."
     }
   },
   {
@@ -4400,12 +4430,12 @@
   {
     "translation": {
       "en": "to be your next senator from the great state of Pennsylvania.",
-      "es": "para senadora del gran estado de Pensilvania."
+      "es": "para senadoradel gran estado de Pensilvania."
     }
   },
   {
     "translation": {
-      "en": "That's right.",
+      "en": "[chuckles] That's right.",
       "es": "Así es."
     }
   },
@@ -4424,12 +4454,12 @@
   {
     "translation": {
       "en": "This is our state, and it is not for sale!",
-      "es": "¡este es nuestro estado y no está a la venta!"
+      "es": "¡este es nuestro estadoy no está a la venta!"
     }
   },
   {
     "translation": {
-      "en": "Well done.",
+      "en": "[staffer] Well done.",
       "es": "Buen trabajo."
     }
   },
@@ -4442,18 +4472,18 @@
   {
     "translation": {
       "en": "Let's focus on what we wanna do when we win.",
-      "es": "Concentrémonos en lo que haremos cuando ganemos."
+      "es": "Concentrémonosen lo que haremos cuando ganemos."
     }
   },
   {
     "translation": {
-      "en": "- - Where'd you get this?",
+      "en": "-[sighs] -[Ray] Where'd you get this?",
       "es": "¿De dónde la sacaste?"
     }
   },
   {
     "translation": {
-      "en": "- It's Mom's. -",
+      "en": "-It's Mom's. -[Ray chuckles]",
       "es": "Es de mamá."
     }
   },
@@ -4466,7 +4496,7 @@
   {
     "translation": {
       "en": "I took your mom to a Steelers game shortly after we met,",
-      "es": "Una vez llevé a tu mamá a un juego de los Steelers."
+      "es": "Una vez llevé a tu mamáa un juego de los Steelers."
     }
   },
   {
@@ -4489,13 +4519,13 @@
   },
   {
     "translation": {
-      "en": "It's my turn to steal it from her.",
+      "en": "[Rachel] It's my turn to steal it from her.",
       "es": "Se la robo a ella."
     }
   },
   {
     "translation": {
-      "en": "Come on, baby.",
+      "en": "[Ray] Come on, baby.",
       "es": "Vamos, hija."
     }
   },
@@ -4507,13 +4537,13 @@
   },
   {
     "translation": {
-      "en": "Get up, sweet girl.",
+      "en": "[Ray, emphatically] Get up, sweet girl.",
       "es": "Levántate, nena."
     }
   },
   {
     "translation": {
-      "en": "Calling the FBI.",
+      "en": "[Rachel] Calling the FBI.",
       "es": "Llamaré al FBI."
     }
   },
@@ -4526,7 +4556,7 @@
   {
     "translation": {
       "en": "you're gonna tell them everything you did with BioPrime.",
-      "es": "les dirás todo lo que hiciste con BioPrime."
+      "es": "les dirástodo lo que hiciste con BioPrime."
     }
   },
   {
@@ -4561,7 +4591,7 @@
   },
   {
     "translation": {
-      "en": "You bring the FBI here, and…",
+      "en": "[Morgan] You bring the FBI here, and…",
       "es": "Si viene el FBI,"
     }
   },
@@ -4573,14 +4603,14 @@
   },
   {
     "translation": {
-      "en": "- The crazy girl who killed five men? - No.",
-      "es": "¿A la loca que mató a cinco hombres… o a mí?"
+      "en": "-The crazy girl who killed five men? -No.",
+      "es": "¿A la loca que matóa cinco hombres… o a mí?"
     }
   },
   {
     "translation": {
-      "en": "- Or me? - No. We never meant to hurt anyone.",
-      "es": "¿A la loca que mató a cinco hombres… o a mí? No. Nunca quisimos lastimar a nadie."
+      "en": "-[Morgan] Or me? -No. We never meant to hurt anyone.",
+      "es": "¿A la loca que matóa cinco hombres… o a mí? No. Nunca quisimos lastimar a nadie."
     }
   },
   {
@@ -4592,25 +4622,25 @@
   {
     "translation": {
       "en": "I think I'm the only one who can.",
-      "es": "Solo yo puedo ayudarte a terminar esta pesadilla."
+      "es": "Solo yo puedo ayudartea terminar esta pesadilla."
     }
   },
   {
     "translation": {
-      "en": "- I can make this nightmare end. - Shut up!",
-      "es": "Solo yo puedo ayudarte a terminar esta pesadilla. Cállate."
+      "en": "-I can make this nightmare end. -Shut up!",
+      "es": "Solo yo puedo ayudartea terminar esta pesadilla. Cállate."
     }
   },
   {
     "translation": {
-      "en": "- You're the one behind BioPrime. - I wrestled them into submission.",
-      "es": "- Tú estás detrás de BioPrime. - Luché para doblegarlos."
+      "en": "-You're the one behind BioPrime. -I wrestled them into submission.",
+      "es": "- Tú estás detrás de BioPrime.- Luché para doblegarlos."
     }
   },
   {
     "translation": {
       "en": "I got them to lower their prices. Affordable treatment.",
-      "es": "Hice que bajaran los precios y ofrecieran tratamientos asequibles."
+      "es": "Hice que bajaran los preciosy ofrecieran tratamientos asequibles."
     }
   },
   {
@@ -4628,7 +4658,7 @@
   {
     "translation": {
       "en": "When I saw you on CNN when my mom was in the hospital,",
-      "es": "Te vi en CNN cuando mi mamá estaba en el hospital."
+      "es": "Te vi en CNNcuando mi mamá estaba en el hospital."
     }
   },
   {
@@ -4645,14 +4675,14 @@
   },
   {
     "translation": {
-      "en": "- You still can. - How?",
-      "es": "- Puedes creer en mí. - ¿Cómo?"
+      "en": "-[shakily] You still can. -How?",
+      "es": "- Puedes creer en mí.- ¿Cómo?"
     }
   },
   {
     "translation": {
-      "en": "I know people at the DOJ.",
-      "es": "Tengo contactos en el Departamento de Justicia."
+      "en": "[inhales sharply] I know people at the DOJ.",
+      "es": "Tengo contactosen el Departamento de Justicia."
     }
   },
   {
@@ -4670,7 +4700,7 @@
   {
     "translation": {
       "en": "What you've been through, what happened to you, was wrong, Rachel.",
-      "es": "Lo que viviste y lo que te pasó estuvo mal, Rachel."
+      "es": "Lo que viviste y lo que te pasóestuvo mal, Rachel."
     }
   },
   {
@@ -4682,12 +4712,12 @@
   {
     "translation": {
       "en": "Don't you think they'd want me to help you, sweetheart?",
-      "es": "¿No crees que tus padres querrían que te ayudara, lindura?"
+      "es": "¿No crees que tus padresquerrían que te ayudara, lindura?"
     }
   },
   {
     "translation": {
-      "en": "- - Stop calling me that. You're a liar.",
+      "en": "-[gasps] -Stop calling me that. You're a liar.",
       "es": "No me llames así. Eres una mentirosa."
     }
   },
@@ -4706,19 +4736,19 @@
   {
     "translation": {
       "en": "a cheap and lifesaving medication for my mom.",
-      "es": "un medicamento barato y valioso para mi mamá."
+      "es": "un medicamento barato y valiosopara mi mamá."
     }
   },
   {
     "translation": {
-      "en": "I fought against them!",
+      "en": "I fought against them! [panting]",
       "es": "¡Luché contra ellos!"
     }
   },
   {
     "translation": {
       "en": "You took their bribe, and you gave them exclusive contracts.",
-      "es": "Aceptaste sus sobornos y les diste contratos exclusivos."
+      "es": "Aceptaste sus sobornosy les diste contratos exclusivos."
     }
   },
   {
@@ -4735,13 +4765,13 @@
   },
   {
     "translation": {
-      "en": "Now tell the truth.",
+      "en": "[softly] Now tell the truth.",
       "es": "Di la verdad."
     }
   },
   {
     "translation": {
-      "en": "- - Tell me the truth.",
+      "en": "-[Morgan gasps] -[firmly] Tell me the truth.",
       "es": "Dime la verdad."
     }
   },
@@ -4801,67 +4831,67 @@
   },
   {
     "translation": {
-      "en": "Security!",
+      "en": "[yelling] Security!",
       "es": "¡Seguridad!"
     }
   },
   {
     "translation": {
       "en": "She kills Keeley and runs. Tries to escape, but something or someone",
-      "es": "Ella mata a Keeley y huye. Intenta escapar. Pero vuelve por algo o alguien, pese a los riesgos."
+      "es": "Ella mata a Keeley y huye.Intenta escapar. Pero vuelve por algo o alguien,pese a los riesgos."
     }
   },
   {
     "translation": {
       "en": "drove her back here, despite knowing she might be caught.",
-      "es": "Pero vuelve por algo o alguien, pese a los riesgos."
+      "es": "Pero vuelve por algo o alguien,pese a los riesgos."
     }
   },
   {
     "translation": {
-      "en": "Yeah, but she got her revenge. Why come back?",
+      "en": "[Rothman] Yeah, but she got her revenge. Why come back?",
       "es": "Ya se vengó. ¿Por qué regresa?"
     }
   },
   {
     "translation": {
-      "en": "- Just came in. - Thank you, sir.",
-      "es": "- Acaba de llegar. - Gracias."
+      "en": "-[agent] Just came in. -Thank you, sir.",
+      "es": "- Acaba de llegar.- Gracias."
     }
   },
   {
     "translation": {
-      "en": "- Holy shit. - What?",
-      "es": "- Santo cielo. - ¿Qué?"
+      "en": "-Holy shit. -[Meeker] What?",
+      "es": "- Santo cielo.- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "Rachel Cooper was spotted",
-      "es": "Vieron a Rachel Cooper en el acto de Diana Morgan"
+      "en": "[Rothman] Rachel Cooper was spotted",
+      "es": "Vieron a Rachel Cooperen el acto de Diana Morgan"
     }
   },
   {
     "translation": {
       "en": "at Diana Morgan's campaign rally yesterday afternoon.",
-      "es": "Vieron a Rachel Cooper en el acto de Diana Morgan ayer a la tarde."
+      "es": "Vieron a Rachel Cooperen el acto de Diana Morgan ayer a la tarde."
     }
   },
   {
     "translation": {
-      "en": "What was she doing there?",
+      "en": "[Meeker] What was she doing there?",
       "es": "¿Qué hacía ahí?"
     }
   },
   {
     "translation": {
-      "en": "The fugitive from last night's assassination attempt…",
-      "es": "La persona que intentó asesinar a Diana Morgan…"
+      "en": "[reporter on TV] The fugitive from last night's assassination attempt…",
+      "es": "La persona que intentó asesinara Diana Morgan…"
     }
   },
   {
     "translation": {
-      "en": "Thanks.",
+      "en": "[Rachel] Thanks.",
       "es": "Gracias."
     }
   },
@@ -4874,12 +4904,12 @@
   {
     "translation": {
       "en": "Pittsburgh police are asking anyone with information to please come forward.",
-      "es": "La policía pide a la gente que se comunique si tiene información."
+      "es": "La policía pide a la genteque se comunique si tiene información."
     }
   },
   {
     "translation": {
-      "en": "First Keeley, then Shah, now a congresswoman?",
+      "en": "[Rothman] First Keeley, then Shah, now a congresswoman?",
       "es": "Keeley, Shah, ¿y ahora una congresista?"
     }
   },
@@ -4891,25 +4921,25 @@
   },
   {
     "translation": {
-      "en": "Rachel clearly knows something.",
+      "en": "[Meeker] Rachel clearly knows something.",
       "es": "Es obvio que Rachel sabe algo."
     }
   },
   {
     "translation": {
       "en": "Let's go through Diana Morgan's campaign donations.",
-      "es": "Revisemos las donaciones para la campaña de Morgan."
+      "es": "Revisemos las donacionespara la campaña de Morgan."
     }
   },
   {
     "translation": {
-      "en": "Look at this. Rachel Cooper just sent us something.",
+      "en": "[Meeker] Look at this. Rachel Cooper just sent us something.",
       "es": "Mira, Rachel Cooper nos envió algo."
     }
   },
   {
     "translation": {
-      "en": "I took the bribe. I ordered the hit.",
+      "en": "[Morgan on recording] I took the bribe. I ordered the hit.",
       "es": "Acepté el soborno. Ordené liquidarlo."
     }
   },
@@ -4927,14 +4957,14 @@
   },
   {
     "translation": {
-      "en": "…developments in the assassination attempt.",
-      "es": "…datos sobre el intento de asesinato de Diana Morgan."
+      "en": "[reporter on TV] …developments in the assassination attempt.",
+      "es": "…datos sobre el intento de asesinatode Diana Morgan."
     }
   },
   {
     "translation": {
       "en": "According to sources, the FBI has arrested the congresswoman",
-      "es": "Según las fuentes, el FBI arrestó a la congresista"
+      "es": "Según las fuentes,el FBI arrestó a la congresista"
     }
   },
   {
@@ -4946,42 +4976,42 @@
   {
     "translation": {
       "en": "to the recent murders of BioPrime executives",
-      "es": "por estar conectada con los asesinatos de los ejecutivos Keeley y Shah, de BioPrime,"
+      "es": "por estar conectada con los asesinatos de los ejecutivos Keeley y Shah,de BioPrime,"
     }
   },
   {
     "translation": {
       "en": "Simon Keeley and Vinod Shah",
-      "es": "de los ejecutivos Keeley y Shah, de BioPrime,"
+      "es": "de los ejecutivos Keeley y Shah,de BioPrime,"
     }
   },
   {
     "translation": {
-      "en": "and the two- year- old unsolved murders of Martin Bennett and Ray Cooper.",
-      "es": "y de Martin Bennett y Ray Cooper, que llevan dos años sin resolver."
+      "en": "and the two-year-old unsolved murders of Martin Bennett and Ray Cooper.",
+      "es": "y de Martin Bennett y Ray Cooper,que llevan dos años sin resolver."
     }
   },
   {
     "translation": {
       "en": "Neither BioPrime or the FBI would comment on this ongoing investigation.",
-      "es": "Ni BioPrime ni el FBI hicieron comentarios sobre la investigación en curso."
+      "es": "Ni BioPrime ni el FBI hicieron comentariossobre la investigación en curso."
     }
   },
   {
     "translation": {
       "en": "…Pennsylvania is allegedly connected to the deaths of reporter Martin Bennett",
-      "es": "…de Pensilvania está relacionada con la muerte del reportero Martin Bennett"
+      "es": "…de Pensilvania está relacionadacon la muerte del reportero Martin Bennett"
     }
   },
   {
     "translation": {
       "en": "and Rachel Cooper's father nearly two years ago.",
-      "es": "y el padre de Rachel Cooper, hace casi dos años."
+      "es": "y el padre de Rachel Cooper,hace casi dos años."
     }
   },
   {
     "translation": {
-      "en": "The past is like a dream.",
+      "en": "[Ray] The past is like a dream.",
       "es": "El pasado es como un sueño."
     }
   },
@@ -5017,7 +5047,7 @@
   },
   {
     "translation": {
-      "en": "…and they begin?",
+      "en": "[Rachel] …and they begin?",
       "es": "…y empiezan ellos?"
     }
   }

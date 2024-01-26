@@ -1,26 +1,26 @@
 [
   {
     "translation": {
-      "en": "- Keep the pack together! -",
-      "ja": "上流階級によって 牛耳られていた"
+      "en": "-[player 1] Keep the pack together! -[players yelling]",
+      "ja": "上流階級によって牛耳られていた"
     }
   },
   {
     "translation": {
-      "en": "Well played, Arthur.",
+      "en": "[player 3] Well played, Arthur.",
       "ja": "よくやった"
     }
   },
   {
     "translation": {
-      "en": "- Here he comes! - Are you sure it's him?",
+      "en": "-[boy 1] Here he comes! -[boy 2] Are you sure it's him?",
       "ja": "着いた！ 彼か？"
     }
   },
   {
     "translation": {
-      "en": "Mr. Kinnaird, will the Old Etonians",
-      "ja": "ロンドン メイフェア ロンドン メイフェア 今年の優勝はどうです？"
+      "en": "[reporter] Mr. Kinnaird, will the Old Etonians",
+      "ja": "ロンドン メイフェア ロンドン メイフェア今年の優勝はどうです？"
     }
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "translation": {
-      "en": "Can we have an autograph?",
+      "en": "[boy 1] Can we have an autograph?",
       "ja": "サインを下さい"
     }
   },
   {
     "translation": {
-      "en": "What of your quarter- final opponents, Darwen FC?",
-      "ja": "準々決勝の相手は ダーウェンですが"
+      "en": "What of your quarter-final opponents, Darwen FC?",
+      "ja": "準々決勝の相手はダーウェンですが"
     }
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, no, no, no! Not at all, sir! - Never!",
+      "en": "-Oh, no, no, no! Not at all, sir! -[boy 1] Never!",
       "ja": "いいえ　負けるわけない"
     }
   },
@@ -67,31 +67,31 @@
   },
   {
     "translation": {
-      "en": "Fergus Suter, you and I are gonna make history.",
-      "ja": "ファーガス･スーター 新たな歴史を作ろう"
+      "en": "[man] Fergus Suter, you and I are gonna make history.",
+      "ja": "ファーガス･スーター新たな歴史を作ろう"
     }
   },
   {
     "translation": {
-      "en": "Darwen. This is Darwen.",
-      "ja": "ランカシャー ダーウェン"
+      "en": "[station attendant] Darwen. This is Darwen.",
+      "ja": "ランカシャーダーウェン"
     }
   },
   {
     "translation": {
-      "en": "- - Come on. Let's go.",
+      "en": "-[train whistle blows] -Come on. Let's go.",
       "ja": "さあ　行くぞ"
     }
   },
   {
     "translation": {
-      "en": "I've seen how you play in Scotland. Your passing game is the future of football.",
-      "ja": "お前らスコットランド人が サッカーの未来を変える"
+      "en": "[man] I've seen how you play in Scotland. Your passing game is the future of football.",
+      "ja": "お前らスコットランド人がサッカーの未来を変える"
     }
   },
   {
     "translation": {
-      "en": "Let's talk in my office.",
+      "en": "[man] Let's talk in my office.",
       "ja": "事務所で話そう"
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "- How you both feeling? - Ready to get started.",
+      "en": "-How you both feeling? -Ready to get started.",
       "ja": "気分は？ やる気満々だ"
     }
   },
@@ -133,7 +133,7 @@
   },
   {
     "translation": {
-      "en": "Not from round here, that's for sure.",
+      "en": "[man 1] Not from round here, that's for sure.",
       "ja": "さあな　きっとよそ者だろう"
     }
   },
@@ -145,13 +145,13 @@
   },
   {
     "translation": {
-      "en": "Why has Walsh gone and brought them here?",
+      "en": "[man 2] Why has Walsh gone and brought them here?",
       "ja": "なら 何しに来た？"
     }
   },
   {
     "translation": {
-      "en": "Got our new jerseys, lads.",
+      "en": "[man 3] Got our new jerseys, lads.",
       "ja": "新しい運動着だ"
     }
   },
@@ -163,8 +163,8 @@
   },
   {
     "translation": {
-      "en": "And youse, captain. - There you go. - Ready for the big game Saturday?",
-      "ja": "主将 土曜日の試合が楽しみだ"
+      "en": "[man 3] And youse, captain. -There you go. -[man 4] Ready for the big game Saturday?",
+      "ja": "主将土曜日の試合が楽しみだ"
     }
   },
   {
@@ -176,7 +176,7 @@
   {
     "translation": {
       "en": "That's all there was, Mr. Walsh. I've only done 11.",
-      "ja": "もうありませんよ ウォルシュさん"
+      "ja": "もうありませんよウォルシュさん"
     }
   },
   {
@@ -211,25 +211,25 @@
   },
   {
     "translation": {
-      "en": "Mr. Walsh, with respect, sir, Jones and Harris helped us get to the quarter- finals.",
-      "ja": "ジョーンズたちのおかげで 準々決勝まで進めました"
+      "en": "Mr. Walsh, with respect, sir, Jones and Harris helped us get to the quarter-finals.",
+      "ja": "ジョーンズたちのおかげで準々決勝まで進めました"
     }
   },
   {
     "translation": {
       "en": "And these two are going to help us win the damn thing. Now, this is my mill. My team.",
-      "ja": "新人たちのおかげで 決勝戦でも勝てるぞ"
+      "ja": "新人たちのおかげで決勝戦でも勝てるぞ"
     }
   },
   {
     "translation": {
-      "en": "Now, give 'em the jerseys.",
+      "en": "[Walsh] Now, give 'em the jerseys.",
       "ja": "早く渡せ"
     }
   },
   {
     "translation": {
-      "en": "Good lads.",
+      "en": "[Walsh] Good lads.",
       "ja": "ありがとう"
     }
   },
@@ -247,8 +247,8 @@
   },
   {
     "translation": {
-      "en": "Mr. Walsh was most particular. Which of you is Mr. Suter?",
-      "ja": "ところで どちらがスーターさん？"
+      "en": "[woman] Mr. Walsh was most particular. Which of you is Mr. Suter?",
+      "ja": "ところでどちらがスーターさん？"
     }
   },
   {
@@ -289,13 +289,13 @@
   },
   {
     "translation": {
-      "en": "- Jimmy, for the love of God, no. - What?",
+      "en": "-Jimmy, for the love of God, no. -What?",
       "ja": "ジミー　口説くなよ"
     }
   },
   {
     "translation": {
-      "en": "Keep your mind on the game.",
+      "en": "[Fergus] Keep your mind on the game.",
       "ja": "試合に集中しろ"
     }
   },
@@ -319,8 +319,8 @@
   },
   {
     "translation": {
-      "en": "We're playing a mill team in the quarter- finals this Saturday, Papa.",
-      "ja": "父上　対戦相手は 織物工場のチームです"
+      "en": "We're playing a mill team in the quarter-finals this Saturday, Papa.",
+      "ja": "父上　対戦相手は織物工場のチームです"
     }
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "translation": {
-      "en": "The quarter- finals?",
+      "en": "The quarter-finals?",
       "ja": "準々決勝に？"
     }
   },
@@ -343,14 +343,14 @@
   },
   {
     "translation": {
-      "en": "No, not usually.",
+      "en": "[Arthur] No, not usually.",
       "ja": "ええ　確かに"
     }
   },
   {
     "translation": {
-      "en": "Will you go on with this once your child arrives?",
-      "ja": "子供が生まれても 続ける気か？"
+      "en": "[Lord Kinnaird] Will you go on with this once your child arrives?",
+      "ja": "子供が生まれても続ける気か？"
     }
   },
   {
@@ -373,7 +373,7 @@
   },
   {
     "translation": {
-      "en": "- I'm not against it-- - But you are against football?",
+      "en": "-I'm not against it-- -But you are against football?",
       "ja": "抵抗はないが… サッカーには？"
     }
   },
@@ -391,7 +391,7 @@
   },
   {
     "translation": {
-      "en": "All aboard!",
+      "en": "[station attendant] All aboard!",
       "ja": "乗客の皆さん"
     }
   },
@@ -404,7 +404,7 @@
   {
     "translation": {
       "en": "Train's about to depart!",
-      "ja": "ＦＡカップ 準々決勝の日 ＦＡカップ 準々決勝の日 出発しますよ"
+      "ja": "ＦＡカップ準々決勝の日 ＦＡカップ準々決勝の日出発しますよ"
     }
   },
   {
@@ -415,20 +415,20 @@
   },
   {
     "translation": {
-      "en": "Only gentlemen have lifted the Cup.",
+      "en": "[Walsh] Only gentlemen have lifted the Cup.",
       "ja": "これまで優勝したのは"
     }
   },
   {
     "translation": {
       "en": "Men from fine schools, with fine clothes, fine lives.",
-      "ja": "いい学校を卒業した 上流階級のチームだけだ"
+      "ja": "いい学校を卒業した上流階級のチームだけだ"
     }
   },
   {
     "translation": {
       "en": "Imagine what it would mean to see men like us lift it.",
-      "ja": "もし この俺たちが 優勝したら？"
+      "ja": "もし この俺たちが優勝したら？"
     }
   },
   {
@@ -439,7 +439,7 @@
   },
   {
     "translation": {
-      "en": "Well, I want to wake up and find it's more than a dream.",
+      "en": "[Walsh] Well, I want to wake up and find it's more than a dream.",
       "ja": "俺は その夢をかなえたい"
     }
   },
@@ -457,7 +457,7 @@
   },
   {
     "translation": {
-      "en": "Wait here, lads.  Stop, lads. Hold up.",
+      "en": "[Walsh] Wait here, lads. [Darwen player] Stop, lads. Hold up.",
       "ja": "お前たち　ここで待ってろ"
     }
   },
@@ -481,13 +481,13 @@
   },
   {
     "translation": {
-      "en": "- Look at these lads! - Gentlemen.",
+      "en": "-[Darwen player] Look at these lads! -Gentlemen.",
       "ja": "皆さん"
     }
   },
   {
     "translation": {
-      "en": "Welcome.",
+      "en": "[Arthur] Welcome.",
       "ja": "ようこそ"
     }
   },
@@ -499,19 +499,19 @@
   },
   {
     "translation": {
-      "en": "- You're Arthur Kinnaird? - That's right.",
+      "en": "-You're Arthur Kinnaird? -That's right.",
       "ja": "アーサー？ ああ"
     }
   },
   {
     "translation": {
       "en": "I saw you play at Hampden a few years back against Queen's Park.",
-      "ja": "数年前に試合で あんたを見たよ"
+      "ja": "数年前に試合であんたを見たよ"
     }
   },
   {
     "translation": {
-      "en": "You were good.",
+      "en": "[stammers] You were good.",
       "ja": "見事だった"
     }
   },
@@ -524,30 +524,30 @@
   {
     "translation": {
       "en": "Of course, the game's changed since your heyday.",
-      "ja": "サッカーのスタイルは 変わりつつある"
+      "ja": "サッカーのスタイルは変わりつつある"
     }
   },
   {
     "translation": {
       "en": "I mean, it has in Scotland, at least.",
-      "ja": "サッカーのスタイルは 変わりつつある 時代の流れに乗るのは 大変だろう"
+      "ja": "サッカーのスタイルは変わりつつある 時代の流れに乗るのは大変だろう"
     }
   },
   {
     "translation": {
       "en": "Must be hard moving with the times.",
-      "ja": "時代の流れに乗るのは 大変だろう"
+      "ja": "時代の流れに乗るのは大変だろう"
     }
   },
   {
     "translation": {
       "en": "Well, now we've established that my best days are in the past, perhaps we should get moving.",
-      "ja": "僕の全盛期が終わったと 言いたいのか？"
+      "ja": "僕の全盛期が終わったと言いたいのか？"
     }
   },
   {
     "translation": {
-      "en": "- I never meant-- - What's your name?",
+      "en": "-I never meant-- -What's your name?",
       "ja": "違う 名前は？"
     }
   },
@@ -589,38 +589,38 @@
   },
   {
     "translation": {
-      "en": "- Jimmy? - Jimmy Love.",
+      "en": "-Jimmy? -Jimmy Love.",
       "ja": "ジミー？ ジミー･ラヴ"
     }
   },
   {
     "translation": {
-      "en": "- He made the trip down, too. - Did he indeed?",
+      "en": "-He made the trip down, too. -Did he indeed?",
       "ja": "こいつと来た そうか"
     }
   },
   {
     "translation": {
       "en": "Uh, everyone, these boys will show you to your changing rooms.",
-      "ja": "この子たちが 更衣室に案内する"
+      "ja": "この子たちが更衣室に案内する"
     }
   },
   {
     "translation": {
-      "en": "Hurry up, lads. Suit up and boot up.",
+      "en": "[Darwen player] Hurry up, lads. Suit up and boot up.",
       "ja": "さっさと靴を履け"
     }
   },
   {
     "translation": {
       "en": "I've been through our Football Association records,",
-      "ja": "あの２人が ダーウェンの選手として―"
+      "ja": "あの２人がダーウェンの選手として―"
     }
   },
   {
     "translation": {
       "en": "and neither Fergus Suter nor Jimmy Love played for them in the previous rounds.",
-      "ja": "あの２人が ダーウェンの選手として― プレーした記録は 残ってなかった"
+      "ja": "あの２人がダーウェンの選手として― プレーした記録は残ってなかった"
     }
   },
   {
@@ -638,7 +638,7 @@
   {
     "translation": {
       "en": "leave Glasgow to join a tinpot mill team in Darwen?",
-      "ja": "わざわざ 織物工場のチームに？"
+      "ja": "わざわざ織物工場のチームに？"
     }
   },
   {
@@ -650,24 +650,24 @@
   {
     "translation": {
       "en": "To play football? But that's against the rules.",
-      "ja": "金をもらってプレー？ 規則違反だ"
+      "ja": "金をもらってプレー？規則違反だ"
     }
   },
   {
     "translation": {
       "en": "Surely, no one would risk suspension from the Cup?",
-      "ja": "バレたら追放だぞ あり得ない"
+      "ja": "バレたら追放だぞあり得ない"
     }
   },
   {
     "translation": {
       "en": "It would explain why two players would travel from Scotland to join a team they have no connection with.",
-      "ja": "でも あの２人は 縁のないチームに入った"
+      "ja": "でも あの２人は縁のないチームに入った"
     }
   },
   {
     "translation": {
-      "en": "- Now, how do we prove it? - We don't need to.",
+      "en": "-Now, how do we prove it? -[Arthur] We don't need to.",
       "ja": "他に理由が？ 理由なんて どうでもいい"
     }
   },
@@ -685,13 +685,13 @@
   },
   {
     "translation": {
-      "en": "- Are we right, lads? - Aye.",
+      "en": "-Are we right, lads? -[players] Aye.",
       "ja": "準備はいいか はい"
     }
   },
   {
     "translation": {
-      "en": "Now, remember, they're a rough team.",
+      "en": "[Walsh] Now, remember, they're a rough team.",
       "ja": "相手は かなり乱暴だ"
     }
   },
@@ -703,7 +703,7 @@
   },
   {
     "translation": {
-      "en": "- Let's go then, boys. - Come on. Stick together.",
+      "en": "-[player 1] Let's go then, boys. -[player 2] Come on. Stick together.",
       "ja": "気合入れて行こうぜ"
     }
   },
@@ -715,25 +715,25 @@
   },
   {
     "translation": {
-      "en": "- Come on. - Fergie! You coming?",
+      "en": "-Come on. -[Jimmy] Fergie! You coming?",
       "ja": "ファーガス　早く来いよ"
     }
   },
   {
     "translation": {
-      "en": "What's all this to- do about?",
+      "en": "[woman] What's all this to-do about?",
       "ja": "何の騒ぎ？"
     }
   },
   {
     "translation": {
-      "en": "Playing in the quarter- finals of the FA Cup.",
+      "en": "Playing in the quarter-finals of the FA Cup.",
       "ja": "サッカーの準々決勝さ"
     }
   },
   {
     "translation": {
-      "en": "- Really? - Yeah.",
+      "en": "-Really? -Yeah.",
       "ja": "そうなの？"
     }
   },
@@ -746,7 +746,7 @@
   {
     "translation": {
       "en": "Well, I've made it, Mr. Suter, even if my glory days are behind me.",
-      "ja": "全盛期が終わったとしても 僕は試合に出るぞ"
+      "ja": "全盛期が終わったとしても僕は試合に出るぞ"
     }
   },
   {
@@ -775,49 +775,49 @@
   },
   {
     "translation": {
-      "en": "Play the ball.",
+      "en": "[Fergus] Play the ball.",
       "ja": "蹴れ"
     }
   },
   {
     "translation": {
-      "en": "- Take him! -",
+      "en": "-[Arthur] Take him! -[Fergus grunts]",
       "ja": "倒せ！"
     }
   },
   {
     "translation": {
       "en": "Game doesn't seem to have changed so very much, Mr. Suter.",
-      "ja": "スタイルは さほど変わってない"
+      "ja": "スタイルはさほど変わってない"
     }
   },
   {
     "translation": {
-      "en": "The Old Etonians have scored again!",
+      "en": "[man] The Old Etonians have scored again!",
       "ja": "イートニアンズが また得点"
     }
   },
   {
     "translation": {
-      "en": "- We got one back! -",
+      "en": "-We got one back! -[crowd cheers]",
       "ja": "うちが１点 獲得よ！"
     }
   },
   {
     "translation": {
-      "en": "- It's three- one! - Yes!",
+      "en": "-It's three-one! -Yes!",
       "ja": "うちが１点 獲得よ！ よし"
     }
   },
   {
     "translation": {
-      "en": "- - Half- time!",
+      "en": "-[whistle blows] -[referee] Half-time!",
       "ja": "ハーフタイム"
     }
   },
   {
     "translation": {
-      "en": "Half- time, gentlemen.",
+      "en": "[referee] Half-time, gentlemen.",
       "ja": "皆さん　ハーフタイムですよ"
     }
   },
@@ -841,20 +841,20 @@
   },
   {
     "translation": {
-      "en": "- You can't win playing at their own game. - So, what do you suggest we do instead?",
+      "en": "-You can't win playing at their own game. -So, what do you suggest we do instead?",
       "ja": "通用しないさ なら どうすれば？"
     }
   },
   {
     "translation": {
-      "en": "At this rate, I'm gonna be coming out.",
+      "en": "[Etonian] At this rate, I'm gonna be coming out.",
       "ja": "この調子じゃ楽勝だな"
     }
   },
   {
     "translation": {
       "en": "I want five more goals this half, so we have something to celebrate at dinner.",
-      "ja": "あと５点 取って 晩餐(ばんさん)会で祝おう"
+      "ja": "あと５点 取って晩餐(ばんさん)会で祝おう"
     }
   },
   {
@@ -926,12 +926,12 @@
   {
     "translation": {
       "en": "You're the fastest man on the pitch. You're not getting a chance to show it.",
-      "ja": "お前は足が速いのに もったいない"
+      "ja": "お前は足が速いのにもったいない"
     }
   },
   {
     "translation": {
-      "en": "Let the ball do the work.",
+      "en": "[Fergus] Let the ball do the work.",
       "ja": "ボールに仕事させるんだ"
     }
   },
@@ -956,12 +956,12 @@
   {
     "translation": {
       "en": "Wider. Right out onto the touchline. Spread out.",
-      "ja": "もっと離れろ みんな 広がれ"
+      "ja": "もっと離れろみんな 広がれ"
     }
   },
   {
     "translation": {
-      "en": "- They've moved their formation. - Isn't that better?",
+      "en": "-They've moved their formation. -Isn't that better?",
       "ja": "配置を変えた 何よりだ　中央が通りやすい"
     }
   },
@@ -973,19 +973,19 @@
   },
   {
     "translation": {
-      "en": "- Come on, boys! I want the same again. -",
+      "en": "-Come on, boys! I want the same again. -[whistle blows]",
       "ja": "前半戦と同じ調子でな"
     }
   },
   {
     "translation": {
-      "en": "- Same again! - Here we go, Darwen.",
+      "en": "-[Arthur] Same again! -Here we go, Darwen.",
       "ja": "いくぞ"
     }
   },
   {
     "translation": {
-      "en": "It's five- four!",
+      "en": "It's five-four!",
       "ja": "５対４よ"
     }
   },
@@ -1009,26 +1009,26 @@
   },
   {
     "translation": {
-      "en": "It's five- five!",
+      "en": "[woman] It's five-five!",
       "ja": "５対５！"
     }
   },
   {
     "translation": {
-      "en": "It's full- time, gentlemen.",
+      "en": "[referee] It's full-time, gentlemen.",
       "ja": "フルタイム"
     }
   },
   {
     "translation": {
-      "en": "- - Full- time, thank you.",
+      "en": "-[thunder rumbling] -[referee] Full-time, thank you.",
       "ja": "フルタイムです"
     }
   },
   {
     "translation": {
       "en": "We'll take a few minutes to get fresh air into our lungs and then extra time.",
-      "ja": "数分 休憩してから 延長戦を始めよう"
+      "ja": "数分 休憩してから延長戦を始めよう"
     }
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "translation": {
       "en": "Since when was that a rule? It's not in Scotland.",
-      "ja": "規則か何かか？ 俺の地元では問題ない"
+      "ja": "規則か何かか？俺の地元では問題ない"
     }
   },
   {
@@ -1069,7 +1069,7 @@
   },
   {
     "translation": {
-      "en": "Because he knows they're beaten.",
+      "en": "[Fergus] Because he knows they're beaten.",
       "ja": "負けるから？"
     }
   },
@@ -1100,12 +1100,12 @@
   {
     "translation": {
       "en": "Look, we can refer this to the president of the Football Association, if you prefer.",
-      "ja": "サッカー協会の会長に 決めてもらうか？"
+      "ja": "サッカー協会の会長に決めてもらうか？"
     }
   },
   {
     "translation": {
-      "en": "- Well, how long will that take? - Not too long.",
+      "en": "-Well, how long will that take? -Not too long.",
       "ja": "時間がかかる いいや"
     }
   },
@@ -1118,13 +1118,13 @@
   {
     "translation": {
       "en": "He's the president of the FA? He's your bloody goalkeeper.",
-      "ja": "ゴールキーパーの彼が 会長だと？"
+      "ja": "ゴールキーパーの彼が会長だと？"
     }
   },
   {
     "translation": {
       "en": "We're all on the board of the Football Association. Do you have a problem with that?",
-      "ja": "僕たちは みんな役員だ 何か問題が？"
+      "ja": "僕たちは みんな役員だ何か問題が？"
     }
   },
   {
@@ -1147,14 +1147,14 @@
   },
   {
     "translation": {
-      "en": "We had you beaten today. You know we did.",
-      "ja": "今日の試合は 俺たちの勝ちだぞ"
+      "en": "[Fergus] We had you beaten today. You know we did.",
+      "ja": "今日の試合は俺たちの勝ちだぞ"
     }
   },
   {
     "translation": {
       "en": "If you are right, then you'll beat us again...",
-      "ja": "もし そうなら 君たちは来週―"
+      "ja": "もし そうなら君たちは来週―"
     }
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "translation": {
       "en": "No, I just worry one day Arthur will come home with a broken leg.",
-      "ja": "アーサーが 脚を折らないか心配だわ"
+      "ja": "アーサーが脚を折らないか心配だわ"
     }
   },
   {
@@ -1177,7 +1177,7 @@
   },
   {
     "translation": {
-      "en": "- - What am I missing up there?",
+      "en": "-[Alma laughs] -What am I missing up there?",
       "ja": "何の話だ？"
     }
   },
@@ -1201,7 +1201,7 @@
   },
   {
     "translation": {
-      "en": "There's nothing to tell.",
+      "en": "[sighs] There's nothing to tell.",
       "ja": "一体 何を？"
     }
   },
@@ -1213,26 +1213,26 @@
   },
   {
     "translation": {
-      "en": "Uh, it's not really my story.",
+      "en": "[chuckles] Uh, it's not really my story.",
       "ja": "私が話すことじゃない"
     }
   },
   {
     "translation": {
       "en": "How strange. Usually, I can't stop you talking about football.",
-      "ja": "珍しいわね スポーツの話なら いつもは喜んでするのに"
+      "ja": "珍しいわね スポーツの話ならいつもは喜んでするのに"
     }
   },
   {
     "translation": {
       "en": "Or cricket. Or rugby, for that matter.",
-      "ja": "スポーツの話なら いつもは喜んでするのに"
+      "ja": "スポーツの話ならいつもは喜んでするのに"
     }
   },
   {
     "translation": {
       "en": "When it was a draw, Arthur wouldn't allow them extra time to settle it.",
-      "ja": "アーサーが 延長戦を拒んだから―"
+      "ja": "アーサーが延長戦を拒んだから―"
     }
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "translation": {
       "en": "In all the years we've been married, I believe this is the first time you've ever asked me a single question about football.",
-      "ja": "君はサッカーに 関心ないはずだ"
+      "ja": "君はサッカーに関心ないはずだ"
     }
   },
   {
@@ -1273,25 +1273,25 @@
   },
   {
     "translation": {
-      "en": "- Can I second that? - We must follow the rules.",
+      "en": "-Can I second that? -[Marindin] We must follow the rules.",
       "ja": "私も同感 規則は守らないと意味を失う"
     }
   },
   {
     "translation": {
-      "en": "- Or why do we have them? - Absolutely.",
+      "en": "-Or why do we have them? -Absolutely.",
       "ja": "規則は守らないと意味を失う そのとおり"
     }
   },
   {
     "translation": {
       "en": "And if you'd agreed extra time, Darwen would've beaten you.",
-      "ja": "延長戦を認めたら 彼らに負けてた？"
+      "ja": "延長戦を認めたら彼らに負けてた？"
     }
   },
   {
     "translation": {
-      "en": "Don't be absurd.",
+      "en": "[chuckles] Don't be absurd.",
       "ja": "バカなことを"
     }
   },
@@ -1304,19 +1304,19 @@
   {
     "translation": {
       "en": "Another ten minutes and you would've been out of the Cup on your ear.",
-      "ja": "10分ほどで カップから敗退に"
+      "ja": "10分ほどでカップから敗退に"
     }
   },
   {
     "translation": {
       "en": "Are you suggesting I acted in an underhand manner?",
-      "ja": "僕が不正な手段を 使ったとでも？"
+      "ja": "僕が不正な手段を使ったとでも？"
     }
   },
   {
     "translation": {
-      "en": "Well, I think underhand is a bit strong. Shall we say, uh, the rules were very convenient.",
-      "ja": "“不正”は言いすぎだが 規則を都合よく使った"
+      "en": "Well, I think \"underhand\" is a bit strong. Shall we say, uh, the rules were very convenient.",
+      "ja": "“不正”は言いすぎだが規則を都合よく使った"
     }
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "translation": {
       "en": "This is a game for amateurs and gentlemen.",
-      "ja": "アマチュアのための ゲームだぞ"
+      "ja": "アマチュアのためのゲームだぞ"
     }
   },
   {
@@ -1369,13 +1369,13 @@
   },
   {
     "translation": {
-      "en": "Your game?",
+      "en": "[laughs] Your game?",
       "ja": "あなたたちの？"
     }
   },
   {
     "translation": {
-      "en": "- We invented it. - Who's we?",
+      "en": "-We invented it. -[Alma] Who's \"we\"?",
       "ja": "発明者さ サッカーの発明者？"
     }
   },
@@ -1387,26 +1387,26 @@
   },
   {
     "translation": {
-      "en": "Yes! As a matter of fact.",
+      "en": "[Arthur] Yes! As a matter of fact.",
       "ja": "ああ　イートニアンズが"
     }
   },
   {
     "translation": {
       "en": "Eton, Charterhouse, Harrow. Lots of schools played a part,",
-      "ja": "イートン校以外の 別の学校とも協力し―"
+      "ja": "イートン校以外の別の学校とも協力し―"
     }
   },
   {
     "translation": {
-      "en": "but the point is we took a raggle- taggle pastime...",
-      "ja": "イートン校以外の 別の学校とも協力し― 規則を一定化させた"
+      "en": "but the point is we took a raggle-taggle pastime...",
+      "ja": "イートン校以外の別の学校とも協力し― 規則を一定化させた"
     }
   },
   {
     "translation": {
       "en": "with different rules wherever it was played, and we turned it into a proper game.",
-      "ja": "僕たちが 立派なゲームに仕上げたんだ"
+      "ja": "僕たちが立派なゲームに仕上げたんだ"
     }
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "translation": {
       "en": "Ladies... I'm catching your eye.",
-      "ja": "女性の皆さん 部屋を出ましょ"
+      "ja": "女性の皆さん部屋を出ましょ"
     }
   },
   {
@@ -1436,19 +1436,19 @@
   {
     "translation": {
       "en": "Well, shall we talk about something a little less contentious?",
-      "ja": "もっと無難な話題に 変えるか？"
+      "ja": "もっと無難な話題に変えるか？"
     }
   },
   {
     "translation": {
-      "en": "What? Like the Russian- Turkish War?",
+      "en": "What? Like the Russian-Turkish War?",
       "ja": "露土戦争についてとか？"
     }
   },
   {
     "translation": {
       "en": "I feel like a fraud. We're celebrating like we won.",
-      "ja": "みんな 勝ったかのように 祝ってるが"
+      "ja": "みんな 勝ったかのように祝ってるが"
     }
   },
   {
@@ -1460,19 +1460,19 @@
   {
     "translation": {
       "en": "We came nearer to winning than we ever have done before. And we may yet do it Saturday.",
-      "ja": "でも勝利には近づけたぞ 来週 勝てるかも"
+      "ja": "でも勝利には近づけたぞ来週 勝てるかも"
     }
   },
   {
     "translation": {
       "en": "Look around. You've given these people something to believe in.",
-      "ja": "お前は こいつらに夢を与えたんだ"
+      "ja": "お前はこいつらに夢を与えたんだ"
     }
   },
   {
     "translation": {
       "en": "The game feeds the soul when they have nothing else that does it in their life.",
-      "ja": "こいつらの魂を満たすのは サッカーだけだぞ"
+      "ja": "こいつらの魂を満たすのはサッカーだけだぞ"
     }
   },
   {
@@ -1483,7 +1483,7 @@
   },
   {
     "translation": {
-      "en": "- Come on, it's just getting started. - Jimmy, here.",
+      "en": "-Come on, it's just getting started. -Jimmy, here.",
       "ja": "早すぎるぞ お前の分だ"
     }
   },
@@ -1544,7 +1544,7 @@
   {
     "translation": {
       "en": "You and Alfred and all the others. You're scared you'll lose control of it.",
-      "ja": "他の人たちも同じよ ゲームを奪われるのが怖い"
+      "ja": "他の人たちも同じよゲームを奪われるのが怖い"
     }
   },
   {
@@ -1562,7 +1562,7 @@
   {
     "translation": {
       "en": "Arthur, you're a decent man, but this game brings out the worst in you.",
-      "ja": "サッカーは あなたをイヤな人にする"
+      "ja": "サッカーはあなたをイヤな人にする"
     }
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "translation": {
       "en": "We got off on the wrong foot. Let me buy you another.",
-      "ja": "出だしを間違ったが おごるぞ"
+      "ja": "出だしを間違ったがおごるぞ"
     }
   },
   {
@@ -1706,18 +1706,18 @@
   {
     "translation": {
       "en": "But go on, then. I'm buying, though. No arguments.",
-      "ja": "でも飲むぜ 俺に おごらせてくれ"
+      "ja": "でも飲むぜ俺に おごらせてくれ"
     }
   },
   {
     "translation": {
       "en": "So what did Walsh offer to get you all the way down from Glasgow?",
-      "ja": "グラスゴーから来るのに いくら もらった？"
+      "ja": "グラスゴーから来るのにいくら もらった？"
     }
   },
   {
     "translation": {
-      "en": "Oh, my head!",
+      "en": "[man] Oh, my head!",
       "ja": "二日酔いだ"
     }
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "translation": {
-      "en": "- Sorry, I don't mean to embarrass you. - No, you didn't.",
+      "en": "-Sorry, I don't mean to embarrass you. -No, you didn't.",
       "ja": "余計なことかな？ うれしいわ"
     }
   },
@@ -1771,7 +1771,7 @@
   },
   {
     "translation": {
-      "en": "- Thanks for that. - Ah, pleasure.",
+      "en": "-Thanks for that. -Ah, pleasure.",
       "ja": "ありがとう いいのよ"
     }
   },
@@ -1808,7 +1808,7 @@
   {
     "translation": {
       "en": "and the banks are starting to call in their loans.",
-      "ja": "銀行も 借金の返済を求め始めてる"
+      "ja": "銀行も借金の返済を求め始めてる"
     }
   },
   {
@@ -1826,24 +1826,24 @@
   {
     "translation": {
       "en": "As chairman of the guild, I must insist that we present a united front on this matter.",
-      "ja": "私は組合長として 共同戦線を張るよう求める"
+      "ja": "私は組合長として共同戦線を張るよう求める"
     }
   },
   {
     "translation": {
       "en": "To do otherwise would only invite trouble.",
-      "ja": "でないと トラブルが生じるだろう"
+      "ja": "でないとトラブルが生じるだろう"
     }
   },
   {
     "translation": {
-      "en": "I propose a five- percent wage cut for every worker.",
-      "ja": "労働者全員の賃金を ５％ 引き下げたい"
+      "en": "I propose a five-percent wage cut for every worker.",
+      "ja": "労働者全員の賃金を５％ 引き下げたい"
     }
   },
   {
     "translation": {
-      "en": "- All those in favor. - Aye!",
+      "en": "-All those in favor. -[all] Aye!",
       "ja": "賛成の者は？"
     }
   },
@@ -1862,25 +1862,25 @@
   {
     "translation": {
       "en": "Most of my workers have families. They can barely get by as it is.",
-      "ja": "彼らのほとんどが妻帯者で 生活もギリギリだ"
+      "ja": "彼らのほとんどが妻帯者で生活もギリギリだ"
     }
   },
   {
     "translation": {
       "en": "James, you know I don't like it, but the alternative is that the mills go out of business.",
-      "ja": "引き下げないと すべての工場が破綻して―"
+      "ja": "引き下げないとすべての工場が破綻して―"
     }
   },
   {
     "translation": {
-      "en": "How will they get by then?",
+      "en": "[man] How will they get by then?",
       "ja": "労働者も無職に"
     }
   },
   {
     "translation": {
       "en": "How many workers do you employ at your mill, Mr. Walsh?",
-      "ja": "ウォルシュさん 君の工場の労働者の数は？"
+      "ja": "ウォルシュさん君の工場の労働者の数は？"
     }
   },
   {
@@ -1891,14 +1891,14 @@
   },
   {
     "translation": {
-      "en": "A hundred and seventy- seven.",
+      "en": "A hundred and seventy-seven.",
       "ja": "177人です"
     }
   },
   {
     "translation": {
       "en": "Across my mills, I have 3,000.",
-      "ja": "私は複数の工場で 3,000人 雇ってる"
+      "ja": "私は複数の工場で3,000人 雇ってる"
     }
   },
   {
@@ -1915,20 +1915,20 @@
   },
   {
     "translation": {
-      "en": "Two- and- a- half.",
+      "en": "Two-and-a-half.",
       "ja": "2,500人"
     }
   },
   {
     "translation": {
-      "en": "The motion is passed.",
+      "en": "[chairman] The motion is passed.",
       "ja": "可決に至った"
     }
   },
   {
     "translation": {
       "en": "Every member of the Cotton Masters' Guild will impose the same cut in wages.",
-      "ja": "全組合員の工場で 賃金を５％ 引き下げること"
+      "ja": "全組合員の工場で賃金を５％ 引き下げること"
     }
   },
   {
@@ -1958,7 +1958,7 @@
   {
     "translation": {
       "en": "that it would be just as it had been for my father. And for his father before him.",
-      "ja": "自分も父や祖父のような親に なるはずだとな"
+      "ja": "自分も父や祖父のような親になるはずだとな"
     }
   },
   {
@@ -1970,19 +1970,19 @@
   {
     "translation": {
       "en": "Don't be silly. You were brought down every evening.",
-      "ja": "バカ言うな 毎晩 部屋から連れ出したぞ"
+      "ja": "バカ言うな毎晩 部屋から連れ出したぞ"
     }
   },
   {
     "translation": {
       "en": "No. I was brought down every tea time.",
-      "ja": "僕が連れ出されたのは お茶の時間だ"
+      "ja": "僕が連れ出されたのはお茶の時間だ"
     }
   },
   {
     "translation": {
       "en": "Or after tea, if Mama had guests, but I don't remember your being there often.",
-      "ja": "母上の客が来る時です 夜ではない"
+      "ja": "母上の客が来る時です夜ではない"
     }
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "translation": {
       "en": "You came and saw me sometimes when I was already in bed. But not much.",
-      "ja": "僕が寝るのを たまに見る程度だった"
+      "ja": "僕が寝るのをたまに見る程度だった"
     }
   },
   {
@@ -2006,13 +2006,13 @@
   {
     "translation": {
       "en": "all over the world, there are children with no food and no shelter.",
-      "ja": "まともな食事を取れない 貧しい子供が大勢いる"
+      "ja": "まともな食事を取れない貧しい子供が大勢いる"
     }
   },
   {
     "translation": {
       "en": "You really cannot expect me to feel much sympathy for the childhood that you enjoyed.",
-      "ja": "裕福な子供時代を送った お前に私が同情するとでも？"
+      "ja": "裕福な子供時代を送ったお前に私が同情するとでも？"
     }
   },
   {
@@ -2023,7 +2023,7 @@
   },
   {
     "translation": {
-      "en": "Don't over- complicate it.",
+      "en": "Don't over-complicate it.",
       "ja": "考えすぎだぞ"
     }
   },
@@ -2041,19 +2041,19 @@
   },
   {
     "translation": {
-      "en": "Don't tell me you've quarreled again.",
+      "en": "[Alma] Don't tell me you've quarreled again.",
       "ja": "また もめたの？"
     }
   },
   {
     "translation": {
       "en": "We were discussing fatherhood... as it happens.",
-      "ja": "親になることについて 話し合った"
+      "ja": "親になることについて話し合った"
     }
   },
   {
     "translation": {
-      "en": "Oh, you surprise me.",
+      "en": "Oh, you surprise me. [chuckles]",
       "ja": "それは驚きね"
     }
   },
@@ -2066,7 +2066,7 @@
   {
     "translation": {
       "en": "And you'll be happy to hear that I want to know my children better than he did.",
-      "ja": "僕は子供との時間を 大切にしたい"
+      "ja": "僕は子供との時間を大切にしたい"
     }
   },
   {
@@ -2077,43 +2077,43 @@
   },
   {
     "translation": {
-      "en": "I'm so looking forward to becoming a mother.",
+      "en": "[Alma] I'm so looking forward to becoming a mother.",
       "ja": "母親になるのが楽しみよ"
     }
   },
   {
     "translation": {
-      "en": "- They've cut wages by five percent. - What?",
+      "en": "-They've cut wages by five percent. -[woman 1] What?",
       "ja": "賃金が５％引き下げって"
     }
   },
   {
     "translation": {
-      "en": "- And what's next, ten? Fifteen? - How will I feed my family? - I know. - What?",
-      "ja": "この次は10％に なるかもしれないわ"
+      "en": "-And what's next, ten? Fifteen? -[woman 1] How will I feed my family? -I know. -[woman 2] What?",
+      "ja": "この次は10％になるかもしれないわ"
     }
   },
   {
     "translation": {
-      "en": "- It's a wage cut, five percent. - They can't do that.",
-      "ja": "賃金が ５％も引き下げですって"
+      "en": "-It's a wage cut, five percent. -[woman] They can't do that.",
+      "ja": "賃金が５％も引き下げですって"
     }
   },
   {
     "translation": {
-      "en": "- The mill will reopen tomorrow. - Go and spend the day with your families.",
-      "ja": "工場の再開は明日だ 今日は家族と過ごせ"
+      "en": "-The mill will reopen tomorrow. -[crowd clamors] Go and spend the day with your families.",
+      "ja": "工場の再開は明日だ今日は家族と過ごせ"
     }
   },
   {
     "translation": {
-      "en": "- What? Why? - You've already cut our wages.",
+      "en": "-What? Why? -[worker] You've already cut our wages.",
       "ja": "なぜですか？ 閉鎖とか？"
     }
   },
   {
     "translation": {
-      "en": "It don't matter why. I'll get it sorted.",
+      "en": "[Walsh] It don't matter why. I'll get it sorted.",
       "ja": "心配するな　解決する"
     }
   },
@@ -2125,14 +2125,14 @@
   },
   {
     "translation": {
-      "en": "I can't pay you for days when the mill isn't working. - - I'm sorry.",
-      "ja": "今日は工場が 稼働してないから払えない"
+      "en": "I can't pay you for days when the mill isn't working. -[clamoring] -[Walsh] I'm sorry.",
+      "ja": "今日は工場が稼働してないから払えない"
     }
   },
   {
     "translation": {
       "en": "It'll all get straightened out by tomorrow. Please, go home.",
-      "ja": "明日までには解決するから 帰ってくれ"
+      "ja": "明日までには解決するから帰ってくれ"
     }
   },
   {
@@ -2150,13 +2150,13 @@
   {
     "translation": {
       "en": "When I couldn't pay up immediately, they foreclosed on the mill.",
-      "ja": "すぐに返せず 工場が差し押さえに"
+      "ja": "すぐに返せず工場が差し押さえに"
     }
   },
   {
     "translation": {
       "en": "Now, I can get the mill reopened tomorrow, but it'll take all the liquidity.",
-      "ja": "明日 再開させるには 現金が要る"
+      "ja": "明日 再開させるには現金が要る"
     }
   },
   {
@@ -2168,7 +2168,7 @@
   {
     "translation": {
       "en": "The train tickets to take the team back down to London, I need that money.",
-      "ja": "ロンドンへの切符代を 返してほしいんだ"
+      "ja": "ロンドンへの切符代を返してほしいんだ"
     }
   },
   {
@@ -2191,25 +2191,25 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[man] What?",
       "ja": "何だと？"
     }
   },
   {
     "translation": {
-      "en": "He's paying 'em to play.",
-      "ja": "引き抜くために 金をムダにしたのさ"
+      "en": "[Tommy] He's paying 'em to play.",
+      "ja": "引き抜くために金をムダにしたのさ"
     }
   },
   {
     "translation": {
-      "en": "- He paid 'em to leave Partick. - Wait a minute.",
-      "ja": "引き抜くために 金をムダにしたのさ 待て"
+      "en": "-He paid 'em to leave Partick. -Wait a minute.",
+      "ja": "引き抜くために金をムダにしたのさ 待て"
     }
   },
   {
     "translation": {
-      "en": "- I saw the money you gave Jimmy. - That's none of your business.",
+      "en": "-I saw the money you gave Jimmy. -[Walsh] That's none of your business.",
       "ja": "パブで金を渡した 黙ってろ"
     }
   },
@@ -2227,32 +2227,32 @@
   },
   {
     "translation": {
-      "en": "- Barely a quarter of what's needed. - Maybe not.",
-      "ja": "切符代の４分の１以下だ だとしても ２人が 報酬を得たのは確かだ"
+      "en": "-Barely a quarter of what's needed. -Maybe not.",
+      "ja": "切符代の４分の１以下だ だとしても ２人が報酬を得たのは確かだ"
     }
   },
   {
     "translation": {
       "en": "But whilst our wages were being cut, you were paying them to play football.",
-      "ja": "だとしても ２人が 報酬を得たのは確かだ"
+      "ja": "だとしても ２人が報酬を得たのは確かだ"
     }
   },
   {
     "translation": {
       "en": "And what would've happened if we were found out? We'd be banned from the Cup for God knows how many years!",
-      "ja": "バレたら カップに 出場できなくなる"
+      "ja": "バレたら カップに出場できなくなる"
     }
   },
   {
     "translation": {
-      "en": "- Enough. - You cheated.",
-      "ja": "よせ あんたは 俺たちを共犯者にしたんだ"
+      "en": "-[Walsh] Enough. -You cheated.",
+      "ja": "よせ あんたは俺たちを共犯者にしたんだ"
     }
   },
   {
     "translation": {
       "en": "And you made the rest of us cheat without even knowing it.",
-      "ja": "あんたは 俺たちを共犯者にしたんだ"
+      "ja": "あんたは俺たちを共犯者にしたんだ"
     }
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "translation": {
       "en": "We've given him all day. As it is, we'll be sleeping on the train.",
-      "ja": "早く出発しよう 今夜は列車で寝る"
+      "ja": "早く出発しよう今夜は列車で寝る"
     }
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "translation": {
       "en": "and we would be sent home then, all right? With our tail between our legs.",
-      "ja": "イートニアンズに負けて 帰ることになるとな"
+      "ja": "イートニアンズに負けて帰ることになるとな"
     }
   },
   {
@@ -2318,7 +2318,7 @@
   {
     "translation": {
       "en": "I seen it last night when you realized how much this meant to these people.",
-      "ja": "お前もチームの仲間を 大事に思ってる"
+      "ja": "お前もチームの仲間を大事に思ってる"
     }
   },
   {
@@ -2354,7 +2354,7 @@
   {
     "translation": {
       "en": "And I can play football for nothing back home with my family.",
-      "ja": "無報酬なら 故郷でやるのと同じだ"
+      "ja": "無報酬なら故郷でやるのと同じだ"
     }
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "translation": {
       "en": "Stay till tomorrow at least. You don't want to travel at night.",
-      "ja": "明日 出発すればいいわ 夜の旅は危険よ"
+      "ja": "明日 出発すればいいわ夜の旅は危険よ"
     }
   },
   {
@@ -2426,7 +2426,7 @@
   {
     "translation": {
       "en": "You need rid of that hat before we get back. Folk'll have you down as a bloody Sassenach.",
-      "ja": "この帽子のまま家に戻ったら 笑われるな"
+      "ja": "この帽子のまま家に戻ったら笑われるな"
     }
   },
   {
@@ -2443,14 +2443,14 @@
   },
   {
     "translation": {
-      "en": "- You've got to come quickly. - What is it?",
+      "en": "-[panting] You've got to come quickly. -What is it?",
       "ja": "一緒に来て どうした？"
     }
   },
   {
     "translation": {
       "en": "You'll see. Come on. Come with me, both of you.",
-      "ja": "来れば分かるわ ファーガスもよ"
+      "ja": "来れば分かるわファーガスもよ"
     }
   },
   {
@@ -2467,20 +2467,20 @@
   },
   {
     "translation": {
-      "en": "I don't understand.",
+      "en": "[Fergus] I don't understand.",
       "ja": "説明を"
     }
   },
   {
     "translation": {
-      "en": "Word got out Darwen would be forfeiting.",
-      "ja": "町の人たちが 不戦敗はイヤだって"
+      "en": "[Doris] Word got out Darwen would be forfeiting.",
+      "ja": "町の人たちが不戦敗はイヤだって"
     }
   },
   {
     "translation": {
       "en": "The town won't have it. Tom Hindle came up with the idea.",
-      "ja": "町の人たちが 不戦敗はイヤだって それでトムが解決策を考えた"
+      "ja": "町の人たちが不戦敗はイヤだって それでトムが解決策を考えた"
     }
   },
   {
@@ -2492,7 +2492,7 @@
   {
     "translation": {
       "en": "They can either pay weekly or all at once.",
-      "ja": "分割払いでも 一括払いでもいい"
+      "ja": "分割払いでも一括払いでもいい"
     }
   },
   {
@@ -2503,26 +2503,26 @@
   },
   {
     "translation": {
-      "en": "- Don't those people need that money? - Maybe, but they need football too.",
+      "en": "-Don't those people need that money? -Maybe, but they need football too.",
       "ja": "大切な生活費だろ 彼らにはサッカーも必要だ"
     }
   },
   {
     "translation": {
-      "en": "- We're proud of you, lads. - You're what Darwen's made of.",
+      "en": "-[woman] We're proud of you, lads. -[man] You're what Darwen's made of.",
       "ja": "この町の誇りよ"
     }
   },
   {
     "translation": {
-      "en": "Here you go.",
+      "en": "[woman] Here you go.",
       "ja": "どうぞ"
     }
   },
   {
     "translation": {
       "en": "You're short three players. The match is due to start in ten minutes.",
-      "ja": "試合10分前だが ３人 足りないぞ"
+      "ja": "試合10分前だが３人 足りないぞ"
     }
   },
   {
@@ -2540,12 +2540,12 @@
   {
     "translation": {
       "en": "We'll be on the pitch. If you don't have a team on time, you forfeit.",
-      "ja": "ここにいるよ 試合放棄にならないといいが"
+      "ja": "ここにいるよ試合放棄にならないといいが"
     }
   },
   {
     "translation": {
-      "en": "Or you play with what you've got.",
+      "en": "[Walsh] Or you play with what you've got.",
       "ja": "もしくは この人数でプレー"
     }
   },
@@ -2557,8 +2557,8 @@
   },
   {
     "translation": {
-      "en": "To quote you, Mr. Kinnaird, Rules are made to be adhered to.",
-      "ja": "キネアードさん あんたは規則を重要視した"
+      "en": "To quote you, Mr. Kinnaird, \"Rules are made to be adhered to.\"",
+      "ja": "キネアードさんあんたは規則を重要視した"
     }
   },
   {
@@ -2594,12 +2594,12 @@
   {
     "translation": {
       "en": "Then everyone will see what good sports you gentlemen are.",
-      "ja": "紳士のスポーツだと 市民に伝える"
+      "ja": "紳士のスポーツだと市民に伝える"
     }
   },
   {
     "translation": {
-      "en": "Who does he think he is?",
+      "en": "[scoffs] Who does he think he is?",
       "ja": "偉そうに"
     }
   },
@@ -2666,18 +2666,18 @@
   {
     "translation": {
       "en": "Now, we'll win this game, if we stop them playing their way.",
-      "ja": "奴らのプレーを妨害すれば 勝てる"
+      "ja": "奴らのプレーを妨害すれば勝てる"
     }
   },
   {
     "translation": {
       "en": "Alfred, stay on Love. Don't give him any time on the ball.",
-      "ja": "アルフレッドは ラヴをマークしろ"
+      "ja": "アルフレッドはラヴをマークしろ"
     }
   },
   {
     "translation": {
-      "en": "- What about Suter? He's the real problem. - I'll stay on Suter.",
+      "en": "-What about Suter? He's the real problem. -[Arthur] I'll stay on Suter.",
       "ja": "スーターはどうする？ あいつは僕がマークする"
     }
   },
@@ -2689,61 +2689,61 @@
   },
   {
     "translation": {
-      "en": "- All right? - All right.",
+      "en": "-All right? -[Lyttelton] All right.",
       "ja": "いいな？"
     }
   },
   {
     "translation": {
-      "en": "- Time. - All right, gents.",
+      "en": "-[referee] Time. -[Lyttelton] All right, gents.",
       "ja": "よし　行こう"
     }
   },
   {
     "translation": {
-      "en": "Gentlemen.",
+      "en": "[referee] Gentlemen.",
       "ja": "始めます"
     }
   },
   {
     "translation": {
-      "en": "Jimmy!",
+      "en": "[Fergus] Jimmy!",
       "ja": "ジミー！"
     }
   },
   {
     "translation": {
-      "en": "Cross it, Jimmy!",
+      "en": "[Fergus] Cross it, Jimmy!",
       "ja": "クロスしろ"
     }
   },
   {
     "translation": {
-      "en": "Did you see what Alfred did? It didn't seem quite right.",
-      "ja": "今 アルフレッドが ひどいことを"
+      "en": "[Alma] Did you see what Alfred did? It didn't seem quite right.",
+      "ja": "今 アルフレッドがひどいことを"
     }
   },
   {
     "translation": {
       "en": "Maybe not, but I'm afraid there'll be a great deal more of it.",
-      "ja": "どうやら このあとも続きそうね"
+      "ja": "どうやらこのあとも続きそうね"
     }
   },
   {
     "translation": {
-      "en": "Foul! Referee!",
+      "en": "[Walsh] Foul! Referee!",
       "ja": "審判　ファウルだ！"
     }
   },
   {
     "translation": {
-      "en": "- Forward! - As a pack!",
+      "en": "-Forward! -[Arthur] As a pack!",
       "ja": "前進しろ！"
     }
   },
   {
     "translation": {
-      "en": "- Get off me! -",
+      "en": "-Get off me! -[grunts]",
       "ja": "離せ！"
     }
   },
@@ -2756,12 +2756,12 @@
   {
     "translation": {
       "en": "Hurry up! At the ball! Heads up! Heads up!",
-      "ja": "さっさと立てよ しっかりしろ！"
+      "ja": "さっさと立てよしっかりしろ！"
     }
   },
   {
     "translation": {
-      "en": "Full- time. Full- time.",
+      "en": "[referee] Full-time. Full-time.",
       "ja": "フルタイムです"
     }
   },
@@ -2792,7 +2792,7 @@
   {
     "translation": {
       "en": "Kinnaird can have his Cup. Next season, it'll be ours.",
-      "ja": "今回は奴らの勝ちだが 次は俺たちが勝つ"
+      "ja": "今回は奴らの勝ちだが次は俺たちが勝つ"
     }
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "translation": {
       "en": "Do you want me to? Tommy Marshall thinks I'm a waste of money.",
-      "ja": "マーシャルは 俺を信頼してない"
+      "ja": "マーシャルは俺を信頼してない"
     }
   },
   {
@@ -2822,13 +2822,13 @@
   {
     "translation": {
       "en": "Besides, people here, they love to watch you play.",
-      "ja": "それに 俺たちは お前のプレーが好きだ"
+      "ja": "それに 俺たちはお前のプレーが好きだ"
     }
   },
   {
     "translation": {
       "en": "It gives 'em hope and pride and so much more.",
-      "ja": "チームに 希望や誇りを与えてくれる"
+      "ja": "チームに希望や誇りを与えてくれる"
     }
   },
   {
@@ -2857,8 +2857,8 @@
   },
   {
     "translation": {
-      "en": "Speech! - Come on, Arthur, speech! - Speech!",
-      "ja": "アーサー 勝利のスピーチを頼む"
+      "en": "Speech! -Come on, Arthur, speech! -[man] Speech!",
+      "ja": "アーサー勝利のスピーチを頼む"
     }
   },
   {
@@ -2870,13 +2870,13 @@
   {
     "translation": {
       "en": "I won't pretend I'm not jolly pleased the way things have turned out.",
-      "ja": "今回の結果に 喜んでるのは否定できない"
+      "ja": "今回の結果に喜んでるのは否定できない"
     }
   },
   {
     "translation": {
-      "en": "To have beaten Darwen, and to be once again in the semi- finals...",
-      "ja": "ダーウェンを倒し 準決勝へと進むことができた"
+      "en": "[Arthur] To have beaten Darwen, and to be once again in the semi-finals...",
+      "ja": "ダーウェンを倒し準決勝へと進むことができた"
     }
   },
   {
@@ -2893,7 +2893,7 @@
   },
   {
     "translation": {
-      "en": "- Shall I-- - No, no, no. Please, sit.",
+      "en": "-Shall I-- -[Alma] No, no, no. Please, sit.",
       "ja": "僕も… 大丈夫よ　座ってて"
     }
   },
@@ -2935,14 +2935,14 @@
   },
   {
     "translation": {
-      "en": "They have, at last.",
+      "en": "They have, at last. [chuckles]",
       "ja": "ああ　やっとな"
     }
   },
   {
     "translation": {
       "en": "Ada had to put Monkey in a fireman's lock before she could get him out.",
-      "ja": "エイダは モンキーを担いで行ったよ"
+      "ja": "エイダはモンキーを担いで行ったよ"
     }
   },
   {
@@ -2959,13 +2959,13 @@
   },
   {
     "translation": {
-      "en": "No, not much better, to be honest.",
+      "en": "[sighs] No, not much better, to be honest.",
       "ja": "あまり変わらないわ"
     }
   },
   {
     "translation": {
-      "en": "- Can anybody hear me?! - No!",
+      "en": "-[Arthur] Can anybody hear me?! -No!",
       "ja": "誰か 来てくれ！"
     }
   },
@@ -2977,7 +2977,7 @@
   },
   {
     "translation": {
-      "en": "Now, we might've lost...",
+      "en": "[Walsh] Now, we might've lost...",
       "ja": "敗退したが―"
     }
   },
@@ -2990,7 +2990,7 @@
   {
     "translation": {
       "en": "Here's the man of the hour, Fergus Suter!",
-      "ja": "この町の英雄 ファーガス･スーター！"
+      "ja": "この町の英雄ファーガス･スーター！"
     }
   }
 ]
