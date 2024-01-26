@@ -225,7 +225,9 @@ def clean_netflix_links(input_file, output_file):
     """
     Cleans and sorts Netflix links from an input file and writes them to an output file.
 
-    Reads Netflix links from the specified input file, extracts and cleans the movie or show IDs from these links, and then writes the cleaned and sorted unique links to the specified output file. This function is useful for preprocessing a list of Netflix URLs.
+    Reads Netflix links from the specified input file, extracts and cleans the movie or show IDs
+    from these links, and then writes the cleaned and sorted unique links to the specified output file.
+    This function is useful for preprocessing a list of Netflix URLs.
 
     Args:
         input_file (str): The path to the file containing the original Netflix links.
@@ -267,10 +269,10 @@ LANG_LIST = [
     ("Thai", "th"),
     ("Russian", "th"),
 ]
-START_INDEX = 0
+START_INDEX = 460
 END_INDEX = 1100
 
-LANGUAGE = "Vietnamese"
+LANGUAGE = "German"
 LANGUAGE_CODE = {name: code for name, code in LANG_LIST}.get(LANGUAGE)
 NETFLIX_LINKS = []
 MOVIE_IDS = []
@@ -309,14 +311,15 @@ for i, link in enumerate(NETFLIX_LINKS):
             # Parse the HTML content using BeautifulSoup
             soup = BeautifulSoup(html_content, "html.parser")
 
-            # Extract all table rows (skipping the header row)
-            rows = soup.find_all("tr")[1:]
+            # Extract the first table row (header row)
+            first_row = soup.find("tr")
 
-            # Check if each row has more than two columns (valid markup)
-            valid_markup = all(len(row.find_all("td")) > 2 for row in rows)
+            # Check if the first row has a column for 'Translation'
+            has_translation_column = "Translation" in first_row.get_text()
 
-            if valid_markup:
+            if has_translation_column:
                 print(f"Skipping already processed movie: {MOVIE_IDS[i]}")
+                START_INDEX += 1
                 continue  # Skip this movie as it has been processed
             else:
                 print(f"Invalid markup detected, reprocessing movie: {MOVIE_IDS[i]}")
