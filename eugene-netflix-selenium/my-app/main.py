@@ -214,18 +214,37 @@ def export_translation(cur_driver, cur_wait, index, lang_code):
         cur_driver.switch_to.window(new_tab)
 
         page_source = driver.page_source
-        filename = f"./markup/en-{lang_code}/{MOVIE_IDS[index]}.html"
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(page_source)
+        soup = BeautifulSoup(page_source, "html.parser")
 
-        print(f"\nThe HTML of the page has been saved as {filename}")
+        # Extract the first table row (header row)
+        first_row = soup.find("tr")
+
+        # Check if the first row has a column for 'Translation'
+        has_translation_column = "Translation" in first_row.get_text()
+
+        if has_translation_column:
+            filename = f"./markup/en-{lang_code}/{MOVIE_IDS[index]}.html"
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write(page_source)
+
+            print(f"\nThe HTML of the page has been saved as {filename}")
+        else:
+            print("No translation, skipping file")
+            with open(
+                f"./source/movies_links_en_{LANGUAGE_CODE}_no_translation.txt",
+                "a",
+                encoding="utf-8",
+            ) as f:
+                f.write(link + "\n")
 
 
 def clean_netflix_links(input_file, output_file):
     """
     Cleans and sorts Netflix links from an input file and writes them to an output file.
 
-    Reads Netflix links from the specified input file, extracts and cleans the movie or show IDs from these links, and then writes the cleaned and sorted unique links to the specified output file. This function is useful for preprocessing a list of Netflix URLs.
+    Reads Netflix links from the specified input file, extracts and cleans the movie or show IDs
+    from these links, and then writes the cleaned and sorted unique links to the specified output file.
+    This function is useful for preprocessing a list of Netflix URLs.
 
     Args:
         input_file (str): The path to the file containing the original Netflix links.
@@ -235,7 +254,7 @@ def clean_netflix_links(input_file, output_file):
 
     cleaned_links = []
 
-    with open(input_file, "r") as file:
+    with open(input_file, "r", encoding="utf-8") as file:
         for line in file:
             line = line.strip()
             if line.startswith("https://www.netflix.com/watch/"):
@@ -246,7 +265,7 @@ def clean_netflix_links(input_file, output_file):
     sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
     unique_sorted_links = sorted(set(link.strip() for link in sorted_links))
 
-    with open(output_file, "w") as file:
+    with open(output_file, "w", encoding="utf-8") as file:
         for link in unique_sorted_links:
             file.write(link + "\n")
 
@@ -270,7 +289,7 @@ LANG_LIST = [
 START_INDEX = 0
 END_INDEX = 1100
 
-LANGUAGE = "Vietnamese"
+LANGUAGE = "Italian"
 LANGUAGE_CODE = {name: code for name, code in LANG_LIST}.get(LANGUAGE)
 NETFLIX_LINKS = []
 MOVIE_IDS = []
@@ -309,14 +328,15 @@ for i, link in enumerate(NETFLIX_LINKS):
             # Parse the HTML content using BeautifulSoup
             soup = BeautifulSoup(html_content, "html.parser")
 
-            # Extract all table rows (skipping the header row)
-            rows = soup.find_all("tr")[1:]
+            # Extract the first table row (header row)
+            first_row = soup.find("tr")
 
-            # Check if each row has more than two columns (valid markup)
-            valid_markup = all(len(row.find_all("td")) > 2 for row in rows)
+            # Check if the first row has a column for 'Translation'
+            has_translation_column = "Translation" in first_row.get_text()
 
-            if valid_markup:
+            if has_translation_column:
                 print(f"Skipping already processed movie: {MOVIE_IDS[i]}")
+                START_INDEX += 1
                 continue  # Skip this movie as it has been processed
             else:
                 print(f"Invalid markup detected, reprocessing movie: {MOVIE_IDS[i]}")
