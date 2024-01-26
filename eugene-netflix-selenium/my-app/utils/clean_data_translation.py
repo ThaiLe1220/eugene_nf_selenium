@@ -45,6 +45,16 @@ def clean_text(text):
     return text.strip()
 
 
+# def clean_translation(text):
+#     target = text.replace("\n     ", "").strip()
+#     target = target.replace("\n", " ")
+#     target = target.replace("\u200E", "")
+#     target = target.replace('"', "")
+#     target = re.sub(r"\[.*?\]", "", target)
+
+#     return target.strip()
+
+
 def clean_translations_data(directory, lang_code, movie_ids):
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
