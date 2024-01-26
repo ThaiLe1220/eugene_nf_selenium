@@ -2,12 +2,12 @@
   {
     "translation": {
       "en": "GREENLAND AS PER LATEST SOURCES 1905",
-      "es": "GROENLANDIA SEGÚN LAS ÚLTIMAS FUENTES 1905"
+      "es": "GROENLANDIASEGÚN LAS ÚLTIMAS FUENTES 1905"
     }
   },
   {
     "translation": {
-      "en": "Something's out there!",
+      "en": "[man 1] Something's out there!",
       "es": "¡Ahí afuera hay algo!"
     }
   },
@@ -20,7 +20,7 @@
   {
     "translation": {
       "en": "Go see what it is, quickly. Hand me the lantern.",
-      "es": "Ve a ver qué pasa, rápido. Pásame la lámpara."
+      "es": "Ve a ver qué pasa, rápido.Pásame la lámpara."
     }
   },
   {
@@ -37,67 +37,67 @@
   },
   {
     "translation": {
-      "en": "- Help Jørgensen. His feet are frozen. - Right, come on.",
-      "es": "Ayuden a Jörgensen. Tiene los pies congelados. Bien, vamos."
+      "en": "-Help Jørgensen. His feet are frozen. -[man 2] Right, come on.",
+      "es": "Ayuden a Jörgensen.Tiene los pies congelados. Bien, vamos."
     }
   },
   {
     "translation": {
-      "en": "- Holm's on his way. - Quick, Unger. Get the water.",
-      "es": "- Holm está en camino. - Date prisa, Unger. Trae el agua."
+      "en": "-[man 3] Holm's on his way. -[man 1] Quick, Unger. Get the water.",
+      "es": "- Holm está en camino.- Date prisa, Unger. Trae el agua."
     }
   },
   {
     "translation": {
-      "en": "Jørgensen, lift your head up.",
+      "en": "[man 2] Jørgensen, lift your head up.",
       "es": "Jörgensen, levanta la cabeza."
     }
   },
   {
     "translation": {
-      "en": "- Unger, hurry up with the water. - It's coming!",
-      "es": "- Unger, apúrate con el agua. - ¡Ya va!"
+      "en": "-Unger, hurry up with the water. -It's coming!",
+      "es": "- Unger, apúrate con el agua.- ¡Ya va!"
     }
   },
   {
     "translation": {
-      "en": "- Raise it. Easy. - It's all right. We got you.",
-      "es": "- Levántala. Cuidado. - Tranquilo. Te tenemos."
+      "en": "-[man 4] Raise it. Easy. -[man 1] It's all right. We got you.",
+      "es": "- Levántala. Cuidado.- Tranquilo. Te tenemos."
     }
   },
   {
     "translation": {
-      "en": "- We got you. - Take it easy, Jørgensen.",
-      "es": "- Te tenemos. - Tranquilo, Jörgensen."
+      "en": "-We got you. -[man 4] Take it easy, Jørgensen.",
+      "es": "- Te tenemos.- Tranquilo, Jörgensen."
     }
   },
   {
     "translation": {
-      "en": "Unger, the water.",
+      "en": "[man 2] Unger, the water.",
       "es": "Unger, el agua."
     }
   },
   {
     "translation": {
-      "en": "- Come on! - It's coming.",
-      "es": "- ¡Vamos! - Ya va."
+      "en": "-Come on! -[Unger] It's coming.",
+      "es": "- ¡Vamos!- Ya va."
     }
   },
   {
     "translation": {
-      "en": "Hold these. Take it easy, Jørgensen.",
+      "en": "[man 4] Hold these. Take it easy, Jørgensen.",
       "es": "Sostén esto. Tranquilo, Jörgensen."
     }
   },
   {
     "translation": {
-      "en": "- Do you have some whiskey? - Yes. Get the man a drink.",
-      "es": "- ¿Tienen whisky? - Sí. Dale un trago."
+      "en": "-Do you have some whiskey? -[man 1] Yes. Get the man a drink.",
+      "es": "- ¿Tienen whisky?- Sí. Dale un trago."
     }
   },
   {
     "translation": {
-      "en": "Here.",
+      "en": "[Unger] Here.",
       "es": "Toma."
     }
   },
@@ -109,19 +109,19 @@
   },
   {
     "translation": {
-      "en": "I'll take that.",
+      "en": "[captain] I'll take that.",
       "es": "Dámela."
     }
   },
   {
     "translation": {
-      "en": "- Ejnar, hold him down. -",
+      "en": "-[man 2] Ejnar, hold him down. -[Jørgensen exhales]",
       "es": "Ejnar, sujétalo, vamos."
     }
   },
   {
     "translation": {
-      "en": "Jørgensen, breathe. Keep breathing.",
+      "en": "[man 1] Jørgensen, breathe. Keep breathing.",
       "es": "Jörgensen, respira. Vamos, respira."
     }
   },
@@ -133,20 +133,20 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Ejnar] Okay.",
       "es": "Está bien."
     }
   },
   {
     "translation": {
-      "en": "- Hold him. - One, two, three.",
-      "es": "- ¡Agárrenlo! - Uno, dos, tres."
+      "en": "-[man 4] Hold him. -[Ejnar] One, two, three.",
+      "es": "- ¡Agárrenlo!- Uno, dos, tres."
     }
   },
   {
     "translation": {
-      "en": "- -",
-      "es": "VÍSPERA DE NAVIDAD DE 1909 NORESTE DE GROENLANDIA"
+      "en": "-[\"Joy to the World\" playing] -[Unger humming]",
+      "es": "VÍSPERA DE NAVIDAD DE 1909NORESTE DE GROENLANDIA"
     }
   },
   {
@@ -157,13 +157,13 @@
   },
   {
     "translation": {
-      "en": "- Thank you. - Got it?",
-      "es": "- Gracias. - ¿Puedes?"
+      "en": "-Thank you. -Got it?",
+      "es": "- Gracias.- ¿Puedes?"
     }
   },
   {
     "translation": {
-      "en": "- - Good. Smells like Christmas.",
+      "en": "-[sighs] -Good. Smells like Christmas.",
       "es": "Bien. Huele a Navidad."
     }
   },
@@ -175,61 +175,61 @@
   },
   {
     "translation": {
-      "en": "- Who's hungry? - Everybody.",
-      "es": "- ¿Quién tiene hambre? - Todos."
+      "en": "-[Ungar] Who's hungry? -Everybody.",
+      "es": "- ¿Quién tiene hambre?- Todos."
     }
   },
   {
     "translation": {
-      "en": "Starving.",
+      "en": "[crew] Starving.",
       "es": "Me muero de hambre."
     }
   },
   {
     "translation": {
-      "en": "Here we go, boys.",
+      "en": "[Ungar] Here we go, boys.",
       "es": "Aquí está, chicos."
     }
   },
   {
     "translation": {
-      "en": "- Looks great. - Finally.",
-      "es": "- Qué rico. - Por fin."
+      "en": "-Looks great. -Finally.",
+      "es": "- Qué rico.- Por fin."
     }
   },
   {
     "translation": {
-      "en": "You've done yourself proud, sunshine.",
+      "en": "[man 1] You've done yourself proud, sunshine.",
       "es": "Buen trabajo, cariño."
     }
   },
   {
     "translation": {
-      "en": "- It's about time we found a use for you. -",
-      "es": "- Por fin sirves para algo. - Gracias."
+      "en": "-It's about time we found a use for you. -[laughter]",
+      "es": "- Por fin sirves para algo.- Gracias."
     }
   },
   {
     "translation": {
-      "en": "Gentlemen, can I have your attention?",
-      "es": "- Qué bueno. - Señores, ¿me prestan atención?"
+      "en": "[Ejnar] Gentlemen, can I have your attention?",
+      "es": "- Qué bueno.- Señores, ¿me prestan atención?"
     }
   },
   {
     "translation": {
-      "en": "- Party's over. - Quiet, Poulsen.",
-      "es": "- Se acabó la fiesta. - Silencio, Poulsen."
+      "en": "-Party's over. -[man 2] Quiet, Poulsen.",
+      "es": "- Se acabó la fiesta.- Silencio, Poulsen."
     }
   },
   {
     "translation": {
-      "en": "- I want you all to raise your glasses… - Of course.",
-      "es": "- Quiero que levanten sus copas… - Claro."
+      "en": "-I want you all to raise your glasses… -[crew] Of course.",
+      "es": "- Quiero que levanten sus copas…- Claro."
     }
   },
   {
     "translation": {
-      "en": "…to…",
+      "en": "[Ejnar] …to…",
       "es": "por…"
     }
   },
@@ -248,7 +248,7 @@
   {
     "translation": {
       "en": "exploring the last unknown parts of our kingdom.",
-      "es": "explorando las últimas partes desconocidas de nuestro reino."
+      "es": "explorando las últimas partes desconocidasde nuestro reino."
     }
   },
   {
@@ -290,12 +290,12 @@
   {
     "translation": {
       "en": "Our long search didn't go quite as planned.",
-      "es": "Nuestra larga búsqueda no salió como habíamos planeado."
+      "es": "Nuestra larga búsquedano salió como habíamos planeado."
     }
   },
   {
     "translation": {
-      "en": "- Jørgensen can testify to that. -",
+      "en": "-Jørgensen can testify to that. -[quiet chuckles]",
       "es": "Jörgensen puede dar fe."
     }
   },
@@ -308,7 +308,7 @@
   {
     "translation": {
       "en": "it was hard to trace any signs of the vanished expedition.",
-      "es": "fue difícil encontrar rastros de la expedición desaparecida."
+      "es": "fue difícil encontrar rastrosde la expedición desaparecida."
     }
   },
   {
@@ -349,8 +349,8 @@
   },
   {
     "translation": {
-      "en": "where Mylius- Erichsen left his final records of the unknown land.",
-      "es": "donde Mylius-Erichsen dejó sus últimos registros de la tierra desconocida."
+      "en": "where Mylius-Erichsen left his final records of the unknown land.",
+      "es": "donde Mylius-Erichsen dejó sus últimosregistros de la tierra desconocida."
     }
   },
   {
@@ -362,7 +362,7 @@
   {
     "translation": {
       "en": "A cairn's a stack of stones you can see from far away.",
-      "es": "Un montón de piedras que se ve desde lejos."
+      "es": "Un montón de piedrasque se ve desde lejos."
     }
   },
   {
@@ -373,20 +373,20 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[man 2] What?",
       "es": "¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "Another?",
+      "en": "[Poulsen] Another?",
       "es": "¿Otro?"
     }
   },
   {
     "translation": {
       "en": "Well, this time further, across the ice cap,",
-      "es": "Esta vez más lejos, pasando la capa de hielo,"
+      "es": "Esta vez más lejos,pasando la capa de hielo,"
     }
   },
   {
@@ -410,7 +410,7 @@
   {
     "translation": {
       "en": "Without these findings, the North of Greenland could be lost,",
-      "es": "Sin esos hallazgos, los estadounidenses podrían quedarse"
+      "es": "Sin esos hallazgos,los estadounidenses podrían quedarse"
     }
   },
   {
@@ -433,8 +433,8 @@
   },
   {
     "translation": {
-      "en": "which provides one of you lucky boys with a once- in- a- lifetime opportunity.",
-      "es": "lo cual le da a uno de ustedes una oportunidad única en la vida."
+      "en": "which provides one of you lucky boys with a once-in-a-lifetime opportunity.",
+      "es": "lo cual le da a uno de ustedesuna oportunidad única en la vida."
     }
   },
   {
@@ -452,12 +452,12 @@
   {
     "translation": {
       "en": "You're kidding, right? Jørgensen's feet were wrecked.",
-      "es": "- Bromeas, ¿verdad? - Jörgensen tenía los pies destrozados."
+      "es": "- Bromeas, ¿verdad?- Jörgensen tenía los pies destrozados."
     }
   },
   {
     "translation": {
-      "en": "Aren't you next in line, Laub?",
+      "en": "[Poulsen] Aren't you next in line, Laub?",
       "es": "¿No sigues tú, Laub?"
     }
   },
@@ -482,12 +482,12 @@
   {
     "translation": {
       "en": "It's like walking from Moscow to Rome looking for a stack of stones.",
-      "es": "Es como caminar de Moscú a Roma buscando un montón de piedras."
+      "es": "Es como caminar de Moscú a Romabuscando un montón de piedras."
     }
   },
   {
     "translation": {
-      "en": "Not to mention doing it with the captain.",
+      "en": "[Poulsen] Not to mention doing it with the captain.",
       "es": "Y además, con el capitán."
     }
   },
@@ -500,7 +500,7 @@
   {
     "translation": {
       "en": "He knew all about him before he came aboard, right?",
-      "es": "Sabía todo sobre él antes de subir a bordo, ¿no?"
+      "es": "Sabía todo sobre élantes de subir a bordo, ¿no?"
     }
   },
   {
@@ -517,19 +517,19 @@
   },
   {
     "translation": {
-      "en": "Not everyone's a fan, Iver Iversen.",
+      "en": "[scoffs] Not everyone's a fan, Iver Iversen.",
       "es": "No todos lo admiran, Iver Iversen."
     }
   },
   {
     "translation": {
-      "en": "- Not everyone can read. Right, Unger? - Try reading this!",
+      "en": "-Not everyone can read. Right, Unger? -Try reading this!",
       "es": "No todos saben leer. ¿Verdad, Unger? ¡Lee esto!"
     }
   },
   {
     "translation": {
-      "en": "Come on!",
+      "en": "[Poulsen] Come on!",
       "es": "¡Vamos!"
     }
   },
@@ -565,7 +565,7 @@
   },
   {
     "translation": {
-      "en": "What I'm trying to say is",
+      "en": "[clears throat] What I'm trying to say is",
       "es": "Lo que intento decir es…"
     }
   },
@@ -578,7 +578,7 @@
   {
     "translation": {
       "en": "As long as we're parked up here, the motor won't be needed.",
-      "es": "Mientras estemos parados, no se necesita el motor."
+      "es": "Mientras estemos parados,no se necesita el motor."
     }
   },
   {
@@ -590,7 +590,7 @@
   {
     "translation": {
       "en": "I'm good with a rifle, and I'm learning how to drive the dogs.",
-      "es": "Soy bueno con el rifle y estoy aprendiendo a llevar los perros."
+      "es": "Soy bueno con el rifley estoy aprendiendo a llevar los perros."
     }
   },
   {
@@ -613,20 +613,20 @@
   },
   {
     "translation": {
-      "en": "Poulsen, hand me those harnesses.",
+      "en": "[Laub] Poulsen, hand me those harnesses.",
       "es": "Poulsen, pásame esos arneses."
     }
   },
   {
     "translation": {
-      "en": "- What's Iversen up to? - Come on.",
+      "en": "-What's Iversen up to? -[Iver] Come on.",
       "es": "¿Qué hace Iversen?"
     }
   },
   {
     "translation": {
-      "en": "- Looks like he needs a hand. - Stay there.",
-      "es": "- Parece que necesita ayuda. - Quieto."
+      "en": "-Looks like he needs a hand. -[Iver] Stay there.",
+      "es": "- Parece que necesita ayuda.- Quieto."
     }
   },
   {
@@ -643,7 +643,7 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Iver] Okay.",
       "es": "Bien."
     }
   },
@@ -667,8 +667,8 @@
   },
   {
     "translation": {
-      "en": "- You talk to him. - Hey!",
-      "es": "- Habla con él. - ¡Oigan!"
+      "en": "-You talk to him. -[Iver] Hey!",
+      "es": "- Habla con él.- ¡Oigan!"
     }
   },
   {
@@ -698,7 +698,7 @@
   {
     "translation": {
       "en": "each dog can pull a hundred pounds of weight from the start.",
-      "es": "cada perro puede halar 45 kilos desde el principio."
+      "es": "cada perro puede halar45 kilos desde el principio."
     }
   },
   {
@@ -728,7 +728,7 @@
   {
     "translation": {
       "en": "So, Iversen, don't become best friends.",
-      "es": "Así que no los conviertas en tus mejores amigos."
+      "es": "Así que no los conviertasen tus mejores amigos."
     }
   },
   {
@@ -739,14 +739,14 @@
   },
   {
     "translation": {
-      "en": "- I have, sir. - What are your thoughts on him?",
-      "es": "- Sí, señor. - ¿Qué opinas de él?"
+      "en": "-[Laub] I have, sir. -What are your thoughts on him?",
+      "es": "- Sí, señor.- ¿Qué opinas de él?"
     }
   },
   {
     "translation": {
-      "en": "- Iversen? - Yeah.",
-      "es": "- ¿De Iversen? - Sí."
+      "en": "-Iversen? -Yeah.",
+      "es": "- ¿De Iversen?- Sí."
     }
   },
   {
@@ -757,7 +757,7 @@
   },
   {
     "translation": {
-      "en": "- Very brave. - Mm.",
+      "en": "-Very brave. -Mm.",
       "es": "Muy valiente."
     }
   },
@@ -799,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "Don't be ridiculous. Surely that's too heavy.",
+      "en": "[Unger] Don't be ridiculous. Surely that's too heavy.",
       "es": "No seas ridículo. Seguro que pesa demasiado."
     }
   },
@@ -818,24 +818,24 @@
   {
     "translation": {
       "en": "It's got combination turbines and reciprocating engines",
-      "es": "Tiene turbinas combinadas y motores alternativos"
+      "es": "Tiene turbinas combinadasy motores alternativos"
     }
   },
   {
     "translation": {
       "en": "guaranteed to maintain a speed of 21 knots.",
-      "es": "que garantizan una velocidad constante de 21 nudos."
+      "es": "que garantizanuna velocidad constante de 21 nudos."
     }
   },
   {
     "translation": {
-      "en": "- Translation, anyone, please? - What are you talking about?",
-      "es": "- ¿Alguien quiere traducir? - ¿De qué hablas, Iver?"
+      "en": "-Translation, anyone, please? -[man 1] What are you talking about?",
+      "es": "- ¿Alguien quiere traducir?- ¿De qué hablas, Iver?"
     }
   },
   {
     "translation": {
-      "en": "Is the Alabama not up to your standard?",
+      "en": "[Laub] Is the Alabama not up to your standard?",
       "es": "¿El Alabama no está a tu altura?"
     }
   },
@@ -848,18 +848,18 @@
   {
     "translation": {
       "en": "Yeah, usually I'd say Poulsen's talking shit,",
-      "es": "Normalmente diría que Poulsen habla mierda,"
+      "es": "Normalmente diríaque Poulsen habla mierda,"
     }
   },
   {
     "translation": {
       "en": "but I've gotta agree, I daren't say two words to him.",
-      "es": "pero estoy de acuerdo, no me atrevo a decirle nada."
+      "es": "pero estoy de acuerdo,no me atrevo a decirle nada."
     }
   },
   {
     "translation": {
-      "en": "The captain's not that bad.",
+      "en": "[chuckles] The captain's not that bad.",
       "es": "El capitán no es tan malo."
     }
   },
@@ -872,19 +872,19 @@
   {
     "translation": {
       "en": "What do you know about sledging, surviving on the ice when it's 40 below?",
-      "es": "¿Qué sabes de conducir trineos y sobrevivir a 40 grados bajo cero?"
+      "es": "¿Qué sabes de conducir trineosy sobrevivir a 40 grados bajo cero?"
     }
   },
   {
     "translation": {
       "en": "Yeah, and polar bears and all that other scary shit out there.",
-      "es": "Y de osos polares y toda la mierda tan aterradora que hay."
+      "es": "Y de osos polaresy toda la mierda tan aterradora que hay."
     }
   },
   {
     "translation": {
       "en": "I think Iver has got quite the handle on those dogs now.",
-      "es": "Creo que Iver ya sabe manejar a los perros."
+      "es": "Creo que Iverya sabe manejar a los perros."
     }
   },
   {
@@ -896,25 +896,25 @@
   {
     "translation": {
       "en": "This is my third trip up here and I still hate those fucking dogs.",
-      "es": "Este es mi tercer viaje aquí y sigo odiando a esos putos perros."
+      "es": "Este es mi tercer viaje aquíy sigo odiando a esos putos perros."
     }
   },
   {
     "translation": {
       "en": "If they were any more inbred, they'd be sandwiches.",
-      "es": "Un poco más cruzados y les salen tres ojos."
+      "es": "Un poco más cruzadosy les salen tres ojos."
     }
   },
   {
     "translation": {
-      "en": "- - No, come on. They're amazing.",
+      "en": "-[laughter] -No, come on. They're amazing.",
       "es": "No, vamos. Son increíbles."
     }
   },
   {
     "translation": {
       "en": "Once you learn to trust your lead dog, it kind of falls into place.",
-      "es": "Una vez que aprendes a confiar en tu perro guía, todo encaja."
+      "es": "Una vez que aprendes a confiaren tu perro guía, todo encaja."
     }
   },
   {
@@ -932,7 +932,7 @@
   {
     "translation": {
       "en": "Check out Iver and his new favorite dog, Bjørn!",
-      "es": "¡Miren a Iver y a su nuevo perro favorito, Bjørn!"
+      "es": "¡Miren a Ivery a su nuevo perro favorito, Bjørn!"
     }
   },
   {
@@ -968,7 +968,7 @@
   {
     "translation": {
       "en": "He wouldn't even be on this trip if our engine hadn't failed in Reykjavik.",
-      "es": "No habría venido si el motor no se hubiera averiado en Reikiavik."
+      "es": "No habría venido si el motorno se hubiera averiado en Reikiavik."
     }
   },
   {
@@ -992,7 +992,7 @@
   {
     "translation": {
       "en": "You're risking your life, Iversen's life.",
-      "es": "Estás arriesgando tu vida, la vida de Iversen."
+      "es": "Estás arriesgando tu vida,la vida de Iversen."
     }
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "translation": {
       "en": "We did our best. Nonsense.",
-      "es": "- Hicimos lo que pudimos. - Qué tontería."
+      "es": "- Hicimos lo que pudimos.- Qué tontería."
     }
   },
   {
@@ -1027,14 +1027,14 @@
   },
   {
     "translation": {
-      "en": "- You've got nothing to prove. - This is not about me.",
-      "es": "- No tienes que probar nada. - No se trata de mí."
+      "en": "-You've got nothing to prove. -This is not about me.",
+      "es": "- No tienes que probar nada.- No se trata de mí."
     }
   },
   {
     "translation": {
       "en": "The committee's instructions were clear.",
-      "es": "Las instrucciones del comité fueron claras."
+      "es": "Las instrucciones del comitéfueron claras."
     }
   },
   {
@@ -1046,25 +1046,25 @@
   {
     "translation": {
       "en": "If we're not back by August before the sea freezes, then you go.",
-      "es": "Si no hemos vuelto en agosto antes de que se congele, te vas."
+      "es": "Si no hemos vuelto en agostoantes de que se congele, te vas."
     }
   },
   {
     "translation": {
-      "en": "- You'll basically be on your own. - That's an order.",
-      "es": "- Estarás prácticamente solo. - Es una orden."
+      "en": "-You'll basically be on your own. -That's an order.",
+      "es": "- Estarás prácticamente solo.- Es una orden."
     }
   },
   {
     "translation": {
       "en": "Iversen is the best, if not the only, man willing to make the trip.",
-      "es": "Iversen es el mejor, si no el único dispuesto a hacer el viaje."
+      "es": "Iversen es el mejor, si no el únicodispuesto a hacer el viaje."
     }
   },
   {
     "translation": {
       "en": "I respect your concern, but we are leaving tomorrow.",
-      "es": "Respeto tu preocupación, pero mañana salimos."
+      "es": "Respeto tu preocupación,pero mañana salimos."
     }
   },
   {
@@ -1075,7 +1075,7 @@
   },
   {
     "translation": {
-      "en": "Iver, stand closer to the captain.",
+      "en": "[Laub] Iver, stand closer to the captain.",
       "es": "Iver, acércate al capitán."
     }
   },
@@ -1093,20 +1093,20 @@
   },
   {
     "translation": {
-      "en": "Excellent.",
+      "en": "[chuckles] Excellent.",
       "es": "Excelente."
     }
   },
   {
     "translation": {
-      "en": "Thanks for that.",
+      "en": "[Laub] Thanks for that.",
       "es": "Gracias."
     }
   },
   {
     "translation": {
-      "en": "- Good luck. - Thank you.",
-      "es": "- Buena suerte. - Gracias."
+      "en": "-Good luck. -[Iver] Thank you.",
+      "es": "- Buena suerte.- Gracias."
     }
   },
   {
@@ -1129,8 +1129,8 @@
   },
   {
     "translation": {
-      "en": "- You too, Captain. - All the best.",
-      "es": "- Usted también, capitán. - Suerte."
+      "en": "-[Poulsen] You too, Captain. -[Unger] All the best.",
+      "es": "- Usted también, capitán.- Suerte."
     }
   },
   {
@@ -1153,13 +1153,13 @@
   },
   {
     "translation": {
-      "en": "Go on, boys!",
+      "en": "[Iver] Go on, boys!",
       "es": "¡Vamos, chicos!"
     }
   },
   {
     "translation": {
-      "en": "Good luck, Iver!",
+      "en": "[Laub] Good luck, Iver!",
       "es": "¡Buena suerte, Iver!"
     }
   },
@@ -1201,8 +1201,8 @@
   },
   {
     "translation": {
-      "en": "- Are we gonna try and get up there? - Well, there's always a way up.",
-      "es": "- ¿Vamos a intentar subir? - Siempre hay una forma de subir."
+      "en": "-Are we gonna try and get up there? -Well, there's always a way up.",
+      "es": "- ¿Vamos a intentar subir?- Siempre hay una forma de subir."
     }
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "translation": {
       "en": "Mm, which is why I need you to concentrate at all times.",
-      "es": "Por eso necesito que siempre estés concentrado."
+      "es": "Por eso necesitoque siempre estés concentrado."
     }
   },
   {
@@ -1249,13 +1249,13 @@
   },
   {
     "translation": {
-      "en": "Pull!",
+      "en": "[Ejnar] Pull!",
       "es": "¡Tira!"
     }
   },
   {
     "translation": {
-      "en": "That's it. That's it.",
+      "en": "[breathless] That's it. That's it.",
       "es": "Eso es."
     }
   },
@@ -1268,7 +1268,7 @@
   {
     "translation": {
       "en": "How many cubic meters of ice do you think this is?",
-      "es": "¿Cuántos metros cúbicos de hielo cree que tenga esto?"
+      "es": "¿Cuántos metros cúbicos de hielocree que tenga esto?"
     }
   },
   {
@@ -1285,19 +1285,19 @@
   },
   {
     "translation": {
-      "en": "Iversen, let's unhook.",
+      "en": "[sniffs, exhales] Iversen, let's unhook.",
       "es": "Iversen, desenganchemos."
     }
   },
   {
     "translation": {
-      "en": "I'm reading this article you wrote about the Denmark Expedition.",
+      "en": "[Iver] I'm reading this article you wrote about the Denmark Expedition.",
       "es": "Estoy leyendo un artículo que escribió sobre la expedición Dinamarca."
     }
   },
   {
     "translation": {
-      "en": "Amazing, isn't it?",
+      "en": "[chuckles] Amazing, isn't it?",
       "es": "Increíble, ¿no?"
     }
   },
@@ -1316,7 +1316,7 @@
   {
     "translation": {
       "en": "They had so much equipment, didn't they? They even had an automobile.",
-      "es": "Tenían muchos equipos, ¿no? Hasta tenían un auto."
+      "es": "Tenían muchos equipos, ¿no?Hasta tenían un auto."
     }
   },
   {
@@ -1334,13 +1334,13 @@
   {
     "translation": {
       "en": "What type do you think it was, Captain? Crossley?",
-      "es": "¿Qué marca cree que era, capitán? ¿Un Crossley?"
+      "es": "¿Qué marca cree que era, capitán?¿Un Crossley?"
     }
   },
   {
     "translation": {
       "en": "What horsepower was the engine? Can you remember?",
-      "es": "¿Cuántos caballos de fuerza tenía? ¿Se acuerda?"
+      "es": "¿Cuántos caballos de fuerza tenía?¿Se acuerda?"
     }
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "I think he'd like to come in the tent. Would that be okay?",
-      "es": "Creo que quiere entrar a la tienda. ¿Le parece bien?"
+      "es": "Creo que quiere entrar a la tienda.¿Le parece bien?"
     }
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "♪ All alone ♪",
+      "en": "[Iver] ♪ All alone ♪",
       "es": "Completamente solo."
     }
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "translation": {
-      "en": "- To Mylius- Erichsen? - Mm.",
+      "en": "-To Mylius-Erichsen? -Mm.",
       "es": "¿Con Mylius-Erichsen?"
     }
   },
@@ -1507,7 +1507,7 @@
   },
   {
     "translation": {
-      "en": "We only found one body.",
+      "en": "[Ejnar] We only found one body.",
       "es": "Solo encontramos un cuerpo."
     }
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "translation": {
-      "en": "Imagine dying like that.",
+      "en": "[Iver] Imagine dying like that.",
       "es": "Imagínese morir así."
     }
   },
@@ -1537,8 +1537,8 @@
   },
   {
     "translation": {
-      "en": "His final words in the diary and the map were all that survived.",
-      "es": "Solo sobrevivieron sus últimas palabras en el diario y el mapa."
+      "en": "[Ejnar] His final words in the diary and the map were all that survived.",
+      "es": "Solo sobrevivieron sus últimas palabrasen el diario y el mapa."
     }
   },
   {
@@ -1555,7 +1555,7 @@
   },
   {
     "translation": {
-      "en": "Hello, Bjørn.",
+      "en": "[Iver] Hello, Bjørn.",
       "es": "Hola, Bjørn."
     }
   },
@@ -1568,7 +1568,7 @@
   {
     "translation": {
       "en": "Captain told us we can't have you in if you make noise.",
-      "es": "El capitán nos dijo que no puedes entrar si haces ruido."
+      "es": "El capitán nos dijoque no puedes entrar si haces ruido."
     }
   },
   {
@@ -1604,7 +1604,7 @@
   {
     "translation": {
       "en": "In Alaska, they do this in these conditions to go fast.",
-      "es": "En Alaska hacen esto cuando quieren ir rápido."
+      "es": "En Alaska hacen estocuando quieren ir rápido."
     }
   },
   {
@@ -1627,14 +1627,14 @@
   },
   {
     "translation": {
-      "en": "- Iversen! - Yeah?",
-      "es": "- ¡Iversen! - ¿Sí?"
+      "en": "-Iversen! -Yeah?",
+      "es": "- ¡Iversen!- ¿Sí?"
     }
   },
   {
     "translation": {
-      "en": "- See the cirrus clouds up in the north? - No, Captain.",
-      "es": "- ¿Ves los cirros en el norte? - No, capitán."
+      "en": "-See the cirrus clouds up in the north? -No, Captain.",
+      "es": "- ¿Ves los cirros en el norte?- No, capitán."
     }
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "translation": {
       "en": "The dogs are smelling land! Slow down!",
-      "es": "¡Los perros huelen tierra! ¡Baja la velocidad!"
+      "es": "¡Los perros huelen tierra!¡Baja la velocidad!"
     }
   },
   {
@@ -1681,14 +1681,14 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Ejnar] Okay.",
       "es": "Bien."
     }
   },
   {
     "translation": {
-      "en": "- You're gonna climb down. - Okay.",
-      "es": "- Vas a bajar. - Bien."
+      "en": "-You're gonna climb down. -Okay.",
+      "es": "- Vas a bajar.- Bien."
     }
   },
   {
@@ -1705,7 +1705,7 @@
   },
   {
     "translation": {
-      "en": "Just get the rope.",
+      "en": "[Ejnar] Just get the rope.",
       "es": "Toma la cuerda."
     }
   },
@@ -1717,7 +1717,7 @@
   },
   {
     "translation": {
-      "en": "I'll get him.",
+      "en": "[Iver] I'll get him.",
       "es": "Iré por él."
     }
   },
@@ -1771,8 +1771,8 @@
   },
   {
     "translation": {
-      "en": "- And Bjørn, Captain. - It's just a dog, Iversen.",
-      "es": "- Y a Bjørn, capitán. - Solo es un perro, Iversen."
+      "en": "-And Bjørn, Captain. -It's just a dog, Iversen.",
+      "es": "- Y a Bjørn, capitán.- Solo es un perro, Iversen."
     }
   },
   {
@@ -1784,13 +1784,13 @@
   {
     "translation": {
       "en": "but I judged your Navy background would arm you with the necessary discipline",
-      "es": "pero pensé que por tu experiencia en la Armada tendrías la disciplina necesaria para seguir órdenes."
+      "es": "pero pensé quepor tu experiencia en la Armada tendrías la disciplina necesariapara seguir órdenes."
     }
   },
   {
     "translation": {
       "en": "to follow orders.",
-      "es": "tendrías la disciplina necesaria para seguir órdenes."
+      "es": "tendrías la disciplina necesariapara seguir órdenes."
     }
   },
   {
@@ -1801,8 +1801,8 @@
   },
   {
     "translation": {
-      "en": "Well, at least tomorrow, we'll be off the ice cap.",
-      "es": "Menos mal mañana saldremos de la capa de hielo."
+      "en": "[sighs] Well, at least tomorrow, we'll be off the ice cap.",
+      "es": "Menos mal mañanasaldremos de la capa de hielo."
     }
   },
   {
@@ -1855,7 +1855,7 @@
   },
   {
     "translation": {
-      "en": "Go on.",
+      "en": "[Ejnar] Go on.",
       "es": "Adelante."
     }
   },
@@ -1916,7 +1916,7 @@
   {
     "translation": {
       "en": "You can't have your mind some 2,000 miles away.",
-      "es": "No puedes tener la cabeza a 3000 kilómetros de distancia."
+      "es": "No puedes tener la cabezaa 3000 kilómetros de distancia."
     }
   },
   {
@@ -1928,7 +1928,7 @@
   {
     "translation": {
       "en": "Why does anyone do anything? Why are you a mechanic?",
-      "es": "¿Por qué se hacen las cosas? ¿Por qué eres mecánico?"
+      "es": "¿Por qué se hacen las cosas?¿Por qué eres mecánico?"
     }
   },
   {
@@ -1946,13 +1946,13 @@
   {
     "translation": {
       "en": "What did they tell you back when you joined us in Reykjavik?",
-      "es": "¿Qué te dijeron cuando te nos uniste en Reikiavik?"
+      "es": "¿Qué te dijeroncuando te nos uniste en Reikiavik?"
     }
   },
   {
     "translation": {
       "en": "Well, I know it's to do with the Americans",
-      "es": "Sé que tiene que ver con los estadounidenses"
+      "es": "Sé que tiene que vercon los estadounidenses"
     }
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "translation": {
       "en": "that the top of Greenland is separated by a channel",
-      "es": "que el norte de Groenlandia está separado por un canal"
+      "es": "que el norte de Groenlandiaestá separado por un canal"
     }
   },
   {
@@ -2030,7 +2030,7 @@
   {
     "translation": {
       "en": "Me, famous? I doubt the ladies would be queuing up for me.",
-      "es": "¿Famoso yo? Dudo que las mujeres se vayan a pelear por mí."
+      "es": "¿Famoso yo? Dudo que las mujeresse vayan a pelear por mí."
     }
   },
   {
@@ -2065,7 +2065,7 @@
   },
   {
     "translation": {
-      "en": "- Hm. - Yes.",
+      "en": "-[Ejnar] Hm. -Yes.",
       "es": "Sí."
     }
   },
@@ -2077,20 +2077,20 @@
   },
   {
     "translation": {
-      "en": "- She's sweet looking. - Hm.",
+      "en": "-[Iver] She's sweet looking. -Hm.",
       "es": "Ella parece dulce."
     }
   },
   {
     "translation": {
-      "en": "Kind and thoughtful.",
+      "en": "[Iver] Kind and thoughtful.",
       "es": "Amable y considerada."
     }
   },
   {
     "translation": {
-      "en": "- I call her Miss Affection. - You named her?",
-      "es": "- La llamo señorita Afecto. - ¿Le pusiste nombre?"
+      "en": "-I call her Miss Affection. -You named her?",
+      "es": "- La llamo señorita Afecto.- ¿Le pusiste nombre?"
     }
   },
   {
@@ -2101,14 +2101,14 @@
   },
   {
     "translation": {
-      "en": "- Miss Affection. - What sort of name is that?",
-      "es": "- Señorita Afecto. - ¿Qué clase de nombre es ese?"
+      "en": "-Miss Affection. -What sort of name is that?",
+      "es": "- Señorita Afecto.- ¿Qué clase de nombre es ese?"
     }
   },
   {
     "translation": {
-      "en": "- What about this one? - The small, smiley one?",
-      "es": "- ¿Y esta? - ¿La bajita y sonriente?"
+      "en": "-[Ejnar] What about this one? -The small, smiley one?",
+      "es": "- ¿Y esta?- ¿La bajita y sonriente?"
     }
   },
   {
@@ -2119,8 +2119,8 @@
   },
   {
     "translation": {
-      "en": "- She'd laugh at my jokes. - She'd laugh at the stupid name.",
-      "es": "- Se reiría de mis chistes. - Se reiría de ese nombre tan tonto."
+      "en": "-She'd laugh at my jokes. -She'd laugh at the stupid name.",
+      "es": "- Se reiría de mis chistes.- Se reiría de ese nombre tan tonto."
     }
   },
   {
@@ -2131,7 +2131,7 @@
   },
   {
     "translation": {
-      "en": "I rather like this one. Has she got a name?",
+      "en": "[Ejnar] I rather like this one. Has she got a name?",
       "es": "Me gusta esta. ¿Tiene nombre?"
     }
   },
@@ -2143,7 +2143,7 @@
   },
   {
     "translation": {
-      "en": "I'm going to call her Naja.",
+      "en": "[Ejnar] I'm going to call her Naja.",
       "es": "La llamaré Naja."
     }
   },
@@ -2155,20 +2155,20 @@
   },
   {
     "translation": {
-      "en": "Well, then.",
+      "en": "[Iver] Well, then.",
       "es": "Muy bien."
     }
   },
   {
     "translation": {
       "en": "Unless any man here should know of any impediment,",
-      "es": "A menos que algún presente conozca algún impedimento,"
+      "es": "A menos que algún presenteconozca algún impedimento,"
     }
   },
   {
     "translation": {
       "en": "you and Naja shall be together from this day on.",
-      "es": "usted y Naja estarán juntos a partir de hoy."
+      "es": "usted y Najaestarán juntos a partir de hoy."
     }
   },
   {
@@ -2185,19 +2185,19 @@
   },
   {
     "translation": {
-      "en": "- You got it? - I've got it.",
-      "es": "- ¿Lo tienes? - Lo tengo."
+      "en": "-You got it? -I've got it.",
+      "es": "- ¿Lo tienes?- Lo tengo."
     }
   },
   {
     "translation": {
-      "en": "That's it. That's it.",
+      "en": "[Ejnar] That's it. That's it.",
       "es": "Eso es."
     }
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Ejnar] Come on.",
       "es": "Vamos."
     }
   },
@@ -2227,8 +2227,8 @@
   },
   {
     "translation": {
-      "en": "- What have you done to this? - What?",
-      "es": "- ¿Qué le hiciste a esto? - ¿Qué?"
+      "en": "-What have you done to this? -What?",
+      "es": "- ¿Qué le hiciste a esto?- ¿Qué?"
     }
   },
   {
@@ -2239,8 +2239,8 @@
   },
   {
     "translation": {
-      "en": "- I've not done anything. - You must've done something.",
-      "es": "- No he hecho nada. - Debes haber hecho algo."
+      "en": "-I've not done anything. -You must've done something.",
+      "es": "- No he hecho nada.- Debes haber hecho algo."
     }
   },
   {
@@ -2251,8 +2251,8 @@
   },
   {
     "translation": {
-      "en": "- We're fucked without this. - Captain, I--",
-      "es": "- Sin esto estamos jodidos. - Capitán, yo…"
+      "en": "-We're fucked without this. -Captain, I--",
+      "es": "- Sin esto estamos jodidos.- Capitán, yo…"
     }
   },
   {
@@ -2269,8 +2269,8 @@
   },
   {
     "translation": {
-      "en": "- You do understand that? - Can you pass the kettle, Captain?",
-      "es": "- ¿Sí entiendes? - ¿Me pasa la tetera, capitán?"
+      "en": "-You do understand that? -Can you pass the kettle, Captain?",
+      "es": "- ¿Sí entiendes?- ¿Me pasa la tetera, capitán?"
     }
   },
   {
@@ -2299,8 +2299,8 @@
   },
   {
     "translation": {
-      "en": "- Captain. - Yes, Iversen?",
-      "es": "- Capitán. - ¿Sí, Iversen?"
+      "en": "-Captain. -Yes, Iversen?",
+      "es": "- Capitán.- ¿Sí, Iversen?"
     }
   },
   {
@@ -2329,8 +2329,8 @@
   },
   {
     "translation": {
-      "en": "- Accept that-- - Accept defeat, Iversen?",
-      "es": "- Aceptemos… - ¿Aceptemos la derrota, Iversen?"
+      "en": "-Accept that-- -Accept defeat, Iversen?",
+      "es": "- Aceptemos…- ¿Aceptemos la derrota, Iversen?"
     }
   },
   {
@@ -2378,7 +2378,7 @@
   {
     "translation": {
       "en": "And we will be back on the Alabama by August.",
-      "es": "Estaremos de vuelta en el Alabama en agosto."
+      "es": "Estaremos de vueltaen el Alabama en agosto."
     }
   },
   {
@@ -2389,7 +2389,7 @@
   },
   {
     "translation": {
-      "en": "- Mm? - Iversen, look.",
+      "en": "-Mm? -Iversen, look.",
       "es": "Iversen, mira."
     }
   },
@@ -2407,7 +2407,7 @@
   },
   {
     "translation": {
-      "en": "I think you're right!",
+      "en": "[Iver] I think you're right!",
       "es": "Creo que tiene razón."
     }
   },
@@ -2431,86 +2431,86 @@
   },
   {
     "translation": {
-      "en": "- And oxtail soup, look. - Wait.",
-      "es": "- Y sopa de rabo de toro, mire. - Espera."
+      "en": "-And oxtail soup, look. -Wait.",
+      "es": "- Y sopa de rabo de toro, mire.- Espera."
     }
   },
   {
     "translation": {
-      "en": "August 8th, 1907.",
-      "es": "8 de agosto de 1907."
+      "en": "\"August 8th, 1907.\"",
+      "es": "\"8 de agosto de 1907\"."
     }
   },
   {
     "translation": {
-      "en": "Being without food for ourselves and our dogs,",
-      "es": "Al no tener más comida para nosotros y los perros,"
+      "en": "\"Being without food for ourselves and our dogs,",
+      "es": "\"Al no tener más comidapara nosotros y los perros,"
     }
   },
   {
     "translation": {
       "en": "we must leave this place and try to make our way to coastal areas with game,",
-      "es": "debemos irnos e intentar llegar a las zonas costeras donde haya caza"
+      "es": "debemos irnose intentar llegar a las zonas costeras donde haya caza"
     }
   },
   {
     "translation": {
-      "en": "enough to sledge the 580 miles back to the ship.",
-      "es": "suficiente para recorrer los 930 km de regreso al barco."
+      "en": "enough to sledge the 580 miles back to the ship.\"",
+      "es": "suficiente para recorrerlos 930 km de regreso al barco\"."
     }
   },
   {
     "translation": {
       "en": "They had no food, Captain, but they left this.",
-      "es": "No tenían comida, capitán, pero dejaron esto."
+      "es": "No tenían comida, capitán,pero dejaron esto."
     }
   },
   {
     "translation": {
-      "en": "We discovered and leave a proof in this cairn",
-      "es": "Descubrimos que el canal de Peary no existe"
+      "en": "\"We discovered and leave a proof in this cairn",
+      "es": "\"Descubrimos queel canal de Peary no existe"
     }
   },
   {
     "translation": {
-      "en": "that Peary Channel does not exist.",
-      "es": "y dejamos una prueba en este mojón."
+      "en": "that Peary Channel does not exist.\"",
+      "es": "y dejamos una prueba en este mojón\"."
     }
   },
   {
     "translation": {
-      "en": "Navy Cliff is joined by land to Heilprin Land,",
-      "es": "El acantilado Navy está unido a la tierra de Heilprin,"
+      "en": "\"Navy Cliff is joined by land to Heilprin Land,",
+      "es": "\"El acantilado Navy está unidoa la tierra de Heilprin,"
     }
   },
   {
     "translation": {
-      "en": "therefore our work is almost done.",
-      "es": "por lo que nuestro trabajo está casi terminado."
+      "en": "therefore our work is almost done.\"",
+      "es": "por lo que nuestro trabajoestá casi terminado\"."
     }
   },
   {
     "translation": {
-      "en": "We hope to reach the ship before the end of September, with or without dogs.",
-      "es": "Esperamos llegar al barco antes de terminar septiembre, con o sin perros."
+      "en": "\"We hope to reach the ship before the end of September, with or without dogs.\"",
+      "es": "\"Esperamos llegar al barcoantes de terminar septiembre, con o sin perros\"."
     }
   },
   {
     "translation": {
-      "en": "Lieutenant Mylius- Erichsen,",
-      "es": "Teniente Mylius-Erichsen,"
+      "en": "\"Lieutenant Mylius-Erichsen,",
+      "es": "\"Teniente Mylius-Erichsen,"
     }
   },
   {
     "translation": {
-      "en": "leader of Denmark Expedition to Northeast Greenland.",
-      "es": "líder de la expedición Dinamarca al noreste de Groenlandia."
+      "en": "leader of Denmark Expedition to Northeast Greenland.\"",
+      "es": "líder de la expedición Dinamarcaal noreste de Groenlandia\"."
     }
   },
   {
     "translation": {
       "en": "Robert Peary and the Americans were wrong.",
-      "es": "Robert Peary y los estadounidenses estaban equivocados."
+      "es": "Robert Peary y los estadounidensesestaban equivocados."
     }
   },
   {
@@ -2539,14 +2539,14 @@
   },
   {
     "translation": {
-      "en": "- Beautiful. -",
+      "en": "-Beautiful. -[laughs]",
       "es": "Hermoso."
     }
   },
   {
     "translation": {
       "en": "I don't really understand why what we found is so important,",
-      "es": "No entiendo bien por qué es tan importante lo que encontramos,"
+      "es": "No entiendo bien por quées tan importante lo que encontramos,"
     }
   },
   {
@@ -2570,13 +2570,13 @@
   {
     "translation": {
       "en": "Denmark will thank you one day, Iver Iversen.",
-      "es": "Dinamarca te lo agradecerá algún día, Iver Iversen."
+      "es": "Dinamarca te lo agradeceráalgún día, Iver Iversen."
     }
   },
   {
     "translation": {
       "en": "It's time to celebrate. Now you put that soup on.",
-      "es": "Es hora de celebrar. Pon a calentar esa sopa."
+      "es": "Es hora de celebrar.Pon a calentar esa sopa."
     }
   },
   {
@@ -2588,7 +2588,7 @@
   {
     "translation": {
       "en": "Like walking from Rome to Moscow looking for a stack of stones.",
-      "es": "Es como caminar de Roma a Moscú buscando un montón de piedras."
+      "es": "Es como caminar de Roma a Moscúbuscando un montón de piedras."
     }
   },
   {
@@ -2660,7 +2660,7 @@
   {
     "translation": {
       "en": "about a silver spoon in a pot with anything poisonous?",
-      "es": "de una cuchara de plata en una olla con algo tóxico?"
+      "es": "de una cuchara de plataen una olla con algo tóxico?"
     }
   },
   {
@@ -2731,14 +2731,14 @@
   },
   {
     "translation": {
-      "en": "What should it be?",
+      "en": "[Iver] What should it be?",
       "es": "¿Qué debería ser?"
     }
   },
   {
     "translation": {
-      "en": "- I don't remember. - No, I don't remember either.",
-      "es": "- No me acuerdo. - No, yo tampoco."
+      "en": "-I don't remember. -No, I don't remember either.",
+      "es": "- No me acuerdo.- No, yo tampoco."
     }
   },
   {
@@ -2767,8 +2767,8 @@
   },
   {
     "translation": {
-      "en": "- That's… not green. - That's more brown than green.",
-      "es": "- Eso no es verde. - Es más café que verde."
+      "en": "-That's… not green. -That's more brown than green.",
+      "es": "- Eso no es verde.- Es más café que verde."
     }
   },
   {
@@ -2785,13 +2785,13 @@
   },
   {
     "translation": {
-      "en": "Bloody dogs!",
+      "en": "[shouts] Bloody dogs!",
       "es": "¡Malditos perros!"
     }
   },
   {
     "translation": {
-      "en": "- Shit. -",
+      "en": "-Shit. -[gun cocks]",
       "es": "Mierda."
     }
   },
@@ -2821,14 +2821,14 @@
   },
   {
     "translation": {
-      "en": "It's okay.",
+      "en": "[Iver] It's okay.",
       "es": "Tranquilo."
     }
   },
   {
     "translation": {
       "en": "I can't believe this was the only thing that got torn.",
-      "es": "No puedo creer que esto fue lo único que se rompió."
+      "es": "No puedo creerque esto fue lo único que se rompió."
     }
   },
   {
@@ -2863,8 +2863,8 @@
   },
   {
     "translation": {
-      "en": "- What? - The bear.",
-      "es": "- ¿Qué? - El oso."
+      "en": "-What? -The bear.",
+      "es": "- ¿Qué?- El oso."
     }
   },
   {
@@ -2905,7 +2905,7 @@
   },
   {
     "translation": {
-      "en": "Not like that.",
+      "en": "[chuckles] Not like that.",
       "es": "En ese sentido no."
     }
   },
@@ -2917,7 +2917,7 @@
   },
   {
     "translation": {
-      "en": "They're different, aren't they? Their voices, their smell.",
+      "en": "[sighs] They're different, aren't they? Their voices, their smell.",
       "es": "Son diferentes, ¿no? Sus voces, su olor."
     }
   },
@@ -2930,19 +2930,19 @@
   {
     "translation": {
       "en": "I remember when I was 16, about to join the Navy,",
-      "es": "Cuando tenía 16 años, a punto de alistarme en la Armada,"
+      "es": "Cuando tenía 16 años,a punto de alistarme en la Armada,"
     }
   },
   {
     "translation": {
       "en": "my grandfather asked if I'd go with him to Copenhagen Harbor.",
-      "es": "mi abuelo me dijo que lo acompañara al puerto de Copenhague."
+      "es": "mi abuelo me dijoque lo acompañara al puerto de Copenhague."
     }
   },
   {
     "translation": {
       "en": "I thought we were going to look at ships, so I went along,",
-      "es": "Pensé que íbamos a ver barcos, así que fui."
+      "es": "Pensé que íbamos a ver barcos,así que fui."
     }
   },
   {
@@ -2960,18 +2960,18 @@
   {
     "translation": {
       "en": "He wanted to make sure I was ready to set sail",
-      "es": "Quería asegurarse de que yo estuviera listo para zarpar"
+      "es": "Quería asegurarsede que yo estuviera listo para zarpar"
     }
   },
   {
     "translation": {
-      "en": "and, in his words, be a man.",
-      "es": "y según él, para ser un hombre."
+      "en": "and, in his words, \"be a man.\"",
+      "es": "y según él, \"para ser un hombre\"."
     }
   },
   {
     "translation": {
-      "en": "So he took me to the red- light district",
+      "en": "So he took me to the red-light district",
       "es": "Me llevó a la zona de tolerancia"
     }
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "translation": {
-      "en": "I just went along with it.",
+      "en": "[chuckles] I just went along with it.",
       "es": "Le seguí la corriente."
     }
   },
@@ -3025,14 +3025,14 @@
   },
   {
     "translation": {
-      "en": "to the venereal- disease ward,",
+      "en": "to the venereal-disease ward,",
       "es": "a la sala de enfermedades venéreas,"
     }
   },
   {
     "translation": {
       "en": "to show me the dire consequences of such behavior.",
-      "es": "para mostrarme las terribles consecuencias de ese comportamiento."
+      "es": "para mostrarme las terribles consecuenciasde ese comportamiento."
     }
   },
   {
@@ -3049,7 +3049,7 @@
   },
   {
     "translation": {
-      "en": "- - What are you doing?",
+      "en": "-[grunts] -What are you doing?",
       "es": "¿Qué está haciendo?"
     }
   },
@@ -3074,13 +3074,13 @@
   {
     "translation": {
       "en": "We have to travel light if we're gonna make it.",
-      "es": "Para sobrevivir debemos viajar con poco equipaje."
+      "es": "Para sobrevivirdebemos viajar con poco equipaje."
     }
   },
   {
     "translation": {
       "en": "We'll leave everything that's not absolutely vital.",
-      "es": "Dejaremos todo lo que no sea absolutamente vital."
+      "es": "Dejaremos todo lo que no seaabsolutamente vital."
     }
   },
   {
@@ -3103,8 +3103,8 @@
   },
   {
     "translation": {
-      "en": "- Why can't we go around? - We won't have time.",
-      "es": "- ¿No podemos rodearlo? - No tendremos tiempo."
+      "en": "-Why can't we go around? -We won't have time.",
+      "es": "- ¿No podemos rodearlo?- No tendremos tiempo."
     }
   },
   {
@@ -3127,8 +3127,8 @@
   },
   {
     "translation": {
-      "en": "At least if the proof and our journals are kept here in a cairn,",
-      "es": "Al menos si las pruebas y nuestros diarios quedan aquí en un mojón,"
+      "en": "[Ejnar] At least if the proof and our journals are kept here in a cairn,",
+      "es": "Al menos si las pruebas y nuestros diariosquedan aquí en un mojón,"
     }
   },
   {
@@ -3151,8 +3151,8 @@
   },
   {
     "translation": {
-      "en": "This is what happened to Mylius- Erichsen, isn't it?",
-      "es": "Esto fue lo que le pasó a Mylius-Erichsen, ¿no?"
+      "en": "This is what happened to Mylius-Erichsen, isn't it?",
+      "es": "Esto fue lo que le pasóa Mylius-Erichsen, ¿no?"
     }
   },
   {
@@ -3163,13 +3163,13 @@
   },
   {
     "translation": {
-      "en": "What is it?",
+      "en": "[Ejnar] What is it?",
       "es": "¿Qué pasa?"
     }
   },
   {
     "translation": {
-      "en": "Nothing.",
+      "en": "[wearily] Nothing.",
       "es": "Nada."
     }
   },
@@ -3181,19 +3181,19 @@
   },
   {
     "translation": {
-      "en": "- Get up. Come on. -",
+      "en": "-Get up. Come on. -[groans]",
       "es": "Levántate. Vamos."
     }
   },
   {
     "translation": {
-      "en": "Come on. Get up.",
+      "en": "[breathless] Come on. Get up.",
       "es": "Vamos. Levántate."
     }
   },
   {
     "translation": {
-      "en": "- - Get up.",
+      "en": "-[Iver grunts] -Get up.",
       "es": "Levántate."
     }
   },
@@ -3205,14 +3205,14 @@
   },
   {
     "translation": {
-      "en": "That's the Alabama!",
+      "en": "[wearily] That's the Alabama!",
       "es": "¡Es el Alabama!"
     }
   },
   {
     "translation": {
-      "en": "- We're back! - We're back!",
-      "es": "- ¡Volvimos! - ¡Volvimos!"
+      "en": "-We're back! -We're back!",
+      "es": "- ¡Volvimos!- ¡Volvimos!"
     }
   },
   {
@@ -3229,14 +3229,14 @@
   },
   {
     "translation": {
-      "en": "Sound the bell! - - Sound the bell!",
+      "en": "[Iver] Sound the bell! -[Ejnar laughs] -Sound the bell!",
       "es": "¡Toquen la campana!"
     }
   },
   {
     "translation": {
-      "en": "- It's on land. - What?",
-      "es": "- Está en tierra. - ¿Qué?"
+      "en": "-It's on land. -What?",
+      "es": "- Está en tierra.- ¿Qué?"
     }
   },
   {
@@ -3260,7 +3260,7 @@
   {
     "translation": {
       "en": "They've built a hut with parts of the ship.",
-      "es": "Construyeron una cabaña con partes del barco."
+      "es": "Construyeron una cabañacon partes del barco."
     }
   },
   {
@@ -3277,8 +3277,8 @@
   },
   {
     "translation": {
-      "en": "- Hello? - Hello?",
-      "es": "- ¿Hola? - ¿Hola?"
+      "en": "-Hello? -Hello?",
+      "es": "- ¿Hola?- ¿Hola?"
     }
   },
   {
@@ -3289,7 +3289,7 @@
   },
   {
     "translation": {
-      "en": "No! No!  No, no!",
+      "en": "No! No! [desperately] No, no!",
       "es": "¡No!"
     }
   },
@@ -3308,13 +3308,13 @@
   {
     "translation": {
       "en": "The Alabama was wrecked, crushed by the ice.",
-      "es": "El Alabama estaba destrozado, aplastado por el hielo."
+      "es": "El Alabama estaba destrozado,aplastado por el hielo."
     }
   },
   {
     "translation": {
       "en": "We had to leave when we had the chance.",
-      "es": "Tuvimos que irnos cuando tuvimos la oportunidad."
+      "es": "Tuvimos que irnoscuando tuvimos la oportunidad."
     }
   },
   {
@@ -3325,20 +3325,20 @@
   },
   {
     "translation": {
-      "en": "- Let's pray they make it back. - They want more than prayers.",
-      "es": "- Recemos para que los hombres regresen. - Quieren más que oraciones."
+      "en": "-[official] Let's pray they make it back. -They want more than prayers.",
+      "es": "- Recemos para que los hombres regresen.- Quieren más que oraciones."
     }
   },
   {
     "translation": {
       "en": "You're asking the government to fund another rescue attempt. Is that correct?",
-      "es": "Le pide al gobierno que financie otro intento de rescate. ¿Correcto?"
+      "es": "Le pide al gobierno que financieotro intento de rescate. ¿Correcto?"
     }
   },
   {
     "translation": {
       "en": "Lieutenant Laub, it's not your first visit to the Arctic, is it?",
-      "es": "Teniente Laub, no es su primer viaje al Ártico, ¿verdad?"
+      "es": "Teniente Laub,no es su primer viaje al Ártico, ¿verdad?"
     }
   },
   {
@@ -3374,19 +3374,19 @@
   {
     "translation": {
       "en": "His name is not on the original crew list.",
-      "es": "No está en la lista original de la tripulación."
+      "es": "No está en la lista originalde la tripulación."
     }
   },
   {
     "translation": {
-      "en": "No. He joined Alabama in Reykjavik.",
+      "en": "[official] No. He joined Alabama in Reykjavik.",
       "es": "No. Se unió al Alabama en Reikiavik."
     }
   },
   {
     "translation": {
       "en": "And how come a mechanic is chosen to accompany Mikkelsen",
-      "es": "¿Y por qué eligieron a un mecánico para acompañar a Mikkelsen"
+      "es": "¿Y por qué eligieron a un mecánicopara acompañar a Mikkelsen"
     }
   },
   {
@@ -3397,7 +3397,7 @@
   },
   {
     "translation": {
-      "en": "- Hm? - He volunteered.",
+      "en": "-[minister] Hm? -He volunteered.",
       "es": "Él se ofreció."
     }
   },
@@ -3410,7 +3410,7 @@
   {
     "translation": {
       "en": "Did he have any experience as an Arctic explorer?",
-      "es": "¿Tenía experiencia como explorador del Ártico?"
+      "es": "¿Tenía experienciacomo explorador del Ártico?"
     }
   },
   {
@@ -3428,7 +3428,7 @@
   {
     "translation": {
       "en": "So, three dead men the first time around and now two more on the rescue attempt.",
-      "es": "Tres hombres muertos la primera vez y ahora dos más en el intento de rescate."
+      "es": "Tres hombres muertos la primera vezy ahora dos más en el intento de rescate."
     }
   },
   {
@@ -3439,7 +3439,7 @@
   },
   {
     "translation": {
-      "en": "Proof!",
+      "en": "[scoffs] Proof!",
       "es": "¿Pruebas?"
     }
   },
@@ -3452,13 +3452,13 @@
   {
     "translation": {
       "en": "Now, you two both knew that the chances of success were minimal.",
-      "es": "Ustedes dos sabían que había pocas probabilidades de éxito."
+      "es": "Ustedes dos sabían que habíapocas probabilidades de éxito."
     }
   },
   {
     "translation": {
       "en": "Even less so when you allow an inexperienced greenhorn",
-      "es": "Menos aún cuando dejan que un novato sin experiencia"
+      "es": "Menos aún cuando dejanque un novato sin experiencia"
     }
   },
   {
@@ -3470,13 +3470,13 @@
   {
     "translation": {
       "en": "I can't possibly justify more expense on another fruitless mission.",
-      "es": "No puedo justificar más gastos en otra misión inútil."
+      "es": "No puedo justificar más gastosen otra misión inútil."
     }
   },
   {
     "translation": {
       "en": "Minister, nobody wants to waste government funds.",
-      "es": "Ministro, nadie quiere desperdiciar fondos del gobierno."
+      "es": "Ministro, nadie quieredesperdiciar fondos del gobierno."
     }
   },
   {
@@ -3505,7 +3505,7 @@
   },
   {
     "translation": {
-      "en": "It's gonna be fine.",
+      "en": "[Ejnar] It's gonna be fine.",
       "es": "Todo saldrá bien."
     }
   },
@@ -3523,8 +3523,8 @@
   },
   {
     "translation": {
-      "en": "- I can't believe they left us. - Exactly.",
-      "es": "- No puedo creer que nos hayan dejado. - Exactamente."
+      "en": "-I can't believe they left us. -Exactly.",
+      "es": "- No puedo creer que nos hayan dejado.- Exactamente."
     }
   },
   {
@@ -3559,13 +3559,13 @@
   },
   {
     "translation": {
-      "en": "They think we're dead.",
+      "en": "[Iver] They think we're dead.",
       "es": "Creen que estamos muertos."
     }
   },
   {
     "translation": {
-      "en": "No one thinks we're dead.",
+      "en": "[Ejnar] No one thinks we're dead.",
       "es": "Nadie cree que estamos muertos."
     }
   },
@@ -3602,7 +3602,7 @@
   {
     "translation": {
       "en": "What would you do if a girl suddenly came walking towards us",
-      "es": "¿Qué haría si de repente viniera una chica caminando"
+      "es": "¿Qué haría si de repenteviniera una chica caminando"
     }
   },
   {
@@ -3613,8 +3613,8 @@
   },
   {
     "translation": {
-      "en": "Well, that's not gonna happen. No, but if it did?",
-      "es": "- Eso no va a pasar. - No, pero ¿si pasara?"
+      "en": "[scoffs] Well, that's not gonna happen. No, but if it did?",
+      "es": "- Eso no va a pasar.- No, pero ¿si pasara?"
     }
   },
   {
@@ -3631,7 +3631,7 @@
   },
   {
     "translation": {
-      "en": "Maybe a hot- air balloon.",
+      "en": "Maybe a hot-air balloon.",
       "es": "Tal vez en un globo aerostático."
     }
   },
@@ -3643,8 +3643,8 @@
   },
   {
     "translation": {
-      "en": "- Is that the guy that went missing? - Yeah. I met him once.",
-      "es": "- ¿Ese es el tipo que desapareció? - Sí. Lo conocí."
+      "en": "-Is that the guy that went missing? -Yeah. I met him once.",
+      "es": "- ¿Ese es el tipo que desapareció?- Sí. Lo conocí."
     }
   },
   {
@@ -3656,13 +3656,13 @@
   {
     "translation": {
       "en": "I walked all the way from Copenhagen to Gothenburg to see him.",
-      "es": "Caminé desde Copenhague hasta Gotemburgo para verlo."
+      "es": "Caminé desde Copenhaguehasta Gotemburgo para verlo."
     }
   },
   {
     "translation": {
-      "en": "He was gonna fly his hot- air balloon to the North Pole.",
-      "es": "Iba a volar su globo aerostático al Polo Norte."
+      "en": "He was gonna fly his hot-air balloon to the North Pole.",
+      "es": "Iba a volar su globo aerostáticoal Polo Norte."
     }
   },
   {
@@ -3673,14 +3673,14 @@
   },
   {
     "translation": {
-      "en": "- At 15? - Mm.",
+      "en": "-At 15? -Mm.",
       "es": "¿A los 15 años?"
     }
   },
   {
     "translation": {
-      "en": "Bet he was thrilled to meet a 15- year- old you!",
-      "es": "Seguro que él quedó encantado de conocerlo."
+      "en": "[sarcastic] Bet he was thrilled to meet a 15-year-old you!",
+      "es": "Seguro que él quedóencantado de conocerlo."
     }
   },
   {
@@ -3692,7 +3692,7 @@
   {
     "translation": {
       "en": "but then he paid for me to catch the train back to Copenhagen.",
-      "es": "pero me dio dinero para tomar el tren de regreso a Copenhague."
+      "es": "pero me dio dinero para tomar el trende regreso a Copenhague."
     }
   },
   {
@@ -3709,19 +3709,19 @@
   },
   {
     "translation": {
-      "en": "- Look what I found. - Hm!",
+      "en": "-[Iver] Look what I found. -Hm!",
       "es": "Mire lo que encontré."
     }
   },
   {
     "translation": {
-      "en": "- Broken though. - Too bad.",
-      "es": "- Pero está dañado. - Lástima."
+      "en": "-[Iver] Broken though. -Too bad.",
+      "es": "- Pero está dañado.- Lástima."
     }
   },
   {
     "translation": {
-      "en": "I see.",
+      "en": "[Iver] I see.",
       "es": "Ya veo."
     }
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "translation": {
-      "en": "Yeah?",
+      "en": "[groggily] Yeah?",
       "es": "¿Sí?"
     }
   },
@@ -3763,14 +3763,14 @@
   },
   {
     "translation": {
-      "en": "- We should never have left it. - Right now?",
-      "es": "- No debimos haberlo dejado. - ¿Ahora?"
+      "en": "-We should never have left it. -Right now?",
+      "es": "- No debimos haberlo dejado.- ¿Ahora?"
     }
   },
   {
     "translation": {
       "en": "We need to get back here for when the sea opens up again.",
-      "es": "Debemos volver aquí para cuando el mar se descongele."
+      "es": "Debemos volver aquípara cuando el mar se descongele."
     }
   },
   {
@@ -3781,26 +3781,26 @@
   },
   {
     "translation": {
-      "en": "- Captain. - Yes?",
-      "es": "- Capitán. - ¿Sí?"
+      "en": "-Captain. -Yes?",
+      "es": "- Capitán.- ¿Sí?"
     }
   },
   {
     "translation": {
-      "en": "- Do you think we should leave a note? - No, Iver.",
-      "es": "- ¿No deberíamos dejar una nota? - No, Iver."
+      "en": "-Do you think we should leave a note? -No, Iver.",
+      "es": "- ¿No deberíamos dejar una nota?- No, Iver."
     }
   },
   {
     "translation": {
       "en": "As I told you, we'll be back before the ice breaks.",
-      "es": "Como dije, volveremos antes de que se rompa el hielo."
+      "es": "Como dije, volveremosantes de que se rompa el hielo."
     }
   },
   {
     "translation": {
       "en": "Yeah, but it's 200 miles there and 200 miles back.",
-      "es": "Sí, pero son 320 kilómetros de ida y 320 de regreso."
+      "es": "Sí, pero son 320 kilómetros de iday 320 de regreso."
     }
   },
   {
@@ -3836,13 +3836,13 @@
   {
     "translation": {
       "en": "They say there's truth in every dream.",
-      "es": "Dicen que en cada sueño hay algo de verdad."
+      "es": "Dicen que en cada sueñohay algo de verdad."
     }
   },
   {
     "translation": {
       "en": "Well, I hope for your sake there's no truth in my dreams.",
-      "es": "Por su bien, espero en mis sueños no haya nada de verdad."
+      "es": "Por su bien, espero en mis sueñosno haya nada de verdad."
     }
   },
   {
@@ -3859,20 +3859,20 @@
   },
   {
     "translation": {
-      "en": "Oh, you're back!",
-      "es": "¡Regresaste!"
+      "en": "\"Oh, you're back!\"",
+      "es": "\"¡Regresaste!\""
     }
   },
   {
     "translation": {
-      "en": "Well done. Where's your work?",
-      "es": "Muy bien. ¿Dónde está tu trabajo?"
+      "en": "\"Well done. Where's your work?\"",
+      "es": "\"Muy bien. ¿Dónde está tu trabajo?\""
     }
   },
   {
     "translation": {
-      "en": "Oh, sorry, sir. It got eaten by a bear.",
-      "es": "Lo siento, señor. Se lo comió un oso."
+      "en": "\"Oh, sorry, sir. It got eaten by a bear.\"",
+      "es": "\"Lo siento, señor. Se lo comió un oso\"."
     }
   },
   {
@@ -3907,8 +3907,8 @@
   },
   {
     "translation": {
-      "en": "- I don't… - No?",
-      "es": "- No sé. - ¿No?"
+      "en": "-[breathless] I don't… -No?",
+      "es": "- No sé.- ¿No?"
     }
   },
   {
@@ -3932,18 +3932,18 @@
   {
     "translation": {
       "en": "They say there's truth in every dream, Iversen.",
-      "es": "Dicen que en cada sueño hay algo de verdad, Iversen."
+      "es": "Dicen que en cada sueñohay algo de verdad, Iversen."
     }
   },
   {
     "translation": {
       "en": "They say there's truth in every dream.",
-      "es": "Dicen que en cada sueño hay algo de verdad."
+      "es": "Dicen que en cada sueñohay algo de verdad."
     }
   },
   {
     "translation": {
-      "en": "See it?",
+      "en": "[Iver] See it?",
       "es": "¿Lo ve?"
     }
   },
@@ -3991,8 +3991,8 @@
   },
   {
     "translation": {
-      "en": "- Watch that rock. - Yeah.",
-      "es": "- Cuidado con esa roca. - Sí."
+      "en": "-Watch that rock. -Yeah.",
+      "es": "- Cuidado con esa roca.- Sí."
     }
   },
   {
@@ -4003,8 +4003,8 @@
   },
   {
     "translation": {
-      "en": "- What? - Captain, someone's here.",
-      "es": "- ¿Qué? - Capitán, aquí hay alguien."
+      "en": "-What? -Captain, someone's here.",
+      "es": "- ¿Qué?- Capitán, aquí hay alguien."
     }
   },
   {
@@ -4015,20 +4015,38 @@
   },
   {
     "translation": {
-      "en": "July 23rd, 1911.",
-      "es": "23 de julio de 1911."
+      "en": "[Ejnar] \"July 23rd, 1911.\"",
+      "es": "\"23 de julio de 1911\"."
     }
   },
   {
     "translation": {
-      "en": "Looking for…",
-      "es": "Busco a…"
+      "en": "\"Looking for…",
+      "es": "\"Busco a…"
     }
   },
   {
     "translation": {
-      "en": "No sign.",
-      "es": "No hay rastros."
+      "en": "Ejnar Mikkelsen.\"",
+      "es": "Ejnar Mikkelsen\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"No sign.\"",
+      "es": "\"No hay rastros\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Joseph Motzfeldt.\"",
+      "es": "\"Joseph Motzfeldt\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Bergen.\"",
+      "es": "\"Bergen\"."
     }
   },
   {
@@ -4069,8 +4087,8 @@
   },
   {
     "translation": {
-      "en": "- If we'd-- - Don't be clever, Iver.",
-      "es": "- Si hubiéramos… - No te hagas el listo, Iver."
+      "en": "-If we'd-- -Don't be clever, Iver.",
+      "es": "- Si hubiéramos…- No te hagas el listo, Iver."
     }
   },
   {
@@ -4087,8 +4105,8 @@
   },
   {
     "translation": {
-      "en": "Minister, when the sailor found the hut, it was boarded up.",
-      "es": "Ministro, cuando el marinero encontró la cabaña, estaba sellada."
+      "en": "[Jørgensen] Minister, when the sailor found the hut, it was boarded up.",
+      "es": "Ministro, cuando el marineroencontró la cabaña, estaba sellada."
     }
   },
   {
@@ -4106,7 +4124,7 @@
   {
     "translation": {
       "en": "Do you mind if we walk and talk?",
-      "es": "¿Le importa si hablamos mientras caminamos?"
+      "es": "¿Le importa si hablamosmientras caminamos?"
     }
   },
   {
@@ -4117,14 +4135,14 @@
   },
   {
     "translation": {
-      "en": "- I know you're a very busy man. - Busy?",
-      "es": "- Sé que es un hombre ocupado. - ¿Ocupado?"
+      "en": "-I know you're a very busy man. -Busy?",
+      "es": "- Sé que es un hombre ocupado.- ¿Ocupado?"
     }
   },
   {
     "translation": {
       "en": "Thank you. The whole nation seems to be rattling a begging bowl.",
-      "es": "Gracias. Parece que todo el país me pide dinero."
+      "es": "Gracias. Parece que todo el paísme pide dinero."
     }
   },
   {
@@ -4136,7 +4154,7 @@
   {
     "translation": {
       "en": "that it's financially viable to maintain these wretched colonies,",
-      "es": "de que aún es económicamente viable mantener esas colonias,"
+      "es": "de que aún es económicamente viablemantener esas colonias,"
     }
   },
   {
@@ -4178,13 +4196,13 @@
   {
     "translation": {
       "en": "Anyway, this Mikkelsen rescue business.",
-      "es": "En fin, este asunto del rescate de Mikkelsen."
+      "es": "En fin, este asuntodel rescate de Mikkelsen."
     }
   },
   {
     "translation": {
       "en": "We appreciate and understand the importance of the work he undertook,",
-      "es": "Apreciamos y entendemos la importancia de su trabajo,"
+      "es": "Apreciamos y entendemosla importancia de su trabajo,"
     }
   },
   {
@@ -4195,7 +4213,7 @@
   },
   {
     "translation": {
-      "en": "The Americans, they're desperate.",
+      "en": "[chuckles] The Americans, they're desperate.",
       "es": "Los estadounidenses están desesperados."
     }
   },
@@ -4208,7 +4226,7 @@
   {
     "translation": {
       "en": "and this bloody Peary chap claiming the North Pole.",
-      "es": "y el maldito de Peary reclama el Polo Norte."
+      "es": "y el maldito de Pearyreclama el Polo Norte."
     }
   },
   {
@@ -4220,7 +4238,7 @@
   {
     "translation": {
       "en": "I'm confident that the captain secured the evidence.",
-      "es": "Estoy seguro de que el capitán aseguró la evidencia."
+      "es": "Estoy segurode que el capitán aseguró la evidencia."
     }
   },
   {
@@ -4232,25 +4250,25 @@
   {
     "translation": {
       "en": "Nor do you know where in this vast country we should send a rescue mission.",
-      "es": "Ni sabe a qué parte de ese gran territorio debemos enviar una misión de rescate."
+      "es": "Ni sabe a qué parte de ese gran territoriodebemos enviar una misión de rescate."
     }
   },
   {
     "translation": {
-      "en": "- I know this is difficult for you to bear. - They won't survive another year.",
-      "es": "- Sé que es difícil para usted. - No sobrevivirán un año más."
+      "en": "-I know this is difficult for you to bear. -They won't survive another year.",
+      "es": "- Sé que es difícil para usted.- No sobrevivirán un año más."
     }
   },
   {
     "translation": {
       "en": "If we don't get a ship there before the ice freezes next summer,",
-      "es": "Si no enviamos un barco antes de que el hielo se congele en el verano,"
+      "es": "Si no enviamos un barco antesde que el hielo se congele en el verano,"
     }
   },
   {
     "translation": {
       "en": "not only do we give up on them, but we also give up on Greenland.",
-      "es": "no solo renunciaremos a ellos, también renunciaremos a Groenlandia."
+      "es": "no solo renunciaremos a ellos,también renunciaremos a Groenlandia."
     }
   },
   {
@@ -4279,14 +4297,14 @@
   },
   {
     "translation": {
-      "en": "- But would you, Captain? - Honestly, Iver, I don't know.",
-      "es": "- Pero ¿lo haría, capitán? - Sinceramente, no lo sé."
+      "en": "-But would you, Captain? -Honestly, Iver, I don't know.",
+      "es": "- Pero ¿lo haría, capitán?- Sinceramente, no lo sé."
     }
   },
   {
     "translation": {
-      "en": "It's not like you. What?",
-      "es": "- Eso es raro en usted. - ¿Qué?"
+      "en": "[sighs] It's not like you. What?",
+      "es": "- Eso es raro en usted.- ¿Qué?"
     }
   },
   {
@@ -4316,7 +4334,7 @@
   {
     "translation": {
       "en": "This is our first Christmas here, in the hut?",
-      "es": "¿Es nuestra primera Navidad aquí en la cabaña?"
+      "es": "¿Es nuestra primera Navidadaquí en la cabaña?"
     }
   },
   {
@@ -4345,8 +4363,8 @@
   },
   {
     "translation": {
-      "en": "- Happy Christmas, Iver. - Happy Christmas, Captain.",
-      "es": "- Feliz Navidad, Iver. - Feliz Navidad, capitán."
+      "en": "-Happy Christmas, Iver. -Happy Christmas, Captain.",
+      "es": "- Feliz Navidad, Iver.- Feliz Navidad, capitán."
     }
   },
   {
@@ -4358,7 +4376,7 @@
   {
     "translation": {
       "en": "It's that whilst you still had your hands, I couldn't…",
-      "es": "es de que mientras tuviera manos, yo no podría…"
+      "es": "es de que mientras tuviera manos,yo no podría…"
     }
   },
   {
@@ -4376,13 +4394,13 @@
   {
     "translation": {
       "en": "but for me, it's hands that distinguish humans from animals.",
-      "es": "pero creo que las manos son las que distinguen a humanos de animales."
+      "es": "pero creo que las manos son las quedistinguen a humanos de animales."
     }
   },
   {
     "translation": {
       "en": "It's with our hands we can do all the things that animals can't do.",
-      "es": "Con las manos hacemos todo lo que los animales no pueden hacer."
+      "es": "Con las manos hacemos todolo que los animales no pueden hacer."
     }
   },
   {
@@ -4447,7 +4465,7 @@
   },
   {
     "translation": {
-      "en": "It's okay.",
+      "en": "[woman] It's okay.",
       "es": "Está bien."
     }
   },
@@ -4501,7 +4519,7 @@
   },
   {
     "translation": {
-      "en": "Was this worth it?",
+      "en": "[Naja] Was this worth it?",
       "es": "¿Valió la pena?"
     }
   },
@@ -4538,7 +4556,7 @@
   {
     "translation": {
       "en": "The ice isn't completely impassable yet, is it?",
-      "es": "El hielo todavía no está infranqueable, ¿verdad?"
+      "es": "El hielo todavía no estáinfranqueable, ¿verdad?"
     }
   },
   {
@@ -4561,7 +4579,7 @@
   },
   {
     "translation": {
-      "en": "He seems okay.",
+      "en": "[Naja] He seems okay.",
       "es": "Parece estar bien."
     }
   },
@@ -4616,13 +4634,13 @@
   {
     "translation": {
       "en": "make sure things don't get too much.",
-      "es": "Para que las cosas no se salgan de control."
+      "es": "Para que las cosasno se salgan de control."
     }
   },
   {
     "translation": {
       "en": "Do you believe in ghosts, Captain? Ghosts?",
-      "es": "- ¿Cree en fantasmas, capitán? - ¿Fantasmas?"
+      "es": "- ¿Cree en fantasmas, capitán?- ¿Fantasmas?"
     }
   },
   {
@@ -4663,7 +4681,7 @@
   },
   {
     "translation": {
-      "en": "Wh- what do you mean you met him?",
+      "en": "Wh-what do you mean you met him?",
       "es": "¿Cómo que lo viste?"
     }
   },
@@ -4671,6 +4689,12 @@
     "translation": {
       "en": "You sensed him? You felt his presence?",
       "es": "¿Lo percibiste? ¿Sentiste su presencia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Iver] No.",
+      "es": "No."
     }
   },
   {
@@ -4711,14 +4735,14 @@
   },
   {
     "translation": {
-      "en": "- I didn't mean to… - No.",
-      "es": "- No quise… - No."
+      "en": "-I didn't mean to… -[Iver] No.",
+      "es": "- No quise…- No."
     }
   },
   {
     "translation": {
-      "en": "- If there's anything I can, you know-- - I know.",
-      "es": "- Si hay algo que pueda… - Lo sé."
+      "en": "-If there's anything I can, you know-- -I know.",
+      "es": "- Si hay algo que pueda…- Lo sé."
     }
   },
   {
@@ -4729,7 +4753,7 @@
   },
   {
     "translation": {
-      "en": "What if you never come home?",
+      "en": "[Naja] What if you never come home?",
       "es": "¿Y si no regresas nunca?"
     }
   },
@@ -4741,14 +4765,14 @@
   },
   {
     "translation": {
-      "en": "- We were going to get married. - I didn't have an option.",
-      "es": "- Nos íbamos a casar. - No tenía alternativa."
+      "en": "-We were going to get married. -I didn't have an option.",
+      "es": "- Nos íbamos a casar.- No tenía alternativa."
     }
   },
   {
     "translation": {
-      "en": "- I couldn't see another way. - Someone else could do this. Why you?",
-      "es": "- No veía otra salida. - Alguien más podía hacerlo. ¿Por qué tú?"
+      "en": "-I couldn't see another way. -Someone else could do this. Why you?",
+      "es": "- No veía otra salida.- Alguien más podía hacerlo. ¿Por qué tú?"
     }
   },
   {
@@ -4760,7 +4784,7 @@
   {
     "translation": {
       "en": "I don't know why it had to be me, but it did. It was always going to be me.",
-      "es": "No sé por qué tenía que ser yo, pero así fue. Siempre iba a ser yo."
+      "es": "No sé por qué tenía que ser yo,pero así fue. Siempre iba a ser yo."
     }
   },
   {
@@ -4783,13 +4807,13 @@
   },
   {
     "translation": {
-      "en": "- I know. - Don't you?",
-      "es": "- Lo sé. - ¿Verdad?"
+      "en": "-I know. -Don't you?",
+      "es": "- Lo sé.- ¿Verdad?"
     }
   },
   {
     "translation": {
-      "en": "I know.",
+      "en": "[sobs] I know.",
       "es": "Lo sé."
     }
   },
@@ -4819,8 +4843,8 @@
   },
   {
     "translation": {
-      "en": "- Don't be silly. Let me see. - No.",
-      "es": "- No seas tonto. Déjame ver. - No."
+      "en": "-Don't be silly. Let me see. -No.",
+      "es": "- No seas tonto. Déjame ver.- No."
     }
   },
   {
@@ -4855,8 +4879,8 @@
   },
   {
     "translation": {
-      "en": "- Lance it for me. - What?",
-      "es": "- Ábremelo. - ¿Qué?"
+      "en": "-Lance it for me. -What?",
+      "es": "- Ábremelo.- ¿Qué?"
     }
   },
   {
@@ -4867,8 +4891,8 @@
   },
   {
     "translation": {
-      "en": "- You're kidding? - Please.",
-      "es": "- ¿Bromea? - Por favor."
+      "en": "-You're kidding? -Please.",
+      "es": "- ¿Bromea?- Por favor."
     }
   },
   {
@@ -4879,19 +4903,19 @@
   },
   {
     "translation": {
-      "en": "Okay. All right.",
+      "en": "[Iver] Okay. All right.",
       "es": "Bien. Está bien."
     }
   },
   {
     "translation": {
-      "en": "- All right. - Yeah.",
-      "es": "- Está bien. - Sí."
+      "en": "-All right. -Yeah.",
+      "es": "- Está bien.- Sí."
     }
   },
   {
     "translation": {
-      "en": "- Don't move. - Mm.",
+      "en": "-Don't move. -Mm.",
       "es": "No se mueva."
     }
   },
@@ -4909,7 +4933,7 @@
   },
   {
     "translation": {
-      "en": "Three,",
+      "en": "[shakily] Three,",
       "es": "Tres,"
     }
   },
@@ -5006,7 +5030,7 @@
   {
     "translation": {
       "en": "I'll go and have a look. Might be a rabbit or something.",
-      "es": "Iré a ver. Podría ser un conejo o algo así."
+      "es": "Iré a ver.Podría ser un conejo o algo así."
     }
   },
   {
@@ -5017,7 +5041,7 @@
   },
   {
     "translation": {
-      "en": "It was just a dream.",
+      "en": "[Naja] It was just a dream.",
       "es": "Solo fue un sueño."
     }
   },
@@ -5035,7 +5059,7 @@
   },
   {
     "translation": {
-      "en": "You took her! You took her! You took her!",
+      "en": "[Ejnar] You took her! You took her! You took her!",
       "es": "¡La tomaste!"
     }
   },
@@ -5053,14 +5077,14 @@
   },
   {
     "translation": {
-      "en": "- She was mine! - It's okay.",
-      "es": "- ¡Era mía! - Tranquilo."
+      "en": "-[Ejnar] She was mine! -It's okay.",
+      "es": "- ¡Era mía!- Tranquilo."
     }
   },
   {
     "translation": {
-      "en": "- Mine! - It's okay.",
-      "es": "- ¡Mía! - Tranquilo."
+      "en": "-Mine! -It's okay.",
+      "es": "- ¡Mía!- Tranquilo."
     }
   },
   {
@@ -5089,8 +5113,8 @@
   },
   {
     "translation": {
-      "en": "- Captain, put it down. - Don't do this!",
-      "es": "- Capitán, suéltelo. - ¡No lo hagas!"
+      "en": "-Captain, put it down. -[Naja] Don't do this!",
+      "es": "- Capitán, suéltelo.- ¡No lo hagas!"
     }
   },
   {
@@ -5101,37 +5125,37 @@
   },
   {
     "translation": {
-      "en": "- Calm down. - Don't do this. It's not real.",
+      "en": "-Calm down. -[Naja] Don't do this. It's not real.",
       "es": "Cálmese. No lo hagas. No es real."
     }
   },
   {
     "translation": {
-      "en": "It's not real.",
+      "en": "[Iver] It's not real.",
       "es": "No es real."
     }
   },
   {
     "translation": {
-      "en": "- Don't do this! - Put the gun down.",
-      "es": "- ¡No lo hagas! - Baje el arma."
+      "en": "-Don't do this! -[Iver] Put the gun down.",
+      "es": "- ¡No lo hagas!- Baje el arma."
     }
   },
   {
     "translation": {
-      "en": "- Stop! - It's not real! - Put it down. - Put it down!",
-      "es": "- ¡Ejnar, basta! ¡Baja el arma! - No es real. ¡Bájela!"
+      "en": "-[Naja] Stop! -It's not real! -Put it down. -Put it down!",
+      "es": "- ¡Ejnar, basta! ¡Baja el arma!- No es real. ¡Bájela!"
     }
   },
   {
     "translation": {
-      "en": "- Put it down! - Ejnar, stop!",
-      "es": "- ¡Bájela! - ¡Ejnar, detente!"
+      "en": "-Put it down! -[Naja] Ejnar, stop!",
+      "es": "- ¡Bájela!- ¡Ejnar, detente!"
     }
   },
   {
     "translation": {
-      "en": "Just…",
+      "en": "[softly] Just…",
       "es": "Solo…"
     }
   },
@@ -5167,8 +5191,8 @@
   },
   {
     "translation": {
-      "en": "- Ammunition? - We had two cartridges.",
-      "es": "- ¿Municiones? - Teníamos dos cartuchos."
+      "en": "-Ammunition? -We had two cartridges.",
+      "es": "- ¿Municiones?- Teníamos dos cartuchos."
     }
   },
   {
@@ -5191,8 +5215,8 @@
   },
   {
     "translation": {
-      "en": "- It's in the storage hut! - What?",
-      "es": "- ¡En el depósito! - ¿Qué?"
+      "en": "-It's in the storage hut! -What?",
+      "es": "- ¡En el depósito!- ¿Qué?"
     }
   },
   {
@@ -5203,7 +5227,7 @@
   },
   {
     "translation": {
-      "en": "You think it's gone?",
+      "en": "[whispers] You think it's gone?",
       "es": "¿Se habrá ido?"
     }
   },
@@ -5227,7 +5251,7 @@
   },
   {
     "translation": {
-      "en": "- Iver. Iver. -",
+      "en": "-[softly] Iver. Iver. -[grunts]",
       "es": "Iver."
     }
   },
@@ -5239,8 +5263,8 @@
   },
   {
     "translation": {
-      "en": "- Yeah? - Yeah.",
-      "es": "- ¿Sí? - Sí."
+      "en": "-Yeah? -Yeah.",
+      "es": "- ¿Sí?- Sí."
     }
   },
   {
@@ -5263,7 +5287,7 @@
   },
   {
     "translation": {
-      "en": "Give me your weapon.",
+      "en": "[man] Give me your weapon.",
       "es": "Dame el arma."
     }
   },
@@ -5287,20 +5311,20 @@
   },
   {
     "translation": {
-      "en": "What is the single most important task for an explorer?",
-      "es": "¿Cuál es la tarea más importante para un explorador?"
+      "en": "[Neergaard] What is the single most important task for an explorer?",
+      "es": "¿Cuál es la tarea más importantepara un explorador?"
     }
   },
   {
     "translation": {
       "en": "When you travel into unknown lands to discover new parts of the globe,",
-      "es": "Cuando viaja a tierras desconocidas para descubrir nuevas partes del mundo,"
+      "es": "Cuando viaja a tierras desconocidaspara descubrir nuevas partes del mundo,"
     }
   },
   {
     "translation": {
       "en": "it is to ensure the records of your discoveries",
-      "es": "es para asegurarse de que los registros de sus hallazgos"
+      "es": "es para asegurarse de quelos registros de sus hallazgos"
     }
   },
   {
@@ -5324,31 +5348,31 @@
   {
     "translation": {
       "en": "The blood, sweat and tears would all be for nothing.",
-      "es": "La sangre, el sudor y las lágrimas no habrán servido de nada."
+      "es": "La sangre, el sudor y las lágrimasno habrán servido de nada."
     }
   },
   {
     "translation": {
       "en": "Unlike the honorable members of the Danish press,",
-      "es": "A diferencia de los honorables miembros de la prensa danesa,"
+      "es": "A diferencia de los honorables miembrosde la prensa danesa,"
     }
   },
   {
     "translation": {
       "en": "we in the Danish government never doubted for a second",
-      "es": "en el gobierno danés nunca dudamos ni por un segundo"
+      "es": "en el gobierno danésnunca dudamos ni por un segundo"
     }
   },
   {
     "translation": {
       "en": "that Captain Mikkelsen would return home safe and sound.",
-      "es": "que el capitán Mikkelsen regresaría sano y salvo."
+      "es": "que el capitán Mikkelsenregresaría sano y salvo."
     }
   },
   {
     "translation": {
       "en": "We played our part in ensuring the safe return of a Danish hero.",
-      "es": "Trabajamos para asegurar el regreso seguro de un héroe danés."
+      "es": "Trabajamos para asegurarel regreso seguro de un héroe danés."
     }
   },
   {
@@ -5377,7 +5401,7 @@
   },
   {
     "translation": {
-      "en": "- You wanted to work on that. -",
+      "en": "-You wanted to work on that. -[chuckles]",
       "es": "Querías trabajar ahí."
     }
   },
@@ -5413,8 +5437,8 @@
   },
   {
     "translation": {
-      "en": "Based on the findings brought back by Captain Ejnar Mikkelsen,",
-      "es": "Con base en los hallazgos que trajo el capitán Ejnar Mikkelsen,"
+      "en": "\"Based on the findings brought back by Captain Ejnar Mikkelsen,",
+      "es": "\"Con base en los hallazgosque trajo el capitán Ejnar Mikkelsen,"
     }
   },
   {
@@ -5431,14 +5455,20 @@
   },
   {
     "translation": {
-      "en": "but a part of Greenland.",
-      "es": "sino una parte de Groenlandia."
+      "en": "but a part of Greenland.\"",
+      "es": "sino una parte de Groenlandia\"."
     }
   },
   {
     "translation": {
-      "en": "- Yeah? - Is there a woman standing there?",
-      "es": "- ¿Sí? - ¿Hay una mujer ahí parada?"
+      "en": "[Ejnar] Iver.",
+      "es": "Iver."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah? -Is there a woman standing there?",
+      "es": "- ¿Sí?- ¿Hay una mujer ahí parada?"
     }
   },
   {
@@ -5461,13 +5491,13 @@
   },
   {
     "translation": {
-      "en": "Captain.",
+      "en": "[Iver] Captain.",
       "es": "Capitán."
     }
   },
   {
     "translation": {
-      "en": "- It gives me great pleasure… - Congratulations, gentlemen.",
+      "en": "-[Neergaard] It gives me great pleasure… -Congratulations, gentlemen.",
       "es": "Es un placer para mí… Felicitaciones, caballeros."
     }
   },
@@ -5486,7 +5516,7 @@
   {
     "translation": {
       "en": "the men who made the impossible possible.",
-      "es": "a los hombres que hicieron posible lo imposible."
+      "es": "a los hombresque hicieron posible lo imposible."
     }
   },
   {
@@ -5497,8 +5527,8 @@
   },
   {
     "translation": {
-      "en": "- It's a pleasure to meet you, Miss… - Holm.",
-      "es": "- Un placer, señorita… - Holm."
+      "en": "-It's a pleasure to meet you, Miss… -Holm.",
+      "es": "- Un placer, señorita…- Holm."
     }
   },
   {
@@ -5533,14 +5563,14 @@
   },
   {
     "translation": {
-      "en": "They have returned, I promise you!",
+      "en": "[chuckles] They have returned, I promise you!",
       "es": "¡Regresaron, se los aseguro!"
     }
   },
   {
     "translation": {
-      "en": "- Minister. Iver Iversen. - Thank you, sir.",
-      "es": "- Ministro. Iver Iversen. - Gracias, señor."
+      "en": "-Minister. Iver Iversen. -Thank you, sir.",
+      "es": "- Ministro. Iver Iversen.- Gracias, señor."
     }
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "We've got a homicide, possibly gang- related. York Hotel.",
-      "ja": "ヨーク･ホテルで ギャング関連の殺人事件"
+      "en": "[man 1 over radio] We've got a homicide, possibly gang-related. York Hotel.",
+      "ja": "ヨーク･ホテルでギャング関連の殺人事件"
     }
   },
   {
     "translation": {
-      "en": "Yeah, copy that, Control. 10- 4.",
+      "en": "[man 2] Yeah, copy that, Control. 10-4.",
       "ja": "急行します"
     }
   },
@@ -25,20 +25,20 @@
   },
   {
     "translation": {
-      "en": "Hey, Frank, how about a freebie?",
+      "en": "Hey, Frank, how about a freebie? [laughing]",
       "ja": "フランク　タダ乗りする？"
     }
   },
   {
     "translation": {
-      "en": "- Detective Crankovich. - Sorry, Detective...?",
+      "en": "-Detective Crankovich. -[cop] Sorry, Detective...?",
       "ja": "クランコビッチ刑事 すみません"
     }
   },
   {
     "translation": {
       "en": "Mankovich. Frank. Frank Mankovich. Detective.",
-      "ja": "フランク･マンコビッチ 刑事だ"
+      "ja": "フランク･マンコビッチ刑事だ"
     }
   },
   {
@@ -49,20 +49,20 @@
   },
   {
     "translation": {
-      "en": "- Detective Hankovich. - Detective.",
+      "en": "-Detective Hankovich. -[cops] Detective.",
       "ja": "ハンコビッチだ"
     }
   },
   {
     "translation": {
       "en": "Hey, we're part of the investigation. Detective Frank Wankovich.",
-      "ja": "刑事だ　話を聞きたい フランク･ワンコビッチと クレア･レディー"
+      "ja": "刑事だ　話を聞きたい フランク･ワンコビッチとクレア･レディー"
     }
   },
   {
     "translation": {
       "en": "Detective Claire Lady. What happened here?",
-      "ja": "フランク･ワンコビッチと クレア･レディー 何があった？"
+      "ja": "フランク･ワンコビッチとクレア･レディー 何があった？"
     }
   },
   {
@@ -80,25 +80,25 @@
   {
     "translation": {
       "en": "Well, I was by reception and a man came in, and he was wearing a helmet",
-      "ja": "受付にいたら 男性が現れました ヘルメットをかぶり 手には銃を"
+      "ja": "受付にいたら男性が現れました ヘルメットをかぶり手には銃を"
     }
   },
   {
     "translation": {
       "en": "and he had a gun with a silencer.",
-      "ja": "ヘルメットをかぶり 手には銃を"
+      "ja": "ヘルメットをかぶり手には銃を"
     }
   },
   {
     "translation": {
-      "en": "Mm- hm. And then?",
+      "en": "Mm-hm. And then?",
       "ja": "それで？"
     }
   },
   {
     "translation": {
       "en": "Well, he pointed the gun at Mr. Ivanov",
-      "ja": "その男が イワノフ氏に銃を向け"
+      "ja": "その男がイワノフ氏に銃を向け"
     }
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "translation": {
-      "en": "- What did he look like? - Bonneville.",
+      "en": "-What did he look like? -[Perry] Bonneville.",
       "ja": "人相は？ ボネビル"
     }
   },
@@ -145,7 +145,7 @@
   },
   {
     "translation": {
-      "en": "- Hi. - Get out of here. Both of you.",
+      "en": "-Hi. -Get out of here. Both of you.",
       "ja": "出てけ ２人とも"
     }
   },
@@ -157,7 +157,7 @@
   },
   {
     "translation": {
-      "en": "- Wait, you're not a detective? - No.",
+      "en": "-Wait, you're not a detective? -No.",
       "ja": "刑事では？ 違うがフランクは本名だ"
     }
   },
@@ -175,19 +175,19 @@
   },
   {
     "translation": {
-      "en": "- Detective, a comment, please? - Okay, let them through.",
+      "en": "-[man] Detective, a comment, please? -Okay, let them through.",
       "ja": "刑事さん　コメントを 入れていいぞ"
     }
   },
   {
     "translation": {
-      "en": "- Hey. What? What are you doing? - He said let them through.",
+      "en": "-Hey. What? What are you doing? -He said let them through.",
       "ja": "おい　何をする 入れろと"
     }
   },
   {
     "translation": {
-      "en": "- You don't let anybody through. - Oh.",
+      "en": "-You don't let anybody through. -Oh.",
       "ja": "誰も通すな"
     }
   },
@@ -199,25 +199,25 @@
   },
   {
     "translation": {
-      "en": "- Get me the control room. - They're on.",
+      "en": "-[Frank] Get me the control room. -They're on.",
       "ja": "調整室を つながってる"
     }
   },
   {
     "translation": {
-      "en": "- Hey. - So, you got a story, Frank?",
+      "en": "-Hey. -[Mallard] So, you got a story, Frank?",
       "ja": "やあ どんなネタだ？"
     }
   },
   {
     "translation": {
-      "en": "Russian Mafia Wars. How's that sound?",
+      "en": "\"Russian Mafia Wars.\" How's that sound?",
       "ja": "ロシアマフィアの抗争"
     }
   },
   {
     "translation": {
-      "en": "Okay. Let's do it now.",
+      "en": "[Mallard] Okay. Let's do it now.",
       "ja": "いいね　やろう"
     }
   },
@@ -230,7 +230,7 @@
   {
     "translation": {
       "en": "At 8:45, Sergei Ivanov, a.k.a. Three Fingers,",
-      "ja": "３本指のロシア人 セルゲイ･イワノフは⸺"
+      "ja": "３本指のロシア人セルゲイ･イワノフは⸺"
     }
   },
   {
@@ -242,13 +242,13 @@
   {
     "translation": {
       "en": "He'd just breakfasted on eggs, toast, and a black coffee. His last breakfast.",
-      "ja": "ホテルでの朝食が 最後の食事になりました"
+      "ja": "ホテルでの朝食が最後の食事になりました"
     }
   },
   {
     "translation": {
       "en": "The sumptuous lifestyle and escapades of Sergei Ivanov,",
-      "ja": "派手な生活を好んだ イワノフは⸺"
+      "ja": "派手な生活を好んだイワノフは⸺"
     }
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "translation": {
-      "en": "- A true artist. He's the best. - He's certainly the best at what he does.",
+      "en": "-A true artist. He's the best. -He's certainly the best at what he does.",
       "ja": "真のアーティストだな 確かに仕事はできるわね"
     }
   },
@@ -283,19 +283,19 @@
   },
   {
     "translation": {
-      "en": "- You need any help? - No, I'm fine. Won't be a minute.",
+      "en": "-You need any help? -No, I'm fine. Won't be a minute.",
       "ja": "手伝う？ いやすぐ終わる"
     }
   },
   {
     "translation": {
-      "en": "Darling.",
+      "en": "\"Darling.\"",
       "ja": "電話の相手は恋人か？"
     }
   },
   {
     "translation": {
-      "en": "- Who was that, then, your girlfriend? - I'm married.",
+      "en": "-Who was that, then, your girlfriend? -I'm married.",
       "ja": "電話の相手は恋人か？ 僕は既婚者だ"
     }
   },
@@ -307,61 +307,61 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Eh! He's a player.",
+      "en": "-[Finch] Yeah. -Eh! He's a player.",
       "ja": "いや　こいつは色男だ"
     }
   },
   {
     "translation": {
-      "en": "- Aren't you, Finch? Huh? -",
-      "ja": "フィンチ 愛人がいるんだろ？"
+      "en": "-Aren't you, Finch? Huh? -[video game noises]",
+      "ja": "フィンチ愛人がいるんだろ？"
     }
   },
   {
     "translation": {
-      "en": "- Chick in every port? - Nah.",
-      "ja": "フィンチ 愛人がいるんだろ？ まさか"
+      "en": "-Chick in every port? -Nah.",
+      "ja": "フィンチ愛人がいるんだろ？ まさか"
     }
   },
   {
     "translation": {
-      "en": "- You okay? - Yeah, fine.",
+      "en": "-[Claire] You okay? -[Finch] Yeah, fine.",
       "ja": "大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "You want a coffee?",
+      "en": "[Claire] You want a coffee?",
       "ja": "コーヒー 飲む？"
     }
   },
   {
     "translation": {
-      "en": "Yeah, can I get a skim- milk latte?",
+      "en": "[Finch] Yeah, can I get a skim-milk latte?",
       "ja": "スキムミルク･ラテを頼む"
     }
   },
   {
     "translation": {
-      "en": "- You on a diet? - A bit, yeah.",
-      "ja": "ダイエット中？ ちょっとね 体脂肪率25パーセントだ"
+      "en": "-[Claire] You on a diet? -[Finch] A bit, yeah.",
+      "ja": "ダイエット中？ ちょっとね体脂肪率25パーセントだ"
     }
   },
   {
     "translation": {
       "en": "I had a medical, and apparently I'm 25 percent fat.",
-      "ja": "ちょっとね 体脂肪率25パーセントだ"
+      "ja": "ちょっとね体脂肪率25パーセントだ"
     }
   },
   {
     "translation": {
-      "en": "- Is that bad? - Yeah. It's more than some snacks.",
+      "en": "-Is that bad? -Yeah. It's more than some snacks.",
       "ja": "マズいの？ スナックより脂肪が多い"
     }
   },
   {
     "translation": {
-      "en": "- Okay. - See you later.",
+      "en": "-Okay. -See you later.",
       "ja": "買ってくる よろしく"
     }
   },
@@ -397,20 +397,20 @@
   },
   {
     "translation": {
-      "en": "Impersonating an officer. Tampering with a crime scene.",
-      "ja": "刑事になりすまし 犯罪現場を荒らす"
+      "en": "\"Impersonating an officer.\" \"Tampering with a crime scene.\"",
+      "ja": "刑事になりすまし犯罪現場を荒らす"
     }
   },
   {
     "translation": {
-      "en": "- I got results. - You're not Dirty Harry!",
+      "en": "-I got results. -You're not Dirty Harry!",
       "ja": "結果は出した 何様のつもりだ"
     }
   },
   {
     "translation": {
       "en": "At best, you're an underachiever at a local radio station.",
-      "ja": "お前はローカルラジオ局の リポーターだ"
+      "ja": "お前はローカルラジオ局のリポーターだ"
     }
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "translation": {
-      "en": "- Would you rather I didn't get the story? - Than break the law? Yeah.",
+      "en": "-Would you rather I didn't get the story? -Than break the law? Yeah.",
       "ja": "特ダネを落とせと？ 法を破るよりはな"
     }
   },
@@ -445,8 +445,8 @@
   },
   {
     "translation": {
-      "en": "One more slip- up and you're fired. This is coming from upstairs, not from me.",
-      "ja": "今度 問題を起こせばクビ 上層部の決定だ"
+      "en": "One more slip-up and you're fired. This is coming from upstairs, not from me.",
+      "ja": "今度 問題を起こせばクビ上層部の決定だ"
     }
   },
   {
@@ -458,13 +458,13 @@
   {
     "translation": {
       "en": "You're an arrogant, selfish hack who survives",
-      "ja": "ごう慢で身勝手だが⸺ 地元のセレブだから 生き延びてる"
+      "ja": "ごう慢で身勝手だが⸺ 地元のセレブだから生き延びてる"
     }
   },
   {
     "translation": {
       "en": "because everyone thinks you're a local celebrity.",
-      "ja": "地元のセレブだから 生き延びてる"
+      "ja": "地元のセレブだから生き延びてる"
     }
   },
   {
@@ -482,18 +482,18 @@
   {
     "translation": {
       "en": "or for the next thing you do that breaks the rules.",
-      "ja": "規則違反を犯したら 即刻 解雇する"
+      "ja": "規則違反を犯したら即刻 解雇する"
     }
   },
   {
     "translation": {
       "en": "I so much as find out you used a disabled toilet, goodbye.",
-      "ja": "障がい者用トイレを 使っただけでもな"
+      "ja": "障がい者用トイレを使っただけでもな"
     }
   },
   {
     "translation": {
-      "en": "- That's ridiculous. - Yeah, it's ridiculous.",
+      "en": "-That's ridiculous. -Yeah, it's ridiculous.",
       "ja": "バカげてる そのとおりだよ"
     }
   },
@@ -505,13 +505,13 @@
   },
   {
     "translation": {
-      "en": "- Will there be any celebrities? - The girl who reads the weather",
+      "en": "-Will there be any celebrities? -The girl who reads the weather",
       "ja": "セレブが来る？ アル･ロッカーが…"
     }
   },
   {
     "translation": {
-      "en": "- knows Al Roker. - Will he be here?",
+      "en": "-knows Al Roker. -Will he be here?",
       "ja": "アル･ロッカーが… 来るの？"
     }
   },
@@ -529,73 +529,73 @@
   },
   {
     "translation": {
-      "en": "- Oh, finally. Hi. - Hi.",
+      "en": "-Oh, finally. Hi. -Hi.",
       "ja": "はじめまして"
     }
   },
   {
     "translation": {
-      "en": "- Many in? - Uh, no. No, you're the first.",
+      "en": "-[Finch] Many in? -Uh, no. No, you're the first.",
       "ja": "集まってる？ お２人が最初です"
     }
   },
   {
     "translation": {
-      "en": "- Someone has to be. - Exactly.",
-      "ja": "一番か 給仕さんの仕事ぶりを 見られて光栄だわ"
+      "en": "-Someone has to be. -[Eleanor] Exactly.",
+      "ja": "一番か 給仕さんの仕事ぶりを見られて光栄だわ"
     }
   },
   {
     "translation": {
       "en": "And it's nice to be here in time to see the staff prepare for such a prestigious event.",
-      "ja": "給仕さんの仕事ぶりを 見られて光栄だわ"
+      "ja": "給仕さんの仕事ぶりを見られて光栄だわ"
     }
   },
   {
     "translation": {
-      "en": "See you later. Okay, let's get in.",
+      "en": "[Finch] See you later. Okay, let's get in.",
       "ja": "どうも 入ろうか"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Hi.",
+      "en": "-Hi. -[woman] Hi.",
       "ja": "やあ"
     }
   },
   {
     "translation": {
-      "en": "Hi.",
+      "en": "Hi. [chuckles]",
       "ja": "お疲れ"
     }
   },
   {
     "translation": {
-      "en": "- Balloons. - It's still sunny out.",
+      "en": "-Balloons. -It's still sunny out.",
       "ja": "風船 まだ明るい"
     }
   },
   {
     "translation": {
       "en": "Well, it's nearly July, isn't it?",
-      "ja": "もう７月だ 日が長くなってる"
+      "ja": "もう７月だ日が長くなってる"
     }
   },
   {
     "translation": {
-      "en": "- Doesn't get dark till 9:00. - Imagine going out in the darkness.",
-      "ja": "もう７月だ 日が長くなってる 帰るのは夜中ね"
+      "en": "-Doesn't get dark till 9:00. -Imagine going out in the darkness.",
+      "ja": "もう７月だ日が長くなってる 帰るのは夜中ね"
     }
   },
   {
     "translation": {
-      "en": "- You're the first here. - Yeah, he doesn't like to be late.",
+      "en": "-You're the first here. -Yeah, he doesn't like to be late.",
       "ja": "一番乗りですね 夫がうるさくて"
     }
   },
   {
     "translation": {
-      "en": "- Champagne? - Don't mind if I do.",
+      "en": "-[bartender] Champagne? -[Finch] Don't mind if I do.",
       "ja": "シャンパン？ いただこう"
     }
   },
@@ -619,14 +619,14 @@
   },
   {
     "translation": {
-      "en": "- Well, I'm chief sound engineer. -",
+      "en": "-Well, I'm chief sound engineer. -[soft music playing]",
       "ja": "主任音響技師だ"
     }
   },
   {
     "translation": {
       "en": "And if you consider that radio is just sound, I'm sort of chief engineer, really.",
-      "ja": "ラジオは音だけだから 主任技師と同じだ"
+      "ja": "ラジオは音だけだから主任技師と同じだ"
     }
   },
   {
@@ -643,13 +643,13 @@
   },
   {
     "translation": {
-      "en": "- What do you mean? - Radio.",
+      "en": "-What do you mean? -Radio.",
       "ja": "何が？ ラジオよ"
     }
   },
   {
     "translation": {
-      "en": "- Radio is like-- - It's what I love.",
+      "en": "-Radio is like-- -It's what I love.",
       "ja": "ラジオは… 好きなんだ"
     }
   },
@@ -661,49 +661,49 @@
   },
   {
     "translation": {
-      "en": "- You're joking. - No, I'm not joking. But go on, tell me.",
-      "ja": "冗談か 私は本気よ 今週 最も刺激的だった 出来事は？"
+      "en": "-You're joking. -No, I'm not joking. But go on, tell me.",
+      "ja": "冗談か 私は本気よ 今週 最も刺激的だった出来事は？"
     }
   },
   {
     "translation": {
       "en": "What is the most exciting thing that's happened this week?",
-      "ja": "今週 最も刺激的だった 出来事は？"
+      "ja": "今週 最も刺激的だった出来事は？"
     }
   },
   {
     "translation": {
-      "en": "- Okay. Um... - Okay.",
+      "en": "-Okay. Um... -Okay.",
       "ja": "そうだな"
     }
   },
   {
     "translation": {
-      "en": "- Well, you decide. - Okay.",
+      "en": "-Well, you decide. -Okay.",
       "ja": "君が判断して"
     }
   },
   {
     "translation": {
       "en": "Is it that our omnibus podcast just made top 50 on iTunes?",
-      "ja": "ポッドキャストが トップ50に入ったことか"
+      "ja": "ポッドキャストがトップ50に入ったことか"
     }
   },
   {
     "translation": {
       "en": "Or, is it that Jamie Oliver popped in yesterday",
-      "ja": "ジェイミー･オリヴァーが “スティグ”に出たことか"
+      "ja": "ジェイミー･オリヴァーが“スティグ”に出たことか"
     }
   },
   {
     "translation": {
-      "en": "- to talk to Stig Arnold about fat kids? - Is he gonna be here?",
-      "ja": "ジェイミー･オリヴァーが “スティグ”に出たことか 彼も来る？"
+      "en": "-to talk to Stig Arnold about fat kids? -Is he gonna be here?",
+      "ja": "ジェイミー･オリヴァーが“スティグ”に出たことか 彼も来る？"
     }
   },
   {
     "translation": {
-      "en": "- Stig's never missed a party yet. Heh. - I meant Jamie Oliver.",
+      "en": "-Stig's never missed a party yet. Heh. -I meant Jamie Oliver.",
       "ja": "スティグは必ず来る ジェイミーよ"
     }
   },
@@ -715,14 +715,14 @@
   },
   {
     "translation": {
-      "en": "- So, no, then? - No. Definitely not.",
+      "en": "-So, no, then? -No. Definitely not.",
       "ja": "来ないのね 来ない"
     }
   },
   {
     "translation": {
-      "en": "- - You meet Stig. You won't want to see Jamie Oliver after you've met Stig.",
-      "ja": "スティッグに会えば ジェイミーを忘れる"
+      "en": "-[sighs] -You meet Stig. You won't want to see Jamie Oliver after you've met Stig.",
+      "ja": "スティッグに会えばジェイミーを忘れる"
     }
   },
   {
@@ -734,12 +734,12 @@
   {
     "translation": {
       "en": "Haven't you ever wanted to do something extraordinary?",
-      "ja": "非凡なことをしたいと 思わない？"
+      "ja": "非凡なことをしたいと思わない？"
     }
   },
   {
     "translation": {
-      "en": "- Finch. - Hi.",
+      "en": "-[Mallard] Finch. -Hi.",
       "ja": "フィンチ どうも"
     }
   },
@@ -751,19 +751,19 @@
   },
   {
     "translation": {
-      "en": "- This is my wife, Eleanor. - Pleasure to meet you.",
+      "en": "-This is my wife, Eleanor. -Pleasure to meet you.",
       "ja": "妻のエレノアです よろしく"
     }
   },
   {
     "translation": {
       "en": "I've been looking for you. Some lunatic took his family hostage. He's armed. I need you and Claire to go and cover it.",
-      "ja": "立てこもり事件が発生した クレアと行ってくれ"
+      "ja": "立てこもり事件が発生したクレアと行ってくれ"
     }
   },
   {
     "translation": {
-      "en": "- Now? - Yeah, I don't have a choice.",
+      "en": "-Now? -Yeah, I don't have a choice.",
       "ja": "今から？ 君しかいないんだ"
     }
   },
@@ -775,7 +775,7 @@
   },
   {
     "translation": {
-      "en": "- Where is Claire? - She's on her way here. Nice to meet you.",
+      "en": "-Where is Claire? -She's on her way here. Nice to meet you.",
       "ja": "クレアは？ 向かってる ごゆっくり"
     }
   },
@@ -799,25 +799,25 @@
   },
   {
     "translation": {
-      "en": "- He said you're the only guy around. - He didn't literally mean",
-      "ja": "人員不足ね 人員は足りてるが 僕にしかできない"
+      "en": "-He said you're the only guy around. -He didn't literally mean",
+      "ja": "人員不足ね 人員は足りてるが僕にしかできない"
     }
   },
   {
     "translation": {
       "en": "I'm the only guy around. He meant I'm the only guy around that can do this.",
-      "ja": "人員は足りてるが 僕にしかできない"
+      "ja": "人員は足りてるが僕にしかできない"
     }
   },
   {
     "translation": {
-      "en": "- He's around, he couldn't do it. - You don't know that.",
+      "en": "-He's around, he couldn't do it. -You don't know that.",
       "ja": "彼には無理だ どうかしら"
     }
   },
   {
     "translation": {
-      "en": "- Oh, come on. Look at him. - You can't do this to me. Come on.",
+      "en": "-Oh, come on. Look at him. -You can't do this to me. Come on.",
       "ja": "冗談だろ ふざけないでよ"
     }
   },
@@ -841,25 +841,25 @@
   },
   {
     "translation": {
-      "en": "- You're gonna be gone for hours. - No.",
-      "ja": "何時間 待つの？ 警察が立てこもり犯を 射殺すれば即解決だよ"
+      "en": "-You're gonna be gone for hours. -No.",
+      "ja": "何時間 待つの？ 警察が立てこもり犯を射殺すれば即解決だよ"
     }
   },
   {
     "translation": {
       "en": "In these situations the police usually get the gunman to the window really quickly",
-      "ja": "警察が立てこもり犯を 射殺すれば即解決だよ"
+      "ja": "警察が立てこもり犯を射殺すれば即解決だよ"
     }
   },
   {
     "translation": {
       "en": "and shoot him through the top lip, and that takes out the brain stem, so there's no reflex... action.",
-      "ja": "ここを撃つと脳が飛び散って 反射による事故もない"
+      "ja": "ここを撃つと脳が飛び散って反射による事故もない"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Did you see Mallard?",
+      "en": "-Hi. -Did you see Mallard?",
       "ja": "やあ マラードに聞いた？"
     }
   },
@@ -871,43 +871,43 @@
   },
   {
     "translation": {
-      "en": "- Nice to meet you. - Yeah.",
+      "en": "-Nice to meet you. -Yeah.",
       "ja": "はじめまして ええ"
     }
   },
   {
     "translation": {
-      "en": "- We should go. - Yeah.",
+      "en": "-We should go. -Yeah.",
       "ja": "行かなきゃ"
     }
   },
   {
     "translation": {
-      "en": "- See you in the lobby. - Yeah, okay.",
+      "en": "-See you in the lobby. -Yeah, okay.",
       "ja": "待ってる"
     }
   },
   {
     "translation": {
-      "en": "Who's this? Is this Tony? Look at this guy.",
-      "ja": "誰かと思えば トニーだ"
+      "en": "[Frank] Who's this? Is this Tony? Look at this guy.",
+      "ja": "誰かと思えばトニーだ"
     }
   },
   {
     "translation": {
-      "en": "- Anyway... - How are you?",
+      "en": "-[Finch] Anyway... -[Frank] How are you?",
       "ja": "とにかく…"
     }
   },
   {
     "translation": {
-      "en": "- I've gotta go. - Okay, fine, go.",
+      "en": "-[Finch] I've gotta go. -Okay, fine, go.",
       "ja": "行くよ いいわ"
     }
   },
   {
     "translation": {
-      "en": "- Yeah? - Whatever.",
+      "en": "-Yeah? -Whatever.",
       "ja": "本当に？ 好きにして"
     }
   },
@@ -919,19 +919,19 @@
   },
   {
     "translation": {
-      "en": "- I'll see you soon. Okay. - Okay, go if you're gonna go.",
+      "en": "-I'll see you soon. Okay. -Okay, go if you're gonna go.",
       "ja": "すぐ戻る 分かったから行って"
     }
   },
   {
     "translation": {
-      "en": "- Hey, Frank. - Hey.",
+      "en": "-[woman] Hey, Frank. -Hey.",
       "ja": "やあ"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Hey.",
+      "en": "-Hi. -[Claire] Hey.",
       "ja": "お待たせ"
     }
   },
@@ -949,20 +949,20 @@
   },
   {
     "translation": {
-      "en": "- How is that cool? - Hi.",
+      "en": "-How is that cool? -Hi.",
       "ja": "それがカッコいい？"
     }
   },
   {
     "translation": {
-      "en": "I don't know, I just... - I just mean... -",
-      "ja": "分からないけど 僕もたまには…"
+      "en": "I don't know, I just... -I just mean... -[doors close]",
+      "ja": "分からないけど僕もたまには…"
     }
   },
   {
     "translation": {
       "en": "I think it would be cool to be like that sometimes, you know?",
-      "ja": "彼みたいになりたいと 思うんだ"
+      "ja": "彼みたいになりたいと思うんだ"
     }
   },
   {
@@ -979,7 +979,7 @@
   },
   {
     "translation": {
-      "en": "- Why do you say that? - Because it's true.",
+      "en": "-Why do you say that? -Because it's true.",
       "ja": "何を言うの 本当のことだ"
     }
   },
@@ -992,24 +992,24 @@
   {
     "translation": {
       "en": "I think that's why I play video games. Because they're more interesting than my real life.",
-      "ja": "だから 刺激的なゲームにハマる"
+      "ja": "だから刺激的なゲームにハマる"
     }
   },
   {
     "translation": {
-      "en": "- Rebel Coup? - Yeah. Do you play?",
+      "en": "-Rebel Coup? -Yeah. Do you play?",
       "ja": "“クーデター”？ 君もやるの？"
     }
   },
   {
     "translation": {
-      "en": "- I'm trying to cut down. - Yeah, me, too.",
+      "en": "-I'm trying to cut down. -Yeah, me, too.",
       "ja": "節制中よ 分かる　僕もだ"
     }
   },
   {
     "translation": {
-      "en": "- Take that, sucker. - Nice move.",
+      "en": "-Take that, sucker. -Nice move.",
       "ja": "くたばれ やるわね"
     }
   },
@@ -1021,31 +1021,31 @@
   },
   {
     "translation": {
-      "en": "- Champagne? - Thank you. Cheers.",
+      "en": "-Champagne? -Thank you. Cheers.",
       "ja": "シャンパンを？ もらおう 乾杯"
     }
   },
   {
     "translation": {
       "en": "You're the Frank Bonneville?",
-      "ja": "あなたが フランク･ボネビル？"
+      "ja": "あなたがフランク･ボネビル？"
     }
   },
   {
     "translation": {
-      "en": "- Apparently. - I listen to you every day.",
+      "en": "-Apparently. -I listen to you every day.",
       "ja": "みたいだ 毎日 聞いてる"
     }
   },
   {
     "translation": {
-      "en": "- Really? - I wouldn't miss it.",
+      "en": "-Really? -I wouldn't miss it.",
       "ja": "毎日？ 欠かさずに"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. - You're welcome.",
+      "en": "-Thank you. -You're welcome.",
       "ja": "ありがとう どういたしまして"
     }
   },
@@ -1057,7 +1057,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Me, too.",
+      "en": "-Yeah. -Me, too.",
       "ja": "ええ 俺もだ"
     }
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "translation": {
-      "en": "- Tell me about it. - It's so unglamorous.",
+      "en": "-Tell me about it. -It's so unglamorous.",
       "ja": "本当ね とにかく地味なんだ"
     }
   },
@@ -1099,7 +1099,7 @@
   },
   {
     "translation": {
-      "en": "- And not bitter enough for management. - That's nice. I'm flattered.",
+      "en": "-And not bitter enough for management. -That's nice. I'm flattered.",
       "ja": "管理部の毒もない お世辞でも うれしい"
     }
   },
@@ -1111,115 +1111,115 @@
   },
   {
     "translation": {
-      "en": "- It's what I love. - Cheers.",
+      "en": "-It's what I love. -Cheers.",
       "ja": "好きなの 乾杯"
     }
   },
   {
     "translation": {
-      "en": "- It's what I hate. - No. Come on.",
+      "en": "-It's what I hate. -No. Come on.",
       "ja": "俺は嫌いだ よく言うわよ"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Oh, you are so good at it. - Like, you exude passion. - No.",
-      "ja": "あなたのリポートからは 情熱があふれ出てる"
+      "en": "-Yeah. -Oh, you are so good at it. -Like, you exude passion. -No.",
+      "ja": "あなたのリポートからは情熱があふれ出てる"
     }
   },
   {
     "translation": {
-      "en": "- It really comes across. - That's not passion.",
-      "ja": "あなたのリポートからは 情熱があふれ出てる あれは欲求不満の表れだ"
+      "en": "-It really comes across. -That's not passion.",
+      "ja": "あなたのリポートからは情熱があふれ出てる あれは欲求不満の表れだ"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - That's frustration.",
+      "en": "-Yeah. -That's frustration.",
       "ja": "あれは欲求不満の表れだ"
     }
   },
   {
     "translation": {
       "en": "I'm destined for bigger things, and I know it.",
-      "ja": "俺はこんなところで 終わる男じゃない"
+      "ja": "俺はこんなところで終わる男じゃない"
     }
   },
   {
     "translation": {
       "en": "So, in the meantime, it's just like I'm a big fish in a little pond.",
-      "ja": "俺はこんなところで 終わる男じゃない ラジオの世界は狭すぎる"
+      "ja": "俺はこんなところで終わる男じゃない ラジオの世界は狭すぎる"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - A big... angry fish.",
-      "ja": "俺はデカい魚だ 怒れる魚なんだ"
+      "en": "-Yeah. -A big... angry fish.",
+      "ja": "俺はデカい魚だ怒れる魚なんだ"
     }
   },
   {
     "translation": {
-      "en": "- Yeah.  - Big, drunk, angry fish, in a tiny,",
-      "ja": "怒れる酒浸りの デカい魚が⸺ 小さな池で 飼い殺しになってる"
+      "en": "-Yeah. [laughing] -Big, drunk, angry fish, in a tiny,",
+      "ja": "怒れる酒浸りのデカい魚が⸺ 小さな池で飼い殺しになってる"
     }
   },
   {
     "translation": {
-      "en": "- shitty little pond. - No. You know what?",
-      "ja": "小さな池で 飼い殺しになってる あなたって正直ね"
+      "en": "-shitty little pond. -No. You know what?",
+      "ja": "小さな池で飼い殺しになってる あなたって正直ね"
     }
   },
   {
     "translation": {
-      "en": "- At least you're honest about it. - Where's that got me? Nowhere.",
+      "en": "-At least you're honest about it. -Where's that got me? Nowhere.",
       "ja": "あなたって正直ね 褒めることじゃない"
     }
   },
   {
     "translation": {
-      "en": "No more Mr. Nice Guy, you know? Here's to cheating.",
-      "ja": "正直者は損をする ウソも方便だ"
+      "en": "No more \"Mr. Nice Guy,\" you know? Here's to cheating.",
+      "ja": "正直者は損をするウソも方便だ"
     }
   },
   {
     "translation": {
-      "en": "It sounds like you're right in my ear, whispering sweet nothings.",
-      "ja": "まるで耳元で ささやいてるみたいよ"
+      "en": "[Eleanor] It sounds like you're right in my ear, whispering sweet nothings.",
+      "ja": "まるで耳元でささやいてるみたいよ"
     }
   },
   {
     "translation": {
-      "en": "- It really does. - Resonance is better if I hold the mic--",
-      "ja": "まるで耳元で ささやいてるみたいよ マイクだな"
+      "en": "-It really does. -Resonance is better if I hold the mic--",
+      "ja": "まるで耳元でささやいてるみたいよ マイクだな"
     }
   },
   {
     "translation": {
-      "en": "- - Excuse me, hold on.",
+      "en": "-[cell phone beeping] -Excuse me, hold on.",
       "ja": "ごめんなさい"
     }
   },
   {
     "translation": {
-      "en": "- Nothing serious? - Nothing serious.",
+      "en": "-[Frank] Nothing serious? -Nothing serious.",
       "ja": "何か問題でも？ いいえ"
     }
   },
   {
     "translation": {
       "en": "Let me ask you two questions. First question:",
-      "ja": "質問がある メールは彼氏から？"
+      "ja": "質問があるメールは彼氏から？"
     }
   },
   {
     "translation": {
-      "en": "- Was that from your boyfriend? - I don't have a boyfriend.",
-      "ja": "質問がある メールは彼氏から？ シングルよ"
+      "en": "-Was that from your boyfriend? -I don't have a boyfriend.",
+      "ja": "質問があるメールは彼氏から？ シングルよ"
     }
   },
   {
     "translation": {
-      "en": "- Second question: You live near here? - About five minutes.",
+      "en": "-Second question: You live near here? -About five minutes.",
       "ja": "２つめの質問　家は近い？ ここから５分"
     }
   },
@@ -1232,7 +1232,7 @@
   {
     "translation": {
       "en": "Why did you ask how far it was before you invited yourself back?",
-      "ja": "なぜ誘う前に 家が近いか確かめたの？"
+      "ja": "なぜ誘う前に家が近いか確かめたの？"
     }
   },
   {
@@ -1243,13 +1243,13 @@
   },
   {
     "translation": {
-      "en": "Like, five minutes, Yeah, sure. Half- hour, Yeah, forget it, it's too much of a hassle.",
-      "ja": "５分ならいいけど 30分なら遠慮した？"
+      "en": "Like, five minutes, \"Yeah, sure.\" Half-hour, \"Yeah, forget it, it's too much of a hassle.\"",
+      "ja": "５分ならいいけど30分なら遠慮した？"
     }
   },
   {
     "translation": {
-      "en": "- No. Wait, what? - Forget it. Come on.",
+      "en": "-No. Wait, what? -Forget it. Come on.",
       "ja": "そうじゃないが… まあ いいわ"
     }
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "translation": {
-      "en": "- Drink? - Yeah, sure.",
+      "en": "-Drink? -Yeah, sure.",
       "ja": "何か飲む？ ああ"
     }
   },
@@ -1274,7 +1274,7 @@
   {
     "translation": {
       "en": "Do you want my number, or should I take yours?",
-      "ja": "私の番号を渡すか あなたが教える？"
+      "ja": "私の番号を渡すかあなたが教える？"
     }
   },
   {
@@ -1285,19 +1285,19 @@
   },
   {
     "translation": {
-      "en": "- You're married, right? - How did you know?",
+      "en": "-You're married, right? -How did you know?",
       "ja": "既婚者だろ なぜ？"
     }
   },
   {
     "translation": {
       "en": "Call it intuition, but not many women collect superhero toys.",
-      "ja": "スーパーヒーローの人形を 集める女性は少ない"
+      "ja": "スーパーヒーローの人形を集める女性は少ない"
     }
   },
   {
     "translation": {
-      "en": "Apparently, they're not toys. They are collectibles.",
+      "en": "Apparently, they're not toys. They are \"collectibles.\"",
       "ja": "コレクター商品よ"
     }
   },
@@ -1334,19 +1334,19 @@
   {
     "translation": {
       "en": "I didn't tell your husband I'd be faithful to him and stand by him in sickness and health, blah, blah.",
-      "ja": "旦那に永遠の愛を誓ったのは 俺じゃない"
+      "ja": "旦那に永遠の愛を誓ったのは俺じゃない"
     }
   },
   {
     "translation": {
-      "en": "- Again, not judging, just saying. - Wait, wait. You don't know anything about me or my husband.",
-      "ja": "私たちのことなんか 何も知らないくせに"
+      "en": "-Again, not judging, just saying. -Wait, wait. You don't know anything about me or my husband.",
+      "ja": "私たちのことなんか何も知らないくせに"
     }
   },
   {
     "translation": {
       "en": "Only that you were just unfaithful to him, and he doesn't know or you wouldn't be throwing me out and being defensive.",
-      "ja": "君が浮気してるのを 旦那が知らないのは分かる"
+      "ja": "君が浮気してるのを旦那が知らないのは分かる"
     }
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "I thought he'd be something big in entertainment by now and I'd be living in a mansion in Beverly Hills.",
-      "ja": "今頃は豪邸に 住んでるはずだったのに"
+      "ja": "今頃は豪邸に住んでるはずだったのに"
     }
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "translation": {
       "en": "I just suggested that we exchange numbers, so...",
-      "ja": "番号交換を 提案しただけでしょ"
+      "ja": "番号交換を提案しただけでしょ"
     }
   },
   {
@@ -1399,7 +1399,7 @@
   },
   {
     "translation": {
-      "en": "- Fuck off. - Charming.",
+      "en": "-Fuck off. -Charming.",
       "ja": "消えちまえ 刺激的だ"
     }
   },
@@ -1412,12 +1412,12 @@
   {
     "translation": {
       "en": "Like ten percent bigger. Better for my cheekbones, right?",
-      "ja": "もう少しデカいと 俺の輪郭に合う"
+      "ja": "もう少しデカいと俺の輪郭に合う"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - See that?",
+      "en": "-[woman] Yeah. -See that?",
       "ja": "どう？"
     }
   },
@@ -1436,19 +1436,19 @@
   {
     "translation": {
       "en": "Something's cooking in Ecuador. The intel's a little sketchy,",
-      "ja": "エクアドルが何か臭う 確証はないがね"
+      "ja": "エクアドルが何か臭う確証はないがね"
     }
   },
   {
     "translation": {
       "en": "but it looks like an uprising could be underway.",
-      "ja": "エクアドルが何か臭う 確証はないがね クーデターの兆候がある"
+      "ja": "エクアドルが何か臭う確証はないがね クーデターの兆候がある"
     }
   },
   {
     "translation": {
       "en": "Rebel troops amassing, reports of arms stockpiles, that kind of thing.",
-      "ja": "反乱軍が集結して 軍備を整えている"
+      "ja": "反乱軍が集結して軍備を整えている"
     }
   },
   {
@@ -1459,20 +1459,20 @@
   },
   {
     "translation": {
-      "en": "- You interested? - I'm gone.",
+      "en": "-You interested? -I'm gone.",
       "ja": "興味あるか？ もちろん"
     }
   },
   {
     "translation": {
       "en": "It's dangerous. Drug gangs ruling the streets. With guns.",
-      "ja": "危険だぞ 武装した麻薬密売人が 旅行客を誘拐してる"
+      "ja": "危険だぞ 武装した麻薬密売人が旅行客を誘拐してる"
     }
   },
   {
     "translation": {
       "en": "Kidnapping tourists... journalists.",
-      "ja": "武装した麻薬密売人が 旅行客を誘拐してる 記者もだ"
+      "ja": "武装した麻薬密売人が旅行客を誘拐してる 記者もだ"
     }
   },
   {
@@ -1483,7 +1483,7 @@
   },
   {
     "translation": {
-      "en": "- ...tell me now. - When do I go?",
+      "en": "-...tell me now. -[scoffs] When do I go?",
       "ja": "そう言え いつ出発だ"
     }
   },
@@ -1495,7 +1495,7 @@
   },
   {
     "translation": {
-      "en": "- You wanna take Claire? - No.",
+      "en": "-You wanna take Claire? -No.",
       "ja": "クレアと行くか？ いや　記者は２人もいらない"
     }
   },
@@ -1513,7 +1513,7 @@
   },
   {
     "translation": {
-      "en": "- I should take a technician. - All right.",
+      "en": "-I should take a technician. -All right.",
       "ja": "技師を同伴する 分かった"
     }
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "translation": {
-      "en": "- Finch is available. - Fine.",
+      "en": "-Finch is available. -Fine.",
       "ja": "フィンチは？ いいだろう"
     }
   },
@@ -1543,7 +1543,7 @@
   },
   {
     "translation": {
-      "en": "- You could stay here with us. - That would be a pleasure.",
+      "en": "-You could stay here with us. -That would be a pleasure.",
       "ja": "ここに来ればいい 歓迎する"
     }
   },
@@ -1567,25 +1567,25 @@
   },
   {
     "translation": {
-      "en": "- Hoping it won't come to that. - You're coming to Ecuador with me.",
+      "en": "-Hoping it won't come to that. -You're coming to Ecuador with me.",
       "ja": "どうかな エクアドルだ"
     }
   },
   {
     "translation": {
       "en": "Get your passport to admin. They need details to clear entry papers.",
-      "ja": "管理部に パスポートを提出しろ"
+      "ja": "管理部にパスポートを提出しろ"
     }
   },
   {
     "translation": {
-      "en": "- What, now? - Yeah, we're going this afternoon.",
+      "en": "-What, now? -Yeah, we're going this afternoon.",
       "ja": "今から？ 午後 出発だ"
     }
   },
   {
     "translation": {
-      "en": "- No. I'd love to, but it's impossible. - Why? What's the problem?",
+      "en": "-No. I'd love to, but it's impossible. -Why? What's the problem?",
       "ja": "ダメだ　行きたいが無理だ 問題が？"
     }
   },
@@ -1604,25 +1604,25 @@
   {
     "translation": {
       "en": "I came home this morning and went to give her a hug",
-      "ja": "朝方 家に帰って ハグしようとしたら…"
+      "ja": "朝方 家に帰ってハグしようとしたら…"
     }
   },
   {
     "translation": {
       "en": "and she just pushed...",
-      "ja": "朝方 家に帰って ハグしようとしたら… 拒絶された"
+      "ja": "朝方 家に帰ってハグしようとしたら… 拒絶された"
     }
   },
   {
     "translation": {
       "en": "Said she needed some distance.",
-      "ja": "“１人になりたい”と 言われたよ"
+      "ja": "“１人になりたい”と言われたよ"
     }
   },
   {
     "translation": {
       "en": "Told me to leave her alone. Can you believe that?",
-      "ja": "“１人になりたい”と 言われたよ 信じられるか？"
+      "ja": "“１人になりたい”と言われたよ 信じられるか？"
     }
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "translation": {
       "en": "Thanks for the offer, but I'm gonna stay around and see if I can work it out.",
-      "ja": "いい申し出だが 今は妻との関係を⸺ 修復したい"
+      "ja": "いい申し出だが今は妻との関係を⸺ 修復したい"
     }
   },
   {
@@ -1651,13 +1651,13 @@
   },
   {
     "translation": {
-      "en": "- I've written her a letter. - You've written a novel.",
+      "en": "-I've written her a letter. -You've written a novel.",
       "ja": "手紙を 長いな"
     }
   },
   {
     "translation": {
-      "en": "- I had a lot to say. - And on radio station paper? Romantic.",
+      "en": "-I had a lot to say. -And on radio station paper? Romantic.",
       "ja": "思いの丈を 局の便せんに？"
     }
   },
@@ -1687,50 +1687,50 @@
   },
   {
     "translation": {
-      "en": "- That's not how you spell suicide. - Cheers.",
+      "en": "-That's not how you spell \"suicide.\" -Cheers.",
       "ja": "“自殺”のスペルが違う どうも"
     }
   },
   {
     "translation": {
       "en": "You know what? A country going through a rebel coup",
-      "ja": "クーデターだ 女房のことで 泣いてる暇はない"
+      "ja": "クーデターだ 女房のことで泣いてる暇はない"
     }
   },
   {
     "translation": {
       "en": "is no place to be crying over a wife who's left you.",
-      "ja": "女房のことで 泣いてる暇はない"
+      "ja": "女房のことで泣いてる暇はない"
     }
   },
   {
     "translation": {
-      "en": "- You just need to move on. - That's funny.",
-      "ja": "忘れろ クーデターのゲームを やってる"
+      "en": "-You just need to move on. -That's funny.",
+      "ja": "忘れろ クーデターのゲームをやってる"
     }
   },
   {
     "translation": {
       "en": "I'm playing a video game called Rebel Coup.",
-      "ja": "クーデターのゲームを やってる"
+      "ja": "クーデターのゲームをやってる"
     }
   },
   {
     "translation": {
       "en": "Eleanor thinks it's childish, a grown man playing games.",
-      "ja": "エレノアはゲームを 子供の遊びだと"
+      "ja": "エレノアはゲームを子供の遊びだと"
     }
   },
   {
     "translation": {
-      "en": "I should've paid her more attention.",
+      "en": "[sighs] I should've paid her more attention.",
       "ja": "話を聞くべきだった"
     }
   },
   {
     "translation": {
       "en": "But then, would I have achieved such a high score? Who knows?",
-      "ja": "無視したおかげで 高得点が出たけど"
+      "ja": "無視したおかげで高得点が出たけど"
     }
   },
   {
@@ -1741,19 +1741,19 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Cheers.",
+      "en": "-Yeah. -Cheers.",
       "ja": "それじゃ"
     }
   },
   {
     "translation": {
-      "en": "- How long you away for? - A week or two.",
+      "en": "-How long you away for? -A week or two.",
       "ja": "期間は？ １〜２週間"
     }
   },
   {
     "translation": {
-      "en": "- Can I get an SM58 and a MIDI MkII? - Yeah.",
+      "en": "-Can I get an SM58 and a MIDI MkII? -Yeah.",
       "ja": "マイクと録音機を"
     }
   },
@@ -1766,7 +1766,7 @@
   {
     "translation": {
       "en": "That way, my wife can stay in that empty apartment, all alone,",
-      "ja": "妻もアパートで １人になれば⸺"
+      "ja": "妻もアパートで１人になれば⸺"
     }
   },
   {
@@ -1777,13 +1777,13 @@
   },
   {
     "translation": {
-      "en": "- Great. - Are they bulletproof vests?",
+      "en": "-Great. -Are they bulletproof vests?",
       "ja": "そうか 防弾ベスト？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah, they are. - What, for...?",
+      "en": "-Yeah, they are. -What, for...?",
       "ja": "そうだ 待てよ"
     }
   },
@@ -1796,7 +1796,7 @@
   {
     "translation": {
       "en": "Why are they...? Why do they end...? Have you got bulletproof pants?",
-      "ja": "上半身だけ？ 防弾ズボンは？"
+      "ja": "上半身だけ？防弾ズボンは？"
     }
   },
   {
@@ -1819,7 +1819,7 @@
   },
   {
     "translation": {
-      "en": "- Cheers. - Don't lose them.",
+      "en": "-[Finch] Cheers. -Don't lose them.",
       "ja": "なくさないで"
     }
   },
@@ -1831,25 +1831,25 @@
   },
   {
     "translation": {
-      "en": "- I was just saying. - What, like I lost my wife?",
+      "en": "-I was just saying. -What, like I lost my wife?",
       "ja": "さあ 妻を失ったから？"
     }
   },
   {
     "translation": {
-      "en": "- Do you have everything? - I think so.",
-      "ja": "忘れ物は？ ないはずだ キャリーバッグが欲しいな"
+      "en": "-[Claire] Do you have everything? -I think so.",
+      "ja": "忘れ物は？ ないはずだキャリーバッグが欲しいな"
     }
   },
   {
     "translation": {
       "en": "I wish I had one of those wheelie things now.",
-      "ja": "ないはずだ キャリーバッグが欲しいな"
+      "ja": "ないはずだキャリーバッグが欲しいな"
     }
   },
   {
     "translation": {
-      "en": "- Listen to me. - What?",
+      "en": "-Listen to me. -What?",
       "ja": "いいか 何だ"
     }
   },
@@ -1861,67 +1861,67 @@
   },
   {
     "translation": {
-      "en": "- I don't wanna be a babysitter, okay? - I won't let you down.",
+      "en": "-I don't wanna be a babysitter, okay? -I won't let you down.",
       "ja": "ガキは足手まといになる ガキじゃない"
     }
   },
   {
     "translation": {
-      "en": "- What should I do with the letter? - Forget it.",
+      "en": "-What should I do with the letter? -Forget it.",
       "ja": "手紙は？ 忘れろ"
     }
   },
   {
     "translation": {
-      "en": "- What do you mean? - Who's the man in this relationship, hmm?",
+      "en": "-What do you mean? -Who's the man in this relationship, hmm?",
       "ja": "つまり？ お前は男だろ"
     }
   },
   {
     "translation": {
-      "en": "- Don't be a pussy. - Sexist.",
+      "en": "-Don't be a pussy. -[gasps] Sexist.",
       "ja": "女々しいぞ 性差別だ"
     }
   },
   {
     "translation": {
-      "en": "- What? - Nothing.",
+      "en": "-What? -Nothing.",
       "ja": "何でもない"
     }
   },
   {
     "translation": {
-      "en": "- Listen, you need to grow a pair. - Of breasts?",
+      "en": "-Listen, you need to grow a pair. -Of breasts?",
       "ja": "２つあるのか？ オッパイ？"
     }
   },
   {
     "translation": {
-      "en": "- Balls. - Oh, sorry. It's because you said pair.",
-      "ja": "タマだよ ２つと言うから オッパイかと思った"
+      "en": "-Balls. -Oh, sorry. It's because you said \"pair.\"",
+      "ja": "タマだよ ２つと言うからオッパイかと思った"
     }
   },
   {
     "translation": {
-      "en": "Because I say pair of breasts, but I don't say pair of balls.",
-      "ja": "２つと言うから オッパイかと思った"
+      "en": "Because I say \"pair of breasts,\" but I don't say \"pair of balls.\"",
+      "ja": "２つと言うからオッパイかと思った"
     }
   },
   {
     "translation": {
-      "en": "- I just say balls. - Throw the letter away.",
+      "en": "-I just say \"balls.\" -Throw the letter away.",
       "ja": "タマは２個だ 手紙は捨てろ"
     }
   },
   {
     "translation": {
-      "en": "- Right. - Let her wonder where you are. After a couple weeks, you won't wanna know her anymore.",
+      "en": "-Right. -Let her wonder where you are. After a couple weeks, you won't wanna know her anymore.",
       "ja": "２週間もすれば忘れるさ"
     }
   },
   {
     "translation": {
-      "en": "Don't give me the there's plenty more fish in the sea.",
+      "en": "Don't give me the \"there's plenty more fish in the sea.\"",
       "ja": "他の魚を探せと？"
     }
   },
@@ -1933,14 +1933,14 @@
   },
   {
     "translation": {
-      "en": "- You seen Ecuadorian girls? - No. What are they like?",
+      "en": "-You seen Ecuadorian girls? -No. What are they like?",
       "ja": "南米の女性を？ 知らない"
     }
   },
   {
     "translation": {
       "en": "They're like Spanish women, but different. With ponchos. You'll see.",
-      "ja": "ポンチョを着た スペイン女性だ"
+      "ja": "ポンチョを着たスペイン女性だ"
     }
   },
   {
@@ -1957,13 +1957,13 @@
   },
   {
     "translation": {
-      "en": "That is a problem.",
+      "en": "[Claire] That is a problem.",
       "ja": "それは大変ね"
     }
   },
   {
     "translation": {
-      "en": "- Can we stop off at mine on the way? - What for?",
+      "en": "-Can we stop off at mine on the way? -What for?",
       "ja": "アパートに寄れる？ なんで？"
     }
   },
@@ -1987,19 +1987,19 @@
   },
   {
     "translation": {
-      "en": "- It'll be dangerous. - Danger's my middle name.",
+      "en": "-It'll be dangerous. -Danger's my middle name.",
       "ja": "危険だから “危険”は俺の別名さ"
     }
   },
   {
     "translation": {
-      "en": "- Mine's Dennis. -",
+      "en": "-Mine's Dennis. -[snickers]",
       "ja": "僕は“デニス”"
     }
   },
   {
     "translation": {
-      "en": "- See you soon, then. - Yeah.",
+      "en": "-See you soon, then. -Yeah.",
       "ja": "それじゃ"
     }
   },
@@ -2011,7 +2011,7 @@
   },
   {
     "translation": {
-      "en": "Hi, I'm not around. Leave a message.",
+      "en": "[Eleanor] Hi, I'm not around. Leave a message.",
       "ja": "伝言をどうぞ"
     }
   },
@@ -2024,7 +2024,7 @@
   {
     "translation": {
       "en": "She obviously sees my number and she doesn't pick up because she doesn't wanna talk to me.",
-      "ja": "僕の番号を見て 居留守を使ってる"
+      "ja": "僕の番号を見て居留守を使ってる"
     }
   },
   {
@@ -2035,19 +2035,19 @@
   },
   {
     "translation": {
-      "en": "- I thought you'd let her sweat. - No, I know.",
-      "ja": "心配させる作戦は？ エクアドル行きを 伝えるだけだ"
+      "en": "-I thought you'd let her sweat. -No, I know.",
+      "ja": "心配させる作戦は？ エクアドル行きを伝えるだけだ"
     }
   },
   {
     "translation": {
       "en": "But I was gonna let her know that we're going to Ecuador,",
-      "ja": "エクアドル行きを 伝えるだけだ"
+      "ja": "エクアドル行きを伝えるだけだ"
     }
   },
   {
     "translation": {
-      "en": "a war- torn country, sort of cool- like.",
+      "en": "a war-torn country, sort of cool-like.",
       "ja": "“戦場で仕事だ”とクールに"
     }
   },
@@ -2060,7 +2060,7 @@
   {
     "translation": {
       "en": "That's why I'm so confident having you as my only support in a scary, dangerous, hostile place.",
-      "ja": "どんな危険な場所でも お前が一緒なら安心だ"
+      "ja": "どんな危険な場所でもお前が一緒なら安心だ"
     }
   },
   {
@@ -2078,43 +2078,43 @@
   {
     "translation": {
       "en": "your problems, they're your problems, not mine.",
-      "ja": "お前の問題は俺には関係ない 分かるか？"
+      "ja": "お前の問題は俺には関係ない分かるか？"
     }
   },
   {
     "translation": {
-      "en": "- Okay? - One, rude. Two...",
-      "ja": "無礼だな だが話は分かった 自分の電話でかけるよ"
+      "en": "-Okay? -One, rude. Two...",
+      "ja": "無礼だな だが話は分かった自分の電話でかけるよ"
     }
   },
   {
     "translation": {
       "en": "Okay, I'll just call her back on mine. Not a problem. Thanks for your help.",
-      "ja": "だが話は分かった 自分の電話でかけるよ 悪かったね"
+      "ja": "だが話は分かった自分の電話でかけるよ 悪かったね"
     }
   },
   {
     "translation": {
-      "en": "Hi, I'm not around. Leave a message.",
+      "en": "[Eleanor] Hi, I'm not around. Leave a message.",
       "ja": "伝言をどうぞ"
     }
   },
   {
     "translation": {
-      "en": "- - Hi, it's me.",
+      "en": "-[beeps] -[Finch] Hi, it's me.",
       "ja": "僕だ　エクアドルへ行く"
     }
   },
   {
     "translation": {
       "en": "Listen, I'm off to Ecuador to cover a pretty dangerous war.",
-      "ja": "僕だ　エクアドルへ行く 危険な戦場で 取材をするためだ"
+      "ja": "僕だ　エクアドルへ行く 危険な戦場で取材をするためだ"
     }
   },
   {
     "translation": {
       "en": "Um, we'll talk about everything when I get back. If I get back.",
-      "ja": "生きて帰れたら 土産話を聞かせる"
+      "ja": "生きて帰れたら土産話を聞かせる"
     }
   },
   {
@@ -2137,7 +2137,7 @@
   },
   {
     "translation": {
-      "en": "- I threw the letter away. - No, you didn't. It's right there.",
+      "en": "-I threw the letter away. -No, you didn't. It's right there.",
       "ja": "捨てたのに それは手紙だろ"
     }
   },
@@ -2156,25 +2156,25 @@
   {
     "translation": {
       "en": "You said to throw away the letter, so I threw it in the truck.",
-      "ja": "手紙だと思って トラックの中に"
+      "ja": "手紙だと思ってトラックの中に"
     }
   },
   {
     "translation": {
-      "en": "- Which truck? - The garbage truck.",
+      "en": "-Which truck? -The garbage truck.",
       "ja": "トラック？ ゴミ収集車だ"
     }
   },
   {
     "translation": {
       "en": "Because I must've mixed up the... Let's go back to the station,",
-      "ja": "たぶん封筒を間違えて… 局に戻って航空券をもらい 明日 出発しよう"
+      "ja": "たぶん封筒を間違えて… 局に戻って航空券をもらい明日 出発しよう"
     }
   },
   {
     "translation": {
       "en": "tell them we lost the tickets, get new tickets. We'll come tomorrow. It's fine.",
-      "ja": "局に戻って航空券をもらい 明日 出発しよう"
+      "ja": "局に戻って航空券をもらい明日 出発しよう"
     }
   },
   {
@@ -2186,36 +2186,36 @@
   {
     "translation": {
       "en": "Where are we gonna get new fucking passports from?",
-      "ja": "１日でパスポートを 再発行できるかよ"
+      "ja": "１日でパスポートを再発行できるかよ"
     }
   },
   {
     "translation": {
-      "en": "- In one day! In one day! - What else are we gonna do?",
-      "ja": "１日でパスポートを 再発行できるかよ 他にどうする"
+      "en": "-In one day! In one day! -What else are we gonna do?",
+      "ja": "１日でパスポートを再発行できるかよ 他にどうする"
     }
   },
   {
     "translation": {
-      "en": "- Unbelievable. - I didn't do it on purpose.",
+      "en": "-Unbelievable. -I didn't do it on purpose.",
       "ja": "マジかよ わざとじゃない"
     }
   },
   {
     "translation": {
       "en": "You're a stupid, worthless, idiotic,",
-      "ja": "お前はバカでマヌケで 役立たずのクソ野郎だ"
+      "ja": "お前はバカでマヌケで役立たずのクソ野郎だ"
     }
   },
   {
     "translation": {
-      "en": "- incompetent piece of shit. You know that? - Yeah.",
-      "ja": "お前はバカでマヌケで 役立たずのクソ野郎だ そうだ"
+      "en": "-incompetent piece of shit. You know that? -Yeah.",
+      "ja": "お前はバカでマヌケで役立たずのクソ野郎だ そうだ"
     }
   },
   {
     "translation": {
-      "en": "- What? - Yes, I do know that.",
+      "en": "-What? -Yes, I do know that.",
       "ja": "何だと？ 僕はクソだ"
     }
   },
@@ -2239,32 +2239,32 @@
   },
   {
     "translation": {
-      "en": "- No. Why? - I'll explain later. Get in. Get in.",
+      "en": "-No. Why? -I'll explain later. Get in. Get in.",
       "ja": "いないけど 説明する　入って"
     }
   },
   {
     "translation": {
-      "en": "- Get in. Get in. - Oh, God.",
+      "en": "-[Brigida] Get in. Get in. -[Finch] Oh, God.",
       "ja": "入って マズい"
     }
   },
   {
     "translation": {
-      "en": "- That's quite a story. - It is.",
+      "en": "-[Domingo] That's quite a story. -It is.",
       "ja": "それは すごい話だ まあね"
     }
   },
   {
     "translation": {
       "en": "We need to work out what we're gonna do.",
-      "ja": "対策を考える ブレインストームだ"
+      "ja": "対策を考えるブレインストームだ"
     }
   },
   {
     "translation": {
-      "en": "- We need to brainstorm. - Brainstorm.",
-      "ja": "対策を考える ブレインストームだ ブレインストーム"
+      "en": "-We need to brainstorm. -Brainstorm.",
+      "ja": "対策を考えるブレインストームだ ブレインストーム"
     }
   },
   {
@@ -2275,14 +2275,14 @@
   },
   {
     "translation": {
-      "en": "- What is a brainstorm? - I love these two to bits",
-      "ja": "何それ？ いい奴らだが 頭脳明晰(せき)じゃない"
+      "en": "-What is a \"brainstorm\"? -I love these two to bits",
+      "ja": "何それ？ いい奴らだが頭脳明晰(せき)じゃない"
     }
   },
   {
     "translation": {
       "en": "but they're not the sharpest tool in the box.",
-      "ja": "いい奴らだが 頭脳明晰(せき)じゃない"
+      "ja": "いい奴らだが頭脳明晰(せき)じゃない"
     }
   },
   {
@@ -2299,13 +2299,13 @@
   },
   {
     "translation": {
-      "en": "- Yes. - Okay.",
+      "en": "-Yes. -[Domingo] Okay.",
       "ja": "ある よし"
     }
   },
   {
     "translation": {
-      "en": "Brainstorm.",
+      "en": "[Brigida] Brainstorm.",
       "ja": "ブレインストームね"
     }
   },
@@ -2317,13 +2317,13 @@
   },
   {
     "translation": {
-      "en": "- What? Of course not. - Can you go somewhere else?",
+      "en": "-What? Of course not. -[Brigida] Can you go somewhere else?",
       "ja": "それじゃダメだ 別の場所へ行く？"
     }
   },
   {
     "translation": {
-      "en": "- No. The story I'm covering is in Ecuador. - Oh, okay.",
+      "en": "-No. The story I'm covering is in Ecuador. -Oh, okay.",
       "ja": "エクアドルの取材だ それじゃ別の取材を"
     }
   },
@@ -2336,7 +2336,7 @@
   {
     "translation": {
       "en": "No. It needs to be that story, it needs to be Ecuador and it needs to be us.",
-      "ja": "ダメだ　エクアドルで 俺たちが取材する"
+      "ja": "ダメだ　エクアドルで俺たちが取材する"
     }
   },
   {
@@ -2347,7 +2347,7 @@
   },
   {
     "translation": {
-      "en": "- I got it. - Go on.",
+      "en": "-I got it. -Go on.",
       "ja": "分かった"
     }
   },
@@ -2359,20 +2359,20 @@
   },
   {
     "translation": {
-      "en": "- Ours. - Oh, we're screwed.",
+      "en": "-Ours. -Oh, we're screwed.",
       "ja": "僕たちのを こりゃダメだ"
     }
   },
   {
     "translation": {
-      "en": "- No, but she's... and we're-- - Okay, um...",
+      "en": "-No, but she's... and we're-- -[Brigida] Okay, um...",
       "ja": "性別が違うから…"
     }
   },
   {
     "translation": {
       "en": "You can save up money for new tickets, and by then, the passports will be here.",
-      "ja": "パスポートの再発行を 待てば？"
+      "ja": "パスポートの再発行を待てば？"
     }
   },
   {
@@ -2383,7 +2383,7 @@
   },
   {
     "translation": {
-      "en": "- That's good then. - Not for us.",
+      "en": "-[Domingo] That's good then. -Not for us.",
       "ja": "いいことだ 俺は困る"
     }
   },
@@ -2395,20 +2395,20 @@
   },
   {
     "translation": {
-      "en": "- Less will die. - They're thinking of the people.",
+      "en": "-[Brigida] Less will die. -They're thinking of the people.",
       "ja": "そうよ 人命が優先だな"
     }
   },
   {
     "translation": {
-      "en": "- Less will die. - You'll die, though. I'll kill you.",
+      "en": "-Less will die. -You'll die, though. I'll kill you.",
       "ja": "お前は俺が殺す"
     }
   },
   {
     "translation": {
       "en": "Look... Let's go over and explain. Maybe Mallard won't fire us.",
-      "ja": "事情を説明すれば クビにはならない"
+      "ja": "事情を説明すればクビにはならない"
     }
   },
   {
@@ -2419,14 +2419,14 @@
   },
   {
     "translation": {
-      "en": "- Language. - Oh, my God.",
+      "en": "-Language. -[Frank] Oh, my God.",
       "ja": "言葉を選べ"
     }
   },
   {
     "translation": {
       "en": "He's gonna think that I chickened out, that I didn't have the guts to go.",
-      "ja": "マラードは 俺が怖気づいたと思う"
+      "ja": "マラードは俺が怖気づいたと思う"
     }
   },
   {
@@ -2438,7 +2438,7 @@
   {
     "translation": {
       "en": "I'm gonna have to kill him. I'll go to jail. I'll get out of jail, and then I'll kill you.",
-      "ja": "奴を殺して服役後に お前を殺す"
+      "ja": "奴を殺して服役後にお前を殺す"
     }
   },
   {
@@ -2449,37 +2449,37 @@
   },
   {
     "translation": {
-      "en": "- Think! - Okay.",
+      "en": "-Think! -Okay.",
       "ja": "考えろ！"
     }
   },
   {
     "translation": {
       "en": "They're expecting a report from us at 10:00, from Ecuador, and there's no way we can get there.",
-      "ja": "10時にエクアドルから 中継の予定なんだぞ"
+      "ja": "10時にエクアドルから中継の予定なんだぞ"
     }
   },
   {
     "translation": {
       "en": "We don't need to get there. They're expecting a report from Ecuador.",
-      "ja": "大丈夫だ エクアドルからの中継を ねつ造する"
+      "ja": "大丈夫だ エクアドルからの中継をねつ造する"
     }
   },
   {
     "translation": {
       "en": "Let's give them one on a cell phone.",
-      "ja": "エクアドルからの中継を ねつ造する 携帯電話の番号は⸺"
+      "ja": "エクアドルからの中継をねつ造する 携帯電話の番号は⸺"
     }
   },
   {
     "translation": {
       "en": "The same number would show whether we were in London, New York or Quito.",
-      "ja": "携帯電話の番号は⸺ ニューヨークでも キトでも同じだろ"
+      "ja": "携帯電話の番号は⸺ ニューヨークでもキトでも同じだろ"
     }
   },
   {
     "translation": {
-      "en": "- I can create a soundscape. A war zone. - It'll never work.",
+      "en": "-I can create a soundscape. A war zone. -It'll never work.",
       "ja": "戦場っぽい音を作る バレるさ"
     }
   },
@@ -2491,37 +2491,37 @@
   },
   {
     "translation": {
-      "en": "- Brainstorm. - Brainstorm.",
+      "en": "-Brainstorm. -Brainstorm.",
       "ja": "ブレインストーム"
     }
   },
   {
     "translation": {
-      "en": "- Come in. Come in. Welcome. - Right this way.",
+      "en": "-[Brigida] Come in. Come in. Welcome. -[Domingo] Right this way.",
       "ja": "入ってちょうだい こっちよ"
     }
   },
   {
     "translation": {
       "en": "Must be great, living right above the restaurant.",
-      "ja": "職場の上に住めば 遅刻しないな"
+      "ja": "職場の上に住めば遅刻しないな"
     }
   },
   {
     "translation": {
-      "en": "- Never late for work. - Oh, we are.",
-      "ja": "職場の上に住めば 遅刻しないな するわ"
+      "en": "-Never late for work. -[Brigida] Oh, we are.",
+      "ja": "職場の上に住めば遅刻しないな するわ"
     }
   },
   {
     "translation": {
-      "en": "- Really? - Oh, yeah, all the time.",
+      "en": "-Really? -Oh, yeah, all the time.",
       "ja": "そう？ いつもだ"
     }
   },
   {
     "translation": {
-      "en": "- Sure. - Come in, up the stairs.",
+      "en": "-Sure. -[Brigida] Come in, up the stairs.",
       "ja": "そうか 階段を上って"
     }
   },
@@ -2557,32 +2557,32 @@
   },
   {
     "translation": {
-      "en": "We meant to go to Ecuador.",
+      "en": "[Frank] We meant to go to Ecuador.",
       "ja": "エクアドルの代わりに⸺"
     }
   },
   {
     "translation": {
       "en": "We got as far as an apartment on top of a restaurant across the road from the radio station.",
-      "ja": "たどり着いたのは ラジオ局の向かいの部屋か"
+      "ja": "たどり着いたのはラジオ局の向かいの部屋か"
     }
   },
   {
     "translation": {
-      "en": "- You don't like it? - Oh, no, it's lovely.",
-      "ja": "気に入らない？ 部屋は すてきだよ 俺が言いたいのは…"
+      "en": "-You don't like it? -Oh, no, it's lovely.",
+      "ja": "気に入らない？ 部屋は すてきだよ俺が言いたいのは…"
     }
   },
   {
     "translation": {
-      "en": "That's not what I meant. I...",
-      "ja": "部屋は すてきだよ 俺が言いたいのは…"
+      "en": "[stammers] That's not what I meant. I...",
+      "ja": "部屋は すてきだよ俺が言いたいのは…"
     }
   },
   {
     "translation": {
       "en": "No, it's fine. It's just... you know.",
-      "ja": "いや　何でもない 気にしないでくれ"
+      "ja": "いや　何でもない気にしないでくれ"
     }
   },
   {
@@ -2600,7 +2600,7 @@
   {
     "translation": {
       "en": "Beyoncé? Jay Z? They are your friends?",
-      "ja": "ビヨンセやジェイ･Ｚとは お友達？"
+      "ja": "ビヨンセやジェイ･Ｚとはお友達？"
     }
   },
   {
@@ -2611,7 +2611,7 @@
   },
   {
     "translation": {
-      "en": "- The Jonas Brothers? - Jonas Brothers.",
+      "en": "-The Jonas Brothers? -Jonas Brothers.",
       "ja": "ジョナス･ブラザーズは？ ヨナス兄弟"
     }
   },
@@ -2624,12 +2624,12 @@
   {
     "translation": {
       "en": "You want to read about Honey Boo Boo child?",
-      "ja": "ハニー･ブー･ブーの 記事を読む？"
+      "ja": "ハニー･ブー･ブーの記事を読む？"
     }
   },
   {
     "translation": {
-      "en": "- I don't know what he wants. - Okay, come on up, guys.",
+      "en": "-I don't know what he wants. -Okay, come on up, guys.",
       "ja": "何が好み？ いいぞ 上がってきて"
     }
   },
@@ -2653,19 +2653,19 @@
   },
   {
     "translation": {
-      "en": "- There's monkeys. Parrots. -",
+      "en": "-There's monkeys. Parrots. -[animal noises]",
       "ja": "サルの鳴き声 オウム"
     }
   },
   {
     "translation": {
-      "en": "- Hold on. Here comes a tank. -",
+      "en": "-Hold on. Here comes a tank. -[tracks rumbling]",
       "ja": "そこに戦車が登場"
     }
   },
   {
     "translation": {
-      "en": "Oh. Machine- gun fire.",
+      "en": "Oh. Machine-gun fire.",
       "ja": "銃声が響き渡る"
     }
   },
@@ -2702,19 +2702,19 @@
   {
     "translation": {
       "en": "The information just came from the Secretary of State's office. There may have been a sarin gas warning.",
-      "ja": "国務長官室からの情報では サリンの使用が懸念される"
+      "ja": "国務長官室からの情報ではサリンの使用が懸念される"
     }
   },
   {
     "translation": {
-      "en": "Yeah, the dispatch just came in.",
+      "en": "[Virginia] Yeah, the dispatch just came in.",
       "ja": "発表が出たわ"
     }
   },
   {
     "translation": {
       "en": "Okay. I'm gonna call in, if you're ready.",
-      "ja": "〝エクアドル サリンガスの脅威 〞 いいか　電話するぞ 〝エクアドル サリンガスの脅威 〞 いいか　電話するぞ"
+      "ja": "〝エクアドルサリンガスの脅威 〞 いいか　電話するぞ 〝エクアドルサリンガスの脅威 〞 いいか　電話するぞ"
     }
   },
   {
@@ -2725,32 +2725,32 @@
   },
   {
     "translation": {
-      "en": "- What should we say? - Anything. Spanish.",
+      "en": "-What should we say? -Anything. Spanish.",
       "ja": "何て言えば？ スペイン語なら何でも"
     }
   },
   {
     "translation": {
-      "en": "- - It's Frank.",
+      "en": "-[phone rings] -It's Frank.",
       "ja": "フランクよ"
     }
   },
   {
     "translation": {
-      "en": "- Frank, where are you now? - I'm in Quito.",
+      "en": "-Frank, where are you now? -I'm in Quito.",
       "ja": "今 どこだ？ キトだ"
     }
   },
   {
     "translation": {
-      "en": "- You managed to get through? - Yeah. Why?",
+      "en": "-You managed to get through? -Yeah. Why?",
       "ja": "入れたのか？ ああ　なぜ聞く？"
     }
   },
   {
     "translation": {
       "en": "They've closed the borders. There was a sarin gas warning.",
-      "ja": "国境が封鎖された 化学兵器の脅威も"
+      "ja": "国境が封鎖された化学兵器の脅威も"
     }
   },
   {
@@ -2767,50 +2767,50 @@
   },
   {
     "translation": {
-      "en": "- - Q365.",
+      "en": "-[upbeat intro music plays] -[announcer] Q365.",
       "ja": "Ｑ365ニュース"
     }
   },
   {
     "translation": {
       "en": "Our reporter, Frank Bonneville, who managed to get into Ecuador",
-      "ja": "ボネビルが国境封鎖前に エクアドルに潜入"
+      "ja": "ボネビルが国境封鎖前にエクアドルに潜入"
     }
   },
   {
     "translation": {
       "en": "before the borders were closed, has an exclusive for Q365 News.",
-      "ja": "ボネビルが国境封鎖前に エクアドルに潜入 独占取材を敢行しました"
+      "ja": "ボネビルが国境封鎖前にエクアドルに潜入 独占取材を敢行しました"
     }
   },
   {
     "translation": {
       "en": "Live from Ecuador, he will now give us the first account of this latest development.",
-      "ja": "現地から最新情報を 伝えてもらいます"
+      "ja": "現地から最新情報を伝えてもらいます"
     }
   },
   {
     "translation": {
-      "en": "- Frank. - In Quito,",
+      "en": "-Frank. -[Frank] In Quito,",
       "ja": "フランク 混とんとしたキトの街に⸺"
     }
   },
   {
     "translation": {
       "en": "the man on the street doesn't know that tomorrow, in addition to the gunfire",
-      "ja": "混とんとしたキトの街に⸺ 銃撃戦と無差別攻撃に加え 化学兵器の脅威が迫ります"
+      "ja": "混とんとしたキトの街に⸺ 銃撃戦と無差別攻撃に加え化学兵器の脅威が迫ります"
     }
   },
   {
     "translation": {
-      "en": "- and indiscriminate attacks... - ...the threat of chemical war looms over the city.",
-      "ja": "銃撃戦と無差別攻撃に加え 化学兵器の脅威が迫ります"
+      "en": "-and indiscriminate attacks... -[gunfire] ...the threat of chemical war looms over the city.",
+      "ja": "銃撃戦と無差別攻撃に加え化学兵器の脅威が迫ります"
     }
   },
   {
     "translation": {
       "en": "However, the sudden closure of the border confirms the seriousness of the situation.",
-      "ja": "国境封鎖が 深刻さを物語っています"
+      "ja": "国境封鎖が深刻さを物語っています"
     }
   },
   {
@@ -2821,7 +2821,7 @@
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[Domingo shouts indistinctly] -[war sounds continue]",
       "ja": "ゴール！"
     }
   },
@@ -2833,32 +2833,32 @@
   },
   {
     "translation": {
-      "en": "My thoughts exactly. For the last three days,",
+      "en": "[Frank] My thoughts exactly. For the last three days,",
       "ja": "この３日間 彼らは⸺"
     }
   },
   {
     "translation": {
       "en": "they've been fighting an enemy that no bomb can possibly destroy.",
-      "ja": "爆撃が効かない相手と 闘っています"
+      "ja": "爆撃が効かない相手と闘っています"
     }
   },
   {
     "translation": {
-      "en": "- Sand. - Julio Iglesias!",
+      "en": "-Sand. -Julio Iglesias!",
       "ja": "砂嵐です フリオ･イグレシアス"
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[gasps] -[muffled noise]",
       "ja": "エンリケ"
     }
   },
   {
     "translation": {
       "en": "Raised in squalls by the shrieking, violent wind, the desert sand has brought the city to a standstill.",
-      "ja": "風に運ばれた砂漠の砂が 街を覆いつくしています"
+      "ja": "風に運ばれた砂漠の砂が街を覆いつくしています"
     }
   },
   {
@@ -2876,13 +2876,13 @@
   {
     "translation": {
       "en": "The sky has changed color. The temperature has dropped.",
-      "ja": "空は色を変え 気温は急激に低下"
+      "ja": "空は色を変え気温は急激に低下"
     }
   },
   {
     "translation": {
       "en": "The sun has all but disappeared, leaving the locals, the innocent victims in this bloody infighting, to wonder:",
-      "ja": "太陽が消えた世界で 内乱の犠牲者たちが嘆きます"
+      "ja": "太陽が消えた世界で内乱の犠牲者たちが嘆きます"
     }
   },
   {
@@ -2900,24 +2900,24 @@
   {
     "translation": {
       "en": "Okay, good. But I think we need more information.",
-      "ja": "よかったが 情報収集が必要だ"
+      "ja": "よかったが情報収集が必要だ"
     }
   },
   {
     "translation": {
       "en": "Because I'm pretty sure sand isn't a big problem in Ecuador.",
-      "ja": "僕が知る限り⸺ エクアドルでは 砂嵐は発生しない"
+      "ja": "僕が知る限り⸺ エクアドルでは砂嵐は発生しない"
     }
   },
   {
     "translation": {
-      "en": "I think it's quite lush and rain- foresty and...",
-      "ja": "エクアドルでは 砂嵐は発生しない 緑の生い茂る熱帯雨林が 広がる国だ"
+      "en": "I think it's quite lush and rain-foresty and...",
+      "ja": "エクアドルでは砂嵐は発生しない 緑の生い茂る熱帯雨林が広がる国だ"
     }
   },
   {
     "translation": {
-      "en": "- banana plants and things. - Okay.",
+      "en": "-banana plants and things. -Okay.",
       "ja": "バナナの木とかがある"
     }
   },
@@ -2935,13 +2935,13 @@
   },
   {
     "translation": {
-      "en": "- What does that mean? - Uncle Miguel!",
+      "en": "-What does that mean? -Uncle Miguel!",
       "ja": "意味は？ ミゲルおじさん"
     }
   },
   {
     "translation": {
-      "en": "- Why would you shout Uncle Miguel? - Because he's almost deaf.",
+      "en": "-Why would you shout \"Uncle Miguel\"? -Because he's almost deaf.",
       "ja": "なぜ名前を叫ぶ？ 難聴だから"
     }
   },
@@ -2953,31 +2953,31 @@
   },
   {
     "translation": {
-      "en": "- What does that mean? - My baby is getting fat!",
+      "en": "-What does that mean? -My baby is getting fat!",
       "ja": "意味は？ 私の子がデブに"
     }
   },
   {
     "translation": {
-      "en": "- What's that got to do with anything? - Because you say:",
+      "en": "-What's that got to do with anything? -Because you say:",
       "ja": "何の関係が？ 太った子供が好きなの"
     }
   },
   {
     "translation": {
-      "en": "Say something about children, and I love fat babies",
+      "en": "\"Say something about children,\" and I love fat babies",
       "ja": "太った子供が好きなの"
     }
   },
   {
     "translation": {
-      "en": "- because it means they're eating well. - Yeah.",
+      "en": "-because it means they're eating well. -[Finch] Yeah.",
       "ja": "栄養状態がいいから"
     }
   },
   {
     "translation": {
-      "en": "- It's true. - I know, I like fat babies.",
+      "en": "-It's true. -I know, I like fat babies.",
       "ja": "本当だ 太った子はいいね"
     }
   },
@@ -2990,24 +2990,24 @@
   {
     "translation": {
       "en": "The fact of the matter is that the face of poverty, no matter where you are,",
-      "ja": "貧困は世界中どこでも 同じ顔をしています"
+      "ja": "貧困は世界中どこでも同じ顔をしています"
     }
   },
   {
     "translation": {
-      "en": "- is always the same. - Look at this guy, Baker.",
-      "ja": "貧困は世界中どこでも 同じ顔をしています ベイカーのリポートは やらせだ"
+      "en": "-is always the same. -Look at this guy, Baker.",
+      "ja": "貧困は世界中どこでも同じ顔をしています ベイカーのリポートはやらせだ"
     }
   },
   {
     "translation": {
       "en": "There's a guy that can fake something. He's got a bulletproof vest on,",
-      "ja": "ベイカーのリポートは やらせだ ホテルのそばで撮ってる"
+      "ja": "ベイカーのリポートはやらせだ ホテルのそばで撮ってる"
     }
   },
   {
     "translation": {
-      "en": "- he's 50 feet from the hotel. - How do you know where he is?",
+      "en": "-he's 50 feet from the hotel. -How do you know where he is?",
       "ja": "ホテルのそばで撮ってる なぜ分かる"
     }
   },
@@ -3019,14 +3019,14 @@
   },
   {
     "translation": {
-      "en": "No one knows. I think we're so much better off here-- Thank you. -- than Ecuador.",
+      "en": "No one knows. I think we're so much better off here-- Thank you. --than Ecuador.",
       "ja": "ここにいるほうがいい ありがとう 現地よりね"
     }
   },
   {
     "translation": {
       "en": "We've got wine, snacks. We're not being shot at.",
-      "ja": "ワインに軽食 撃たれる心配もない"
+      "ja": "ワインに軽食撃たれる心配もない"
     }
   },
   {
@@ -3043,26 +3043,26 @@
   },
   {
     "translation": {
-      "en": "- His forte is sports. - Yeah.",
+      "en": "-His forte is sports. -Yeah.",
       "ja": "彼はスポーツ班だから"
     }
   },
   {
     "translation": {
-      "en": "- How many Tours de France have you done? - Twenty- five.",
+      "en": "-How many Tours de France have you done? -Twenty-five.",
       "ja": "ツール･ド･フランスを？ 25回 担当した"
     }
   },
   {
     "translation": {
-      "en": "- In France? - Nah, didn't go there.",
-      "ja": "フランスへ？ 行ったことはない こっちで音声チェックをした"
+      "en": "-In France? -Nah, didn't go there.",
+      "ja": "フランスへ？ 行ったことはないこっちで音声チェックをした"
     }
   },
   {
     "translation": {
       "en": "I sort of ran it from here, to make sure it all went smoothly.",
-      "ja": "行ったことはない こっちで音声チェックをした"
+      "ja": "行ったことはないこっちで音声チェックをした"
     }
   },
   {
@@ -3074,79 +3074,79 @@
   {
     "translation": {
       "en": "Just four. But they are only every four years, so, not bad.",
-      "ja": "４回だ　４年に一度だから ベテランだな"
+      "ja": "４回だ　４年に一度だからベテランだな"
     }
   },
   {
     "translation": {
-      "en": "- Where did you go? Beijing? - I didn't get to Beijing, no.",
+      "en": "-Where did you go? Beijing? -I didn't get to Beijing, no.",
       "ja": "北京へ行った？ 行ってない"
     }
   },
   {
     "translation": {
-      "en": "- No, you did those from here, too, right? - Yes. Yeah.",
+      "en": "-No, you did those from here, too, right? -Yes. Yeah.",
       "ja": "局で作業か ああ　そうだ"
     }
   },
   {
     "translation": {
-      "en": "- So, have you actually been anywhere? - Yeah.",
+      "en": "-So, have you actually been anywhere? -Yeah.",
       "ja": "どこか行ったことは？ あるよ"
     }
   },
   {
     "translation": {
-      "en": "- England. - No, you're from England.",
+      "en": "-England. -No, you're from England.",
       "ja": "イギリス それは出身地だろ"
     }
   },
   {
     "translation": {
-      "en": "- That doesn't count. - Yeah. Okay.",
+      "en": "-That doesn't count. -Yeah. Okay.",
       "ja": "それは出身地だろ それじゃ ニューヨークだ"
     }
   },
   {
     "translation": {
-      "en": "- Here, then. - Anywhere other than here.",
+      "en": "-Here, then. -Anywhere other than here.",
       "ja": "それじゃ ニューヨークだ ここ以外で行ったのは？"
     }
   },
   {
     "translation": {
-      "en": "- England. - Wow.",
+      "en": "-England. -Wow.",
       "ja": "イギリス"
     }
   },
   {
     "translation": {
-      "en": "Every two- bit hack in New York got into Ecuador before they closed the border.",
-      "ja": "他社も記者を送り込んでる 出し抜くネタが欲しい"
+      "en": "Every two-bit hack in New York got into Ecuador before they closed the border.",
+      "ja": "他社も記者を送り込んでる出し抜くネタが欲しい"
     }
   },
   {
     "translation": {
-      "en": "- I need something special. - We got some great stuff.",
-      "ja": "他社も記者を送り込んでる 出し抜くネタが欲しい 特ダネがある"
+      "en": "-I need something special. -We got some great stuff.",
+      "ja": "他社も記者を送り込んでる出し抜くネタが欲しい 特ダネがある"
     }
   },
   {
     "translation": {
-      "en": "- We got some exclusive stuff. - You still in Quito?",
+      "en": "-We got some exclusive stuff. -You still in Quito?",
       "ja": "特ダネがある まだキトに？"
     }
   },
   {
     "translation": {
       "en": "Are we still in Quito? No, we're in...",
-      "ja": "もうキトにはいない ここは…"
+      "ja": "もうキトにはいないここは…"
     }
   },
   {
     "translation": {
       "en": "We're in the south, we're in a place called... Machala.",
-      "ja": "南部にある マチャラという街だ"
+      "ja": "南部にあるマチャラという街だ"
     }
   },
   {
@@ -3170,67 +3170,67 @@
   {
     "translation": {
       "en": "And now, we go live to our special correspondent in Quito, Frank Bonneville.",
-      "ja": "キトのボネビルと つながっています"
+      "ja": "キトのボネビルとつながっています"
     }
   },
   {
     "translation": {
       "en": "The villagers could've left Sergeant Miguel to die. But they chose to save the man.",
-      "ja": "村人はミゲル軍曹を見捨てず 助ける道を選びました"
+      "ja": "村人はミゲル軍曹を見捨てず助ける道を選びました"
     }
   },
   {
     "translation": {
       "en": "A man, who, minutes earlier with his fellow troops, had been showering the area with fire and steel.",
-      "ja": "数分前まで村に銃弾の雨を 降らせていた男をです"
+      "ja": "数分前まで村に銃弾の雨を降らせていた男をです"
     }
   },
   {
     "translation": {
       "en": "This place might be a rebel stronghold, but these are kind people.",
-      "ja": "反乱軍の拠点にいるのは 善良な人たちです"
+      "ja": "反乱軍の拠点にいるのは善良な人たちです"
     }
   },
   {
     "translation": {
       "en": "It's simply not in their nature to let a man die on their land.",
-      "ja": "敵といえども 見殺しにはできないのです"
+      "ja": "敵といえども見殺しにはできないのです"
     }
   },
   {
     "translation": {
-      "en": "- Whoever they are. - Oh, shit! Ooh. I'm sorry, I'm sorry.",
-      "ja": "敵といえども 見殺しにはできないのです あらやだ　ごめんなさい"
+      "en": "-Whoever they are. -Oh, shit! Ooh. I'm sorry, I'm sorry.",
+      "ja": "敵といえども見殺しにはできないのです あらやだ　ごめんなさい"
     }
   },
   {
     "translation": {
       "en": "Earlier today, I watched as a woman from the village desperately tried to save her own child,",
-      "ja": "重傷を負った子供を 救いたい一心なのでしょう"
+      "ja": "重傷を負った子供を救いたい一心なのでしょう"
     }
   },
   {
     "translation": {
       "en": "feverishly wiping the blood off the pavement as if that would somehow bring him back.",
-      "ja": "血だまりを必死に拭き取る 母親を見ました"
+      "ja": "血だまりを必死に拭き取る母親を見ました"
     }
   },
   {
     "translation": {
       "en": "A peasant, a fat, sweaty peasant, looked on,",
-      "ja": "農民が… 太った汗まみれの農民は そばで立ち尽くすばかり"
+      "ja": "農民が… 太った汗まみれの農民はそばで立ち尽くすばかり"
     }
   },
   {
     "translation": {
       "en": "useless, hopeless, worthless even, knowing that nothing he ever did",
-      "ja": "太った汗まみれの農民は そばで立ち尽くすばかり 自分の力では 何もできないと悟り⸺"
+      "ja": "太った汗まみれの農民はそばで立ち尽くすばかり 自分の力では何もできないと悟り⸺"
     }
   },
   {
     "translation": {
       "en": "could possibly do any good.",
-      "ja": "無力感に 打ちひしがれています"
+      "ja": "無力感に打ちひしがれています"
     }
   },
   {
@@ -3241,19 +3241,19 @@
   },
   {
     "translation": {
-      "en": "- Good work. - You're on again at 7:00, call back.",
+      "en": "-Good work. -You're on again at 7:00, call back.",
       "ja": "お疲れ 次は７時だ　電話しろ"
     }
   },
   {
     "translation": {
-      "en": "- That's why he's the best. - I hope they're being careful.",
+      "en": "-That's why he's the best. -I hope they're being careful.",
       "ja": "さすがボネビルだ 無茶しないでほしい"
     }
   },
   {
     "translation": {
-      "en": "Well, we got away with it again.",
+      "en": "[Finch] Well, we got away with it again.",
       "ja": "また切り抜けたな"
     }
   },
@@ -3265,14 +3265,14 @@
   },
   {
     "translation": {
-      "en": "- I'm not sure about this. - We can't stay in the apartment all day.",
-      "ja": "マズいよ たまには 外の空気を吸いたい"
+      "en": "-I'm not sure about this. -We can't stay in the apartment all day.",
+      "ja": "マズいよ たまには外の空気を吸いたい"
     }
   },
   {
     "translation": {
       "en": "We need some fresh air, some exercise.",
-      "ja": "たまには 外の空気を吸いたい"
+      "ja": "たまには外の空気を吸いたい"
     }
   },
   {
@@ -3289,7 +3289,7 @@
   },
   {
     "translation": {
-      "en": "Amazing Spider- Man 14.",
+      "en": "Amazing Spider-Man 14.",
       "ja": "「スパイダーマン」14巻だ"
     }
   },
@@ -3307,7 +3307,7 @@
   },
   {
     "translation": {
-      "en": "- It's Mallard. - Shit. Don't answer it.",
+      "en": "-It's Mallard. -Shit. Don't answer it.",
       "ja": "マラードだ 出るな"
     }
   },
@@ -3326,36 +3326,36 @@
   {
     "translation": {
       "en": "I don't know where we are, exactly. It's all written in Spanish, obviously.",
-      "ja": "ここの地名は分かりません 全部 スペイン語なんで"
+      "ja": "ここの地名は分かりません全部 スペイン語なんで"
     }
   },
   {
     "translation": {
-      "en": "- So... That's the subway. -",
-      "ja": "ここの地名は分かりません 全部 スペイン語なんで 地下鉄の音です"
+      "en": "-So... That's the subway. -[subway rumbling]",
+      "ja": "ここの地名は分かりません全部 スペイン語なんで 地下鉄の音です"
     }
   },
   {
     "translation": {
       "en": "That's what we call the trucks that drive the tanks.",
-      "ja": "トラックのことを 音が似てるので“地下鉄”と"
+      "ja": "トラックのことを音が似てるので“地下鉄”と"
     }
   },
   {
     "translation": {
       "en": "Yeah, because it sounds like the subway. Okay, yeah, I'll let him know.",
-      "ja": "トラックのことを 音が似てるので“地下鉄”と はい　伝えます"
+      "ja": "トラックのことを音が似てるので“地下鉄”と はい　伝えます"
     }
   },
   {
     "translation": {
-      "en": "- He wants you to do a report at 1:00. - Shit.",
+      "en": "-He wants you to do a report at 1:00. -Shit.",
       "ja": "１時に中継だ 人使いの荒い奴だ"
     }
   },
   {
     "translation": {
-      "en": "- He's onto us, man. - He's--",
+      "en": "-He's onto us, man. -He's--",
       "ja": "人使いの荒い奴だ 彼は…"
     }
   },
@@ -3367,38 +3367,38 @@
   },
   {
     "translation": {
-      "en": "- Hello? - I just need a 60- second update, Frank, and then, uh, we'll trail something bigger.",
-      "ja": "最新情報を60秒で リポートは後でやる"
+      "en": "-Hello? -I just need a 60-second update, Frank, and then, uh, we'll trail something bigger.",
+      "ja": "最新情報を60秒でリポートは後でやる"
     }
   },
   {
     "translation": {
-      "en": "- Here? - What do you mean, Here?",
+      "en": "-Here? -What do you mean, \"Here\"?",
       "ja": "ここで？ どこで？"
     }
   },
   {
     "translation": {
-      "en": "- I mean, now? - Yes, yes. We're transferring you.",
+      "en": "-I mean, now? -Yes, yes. We're transferring you.",
       "ja": "今か？ そうだ　つなぐよ"
     }
   },
   {
     "translation": {
-      "en": "Now we go live to Frank Bonneville in Ecuador.",
+      "en": "[man] Now we go live to Frank Bonneville in Ecuador.",
       "ja": "エクアドルのボネビルです"
     }
   },
   {
     "translation": {
       "en": "A cloud of dust rises into the horizon.",
-      "ja": "砂ぼこりが消え 地平線が見渡せます"
+      "ja": "砂ぼこりが消え地平線が見渡せます"
     }
   },
   {
     "translation": {
       "en": "The silence is broken by the caterpillar tracks of two rogue tanks...",
-      "ja": "静寂をつんざく 戦車のキャタピラー"
+      "ja": "静寂をつんざく戦車のキャタピラー"
     }
   },
   {
@@ -3415,19 +3415,19 @@
   },
   {
     "translation": {
-      "en": "- Is this Dr. Schmalzstein's office? - No. Shh.",
+      "en": "-Is this Dr. Schmalzstein's office? -No. Shh.",
       "ja": "ドクターはいる？ いや"
     }
   },
   {
     "translation": {
-      "en": "In the bombed- out remains of what was once his home, a young boy watches television.",
-      "ja": "破壊された家の中で テレビを見る少年"
+      "en": "In the bombed-out remains of what was once his home, a young boy watches television.",
+      "ja": "破壊された家の中でテレビを見る少年"
     }
   },
   {
     "translation": {
-      "en": "- Blow it out your ass! -",
+      "en": "-[man] Blow it out your ass! -[horn honking]",
       "ja": "ふざけんな"
     }
   },
@@ -3440,25 +3440,25 @@
   {
     "translation": {
       "en": "My technician is hit by shrapnel. Oh, no, he's fine.",
-      "ja": "技師が被弾しました 平気だ 無事でしたが 長居は無用です"
+      "ja": "技師が被弾しました 平気だ 無事でしたが長居は無用です"
     }
   },
   {
     "translation": {
       "en": "But we gotta get out of here. Fast.",
-      "ja": "無事でしたが 長居は無用です"
+      "ja": "無事でしたが長居は無用です"
     }
   },
   {
     "translation": {
       "en": "It's quiet. Too quiet, if anything.",
-      "ja": "ここは静かだ 不気味な静けさです"
+      "ja": "ここは静かだ不気味な静けさです"
     }
   },
   {
     "translation": {
       "en": "In the sky, a combat helicopter stops. An explosion rings out.",
-      "ja": "上空に戦闘ヘリが 飛来しました 爆音が響きます"
+      "ja": "上空に戦闘ヘリが飛来しました 爆音が響きます"
     }
   },
   {
@@ -3476,7 +3476,7 @@
   {
     "translation": {
       "en": "Luckily for him, he's so short, or he'd most certainly be dead by now.",
-      "ja": "背が低くなければ 死んでいたでしょう"
+      "ja": "背が低くなければ死んでいたでしょう"
     }
   },
   {
@@ -3487,8 +3487,8 @@
   },
   {
     "translation": {
-      "en": "Coming up at 7:00, we will have another exclusive from Frank Bonneville.",
-      "ja": "次の現地リポートは ７時からです"
+      "en": "[man]Coming up at 7:00, we will have another exclusive from Frank Bonneville.",
+      "ja": "次の現地リポートは７時からです"
     }
   },
   {
@@ -3506,7 +3506,7 @@
   {
     "translation": {
       "en": "When Mallard first asked you to go to Ecuador, what did he say, exactly?",
-      "ja": "マラードは最初 何て言ったんだ？"
+      "ja": "マラードは最初何て言ったんだ？"
     }
   },
   {
@@ -3517,55 +3517,55 @@
   },
   {
     "translation": {
-      "en": "- What else? - Conjecture, rumors.",
+      "en": "-What else? -Conjecture, rumors.",
       "ja": "他には？ 憶測と噂(うわさ)だ"
     }
   },
   {
     "translation": {
-      "en": "That's enough for you, though, isn't it? Anything that sells news.",
+      "en": "[sighs] That's enough for you, though, isn't it? Anything that sells news.",
       "ja": "話を作るには十分か"
     }
   },
   {
     "translation": {
-      "en": "- Well, if people weren't so gullible... - That's it.",
+      "en": "-Well, if people weren't so gullible... -That's it.",
       "ja": "信じさせればな それだ"
     }
   },
   {
     "translation": {
-      "en": "- What? - We start a rumor.",
+      "en": "-What? -We start a rumor.",
       "ja": "何だ 噂を広める"
     }
   },
   {
     "translation": {
       "en": "One that can't be proved wrong. We invent someone, someone behind all this.",
-      "ja": "クーデターの黒幕を ねつ造するんだ"
+      "ja": "クーデターの黒幕をねつ造するんだ"
     }
   },
   {
     "translation": {
-      "en": "And when people say, Oh, we can't find this guy, who is he?",
+      "en": "And when people say, \"Oh, we can't find this guy, who is he?\"",
       "ja": "正体は謎のままでいい"
     }
   },
   {
     "translation": {
-      "en": "Well, no, of course you can't find him. He's elusive. He's an evil genius.",
-      "ja": "見つからなくて当然だ 悪の天才で部下に守られてる"
+      "en": "\"Well, no, of course you can't find him. He's elusive. He's an evil genius.",
+      "ja": "見つからなくて当然だ悪の天才で部下に守られてる"
     }
   },
   {
     "translation": {
       "en": "He's protected by a loyal army. He can work for anyone.",
-      "ja": "見つからなくて当然だ 悪の天才で部下に守られてる 資金提供者も誰だっていい"
+      "ja": "見つからなくて当然だ悪の天才で部下に守られてる 資金提供者も誰だっていい"
     }
   },
   {
     "translation": {
-      "en": "Be funded by anyone.",
+      "en": "Be funded by anyone.\"",
       "ja": "資金提供者も誰だっていい"
     }
   },
@@ -3577,13 +3577,13 @@
   },
   {
     "translation": {
-      "en": "So, the headline would read So- and- so denies funding terrorists.",
-      "ja": "見出しは“テロリストへの 資金提供を否定”か"
+      "en": "So, the headline would read \"So-and-so denies funding terrorists.\"",
+      "ja": "見出しは“テロリストへの資金提供を否定”か"
     }
   },
   {
     "translation": {
-      "en": "- Great. - That's unethical, though.",
+      "en": "-Great. -That's unethical, though.",
       "ja": "非倫理的だ"
     }
   },
@@ -3601,26 +3601,26 @@
   },
   {
     "translation": {
-      "en": "The man is Emilio Santiago Alvarez,",
-      "ja": "男の名前はエミリオ･ サンチアゴ･アルバレス"
+      "en": "[Frank] The man is Emilio Santiago Alvarez,",
+      "ja": "男の名前はエミリオ･サンチアゴ･アルバレス"
     }
   },
   {
     "translation": {
       "en": "the instigator of the attacks against government forces in Ecuador.",
-      "ja": "政府軍に対する反乱を 扇動した人物です"
+      "ja": "政府軍に対する反乱を扇動した人物です"
     }
   },
   {
     "translation": {
       "en": "A small man, with no profile, no international presence.",
-      "ja": "世界的に知られた大物では ありませんが⸺"
+      "ja": "世界的に知られた大物ではありませんが⸺"
     }
   },
   {
     "translation": {
       "en": "But here, in the jungles and towns of southern Ecuador, he's become a folk hero...",
-      "ja": "エクアドルのジャングルで 民衆の英雄になりました"
+      "ja": "エクアドルのジャングルで民衆の英雄になりました"
     }
   },
   {
@@ -3632,19 +3632,19 @@
   {
     "translation": {
       "en": "But on the street, rumors persist that Alvarez may not be working alone.",
-      "ja": "しかしアルバレスには 噂がつきまといます"
+      "ja": "しかしアルバレスには噂がつきまといます"
     }
   },
   {
     "translation": {
       "en": "His rebel forces are too well equipped, too well trained, too well fed.",
-      "ja": "彼が率いる反乱軍は 高度に訓練されています"
+      "ja": "彼が率いる反乱軍は高度に訓練されています"
     }
   },
   {
     "translation": {
       "en": "It's said, and I must stress at this point, these rumors are uncorroborated...",
-      "ja": "これは噂の域を出ませんが アルバレスには⸺"
+      "ja": "これは噂の域を出ませんがアルバレスには⸺"
     }
   },
   {
@@ -3662,18 +3662,18 @@
   {
     "translation": {
       "en": "Jesus, is he saying that the rebel forces are being funded by the U.S.?",
-      "ja": "アメリカが資金提供を してると？"
+      "ja": "アメリカが資金提供をしてると？"
     }
   },
   {
     "translation": {
-      "en": "This is Frank Bonneville, Q365 News.",
-      "ja": "Ｑ365ニュースの ボネビルでした"
+      "en": "[Frank] This is Frank Bonneville, Q365 News.",
+      "ja": "Ｑ365ニュースのボネビルでした"
     }
   },
   {
     "translation": {
-      "en": "That's huge.",
+      "en": "[Mallard] That's huge.",
       "ja": "デカい 次のニュースです"
     }
   },
@@ -3685,13 +3685,13 @@
   },
   {
     "translation": {
-      "en": "- We can keep this going for ages. - Yeah, let's see if they buy it first.",
+      "en": "-We can keep this going for ages. -Yeah, let's see if they buy it first.",
       "ja": "永遠にやれる リスナーが信じればな"
     }
   },
   {
     "translation": {
-      "en": "- They will. -",
+      "en": "-They will. -[gunfire on video game]",
       "ja": "信じるさ"
     }
   },
@@ -3703,14 +3703,14 @@
   },
   {
     "translation": {
-      "en": "Does Bonneville realize the mess he's made",
-      "ja": "自分の発言が もたらした混乱を⸺"
+      "en": "[Secretary of State] Does Bonneville realize the mess he's made",
+      "ja": "自分の発言がもたらした混乱を⸺"
     }
   },
   {
     "translation": {
       "en": "by allowing speculation that this Alvarez is working for the Americans?",
-      "ja": "自分の発言が もたらした混乱を⸺ ボネビルは理解してる？"
+      "ja": "自分の発言がもたらした混乱を⸺ ボネビルは理解してる？"
     }
   },
   {
@@ -3722,19 +3722,19 @@
   {
     "translation": {
       "en": "Goddamn it. Why have we not heard of this man before? Where's your intelligence?",
-      "ja": "なぜアルバレスのことを 誰も知らないの？"
+      "ja": "なぜアルバレスのことを誰も知らないの？"
     }
   },
   {
     "translation": {
       "en": "Our agents in Ecuador are tracing him now.",
-      "ja": "現在 エクアドル内で 調査中です"
+      "ja": "現在 エクアドル内で調査中です"
     }
   },
   {
     "translation": {
       "en": "It's a good chance they know him by another name. A nickname.",
-      "ja": "別の名前で 知られているのでしょう"
+      "ja": "別の名前で知られているのでしょう"
     }
   },
   {
@@ -3746,13 +3746,13 @@
   {
     "translation": {
       "en": "They're now looking for Bonneville to make him confess his sources.",
-      "ja": "ボネビルに 情報源を明かさせる"
+      "ja": "ボネビルに情報源を明かさせる"
     }
   },
   {
     "translation": {
       "en": "And Alvarez's men are after him because he revealed too much.",
-      "ja": "アルバレスは 知りすぎた奴を狙うだろう"
+      "ja": "アルバレスは知りすぎた奴を狙うだろう"
     }
   },
   {
@@ -3764,19 +3764,19 @@
   {
     "translation": {
       "en": "I do not wanna end up with two dead citizens nor the wrath of their families.",
-      "ja": "彼らを殺させるわけには いかないわ"
+      "ja": "彼らを殺させるわけにはいかないわ"
     }
   },
   {
     "translation": {
       "en": "You are going to tell Finch and Bonneville to get to the American embassy in Quito",
-      "ja": "フィンチとボネビルをキトの アメリカ大使館へ行かせて"
+      "ja": "フィンチとボネビルをキトのアメリカ大使館へ行かせて"
     }
   },
   {
     "translation": {
       "en": "as soon as possible. We need to know they're safe.",
-      "ja": "フィンチとボネビルをキトの アメリカ大使館へ行かせて 安全確認を"
+      "ja": "フィンチとボネビルをキトのアメリカ大使館へ行かせて 安全確認を"
     }
   },
   {
@@ -3794,31 +3794,31 @@
   {
     "translation": {
       "en": "Little is known about the mastermind behind the uprising, rebel fighter Emilio Alvarez.",
-      "ja": "謎多き反乱軍リーダー エミリオ･アルバレス"
+      "ja": "謎多き反乱軍リーダーエミリオ･アルバレス"
     }
   },
   {
     "translation": {
       "en": "The charismatic leader of the Ecuadorian Liberation Front is believed to come from humble beginnings.",
-      "ja": "解放戦線の英雄は 貧しい家庭で育ちました"
+      "ja": "解放戦線の英雄は貧しい家庭で育ちました"
     }
   },
   {
     "translation": {
-      "en": "The son of an unemployed, left- wing atheist father and an unmarried mother with Communist sympathies.",
-      "ja": "父親は無職で無神論者 母親は共産主義者です"
+      "en": "The son of an unemployed, left-wing atheist father and an unmarried mother with Communist sympathies.",
+      "ja": "父親は無職で無神論者母親は共産主義者です"
     }
   },
   {
     "translation": {
       "en": "So, in your view, Alvarez has been quietly amassing a force for some time now.",
-      "ja": "アルバレスは以前から 準備していたと？"
+      "ja": "アルバレスは以前から準備していたと？"
     }
   },
   {
     "translation": {
       "en": "What I'm hearing from my sources is that Alvarez has risen to a position of power in the Ecuadorian Liberation Front for some years.",
-      "ja": "解放戦線の指導的地位に 就いたのは 数年前です"
+      "ja": "解放戦線の指導的地位に就いたのは 数年前です"
     }
   },
   {
@@ -3835,20 +3835,20 @@
   },
   {
     "translation": {
-      "en": "- Well, it makes perfect sense. - How is he keeping a straight face?",
+      "en": "-Well, it makes perfect sense. -How is he keeping a straight face?",
       "ja": "それも当然です 平然としてる"
     }
   },
   {
     "translation": {
       "en": "...less chance for the opposition of targeting you. Successful revolution is all about protecting your leaders.",
-      "ja": "リーダーを守らなければ 革命の成功はありません"
+      "ja": "リーダーを守らなければ革命の成功はありません"
     }
   },
   {
     "translation": {
       "en": "So, Frank Bonneville has gone where no other news reporter has gone before",
-      "ja": "ボネビルが アルバレスの存在を⸺"
+      "ja": "ボネビルがアルバレスの存在を⸺"
     }
   },
   {
@@ -3859,19 +3859,19 @@
   },
   {
     "translation": {
-      "en": "- I wouldn't say that. -",
+      "en": "-I wouldn't say that. -[cackling]",
       "ja": "それは違います"
     }
   },
   {
     "translation": {
       "en": "I've known about Alvarez myself for a while now. I just didn't think it was appropriate to unmask him yet.",
-      "ja": "私も知っていましたが 明かすのは早すぎると"
+      "ja": "私も知っていましたが明かすのは早すぎると"
     }
   },
   {
     "translation": {
-      "en": "Oh, come on.",
+      "en": "[Finch] Oh, come on.",
       "ja": "よく言うぜ"
     }
   },
@@ -3907,13 +3907,13 @@
   },
   {
     "translation": {
-      "en": "- We're screwed. - Why?",
+      "en": "-We're screwed. -Why?",
       "ja": "ヤバい 何だ？"
     }
   },
   {
     "translation": {
-      "en": "- Everyone's looking for us, apparently. - They won't find us.",
+      "en": "-Everyone's looking for us, apparently. -They won't find us.",
       "ja": "みんなが捜してる 見つからない"
     }
   },
@@ -3925,61 +3925,61 @@
   },
   {
     "translation": {
-      "en": "- What is? - Mallard wants us to get to",
-      "ja": "じゃ 何？ キトのアメリカ大使館に 行けと言われた"
+      "en": "-What is? -Mallard wants us to get to",
+      "ja": "じゃ 何？ キトのアメリカ大使館に行けと言われた"
     }
   },
   {
     "translation": {
       "en": "the U.S. embassy in Quito immediately.",
-      "ja": "キトのアメリカ大使館に 行けと言われた"
+      "ja": "キトのアメリカ大使館に行けと言われた"
     }
   },
   {
     "translation": {
       "en": "For our own safety. The ambassador's waiting for us, okay?",
-      "ja": "キトのアメリカ大使館に 行けと言われた 大使が待ってる マチャラから車で数時間だ"
+      "ja": "キトのアメリカ大使館に行けと言われた 大使が待ってるマチャラから車で数時間だ"
     }
   },
   {
     "translation": {
       "en": "It's probably a few hours' drive from Machala to Quito.",
-      "ja": "大使が待ってる マチャラから車で数時間だ"
+      "ja": "大使が待ってるマチャラから車で数時間だ"
     }
   },
   {
     "translation": {
       "en": "I promised I'd call him as soon as we got there.",
-      "ja": "到着でき次第 電話すると伝えた"
+      "ja": "到着でき次第電話すると伝えた"
     }
   },
   {
     "translation": {
-      "en": "- As in, a few hours from now. - Right.",
-      "ja": "到着でき次第 電話すると伝えた そうか"
+      "en": "-As in, a few hours from now. -Right.",
+      "ja": "到着でき次第電話すると伝えた そうか"
     }
   },
   {
     "translation": {
-      "en": "- What are you gonna do? - Nothing.",
+      "en": "-What are you gonna do? -Nothing.",
       "ja": "どうする？ 何もしない"
     }
   },
   {
     "translation": {
-      "en": "- Because I'm not gonna call him. - Why not?",
+      "en": "-Because I'm not gonna call him. -Why not?",
       "ja": "電話もだ"
     }
   },
   {
     "translation": {
       "en": "Because if I call him, he'll call the embassy to arrange us to be flown home,",
-      "ja": "電話すれば大使館に伝わり 帰国を手配される"
+      "ja": "電話すれば大使館に伝わり帰国を手配される"
     }
   },
   {
     "translation": {
-      "en": "- and they'll say we're not there. Right? - Right. Yeah.",
+      "en": "-and they'll say we're not there. Right? -Right. Yeah.",
       "ja": "だが俺たちは向こうにいない"
     }
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "translation": {
-      "en": "- That something's happened to us. - We're just missing?",
+      "en": "-That something's happened to us. -We're just missing?",
       "ja": "“何かあった”と 失踪したとか？"
     }
   },
@@ -4009,13 +4009,13 @@
   },
   {
     "translation": {
-      "en": "- So, we'd have to destroy our phones. - We only have to destroy the SIM card.",
+      "en": "-So, we'd have to destroy our phones. -We only have to destroy the SIM card.",
       "ja": "電話を破壊すべきだ ＳＩＭカードを"
     }
   },
   {
     "translation": {
-      "en": "- Right. - Oh, God.",
+      "en": "-Right. -Oh, God.",
       "ja": "そうだな なんてこった"
     }
   },
@@ -4039,20 +4039,20 @@
   },
   {
     "translation": {
-      "en": "Why didn't we just go back in the first place and just say: Sorry, we threw away the tickets and passports?",
-      "ja": "振り出しに戻って 局に事情を話そう"
+      "en": "Why didn't we just go back in the first place and just say: \"Sorry, we threw away the tickets and passports\"?",
+      "ja": "振り出しに戻って局に事情を話そう"
     }
   },
   {
     "translation": {
       "en": "Why did you throw the fucking ticket and the passport away in the first place?",
-      "ja": "お前がパスポートを 捨てたのが始まりだ"
+      "ja": "お前がパスポートを捨てたのが始まりだ"
     }
   },
   {
     "translation": {
-      "en": "- That's the fucking question! - Shut up!",
-      "ja": "お前がパスポートを 捨てたのが始まりだ 静かに！"
+      "en": "-[shouts] That's the fucking question! -Shut up!",
+      "ja": "お前がパスポートを捨てたのが始まりだ 静かに！"
     }
   },
   {
@@ -4063,7 +4063,7 @@
   },
   {
     "translation": {
-      "en": "- I don't care! - Are you mental?",
+      "en": "-I don't care! -Are you mental?",
       "ja": "知るか！ イカれたか？"
     }
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "translation": {
-      "en": "What are they gonna say, What were you arguing about last night? - In their house. -",
+      "en": "What are they gonna say, \"What were you arguing about last night?\" -In their house. -[sighs]",
       "ja": "人の家に泊まって怒鳴るなよ"
     }
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "translation": {
-      "en": "We haven't heard from them since 10:00 last night.",
+      "en": "[Mallard] We haven't heard from them since 10:00 last night.",
       "ja": "昨晩10時から連絡がない"
     }
   },
@@ -4100,19 +4100,19 @@
   {
     "translation": {
       "en": "Whatever the case, we need to be very quiet about this for now.",
-      "ja": "いずれにせよ この件は内密にしろ"
+      "ja": "いずれにせよこの件は内密にしろ"
     }
   },
   {
     "translation": {
       "en": "All right, drop everything, check the hotels, hospitals,",
-      "ja": "君たちは ホテルや病院を当たれ"
+      "ja": "君たちはホテルや病院を当たれ"
     }
   },
   {
     "translation": {
       "en": "anybody we might know in the area who might have seen them.",
-      "ja": "君たちは ホテルや病院を当たれ イアンの奥さんにも連絡を"
+      "ja": "君たちはホテルや病院を当たれ イアンの奥さんにも連絡を"
     }
   },
   {
@@ -4123,19 +4123,19 @@
   },
   {
     "translation": {
-      "en": "- Leave it with me. - Okay.",
+      "en": "-Leave it with me. -Okay.",
       "ja": "私がやります"
     }
   },
   {
     "translation": {
-      "en": "- - I need a map of Ecuador, ASAP.",
+      "en": "-[phone rings] -I need a map of Ecuador, ASAP.",
       "ja": "エクアドルの地図を"
     }
   },
   {
     "translation": {
-      "en": "- Got it. - Q365 News. Hold on.",
+      "en": "-[Claire] Got it. -Q365 News. Hold on.",
       "ja": "了解 Ｑ365ニュース　お待ちを"
     }
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "translation": {
-      "en": "There's that little guy.",
+      "en": "[Barrymore] There's that little guy.",
       "ja": "よお　マラード"
     }
   },
@@ -4160,7 +4160,7 @@
   {
     "translation": {
       "en": "I know you've got a big problem. I just spoke to my correspondent in Quito.",
-      "ja": "大変だな キトの特派員に聞いたよ"
+      "ja": "大変だなキトの特派員に聞いたよ"
     }
   },
   {
@@ -4177,14 +4177,14 @@
   },
   {
     "translation": {
-      "en": "- Being a bit hasty, aren't you? - If I know about it",
-      "ja": "先走りすぎだ 世間に知れるのは 時間の問題だぞ"
+      "en": "-Being a bit hasty, aren't you? -If I know about it",
+      "ja": "先走りすぎだ 世間に知れるのは時間の問題だぞ"
     }
   },
   {
     "translation": {
       "en": "then other people do, too, and it'll get out.",
-      "ja": "世間に知れるのは 時間の問題だぞ"
+      "ja": "世間に知れるのは時間の問題だぞ"
     }
   },
   {
@@ -4202,18 +4202,18 @@
   {
     "translation": {
       "en": "Just say we've lost contact with our special correspondents in Ecuador",
-      "ja": "エクアドル特派員が 行方不明だと伝えろ"
+      "ja": "エクアドル特派員が行方不明だと伝えろ"
     }
   },
   {
     "translation": {
-      "en": "- but let's not panic everyone. - Right.",
-      "ja": "エクアドル特派員が 行方不明だと伝えろ はい"
+      "en": "-but let's not panic everyone. -Right.",
+      "ja": "エクアドル特派員が行方不明だと伝えろ はい"
     }
   },
   {
     "translation": {
-      "en": "- You got this. - Yeah.",
+      "en": "-You got this. -Yeah.",
       "ja": "できるか？ ええ"
     }
   },
@@ -4244,7 +4244,7 @@
   {
     "translation": {
       "en": "And uh, and the New York Post.",
-      "ja": "ニューヨーク･ポストも ニューヨーク･ポストも 〝ジャーナリストが 失踪 〞"
+      "ja": "ニューヨーク･ポストも ニューヨーク･ポストも 〝ジャーナリストが失踪 〞"
     }
   },
   {
@@ -4255,26 +4255,26 @@
   },
   {
     "translation": {
-      "en": "- Do you want a drink? - Uh, no, I'm fine. Thank you.",
+      "en": "-[Eleanor] Do you want a drink? -[Claire] Uh, no, I'm fine. Thank you.",
       "ja": "飲む？ いいえ　遠慮するわ"
     }
   },
   {
     "translation": {
       "en": "You know, when you're in broadcasting...",
-      "ja": "こういう報道の仕事を してると⸺"
+      "ja": "こういう報道の仕事をしてると⸺"
     }
   },
   {
     "translation": {
       "en": "any number of things can happen, but they aren't necessarily serious.",
-      "ja": "いろいろあるけど 深刻とは限らない"
+      "ja": "いろいろあるけど深刻とは限らない"
     }
   },
   {
     "translation": {
       "en": "If that's the case, then they're gonna call any minute now.",
-      "ja": "深刻な状況でなければ すぐ連絡が取れる"
+      "ja": "深刻な状況でなければすぐ連絡が取れる"
     }
   },
   {
@@ -4315,20 +4315,20 @@
   },
   {
     "translation": {
-      "en": "- You must be worried sick. - Yeah.",
+      "en": "-You must be worried sick. -Yeah.",
       "ja": "心配でしょ そうね"
     }
   },
   {
     "translation": {
-      "en": "What do you mean, loner?",
+      "en": "What do you mean, \"loner\"?",
       "ja": "一匹狼？"
     }
   },
   {
     "translation": {
       "en": "Well... you know what? Actually, I could do with a drink.",
-      "ja": "それは… やっぱり お酒を いただこうかしら"
+      "ja": "それは… やっぱり お酒をいただこうかしら"
     }
   },
   {
@@ -4346,7 +4346,7 @@
   {
     "translation": {
       "en": "Because I tell you, it is a very interesting story.",
-      "ja": "ものすごく 面白い話があるのよ"
+      "ja": "ものすごく面白い話があるのよ"
     }
   },
   {
@@ -4357,7 +4357,7 @@
   },
   {
     "translation": {
-      "en": "- Before? Yeah. - Yeah, you know, special interest.",
+      "en": "-Before? Yeah. -Yeah, you know, special interest.",
       "ja": "会う前？ 趣味の話とか"
     }
   },
@@ -4382,72 +4382,72 @@
   {
     "translation": {
       "en": "I mean, sometimes I think that my life has been too dramatic.",
-      "ja": "あまりに ドラマチックすぎて⸺"
+      "ja": "あまりにドラマチックすぎて⸺"
     }
   },
   {
     "translation": {
       "en": "And I almost wish it was more, like, uh... plain and boring.",
-      "ja": "もっと つまらない人生なら よかったと思うほど"
+      "ja": "もっと つまらない人生ならよかったと思うほど"
     }
   },
   {
     "translation": {
-      "en": "- I should go. Sorry. I'm so sorry. - Clumsy.",
+      "en": "-I should go. Sorry. I'm so sorry. -Clumsy.",
       "ja": "もう行きます　すみません 不器用ね"
     }
   },
   {
     "translation": {
-      "en": "Nothing yet leads us to give in to anxiety,",
-      "ja": "悲観することは ありませんが⸺"
+      "en": "[Claire] Nothing yet leads us to give in to anxiety,",
+      "ja": "悲観することはありませんが⸺"
     }
   },
   {
     "translation": {
       "en": "even if foreign journalists today incur increasingly real risks.",
-      "ja": "海外特派員が 危険な仕事なのは事実です"
+      "ja": "海外特派員が危険な仕事なのは事実です"
     }
   },
   {
     "translation": {
-      "en": "Thank you, Claire Maddox. And coming up next, baseball.",
-      "ja": "ありがとう　クレア 次は野球です"
+      "en": "[man] Thank you, Claire Maddox. And coming up next, baseball.",
+      "ja": "ありがとう　クレア次は野球です"
     }
   },
   {
     "translation": {
       "en": "If you don't get in touch at all, they're going to think you're dead.",
-      "ja": "連絡しないと 死んだと思われる"
+      "ja": "連絡しないと死んだと思われる"
     }
   },
   {
     "translation": {
-      "en": "- Or taken hostage, or, yeah. - Taken hostage?",
+      "en": "-Or taken hostage, or, yeah. -Taken hostage?",
       "ja": "人質になったとかね 人質？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - We're taken hostage.",
+      "en": "-Yeah. -We're taken hostage.",
       "ja": "ああ 俺たちは人質だ"
     }
   },
   {
     "translation": {
-      "en": "- What do you mean? - If we can fake being in Ecuador,",
+      "en": "-What do you mean? -If we can fake being in Ecuador,",
       "ja": "何だって？ 拘束されたフリをするんだ"
     }
   },
   {
     "translation": {
-      "en": "- we can fake being taken hostage. - That's bad.",
+      "en": "-we can fake being taken hostage. -That's bad.",
       "ja": "拘束されたフリをするんだ さすがにマズいよ"
     }
   },
   {
     "translation": {
-      "en": "- That's not a good idea. - It's not bad, it's genius.",
+      "en": "-That's not a good idea. -[Frank] It's not bad, it's genius.",
       "ja": "さすがにマズいよ 天才的なアイデアだ"
     }
   },
@@ -4459,19 +4459,19 @@
   },
   {
     "translation": {
-      "en": "- Am I? - Yeah.",
+      "en": "-Am I? -Yeah.",
       "ja": "僕が？ そうだ"
     }
   },
   {
     "translation": {
-      "en": "- He's a genius. - He is a smart man.",
+      "en": "-He's a genius. -He is a smart man.",
       "ja": "天才だろ？ 賢いわ"
     }
   },
   {
     "translation": {
-      "en": "- It's a very good idea. - Is it?",
+      "en": "-It's a very good idea. -[Finch] Is it?",
       "ja": "いいアイデアだ そうか？"
     }
   },
@@ -4483,25 +4483,25 @@
   },
   {
     "translation": {
-      "en": "- Baby, you're blocking Ian. - Oh, sorry.",
+      "en": "-[Domingo] Baby, you're blocking Ian. -[Brigida] Oh, sorry.",
       "ja": "邪魔だよ ごめん"
     }
   },
   {
     "translation": {
-      "en": "- Okay. Okay. - Okay.  It's recording.",
+      "en": "-[Domingo] Okay. Okay. -[Finch] Okay. [Domingo] It's recording.",
       "ja": "よし　録画スタート"
     }
   },
   {
     "translation": {
-      "en": "- And... - Wait, wait, wait!",
+      "en": "-And... -[Brigida] Wait, wait, wait!",
       "ja": "用意 待って"
     }
   },
   {
     "translation": {
-      "en": "- Okay. - Okay.",
+      "en": "-Okay. -[Domingo] Okay.",
       "ja": "いいわ"
     }
   },
@@ -4513,7 +4513,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Okay.",
+      "en": "-Yeah. -Okay.",
       "ja": "ああ"
     }
   },
@@ -4525,13 +4525,13 @@
   },
   {
     "translation": {
-      "en": "Don't smile and say hello. For God's sake.",
-      "ja": "笑顔で“どうも”は ないだろ"
+      "en": "Don't smile and say \"hello.\" For God's sake.",
+      "ja": "笑顔で“どうも”はないだろ"
     }
   },
   {
     "translation": {
-      "en": "- What do you mean? - You're in mortal danger.",
+      "en": "-What do you mean? -You're in mortal danger.",
       "ja": "なんで？ 殺すと脅されてるんだ"
     }
   },
@@ -4543,13 +4543,13 @@
   },
   {
     "translation": {
-      "en": "- What rebel soldier wears high heels? - They make my legs look longer.",
+      "en": "-What rebel soldier wears high heels? -They make my legs look longer.",
       "ja": "反乱軍の兵士がハイヒール？ 脚が長く見えるの"
     }
   },
   {
     "translation": {
-      "en": "- It looks good, baby.  - Thank you, baby.",
+      "en": "-It looks good, baby. [growls] -[Brigida] Thank you, baby.",
       "ja": "きれいだ ありがとう"
     }
   },
@@ -4562,24 +4562,24 @@
   {
     "translation": {
       "en": "We are hostages of the Ecuadorian Liberation Front.",
-      "ja": "エクアドル解放戦線の 人質になりました"
+      "ja": "エクアドル解放戦線の人質になりました"
     }
   },
   {
     "translation": {
       "en": "Um, and I am talking to the president of the United States here",
-      "ja": "合衆国大統領に メッセージです"
+      "ja": "合衆国大統領にメッセージです"
     }
   },
   {
     "translation": {
       "en": "when I say the situation is simple. If you do not pay the ransom, we will be executed.",
-      "ja": "身代金を支払わないと 殺されます"
+      "ja": "身代金を支払わないと殺されます"
     }
   },
   {
     "translation": {
-      "en": "- Stop. Okay. - What?",
+      "en": "-Stop. Okay. -What?",
       "ja": "そこまでだ"
     }
   },
@@ -4609,19 +4609,19 @@
   },
   {
     "translation": {
-      "en": "- A nice word to your family, to your wife. - Yeah.",
+      "en": "-A nice word to your family, to your wife. -Yeah.",
       "ja": "家族や女房にも言葉を"
     }
   },
   {
     "translation": {
-      "en": "The lens? That's the whole world, right there. - You gotta connect. - Yeah.",
+      "en": "The lens? That's the whole world, right there. -You gotta connect. -Yeah.",
       "ja": "レンズの向こうに語りかけろ"
     }
   },
   {
     "translation": {
-      "en": "- Do you understand? - Yeah, yeah, yeah. Okay.",
+      "en": "-Do you understand? -Yeah, yeah, yeah. Okay.",
       "ja": "分かるか？ よし"
     }
   },
@@ -4652,13 +4652,13 @@
   {
     "translation": {
       "en": "and I beg you, Mr. President, please help us.",
-      "ja": "大統領 どうか助けてください"
+      "ja": "大統領どうか助けてください"
     }
   },
   {
     "translation": {
       "en": "Also, uh, tell my family I love them, tell my wife--",
-      "ja": "家族に愛してると伝え 妻にも…"
+      "ja": "家族に愛してると伝え妻にも…"
     }
   },
   {
@@ -4669,49 +4669,49 @@
   },
   {
     "translation": {
-      "en": "- Ugh. I don't know, I just-- You said-- - Talk to them directly, to the lens.",
+      "en": "-Ugh. I don't know, I just-- You said-- -Talk to them directly, to the lens.",
       "ja": "だって… レンズを見て自分で伝えろ"
     }
   },
   {
     "translation": {
-      "en": "- Dear Mr. President, wife, family-- - Stop.",
+      "en": "-Dear Mr. President, wife, family-- -Stop.",
       "ja": "大統領　妻と家族のみんな"
     }
   },
   {
     "translation": {
-      "en": "- Get up. - What?",
+      "en": "-Get up. -[groans] What?",
       "ja": "やめろ　立て 何だよ"
     }
   },
   {
     "translation": {
-      "en": "- Okay. Shake it out. - Oh!",
+      "en": "-[Frank] Okay. Shake it out. -Oh!",
       "ja": "リラックスだ"
     }
   },
   {
     "translation": {
-      "en": "- Take that, American pig! - That wasn't part of the video.",
+      "en": "-[Brigida] Take that, American pig! -That wasn't part of the video.",
       "ja": "アメリカのブタめ 演技じゃない"
     }
   },
   {
     "translation": {
-      "en": "- What was that for? - To help you get into your role.",
+      "en": "-What was that for? -To help you get into your role.",
       "ja": "何なんだ 役作りさ"
     }
   },
   {
     "translation": {
-      "en": "Who am I? Daniel Day- Fucking- Lewis? Why am I doing this",
+      "en": "Who am I? Daniel Day-Fucking-Lewis? Why am I doing this",
       "ja": "僕はオスカー俳優か 君がやれよ　プロだろ"
     }
   },
   {
     "translation": {
-      "en": "- if you're the charismatic broadcaster? - Exactly. I can't do it.",
+      "en": "-if you're the charismatic broadcaster? -Exactly. I can't do it.",
       "ja": "君がやれよ　プロだろ 俺だと同情されない"
     }
   },
@@ -4730,30 +4730,30 @@
   {
     "translation": {
       "en": "You, on the other hand, you begging for your life? It's pathetic.",
-      "ja": "お前が命乞いすると 哀れに見える"
+      "ja": "お前が命乞いすると哀れに見える"
     }
   },
   {
     "translation": {
       "en": "It's like an ugly runt, mongrel dog that no one wants,",
-      "ja": "もらい手のいない ブサイクな犬だ"
+      "ja": "もらい手のいないブサイクな犬だ"
     }
   },
   {
     "translation": {
-      "en": "- that has to be put down. - Yeah, I get the point.",
-      "ja": "もらい手のいない ブサイクな犬だ 分かった"
+      "en": "-that has to be put down. -Yeah, I get the point.",
+      "ja": "もらい手のいないブサイクな犬だ 分かった"
     }
   },
   {
     "translation": {
-      "en": "Didn't have to hit me.",
+      "en": "[whispers] Didn't have to hit me.",
       "ja": "殴らなくても"
     }
   },
   {
     "translation": {
-      "en": "You've got this, Finch.",
+      "en": "[Brigida] You've got this, Finch.",
       "ja": "やれるわ"
     }
   },
@@ -4766,12 +4766,12 @@
   {
     "translation": {
       "en": "We work for the New York radio station Q365 News.",
-      "ja": "Ｑ365ニュースで 働いています"
+      "ja": "Ｑ365ニュースで働いています"
     }
   },
   {
     "translation": {
-      "en": "You wanna see these?",
+      "en": "[Frank] You wanna see these?",
       "ja": "見るか？"
     }
   },
@@ -4790,30 +4790,30 @@
   {
     "translation": {
       "en": "In the end, you were great, though. I'm sorry for what I did, but it was for authenticity,",
-      "ja": "殴ったことは謝るが リアリティーが出た"
+      "ja": "殴ったことは謝るがリアリティーが出た"
     }
   },
   {
     "translation": {
-      "en": "- for the good of the cause. - Didn't have to hit me that hard.",
-      "ja": "殴ったことは謝るが リアリティーが出た やりすぎだ 君を殴ってもいいか？"
+      "en": "-for the good of the cause. -Didn't have to hit me that hard.",
+      "ja": "殴ったことは謝るがリアリティーが出た やりすぎだ君を殴ってもいいか？"
     }
   },
   {
     "translation": {
       "en": "So, can I hit you now?",
-      "ja": "やりすぎだ 君を殴ってもいいか？"
+      "ja": "やりすぎだ君を殴ってもいいか？"
     }
   },
   {
     "translation": {
-      "en": "- You can try. - No, I should just be allowed to hit you.",
+      "en": "-[scoffs] You can try. -No, I should just be allowed to hit you.",
       "ja": "やってみろ 殴る許可を出せ"
     }
   },
   {
     "translation": {
-      "en": "- Why? - For the good of the cause.",
+      "en": "-Why? -For the good of the cause.",
       "ja": "正義だ"
     }
   },
@@ -4838,61 +4838,61 @@
   {
     "translation": {
       "en": "Take it over to the radio station, make sure no one sees you.",
-      "ja": "ラジオ局に届けろ 見られるなよ"
+      "ja": "ラジオ局に届けろ見られるなよ"
     }
   },
   {
     "translation": {
-      "en": "My name is Ian Finch. This is Frank Bonneville.",
+      "en": "[Finch] My name is Ian Finch. This is Frank Bonneville.",
       "ja": "僕はフィンチ　彼はボネビル"
     }
   },
   {
     "translation": {
       "en": "We work for the New York radio station Q365 News.",
-      "ja": "Ｑ365ニュースで 働いています"
+      "ja": "Ｑ365ニュースで働いています"
     }
   },
   {
     "translation": {
       "en": "We were reporting here on the unrest in Ecuador",
-      "ja": "エクアドルで取材中 解放戦線に拘束されて⸺"
+      "ja": "エクアドルで取材中解放戦線に拘束されて⸺"
     }
   },
   {
     "translation": {
       "en": "when we were taken hostage by the Ecuadorian Liberation Front.",
-      "ja": "エクアドルで取材中 解放戦線に拘束されて⸺ 人質になりました"
+      "ja": "エクアドルで取材中解放戦線に拘束されて⸺ 人質になりました"
     }
   },
   {
     "translation": {
       "en": "We have not been harmed. If America submits to their demands,",
-      "ja": "まだ無事です 彼らの要求に従えば 解放されます"
+      "ja": "まだ無事です 彼らの要求に従えば解放されます"
     }
   },
   {
     "translation": {
       "en": "we will be set free to return to the United States.",
-      "ja": "彼らの要求に従えば 解放されます"
+      "ja": "彼らの要求に従えば解放されます"
     }
   },
   {
     "translation": {
-      "en": "- Well, they're still alive. - If their demands are not met, however,",
-      "ja": "生きてたか 要求が満たされなければ 処刑されます"
+      "en": "-Well, they're still alive. -If their demands are not met, however,",
+      "ja": "生きてたか 要求が満たされなければ処刑されます"
     }
   },
   {
     "translation": {
       "en": "we will be executed, never to see our families again.",
-      "ja": "要求が満たされなければ 処刑されます"
+      "ja": "要求が満たされなければ処刑されます"
     }
   },
   {
     "translation": {
       "en": "Please take these people seriously. They want money to fund their cause.",
-      "ja": "彼らの目的は 活動資金の調達です"
+      "ja": "彼らの目的は活動資金の調達です"
     }
   },
   {
@@ -4903,14 +4903,14 @@
   },
   {
     "translation": {
-      "en": "Good evening, and welcome to this special broadcast dedicated to Frank Bonneville and Ian Finch.",
-      "ja": "ボネビルとフィンチのために 特別番組をお送りします"
+      "en": "[man]Good evening, and welcome to this special broadcast dedicated to Frank Bonneville and Ian Finch.",
+      "ja": "ボネビルとフィンチのために特別番組をお送りします"
     }
   },
   {
     "translation": {
       "en": "I'm joined by their colleague, Claire Maddox, from Q365 News.",
-      "ja": "ゲストはＱ365ニュースの クレア･マドックスです"
+      "ja": "ゲストはＱ365ニュースのクレア･マドックスです"
     }
   },
   {
@@ -4922,19 +4922,19 @@
   {
     "translation": {
       "en": "Nothing can justify taking journalists hostage. The only thing they're guilty of is doing their job.",
-      "ja": "無実のジャーナリストを 拘束するなど許されません"
+      "ja": "無実のジャーナリストを拘束するなど許されません"
     }
   },
   {
     "translation": {
-      "en": "- You know she has a thing for you, right? - Ridiculous.",
+      "en": "-You know she has a thing for you, right? -Ridiculous.",
       "ja": "お前に気がある ふざけるな"
     }
   },
   {
     "translation": {
       "en": "You never noticed? All those times she brought you a cup of coffee?",
-      "ja": "いつもコーヒーを 買ってくれただろ"
+      "ja": "いつもコーヒーを買ってくれただろ"
     }
   },
   {
@@ -4945,13 +4945,13 @@
   },
   {
     "translation": {
-      "en": "- Really? - Yeah.",
+      "en": "-Really? -Yeah.",
       "ja": "そうか？ ああ"
     }
   },
   {
     "translation": {
-      "en": "- Didn't she? - No. Just you.",
+      "en": "-Didn't she? -No. Just you.",
       "ja": "違うか？ 違う　お前だけだ"
     }
   },
@@ -4969,7 +4969,7 @@
   },
   {
     "translation": {
-      "en": "- Not anymore you don't. - All right.",
+      "en": "-[scoffs] Not anymore you don't. -All right.",
       "ja": "もう違う そうか"
     }
   },
@@ -4982,13 +4982,13 @@
   {
     "translation": {
       "en": "...danger they face is indifference and being forgotten.",
-      "ja": "忘れられがちですが 忘れてはいけません"
+      "ja": "忘れられがちですが忘れてはいけません"
     }
   },
   {
     "translation": {
-      "en": "- And we shall not forget them. - Well, you make a good point.",
-      "ja": "忘れられがちですが 忘れてはいけません そのとおりだ"
+      "en": "-And we shall not forget them. -Well, you make a good point.",
+      "ja": "忘れられがちですが忘れてはいけません そのとおりだ"
     }
   },
   {
@@ -5005,38 +5005,38 @@
   },
   {
     "translation": {
-      "en": "- Welcome, it's so good to have you. - Thank you.",
+      "en": "-Welcome, it's so good to have you. -Thank you.",
       "ja": "ようこそ"
     }
   },
   {
     "translation": {
       "en": "Please, have a seat. Thanks so much for coming on for the show today.",
-      "ja": "座って 今日はありがとう おつらいでしょう"
+      "ja": "座って 今日はありがとうおつらいでしょう"
     }
   },
   {
     "translation": {
-      "en": "- It must be very trying right now. - Yeah. It is.",
-      "ja": "今日はありがとう おつらいでしょう ええ　本当に"
+      "en": "-It must be very trying right now. -[Eleanor] Yeah. It is.",
+      "ja": "今日はありがとうおつらいでしょう ええ　本当に"
     }
   },
   {
     "translation": {
-      "en": "- That's your wife? - I know.",
+      "en": "-That's your wife? -I know.",
       "ja": "お前の女房？ 釣り合わないよな"
     }
   },
   {
     "translation": {
-      "en": "- Punching above my weight. - I decided to come on your show",
-      "ja": "釣り合わないよな これがエクアドルで 放送されることがあれば⸺"
+      "en": "-Punching above my weight. -[Eleanor] I decided to come on your show",
+      "ja": "釣り合わないよな これがエクアドルで放送されることがあれば⸺"
     }
   },
   {
     "translation": {
       "en": "in the hope that this'll be broadcast in Ecuador",
-      "ja": "これがエクアドルで 放送されることがあれば⸺"
+      "ja": "これがエクアドルで放送されることがあれば⸺"
     }
   },
   {
@@ -5048,84 +5048,84 @@
   {
     "translation": {
       "en": "I've kept silent in the hope that any negotiations would be successful,",
-      "ja": "交渉が成功するまで 待つつもりでしたが⸺"
+      "ja": "交渉が成功するまで待つつもりでしたが⸺"
     }
   },
   {
     "translation": {
       "en": "but the wait is unbearable.",
-      "ja": "交渉が成功するまで 待つつもりでしたが⸺ 待つのは地獄よ"
+      "ja": "交渉が成功するまで待つつもりでしたが⸺ 待つのは地獄よ"
     }
   },
   {
     "translation": {
-      "en": "I understand, and the whole country is feeling for you right now.",
-      "ja": "国民はあなたを 応援しています"
+      "en": "[man] I understand, and the whole country is feeling for you right now.",
+      "ja": "国民はあなたを応援しています"
     }
   },
   {
     "translation": {
       "en": "I know. The letters of support, the portraits hanging in all the cities",
-      "ja": "手紙が届いてますし 街中には写真も"
+      "ja": "手紙が届いてますし街中には写真も"
     }
   },
   {
     "translation": {
-      "en": "tell me the compassion that the American people have for the hostages, - for my husband. Thank you. - You're so right.",
-      "ja": "皆さんの温かいお心遣いに 感謝してます"
+      "en": "tell me the compassion that the American people have for the hostages, -for my husband. Thank you. -[man] You're so right.",
+      "ja": "皆さんの温かいお心遣いに感謝してます"
     }
   },
   {
     "translation": {
       "en": "And, together, we stand firm for Ian and Frank to return amongst us.",
-      "ja": "イアンとフランクを 一緒に連れ戻しましょう"
+      "ja": "イアンとフランクを一緒に連れ戻しましょう"
     }
   },
   {
     "translation": {
-      "en": "- She loves me. - Of course she does.",
+      "en": "-She loves me. -Of course she does.",
       "ja": "愛されてる 当然よ"
     }
   },
   {
     "translation": {
-      "en": "- I have no right to do this to her. - I hope you don't mind, uh,",
+      "en": "-I have no right to do this to her. -[Eleanor] I hope you don't mind, uh,",
       "ja": "僕は ひどい夫だ いいかしら"
     }
   },
   {
     "translation": {
       "en": "I've written a song for the hostages. Something to make sure we don't forget them.",
-      "ja": "２人を忘れないために 曲を作ったの"
+      "ja": "２人を忘れないために曲を作ったの"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - I thought I might sing it.",
+      "en": "-Yeah. -[Eleanor] I thought I might sing it.",
       "ja": "歌いたいわ"
     }
   },
   {
     "translation": {
-      "en": "- I have a backing track. - Oh. Uh, okay. Um...",
+      "en": "-I have a backing track. -Oh. Uh, okay. Um...",
       "ja": "伴奏はＣＤで"
     }
   },
   {
     "translation": {
-      "en": "- Okay? - All right. Uh...",
+      "en": "-Okay? -All right. Uh...",
       "ja": "これを"
     }
   },
   {
     "translation": {
-      "en": "- Okay, so it's, uh-- - It's called A Dollar For A Hero.",
+      "en": "-Okay, so it's, uh-- -It's called \"A Dollar For A Hero.\"",
       "ja": "曲名は… “英雄に１ドルを”"
     }
   },
   {
     "translation": {
-      "en": "- Let's hear it now, a world exclusive. - Can I stand?",
+      "en": "-Let's hear it now, a world exclusive. -Can I stand?",
       "ja": "当番組だけです 立っていい？"
     }
   },
@@ -5144,13 +5144,13 @@
   {
     "translation": {
       "en": "♪ Can you spare a dollar for a hero ♪",
-      "ja": "あなたの１ドルを 　　ヒーローのために捧げて"
+      "ja": "あなたの１ドルを　　ヒーローのために捧げて"
     }
   },
   {
     "translation": {
       "en": "♪ And bring him home to me? ♪",
-      "ja": "彼を私の元に 　　連れ戻してほしい"
+      "ja": "彼を私の元に　　連れ戻してほしい"
     }
   },
   {
@@ -5162,43 +5162,43 @@
   {
     "translation": {
       "en": "♪ To return to this land of liberty ♪",
-      "ja": "自由の国に 　　ヒーローを連れ戻すため"
+      "ja": "自由の国に　　ヒーローを連れ戻すため"
     }
   },
   {
     "translation": {
       "en": "♪ I hope you're with The ones you love ♪",
-      "ja": "あなたはきっと⸺ 愛する人と一緒に 　　安全な家にいるでしょう"
+      "ja": "あなたはきっと⸺ 愛する人と一緒に　　安全な家にいるでしょう"
     }
   },
   {
     "translation": {
       "en": "♪ I hope you're together Safe at home ♪",
-      "ja": "愛する人と一緒に 　　安全な家にいるでしょう"
+      "ja": "愛する人と一緒に　　安全な家にいるでしょう"
     }
   },
   {
     "translation": {
       "en": "♪ But can you spare A dollar and a prayer ♪",
-      "ja": "あなたの１ドルと 　　　　祈りを捧げて"
+      "ja": "あなたの１ドルと　　　　祈りを捧げて"
     }
   },
   {
     "translation": {
       "en": "♪ To one in danger and alone? ♪",
-      "ja": "危険と孤独に身をさらす 　　　　　　　英雄のために"
+      "ja": "危険と孤独に身をさらす　　　　　　　英雄のために"
     }
   },
   {
     "translation": {
       "en": "♪ Can you spare a dollar for a hero? ♪",
-      "ja": "あなたの１ドルを 　　ヒーローのために捧げて"
+      "ja": "あなたの１ドルを　　ヒーローのために捧げて"
     }
   },
   {
     "translation": {
       "en": "♪ America, hear my plea ♪",
-      "ja": "アメリカよ 　　私の願いを聞いて"
+      "ja": "アメリカよ　　私の願いを聞いて"
     }
   },
   {
@@ -5240,7 +5240,7 @@
   {
     "translation": {
       "en": "Thank you, and I'd also like to appeal to the generosity of the American public.",
-      "ja": "ありがとう 国民の皆さんにひと言"
+      "ja": "ありがとう国民の皆さんにひと言"
     }
   },
   {
@@ -5252,7 +5252,7 @@
   {
     "translation": {
       "en": "Um, if each of you just give a dollar",
-      "ja": "人質になっている 英雄のために⸺"
+      "ja": "人質になっている英雄のために⸺"
     }
   },
   {
@@ -5275,20 +5275,20 @@
   },
   {
     "translation": {
-      "en": "- I'm sending her a dollar. - What for?",
+      "en": "-I'm sending her a dollar. -What for?",
       "ja": "１ドルを送るの なぜだ"
     }
   },
   {
     "translation": {
-      "en": "- For the heroes. - Great idea.",
+      "en": "-For the heroes. -Great idea.",
       "ja": "英雄を救う そりゃいい"
     }
   },
   {
     "translation": {
       "en": "So, you can donate on my website, and that is www.eleanorfinch.com.",
-      "ja": "寄付はエレノア･フィンチ ドットコムまで"
+      "ja": "寄付はエレノア･フィンチドットコムまで"
     }
   },
   {
@@ -5299,32 +5299,32 @@
   },
   {
     "translation": {
-      "en": "Today is the eighth day that Frank Bonneville and Ian Finch",
-      "ja": "２人が拘束されて 今日で８日目です"
+      "en": "[man] Today is the eighth day that Frank Bonneville and Ian Finch",
+      "ja": "２人が拘束されて今日で８日目です"
     }
   },
   {
     "translation": {
       "en": "have been held hostage in Ecuador. We shall not forget them.",
-      "ja": "２人が拘束されて 今日で８日目です 忘れないでください"
+      "ja": "２人が拘束されて今日で８日目です 忘れないでください"
     }
   },
   {
     "translation": {
       "en": "You can still make your donations to A Dollar For Our Heroes.",
-      "ja": "“英雄に１ドルを”に 寄付をお願いします"
+      "ja": "“英雄に１ドルを”に寄付をお願いします"
     }
   },
   {
     "translation": {
       "en": "Just to remind you, you can still make your donations to A Dollar For Our Heroes.",
-      "ja": "寄付の送り先は “英雄に１ドルを”"
+      "ja": "寄付の送り先は“英雄に１ドルを”"
     }
   },
   {
     "translation": {
       "en": "And we at Q365 News want to thank you all for your emails of concern.",
-      "ja": "Ｑ365ニュースにも⸺ 励ましのメールが 届いています"
+      "ja": "Ｑ365ニュースにも⸺ 励ましのメールが届いています"
     }
   },
   {
@@ -5335,25 +5335,25 @@
   },
   {
     "translation": {
-      "en": "- You wanted to see me? - Listeners can't get enough.",
+      "en": "-[Claire] You wanted to see me? -Listeners can't get enough.",
       "ja": "ご用ですか？ 聴取率はウナギ上りだ"
     }
   },
   {
     "translation": {
       "en": "The ratings are officially insane. We're the number one",
-      "ja": "聴取率はウナギ上りだ ニューヨークのラジオ局で トップだよ"
+      "ja": "聴取率はウナギ上りだ ニューヨークのラジオ局でトップだよ"
     }
   },
   {
     "translation": {
       "en": "radio station in New York. I never thought I'd be able to say that.",
-      "ja": "ニューヨークのラジオ局で トップだよ"
+      "ja": "ニューヨークのラジオ局でトップだよ"
     }
   },
   {
     "translation": {
-      "en": "Two of our friends are being held hostage. Uh- huh.",
+      "en": "Two of our friends are being held hostage. Uh-huh.",
       "ja": "仲間が人質になってます"
     }
   },
@@ -5365,44 +5365,44 @@
   },
   {
     "translation": {
-      "en": "- I'm sorry? - You're excited that there's a news buzz",
-      "ja": "何だと？ 人の不幸をネタにして 喜んでる"
+      "en": "-I'm sorry? -You're excited that there's a news buzz",
+      "ja": "何だと？ 人の不幸をネタにして喜んでる"
     }
   },
   {
     "translation": {
-      "en": "- around two human beings in danger. - Not just them. Eleanor Finch.",
-      "ja": "人の不幸をネタにして 喜んでる エレノアもいる"
+      "en": "-around two human beings in danger. -Not just them. Eleanor Finch.",
+      "ja": "人の不幸をネタにして喜んでる エレノアもいる"
     }
   },
   {
     "translation": {
       "en": "The country has adopted her, they can't get enough, they love her. They want more.",
-      "ja": "国民に大人気だ 需要は増してる"
+      "ja": "国民に大人気だ需要は増してる"
     }
   },
   {
     "translation": {
       "en": "I want you to keep an eye on her. Hang out. Maybe become friends.",
-      "ja": "彼女に張り付け 友達になるんだ"
+      "ja": "彼女に張り付け友達になるんだ"
     }
   },
   {
     "translation": {
       "en": "I don't know. There's more to her story here, so get it and bring me.",
-      "ja": "何かネタを引き出して 持ってこい"
+      "ja": "何かネタを引き出して持ってこい"
     }
   },
   {
     "translation": {
       "en": "You want to know if she's lost her appetite,",
-      "ja": "“食事も のどを通らず 睡眠薬に頼ってる”とか"
+      "ja": "“食事も のどを通らず睡眠薬に頼ってる”とか"
     }
   },
   {
     "translation": {
       "en": "if she takes sleeping pills before bed, if she has a lover?",
-      "ja": "“食事も のどを通らず 睡眠薬に頼ってる”とか “愛人がいる”とか？"
+      "ja": "“食事も のどを通らず睡眠薬に頼ってる”とか “愛人がいる”とか？"
     }
   },
   {
@@ -5414,12 +5414,12 @@
   {
     "translation": {
       "en": "Well, I'd like you to be a journalist!",
-      "ja": "君が なるのは ジャーナリストだ"
+      "ja": "君が なるのはジャーナリストだ"
     }
   },
   {
     "translation": {
-      "en": "Are you guys hogging the rubber bands? Yes, you are.",
+      "en": "[Eleanor] Are you guys hogging the rubber bands? Yes, you are.",
       "ja": "輪ゴムをムダ遣いしないで"
     }
   },
@@ -5432,36 +5432,36 @@
   {
     "translation": {
       "en": "There's a dollar in the hundies, come on. You gotta be careful. Recount it.",
-      "ja": "100ドル札の間に１ドル札？ やり直して"
+      "ja": "100ドル札の間に１ドル札？やり直して"
     }
   },
   {
     "translation": {
-      "en": "A Dollar For Our Heroes. That is a great idea. It's catchy.",
-      "ja": "“英雄に１ドルを” いいアイデアよ 大盛況みたいね"
+      "en": "\"A Dollar For Our Heroes.\" That is a great idea. It's catchy.",
+      "ja": "“英雄に１ドルを” いいアイデアよ大盛況みたいね"
     }
   },
   {
     "translation": {
-      "en": "- You've been busy. - Yeah. One of my skills.",
-      "ja": "いいアイデアよ 大盛況みたいね 資金集めとか得意なの"
+      "en": "-You've been busy. -Yeah. One of my skills.",
+      "ja": "いいアイデアよ大盛況みたいね 資金集めとか得意なの"
     }
   },
   {
     "translation": {
-      "en": "Organization, fund- raising. I have a high likability factor,",
-      "ja": "資金集めとか得意なの 人好きがするから お金も集まる"
+      "en": "Organization, fund-raising. I have a high likability factor,",
+      "ja": "資金集めとか得意なの 人好きがするからお金も集まる"
     }
   },
   {
     "translation": {
-      "en": "so, it's easy to get people to donate. Want a T- shirt?",
-      "ja": "人好きがするから お金も集まる Ｔシャツを？"
+      "en": "so, it's easy to get people to donate. Want a T-shirt?",
+      "ja": "人好きがするからお金も集まる Ｔシャツを？"
     }
   },
   {
     "translation": {
-      "en": "- Sure. - I don't know, can you wear orange?",
+      "en": "-Sure. -I don't know, can you wear orange?",
       "ja": "ええ オレンジは似合う？"
     }
   },
@@ -5474,13 +5474,13 @@
   {
     "translation": {
       "en": "We need to do something about all this cash. There's $124,000 of it.",
-      "ja": "現金を何とかしないと 12万4000ドルもある"
+      "ja": "現金を何とかしないと12万4000ドルもある"
     }
   },
   {
     "translation": {
       "en": "Ooh. Yeah, we have a safe. Ian keeps all his prized possessions in it. Comics.",
-      "ja": "金庫があるわ イアンが漫画とか入れてるの"
+      "ja": "金庫があるわイアンが漫画とか入れてるの"
     }
   },
   {
@@ -5491,25 +5491,25 @@
   },
   {
     "translation": {
-      "en": "- We need to account for every cent. - Sure.",
+      "en": "-We need to account for every cent. -Sure.",
       "ja": "慎重に保管してくれ 任せて"
     }
   },
   {
     "translation": {
-      "en": "- Hello. Hi. - Hi.",
+      "en": "-[Chris] Hello. Hi. -Hi.",
       "ja": "どうも"
     }
   },
   {
     "translation": {
-      "en": "- Chris Denby. - Ah.",
+      "en": "-Chris Denby. -Ah.",
       "ja": "ポスト紙のデンビです"
     }
   },
   {
     "translation": {
-      "en": "- New York Post. - Yes, of course.",
+      "en": "-New York Post. -Yes, of course. [chuckles]",
       "ja": "待ってたわ"
     }
   },
@@ -5521,26 +5521,26 @@
   },
   {
     "translation": {
-      "en": "- Oh. You're doing it for Ian, so... - Yeah. I am.",
+      "en": "-Oh. You're doing it for Ian, so... -Yeah. I am.",
       "ja": "イアンのためだから そうなの"
     }
   },
   {
     "translation": {
-      "en": "Mrs. Finch, please, if we could, um... - You know, against those things, there. - Mm- hm. Hm.",
-      "ja": "フィンチさん そこの人形の前でポーズを"
+      "en": "Mrs. Finch, please, if we could, um... -You know, against those things, there. -Mm-hm. Hm.",
+      "ja": "フィンチさんそこの人形の前でポーズを"
     }
   },
   {
     "translation": {
       "en": "These are his Disney characters. Superman and stuff.",
-      "ja": "彼のディズニー人形 スーパーマンとか"
+      "ja": "彼のディズニー人形スーパーマンとか"
     }
   },
   {
     "translation": {
-      "en": "- Marvel. And it's Captain America. -",
-      "ja": "マーベルの キャプテン･アメリカよ"
+      "en": "-Marvel. And it's Captain America. -[camera shutter clicking]",
+      "ja": "マーベルのキャプテン･アメリカよ"
     }
   },
   {
@@ -5552,37 +5552,37 @@
   {
     "translation": {
       "en": "Oh. You must really hate doing these interviews and things, when you're so worried.",
-      "ja": "つらい時に インタビューなんて大変ね"
+      "ja": "つらい時にインタビューなんて大変ね"
     }
   },
   {
     "translation": {
-      "en": "- Yeah, but somebody's gotta do it. - Nice.",
+      "en": "-Yeah, but somebody's gotta do it. -[Chris] Nice.",
       "ja": "誰かが やらなきゃ"
     }
   },
   {
     "translation": {
-      "en": "Hold on.",
+      "en": "Hold on. [chuckling]",
       "ja": "待って"
     }
   },
   {
     "translation": {
-      "en": "- You should interview me. - For what?",
+      "en": "-You should interview me. -For what?",
       "ja": "取材して 何の？"
     }
   },
   {
     "translation": {
       "en": "For anything you want.",
-      "ja": "何でも聞いて あなたが適任だわ"
+      "ja": "何でも聞いてあなたが適任だわ"
     }
   },
   {
     "translation": {
       "en": "Anyone'll run an interview on me. You should do it. You know me.",
-      "ja": "何でも聞いて あなたが適任だわ ２人のことも人形も知ってる"
+      "ja": "何でも聞いてあなたが適任だわ ２人のことも人形も知ってる"
     }
   },
   {
@@ -5605,74 +5605,74 @@
   },
   {
     "translation": {
-      "en": "- That's your house. - Yeah.",
+      "en": "-[Brigida] That's your house. -[Finch] Yeah.",
       "ja": "あなたの家ね"
     }
   },
   {
     "translation": {
-      "en": "- Claire. - That's Claire.",
+      "en": "-Claire. -That's Claire.",
       "ja": "クレアだ"
     }
   },
   {
     "translation": {
       "en": "Eleanor, you put Ian's Marvel collection up for public auction.",
-      "ja": "奥さんも イアンの収集物を⸺ オークションに かけた結果は？"
+      "ja": "奥さんも イアンの収集物を⸺ オークションにかけた結果は？"
     }
   },
   {
     "translation": {
-      "en": "- What? - You must be thrilled by the results.",
-      "ja": "オークションに かけた結果は？"
+      "en": "-What? -You must be thrilled by the results.",
+      "ja": "オークションにかけた結果は？"
     }
   },
   {
     "translation": {
-      "en": "- I am over the moon. I am so blown away. - She sold my Marvel collectibles.",
+      "en": "-I am over the moon. I am so blown away. -She sold my Marvel collectibles.",
       "ja": "天にも昇る気分よ 僕のコレクションを"
     }
   },
   {
     "translation": {
-      "en": "- They're just models. - They're not models.",
-      "ja": "人形だろ 人形じゃない 精巧なフィギュアだ"
+      "en": "-They're just models. -They're not models.",
+      "ja": "人形だろ 人形じゃない精巧なフィギュアだ"
     }
   },
   {
     "translation": {
       "en": "They're perfect original figurines.",
-      "ja": "人形じゃない 精巧なフィギュアだ"
+      "ja": "人形じゃない精巧なフィギュアだ"
     }
   },
   {
     "translation": {
       "en": "And the sum will be added to the donations of the American people.",
-      "ja": "皆さんのご寄付にも 心から感謝してます"
+      "ja": "皆さんのご寄付にも心から感謝してます"
     }
   },
   {
     "translation": {
       "en": "I thank them from the bottom of my heart in the name of my husband, Ian Finch.",
-      "ja": "皆さんのご寄付にも 心から感謝してます イアンに代わって"
+      "ja": "皆さんのご寄付にも心から感謝してます イアンに代わって"
     }
   },
   {
     "translation": {
-      "en": "Why did you choose to sell this particular collection?",
+      "en": "[Claire] Why did you choose to sell this particular collection?",
       "ja": "なぜコレクションを？"
     }
   },
   {
     "translation": {
-      "en": "Well, first of all, all the characters are extremely popular",
-      "ja": "人気キャラクターで 希少価値が高いから⸺"
+      "en": "[Eleanor] Well, first of all, all the characters are extremely popular",
+      "ja": "人気キャラクターで希少価値が高いから⸺"
     }
   },
   {
     "translation": {
       "en": "and the most rare originals around, and I just thought they would",
-      "ja": "人気キャラクターで 希少価値が高いから⸺ 高値で売れるかと"
+      "ja": "人気キャラクターで希少価値が高いから⸺ 高値で売れるかと"
     }
   },
   {
@@ -5684,18 +5684,18 @@
   {
     "translation": {
       "en": "What good are plastic superheroes, when my husband, a real hero,",
-      "ja": "ヒーロー人形が何になるの？ 夫は本物の英雄よ"
+      "ja": "ヒーロー人形が何になるの？夫は本物の英雄よ"
     }
   },
   {
     "translation": {
       "en": "is off languishing in God knows where?",
-      "ja": "その英雄が どこかで苦しんでる"
+      "ja": "その英雄がどこかで苦しんでる"
     }
   },
   {
     "translation": {
-      "en": "- Ecuador. - Ecuador.",
+      "en": "-Ecuador. -Ecuador.",
       "ja": "エクアドルよ"
     }
   },
@@ -5708,25 +5708,25 @@
   {
     "translation": {
       "en": "She wants to be ready for when they make demands.",
-      "ja": "要求された時に備えて 現金を集めたのよ"
+      "ja": "要求された時に備えて現金を集めたのよ"
     }
   },
   {
     "translation": {
-      "en": "- She already has the cash. - Who's they?",
-      "ja": "要求された時に備えて 現金を集めたのよ 誰が要求を？"
+      "en": "-She already has the cash. -Who's \"they\"?",
+      "ja": "要求された時に備えて現金を集めたのよ 誰が要求を？"
     }
   },
   {
     "translation": {
-      "en": "- The kidnappers. - There are no-- We're the kidnappers.",
+      "en": "-The kidnappers. -There are no-- We're the kidnappers.",
       "ja": "誘拐犯 誘拐犯は僕たちだ"
     }
   },
   {
     "translation": {
       "en": "And I'm not about to ask my wife for so much money that she has to sell my prized possessions.",
-      "ja": "コレクションを売るほど 大金は要求しない"
+      "ja": "コレクションを売るほど大金は要求しない"
     }
   },
   {
@@ -5737,38 +5737,38 @@
   },
   {
     "translation": {
-      "en": "- So why she sell your dollies? - Oh, for...",
+      "en": "-So why she sell your dollies? -Oh, for...",
       "ja": "人形を売った"
     }
   },
   {
     "translation": {
       "en": "They're not dollies. Listen, please. Keep up. They're collectibles.",
-      "ja": "人形じゃない 話を聞いてるか？ コレクター商品だ"
+      "ja": "人形じゃない話を聞いてるか？ コレクター商品だ"
     }
   },
   {
     "translation": {
-      "en": "They look like dollies.",
+      "en": "[Brigida] They look like dollies.",
       "ja": "人形みたい"
     }
   },
   {
     "translation": {
-      "en": "Yeah, you know, I am anguished.",
+      "en": "Yeah, you know, I am anguished. [chuckles]",
       "ja": "もちろん不安になります"
     }
   },
   {
     "translation": {
       "en": "There's a lot of sorrow. There's, um, a lot of grief.",
-      "ja": "悲しいし後悔もある 夫に“愛してる”と伝える 機会がなかった"
+      "ja": "悲しいし後悔もある 夫に“愛してる”と伝える機会がなかった"
     }
   },
   {
     "translation": {
-      "en": "I never got a chance to say, I love you. I didn't get that chance.",
-      "ja": "夫に“愛してる”と伝える 機会がなかった"
+      "en": "I never got a chance to say, \"I love you.\" I didn't get that chance.",
+      "ja": "夫に“愛してる”と伝える機会がなかった"
     }
   },
   {
@@ -5779,32 +5779,32 @@
   },
   {
     "translation": {
-      "en": "- Right. Okay. - I mean, the fact that the song is",
+      "en": "-Right. Okay. -I mean, the fact that the song is",
       "ja": "私の曲が２週間連続で⸺"
     }
   },
   {
     "translation": {
       "en": "number one on iTunes for two weeks running, right?",
-      "ja": "配信ランキング１位に なったの"
+      "ja": "配信ランキング１位になったの"
     }
   },
   {
     "translation": {
-      "en": "- Two weeks. Right. - I mean, that's a dream come true.",
+      "en": "-Two weeks. Right. -I mean, that's a dream come true.",
       "ja": "２週間よ 夢がかなった"
     }
   },
   {
     "translation": {
       "en": "I know you do want to reach out to the kidnappers and let them know that you're willing to pay for their release.",
-      "ja": "身代金を支払う準備があると 誘拐犯に伝えたいそうね"
+      "ja": "身代金を支払う準備があると誘拐犯に伝えたいそうね"
     }
   },
   {
     "translation": {
       "en": "Of course. And I also wanna let my fans know that,",
-      "ja": "ええ　それから ファンにもお知らせが"
+      "ja": "ええ　それからファンにもお知らせが"
     }
   },
   {
@@ -5815,20 +5815,20 @@
   },
   {
     "translation": {
-      "en": "- On a bona fide album. - I've got a shitty wife.",
+      "en": "-On a bona fide album. -I've got a shitty wife.",
       "ja": "正真正銘のアルバムよ ひどい女房だ"
     }
   },
   {
     "translation": {
-      "en": "- What do you mean, exactly? - She doesn't care about us. About me.",
-      "ja": "どこが？ 僕のことなんか忘れて 自分を売り込んでる"
+      "en": "-What do you mean, exactly? -She doesn't care about us. About me.",
+      "ja": "どこが？ 僕のことなんか忘れて自分を売り込んでる"
     }
   },
   {
     "translation": {
       "en": "This is just promoting herself.",
-      "ja": "僕のことなんか忘れて 自分を売り込んでる"
+      "ja": "僕のことなんか忘れて自分を売り込んでる"
     }
   },
   {
@@ -5839,7 +5839,7 @@
   },
   {
     "translation": {
-      "en": "- Just a bit. Loving it. Although... - Yeah.",
+      "en": "-Just a bit. Loving it. Although... -[Frank] Yeah.",
       "ja": "ああ　大喜びだ だが…"
     }
   },
@@ -5869,38 +5869,38 @@
   },
   {
     "translation": {
-      "en": "- I can see her side a little bit, too. - What do you mean?",
+      "en": "-I can see her side a little bit, too. -What do you mean?",
       "ja": "彼女の気持ちも分かる どんな？"
     }
   },
   {
     "translation": {
       "en": "Well, she did leave her family and friends behind to follow you to New York.",
-      "ja": "家族や友達と別れて お前についてきた"
+      "ja": "家族や友達と別れてお前についてきた"
     }
   },
   {
     "translation": {
       "en": "Probably pictured both of you making it big",
-      "ja": "優雅な生活を夢見てたが 気づいたら⸺"
+      "ja": "優雅な生活を夢見てたが気づいたら⸺"
     }
   },
   {
     "translation": {
-      "en": "and suddenly she finds herself in a one- bedroom apartment",
-      "ja": "優雅な生活を夢見てたが 気づいたら⸺ １ＬＤＫのアパートに 漫画とゲーム好きの夫"
+      "en": "and suddenly she finds herself in a one-bedroom apartment",
+      "ja": "優雅な生活を夢見てたが気づいたら⸺ １ＬＤＫのアパートに漫画とゲーム好きの夫"
     }
   },
   {
     "translation": {
       "en": "with a guy who likes to spend his spare time with comic books",
-      "ja": "１ＬＤＫのアパートに 漫画とゲーム好きの夫"
+      "ja": "１ＬＤＫのアパートに漫画とゲーム好きの夫"
     }
   },
   {
     "translation": {
-      "en": "- and playing video games. - I thought she was happy. Sorry.",
-      "ja": "１ＬＤＫのアパートに 漫画とゲーム好きの夫 満足してるかと"
+      "en": "-and playing video games. -I thought she was happy. Sorry.",
+      "ja": "１ＬＤＫのアパートに漫画とゲーム好きの夫 満足してるかと"
     }
   },
   {
@@ -5917,55 +5917,55 @@
   },
   {
     "translation": {
-      "en": "How do you know I live in a one- bedroom apartment?",
+      "en": "How do you know I live in a one-bedroom apartment?",
       "ja": "なぜ１ＬＤＫだと？"
     }
   },
   {
     "translation": {
-      "en": "She finds herself in a one- bedroom apartment.",
+      "en": "\"She finds herself in a one-bedroom apartment.\"",
       "ja": "さっき言っただろ"
     }
   },
   {
     "translation": {
-      "en": "I don't know that it's a one- bedroom apartment. It's a figure of speech.",
-      "ja": "現実は知らんが 比喩的な表現だ"
+      "en": "I don't know that it's a one-bedroom apartment. It's a figure of speech.",
+      "ja": "現実は知らんが比喩的な表現だ"
     }
   },
   {
     "translation": {
-      "en": "One- bedroom apartment is a figure of speech?",
+      "en": "\"One-bedroom apartment\" is a figure of speech?",
       "ja": "１ＬＤＫが？"
     }
   },
   {
     "translation": {
-      "en": "It's like, Oh, I don't live in the mansion I thought I was gonna live in. I don't literally mean a one- bedroom apartment.",
-      "ja": "豪邸じゃないって意味だ 正確な間取りは関係ない"
+      "en": "It's like, \"Oh, I don't live in the mansion I thought I was gonna live in.\" I don't literally mean a one-bedroom apartment.",
+      "ja": "豪邸じゃないって意味だ正確な間取りは関係ない"
     }
   },
   {
     "translation": {
-      "en": "I literally live in a one- bedroom apartment.",
-      "ja": "１ＬＤＫに住んでると みじめだってことか"
+      "en": "I literally live in a one-bedroom apartment.",
+      "ja": "１ＬＤＫに住んでるとみじめだってことか"
     }
   },
   {
     "translation": {
-      "en": "- So, it sounds like a diss. - Oh, no, no. I didn't mean it like that.",
-      "ja": "１ＬＤＫに住んでると みじめだってことか 俺も１ＬＤＫに住んでる 悪いことじゃない"
+      "en": "-So, it sounds like a diss. -Oh, no, no. I didn't mean it like that.",
+      "ja": "１ＬＤＫに住んでるとみじめだってことか 俺も１ＬＤＫに住んでる悪いことじゃない"
     }
   },
   {
     "translation": {
-      "en": "I live in a one- bedroom apartment. So, it's not a bad thing.",
-      "ja": "俺も１ＬＤＫに住んでる 悪いことじゃない"
+      "en": "I live in a one-bedroom apartment. So, it's not a bad thing.",
+      "ja": "俺も１ＬＤＫに住んでる悪いことじゃない"
     }
   },
   {
     "translation": {
-      "en": "- You made it sound bad. - No.",
+      "en": "-You made it sound bad. -No.",
       "ja": "そう聞こえた"
     }
   },
@@ -5977,37 +5977,37 @@
   },
   {
     "translation": {
-      "en": "- It's not what every woman likes in a man. - Good. Because I don't want--",
-      "ja": "女に好かれる趣味じゃない よかった あいつに好かれたくない"
+      "en": "-It's not what every woman likes in a man. -Good. Because I don't want--",
+      "ja": "女に好かれる趣味じゃない よかったあいつに好かれたくない"
     }
   },
   {
     "translation": {
       "en": "I don't like her to want me anymore. Because I don't want her anymore.",
-      "ja": "よかった あいつに好かれたくない 嫌いだ"
+      "ja": "よかったあいつに好かれたくない 嫌いだ"
     }
   },
   {
     "translation": {
-      "en": "As the world waits and worries about our two journalists in Ecuador,",
-      "ja": "２人の無事を 世界中が祈る中⸺"
+      "en": "[Claire] As the world waits and worries about our two journalists in Ecuador,",
+      "ja": "２人の無事を世界中が祈る中⸺"
     }
   },
   {
     "translation": {
       "en": "the whole station joins me in thinking of Ian Finch,",
-      "ja": "イアンの誕生日を 同僚と祝いました"
+      "ja": "イアンの誕生日を同僚と祝いました"
     }
   },
   {
     "translation": {
-      "en": "- whose birthday it is today. - Happy birthday.",
-      "ja": "イアンの誕生日を 同僚と祝いました おめでとう"
+      "en": "-whose birthday it is today. -[Frank] Happy birthday.",
+      "ja": "イアンの誕生日を同僚と祝いました おめでとう"
     }
   },
   {
     "translation": {
-      "en": "- This is Claire Maddox... - I'd forgotten.",
+      "en": "-This is Claire Maddox... -I'd forgotten.",
       "ja": "忘れてた"
     }
   },
@@ -6032,25 +6032,25 @@
   {
     "translation": {
       "en": "I can't do this anymore. I'm sorry. I'm calling it a day.",
-      "ja": "これ以上 続けられない 僕は降りる"
+      "ja": "これ以上 続けられない僕は降りる"
     }
   },
   {
     "translation": {
-      "en": "- Calling it a day? Really? - Yeah.",
+      "en": "-[chuckles] Calling it a day? Really? -Yeah.",
       "ja": "降りる？ 本気か？"
     }
   },
   {
     "translation": {
-      "en": "- What are you gonna do? - I don't know. I can't do this anymore.",
+      "en": "-What are you gonna do? -I don't know. I can't do this anymore.",
       "ja": "どうする とにかく やめる"
     }
   },
   {
     "translation": {
-      "en": "We can't just walk across the street and say, Hi, we're home. - No, I know. No. - Can we?",
-      "ja": "局に行って “ただいま”って言えるか？"
+      "en": "We can't just walk across the street and say, \"Hi, we're home.\" -No, I know. No. -Can we?",
+      "ja": "局に行って“ただいま”って言えるか？"
     }
   },
   {
@@ -6067,7 +6067,7 @@
   },
   {
     "translation": {
-      "en": "- Why do we have to go to Ecuador? - It's that or we go to jail.",
+      "en": "-Why do we have to go to Ecuador? -It's that or we go to jail.",
       "ja": "なんで今さら？ 服役するか？"
     }
   },
@@ -6092,7 +6092,7 @@
   {
     "translation": {
       "en": "We gotta get across the country. I guess we drive. We get to the West Coast. From there, we get on a boat and we go down to Quito.",
-      "ja": "車で西海岸まで行って そこから船でキトを目指す"
+      "ja": "車で西海岸まで行ってそこから船でキトを目指す"
     }
   },
   {
@@ -6109,19 +6109,19 @@
   },
   {
     "translation": {
-      "en": "Oh, sorry. Happy birthday. You've gotta go to Quito after all.",
+      "en": "\"Oh, sorry. Happy birthday. You've gotta go to Quito after all.\"",
       "ja": "“おめでとう　キトへ行く”"
     }
   },
   {
     "translation": {
-      "en": "- Thanks for everything. - Anytime.",
+      "en": "-[Finch] Thanks for everything. -[Domingo] Anytime.",
       "ja": "世話になった いいんだ"
     }
   },
   {
     "translation": {
-      "en": "- If you hadn't been there... - I was there.",
+      "en": "-If you hadn't been there... -I was there.",
       "ja": "君がいなけりゃ… いたよ"
     }
   },
@@ -6151,61 +6151,61 @@
   },
   {
     "translation": {
-      "en": "- We gotta go. - Okay.",
+      "en": "-We gotta go. -Okay.",
       "ja": "行くぞ ああ"
     }
   },
   {
     "translation": {
-      "en": "- You need money? - We're on our way to get money.",
+      "en": "-You need money? -[Finch] We're on our way to get money.",
       "ja": "お金はある？ これから取りに行く"
     }
   },
   {
     "translation": {
-      "en": "- I know where there's lots of money. - Where?",
+      "en": "-I know where there's lots of money. -[Brigida] Where?",
       "ja": "心当たりはある どこ？"
     }
   },
   {
     "translation": {
-      "en": "- She's in bed. - I'll wait here.",
+      "en": "-[Finch] She's in bed. -[Frank] I'll wait here.",
       "ja": "寝てる ここで待つ　５分だぞ"
     }
   },
   {
     "translation": {
-      "en": "- It'll be all over in five minutes. - Well, come in with me.",
+      "en": "-It'll be all over in five minutes. -Well, come in with me.",
       "ja": "ここで待つ　５分だぞ 来いよ"
     }
   },
   {
     "translation": {
-      "en": "- No, we agreed I wouldn't have to. - Why?",
+      "en": "-No, we agreed I wouldn't have to. -Why?",
       "ja": "俺は入らない なんで？"
     }
   },
   {
     "translation": {
-      "en": "- We just did. - But why did we?",
+      "en": "-We just did. -But why did we?",
       "ja": "決めたろ？ なんで？"
     }
   },
   {
     "translation": {
-      "en": "- No reason. - Well, come in with me, then.",
+      "en": "-No reason. -Well, come in with me, then.",
       "ja": "別に 入れよ"
     }
   },
   {
     "translation": {
-      "en": "- Okay, but don't wake her up. - Shh.",
+      "en": "-Okay, but don't wake her up. -Shh.",
       "ja": "入るから黙れ"
     }
   },
   {
     "translation": {
-      "en": "- Why do you even have a safe? - In case I get burgled.",
+      "en": "-Why do you even have a safe? -In case I get burgled.",
       "ja": "なぜ金庫を？ 高価な漫画を入れる"
     }
   },
@@ -6223,25 +6223,25 @@
   },
   {
     "translation": {
-      "en": "- How much shall I take? - A few more, just in case.",
+      "en": "-[Finch] How much shall I take? -[Frank] A few more, just in case.",
       "ja": "いくら必要だ？ もう少し"
     }
   },
   {
     "translation": {
       "en": "Hiya. Uh, surprise.",
-      "ja": "驚いたかな？ こちらはフランクだ"
+      "ja": "驚いたかな？こちらはフランクだ"
     }
   },
   {
     "translation": {
       "en": "Um, Frank Bonneville, this is my wife, Eleanor.",
-      "ja": "驚いたかな？ こちらはフランクだ 妻のエレノア"
+      "ja": "驚いたかな？こちらはフランクだ 妻のエレノア"
     }
   },
   {
     "translation": {
-      "en": "- Hi. - What are you doing here?",
+      "en": "-Hi. -What are you doing here?",
       "ja": "なぜ ここに？"
     }
   },
@@ -6259,74 +6259,74 @@
   },
   {
     "translation": {
-      "en": "- Definitely not. - No.",
+      "en": "-Definitely not. -No.",
       "ja": "まさか あり得ない"
     }
   },
   {
     "translation": {
       "en": "Before you explain why you're not being held hostage in Ecuador, tell me,",
-      "ja": "人質のはずでしょ なぜ私のお金を盗むの？"
+      "ja": "人質のはずでしょなぜ私のお金を盗むの？"
     }
   },
   {
     "translation": {
-      "en": "- why are you stealing my money? - We need it, to, um,",
-      "ja": "人質のはずでしょ なぜ私のお金を盗むの？ エクアドル入国のために 賄賂(わいろ)が必要なんだ"
+      "en": "-why are you stealing my money? -We need it, to, um,",
+      "ja": "人質のはずでしょなぜ私のお金を盗むの？ エクアドル入国のために賄賂(わいろ)が必要なんだ"
     }
   },
   {
     "translation": {
-      "en": "bribe our way into Ecuador. To...",
-      "ja": "エクアドル入国のために 賄賂(わいろ)が必要なんだ"
+      "en": "bribe our way into Ecuador. To... [clears throat]",
+      "ja": "エクアドル入国のために賄賂(わいろ)が必要なんだ"
     }
   },
   {
     "translation": {
       "en": "Because I threw away the tickets and passports at the airport.",
-      "ja": "航空券とパスポートを 捨てたもんだから"
+      "ja": "航空券とパスポートを捨てたもんだから"
     }
   },
   {
     "translation": {
-      "en": "- What do you mean? - I didn't mean to.",
+      "en": "-What do you mean? -I didn't mean to.",
       "ja": "捨てた？"
     }
   },
   {
     "translation": {
       "en": "I thought I was throwing away the letter that I wrote you. That, um...",
-      "ja": "間違えたんだよ 君に渡す手紙と"
+      "ja": "間違えたんだよ君に渡す手紙と"
     }
   },
   {
     "translation": {
-      "en": "- What are you talking about? - It's a long story.",
+      "en": "-What are you talking about? -It's a long story.",
       "ja": "何の話？ 長い話だ"
     }
   },
   {
     "translation": {
-      "en": "- It's not your money. - Excuse me?",
+      "en": "-It's not your money. -Excuse me?",
       "ja": "あんたの金だと？ 何が言いたいの？"
     }
   },
   {
     "translation": {
       "en": "It's not your money. People gave that money so we wouldn't be in danger,",
-      "ja": "違うだろ 必要はないが 俺たちを救うための寄付金だ"
+      "ja": "違うだろ 必要はないが俺たちを救うための寄付金だ"
     }
   },
   {
     "translation": {
       "en": "but we're not in danger, so it's their money,",
-      "ja": "必要はないが 俺たちを救うための寄付金だ"
+      "ja": "必要はないが俺たちを救うための寄付金だ"
     }
   },
   {
     "translation": {
       "en": "but they don't need to know that. So, it's definitely not yours.",
-      "ja": "必要はないが 俺たちを救うための寄付金だ あんたの金じゃない"
+      "ja": "必要はないが俺たちを救うための寄付金だ あんたの金じゃない"
     }
   },
   {
@@ -6344,19 +6344,19 @@
   {
     "translation": {
       "en": "Of course. But, like, you clearly don't need it now.",
-      "ja": "そうだけど 必要ないんでしょ"
+      "ja": "そうだけど必要ないんでしょ"
     }
   },
   {
     "translation": {
       "en": "You don't care if we live or die. You're in your element. All the fame, all the attention.",
-      "ja": "俺たちの命より 自分の名声が大事なんだな"
+      "ja": "俺たちの命より自分の名声が大事なんだな"
     }
   },
   {
     "translation": {
       "en": "So long as you're still in the picture, but you can feel it all slipping away. That's why you wanna hold on to all the cash.",
-      "ja": "だが名声は はかない 頼れるのは現金だけだ"
+      "ja": "だが名声は はかない頼れるのは現金だけだ"
     }
   },
   {
@@ -6379,31 +6379,31 @@
   },
   {
     "translation": {
-      "en": "- I don't care. - I think you would.",
+      "en": "-I don't care. -I think you would.",
       "ja": "別にいい よくないだろ"
     }
   },
   {
     "translation": {
-      "en": "Look, how about this? Let's go 50- 50.",
+      "en": "Look, how about this? Let's go 50-50.",
       "ja": "なあ　こうしよう 山分けだ"
     }
   },
   {
     "translation": {
       "en": "We take our share, get into Ecuador, turn up at the American embassy,",
-      "ja": "僕たちは その金で キトのアメリカ大使館へ"
+      "ja": "僕たちは その金でキトのアメリカ大使館へ"
     }
   },
   {
     "translation": {
       "en": "say we've been released, you say you paid the ransom,",
-      "ja": "僕たちは その金で キトのアメリカ大使館へ “身代金を払った”と"
+      "ja": "僕たちは その金でキトのアメリカ大使館へ “身代金を払った”と"
     }
   },
   {
     "translation": {
-      "en": "- keep the cash. - We'll need evidence I paid the ransom.",
+      "en": "-keep the cash. -We'll need evidence I paid the ransom.",
       "ja": "証拠がいる"
     }
   },
@@ -6421,7 +6421,7 @@
   },
   {
     "translation": {
-      "en": "- Who did I give the money to? - You didn't.",
+      "en": "-Who did I give the money to? -[Finch] You didn't.",
       "ja": "受け渡しは？ 橋の下に置いたと言えばいい"
     }
   },
@@ -6434,18 +6434,18 @@
   {
     "translation": {
       "en": "didn't wanna involve the police, because they told you they'd kill us.",
-      "ja": "人質を殺すと脅され 命令どおり橋の下に置いた"
+      "ja": "人質を殺すと脅され命令どおり橋の下に置いた"
     }
   },
   {
     "translation": {
       "en": "So, you just left the money for collection under a bridge.",
-      "ja": "人質を殺すと脅され 命令どおり橋の下に置いた どこの？"
+      "ja": "人質を殺すと脅され命令どおり橋の下に置いた どこの？"
     }
   },
   {
     "translation": {
-      "en": "- What bridge? - What bridge? Any bridge.",
+      "en": "-What bridge? -\"What bridge\"? Any bridge.",
       "ja": "どこの橋でもいい"
     }
   },
@@ -6458,13 +6458,13 @@
   {
     "translation": {
       "en": "They'll find no money there because the bad men came and took the money",
-      "ja": "調べても見つからない 回収された後だ"
+      "ja": "調べても見つからない回収された後だ"
     }
   },
   {
     "translation": {
       "en": "and gave it to the bad men that were kidnapping us. It works.",
-      "ja": "調べても見つからない 回収された後だ うまくいく"
+      "ja": "調べても見つからない回収された後だ うまくいく"
     }
   },
   {
@@ -6475,7 +6475,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Get out.",
+      "en": "-[Finch] Yeah. -Get out.",
       "ja": "出てって"
     }
   },
@@ -6493,7 +6493,7 @@
   },
   {
     "translation": {
-      "en": "- Truck. - There's a truck.",
+      "en": "-Truck. -There's a truck.",
       "ja": "トラックだ"
     }
   },
@@ -6523,19 +6523,19 @@
   },
   {
     "translation": {
-      "en": "- Where you go? - Quito.",
+      "en": "-Where you go? -Quito.",
       "ja": "どこへ？"
     }
   },
   {
     "translation": {
-      "en": "- We need to get to the embassy. - We can pay you and everything.",
+      "en": "-We need to get to the embassy. -We can pay you and everything.",
       "ja": "キトの大使館だ 金ならある"
     }
   },
   {
     "translation": {
-      "en": "- Ah, Americanos. - English.",
+      "en": "-Ah, Americanos. -English.",
       "ja": "アメリカ人か 英国出身だが仕事で…"
     }
   },
@@ -6547,7 +6547,7 @@
   },
   {
     "translation": {
-      "en": "- Doesn't need your life history. - Want to eat?",
+      "en": "-Doesn't need your life history. -Want to eat?",
       "ja": "身の上話か？ 食事は？"
     }
   },
@@ -6565,13 +6565,13 @@
   },
   {
     "translation": {
-      "en": "- I know a good place. - I'm quite hungry.",
+      "en": "-I know a good place. -I'm quite hungry.",
       "ja": "いい店がある 僕も運転手も空腹だ"
     }
   },
   {
     "translation": {
-      "en": "- This guy needs to eat, so... - Of course. Yeah.",
+      "en": "-This guy needs to eat, so... -Of course. Yeah.",
       "ja": "僕も運転手も空腹だ いいだろう"
     }
   },
@@ -6589,7 +6589,7 @@
   },
   {
     "translation": {
-      "en": "- It's good. - Sure.",
+      "en": "-It's good. -Sure.",
       "ja": "いい店だ だろうね"
     }
   },
@@ -6625,7 +6625,7 @@
   },
   {
     "translation": {
-      "en": "No air- conditioning, though.",
+      "en": "[sighs] No air-conditioning, though.",
       "ja": "空調なしか"
     }
   },
@@ -6637,7 +6637,7 @@
   },
   {
     "translation": {
-      "en": "- He looks like he's had enough. - We're gonna eat and then leave.",
+      "en": "-He looks like he's had enough. -We're gonna eat and then leave.",
       "ja": "飲みすぎだ 食べたら出る"
     }
   },
@@ -6649,20 +6649,20 @@
   },
   {
     "translation": {
-      "en": "- Hey. - Hi.",
+      "en": "-Hey. -Hi.",
       "ja": "どうも"
     }
   },
   {
     "translation": {
-      "en": "- Americano? - Uh, well, English.",
-      "ja": "アメリカ人？ 英国出身だが… まあ そうだ"
+      "en": "-Americano? -Uh, well, English.",
+      "ja": "アメリカ人？ 英国出身だが…まあ そうだ"
     }
   },
   {
     "translation": {
       "en": "But I, um... Yeah.",
-      "ja": "英国出身だが… まあ そうだ"
+      "ja": "英国出身だが…まあ そうだ"
     }
   },
   {
@@ -6673,7 +6673,7 @@
   },
   {
     "translation": {
-      "en": "- I do okay, babe. - Let's go.",
+      "en": "-I do okay, babe. -Let's go.",
       "ja": "そこそこだ 出よう"
     }
   },
@@ -6685,7 +6685,7 @@
   },
   {
     "translation": {
-      "en": "- But, you know, you look tired. - I am tired.",
+      "en": "-But, you know, you look tired. -I am tired.",
       "ja": "疲れてるみたいね 疲れてる"
     }
   },
@@ -6697,7 +6697,7 @@
   },
   {
     "translation": {
-      "en": "- Sure. - Okay.",
+      "en": "-Sure. -Okay.",
       "ja": "ああ"
     }
   },
@@ -6709,19 +6709,19 @@
   },
   {
     "translation": {
-      "en": "- What the fuck are you doing? - You want some?",
+      "en": "-What the fuck are you doing? -You want some?",
       "ja": "何のマネだ 欲しい？"
     }
   },
   {
     "translation": {
-      "en": "- No, we're going. - We're not going.",
+      "en": "-No, we're going. -We're not going.",
       "ja": "行くぞ どこにも行かない"
     }
   },
   {
     "translation": {
-      "en": "- We're going! - We're not going.",
+      "en": "-We're going! -We're not going.",
       "ja": "どこにも行かない いいか　僕は妻に捨てられた"
     }
   },
@@ -6739,7 +6739,7 @@
   },
   {
     "translation": {
-      "en": "Just having a bit of fun, to remind me that life's worth living.",
+      "en": "Just having a bit of fun, to remind me that life's worth living. [sniffs]",
       "ja": "人生を楽しんで何が悪い"
     }
   },
@@ -6763,25 +6763,25 @@
   },
   {
     "translation": {
-      "en": "- Hello. - Gentlemen.",
+      "en": "-Hello. -Gentlemen.",
       "ja": "どうも 諸君"
     }
   },
   {
     "translation": {
-      "en": "- So, you like the sample, eh? - Thank you.",
+      "en": "-So, you like the sample, eh? -Thank you.",
       "ja": "気に入った？"
     }
   },
   {
     "translation": {
-      "en": "- And now, you gotta buy. - I knew it.",
+      "en": "-And now, you gotta buy. -[Frank groans] I knew it.",
       "ja": "買ってくれ やっぱりな"
     }
   },
   {
     "translation": {
-      "en": "That's fair enough.",
+      "en": "[Finch] That's fair enough.",
       "ja": "いいさ　商売だろ"
     }
   },
@@ -6805,14 +6805,14 @@
   },
   {
     "translation": {
-      "en": "- I won't do it now.  -",
+      "en": "-I won't do it now. [chuckles] -[man laughs]",
       "ja": "今は やらない"
     }
   },
   {
     "translation": {
       "en": "In fact, I think I'd better hide it. I don't want them finding this at the embassy.",
-      "ja": "大使館で見つからないよう 隠しておこう"
+      "ja": "大使館で見つからないよう隠しておこう"
     }
   },
   {
@@ -6823,7 +6823,7 @@
   },
   {
     "translation": {
-      "en": "- Shit. - Come on, let's go, papi.",
+      "en": "-[Frank] Shit. -Come on, let's go, papi.",
       "ja": "行くぞ"
     }
   },
@@ -6835,25 +6835,25 @@
   },
   {
     "translation": {
-      "en": "- Move. - Okay.",
+      "en": "-Move. -Okay.",
       "ja": "急げ"
     }
   },
   {
     "translation": {
-      "en": "- Come on, move! - Okay.",
+      "en": "-Come on, move! -Okay.",
       "ja": "乗るんだ"
     }
   },
   {
     "translation": {
-      "en": "Move.",
+      "en": "[bandit 1] Move.",
       "ja": "乗れ"
     }
   },
   {
     "translation": {
-      "en": "- Let's go. - Move.",
+      "en": "-[bandit 2] Let's go. -[bandit 1] Move.",
       "ja": "モタモタするな"
     }
   },
@@ -6865,19 +6865,19 @@
   },
   {
     "translation": {
-      "en": "Get out. Let's go. Let's go, get out. Move.",
+      "en": "[bandit] Get out. Let's go. Let's go, get out. Move.",
       "ja": "降りろ さっさと降りろ　急げ"
     }
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Finch] Okay.",
       "ja": "分かったよ"
     }
   },
   {
     "translation": {
-      "en": "Move. Hey!",
+      "en": "[bandit] Move. Hey!",
       "ja": "行け"
     }
   },
@@ -6889,7 +6889,7 @@
   },
   {
     "translation": {
-      "en": "- Look at this. - Enjoy the view.",
+      "en": "-Look at this. -[bandit] Enjoy the view.",
       "ja": "ごゆっくり"
     }
   },
@@ -6901,7 +6901,7 @@
   },
   {
     "translation": {
-      "en": "- Very nice. - Excuse me.",
+      "en": "-Very nice. -Excuse me.",
       "ja": "本当にな 失礼だがトイレがない"
     }
   },
@@ -6913,13 +6913,13 @@
   },
   {
     "translation": {
-      "en": "- Sorry about this. - Don't worry about it.",
+      "en": "-Sorry about this. -Don't worry about it.",
       "ja": "すまない 謝るな"
     }
   },
   {
     "translation": {
-      "en": "What do you mean, don't worry about it?",
+      "en": "What do you mean, \"don't worry about it\"?",
       "ja": "なんで？"
     }
   },
@@ -6937,7 +6937,7 @@
   },
   {
     "translation": {
-      "en": "- with this on my conscience, so... - What now?",
+      "en": "-with this on my conscience, so... -What now?",
       "ja": "秘密を抱えて死ぬのはイヤだ 何だよ"
     }
   },
@@ -6955,13 +6955,13 @@
   },
   {
     "translation": {
-      "en": "- The night of the party. - No, you didn't. What do you mean?",
+      "en": "-The night of the party. -No, you didn't. What do you mean?",
       "ja": "パーティーの夜だ 何を言ってる"
     }
   },
   {
     "translation": {
-      "en": "- I didn't know who she was. - You're serious?",
+      "en": "-I didn't know who she was. -You're serious?",
       "ja": "知らなかった マジか？"
     }
   },
@@ -6974,13 +6974,13 @@
   {
     "translation": {
       "en": "How do you think that makes me feel? That my wife just...",
-      "ja": "僕の妻は誰とでも 寝る女ってことか？"
+      "ja": "僕の妻は誰とでも寝る女ってことか？"
     }
   },
   {
     "translation": {
-      "en": "- has it off with anyone? - Hardly.",
-      "ja": "僕の妻は誰とでも 寝る女ってことか？ 俺とだ"
+      "en": "-has it off with anyone? -Hardly.",
+      "ja": "僕の妻は誰とでも寝る女ってことか？ 俺とだ"
     }
   },
   {
@@ -6992,7 +6992,7 @@
   {
     "translation": {
       "en": "Just a big phony and a liar and a cheat. Oh, I feel sick.",
-      "ja": "ウソつきのインチキ野郎と 寝るなんて"
+      "ja": "ウソつきのインチキ野郎と寝るなんて"
     }
   },
   {
@@ -7009,20 +7009,20 @@
   },
   {
     "translation": {
-      "en": "- You got a funny way of showing it. - I did not know she was your wife.",
+      "en": "-You got a funny way of showing it. -I did not know she was your wife.",
       "ja": "だから妻と？ 知らなかったんだ"
     }
   },
   {
     "translation": {
-      "en": "- So you keep saying. - She's the one to blame.",
-      "ja": "本当か？ 彼女は結婚してるのに 言わなかった"
+      "en": "-So you keep saying. -She's the one to blame.",
+      "ja": "本当か？ 彼女は結婚してるのに言わなかった"
     }
   },
   {
     "translation": {
       "en": "She knew she was married to you. She chose not to share that with me.",
-      "ja": "彼女は結婚してるのに 言わなかった"
+      "ja": "彼女は結婚してるのに言わなかった"
     }
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "translation": {
       "en": "Maybe she'll really try and get us out now. She'll be killing two birds with one stone, won't she?",
-      "ja": "これなら本気で僕たちを 救出するかもな"
+      "ja": "これなら本気で僕たちを救出するかもな"
     }
   },
   {
@@ -7058,13 +7058,13 @@
   {
     "translation": {
       "en": "Hey, man, I'm sorry. I wouldn't have said anything. I thought you were over her.",
-      "ja": "すまなかった 吹っ切れたと思ってた"
+      "ja": "すまなかった吹っ切れたと思ってた"
     }
   },
   {
     "translation": {
       "en": "I am over her, so, don't say anything. Let's just get through this.",
-      "ja": "吹っ切れたから 妻の話は するな"
+      "ja": "吹っ切れたから妻の話は するな"
     }
   },
   {
@@ -7081,31 +7081,31 @@
   },
   {
     "translation": {
-      "en": "- Thank you. - Mm- hm.",
+      "en": "-Thank you. -Mm-hm.",
       "ja": "ありがとう"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. - Thank you.",
+      "en": "-[Finch] Thank you. -[Frank] Thank you.",
       "ja": "すまないね"
     }
   },
   {
     "translation": {
-      "en": "- Have you got any bread? - It's not room service.",
+      "en": "-Have you got any bread? -It's not room service.",
       "ja": "パンはない？ ホテルか？ 違うな"
     }
   },
   {
     "translation": {
-      "en": "- Are you a prisoner, too? - Of course he's a prisoner.",
+      "en": "-Are you a prisoner, too? -Of course he's a prisoner.",
       "ja": "さらわれた？ 見りゃ分かる"
     }
   },
   {
     "translation": {
-      "en": "- Maybe he can help. - He can't help, look at him.",
+      "en": "-Maybe he can help. -He can't help, look at him.",
       "ja": "助けてもらおう 無理だ"
     }
   },
@@ -7117,7 +7117,7 @@
   },
   {
     "translation": {
-      "en": "- Let him go. He's terrified. - Okay. Thank you.",
+      "en": "-Let him go. He's terrified. -Okay. Thank you.",
       "ja": "帰せ　怖がってる ありがとう"
     }
   },
@@ -7129,7 +7129,7 @@
   },
   {
     "translation": {
-      "en": "Oh. It's really hot as well.  Mm.",
+      "en": "Oh. It's really hot as well. [breathing heavily] Mm.",
       "ja": "しかも激辛だ"
     }
   },
@@ -7141,13 +7141,13 @@
   },
   {
     "translation": {
-      "en": "- Really? -",
+      "en": "-Really? -[gagging]",
       "ja": "マジか？"
     }
   },
   {
     "translation": {
-      "en": "- Who do you think these people are? - They're bandits.",
+      "en": "-Who do you think these people are? -They're bandits.",
       "ja": "何者かな？ 盗賊だ　身代金を要求する"
     }
   },
@@ -7159,67 +7159,67 @@
   },
   {
     "translation": {
-      "en": "- Who's gonna pay that? - I don't know. Government?",
+      "en": "-Who's gonna pay that? -I don't know. Government?",
       "ja": "誰に？ さあな　政府か"
     }
   },
   {
     "translation": {
-      "en": "- Not the U.S. government. - What do you mean?",
+      "en": "-Not the U.S. government. -What do you mean?",
       "ja": "ダメだ なんで？"
     }
   },
   {
     "translation": {
-      "en": "- They don't negotiate with terrorists. - Why?",
+      "en": "-They don't negotiate with terrorists. -Why?",
       "ja": "交渉しない なぜ？"
     }
   },
   {
     "translation": {
-      "en": "- Journalist, okay? - Yeah.",
+      "en": "-Journalist, okay? -[Frank] Yeah.",
       "ja": "ジャーナリストだな"
     }
   },
   {
     "translation": {
-      "en": "- And you? - No. Uh, I'm a technician.",
+      "en": "-And you? -No. Uh, I'm a technician.",
       "ja": "お前は？ 違う 技師だ"
     }
   },
   {
     "translation": {
-      "en": "- Is your boss rich? - No, not at all.",
+      "en": "-Is your boss rich? -No, not at all.",
       "ja": "ボスは金持ち？ いや　全然"
     }
   },
   {
     "translation": {
-      "en": "- Is your family rich? - No.",
+      "en": "-Is your family rich? -[Finch] No.",
       "ja": "家族は金持ちか？ いや"
     }
   },
   {
     "translation": {
       "en": "My wife has got cash, at the moment.",
-      "ja": "今なら妻が 現金を持ってるけど"
+      "ja": "今なら妻が現金を持ってるけど"
     }
   },
   {
     "translation": {
-      "en": "- She has, she's got loads. - Your wife?",
+      "en": "-She has, she's got loads. -Your wife?",
       "ja": "大金を 妻が？"
     }
   },
   {
     "translation": {
       "en": "Mm. She'll pay, then you'll release us, yeah? Unharmed.",
-      "ja": "金を払ったら 解放してくれる？"
+      "ja": "金を払ったら解放してくれる？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah, of course. - Don't-- Yeah. Okay.",
+      "en": "-Yeah, of course. -[Finch] Don't-- Yeah. Okay.",
       "ja": "もちろんだ"
     }
   },
@@ -7231,80 +7231,80 @@
   },
   {
     "translation": {
-      "en": "- Okay. - Call her.",
+      "en": "-Okay. -Call her.",
       "ja": "分かった かけろ"
     }
   },
   {
     "translation": {
-      "en": "- She's never gonna believe him. - Shh. Let's keep it positive.",
+      "en": "-She's never gonna believe him. -Shh. Let's keep it positive.",
       "ja": "彼女は信じない 前向きに考えろ"
     }
   },
   {
     "translation": {
-      "en": "- What do you say to him? - Call your wife.",
+      "en": "-What do you say to him? -Call your wife.",
       "ja": "何て言う？ 女房にかけろ"
     }
   },
   {
     "translation": {
-      "en": "- Good. Good. - I am.",
+      "en": "-Good. Good. -I am.",
       "ja": "そうする"
     }
   },
   {
     "translation": {
-      "en": "- How much money do you want? - 100,000 for each of you.",
+      "en": "-How much money do you want? -[man] 100,000 for each of you.",
       "ja": "いくら欲しい？ １人10万ドル"
     }
   },
   {
     "translation": {
-      "en": "- That's a lot. - Shh.",
+      "en": "-That's a lot. -[man] Shh.",
       "ja": "大金だ"
     }
   },
   {
     "translation": {
       "en": "Well, it is. I'm saying. I'm not gonna promise anything, but we're gonna get you what...",
-      "ja": "約束はできないが 頼んでみる"
+      "ja": "約束はできないが頼んでみる"
     }
   },
   {
     "translation": {
-      "en": "- Hello? - Eleanor.",
+      "en": "-Hello? -[Finch] Eleanor.",
       "ja": "もしもし エレノア"
     }
   },
   {
     "translation": {
-      "en": "- What do you want? - Right, we're in Ecuador,",
-      "ja": "何の用？ エクアドルにいる 盗賊に誘拐された"
+      "en": "-What do you want? -Right, we're in Ecuador,",
+      "ja": "何の用？ エクアドルにいる盗賊に誘拐された"
     }
   },
   {
     "translation": {
       "en": "and we've been captured by bandits and they want $200,000",
-      "ja": "エクアドルにいる 盗賊に誘拐された 20万ドル払わないと 僕たちは殺される"
+      "ja": "エクアドルにいる盗賊に誘拐された 20万ドル払わないと僕たちは殺される"
     }
   },
   {
     "translation": {
-      "en": "- or they're gonna kill me and Frank. - Stop it. Where are you calling me from?",
-      "ja": "20万ドル払わないと 僕たちは殺される やめてよ　今どこ？"
+      "en": "-or they're gonna kill me and Frank. -Stop it. Where are you calling me from?",
+      "ja": "20万ドル払わないと僕たちは殺される やめてよ　今どこ？"
     }
   },
   {
     "translation": {
-      "en": "- Where are we exactly? She wants to know. - $300,000.",
+      "en": "-Where are we exactly? She wants to know. -$300,000.",
       "ja": "ここは どこかと 30万ドルだ"
     }
   },
   {
     "translation": {
       "en": "Hear that? He put it up. That's what we're dealing with, unreasonable.",
-      "ja": "聞いたか？ 質問したらこれだ"
+      "ja": "聞いたか？質問したらこれだ"
     }
   },
   {
@@ -7327,50 +7327,50 @@
   },
   {
     "translation": {
-      "en": "- She thinks we're trying to get her money. - She doesn't trust him.",
+      "en": "-She thinks we're trying to get her money. -She doesn't trust him.",
       "ja": "僕の話は信じない あんたから話せ"
     }
   },
   {
     "translation": {
-      "en": "- You gotta talk to her. - You talk to her.",
+      "en": "-You gotta talk to her. -[Finch] You talk to her.",
       "ja": "あんたから話せ 直接 話して"
     }
   },
   {
     "translation": {
-      "en": "- Talk to her, please. - I'm gonna hand you to the head bandit.",
+      "en": "-[Frank] Talk to her, please. -I'm gonna hand you to the head bandit.",
       "ja": "盗賊の首領に代わる"
     }
   },
   {
     "translation": {
-      "en": "- Bandido. So, you speak to her. -",
+      "en": "-Bandido. So, you speak to her. -[Eleanor sighs]",
       "ja": "妻と話してくれ"
     }
   },
   {
     "translation": {
-      "en": "- Hello, ma'am. - Eleanor.",
+      "en": "-Hello, ma'am. -Eleanor.",
       "ja": "奥さん エレノア"
     }
   },
   {
     "translation": {
-      "en": "- What's that? - Eleanor.",
+      "en": "-What's that? -Eleanor.",
       "ja": "何？ エレノア"
     }
   },
   {
     "translation": {
-      "en": "Eleanor.",
+      "en": "[man] Eleanor.",
       "ja": "エレノアか"
     }
   },
   {
     "translation": {
       "en": "Eleanor, if you don't pay, I'm gonna kill your husband and Mr. Franks.",
-      "ja": "エレノア 金を払わないと ご主人たちを殺す"
+      "ja": "エレノア 金を払わないとご主人たちを殺す"
     }
   },
   {
@@ -7381,49 +7381,49 @@
   },
   {
     "translation": {
-      "en": "- What'd she say? - She said to kill you all.",
+      "en": "-What'd she say? -She said to kill you all.",
       "ja": "彼女は何と？ “殺して”と"
     }
   },
   {
     "translation": {
-      "en": "- She said that? - She said that, yeah.",
+      "en": "-She said that? -She said that, yeah.",
       "ja": "彼女が？ 言った"
     }
   },
   {
     "translation": {
-      "en": "- That's what I'm dealing with. - Who is this?",
+      "en": "-That's what I'm dealing with. -Who is this?",
       "ja": "ほらね 誰なんだ"
     }
   },
   {
     "translation": {
-      "en": "- That's my wife. - Your wife makes me very sad.",
+      "en": "-That's my wife. -[man] Your wife makes me very sad.",
       "ja": "妻だよ ひどく失望した"
     }
   },
   {
     "translation": {
-      "en": "Welcome to my world, son. I'm glad you spoke to her, though, first- hand.",
+      "en": "Welcome to my world, son. I'm glad you spoke to her, though, first-hand.",
       "ja": "僕の苦労が理解できただろ"
     }
   },
   {
     "translation": {
-      "en": "- Urgh! - I know. She's--",
+      "en": "-Urgh! -I know. She's--",
       "ja": "僕の苦労が理解できただろ 分かるよ"
     }
   },
   {
     "translation": {
-      "en": "- - Yeah.",
+      "en": "-[speaks in Spanish] -Yeah.",
       "ja": "黙れ はいよ"
     }
   },
   {
     "translation": {
-      "en": "That's nice, isn't it? Kill them.",
+      "en": "That's nice, isn't it? \"Kill them.\"",
       "ja": "“殺して”だぞ"
     }
   },
@@ -7435,19 +7435,19 @@
   },
   {
     "translation": {
-      "en": "She said, Kill them. And then...",
+      "en": "She said, \"Kill them.\" And then...",
       "ja": "“殺して”なんて"
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "[loudly] Thank you.",
       "ja": "ありがとう"
     }
   },
   {
     "translation": {
-      "en": "What the fuck did you just do?",
+      "en": "[bandit] What the fuck did you just do?",
       "ja": "何しやがった？"
     }
   },
@@ -7459,13 +7459,13 @@
   },
   {
     "translation": {
-      "en": "- No, no, no. Is okay. Is okay. - Sorry.",
+      "en": "-No, no, no. Is okay. Is okay. -[Finch] Sorry.",
       "ja": "大丈夫です ごめんよ"
     }
   },
   {
     "translation": {
-      "en": "- Who the fuck are you talking to? - Nothing.",
+      "en": "-Who the fuck are you talking to? -Nothing.",
       "ja": "誰に話してる 何でもない　すまなかった"
     }
   },
@@ -7477,37 +7477,37 @@
   },
   {
     "translation": {
-      "en": "- What are you thinking? - Thinking that chili was definitely off.",
+      "en": "-[Frank] What are you thinking? -Thinking that chili was definitely off.",
       "ja": "何だ？ チリがあたった"
     }
   },
   {
     "translation": {
       "en": "Speed of sound is about 350 meters per second, a bit less.",
-      "ja": "音が進む速さは せいぜい 秒速350メートルほどだ"
+      "ja": "音が進む速さは せいぜい秒速350メートルほどだ"
     }
   },
   {
     "translation": {
       "en": "A bullet is about 400 meters per second.",
-      "ja": "一方 弾丸の速さは 秒速400メートル"
+      "ja": "一方 弾丸の速さは秒速400メートル"
     }
   },
   {
     "translation": {
       "en": "So, if they shoot us, we'll be dead before we hear the bang.",
-      "ja": "撃たれたら 銃声を聞く前に死んでる"
+      "ja": "撃たれたら銃声を聞く前に死んでる"
     }
   },
   {
     "translation": {
-      "en": "- Great. So, we won't jump, then. - No.",
+      "en": "-Great. So, we won't jump, then. -No.",
       "ja": "よけられないな そうだ"
     }
   },
   {
     "translation": {
-      "en": "- I'm scared. - You weren't yesterday, in the bar.",
+      "en": "-I'm scared. -You weren't yesterday, in the bar.",
       "ja": "怖いよ 昨日は違った"
     }
   },
@@ -7525,7 +7525,7 @@
   },
   {
     "translation": {
-      "en": "Maybe this will make me a little bit braver again.",
+      "en": "Maybe this will make me a little bit braver again. [chuckles]",
       "ja": "やれば勇気が出るかも"
     }
   },
@@ -7549,7 +7549,7 @@
   },
   {
     "translation": {
-      "en": "- I can taste it. Do you want some? - Yeah. Why don't I suck your toes, too?",
+      "en": "-I can taste it. Do you want some? -Yeah. Why don't I suck your toes, too?",
       "ja": "味は する いる？ お前のつま先も なめるか？"
     }
   },
@@ -7573,7 +7573,7 @@
   },
   {
     "translation": {
-      "en": "- That was way too much for one. - How's your heart?",
+      "en": "-That was way too much for one. -How's your heart?",
       "ja": "効きすぎだ 心臓は？"
     }
   },
@@ -7585,7 +7585,7 @@
   },
   {
     "translation": {
-      "en": "- How's your balls? - Non- existent.",
+      "en": "-How's your balls? -Non-existent.",
       "ja": "タマは？ サオと一緒に縮んだ"
     }
   },
@@ -7603,8 +7603,8 @@
   },
   {
     "translation": {
-      "en": "It's like the same matter in a much smaller...",
-      "ja": "質量は同じだが 体積が減少して…"
+      "en": "It's like the same matter in a much smaller... [groans]",
+      "ja": "質量は同じだが体積が減少して…"
     }
   },
   {
@@ -7616,13 +7616,13 @@
   {
     "translation": {
       "en": "Oh, my God. I feel like I'm gonna burst. If you feel bad, it makes it bad.",
-      "ja": "破裂しそうだ 気分が悪いと悪く よければいい"
+      "ja": "破裂しそうだ 気分が悪いと悪くよければいい"
     }
   },
   {
     "translation": {
-      "en": "- If you feel good, you feel good. - You okay?",
-      "ja": "気分が悪いと悪く よければいい 大丈夫か？"
+      "en": "-If you feel good, you feel good. -You okay?",
+      "ja": "気分が悪いと悪くよければいい 大丈夫か？"
     }
   },
   {
@@ -7633,13 +7633,13 @@
   },
   {
     "translation": {
-      "en": "- You gonna be all right? - Yeah. Better not, because they're...",
+      "en": "-You gonna be all right? -Yeah. Better not, because they're...",
       "ja": "平気か？ やめたほうがいい"
     }
   },
   {
     "translation": {
-      "en": "Fucking, like, Hey, man. Fuck you. You're nothing but a bitch.",
+      "en": "[mutters] Fucking, like, \"Hey, man.\" Fuck you. You're nothing but a bitch.",
       "ja": "何様のつもりだ ぶったたいてやる"
     }
   },
@@ -7651,8 +7651,8 @@
   },
   {
     "translation": {
-      "en": "They're pussies, really. They come in, Fuck you. No, give me that. Fuck off, you bitch.",
-      "ja": "腰抜けのくせに偉そうに ふざけんなってんだ"
+      "en": "They're pussies, really. They come in, \"Fuck you. No, give me that.\" Fuck off, you bitch.",
+      "ja": "腰抜けのくせに偉そうにふざけんなってんだ"
     }
   },
   {
@@ -7669,20 +7669,20 @@
   },
   {
     "translation": {
-      "en": "- - Motorhead, Ace of Spades.",
+      "en": "-[heavy metal music playing nearby] -Motorhead, \"Ace of Spades.\"",
       "ja": "スペードのエース"
     }
   },
   {
     "translation": {
       "en": "That's what I call myself on Rebel Coup.",
-      "ja": "ゲームでの名前だ 縁起がいい"
+      "ja": "ゲームでの名前だ縁起がいい"
     }
   },
   {
     "translation": {
-      "en": "- Ace of Spades. That's a good omen. - Great omen.",
-      "ja": "ゲームでの名前だ 縁起がいい そうだな"
+      "en": "-\"Ace of Spades.\" That's a good omen. -[Frank] Great omen.",
+      "ja": "ゲームでの名前だ縁起がいい そうだな"
     }
   },
   {
@@ -7723,7 +7723,7 @@
   },
   {
     "translation": {
-      "en": "- I need to-- - Come on, get up.",
+      "en": "-I need to-- -Come on, get up.",
       "ja": "だって… さあ 立て"
     }
   },
@@ -7735,7 +7735,7 @@
   },
   {
     "translation": {
-      "en": "- That's right. - Whoa, whoa, whoa.",
+      "en": "-That's right. -Whoa, whoa, whoa.",
       "ja": "そうだ"
     }
   },
@@ -7748,12 +7748,12 @@
   {
     "translation": {
       "en": "The other ones are going to hear the shots, they're gonna come in here: pop, pop, pop.",
-      "ja": "銃声を聞いた仲間が お前らを…"
+      "ja": "銃声を聞いた仲間がお前らを…"
     }
   },
   {
     "translation": {
-      "en": "- Shoot you to bits. - I don't care. We're gonna die anyway.",
+      "en": "-Shoot you to bits. -I don't care. We're gonna die anyway.",
       "ja": "撃つ どうせ死ぬんだ"
     }
   },
@@ -7766,7 +7766,7 @@
   {
     "translation": {
       "en": "You're gonna fight each other to the death. The winner will be free.",
-      "ja": "闘いに勝ったほうは 解放されるんだよ"
+      "ja": "闘いに勝ったほうは解放されるんだよ"
     }
   },
   {
@@ -7789,19 +7789,19 @@
   },
   {
     "translation": {
-      "en": "- I would win. - You don't know that.",
+      "en": "-I would win. -You don't know that.",
       "ja": "俺が勝つ どうかな"
     }
   },
   {
     "translation": {
-      "en": "- He definitely will. - You don't know that.",
+      "en": "-He definitely will. -[Finch] You don't know that.",
       "ja": "絶対だ 分からない"
     }
   },
   {
     "translation": {
-      "en": "- Look at you and look at him. - You don't know what I can do.",
+      "en": "-Look at you and look at him. -You don't know what I can do.",
       "ja": "見比べてみろ 僕のことを甘く見るな"
     }
   },
@@ -7813,7 +7813,7 @@
   },
   {
     "translation": {
-      "en": "- I can't do it. - Oh, God. Give it to me.",
+      "en": "-I can't do it. -Oh, God. Give it to me.",
       "ja": "撃てない こっちに寄こせ"
     }
   },
@@ -7831,13 +7831,13 @@
   },
   {
     "translation": {
-      "en": "- Oh, I've shit myself. -",
+      "en": "-Oh, I've shit myself. -[man shouts in Spanish]",
       "ja": "クソをもらした"
     }
   },
   {
     "translation": {
-      "en": "Oh, fuck! Fucking... My fucking balls!",
+      "en": "[grunts] Oh, fuck! Fucking... My fucking balls!",
       "ja": "このクソ野郎 俺のタマを撃ちやがったな"
     }
   },
@@ -7855,44 +7855,44 @@
   },
   {
     "translation": {
-      "en": "- Come on! - I'm sorry.",
+      "en": "-[Frank] Come on! -[Finch] I'm sorry.",
       "ja": "ごめん"
     }
   },
   {
     "translation": {
-      "en": "Frank Bonneville and Ian Finch,",
+      "en": "[man on radio] Frank Bonneville and Ian Finch,",
       "ja": "ボネビルとフィンチが⸺"
     }
   },
   {
     "translation": {
       "en": "the two radio employees held hostage for nearly a month, have been released.",
-      "ja": "約１ヵ月ぶりに 解放されました"
+      "ja": "約１ヵ月ぶりに解放されました"
     }
   },
   {
     "translation": {
       "en": "They were welcomed at the U.S. embassy in Quito and are said to be exhausted, but unharmed and in good spirits.",
-      "ja": "大使館に保護された２人は 疲れているものの無事だとか"
+      "ja": "大使館に保護された２人は疲れているものの無事だとか"
     }
   },
   {
     "translation": {
       "en": "The Ecuadorian Liberation Front claim responsibility for the kidnapping",
-      "ja": "犯人の エクアドル解放戦線には⸺"
+      "ja": "犯人のエクアドル解放戦線には⸺"
     }
   },
   {
     "translation": {
-      "en": "and are believed to have been paid their ransom by Eleanor Finch - from the public's generous donations. - Thank you.",
-      "ja": "エレノア･フィンチから 身代金が支払われた模様です"
+      "en": "and are believed to have been paid their ransom by Eleanor Finch -from the public's generous donations. -Thank you.",
+      "ja": "エレノア･フィンチから身代金が支払われた模様です"
     }
   },
   {
     "translation": {
       "en": "This is Q365 News, saying: welcome home, boys.",
-      "ja": "Ｑ365ニュースでした おかえり"
+      "ja": "Ｑ365ニュースでしたおかえり"
     }
   },
   {
@@ -7922,13 +7922,13 @@
   {
     "translation": {
       "en": "Which part? The bit about being a drunk, arrogant hack",
-      "ja": "酒癖の悪い 身勝手な奴じゃないと？"
+      "ja": "酒癖の悪い身勝手な奴じゃないと？"
     }
   },
   {
     "translation": {
-      "en": "- who doesn't care about anybody? - Yeah.",
-      "ja": "酒癖の悪い 身勝手な奴じゃないと？ まあな"
+      "en": "-who doesn't care about anybody? -Yeah.",
+      "ja": "酒癖の悪い身勝手な奴じゃないと？ まあな"
     }
   },
   {
@@ -7939,7 +7939,7 @@
   },
   {
     "translation": {
-      "en": "- Hmm. - And Finch finally did something brave.",
+      "en": "-Hmm. -And Finch finally did something brave.",
       "ja": "フィンチは勇敢だった"
     }
   },
@@ -7958,12 +7958,12 @@
   {
     "translation": {
       "en": "Don't worry. We'll never tell anyone you weren't really kidnapped.",
-      "ja": "誘拐されてないことは 言わない"
+      "ja": "誘拐されてないことは言わない"
     }
   },
   {
     "translation": {
-      "en": "- No, we were kidnapped. - Of course.",
+      "en": "-No, we were kidnapped. -Of course.",
       "ja": "誘拐されたんだ 分かってる"
     }
   },
@@ -7975,7 +7975,7 @@
   },
   {
     "translation": {
-      "en": "Ladies and gentlemen, Frank Bonneville.",
+      "en": "[woman] Ladies and gentlemen, Frank Bonneville.",
       "ja": "フランク･ボネビルです"
     }
   },
@@ -7988,7 +7988,7 @@
   {
     "translation": {
       "en": "He's the one you should be applauding, because let me tell you something...",
-      "ja": "たたえるべき相手は フィンチです"
+      "ja": "たたえるべき相手はフィンチです"
     }
   },
   {
@@ -8000,18 +8000,18 @@
   {
     "translation": {
       "en": "He may look like a squat, ineffectual nobody, but he is the real man here.",
-      "ja": "見た目は さえないデブだが⸺ 彼こそ本物の勇者だ"
+      "ja": "見た目はさえないデブだが⸺ 彼こそ本物の勇者だ"
     }
   },
   {
     "translation": {
-      "en": "What's it like to have your husband back?",
+      "en": "[man] What's it like to have your husband back?",
       "ja": "今のご気分は？"
     }
   },
   {
     "translation": {
-      "en": "- Thank you. Thank you. - Great. It's so great.",
+      "en": "-[Frank] Thank you. Thank you. -Great. It's so great.",
       "ja": "本当にうれしいわ"
     }
   },
@@ -8024,7 +8024,7 @@
   {
     "translation": {
       "en": "Um, well, my album is due out, as you know, and I'm starting a perfume line.",
-      "ja": "新作アルバムが出るし 香水を売り出す予定よ"
+      "ja": "新作アルバムが出るし香水を売り出す予定よ"
     }
   },
   {
@@ -8035,13 +8035,13 @@
   },
   {
     "translation": {
-      "en": "- Hi. - Hi.",
+      "en": "-Hi. -Hi.",
       "ja": "ただいま おかえり"
     }
   },
   {
     "translation": {
-      "en": "- Brought you a coffee. - Why?",
+      "en": "-Brought you a coffee. -Why?",
       "ja": "コーヒーを なぜ？"
     }
   },
@@ -8059,7 +8059,7 @@
   },
   {
     "translation": {
-      "en": "- Do you? - No.",
+      "en": "-Do you? -No.",
       "ja": "本当？ ウソよ"
     }
   },
@@ -8077,7 +8077,7 @@
   },
   {
     "translation": {
-      "en": "- This is going well. - Yeah.  Isn't it?",
+      "en": "-This is going well. -[Claire] Yeah. [Finch] Isn't it?",
       "ja": "うまくいきそうだ"
     }
   },
@@ -8089,14 +8089,14 @@
   },
   {
     "translation": {
-      "en": "- Hello. - Hi.",
+      "en": "-[Claire] Hello. -[Finch] Hi.",
       "ja": "どうも"
     }
   },
   {
     "translation": {
       "en": "...these people, who would probably give us a lift.",
-      "ja": "たぶん車で 送ってもらえるだろうが"
+      "ja": "たぶん車で送ってもらえるだろうが"
     }
   },
   {
@@ -8107,26 +8107,26 @@
   },
   {
     "translation": {
-      "en": "- - Is that good?",
+      "en": "-[Claire chuckles] -Is that good?",
       "ja": "それでいいかな？"
     }
   },
   {
     "translation": {
-      "en": "- I have coffee, so... - You didn't want milk, did you?",
+      "en": "-I have coffee, so... -You didn't want milk, did you?",
       "ja": "コーヒーがあるから ブラックだろ？"
     }
   },
   {
     "translation": {
-      "en": "- I did, but-- - Okay, good. Well, we--",
-      "ja": "違うけど それじゃ途中に 知ってる店があるから⸺"
+      "en": "-I did, but-- -Okay, good. Well, we--",
+      "ja": "違うけど それじゃ途中に知ってる店があるから⸺"
     }
   },
   {
     "translation": {
       "en": "There's a shop on the Upper East Side that I know.",
-      "ja": "それじゃ途中に 知ってる店があるから⸺ ミルクを"
+      "ja": "それじゃ途中に知ってる店があるから⸺ ミルクを"
     }
   },
   {
@@ -8137,13 +8137,13 @@
   },
   {
     "translation": {
-      "en": "This is like the end of a movie.",
+      "en": "[Claire] This is like the end of a movie.",
       "ja": "映画の最後みたい"
     }
   },
   {
     "translation": {
-      "en": "A low- budget movie, maybe.",
+      "en": "[Finch] A low-budget movie, maybe.",
       "ja": "低予算映画だろうね"
     }
   }

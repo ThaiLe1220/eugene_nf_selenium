@@ -32,6 +32,15 @@ for file_name in files:
 
         # Iterate over each translation pair in the file
         for item in translations:
+            # Skip translation pairs with specific characters
+            if (
+                "♪" in item["translation"][SOURCE_LANG]
+                or "♪" in item["translation"][TARGET_LANG]
+                or "--" in item["translation"][SOURCE_LANG]
+                or "--" in item["translation"][TARGET_LANG]
+            ):
+                continue
+
             len_source = len(item["translation"][SOURCE_LANG])
             len_target = len(item["translation"][TARGET_LANG])
             max_len = max(len_source, len_target)

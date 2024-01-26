@@ -1,61 +1,61 @@
 [
   {
     "translation": {
-      "en": "3654. We have foot pursuit outside of PNC Park.",
+      "en": "[officer 1, on radio] 3654. We have foot pursuit outside of PNC Park.",
       "ja": "PNCパークの外を追跡中"
     }
   },
   {
     "translation": {
-      "en": "3169, here on Stockton Avenue. Heading down.",
+      "en": "[officer 2] 3169, here on Stockton Avenue. Heading down.",
       "ja": "ストックトン通りで発見"
     }
   },
   {
     "translation": {
-      "en": "438972. Suspect description, black jacket, black pants.",
-      "ja": "容疑者は 黒の上着に黒のズボン"
+      "en": "[officer 3] 438972. Suspect description, black jacket, black pants.",
+      "ja": "容疑者は黒の上着に黒のズボン"
     }
   },
   {
     "translation": {
-      "en": "Mayor requests we lock down. Lock it down on all four corners.",
-      "ja": "市の要請により 周辺を封鎖する"
+      "en": "[officer 4] Mayor requests we lock down. Lock it down on all four corners.",
+      "ja": "市の要請により周辺を封鎖する"
     }
   },
   {
     "translation": {
-      "en": "Copy.",
+      "en": "[officer 3] Copy.",
       "ja": "了解"
     }
   },
   {
     "translation": {
-      "en": "Suspect on foot. I repeat, suspect on foot.",
+      "en": "[officer 5] Suspect on foot. I repeat, suspect on foot.",
       "ja": "容疑者は車を降りて逃走"
     }
   },
   {
     "translation": {
-      "en": "Can we confirm present location of suspect?",
+      "en": "[officer 6] Can we confirm present location of suspect?",
       "ja": "現在地は？ 〝州警察〞"
     }
   },
   {
     "translation": {
-      "en": "Got eyes on the suspect. Following.",
+      "en": "[officer 5] Got eyes on the suspect. Following.",
       "ja": "〝州警察〞 目視で確認 目視で確認"
     }
   },
   {
     "translation": {
-      "en": "Dispatch, 3227. Be advised, suspect is entering PNC Park.",
+      "en": "[officer 7] Dispatch, 3227. Be advised, suspect is entering PNC Park.",
       "ja": "容疑者はＰＮＣパークに侵入"
     }
   },
   {
     "translation": {
-      "en": "- I'm on- site. - Move!",
+      "en": "-[officer 11, on radio] I'm on-site. -[officer 12] Move!",
       "ja": "どいて！"
     }
   },
@@ -67,7 +67,7 @@
   },
   {
     "translation": {
-      "en": "Suspect is on the roof.",
+      "en": "[officer 14, on radio] Suspect is on the roof.",
       "ja": "屋根の上だ"
     }
   },
@@ -79,7 +79,7 @@
   },
   {
     "translation": {
-      "en": "Ray!",
+      "en": "[officer 12] Ray!",
       "ja": "レイ"
     }
   },
@@ -121,19 +121,19 @@
   },
   {
     "translation": {
-      "en": "The past is like a dream.",
+      "en": "[Ray, echoing] The past is like a dream.",
       "ja": "過去は夢のようだ"
     }
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[birds singing] -[water flowing]",
       "ja": "数年前"
     }
   },
   {
     "translation": {
-      "en": "There are memories that shape us,",
+      "en": "[Ray] There are memories that shape us,",
       "ja": "思い出は人格を作る"
     }
   },
@@ -175,13 +175,13 @@
   },
   {
     "translation": {
-      "en": "- I love you. - Love you too.",
+      "en": "-I love you. -[Young Rachel] Love you too.",
       "ja": "愛してる 私もだよ"
     }
   },
   {
     "translation": {
-      "en": "As the years pass, we realize",
+      "en": "[Ray] As the years pass, we realize",
       "ja": "時が経つと分かる"
     }
   },
@@ -193,13 +193,13 @@
   },
   {
     "translation": {
-      "en": "- Hi, Amanda. - Hi.",
+      "en": "-[doctor] Hi, Amanda. -Hi.",
       "ja": "アマンダ"
     }
   },
   {
     "translation": {
-      "en": "- Doc. - Mr. Cooper.",
+      "en": "-[Ray] Doc. -[doctor] Mr. Cooper.",
       "ja": "ご主人"
     }
   },
@@ -211,14 +211,14 @@
   },
   {
     "translation": {
-      "en": "Yes. We'll go over the options,",
-      "ja": "そうです 薬はインファーマムが 最善でしょう"
+      "en": "[doctor] Yes. We'll go over the options,",
+      "ja": "そうです 薬はインファーマムが最善でしょう"
     }
   },
   {
     "translation": {
       "en": "but Infirmam is still the most effective way to cure this type of cancer.",
-      "ja": "薬はインファーマムが 最善でしょう"
+      "ja": "薬はインファーマムが最善でしょう"
     }
   },
   {
@@ -229,14 +229,14 @@
   },
   {
     "translation": {
-      "en": "The pain has brought us closer together.",
+      "en": "[Ray] The pain has brought us closer together.",
       "ja": "苦しみは絆を深くする"
     }
   },
   {
     "translation": {
       "en": "And watching her grow… has been to find myself again.",
-      "ja": "娘の成長を見ては 自分を取り戻す"
+      "ja": "娘の成長を見ては自分を取り戻す"
     }
   },
   {
@@ -253,7 +253,7 @@
   },
   {
     "translation": {
-      "en": "- Oh. - Her name is Paloma.",
+      "en": "-Oh. -[Amanda] Her name is Paloma.",
       "ja": "名前はパロマ"
     }
   },
@@ -265,37 +265,37 @@
   },
   {
     "translation": {
-      "en": "But sometimes I wonder,",
+      "en": "[Ray] But sometimes I wonder,",
       "ja": "時に混乱する"
     }
   },
   {
     "translation": {
-      "en": "Are these my memories,",
+      "en": "\"Are these my memories,",
       "ja": "これは俺の記憶？"
     }
   },
   {
     "translation": {
-      "en": "or are they hers?",
+      "en": "or are they hers?\"",
       "ja": "それとも娘の？"
     }
   },
   {
     "translation": {
-      "en": "- - Put your hips into it. Again.",
+      "en": "-[Ray grunting] -[coach] Put your hips into it. Again.",
       "ja": "腰を入れろ"
     }
   },
   {
     "translation": {
-      "en": "- Ooh. - Ooh, that was clean.",
+      "en": "-[Ray grunts] Ooh. -[laughs] Ooh, that was clean.",
       "ja": "命中したよ"
     }
   },
   {
     "translation": {
-      "en": "- Lock that wrist so it don't get weak. - It won't!",
+      "en": "-Lock that wrist so it don't get weak. -It won't!",
       "ja": "手首を曲げるな"
     }
   },
@@ -307,37 +307,37 @@
   },
   {
     "translation": {
-      "en": "- Whoa! - Fight fair!",
+      "en": "-Whoa! -Fight fair!",
       "ja": "出し抜く"
     }
   },
   {
     "translation": {
-      "en": "- - How do you win an unfair fight?",
+      "en": "-[both grunt] -[Ray] How do you win an unfair fight?",
       "ja": "卑怯者に勝つには？"
     }
   },
   {
     "translation": {
-      "en": "- You always fight harder. - That's right.",
+      "en": "-[Rachel] You always fight harder. -That's right.",
       "ja": "常に厳しく攻める"
     }
   },
   {
     "translation": {
-      "en": "Let me train her, Coop. She's got what it takes.",
+      "en": "[man] Let me train her, Coop. She's got what it takes.",
       "ja": "俺が鍛えてやろうか"
     }
   },
   {
     "translation": {
-      "en": "- That's my sweet girl. -",
+      "en": "-That's my sweet girl. -[laughs]",
       "ja": "俺の子だ"
     }
   },
   {
     "translation": {
-      "en": "- Done. - Done?",
+      "en": "-[Rachel] Done. -Done?",
       "ja": "できた"
     }
   },
@@ -349,7 +349,7 @@
   },
   {
     "translation": {
-      "en": "Parents and their children.",
+      "en": "[Ray] Parents and their children.",
       "ja": "共に歩く親子"
     }
   },
@@ -367,7 +367,7 @@
   },
   {
     "translation": {
-      "en": "- Doc. - I have good news.",
+      "en": "-Doc. -I have good news.",
       "ja": "先生 朗報だ"
     }
   },
@@ -380,12 +380,12 @@
   {
     "translation": {
       "en": "a very effective generic version of Infirmam, called Spero, is in the final stages of FDA approval.",
-      "ja": "スペロという後発医薬品に ＦＤＡの認可が下りる"
+      "ja": "スペロという後発医薬品にＦＤＡの認可が下りる"
     }
   },
   {
     "translation": {
-      "en": "This is great news, Ray.",
+      "en": "[softly] This is great news, Ray.",
       "ja": "いい知らせだよ"
     }
   },
@@ -397,13 +397,13 @@
   },
   {
     "translation": {
-      "en": "- You did, didn't you? - What?",
+      "en": "-You did, didn't you? -[Rachel] What?",
       "ja": "だな？ 何が？"
     }
   },
   {
     "translation": {
-      "en": "This was your birthday wish, wasn't it?",
+      "en": "This was your birthday wish, wasn't it? [kisses]",
       "ja": "誕生日の願い事だ"
     }
   },
@@ -433,13 +433,13 @@
   },
   {
     "translation": {
-      "en": "Dad, what's happening?",
+      "en": "[Rachel] Dad, what's happening?",
       "ja": "何なの？"
     }
   },
   {
     "translation": {
-      "en": "Dr. Wu?",
+      "en": "[Ray] Dr. Wu?",
       "ja": "ウー先生"
     }
   },
@@ -451,7 +451,7 @@
   },
   {
     "translation": {
-      "en": "- Hi, Ray. - What's goin' on?",
+      "en": "-[Wu] Hi, Ray. -What's goin' on?",
       "ja": "レイ どうなってる？"
     }
   },
@@ -494,12 +494,12 @@
   {
     "translation": {
       "en": "BioPrime, the makers of Infirmam, paid the manufacturer to delay Spero's release.",
-      "ja": "バイオプライム社が 財力で発売を延期にした"
+      "ja": "バイオプライム社が財力で発売を延期にした"
     }
   },
   {
     "translation": {
-      "en": "- Delay? - For how long?",
+      "en": "-Delay? -For how long?",
       "ja": "延期？ いつまで？"
     }
   },
@@ -523,7 +523,7 @@
   },
   {
     "translation": {
-      "en": "…two of them kids.",
+      "en": "[quietly] …two of them kids.",
       "ja": "２人は子どもだ"
     }
   },
@@ -541,8 +541,8 @@
   },
   {
     "translation": {
-      "en": "- - Welcome back. For those just joining, I'm here with BioPrime CEO, Simon Keeley,",
-      "ja": "出演者はバイオプライム社 キーリーＣＥＯと"
+      "en": "-[news fanfare plays] -[host] Welcome back. For those just joining, I'm here with BioPrime CEO, Simon Keeley,",
+      "ja": "出演者はバイオプライム社キーリーＣＥＯと"
     }
   },
   {
@@ -560,7 +560,7 @@
   {
     "translation": {
       "en": "Well, I've always taken a hard line against pharmaceutical lobbies and mass corporations, like BioPrime.",
-      "ja": "製薬業界の大手企業には 強硬路線を取っています"
+      "ja": "製薬業界の大手企業には強硬路線を取っています"
     }
   },
   {
@@ -572,25 +572,25 @@
   {
     "translation": {
       "en": "BioPrime is unlike any other pharmaceutical company in the world.",
-      "ja": "バイオプライム社は 他社とは違う"
+      "ja": "バイオプライム社は他社とは違う"
     }
   },
   {
     "translation": {
-      "en": "- - Our scientists have created",
+      "en": "-[TV volume raises] -[Keeley] Our scientists have created",
       "ja": "我が社の研究者は"
     }
   },
   {
     "translation": {
       "en": "the most effective treatments in the fight against cancer.",
-      "ja": "効果的なガン治療法を 構築しました"
+      "ja": "効果的なガン治療法を構築しました"
     }
   },
   {
     "translation": {
       "en": "Specifically with Infirmam, a drug that has increased life expectancy",
-      "ja": "特にインファーマムは 患者の余命を"
+      "ja": "特にインファーマムは患者の余命を"
     }
   },
   {
@@ -614,36 +614,36 @@
   {
     "translation": {
       "en": "I believe that we all have a basic human right to safe, affordable medication.",
-      "ja": "安全安価な薬の入手は 基本的な人権です"
+      "ja": "安全安価な薬の入手は基本的な人権です"
     }
   },
   {
     "translation": {
       "en": "Yeah. Um, this talking point of health care as a human right.",
-      "ja": "それは健康管理と 人権の問題ですよね"
+      "ja": "それは健康管理と人権の問題ですよね"
     }
   },
   {
     "translation": {
       "en": "Our medicines, they are a matter of research and science.",
-      "ja": "しかし製薬は 研究と科学の問題で"
+      "ja": "しかし製薬は研究と科学の問題で"
     }
   },
   {
     "translation": {
       "en": "The investment is not only risky, it is extremely expensive.",
-      "ja": "投資額は非常に膨大で リスクもある"
+      "ja": "投資額は非常に膨大でリスクもある"
     }
   },
   {
     "translation": {
-      "en": "All right. We have eager callers that wanna weigh in.",
+      "en": "[Langley] All right. We have eager callers that wanna weigh in.",
       "ja": "続いて視聴者の声を"
     }
   },
   {
     "translation": {
-      "en": "Can you please explain? Because I just don't understand.",
+      "en": "[caller] Can you please explain? Because I just don't understand.",
       "ja": "納得できませんよ 納得できませんよ 〝ご意見 募集中〞"
     }
   },
@@ -655,14 +655,14 @@
   },
   {
     "translation": {
-      "en": "- Yeah, this is, uh, a tricky issue. -",
+      "en": "-Yeah, this is, uh, a tricky issue. -[line ringing]",
       "ja": "微妙な問題ですね"
     }
   },
   {
     "translation": {
       "en": "Uh, and don't get fooled by the talking points of… of politicians from Washington.",
-      "ja": "どうか議員の意見に 惑わされないでほしい"
+      "ja": "どうか議員の意見に惑わされないでほしい"
     }
   },
   {
@@ -686,12 +686,12 @@
   {
     "translation": {
       "en": "But it's funny how you failed to mention the billions of dollars spent on…",
-      "ja": "だが先行投資は 何十億ドルで…"
+      "ja": "だが先行投資は何十億ドルで…"
     }
   },
   {
     "translation": {
-      "en": "- Your name? - Ray Cooper.",
+      "en": "-[operator] Your name? -Ray Cooper.",
       "ja": "お名前は？ レイだ"
     }
   },
@@ -704,7 +704,7 @@
   {
     "translation": {
       "en": "I'm here because BioPrime is committed to healing the world.",
-      "ja": "バイオプライム社は 世界の医療に貢献しています"
+      "ja": "バイオプライム社は世界の医療に貢献しています"
     }
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "translation": {
-      "en": "- That is not what you are doing. - All right.",
+      "en": "-[scoffs] That is not what you are doing. -All right.",
       "ja": "御社の功績なの？"
     }
   },
@@ -745,7 +745,7 @@
   },
   {
     "translation": {
-      "en": "That is immoral, Mr. Keeley.",
+      "en": "[scoffs] That is immoral, Mr. Keeley.",
       "ja": "道義に反しますよ"
     }
   },
@@ -770,13 +770,13 @@
   {
     "translation": {
       "en": "Uh, first of all, I'd just like to say I'm so sorry to hear about your wife.",
-      "ja": "まずは奥様に心から お見舞い申し上げる 〝レイ･クーパー 妻の治療費が払えない〞"
+      "ja": "まずは奥様に心からお見舞い申し上げる 〝レイ･クーパー妻の治療費が払えない〞"
     }
   },
   {
     "translation": {
       "en": "Uh, believe it or not, BioPrime is dedicated to saving lives.",
-      "ja": "バイオプライム社は 人命を救っている"
+      "ja": "バイオプライム社は人命を救っている"
     }
   },
   {
@@ -788,7 +788,7 @@
   {
     "translation": {
       "en": "We've already refinanced our house. I've taken every double shift I can get.",
-      "ja": "家を担保に入れ 昼も夜も仕事"
+      "ja": "家を担保に入れ昼も夜も仕事"
     }
   },
   {
@@ -799,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "Ray, the sad reality is that cancer",
+      "en": "[Keeley] Ray, the sad reality is that cancer",
       "ja": "レイ 残念なことに"
     }
   },
@@ -817,7 +817,7 @@
   },
   {
     "translation": {
-      "en": "What is the cost",
+      "en": "[hesitates] What is the cost",
       "ja": "何を犠牲にして"
     }
   },
@@ -859,19 +859,19 @@
   },
   {
     "translation": {
-      "en": "Dad?",
+      "en": "[Rachel] Dad?",
       "ja": "パパ"
     }
   },
   {
     "translation": {
-      "en": "What ya lookin' at, man?",
+      "en": "[weakly] What ya lookin' at, man?",
       "ja": "何を見てるの？"
     }
   },
   {
     "translation": {
-      "en": "I'm lookin' at you, woman.",
+      "en": "[softly] I'm lookin' at you, woman.",
       "ja": "君を見てる"
     }
   },
@@ -889,13 +889,13 @@
   },
   {
     "translation": {
-      "en": "Bye.",
+      "en": "[softly] Bye.",
       "ja": "さよなら"
     }
   },
   {
     "translation": {
-      "en": "- Ah, God damn it. - What? Hospital bill?",
+      "en": "-[Ray] Ah, God damn it. -[Rachel] What? Hospital bill?",
       "ja": "〝支払い期日超過〞 しまった 〝支払い期日超過〞 〝支払い期日超過〞 治療費？"
     }
   },
@@ -907,14 +907,14 @@
   },
   {
     "translation": {
-      "en": "- We can't ignore it. - Sure you can.",
+      "en": "-We can't ignore it. -[Rachel] Sure you can.",
       "ja": "それはダメだ 平気だよ"
     }
   },
   {
     "translation": {
-      "en": "- - We voted for universal health care. Just… tell 'em we're taking a political stance.",
-      "ja": "国民皆保険に 賛成の姿勢を示すだけ"
+      "en": "-[stove clicks] -We voted for universal health care. Just… tell 'em we're taking a political stance.",
+      "ja": "国民皆保険に賛成の姿勢を示すだけ"
     }
   },
   {
@@ -925,7 +925,7 @@
   },
   {
     "translation": {
-      "en": "- C'mon. You know you love this too. - It's not happening.",
+      "en": "-C'mon. You know you love this too. -[Ray] It's not happening.",
       "ja": "好きでしょ？ 野菜もとらなきゃダメだ"
     }
   },
@@ -937,25 +937,25 @@
   },
   {
     "translation": {
-      "en": "- - Fries do not count.",
+      "en": "-[Rachel laughing] -Fries do not count.",
       "ja": "油っこいのは禁止な"
     }
   },
   {
     "translation": {
-      "en": "- Ah! Stop ticklin' me. -",
+      "en": "-Ah! Stop ticklin' me. -[cell phone vibrates]",
       "ja": "くすぐるな"
     }
   },
   {
     "translation": {
-      "en": "Stop it.",
+      "en": "[Ray chuckles] Stop it.",
       "ja": "やめろ"
     }
   },
   {
     "translation": {
-      "en": "- Hello? - Ray Cooper?",
+      "en": "-Hello? -[man on phone] Ray Cooper?",
       "ja": "レイ･クーパー？"
     }
   },
@@ -968,12 +968,12 @@
   {
     "translation": {
       "en": "I'm doing a story on BioPrime, and I saw your call with Simon Keeley on TV.",
-      "ja": "テレビでキーリーと やり合ったよな"
+      "ja": "テレビでキーリーとやり合ったよな"
     }
   },
   {
     "translation": {
-      "en": "What do you want?",
+      "en": "[Ray] What do you want?",
       "ja": "何の用だ"
     }
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "translation": {
-      "en": "- Keeley? - Who's that?",
+      "en": "-Keeley? -Who's that?",
       "ja": "奴(やつ)を？ 誰なの？"
     }
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "translation": {
-      "en": "- You can talk now. Now you have me. - Not over the phone.",
+      "en": "-You can talk now. Now you have me. -Not over the phone.",
       "ja": "今 話せばいい 電話では無理だ"
     }
   },
@@ -1027,13 +1027,13 @@
   },
   {
     "translation": {
-      "en": "- - Who was that?",
+      "en": "-[call disconnects] -[Rachel] Who was that?",
       "ja": "誰から？"
     }
   },
   {
     "translation": {
-      "en": "I'll be right back.",
+      "en": "[Ray] I'll be right back.",
       "ja": "すぐ戻る"
     }
   },
@@ -1057,7 +1057,7 @@
   },
   {
     "translation": {
-      "en": "That's not fair.",
+      "en": "[Rachel] That's not fair.",
       "ja": "不公平だよ"
     }
   },
@@ -1081,13 +1081,13 @@
   },
   {
     "translation": {
-      "en": "- I love you. - Love you.",
+      "en": "-I love you. -Love you. [sighs]",
       "ja": "愛してる 私も"
     }
   },
   {
     "translation": {
-      "en": "Excuse me.",
+      "en": "[Ray] Excuse me.",
       "ja": "“ゲートウェイ駅”"
     }
   },
@@ -1099,7 +1099,7 @@
   },
   {
     "translation": {
-      "en": "- Get on the incoming train. - You were supposed to meet me here.",
+      "en": "-[Bennett] Get on the incoming train. -[Ray] You were supposed to meet me here.",
       "ja": "列車に乗れ 駅で待ち合わせだろ"
     }
   },
@@ -1117,7 +1117,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. Now what? - Don't hang up. Just stay on the line.",
+      "en": "-Yeah. Now what? -Don't hang up. Just stay on the line.",
       "ja": "乗ったぞ 電話は切らないで"
     }
   },
@@ -1142,13 +1142,13 @@
   {
     "translation": {
       "en": "There's a woman in a striped coat and a hipster guy with a scarf.",
-      "ja": "横じまの上着の女性が 見えるか？"
+      "ja": "横じまの上着の女性が見えるか？"
     }
   },
   {
     "translation": {
-      "en": "- You see where they're headed? - Yeah. To street level.",
-      "ja": "横じまの上着の女性が 見えるか？ 階段を上に"
+      "en": "-You see where they're headed? -Yeah. To street level.",
+      "ja": "横じまの上着の女性が見えるか？ 階段を上に"
     }
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "translation": {
       "en": "and take the Red Line towards Allegheny Station. Okay?",
-      "ja": "レッド･ラインで アレゲーニー駅へ"
+      "ja": "レッド･ラインでアレゲーニー駅へ"
     }
   },
   {
@@ -1189,7 +1189,7 @@
   },
   {
     "translation": {
-      "en": "- Bennett? - Yeah. Martin.",
+      "en": "-Bennett? -Yeah. Martin.",
       "ja": "君か？ ああ 面倒をかけたが用心のためだ"
     }
   },
@@ -1220,12 +1220,12 @@
   {
     "translation": {
       "en": "I got a source who told me about BioPrime's payouts to multiple offshore shell corporations.",
-      "ja": "バイオプライムは配当を ダミー会社に渡してる"
+      "ja": "バイオプライムは配当をダミー会社に渡してる"
     }
   },
   {
     "translation": {
-      "en": "Bribery, cover- ups, who knows what else. All this leads to Simon Keeley.",
+      "en": "Bribery, cover-ups, who knows what else. All this leads to Simon Keeley.",
       "ja": "贈賄や隠蔽工作の疑いも 黒幕はキーリーだ"
     }
   },
@@ -1249,8 +1249,8 @@
   },
   {
     "translation": {
-      "en": "Enough to tie Keeley to bribes that pulled Spero off the market. But without my source, I can't connect the dots.",
-      "ja": "不正行為があったことを 証明する情報だ"
+      "en": "[Bennett] Enough to tie Keeley to bribes that pulled Spero off the market. But without my source, I can't connect the dots.",
+      "ja": "不正行為があったことを証明する情報だ"
     }
   },
   {
@@ -1261,7 +1261,7 @@
   },
   {
     "translation": {
-      "en": "I have enough to bring public concern against BioPrime,",
+      "en": "[Bennett] I have enough to bring public concern against BioPrime,",
       "ja": "問題提起は可能だが"
     }
   },
@@ -1279,26 +1279,26 @@
   },
   {
     "translation": {
-      "en": "- I just-- - Look, just think about it.",
+      "en": "-I just-- -Look, just think about it.",
       "ja": "検討してくれ"
     }
   },
   {
     "translation": {
-      "en": "Look, Local family gets ravaged by Big Pharma's greed.",
+      "en": "Look, \"Local family gets ravaged by Big Pharma's greed.\"",
       "ja": "“企業の欲で苦しむ家族”"
     }
   },
   {
     "translation": {
-      "en": "You gotta help me, Ray.",
+      "en": "[Bennett] You gotta help me, Ray.",
       "ja": "協力してくれ"
     }
   },
   {
     "translation": {
       "en": "Family, human interest. That's what grabs headlines. We can blow this thing wide open.",
-      "ja": "家族の物語には 関心が集まりやすい"
+      "ja": "家族の物語には関心が集まりやすい"
     }
   },
   {
@@ -1321,19 +1321,19 @@
   },
   {
     "translation": {
-      "en": "Rachel. Rachel, baby, are you okay? Look at me.",
+      "en": "[groans] Rachel. Rachel, baby, are you okay? Look at me.",
       "ja": "レイチェル 大丈夫か？"
     }
   },
   {
     "translation": {
-      "en": "- Just like your dad. -",
+      "en": "-[coach] Just like your dad. -[Rachel grunting]",
       "ja": "父親を手本に"
     }
   },
   {
     "translation": {
-      "en": "- Not about strength. -",
+      "en": "-Not about strength. -[both grunting]",
       "ja": "力に頼るな"
     }
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "translation": {
-      "en": "- - You got it. Lock it in.",
+      "en": "-[both grunt] -[coach] You got it. Lock it in.",
       "ja": "締めろ"
     }
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "translation": {
-      "en": "He's tapping, Rachel.",
+      "en": "[coach] He's tapping, Rachel.",
       "ja": "降参だ"
     }
   },
@@ -1423,13 +1423,13 @@
   },
   {
     "translation": {
-      "en": "- He's tapping, Rachel. Rachel! -",
+      "en": "-He's tapping, Rachel. Rachel! -[sounds fading]",
       "ja": "降参の合図だ  レイチェル"
     }
   },
   {
     "translation": {
-      "en": "Rachel!",
+      "en": "[coach] Rachel!",
       "ja": "レイチェル"
     }
   },
@@ -1454,43 +1454,43 @@
   {
     "translation": {
       "en": "we are creating a strategic partnership with BioPrime Pharmaceuticals.",
-      "ja": "バイオプライム社と 戦略的提携を結びました"
+      "ja": "バイオプライム社と戦略的提携を結びました"
     }
   },
   {
     "translation": {
       "en": "Thanks to the effort of BioPrime CEO, Simon Keeley, and chairman, Vinod Shah,",
-      "ja": "キーリーＣＥＯと シャー会長の尽力により"
+      "ja": "キーリーＣＥＯとシャー会長の尽力により"
     }
   },
   {
     "translation": {
       "en": "this bill will effectively cap the cost of treatment.",
-      "ja": "治療費の高騰が 抑えられるのです"
+      "ja": "治療費の高騰が抑えられるのです"
     }
   },
   {
     "translation": {
       "en": "Finally, many of BioPrime's breakthrough treatments",
-      "ja": "ついに バイオプライム社が開発した 高額な薬剤が"
+      "ja": "ついに バイオプライム社が開発した高額な薬剤が"
     }
   },
   {
     "translation": {
       "en": "that used to cost in the hundreds of thousands of dollars",
-      "ja": "バイオプライム社が開発した 高額な薬剤が"
+      "ja": "バイオプライム社が開発した高額な薬剤が"
     }
   },
   {
     "translation": {
       "en": "will now be available to the public at affordable prices.",
-      "ja": "安価で届けられる日が 訪れました"
+      "ja": "安価で届けられる日が訪れました"
     }
   },
   {
     "translation": {
       "en": "I told the American people that I would hold companies like BioPrime accountable,",
-      "ja": "大企業には しかるべき責任を取らせる"
+      "ja": "大企業にはしかるべき責任を取らせる"
     }
   },
   {
@@ -1507,7 +1507,7 @@
   },
   {
     "translation": {
-      "en": "Again?",
+      "en": "[Ray] Again?",
       "ja": "またか"
     }
   },
@@ -1538,7 +1538,7 @@
   {
     "translation": {
       "en": "I don't know. It's like I'm losing these tiny pieces of her every day, and I just…",
-      "ja": "ママの思い出が 少しずつ失われて…"
+      "ja": "ママの思い出が少しずつ失われて…"
     }
   },
   {
@@ -1573,7 +1573,7 @@
   },
   {
     "translation": {
-      "en": "- I need to know. - Just… Just leave it alone, okay?",
+      "en": "-I need to know. -Just… Just leave it alone, okay?",
       "ja": "知りたい 放っておきなよ"
     }
   },
@@ -1591,13 +1591,13 @@
   },
   {
     "translation": {
-      "en": "It just was a dead- end conspiracy.",
+      "en": "It just was a dead-end conspiracy.",
       "ja": "ただの陰謀論だよ"
     }
   },
   {
     "translation": {
-      "en": "- I don't believe that. -",
+      "en": "-I don't believe that. -[Rachel sighs]",
       "ja": "違う"
     }
   },
@@ -1615,13 +1615,13 @@
   },
   {
     "translation": {
-      "en": "Keep it close, Mike. - I don't know how long I'll be. - Yes, sir.",
+      "en": "Keep it close, Mike. -I don't know how long I'll be. -[Mike] Yes, sir.",
       "ja": "近くで待機してくれ"
     }
   },
   {
     "translation": {
-      "en": "- Mr. Keeley. - Ah.",
+      "en": "-Mr. Keeley. -Ah.",
       "ja": "キーリー様"
     }
   },
@@ -1633,26 +1633,26 @@
   },
   {
     "translation": {
-      "en": "- Don't let me go dry tonight, will you? -",
+      "en": "-Don't let me go dry tonight, will you? -[server chuckles]",
       "ja": "どんどん頼む"
     }
   },
   {
     "translation": {
-      "en": "Good evening. I'm proud to kick off this first annual event",
-      "ja": "宴(うたげ)の幕開けにふさわしい ゲストを紹介します"
+      "en": "[announcer] Good evening. I'm proud to kick off this first annual event",
+      "ja": "宴(うたげ)の幕開けにふさわしいゲストを紹介します"
     }
   },
   {
     "translation": {
       "en": "by introducing you to the CEO of BioPrime,",
-      "ja": "宴(うたげ)の幕開けにふさわしい ゲストを紹介します バイオプライム社ＣＥＯ サイモン･キーリー氏"
+      "ja": "宴(うたげ)の幕開けにふさわしいゲストを紹介します バイオプライム社ＣＥＯサイモン･キーリー氏"
     }
   },
   {
     "translation": {
       "en": "Mr. Simon Keeley.",
-      "ja": "バイオプライム社ＣＥＯ サイモン･キーリー氏"
+      "ja": "バイオプライム社ＣＥＯサイモン･キーリー氏"
     }
   },
   {
@@ -1675,14 +1675,14 @@
   },
   {
     "translation": {
-      "en": "We shall not cease in exploration.",
+      "en": "\"We shall not cease in exploration.\"",
       "ja": "“我々は探求をやめない”"
     }
   },
   {
     "translation": {
       "en": "We've joined forces with Goa Capital Partners",
-      "ja": "ゴア･キャピタル･ パートナーズと協力し"
+      "ja": "ゴア･キャピタル･パートナーズと協力し"
     }
   },
   {
@@ -1705,7 +1705,7 @@
   },
   {
     "translation": {
-      "en": "For medicine and assistance…",
+      "en": "[Keeley, over speakers] For medicine and assistance…",
       "ja": "医療と安全をアフリカに…"
     }
   },
@@ -1717,19 +1717,19 @@
   },
   {
     "translation": {
-      "en": "India. Sorry.",
+      "en": "India. Sorry. [laughs awkwardly]",
       "ja": "失礼 インドだ"
     }
   },
   {
     "translation": {
       "en": "Either way, both places need a lot of help.",
-      "ja": "いずれにしろ 支援すべき地域だ"
+      "ja": "いずれにしろ支援すべき地域だ"
     }
   },
   {
     "translation": {
-      "en": "- Thanks again for coming. -",
+      "en": "-Thanks again for coming. -[guests clap]",
       "ja": "今夜はどうも"
     }
   },
@@ -1766,7 +1766,7 @@
   {
     "translation": {
       "en": "There's some important people here. Might want to mingle with more than your cocktails.",
-      "ja": "各界の要人と 交流を深めてくるよ"
+      "ja": "各界の要人と交流を深めてくるよ"
     }
   },
   {
@@ -1777,7 +1777,7 @@
   },
   {
     "translation": {
-      "en": "- - What the fuck?",
+      "en": "-[drink spills] -What the fuck?",
       "ja": "何だよ"
     }
   },
@@ -1789,25 +1789,25 @@
   },
   {
     "translation": {
-      "en": "- Sir? - You kidding? Give me a napkin.",
+      "en": "-[bodyguard 1] Sir? -[Keeley] You kidding? Give me a napkin.",
       "ja": "早くナプキンをよこせ"
     }
   },
   {
     "translation": {
       "en": "…why I agree to participate in this bullshit in the first place.",
-      "ja": "そもそも参加したのが 間違いだった"
+      "ja": "そもそも参加したのが間違いだった"
     }
   },
   {
     "translation": {
-      "en": "- Let's start the auction. - Fucking balls are wet.",
+      "en": "-[auctioneer] Let's start the auction. -Fucking balls are wet.",
       "ja": "タマも濡(ぬ)れた"
     }
   },
   {
     "translation": {
-      "en": "- It's out of order. - No shit. How'd you figure that out?",
+      "en": "-[bodyguard 2] It's out of order. -No shit. How'd you figure that out?",
       "ja": "故障中だ そんなはずないだろ"
     }
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "translation": {
-      "en": "Well, let's go to it, then. All right?",
+      "en": "[Keeley] Well, let's go to it, then. All right?",
       "ja": "そうか　仕方ない 行くぞ"
     }
   },
@@ -1831,7 +1831,7 @@
   },
   {
     "translation": {
-      "en": "- Hmm? - What the… fuck?",
+      "en": "-[Ray] Hmm? -What the… fuck?",
       "ja": "何のつもりだ"
     }
   },
@@ -1867,7 +1867,7 @@
   },
   {
     "translation": {
-      "en": "- What? Martin? - He was investigating your bribes.",
+      "en": "-What? Martin? -He was investigating your bribes.",
       "ja": "贈賄の件を調べてた"
     }
   },
@@ -1879,19 +1879,19 @@
   },
   {
     "translation": {
-      "en": "- You're the goddamn CEO of BioPrime. - All right.",
+      "en": "-You're the goddamn CEO of BioPrime. -All right.",
       "ja": "あんたがＣＥＯでは？"
     }
   },
   {
     "translation": {
       "en": "I authorize a bribe now and again, but it's not like I read the fine print.",
-      "ja": "たまに贈賄を許可するが 詳細までは…"
+      "ja": "たまに贈賄を許可するが詳細までは…"
     }
   },
   {
     "translation": {
-      "en": "Okay, now, stop! Stop!",
+      "en": "[yelling] Okay, now, stop! Stop!",
       "ja": "おい やめろ"
     }
   },
@@ -1903,7 +1903,7 @@
   },
   {
     "translation": {
-      "en": "All right. Uh…",
+      "en": "All right. Uh… [grunts]",
       "ja": "分かったよ"
     }
   },
@@ -1915,8 +1915,8 @@
   },
   {
     "translation": {
-      "en": "Nothing happens without his sign- off. He's the one that brought me on, okay?",
-      "ja": "全権を握り 私の上に立つ人物だ"
+      "en": "Nothing happens without his sign-off. He's the one that brought me on, okay?",
+      "ja": "全権を握り私の上に立つ人物だ"
     }
   },
   {
@@ -1939,7 +1939,7 @@
   },
   {
     "translation": {
-      "en": "- - Sold! 50,000 dollars.",
+      "en": "-[Ray exhales shakily] -[auctioneer] Sold! 50,000 dollars.",
       "ja": "５万ドルで落札です"
     }
   },
@@ -1963,19 +1963,19 @@
   },
   {
     "translation": {
-      "en": "Dad? You're hurt.",
+      "en": "[Rachel] Dad? You're hurt.",
       "ja": "パパ ケガしたの？"
     }
   },
   {
     "translation": {
-      "en": "I'm fine. I need you to pack up. Only what we need.",
+      "en": "[Ray] I'm fine. I need you to pack up. Only what we need.",
       "ja": "平気だ　出かける支度を"
     }
   },
   {
     "translation": {
-      "en": "- When are we coming back? - We're not.",
+      "en": "-[Rachel] When are we coming back? -[Ray] We're not.",
       "ja": "帰りは？ 帰らない"
     }
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "translation": {
-      "en": "I don't know.",
+      "en": "[Ray] I don't know.",
       "ja": "さあな"
     }
   },
@@ -2017,7 +2017,7 @@
   },
   {
     "translation": {
-      "en": "Go pack!",
+      "en": "[loudly] Go pack!",
       "ja": "早くしろ"
     }
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "Your partner, he took a bullet to the head tonight.",
+      "en": "[Meeker] Your partner, he took a bullet to the head tonight.",
       "ja": "パートナーが撃たれたのよ"
     }
   },
@@ -2047,7 +2047,7 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[Asbury] No.",
       "ja": "いいや"
     }
   },
@@ -2071,31 +2071,31 @@
   },
   {
     "translation": {
-      "en": "All of them made her suffer.",
+      "en": "\"All of them made her suffer.\"",
       "ja": "苦しみがどうとか言ってた"
     }
   },
   {
     "translation": {
-      "en": "- Or… All made her suffer. I don't know. - What do you mean? All what? All who?",
+      "en": "-Or… \"All made her suffer.\" I don't know. -What do you mean? All what? All who?",
       "ja": "苦しみがどうとか言ってた 何の苦しみだ"
     }
   },
   {
     "translation": {
-      "en": "- I don't know. - Okay.",
+      "en": "-I don't know. -Okay.",
       "ja": "さあな そうか"
     }
   },
   {
     "translation": {
-      "en": "- Do you remember anything else? - No.",
+      "en": "-Do you remember anything else? -No.",
       "ja": "他にも何か？ いいや"
     }
   },
   {
     "translation": {
-      "en": "- - Thank you.",
+      "en": "-[Asbury sighs] -Thank you.",
       "ja": "どうも"
     }
   },
@@ -2137,13 +2137,13 @@
   },
   {
     "translation": {
-      "en": "You got it.",
+      "en": "[agent] You got it.",
       "ja": "了解"
     }
   },
   {
     "translation": {
-      "en": "It's a long drive to Toronto on these back roads.",
+      "en": "[Ray] It's a long drive to Toronto on these back roads.",
       "ja": "トロントまで長い旅になる"
     }
   },
@@ -2155,13 +2155,13 @@
   },
   {
     "translation": {
-      "en": "- ♪ Who throws the dice ♪ - You gonna come sit up here?",
+      "en": "-♪ Who throws the dice ♪ -You gonna come sit up here?",
       "ja": "助手席に"
     }
   },
   {
     "translation": {
-      "en": "Talk to Paloma. ♪ I am not fighting for justice ♪",
+      "en": "[Rachel grunts softly] Talk to Paloma. ♪ I am not fighting for justice ♪",
       "ja": "パロマと話せば？"
     }
   },
@@ -2197,14 +2197,14 @@
   },
   {
     "translation": {
-      "en": "It's impossible to put a price on.",
+      "en": "[Keeley] It's impossible to put a price on.",
       "ja": "値段はつけられない"
     }
   },
   {
     "translation": {
-      "en": "If my wife dies, it's your death sentence.",
-      "ja": "妻が死んだら お前を死刑にする"
+      "en": "[Ray] If my wife dies, it's your death sentence.",
+      "ja": "妻が死んだらお前を死刑にする"
     }
   },
   {
@@ -2215,13 +2215,13 @@
   },
   {
     "translation": {
-      "en": "- We're gonna take-- - All made her suffer?",
+      "en": "-[Langley] We're gonna take-- -[Meeker hits key] \"All made her suffer\"?",
       "ja": "復讐(ふくしゅう)ね？"
     }
   },
   {
     "translation": {
-      "en": "- Right.  -",
+      "en": "-Right. [chuckles] -[Meeker exhales]",
       "ja": "ああ"
     }
   },
@@ -2233,13 +2233,13 @@
   },
   {
     "translation": {
-      "en": "Here you are.",
+      "en": "[attendant] Here you are.",
       "ja": "どうぞ"
     }
   },
   {
     "translation": {
-      "en": "Got the ID on the driver.",
+      "en": "[man] Got the ID on the driver.",
       "ja": "運転手のＩＤだ"
     }
   },
@@ -2251,43 +2251,43 @@
   },
   {
     "translation": {
-      "en": "Evening.",
+      "en": "[Ray] Evening.",
       "ja": "どうも"
     }
   },
   {
     "translation": {
-      "en": "I'll be right up.",
+      "en": "[Ray] I'll be right up.",
       "ja": "すぐ行く"
     }
   },
   {
     "translation": {
-      "en": "- - This is Meeker.",
+      "en": "-[phone rings] -This is Meeker.",
       "ja": "ミーカーです"
     }
   },
   {
     "translation": {
-      "en": "You're the agent assigned to what happened at the UNICEF fundraiser.",
-      "ja": "チャリティーで 起きた事件の担当者？"
+      "en": "[Rachel] You're the agent assigned to what happened at the UNICEF fundraiser.",
+      "ja": "チャリティーで起きた事件の担当者？"
     }
   },
   {
     "translation": {
       "en": "If you have any information, please call the tip line.",
-      "ja": "情報があれば 受付窓口にお願い"
+      "ja": "情報があれば受付窓口にお願い"
     }
   },
   {
     "translation": {
-      "en": "- An agent will get back to you. - Yeah, I called the tip line.",
-      "ja": "情報があれば 受付窓口にお願い さっき かけたの"
+      "en": "-An agent will get back to you. -Yeah, I called the tip line.",
+      "ja": "情報があれば受付窓口にお願い さっき かけたの"
     }
   },
   {
     "translation": {
-      "en": "- I told them I'm only talkin' to you. - And who am I speaking to?",
+      "en": "-I told them I'm only talkin' to you. -And who am I speaking to?",
       "ja": "直接 話したい それで どちら様？"
     }
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "translation": {
-      "en": "- It was self- defense. - How do you know that? Who is this?",
+      "en": "-It was self-defense. -How do you know that? Who is this?",
       "ja": "正当防衛なの なぜ知ってるの？"
     }
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "translation": {
-      "en": "- Goodbye. - Wait, I can help you.",
+      "en": "-Goodbye. -Wait, I can help you.",
       "ja": "さよなら 力になるわ"
     }
   },
@@ -2420,7 +2420,7 @@
   {
     "translation": {
       "en": "When you can, get to a… a gas station or a Walmart.",
-      "ja": "ガソリンスタンドか スーパーに行ける？"
+      "ja": "ガソリンスタンドかスーパーに行ける？"
     }
   },
   {
@@ -2437,7 +2437,7 @@
   },
   {
     "translation": {
-      "en": "My number is 412- 046- 4378.",
+      "en": "My number is 412-046-4378.",
       "ja": "番号は４１２… ０４６ ４３７８"
     }
   },
@@ -2449,13 +2449,13 @@
   },
   {
     "translation": {
-      "en": "Now say it back to me. It's 412- 046- 4--",
+      "en": "Now say it back to me. It's 412-046-4--",
       "ja": "復唱して　４１２ー０４６…"
     }
   },
   {
     "translation": {
-      "en": "- - Fuck.",
+      "en": "-[call disconnects] -[quietly] Fuck.",
       "ja": "もう！"
     }
   },
@@ -2491,7 +2491,7 @@
   },
   {
     "translation": {
-      "en": "- Twenty dollars? Seriously? -",
+      "en": "-Twenty dollars? Seriously? -[Rachel sighs]",
       "ja": "20ドル？　マジか？"
     }
   },
@@ -2521,13 +2521,13 @@
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[Ray] Come on.",
       "ja": "さあ"
     }
   },
   {
     "translation": {
-      "en": "- - FBI! We have permission to gain entry.",
+      "en": "-[pounding on door] -[agent] FBI! We have permission to gain entry.",
       "ja": "ＦＢＩだ　令状が出てる"
     }
   },
@@ -2539,7 +2539,7 @@
   },
   {
     "translation": {
-      "en": "Meeker.",
+      "en": "[agent] Meeker.",
       "ja": "ミーカー"
     }
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "translation": {
-      "en": "It's Torres.",
+      "en": "[Meeker] It's Torres.",
       "ja": "トレスよ"
     }
   },
@@ -2588,7 +2588,7 @@
   {
     "translation": {
       "en": "It was spotted fleeing the scene of a double homicide 70 miles north of here.",
-      "ja": "110キロ先の殺人現場から 逃げ去ったそうよ"
+      "ja": "110キロ先の殺人現場から逃げ去ったそうよ"
     }
   },
   {
@@ -2617,25 +2617,25 @@
   },
   {
     "translation": {
-      "en": "It runs, if you're askin'.",
+      "en": "[man] It runs, if you're askin'.",
       "ja": "走るよ"
     }
   },
   {
     "translation": {
-      "en": "Like an odds- on favorite at the Kentucky Derby.",
+      "en": "Like an odds-on favorite at the Kentucky Derby.",
       "ja": "競走馬みたいに速く"
     }
   },
   {
     "translation": {
-      "en": "You take cash?",
+      "en": "[hit man] You take cash?",
       "ja": "現金でいい？"
     }
   },
   {
     "translation": {
-      "en": "We need to stay off the road until I figure out what's goin' on.",
+      "en": "[Ray] We need to stay off the road until I figure out what's goin' on.",
       "ja": "状況が分かるまで道を外れる"
     }
   },
@@ -2689,13 +2689,13 @@
   },
   {
     "translation": {
-      "en": "I have to go after Shah.",
+      "en": "[Ray] I have to go after Shah.",
       "ja": "シャーを追う"
     }
   },
   {
     "translation": {
-      "en": "You plan on using that?",
+      "en": "[Rachel] You plan on using that?",
       "ja": "銃を使うの？"
     }
   },
@@ -2713,7 +2713,7 @@
   },
   {
     "translation": {
-      "en": "- - You know I do, Rae.",
+      "en": "-[gun cocks] -You know I do, Rae.",
       "ja": "撃てるさ"
     }
   },
@@ -2761,13 +2761,13 @@
   },
   {
     "translation": {
-      "en": "- - This is Meeker.",
+      "en": "-[phone unlocks] -This is Meeker.",
       "ja": "ミーカーです"
     }
   },
   {
     "translation": {
-      "en": "There are people that are coming after us.",
+      "en": "[Rachel] There are people that are coming after us.",
       "ja": "追われてるの"
     }
   },
@@ -2803,7 +2803,7 @@
   },
   {
     "translation": {
-      "en": "- Can you tell me about her? - She…",
+      "en": "-Can you tell me about her? -She…",
       "ja": "ママのことを話して 母は…"
     }
   },
@@ -2815,7 +2815,7 @@
   },
   {
     "translation": {
-      "en": "She had, uh…",
+      "en": "[sighs] She had, uh…",
       "ja": "それで"
     }
   },
@@ -2828,7 +2828,7 @@
   {
     "translation": {
       "en": "My dad, I mean, he sparred with guys who could take a punch.",
-      "ja": "父のスパーリング相手は 打たれ強いけど"
+      "ja": "父のスパーリング相手は打たれ強いけど"
     }
   },
   {
@@ -2911,13 +2911,13 @@
   },
   {
     "translation": {
-      "en": "I'm looking at a photo that says Rachel and Paloma.",
+      "en": "I'm looking at a photo that says \"Rachel and Paloma.\"",
       "ja": "写真の裏に書いてある"
     }
   },
   {
     "translation": {
-      "en": "I… wanted a pet.",
+      "en": "I… wanted a pet. [sighs]",
       "ja": "ペットが欲しかった"
     }
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "translation": {
-      "en": "Even when she couldn't.",
+      "en": "Even when she couldn't. [sighs]",
       "ja": "病床でも"
     }
   },
@@ -2965,7 +2965,7 @@
   },
   {
     "translation": {
-      "en": "I don't know what he's gonna do.",
+      "en": "[breathing shakily] I don't know what he's gonna do.",
       "ja": "父が心配なの"
     }
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "translation": {
-      "en": "- You are in control. - Stop saying that.",
+      "en": "-You are in control. -Stop saying that.",
       "ja": "主導権を握れる やめてよ"
     }
   },
@@ -3007,13 +3007,13 @@
   },
   {
     "translation": {
-      "en": "- Rachel Cooper. - Say it again.",
+      "en": "-Rachel Cooper. -Say it again.",
       "ja": "レイチェル もう一度"
     }
   },
   {
     "translation": {
-      "en": "Rachel Cooper.",
+      "en": "Rachel Cooper. [sighs]",
       "ja": "レイチェル･クーパー"
     }
   },
@@ -3037,25 +3037,25 @@
   },
   {
     "translation": {
-      "en": "- - I'm coming with you.",
+      "en": "-[clicks switch] -[Rachel] I'm coming with you.",
       "ja": "一緒に行く"
     }
   },
   {
     "translation": {
-      "en": "No, you're not.",
+      "en": "[Ray] No, you're not.",
       "ja": "ダメだ"
     }
   },
   {
     "translation": {
-      "en": "- I'm not leaving you. - This isn't a debate.",
+      "en": "-[Rachel] I'm not leaving you. -This isn't a debate.",
       "ja": "そばにいる ごねるな"
     }
   },
   {
     "translation": {
-      "en": "- You can't do this without me. - I am not putting you in danger, Rae.",
+      "en": "-You can't do this without me. -I am not putting you in danger, Rae.",
       "ja": "私が必要だよね 危険な目に遭う"
     }
   },
@@ -3115,8 +3115,8 @@
   },
   {
     "translation": {
-      "en": "You always say I have to fight harder, so…",
-      "ja": "激しく攻めろと 教えてくれたよね"
+      "en": "[sighs] You always say I have to fight harder, so…",
+      "ja": "激しく攻めろと教えてくれたよね"
     }
   },
   {
@@ -3127,7 +3127,7 @@
   },
   {
     "translation": {
-      "en": "I need you to get outta the car.",
+      "en": "[gently] I need you to get outta the car.",
       "ja": "車を降りてくれ"
     }
   },
@@ -3157,13 +3157,13 @@
   },
   {
     "translation": {
-      "en": "Not this time.",
+      "en": "[Ray] Not this time.",
       "ja": "頼むよ"
     }
   },
   {
     "translation": {
-      "en": "Put your seat belt on.",
+      "en": "[quietly] Put your seat belt on.",
       "ja": "ベルトを"
     }
   },
@@ -3181,7 +3181,7 @@
   },
   {
     "translation": {
-      "en": "- I'm not. -",
+      "en": "-I'm not. -[tense music playing]",
       "ja": "入らない"
     }
   },
@@ -3193,13 +3193,13 @@
   },
   {
     "translation": {
-      "en": "What's this guy doin'?",
+      "en": "[Ray] What's this guy doin'?",
       "ja": "何者だ"
     }
   },
   {
     "translation": {
-      "en": "Look.",
+      "en": "[Rachel] Look.",
       "ja": "見て"
     }
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "translation": {
-      "en": "What is this?",
+      "en": "[Shah] What is this?",
       "ja": "何なんだ"
     }
   },
@@ -3253,13 +3253,13 @@
   },
   {
     "translation": {
-      "en": "- Finish him. - Go!",
+      "en": "-Finish him. -[bodyguard] Go!",
       "ja": "逃げるぞ"
     }
   },
   {
     "translation": {
-      "en": "Rachel, someone else is here. Stay in the car.",
+      "en": "[Ray] Rachel, someone else is here. Stay in the car.",
       "ja": "レイチェル 出るなよ"
     }
   },
@@ -3284,30 +3284,30 @@
   {
     "translation": {
       "en": "Soon, some powerful people are gonna be looking for a little girl who lost both her parents.",
-      "ja": "次の標的は 両親を亡くした娘だ"
+      "ja": "次の標的は両親を亡くした娘だ"
     }
   },
   {
     "translation": {
-      "en": "Daddy!",
+      "en": "[Rachel, echoing] Daddy!",
       "ja": "パパ！"
     }
   },
   {
     "translation": {
-      "en": "- I know there's others. Who are they? - You don't have what it takes.",
+      "en": "-I know there's others. Who are they? -You don't have what it takes.",
       "ja": "黒幕の正体は？ お前なんて…"
     }
   },
   {
     "translation": {
-      "en": "- - Whoa!",
+      "en": "-[gunshot] -[Ray grunts] Whoa!",
       "ja": "クソッ"
     }
   },
   {
     "translation": {
-      "en": "Go!",
+      "en": "[Ray] Go!",
       "ja": "急げ"
     }
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "translation": {
-      "en": "- - Why can't you just listen?",
+      "en": "-[engine cuts out] -Why can't you just listen?",
       "ja": "言いつけを守れ"
     }
   },
@@ -3355,13 +3355,13 @@
   },
   {
     "translation": {
-      "en": "- Hold on. - What are you doing?",
+      "en": "-Hold on. -[Rachel] What are you doing?",
       "ja": "気をつけろ 何するの？"
     }
   },
   {
     "translation": {
-      "en": "Sit down.",
+      "en": "[Ray, softly] Sit down.",
       "ja": "座れ"
     }
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "translation": {
-      "en": "- Then you understand. - I do.",
+      "en": "-Then you understand. -[hit man] I do.",
       "ja": "だから同情を？ そうだ"
     }
   },
@@ -3523,7 +3523,7 @@
   },
   {
     "translation": {
-      "en": "Well, there's three ways this goes down.",
+      "en": "[clicks tongue] Well, there's three ways this goes down.",
       "ja": "こっちの選択肢は３つ"
     }
   },
@@ -3548,7 +3548,7 @@
   {
     "translation": {
       "en": "I walk out the front door, spend the rest of my life hiding in the four corners of this earth,",
-      "ja": "このまま店を出て どこかで静かに暮らす"
+      "ja": "このまま店を出てどこかで静かに暮らす"
     }
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "translation": {
       "en": "This way, at least one of us gets what we want.",
-      "ja": "少なくともどちらかは 目的を遂げる"
+      "ja": "少なくともどちらかは目的を遂げる"
     }
   },
   {
@@ -3614,7 +3614,7 @@
   {
     "translation": {
       "en": "I never set out to kill anyone. Not like you.",
-      "ja": "あんたみたいな 殺し屋とは違う"
+      "ja": "あんたみたいな殺し屋とは違う"
     }
   },
   {
@@ -3632,7 +3632,7 @@
   {
     "translation": {
       "en": "You jumped. I'm just the pavement closing in.",
-      "ja": "君を追い詰めるのが 俺の役目だ"
+      "ja": "君を追い詰めるのが俺の役目だ"
     }
   },
   {
@@ -3680,7 +3680,7 @@
   {
     "translation": {
       "en": "Does the idea of Rachel Cooper being dragged through all of this bother you at all?",
-      "ja": "レイチェルのことが 気がかりだったりする？"
+      "ja": "レイチェルのことが気がかりだったりする？"
     }
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "translation": {
       "en": "I mean, how's… how's a kid supposed to get past all that she's seen?",
-      "ja": "こんな目に遭って どうやって立ち直るの？"
+      "ja": "こんな目に遭ってどうやって立ち直るの？"
     }
   },
   {
@@ -3715,26 +3715,26 @@
   },
   {
     "translation": {
-      "en": "- Just do the work-- - Memo came through.",
+      "en": "-Just do the work-- -[agent] Memo came through.",
       "ja": "余計な… 車が見つかりました"
     }
   },
   {
     "translation": {
-      "en": "- Search crew found Cooper's vehicle. - Where?",
+      "en": "-Search crew found Cooper's vehicle. -Where?",
       "ja": "車が見つかりました どこで？"
     }
   },
   {
     "translation": {
-      "en": "In the woods, 20 miles outside Shah's compound.",
+      "en": "[agent] In the woods, 20 miles outside Shah's compound.",
       "ja": "シャーの屋敷から30キロ先"
     }
   },
   {
     "translation": {
       "en": "Looks like local PD got a call this morning that a tow truck was stolen at a nearby location.",
-      "ja": "今朝レッカー車が 盗まれた場所の近くね"
+      "ja": "今朝レッカー車が盗まれた場所の近くね"
     }
   },
   {
@@ -3745,14 +3745,14 @@
   },
   {
     "translation": {
-      "en": "- I'm on it. - Thank you.",
+      "en": "-[agent] I'm on it. -Thank you.",
       "ja": "了解"
     }
   },
   {
     "translation": {
       "en": "Okay. Fort Pitt Tunnel. Only 12 minutes away.",
-      "ja": "フォートピット･ トンネルまで12分ね"
+      "ja": "フォートピット･トンネルまで12分ね"
     }
   },
   {
@@ -3769,31 +3769,31 @@
   },
   {
     "translation": {
-      "en": "Suspect is in a red tow truck. 10- 80.",
+      "en": "[dispatcher 1, on radio] Suspect is in a red tow truck. 10-80.",
       "ja": "容疑者は赤いレッカー車"
     }
   },
   {
     "translation": {
       "en": "License plate Romeo Tango One Seven Uniform Alpha Sierra.",
-      "ja": "ナンバープレートは “ＲＴ１７ＵＡＳ”"
+      "ja": "ナンバープレートは“ＲＴ１７ＵＡＳ”"
     }
   },
   {
     "translation": {
-      "en": "We may have something here. Westbound on Liberty passing 16th.",
+      "en": "[officer 1] We may have something here. Westbound on Liberty passing 16th.",
       "ja": "リバティ通りを西へ移動中"
     }
   },
   {
     "translation": {
-      "en": "The chopper! It's on us.",
+      "en": "[Rachel] The chopper! It's on us.",
       "ja": "ヘリが追ってくる"
     }
   },
   {
     "translation": {
-      "en": "We've got eyes on the suspect. Making a right turn on 9th.",
+      "en": "[officer 1] We've got eyes on the suspect. Making a right turn on 9th.",
       "ja": "車両を発見 右折で９番通りへ"
     }
   },
@@ -3811,25 +3811,25 @@
   },
   {
     "translation": {
-      "en": "Oh shit!",
+      "en": "[Rachel] Oh shit!",
       "ja": "大変"
     }
   },
   {
     "translation": {
-      "en": "Police! Stop the vehicle now!",
+      "en": "[officer 2, over speaker] Police! Stop the vehicle now!",
       "ja": "警察だ　止まりなさい"
     }
   },
   {
     "translation": {
-      "en": "- Where's the chopper? - It's on your right. On your right.",
+      "en": "-Where's the chopper? -It's on your right. On your right.",
       "ja": "ヘリは？ 右側に"
     }
   },
   {
     "translation": {
-      "en": "- Get outta the way! -",
+      "en": "-Get outta the way! -[people scream]",
       "ja": "どけ！"
     }
   },
@@ -3841,13 +3841,13 @@
   },
   {
     "translation": {
-      "en": "- God damn it! Hold on. Hang on! -",
+      "en": "-God damn it! Hold on. Hang on! -[Rachel screams]",
       "ja": "マズい しっかりつかまれ"
     }
   },
   {
     "translation": {
-      "en": "All units, suspect is armed and dangerous.",
+      "en": "[dispatcher 1, on radio] All units, suspect is armed and dangerous.",
       "ja": "容疑者は武器を携帯"
     }
   },
@@ -3859,37 +3859,37 @@
   },
   {
     "translation": {
-      "en": "The game's letting out.",
+      "en": "[Ray] The game's letting out.",
       "ja": "観客が出てくる"
     }
   },
   {
     "translation": {
-      "en": "Oh shit!",
+      "en": "[quietly] Oh shit!",
       "ja": "マズいな"
     }
   },
   {
     "translation": {
-      "en": "- Got eyes on the suspect. - On the move!",
+      "en": "-[dispatcher 2] Got eyes on the suspect. -[officer 3] On the move!",
       "ja": "容疑者は移動中だ"
     }
   },
   {
     "translation": {
-      "en": "Suspect on foot. I repeat, suspect on foot.",
+      "en": "[officer 4, on radio] Suspect on foot. I repeat, suspect on foot.",
       "ja": "容疑者は車を降りて逃走"
     }
   },
   {
     "translation": {
-      "en": "Suspect is entering PNC Park.",
+      "en": "[dispatcher 2] Suspect is entering PNC Park.",
       "ja": "ＰＮＣパークに侵入"
     }
   },
   {
     "translation": {
-      "en": "If he's down here, we squeeze him out. I'll take the upper level.",
+      "en": "[Meeker] If he's down here, we squeeze him out. I'll take the upper level.",
       "ja": "私は上を捜すから"
     }
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "translation": {
-      "en": "- Suspect spotted. -",
+      "en": "-[officer 5] Suspect spotted. -[crowd cheering]",
       "ja": "容疑者発見"
     }
   },
@@ -3919,19 +3919,19 @@
   },
   {
     "translation": {
-      "en": "Move!",
+      "en": "[Rothman] Move!",
       "ja": "急げ"
     }
   },
   {
     "translation": {
-      "en": "- I got eyes on. - Copy.",
+      "en": "-[officer 7] I got eyes on. -[Rothman] Copy.",
       "ja": "いたぞ"
     }
   },
   {
     "translation": {
-      "en": "Wait!",
+      "en": "[Meeker] Wait!",
       "ja": "待って"
     }
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "translation": {
-      "en": "- - I don't know you.",
+      "en": "-[somber music playing] -I don't know you.",
       "ja": "あんたは？"
     }
   },
@@ -4009,31 +4009,31 @@
   },
   {
     "translation": {
-      "en": "Your father was a good man.",
+      "en": "[Meeker] Your father was a good man.",
       "ja": "お父さんは善人よ"
     }
   },
   {
     "translation": {
-      "en": "You are not him.",
+      "en": "[Meeker] You are not him.",
       "ja": "あなたは あなた"
     }
   },
   {
     "translation": {
-      "en": "- Say your name. -",
+      "en": "-[Meeker] Say your name. -[Rachel gasps]",
       "ja": "名前を言って"
     }
   },
   {
     "translation": {
-      "en": "You are in control.",
+      "en": "[Meeker] You are in control.",
       "ja": "主導権を握って"
     }
   },
   {
     "translation": {
-      "en": "Fuck.",
+      "en": "[sighs] Fuck.",
       "ja": "まったく"
     }
   },
@@ -4045,25 +4045,25 @@
   },
   {
     "translation": {
-      "en": "Rachel. I'll see ya soon.",
+      "en": "[hit man] Rachel. I'll see ya soon.",
       "ja": "レイチェル また会おう"
     }
   },
   {
     "translation": {
-      "en": "Say your name.",
+      "en": "[echoing] Say your name.",
       "ja": "名前を言って"
     }
   },
   {
     "translation": {
-      "en": "Rachel. We're gonna be okay.",
+      "en": "[Ray, echoing] Rachel. We're gonna be okay.",
       "ja": "レイチェル 何とかなるさ"
     }
   },
   {
     "translation": {
-      "en": "He shouldn't have been killed.",
+      "en": "[Meeker] He shouldn't have been killed.",
       "ja": "お父さんは気の毒に"
     }
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "translation": {
-      "en": "Just say your name!",
+      "en": "[Meeker] Just say your name!",
       "ja": "名前を"
     }
   },
@@ -4093,8 +4093,8 @@
   },
   {
     "translation": {
-      "en": "We have a positive identification of the suspect. Her name is Rachel Cooper.",
-      "ja": "容疑者の氏名は レイチェル･クーパー"
+      "en": "[dispatcher 2] We have a positive identification of the suspect. Her name is Rachel Cooper.",
+      "ja": "容疑者の氏名はレイチェル･クーパー"
     }
   },
   {
@@ -4105,25 +4105,25 @@
   },
   {
     "translation": {
-      "en": "Her name is Rachel Cooper. Eighteen years of age.",
+      "en": "[Meeker] Her name is Rachel Cooper. Eighteen years of age.",
       "ja": "レイチェル･クーパー 18歳"
     }
   },
   {
     "translation": {
-      "en": "Any family to contact?",
+      "en": "[paramedic] Any family to contact?",
       "ja": "家族は？"
     }
   },
   {
     "translation": {
-      "en": "Both parents deceased.",
+      "en": "[Meeker] Both parents deceased.",
       "ja": "両親は死亡"
     }
   },
   {
     "translation": {
-      "en": "Rachel, stop!",
+      "en": "[Meeker] Rachel, stop!",
       "ja": "やめなさい"
     }
   },
@@ -4177,25 +4177,25 @@
   },
   {
     "translation": {
-      "en": "We're with you now.",
+      "en": "[softly] We're with you now.",
       "ja": "今も一緒だ"
     }
   },
   {
     "translation": {
-      "en": "The fight begins here.",
+      "en": "[Morgan] The fight begins here.",
       "ja": "戦いはここから始まります 戦いはここから始まります 〝ダイアナ･モーガン〞"
     }
   },
   {
     "translation": {
       "en": "Big business and corporate interests have corroded our politics.",
-      "ja": "大企業と利権が 政治を腐らせました"
+      "ja": "大企業と利権が政治を腐らせました"
     }
   },
   {
     "translation": {
-      "en": "And I believe that our country is on the verge of imploding.",
+      "en": "[Morgan] And I believe that our country is on the verge of imploding.",
       "ja": "我々の国は崩壊寸前です"
     }
   },
@@ -4207,37 +4207,37 @@
   },
   {
     "translation": {
-      "en": "We need someone who will clean…",
-      "ja": "必要なのは 汚れを一掃する人物です"
+      "en": "[Morgan] We need someone who will clean…",
+      "ja": "必要なのは汚れを一掃する人物です"
     }
   },
   {
     "translation": {
-      "en": "…out the rot!",
-      "ja": "必要なのは 汚れを一掃する人物です 腐敗の撲滅を！"
+      "en": "[Morgan and crowd] …out the rot!",
+      "ja": "必要なのは汚れを一掃する人物です 腐敗の撲滅を！"
     }
   },
   {
     "translation": {
-      "en": "- Clean out the rot! -",
+      "en": "-Clean out the rot! -[crowd cheers]",
       "ja": "腐敗の撲滅を！"
     }
   },
   {
     "translation": {
       "en": "Today, I am announcing my bid to be your next senator",
-      "ja": "本日 上院議員への立候補を 表明します"
+      "ja": "本日 上院議員への立候補を表明します"
     }
   },
   {
     "translation": {
       "en": "from the great state of Pennsylvania.",
-      "ja": "偉大なる ペンシルベニア州から"
+      "ja": "偉大なるペンシルベニア州から"
     }
   },
   {
     "translation": {
-      "en": "That's right.",
+      "en": "[chuckles] That's right.",
       "ja": "ありがとう"
     }
   },
@@ -4279,13 +4279,13 @@
   },
   {
     "translation": {
-      "en": "- - Where'd you get this?",
+      "en": "-[sighs] -[Ray] Where'd you get this?",
       "ja": "これは？"
     }
   },
   {
     "translation": {
-      "en": "- It's Mom's. -",
+      "en": "-It's Mom's. -[Ray chuckles]",
       "ja": "ママの"
     }
   },
@@ -4304,7 +4304,7 @@
   {
     "translation": {
       "en": "and it was freezing, and I gave her my jacket. And she never gave it back.",
-      "ja": "寒くて貸したら そのままになった"
+      "ja": "寒くて貸したらそのままになった"
     }
   },
   {
@@ -4315,13 +4315,13 @@
   },
   {
     "translation": {
-      "en": "It's my turn to steal it from her.",
+      "en": "[Rachel] It's my turn to steal it from her.",
       "ja": "私がもらう番だね"
     }
   },
   {
     "translation": {
-      "en": "Come on, baby.",
+      "en": "[Ray] Come on, baby.",
       "ja": "どうした"
     }
   },
@@ -4333,13 +4333,13 @@
   },
   {
     "translation": {
-      "en": "Get up, sweet girl.",
+      "en": "[Ray, emphatically] Get up, sweet girl.",
       "ja": "起きろ　俺の子だろ"
     }
   },
   {
     "translation": {
-      "en": "Calling the FBI. And when they get here,",
+      "en": "[Rachel] Calling the FBI. And when they get here,",
       "ja": "ここへＦＢＩを呼ぶから"
     }
   },
@@ -4381,7 +4381,7 @@
   },
   {
     "translation": {
-      "en": "You bring the FBI here, and…",
+      "en": "[Morgan] You bring the FBI here, and…",
       "ja": "ＦＢＩが来たら"
     }
   },
@@ -4393,13 +4393,13 @@
   },
   {
     "translation": {
-      "en": "- The crazy girl who killed five men? - No.",
+      "en": "-The crazy girl who killed five men? -No.",
       "ja": "５人を殺した少女か 私か"
     }
   },
   {
     "translation": {
-      "en": "- Or me? - No. We never meant to hurt anyone.",
+      "en": "-[Morgan] Or me? -No. We never meant to hurt anyone.",
       "ja": "５人を殺した少女か 私か 殺す気はなかった"
     }
   },
@@ -4417,13 +4417,13 @@
   },
   {
     "translation": {
-      "en": "- I can make this nightmare end. - Shut up!",
+      "en": "-I can make this nightmare end. -Shut up!",
       "ja": "私が救い出してあげる 黙って"
     }
   },
   {
     "translation": {
-      "en": "- You're the one behind BioPrime. - I wrestled them into submission.",
+      "en": "-You're the one behind BioPrime. -I wrestled them into submission.",
       "ja": "黒幕のくせに ねじ伏せたの"
     }
   },
@@ -4465,13 +4465,13 @@
   },
   {
     "translation": {
-      "en": "- You still can. - How?",
+      "en": "-[shakily] You still can. -How?",
       "ja": "今 信じて 無理よ"
     }
   },
   {
     "translation": {
-      "en": "I know people at the DOJ.",
+      "en": "[inhales sharply] I know people at the DOJ.",
       "ja": "司法省のツテを使い"
     }
   },
@@ -4507,7 +4507,7 @@
   },
   {
     "translation": {
-      "en": "- - Stop calling me that. You're a liar.",
+      "en": "-[gasps] -Stop calling me that. You're a liar.",
       "ja": "やめてよ　この嘘(うそ)つき"
     }
   },
@@ -4531,14 +4531,14 @@
   },
   {
     "translation": {
-      "en": "I fought against them!",
+      "en": "I fought against them! [panting]",
       "ja": "私は戦ったのよ"
     }
   },
   {
     "translation": {
       "en": "You took their bribe, and you gave them exclusive contracts.",
-      "ja": "賄賂を受け取り 独占契約を与えた"
+      "ja": "賄賂を受け取り独占契約を与えた"
     }
   },
   {
@@ -4555,13 +4555,13 @@
   },
   {
     "translation": {
-      "en": "Now tell the truth.",
+      "en": "[softly] Now tell the truth.",
       "ja": "白状して"
     }
   },
   {
     "translation": {
-      "en": "- - Tell me the truth.",
+      "en": "-[Morgan gasps] -[firmly] Tell me the truth.",
       "ja": "真実を話して"
     }
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "translation": {
-      "en": "Security!",
+      "en": "[yelling] Security!",
       "ja": "侵入者よ！"
     }
   },
@@ -4639,49 +4639,49 @@
   },
   {
     "translation": {
-      "en": "Yeah, but she got her revenge. Why come back?",
+      "en": "[Rothman] Yeah, but she got her revenge. Why come back?",
       "ja": "復讐は果たしたよな"
     }
   },
   {
     "translation": {
-      "en": "- Just came in. - Thank you, sir.",
+      "en": "-[agent] Just came in. -Thank you, sir.",
       "ja": "情報だ お世話様"
     }
   },
   {
     "translation": {
-      "en": "- Holy shit. - What?",
+      "en": "-Holy shit. -[Meeker] What?",
       "ja": "まさか 何？"
     }
   },
   {
     "translation": {
-      "en": "Rachel Cooper was spotted at Diana Morgan's campaign rally yesterday afternoon.",
-      "ja": "モーガンの選挙事務所に 現れたそうだ"
+      "en": "[Rothman] Rachel Cooper was spotted at Diana Morgan's campaign rally yesterday afternoon.",
+      "ja": "モーガンの選挙事務所に現れたそうだ"
     }
   },
   {
     "translation": {
-      "en": "What was she doing there?",
+      "en": "[Meeker] What was she doing there?",
       "ja": "目的は何？"
     }
   },
   {
     "translation": {
-      "en": "The fugitive from last night's assassination attempt…  Thanks. …on Diana Morgan is still on the loose.",
-      "ja": "昨夜の殺人未遂の容疑者は まだ捕まっていません"
+      "en": "[reporter on TV] The fugitive from last night's assassination attempt… [Rachel] Thanks. …on Diana Morgan is still on the loose.",
+      "ja": "昨夜の殺人未遂の容疑者はまだ捕まっていません"
     }
   },
   {
     "translation": {
       "en": "Pittsburgh police are asking anyone with information to please come forward.",
-      "ja": "情報をお持ちの方は 警察へ連絡を"
+      "ja": "情報をお持ちの方は警察へ連絡を"
     }
   },
   {
     "translation": {
-      "en": "First Keeley, then Shah, now a congresswoman?",
+      "en": "[Rothman] First Keeley, then Shah, now a congresswoman?",
       "ja": "次の狙いはモーガン議員？"
     }
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "translation": {
-      "en": "Rachel clearly knows something.",
+      "en": "[Meeker] Rachel clearly knows something.",
       "ja": "何かつかんだのね"
     }
   },
@@ -4705,13 +4705,13 @@
   },
   {
     "translation": {
-      "en": "Look at this. Rachel Cooper just sent us something.",
+      "en": "[Meeker] Look at this. Rachel Cooper just sent us something.",
       "ja": "見て　レイチェルからよ"
     }
   },
   {
     "translation": {
-      "en": "I took the bribe. I ordered the hit.",
+      "en": "[Morgan on recording] I took the bribe. I ordered the hit.",
       "ja": "賄賂を受け取った 暗殺の指示も"
     }
   },
@@ -4723,49 +4723,49 @@
   },
   {
     "translation": {
-      "en": "…developments in the assassination attempt.",
+      "en": "[reporter on TV] …developments in the assassination attempt.",
       "ja": "モーガン議員襲撃の続報です 〝空港〞 モーガン議員襲撃の続報です"
     }
   },
   {
     "translation": {
       "en": "According to sources, the FBI has arrested the congresswoman regarding her connection",
-      "ja": "ＦＢＩは殺人関与の疑いで 議員を逮捕しました"
+      "ja": "ＦＢＩは殺人関与の疑いで議員を逮捕しました"
     }
   },
   {
     "translation": {
       "en": "to the recent murders of BioPrime executives",
-      "ja": "ＦＢＩは殺人関与の疑いで 議員を逮捕しました 被害者は製薬会社の キーリー氏とシャー氏"
+      "ja": "ＦＢＩは殺人関与の疑いで議員を逮捕しました 被害者は製薬会社のキーリー氏とシャー氏"
     }
   },
   {
     "translation": {
       "en": "Simon Keeley and Vinod Shah",
-      "ja": "被害者は製薬会社の キーリー氏とシャー氏"
+      "ja": "被害者は製薬会社のキーリー氏とシャー氏"
     }
   },
   {
     "translation": {
-      "en": "and the two- year- old unsolved murders of Martin Bennett and Ray Cooper.",
-      "ja": "ベネット記者と レイ･クーパー氏"
+      "en": "and the two-year-old unsolved murders of Martin Bennett and Ray Cooper.",
+      "ja": "ベネット記者とレイ･クーパー氏"
     }
   },
   {
     "translation": {
       "en": "Neither BioPrime or the FBI would comment on this ongoing investigation.",
-      "ja": "製薬会社もＦＢＩも 声明は出していません"
+      "ja": "製薬会社もＦＢＩも声明は出していません"
     }
   },
   {
     "translation": {
       "en": "…Pennsylvania is allegedly connected to the deaths of reporter Martin Bennett and Rachel Cooper's father nearly two years ago.",
-      "ja": "２年前のベネット記者と レイ･クーパー氏の死にも…"
+      "ja": "２年前のベネット記者とレイ･クーパー氏の死にも…"
     }
   },
   {
     "translation": {
-      "en": "The past is like a dream.",
+      "en": "[Ray] The past is like a dream.",
       "ja": "過去は夢のようだ"
     }
   },
@@ -4801,7 +4801,7 @@
   },
   {
     "translation": {
-      "en": "…and they begin?",
+      "en": "[Rachel] …and they begin?",
       "ja": "手を放す？"
     }
   }

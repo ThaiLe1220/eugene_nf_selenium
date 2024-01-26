@@ -7,7 +7,7 @@
   },
   {
     "translation": {
-      "en": "I'm sorry. I'm sorry!",
+      "en": "[screams] I'm sorry. I'm sorry!",
       "ja": "ごめん　許して"
     }
   },
@@ -19,7 +19,7 @@
   },
   {
     "translation": {
-      "en": "- Don't! No! -",
+      "en": "-Don't! No! -[roars]",
       "ja": "やめろ！"
     }
   },
@@ -62,7 +62,7 @@
   {
     "translation": {
       "en": "What do we do, Jaskier? What do we do in situations like this? We…",
-      "ja": "ヤスキエル 考えろ どうする？ そう…"
+      "ja": "ヤスキエル 考えろどうする？ そう…"
     }
   },
   {
@@ -73,19 +73,19 @@
   },
   {
     "translation": {
-      "en": "Hello!",
+      "en": "[yells] Hello!",
       "ja": "誰か…"
     }
   },
   {
     "translation": {
-      "en": "Hello!",
+      "en": "[screams] Hello!",
       "ja": "誰かいるか"
     }
   },
   {
     "translation": {
-      "en": "- Hello, Sandpiper. - Aah! Aah…",
+      "en": "-Hello, Sandpiper. -[yelps] Aah! Aah…",
       "ja": "やあ イソシギ"
     }
   },
@@ -97,7 +97,7 @@
   },
   {
     "translation": {
-      "en": "Uh, for the record, I'm not…",
+      "en": "[laughs] Uh, for the record, I'm not…",
       "ja": "言っておくが…"
     }
   },
@@ -109,7 +109,7 @@
   },
   {
     "translation": {
-      "en": "Good- looking man, nice boots.",
+      "en": "Good-looking man, nice boots. [laughs]",
       "ja": "男前で いいブーツだ"
     }
   },
@@ -121,7 +121,7 @@
   },
   {
     "translation": {
-      "en": "Aah! Ow, ow!",
+      "en": "[yelps] Aah! Ow, ow!",
       "ja": "痛い"
     }
   },
@@ -151,7 +151,7 @@
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[double] No.",
       "ja": "いいや"
     }
   },
@@ -175,7 +175,7 @@
   },
   {
     "translation": {
-      "en": "- Then why do you look like me? - Because you love yourself.",
+      "en": "-Then why do you look like me? -Because you love yourself.",
       "ja": "なぜ僕の姿に？ ナルシストだから"
     }
   },
@@ -193,7 +193,7 @@
   },
   {
     "translation": {
-      "en": "Better?",
+      "en": "[female voice] Better?",
       "ja": "どう？"
     }
   },
@@ -236,37 +236,37 @@
   {
     "translation": {
       "en": "You're a bard. I am a storyteller.",
-      "ja": "あなたは吟遊詩人で 私は語り部"
+      "ja": "あなたは吟遊詩人で私は語り部"
     }
   },
   {
     "translation": {
-      "en": "- Of a sort. -",
+      "en": "-Of a sort. -[laughs]",
       "ja": "同類よ"
     }
   },
   {
     "translation": {
-      "en": "I beg to differ. You-- you are a time- stopping, shape- shifting,",
+      "en": "I beg to differ. You-- you are a time-stopping, shape-shifting,",
       "ja": "いや 違う 君は時間を止めて形を変え"
     }
   },
   {
     "translation": {
-      "en": "probably- gonna- eat- me- without- salt at- some- point sort of storyteller.",
-      "ja": "僕を食べるつもりでいる 語り部だろ？"
+      "en": "probably-gonna-eat-me-without-salt at-some-point sort of storyteller.",
+      "ja": "僕を食べるつもりでいる語り部だろ？"
     }
   },
   {
     "translation": {
       "en": "I-- I'm just-- I'm just a man, with an admittedly… fun hat. We're not the same. You're--",
-      "ja": "僕は 変な帽子をかぶった ただの男だから君とは違う"
+      "ja": "僕は 変な帽子をかぶったただの男だから君とは違う"
     }
   },
   {
     "translation": {
       "en": "I slip between worlds and times, collecting forgotten stories.",
-      "ja": "世界中から 忘れられた物語を集め―"
+      "ja": "世界中から忘れられた物語を集め―"
     }
   },
   {
@@ -308,7 +308,7 @@
   {
     "translation": {
       "en": "A bard the Scoia'tael risked attacking a Temerian army camp to save.",
-      "ja": "テメリア軍を襲撃し スコイア＝テルが助けた詩人"
+      "ja": "テメリア軍を襲撃しスコイア＝テルが助けた詩人"
     }
   },
   {
@@ -332,7 +332,7 @@
   {
     "translation": {
       "en": "but elfkind cannot win fuelled by pain and anger alone.",
-      "ja": "でも苦痛と怒りだけでは エルフに勝ち目はない"
+      "ja": "でも苦痛と怒りだけではエルフに勝ち目はない"
     }
   },
   {
@@ -344,7 +344,7 @@
   {
     "translation": {
       "en": "The elves need a story lost to time. One of the few who overcame the many.",
-      "ja": "少人数で大勢に打ち勝った 物語がね"
+      "ja": "少人数で大勢に打ち勝った物語がね"
     }
   },
   {
@@ -355,7 +355,7 @@
   },
   {
     "translation": {
-      "en": "The St… the Story of…",
+      "en": "[laughing] The St… the Story of…",
       "ja": "７人の物語…"
     }
   },
@@ -368,7 +368,7 @@
   {
     "translation": {
       "en": "A bunch of warriors join forces to fight against all odds.",
-      "ja": "戦士たちが力を合わせ あらゆる困難に立ち向かう"
+      "ja": "戦士たちが力を合わせあらゆる困難に立ち向かう"
     }
   },
   {
@@ -386,13 +386,13 @@
   {
     "translation": {
       "en": "Seven estranged warriors who come together to fight an unstoppable empire,",
-      "ja": "帝国に立ち向かうために 結束した７人の戦士"
+      "ja": "帝国に立ち向かうために結束した７人の戦士"
     }
   },
   {
     "translation": {
       "en": "bring humans and monsters to the world via the Conjunction of the Spheres,",
-      "ja": "彼らが“天体の合”によって 人間と怪物をもたらし―"
+      "ja": "彼らが“天体の合”によって人間と怪物をもたらし―"
     }
   },
   {
@@ -440,7 +440,7 @@
   {
     "translation": {
       "en": "You're telling me that the first version of a witcher was a badass elf?",
-      "ja": "つまり最初のウィッチャーは エルフだったと？"
+      "ja": "つまり最初のウィッチャーはエルフだったと？"
     }
   },
   {
@@ -494,7 +494,7 @@
   {
     "translation": {
       "en": "destined to be bound together in a blood quest.",
-      "ja": "血の探求で 結ばれる運命にあった"
+      "ja": "血の探求で結ばれる運命にあった"
     }
   },
   {
@@ -518,13 +518,13 @@
   {
     "translation": {
       "en": "The mages Zacaré and Syndril.",
-      "ja": "魔術師のザッカリーと シンドリル"
+      "ja": "魔術師のザッカリーとシンドリル"
     }
   },
   {
     "translation": {
       "en": "Meldof and her vengeful hammer, Gwen.",
-      "ja": "メルドフと 復讐(ふくしゅう)のハンマー“グウェン”"
+      "ja": "メルドフと復讐(ふくしゅう)のハンマー“グウェン”"
     }
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "translation": {
-      "en": "Good morning. Alms for an ex- soldier?",
+      "en": "[male elf, in Elvish] Good morning. Alms for an ex-soldier?",
       "ja": "〈どうか元兵士に施しを〉"
     }
   },
@@ -560,18 +560,18 @@
   {
     "translation": {
       "en": "Hasn't been music on the island in years.",
-      "ja": "〈この島では 何年も聞いてない〉"
+      "ja": "〈この島では何年も聞いてない〉"
     }
   },
   {
     "translation": {
-      "en": "Good luck.",
+      "en": "[in Common Speech] Good luck.",
       "ja": "幸運を"
     }
   },
   {
     "translation": {
-      "en": "- - You too.",
+      "en": "-[stringed instrument playing] -You too.",
       "ja": "君もな"
     }
   },
@@ -608,7 +608,7 @@
   {
     "translation": {
       "en": "♪ Rise up from the soil that they own ♪",
-      "ja": "彼らが所有する土地から 　　　　　　　　立ち上がれ"
+      "ja": "彼らが所有する土地から　　　　　　　　立ち上がれ"
     }
   },
   {
@@ -619,7 +619,7 @@
   },
   {
     "translation": {
-      "en": "- ♪ Let no one doubt our cause… ♪ - Oh!",
+      "en": "-♪ Let no one doubt our cause… ♪ -Oh!",
       "ja": "私たちの信念を誰にも…"
     }
   },
@@ -637,14 +637,14 @@
   },
   {
     "translation": {
-      "en": "- ♪ Another will grow… ♪ - I'd say you're ripe for flowering.",
+      "en": "-♪ Another will grow… ♪ -I'd say you're ripe for flowering.",
       "ja": "開花の時期だろ"
     }
   },
   {
     "translation": {
       "en": "Ithlinne is not right, sir. She has fits.",
-      "ja": "イスリンはダメです 発作を起こす"
+      "ja": "イスリンはダメです発作を起こす"
     }
   },
   {
@@ -655,13 +655,13 @@
   },
   {
     "translation": {
-      "en": "- - Ma!",
+      "en": "-[grunts] -Ma!",
       "ja": "母さん"
     }
   },
   {
     "translation": {
-      "en": "I'll fucking stop you!  Fucking come on!",
+      "en": "I'll fucking stop you! [yells] Fucking come on!",
       "ja": "俺が相手だ かかってこい"
     }
   },
@@ -685,7 +685,7 @@
   },
   {
     "translation": {
-      "en": "The Lark!",
+      "en": "[all] The Lark!",
       "ja": "ヒバリに！"
     }
   },
@@ -697,14 +697,14 @@
   },
   {
     "translation": {
-      "en": "- ♪ Let no one doubt our cause ♪ -",
-      "ja": "私たちの信念を 　　誰にも疑わせるな"
+      "en": "-♪ Let no one doubt our cause ♪ -[crowd joins in]",
+      "ja": "私たちの信念を　　誰にも疑わせるな"
     }
   },
   {
     "translation": {
       "en": "♪ Rise up and let them hear our roar ♪",
-      "ja": "立ち上がり 　　雄たけびを聞かせろ"
+      "ja": "立ち上がり　　雄たけびを聞かせろ"
     }
   },
   {
@@ -715,26 +715,26 @@
   },
   {
     "translation": {
-      "en": "Go on, you girl!",
+      "en": "[elfyn] Go on, you girl!",
       "ja": "いいぞ！"
     }
   },
   {
     "translation": {
-      "en": "Far south from Inis Dubh,",
-      "ja": "イニシュ･ドーブの はるか南 シン＝トリアの首都 シン＝トリア イニシュ･ドーブの はるか南"
+      "en": "[mysterious elfyn] Far south from Inis Dubh,",
+      "ja": "イニシュ･ドーブのはるか南 シン＝トリアの首都シン＝トリアイニシュ･ドーブのはるか南"
     }
   },
   {
     "translation": {
       "en": "the newly crowned King Alvitir, determined to be seen amongst his people,",
-      "ja": "シン＝トリアの首都 シン＝トリア シン＝トリアの首都 シン＝トリア アルヴァティア新王が 民衆の前に姿を見せた アルヴァティア新王が 民衆の前に姿を見せた"
+      "ja": "シン＝トリアの首都シン＝トリア シン＝トリアの首都シン＝トリアアルヴァティア新王が民衆の前に姿を見せた アルヴァティア新王が民衆の前に姿を見せた"
     }
   },
   {
     "translation": {
       "en": "toured the lowborn streets,",
-      "ja": "暗殺の脅威にも かかわらず"
+      "ja": "暗殺の脅威にもかかわらず"
     }
   },
   {
@@ -752,7 +752,7 @@
   {
     "translation": {
       "en": "But first they would have to get through the royal protectors, Dog Clan.",
-      "ja": "しかし犬の民が 王室の護衛についていた"
+      "ja": "しかし犬の民が王室の護衛についていた"
     }
   },
   {
@@ -769,7 +769,7 @@
   },
   {
     "translation": {
-      "en": "Princess!",
+      "en": "[Fjall] Princess!",
       "ja": "王女様"
     }
   },
@@ -781,7 +781,7 @@
   },
   {
     "translation": {
-      "en": "Get away!",
+      "en": "[elf] Get away!",
       "ja": "どけ"
     }
   },
@@ -799,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "- Good? - Good.",
+      "en": "-[Fjall] Good? -[Alvitir] Good.",
       "ja": "ご無事で？ ああ"
     }
   },
@@ -811,7 +811,7 @@
   },
   {
     "translation": {
-      "en": "- Apologies. - It's all right, Fjall.",
+      "en": "-Apologies. -It's all right, Fjall.",
       "ja": "謝罪を いいのよ"
     }
   },
@@ -830,7 +830,7 @@
   {
     "translation": {
       "en": "No one's in or out until we find out who's behind this.",
-      "ja": "首謀者を特定するまで 危険です"
+      "ja": "首謀者を特定するまで危険です"
     }
   },
   {
@@ -883,7 +883,7 @@
   },
   {
     "translation": {
-      "en": "- We agreed. -",
+      "en": "-We agreed. -[sighs]",
       "ja": "決めたはず"
     }
   },
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "- If we'd have been caught-- - But we weren't.",
+      "en": "-If we'd have been caught-- -But we weren't.",
       "ja": "もしバレたら… バレないわ"
     }
   },
@@ -932,7 +932,7 @@
   {
     "translation": {
       "en": "No markings on the assassins. Captain Eredin is rounding up suspects for interrogation.",
-      "ja": "暗殺者の手がかりがなく エレディン将軍が調べてる"
+      "ja": "暗殺者の手がかりがなくエレディン将軍が調べてる"
     }
   },
   {
@@ -1004,13 +1004,13 @@
   {
     "translation": {
       "en": "Thank the gods Kareg didn't live to see you betray your own clan.",
-      "ja": "ケリッグが生きていたら 悲しむだろう"
+      "ja": "ケリッグが生きていたら悲しむだろう"
     }
   },
   {
     "translation": {
       "en": "I know you wished he returned from battle that day instead of me.",
-      "ja": "俺ではなく 兄の帰りを願ってた"
+      "ja": "俺ではなく兄の帰りを願ってた"
     }
   },
   {
@@ -1063,7 +1063,7 @@
   },
   {
     "translation": {
-      "en": "The border.",
+      "en": "[Fjall] The border.",
       "ja": "国境だ"
     }
   },
@@ -1088,7 +1088,7 @@
   {
     "translation": {
       "en": "you have broken your oath as royal protector",
-      "ja": "王室の護衛としての 誓いを破り"
+      "ja": "王室の護衛としての誓いを破り"
     }
   },
   {
@@ -1100,7 +1100,7 @@
   {
     "translation": {
       "en": "You are hereby banished from Xin'trea.",
-      "ja": "お前をシン＝トリアから 追放する"
+      "ja": "お前をシン＝トリアから追放する"
     }
   },
   {
@@ -1129,7 +1129,7 @@
   },
   {
     "translation": {
-      "en": "- Shall I guess? -",
+      "en": "-[elf] Shall I guess? -[door closes]",
       "ja": "当てようか？"
     }
   },
@@ -1148,24 +1148,24 @@
   {
     "translation": {
       "en": "You're obsessed. You need at least one friend who isn't a book.",
-      "ja": "夢中だな 本以外の友達が必要だ"
+      "ja": "夢中だな本以外の友達が必要だ"
     }
   },
   {
     "translation": {
       "en": "I don't know how you live like this. Mm-- The smell alone.",
-      "ja": "どうやったら こんな生活ができるんだ？"
+      "ja": "どうやったらこんな生活ができるんだ？"
     }
   },
   {
     "translation": {
       "en": "All this is our future. What has happened will happen again.",
-      "ja": "私たちの未来なのよ 過去の出来事は再び起こる"
+      "ja": "私たちの未来なのよ過去の出来事は再び起こる"
     }
   },
   {
     "translation": {
-      "en": "- Oh, you're a seer now. - No.",
+      "en": "-Oh, you're a seer now. -No.",
       "ja": "お前は予言者だ 違う"
     }
   },
@@ -1178,13 +1178,13 @@
   {
     "translation": {
       "en": "Dwarven script, fifteen hundred years old, telling of Solryth's arrival.",
-      "ja": "1500年前のドワーフの文字は ソルリスの到来を告げている"
+      "ja": "1500年前のドワーフの文字はソルリスの到来を告げている"
     }
   },
   {
     "translation": {
       "en": "The siege of their city before she drove them out",
-      "ja": "彼女は町を包囲して ドワーフたちを追い出し"
+      "ja": "彼女は町を包囲してドワーフたちを追い出し"
     }
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "translation": {
       "en": "I could be of use to you, you know.",
-      "ja": "兄さんの 役に立てるかもしれない"
+      "ja": "兄さんの役に立てるかもしれない"
     }
   },
   {
@@ -1232,19 +1232,19 @@
   {
     "translation": {
       "en": "But there is a role for you, sister, in all of this.",
-      "ja": "でも お前に ピッタリの役がある"
+      "ja": "でも お前にピッタリの役がある"
     }
   },
   {
     "translation": {
       "en": "Now that your little indiscretion with Fjall has been taken care of,",
-      "ja": "フィヨールとの過ちは 水に流そう"
+      "ja": "フィヨールとの過ちは水に流そう"
     }
   },
   {
     "translation": {
-      "en": "it's time to look to the future. - I've found a worthy suitor for you. -",
-      "ja": "お前にふさわしい 結婚相手を見つけた"
+      "en": "it's time to look to the future. -I've found a worthy suitor for you. -[sighs]",
+      "ja": "お前にふさわしい結婚相手を見つけた"
     }
   },
   {
@@ -1256,13 +1256,13 @@
   {
     "translation": {
       "en": "A marriage between our kingdoms would make him amenable to signing.",
-      "ja": "彼と結婚すれば 条約を結びやすくなる"
+      "ja": "彼と結婚すれば条約を結びやすくなる"
     }
   },
   {
     "translation": {
       "en": "Of course. Whatever… you need to achieve peace.",
-      "ja": "平和を実現するためなら 何でもするわ"
+      "ja": "平和を実現するためなら何でもするわ"
     }
   },
   {
@@ -1279,14 +1279,14 @@
   },
   {
     "translation": {
-      "en": "Deep in the Valley of Lost Souls,",
+      "en": "[mysterious elfyn] Deep in the Valley of Lost Souls,",
       "ja": "失われた魂の谷の奥深く"
     }
   },
   {
     "translation": {
       "en": "a lone warrior sought answers to the strange skies",
-      "ja": "空の異変に気づいた 孤独な戦士が"
+      "ja": "空の異変に気づいた孤独な戦士が"
     }
   },
   {
@@ -1310,7 +1310,7 @@
   {
     "translation": {
       "en": "For another had learned to tear the veils between worlds.",
-      "ja": "一方で別世界のベールを はぎ取る者がいた"
+      "ja": "一方で別世界のベールをはぎ取る者がいた"
     }
   },
   {
@@ -1321,8 +1321,8 @@
   },
   {
     "translation": {
-      "en": "Defeated or victorious, Chief Sage Balor?",
-      "ja": "敗北か勝利のどちらだ？ 大賢者バラー"
+      "en": "[female voice, echoing] Defeated or victorious, Chief Sage Balor?",
+      "ja": "敗北か勝利のどちらだ？大賢者バラー"
     }
   },
   {
@@ -1345,7 +1345,7 @@
   },
   {
     "translation": {
-      "en": "I was born into Raven Clan.",
+      "en": "[Lark] I was born into Raven Clan.",
       "ja": "鴉(からす)の民に生まれた"
     }
   },
@@ -1364,13 +1364,13 @@
   {
     "translation": {
       "en": "Loyal bodyguard to King Midir and the royal family of Pryshia.",
-      "ja": "プリシアのミディル王を守る 忠実な護衛"
+      "ja": "プリシアのミディル王を守る忠実な護衛"
     }
   },
   {
     "translation": {
       "en": "So you must know Lady Cethlenn of the Knives.",
-      "ja": "レディー･セスリンを 知ってる？"
+      "ja": "レディー･セスリンを知ってる？"
     }
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "translation": {
-      "en": "- What? -",
+      "en": "-What? -[laughs]",
       "ja": "本当？"
     }
   },
@@ -1394,7 +1394,7 @@
   {
     "translation": {
       "en": "You could be at the palace with the kings and queens and heroes.",
-      "ja": "王や女王や英雄たちと 宮殿にいるはずでしょ"
+      "ja": "王や女王や英雄たちと宮殿にいるはずでしょ"
     }
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "translation": {
       "en": "my sword master had a key harp on her wall.",
-      "ja": "師匠の家で キーハープを見つけた"
+      "ja": "師匠の家でキーハープを見つけた"
     }
   },
   {
@@ -1424,13 +1424,13 @@
   {
     "translation": {
       "en": "My mother tried to save me, but I was lost to the music.",
-      "ja": "母に説得されたけど 音楽に夢中だった"
+      "ja": "母に説得されたけど音楽に夢中だった"
     }
   },
   {
     "translation": {
       "en": "And so I became a roving bard.",
-      "ja": "それで 放浪の吟遊詩人になった"
+      "ja": "それで放浪の吟遊詩人になった"
     }
   },
   {
@@ -1471,25 +1471,25 @@
   },
   {
     "translation": {
-      "en": "- - Open up! - Or we'll burn this hole to the ground. - Oh, shit.",
-      "ja": "開けろ さもないと火をつける"
+      "en": "-[banging at door] -[elf 1] Open up! -Or we'll burn this hole to the ground. -[Lark] Oh, shit.",
+      "ja": "開けろさもないと火をつける"
     }
   },
   {
     "translation": {
-      "en": "You in there?",
+      "en": "[elf 2] You in there?",
       "ja": "しまった"
     }
   },
   {
     "translation": {
       "en": "Why do assholes run to town guards when they get their asses kicked?",
-      "ja": "弱虫はいつも 町の衛兵に泣きつく"
+      "ja": "弱虫はいつも町の衛兵に泣きつく"
     }
   },
   {
     "translation": {
-      "en": "Singing, my ass!",
+      "en": "[guard] Singing, my ass!",
       "ja": "詩人なら歌え"
     }
   },
@@ -1514,7 +1514,7 @@
   {
     "translation": {
       "en": "Better a scrawny raven than one of Osfar's mangy bitches.",
-      "ja": "オスファーの むさ苦しい犬よりマシ"
+      "ja": "オスファーのむさ苦しい犬よりマシ"
     }
   },
   {
@@ -1531,14 +1531,14 @@
   },
   {
     "translation": {
-      "en": "- The name's-- - Fjall Stoneheart.",
-      "ja": "俺は… オスファーの息子の フィヨール"
+      "en": "-The name's-- -Fjall Stoneheart.",
+      "ja": "俺は… オスファーの息子のフィヨール"
     }
   },
   {
     "translation": {
       "en": "Son of Osfar.",
-      "ja": "オスファーの息子の フィヨール"
+      "ja": "オスファーの息子のフィヨール"
     }
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "translation": {
       "en": "from when you took my cousin's eye in the Battle of Brokilon.",
-      "ja": "ブロキロンの戦いで いとこの目を奪った"
+      "ja": "ブロキロンの戦いでいとこの目を奪った"
     }
   },
   {
@@ -1573,13 +1573,13 @@
   },
   {
     "translation": {
-      "en": "Relax.",
+      "en": "[chuckles] Relax.",
       "ja": "落ち着け"
     }
   },
   {
     "translation": {
-      "en": "My Dog Clan days are done.",
+      "en": "My Dog Clan days are done. [sighs]",
       "ja": "俺は もう犬の民じゃない"
     }
   },
@@ -1604,7 +1604,7 @@
   {
     "translation": {
       "en": "earning my fortune as a sellsword on a poxy island at the edge of the world.",
-      "ja": "世界の端にある小さな島で 傭兵(ようへい)をしてる"
+      "ja": "世界の端にある小さな島で傭兵(ようへい)をしてる"
     }
   },
   {
@@ -1646,13 +1646,13 @@
   {
     "translation": {
       "en": "I'd planned to come see you sing myself. If not for the current circumstances.",
-      "ja": "一度 見たいと思ってたけど 捕まって…"
+      "ja": "一度 見たいと思ってたけど捕まって…"
     }
   },
   {
     "translation": {
       "en": "How did the son of mighty Osfar fall so far?",
-      "ja": "なぜオスファーの息子が ここに？"
+      "ja": "なぜオスファーの息子がここに？"
     }
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "translation": {
       "en": "Horseshit. Your head'd be on a pike rotting over the city gate.",
-      "ja": "ふざけてる さらし首にされるべきだ"
+      "ja": "ふざけてるさらし首にされるべきだ"
     }
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "translation": {
       "en": "Better I be stripped of my clan and banished in silent disgrace.",
-      "ja": "それよりも 一族からの追放を選ぶ"
+      "ja": "それよりも一族からの追放を選ぶ"
     }
   },
   {
@@ -1705,7 +1705,7 @@
   },
   {
     "translation": {
-      "en": "- - Should have got that one tattooed.",
+      "en": "-[snaps fingers] -Should have got that one tattooed.",
       "ja": "タトゥーを入れるべきだ"
     }
   },
@@ -1718,7 +1718,7 @@
   {
     "translation": {
       "en": "I'll remember that when your head rolls to a bloody stop in the mud.",
-      "ja": "処刑された時の顔を 覚えておくよ"
+      "ja": "処刑された時の顔を覚えておくよ"
     }
   },
   {
@@ -1741,7 +1741,7 @@
   },
   {
     "translation": {
-      "en": "- What? - You heard me.",
+      "en": "-What? -[guard] You heard me.",
       "ja": "何？ 聞こえたろ"
     }
   },
@@ -1754,7 +1754,7 @@
   {
     "translation": {
       "en": "many thanks for not trying to kill me in my sleep.",
-      "ja": "眠っている間に 殺されずに済んだ"
+      "ja": "眠っている間に殺されずに済んだ"
     }
   },
   {
@@ -1765,7 +1765,7 @@
   },
   {
     "translation": {
-      "en": "- An eye for an eye. -",
+      "en": "-An eye for an eye. -[groans]",
       "ja": "目には目を"
     }
   },
@@ -1784,7 +1784,7 @@
   {
     "translation": {
       "en": "May the executioner's blade be keen and quick.",
-      "ja": "苦しまずに 処刑されるといいな"
+      "ja": "苦しまずに処刑されるといいな"
     }
   },
   {
@@ -1807,26 +1807,26 @@
   },
   {
     "translation": {
-      "en": "The Pryshians have been running some harrying raids. Testing our lines.",
-      "ja": "プリシア軍は攻撃をやめず 防衛線を探っています"
+      "en": "[elf] The Pryshians have been running some harrying raids. Testing our lines.",
+      "ja": "プリシア軍は攻撃をやめず防衛線を探っています"
     }
   },
   {
     "translation": {
       "en": "If we offer the dwarves access to our Xin'trean mines,",
-      "ja": "鉱山へのアクセスを許可して ドワーフの協力を…"
+      "ja": "鉱山へのアクセスを許可してドワーフの協力を…"
     }
   },
   {
     "translation": {
-      "en": "- we can count their alliance to our-- - No. No.",
-      "ja": "鉱山へのアクセスを許可して ドワーフの協力を… いや 二正面作戦は無理だ 王国の飢えを防げない"
+      "en": "-we can count their alliance to our-- -No. No.",
+      "ja": "鉱山へのアクセスを許可してドワーフの協力を… いや 二正面作戦は無理だ王国の飢えを防げない"
     }
   },
   {
     "translation": {
       "en": "I cannot fight a war on two fronts and keep my kingdom from starving.",
-      "ja": "いや 二正面作戦は無理だ 王国の飢えを防げない"
+      "ja": "いや 二正面作戦は無理だ王国の飢えを防げない"
     }
   },
   {
@@ -1837,38 +1837,38 @@
   },
   {
     "translation": {
-      "en": "End the Thousand- Year War.",
+      "en": "End the Thousand-Year War.",
       "ja": "戦争は終わりだ"
     }
   },
   {
     "translation": {
       "en": "I've already sent emissaries to Pryshia and Darwen.",
-      "ja": "プリシアとダーウェンと 平和条約を結ぶ"
+      "ja": "プリシアとダーウェンと平和条約を結ぶ"
     }
   },
   {
     "translation": {
-      "en": "- A peace treaty is to be signed here. - Preposterous.",
-      "ja": "プリシアとダーウェンと 平和条約を結ぶ とんでもない　国が滅びます"
+      "en": "-A peace treaty is to be signed here. -Preposterous.",
+      "ja": "プリシアとダーウェンと平和条約を結ぶ とんでもない　国が滅びます"
     }
   },
   {
     "translation": {
-      "en": "- It'll be our end! - Sire.",
+      "en": "-It'll be our end! -Sire.",
       "ja": "とんでもない　国が滅びます 陛下"
     }
   },
   {
     "translation": {
-      "en": "Pryshia and Darwen will never sign. - This war-- - Will end.",
-      "ja": "合意するはずありません 戦争は…"
+      "en": "Pryshia and Darwen will never sign. -This war-- -Will end.",
+      "ja": "合意するはずありません戦争は…"
     }
   },
   {
     "translation": {
       "en": "They're as stretched to breaking as we are.",
-      "ja": "終わりだ 彼らも限界に達している"
+      "ja": "終わりだ彼らも限界に達している"
     }
   },
   {
@@ -1904,7 +1904,7 @@
   {
     "translation": {
       "en": "The role of chief sage is no longer one of adviser to the throne.",
-      "ja": "賢人は王室の問題には 口出ししない"
+      "ja": "賢人は王室の問題には口出ししない"
     }
   },
   {
@@ -1922,12 +1922,12 @@
   {
     "translation": {
       "en": "famine and the stench of defeat will be our only legacy.",
-      "ja": "飢餓と敗北の不名誉しか 残らない"
+      "ja": "飢餓と敗北の不名誉しか残らない"
     }
   },
   {
     "translation": {
-      "en": "- Sire-- - This peace treaty will happen.",
+      "en": "-Sire-- -This peace treaty will happen.",
       "ja": "陛下 平和条約を結ぶ"
     }
   },
@@ -1939,7 +1939,7 @@
   },
   {
     "translation": {
-      "en": "- ♪ Ay, oh, the big puck goes… ♪ - Fjall!",
+      "en": "-♪ Ay, oh, the big puck goes… ♪ -[elf] Fjall!",
       "ja": "ビッグ･パックが行く フィヨール"
     }
   },
@@ -1957,20 +1957,20 @@
   },
   {
     "translation": {
-      "en": "- Did you bribe the guards? - Listen.",
+      "en": "-Did you bribe the guards? -Listen.",
       "ja": "なぜ？ 聞け"
     }
   },
   {
     "translation": {
       "en": "Osfar wants you to return immediately. There's to be a peace treaty.",
-      "ja": "オスファーが戻れと 国王は 他国と 平和条約を結ぶつもりだ"
+      "ja": "オスファーが戻れと 国王は 他国と平和条約を結ぶつもりだ"
     }
   },
   {
     "translation": {
       "en": "The king's arranged a signing between the kingdoms.",
-      "ja": "国王は 他国と 平和条約を結ぶつもりだ"
+      "ja": "国王は 他国と平和条約を結ぶつもりだ"
     }
   },
   {
@@ -1981,20 +1981,20 @@
   },
   {
     "translation": {
-      "en": "- Where are you going? - To find the nearest brothel.",
+      "en": "-Where are you going? -To find the nearest brothel.",
       "ja": "どこへ行く？ 売春宿を探す"
     }
   },
   {
     "translation": {
-      "en": "What'll I tell your father?",
+      "en": "[Shen] What'll I tell your father?",
       "ja": "何て伝えれば？"
     }
   },
   {
     "translation": {
-      "en": "Tell him I'm too busy dying, forgotten and unspoken.",
-      "ja": "忘れられて死ぬのに 忙しいと言え"
+      "en": "[Fjall] Tell him I'm too busy dying, forgotten and unspoken.",
+      "ja": "忘れられて死ぬのに忙しいと言え"
     }
   },
   {
@@ -2005,7 +2005,7 @@
   },
   {
     "translation": {
-      "en": "Good elves of Inis Dubh.",
+      "en": "[Fjall] Good elves of Inis Dubh.",
       "ja": "善良なエルフ諸君"
     }
   },
@@ -2018,31 +2018,31 @@
   {
     "translation": {
       "en": "I have but a few hours left on this shithole of an island.",
-      "ja": "数時間後には この島を出ていく"
+      "ja": "数時間後にはこの島を出ていく"
     }
   },
   {
     "translation": {
       "en": "Who wants to ply me with the finest skril and unspeakable debauchery, huh?",
-      "ja": "俺と一緒に最高の酒と道楽を 楽しみたいのは誰だ？"
+      "ja": "俺と一緒に最高の酒と道楽を楽しみたいのは誰だ？"
     }
   },
   {
     "translation": {
       "en": "Behind these doors lies a veritable cornucopia",
-      "ja": "扉の向こうでは 言い表せないほどの快楽を 存分に味わえます"
+      "ja": "扉の向こうでは 言い表せないほどの快楽を存分に味わえます"
     }
   },
   {
     "translation": {
       "en": "of delectable depravities and unmentionable delights.",
-      "ja": "言い表せないほどの快楽を 存分に味わえます"
+      "ja": "言い表せないほどの快楽を存分に味わえます"
     }
   },
   {
     "translation": {
       "en": "But first we must address the sordid issue of coin.",
-      "ja": "でもその前に カネの問題を片付けないと"
+      "ja": "でもその前にカネの問題を片付けないと"
     }
   },
   {
@@ -2059,7 +2059,7 @@
   },
   {
     "translation": {
-      "en": "Your word affords you…",
+      "en": "[elf] Your word affords you…",
       "ja": "それで買えるのは―"
     }
   },
@@ -2071,7 +2071,7 @@
   },
   {
     "translation": {
-      "en": "- Sylanya, go find Fluffy! - Hup- hup- hup.",
+      "en": "-Sylanya, go find Fluffy! -Hup-hup-hup.",
       "ja": "猫を連れてこい"
     }
   },
@@ -2102,7 +2102,7 @@
   {
     "translation": {
       "en": "Never really understood why you chose this thing over an honest blade.",
-      "ja": "なぜ剣より こっちを選んだの？"
+      "ja": "なぜ剣よりこっちを選んだの？"
     }
   },
   {
@@ -2138,7 +2138,7 @@
   {
     "translation": {
       "en": "Your king's travelling to Xin'trea to sign a treaty. We need your skills.",
-      "ja": "国王は条約を結ぶため シン＝トリアに向かった"
+      "ja": "国王は条約を結ぶためシン＝トリアに向かった"
     }
   },
   {
@@ -2162,7 +2162,7 @@
   {
     "translation": {
       "en": "Cethlenn needs you. This is your chance to redeem yourself, sister.",
-      "ja": "あなたを必要としてる 償うチャンスよ"
+      "ja": "あなたを必要としてる償うチャンスよ"
     }
   },
   {
@@ -2210,43 +2210,43 @@
   {
     "translation": {
       "en": "Help me prove them wrong, sister.",
-      "ja": "みんなが間違ってたと 証明して"
+      "ja": "みんなが間違ってたと証明して"
     }
   },
   {
     "translation": {
       "en": "It's your last chance. I sail on the next tide.",
-      "ja": "最後のチャンスよ 次の船に乗る"
+      "ja": "最後のチャンスよ次の船に乗る"
     }
   },
   {
     "translation": {
-      "en": "Are you all right?",
+      "en": "[Ithlinne] Are you all right?",
       "ja": "大丈夫？"
     }
   },
   {
     "translation": {
-      "en": "The time of the spheres is upon us.",
+      "en": "[echoing] The time of the spheres is upon us.",
       "ja": "天体の時代がやってくる"
     }
   },
   {
     "translation": {
       "en": "Worlds will eat worlds. Emerald skies.",
-      "ja": "世界を飲み込む エメラルドの空 夜明けを呼ぶ炎"
+      "ja": "世界を飲み込む エメラルドの空夜明けを呼ぶ炎"
     }
   },
   {
     "translation": {
       "en": "Fire will summon a new dawn.",
-      "ja": "エメラルドの空 夜明けを呼ぶ炎"
+      "ja": "エメラルドの空夜明けを呼ぶ炎"
     }
   },
   {
     "translation": {
       "en": "A great beast born shall be slain by your blade.",
-      "ja": "あなたの剣が 巨大な怪物を倒す"
+      "ja": "あなたの剣が巨大な怪物を倒す"
     }
   },
   {
@@ -2270,19 +2270,19 @@
   {
     "translation": {
       "en": "And a quest in the name of your clan will bring you redemption.",
-      "ja": "一族の探求が あなたに救いをもたらす"
+      "ja": "一族の探求があなたに救いをもたらす"
     }
   },
   {
     "translation": {
-      "en": "Ithlinne said I'd find redemption in a quest for my clan.",
-      "ja": "一族の探求で救いを得ると イスリンは言った"
+      "en": "[Lark] Ithlinne said I'd find redemption in a quest for my clan.",
+      "ja": "一族の探求で救いを得るとイスリンは言った"
     }
   },
   {
     "translation": {
       "en": "Her visions, have any of them ever come true?",
-      "ja": "ビジョンが 現実に起こったことは？"
+      "ja": "ビジョンが現実に起こったことは？"
     }
   },
   {
@@ -2306,12 +2306,12 @@
   {
     "translation": {
       "en": "Tell her I'm… sorry I couldn't wait to say goodbye.",
-      "ja": "さよならを言えず ごめんと伝えて"
+      "ja": "さよならを言えずごめんと伝えて"
     }
   },
   {
     "translation": {
-      "en": "- Hopefully, our paths will cross some day. - Where's the road takin' you?",
+      "en": "-Hopefully, our paths will cross some day. -Where's the road takin' you?",
       "ja": "きっとまた会える どこへ行くの？"
     }
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "translation": {
-      "en": "Niamh!",
+      "en": "[Lark] Niamh!",
       "ja": "ニーブ"
     }
   },
@@ -2342,7 +2342,7 @@
   {
     "translation": {
       "en": "Not enough to have a musician sister. Now I must suffer a shit jester too.",
-      "ja": "音楽だけでは飽き足らず 冗談も下手クソね"
+      "ja": "音楽だけでは飽き足らず冗談も下手クソね"
     }
   },
   {
@@ -2353,7 +2353,7 @@
   },
   {
     "translation": {
-      "en": "As if anyone's capable of that.",
+      "en": "[Niamh] As if anyone's capable of that.",
       "ja": "できるものならね"
     }
   },
@@ -2444,7 +2444,7 @@
   {
     "translation": {
       "en": "I know her. She's a cavalry captain in the Pryshian army.",
-      "ja": "こっちは プリシア軍の騎兵隊長よ"
+      "ja": "こっちはプリシア軍の騎兵隊長よ"
     }
   },
   {
@@ -2462,7 +2462,7 @@
   {
     "translation": {
       "en": "Why are soldiers from three kingdoms at war working together to kill us?",
-      "ja": "なぜ３国の兵士が手を組み 私たちを狙うの？"
+      "ja": "なぜ３国の兵士が手を組み私たちを狙うの？"
     }
   },
   {
@@ -2473,13 +2473,13 @@
   },
   {
     "translation": {
-      "en": "- Niamh came to tell me about a treaty. - I know. I was sent for too.",
+      "en": "-Niamh came to tell me about a treaty. -I know. I was sent for too.",
       "ja": "ニーブが話を… 知ってる　俺の所にも来た"
     }
   },
   {
     "translation": {
-      "en": "- Shit! - Someone didn't want clan warriors there.",
+      "en": "-Shit! -Someone didn't want clan warriors there.",
       "ja": "クソッ 戦士は邪魔者か"
     }
   },
@@ -2491,8 +2491,8 @@
   },
   {
     "translation": {
-      "en": "- I need to get to Xin'trea, warn my clan. - So do I.",
-      "ja": "シン＝トリアに行って 知らせないと 俺もだ"
+      "en": "-I need to get to Xin'trea, warn my clan. -So do I.",
+      "ja": "シン＝トリアに行って知らせないと 俺もだ"
     }
   },
   {
@@ -2504,7 +2504,7 @@
   {
     "translation": {
       "en": "Look, there are bound to be more of these stabby fuckers on the way.",
-      "ja": "今後 どんどん刺客が 来るはずだ"
+      "ja": "今後 どんどん刺客が来るはずだ"
     }
   },
   {
@@ -2527,14 +2527,14 @@
   },
   {
     "translation": {
-      "en": "Right.",
+      "en": "[under breath] Right.",
       "ja": "よし"
     }
   },
   {
     "translation": {
       "en": "But cross me and I'll feed your cock to the dogs.",
-      "ja": "でも裏切ったら 犬の餌にしてやる"
+      "ja": "でも裏切ったら犬の餌にしてやる"
     }
   },
   {
@@ -2575,14 +2575,14 @@
   },
   {
     "translation": {
-      "en": "We'll meet again in the halls of Caer Aenwyn, sister.",
-      "ja": "カエル･エンウィンで また会いましょう"
+      "en": "[Éile] We'll meet again in the halls of Caer Aenwyn, sister.",
+      "ja": "カエル･エンウィンでまた会いましょう"
     }
   },
   {
     "translation": {
-      "en": "And so the Lark no longer soared alone.",
-      "ja": "こうしてヒバリは 独りではなくなった"
+      "en": "[mysterious elfyn] And so the Lark no longer soared alone.",
+      "ja": "こうしてヒバリは独りではなくなった"
     }
   },
   {
@@ -2593,32 +2593,32 @@
   },
   {
     "translation": {
-      "en": "Please.",
+      "en": "[whispers] Please.",
       "ja": "お願い"
     }
   },
   {
     "translation": {
-      "en": "Princess?",
+      "en": "[elfyn] Princess?",
       "ja": "王女様"
     }
   },
   {
     "translation": {
-      "en": "Ket, I fixed it! Solryth's eyes blaze once more.",
-      "ja": "ケット　“ソルリスの目”が 輝きを取り戻した"
+      "en": "[Merwyn] Ket, I fixed it! Solryth's eyes blaze once more.",
+      "ja": "ケット　“ソルリスの目”が輝きを取り戻した"
     }
   },
   {
     "translation": {
-      "en": "We need to get you dressed.",
+      "en": "[Ket] We need to get you dressed.",
       "ja": "お着替えを"
     }
   },
   {
     "translation": {
       "en": "Don't you see? When all hope was lost, they led her ships to this continent,",
-      "ja": "希望が失われた時 彼女の船を大陸に導いた"
+      "ja": "希望が失われた時彼女の船を大陸に導いた"
     }
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "translation": {
       "en": "Your brother will have my guts if I don't make you look presentable in time to meet your future husband.",
-      "ja": "未来の旦那様と会うのに 遅刻すると叱られます"
+      "ja": "未来の旦那様と会うのに遅刻すると叱られます"
     }
   },
   {
@@ -2653,32 +2653,32 @@
   },
   {
     "translation": {
-      "en": "With highborn hostages exchanged between the warring kingdoms,",
-      "ja": "戦争中の王国間で 取引が成立し"
+      "en": "[mysterious elfyn] With highborn hostages exchanged between the warring kingdoms,",
+      "ja": "戦争中の王国間で取引が成立し"
     }
   },
   {
     "translation": {
-      "en": "the other monarchs had sailed to sign a treaty that would finally end the Thousand- Year War.",
-      "ja": "終戦の条約に署名するため 君主たちが集結した"
+      "en": "the other monarchs had sailed to sign a treaty that would finally end the Thousand-Year War.",
+      "ja": "終戦の条約に署名するため君主たちが集結した"
     }
   },
   {
     "translation": {
       "en": "King Midir of Pryshia and his Raven Clan warriors.",
-      "ja": "プリシアのミディル王と 鴉の民の戦士"
+      "ja": "プリシアのミディル王と鴉の民の戦士"
     }
   },
   {
     "translation": {
       "en": "Queen Neera of Darwen and her Serpent Clan warriors.",
-      "ja": "ダーウェンのニーラ女王と 蛇の民の戦士"
+      "ja": "ダーウェンのニーラ女王と蛇の民の戦士"
     }
   },
   {
     "translation": {
       "en": "And Alvitir, the brave architect of a new dawn for elfkind.",
-      "ja": "新たな夜明けの立役者である アルヴァティア王"
+      "ja": "新たな夜明けの立役者であるアルヴァティア王"
     }
   },
   {
@@ -2702,19 +2702,19 @@
   {
     "translation": {
       "en": "today shall see our long, dark night of war and hunger end at last.",
-      "ja": "戦争と飢餓の長く暗い夜が ついに終わりを迎える"
+      "ja": "戦争と飢餓の長く暗い夜がついに終わりを迎える"
     }
   },
   {
     "translation": {
       "en": "A new dawn will rise upon the Continent for all elfkind.",
-      "ja": "エルフにとって 新たな夜明けが大陸に訪れる"
+      "ja": "エルフにとって新たな夜明けが大陸に訪れる"
     }
   },
   {
     "translation": {
       "en": "Famine replaced by peace and prosperity.",
-      "ja": "平和と繁栄により 飢餓が解消されるだろう"
+      "ja": "平和と繁栄により飢餓が解消されるだろう"
     }
   },
   {
@@ -2725,7 +2725,7 @@
   },
   {
     "translation": {
-      "en": "- A Continent of possibility. -",
+      "en": "-A Continent of possibility. -[murmuring]",
       "ja": "可能性の大陸へと変わる"
     }
   },
@@ -2749,19 +2749,19 @@
   },
   {
     "translation": {
-      "en": "- But we will all be… - Your Majesty?",
+      "en": "-[Alvitir] But we will all be… -Your Majesty?",
       "ja": "王女様 医師を呼べ"
     }
   },
   {
     "translation": {
-      "en": "- Summon the physic. - No.",
+      "en": "-Summon the physic. -No.",
       "ja": "医師を呼べ 大丈夫　緊張しただけよ"
     }
   },
   {
     "translation": {
-      "en": "- It's just… nerves. - …one, as strong and…",
+      "en": "-It's just… nerves. -[Alvitir] …one, as strong and…",
       "ja": "大丈夫　緊張しただけよ"
     }
   },
@@ -2773,8 +2773,8 @@
   },
   {
     "translation": {
-      "en": "…day we first landed on these shores and civilized this land.",
-      "ja": "我々が開拓し この土地を文明化した"
+      "en": "[Alvitir] …day we first landed on these shores and civilized this land.",
+      "ja": "我々が開拓しこの土地を文明化した"
     }
   },
   {
@@ -2786,7 +2786,7 @@
   {
     "translation": {
       "en": "gracious Queen Neera of Darwen,",
-      "ja": "慈悲深い ダーウェンのニーラ女王"
+      "ja": "慈悲深いダーウェンのニーラ女王"
     }
   },
   {
@@ -2798,12 +2798,12 @@
   {
     "translation": {
       "en": "to join with me as allies in this new dawn.",
-      "ja": "新しい夜明けのために 我が国と同盟を結ぼう"
+      "ja": "新しい夜明けのために我が国と同盟を結ぼう"
     }
   },
   {
     "translation": {
-      "en": "What's that?",
+      "en": "[elf yells] What's that?",
       "ja": "何だ？"
     }
   },
@@ -2815,14 +2815,14 @@
   },
   {
     "translation": {
-      "en": "In that moment, the Elven world had changed forever.",
-      "ja": "その瞬間 エルフの世界は一変した"
+      "en": "[mysterious elfyn] In that moment, the Elven world had changed forever.",
+      "ja": "その瞬間エルフの世界は一変した"
     }
   },
   {
     "translation": {
       "en": "A thousand years of monarchies, kingdoms, and clans were erased.",
-      "ja": "1000年にわたる君主制も 王国も一族も消滅した"
+      "ja": "1000年にわたる君主制も王国も一族も消滅した"
     }
   },
   {
@@ -2851,8 +2851,8 @@
   },
   {
     "translation": {
-      "en": "to turn war- hungry mages and generals against their monarchies.",
-      "ja": "バラーは魔術師と軍隊を 王室に敵対させた"
+      "en": "to turn war-hungry mages and generals against their monarchies.",
+      "ja": "バラーは魔術師と軍隊を王室に敵対させた"
     }
   },
   {
@@ -2881,7 +2881,7 @@
   },
   {
     "translation": {
-      "en": "Rise.",
+      "en": "[Balor] Rise.",
       "ja": "顔を上げろ"
     }
   },
@@ -2893,31 +2893,31 @@
   },
   {
     "translation": {
-      "en": "This storm's unnatural.",
+      "en": "[Éile] This storm's unnatural.",
       "ja": "この嵐は不自然だ"
     }
   },
   {
     "translation": {
-      "en": "We're sailing for safe harbor in Gaylth.",
+      "en": "[Fjall] We're sailing for safe harbor in Gaylth.",
       "ja": "ゲイルスの港に避難する"
     }
   },
   {
     "translation": {
-      "en": "That's not even close to Xin'trea.",
+      "en": "[Éile] That's not even close to Xin'trea.",
       "ja": "シン＝トリアは まだ先よ"
     }
   },
   {
     "translation": {
-      "en": "We're no use to our clans at the bottom of the ocean.",
+      "en": "[Fjall] We're no use to our clans at the bottom of the ocean.",
       "ja": "海の底に沈んだら意味がない"
     }
   },
   {
     "translation": {
-      "en": "Merwyn was free now.",
+      "en": "[mysterious elfyn] Merwyn was free now.",
       "ja": "メルウィンは自由になった"
     }
   },
@@ -2930,7 +2930,7 @@
   {
     "translation": {
       "en": "Just as her hero Solryth had. To start a new golden era.",
-      "ja": "ソルリスのように 新しい黄金時代を始めるのだ"
+      "ja": "ソルリスのように新しい黄金時代を始めるのだ"
     }
   },
   {
@@ -2941,7 +2941,7 @@
   },
   {
     "translation": {
-      "en": "Empress!",
+      "en": "[elf shouts] Empress!",
       "ja": "女王様！"
     }
   },
@@ -2960,13 +2960,13 @@
   {
     "translation": {
       "en": "They all fall so eagerly into place, despite their world turning on its head.",
-      "ja": "世界が一変したのに 皆 落ち着いてる"
+      "ja": "世界が一変したのに皆 落ち着いてる"
     }
   },
   {
     "translation": {
       "en": "Faced with chaos, the people will always choose order.",
-      "ja": "混乱に直面すると 人は秩序を選ぶ"
+      "ja": "混乱に直面すると人は秩序を選ぶ"
     }
   },
   {
@@ -2989,7 +2989,7 @@
   },
   {
     "translation": {
-      "en": "We shall see.",
+      "en": "[Balor] We shall see.",
       "ja": "いずれな"
     }
   },
@@ -3001,20 +3001,20 @@
   },
   {
     "translation": {
-      "en": "The skies and seas were not the only thing to have changed without warning.",
-      "ja": "前触れもなく変化したのは 空と海だけではなかった"
+      "en": "[mysterious elfyn] The skies and seas were not the only thing to have changed without warning.",
+      "ja": "前触れもなく変化したのは空と海だけではなかった"
     }
   },
   {
     "translation": {
-      "en": "What the fuck are those flags?",
-      "ja": "あの旗は何？ 初めて見る紋章よ"
+      "en": "[Éile] What the fuck are those flags?",
+      "ja": "あの旗は何？初めて見る紋章よ"
     }
   },
   {
     "translation": {
-      "en": "- I've never seen that crest before. - Not Pryshian. That's for sure.",
-      "ja": "あの旗は何？ 初めて見る紋章よ プリシアのものじゃない"
+      "en": "-I've never seen that crest before. -[Fjall] Not Pryshian. That's for sure.",
+      "ja": "あの旗は何？初めて見る紋章よ プリシアのものじゃない"
     }
   },
   {
@@ -3043,7 +3043,7 @@
   },
   {
     "translation": {
-      "en": "- Oof! - Sorry.",
+      "en": "-Oof! -Sorry.",
       "ja": "失礼"
     }
   },
@@ -3055,7 +3055,7 @@
   },
   {
     "translation": {
-      "en": "At least she ended the war.",
+      "en": "[elfyn] At least she ended the war.",
       "ja": "一応 終戦ね"
     }
   },
@@ -3067,13 +3067,13 @@
   },
   {
     "translation": {
-      "en": "And her own brother, no less.",
+      "en": "[elfyn] And her own brother, no less.",
       "ja": "他でもない実の兄よ"
     }
   },
   {
     "translation": {
-      "en": "- Calling herself Empress Merwyn now. - Empress?",
+      "en": "-Calling herself Empress Merwyn now. -Empress?",
       "ja": "今ではメルウィン女王だ 女王？"
     }
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "translation": {
-      "en": "- She killed them all… - No.",
+      "en": "-She killed them all… -[Fjall] No.",
       "ja": "一族を殺した？"
     }
   },
@@ -3103,31 +3103,31 @@
   },
   {
     "translation": {
-      "en": "How does one princess no one's ever heard of",
+      "en": "[elf] How does one princess no one's ever heard of",
       "ja": "たった１人の王女が"
     }
   },
   {
     "translation": {
       "en": "manage to take the whole Continent easy as piss like that?",
-      "ja": "いとも簡単に 大陸を征服できるか？"
+      "ja": "いとも簡単に大陸を征服できるか？"
     }
   },
   {
     "translation": {
-      "en": "I heard she's got herself a three- headed beast, the size of a ship.",
-      "ja": "３つの頭を持つ 巨大な怪物を飼ってるそうだ"
+      "en": "I heard she's got herself a three-headed beast, the size of a ship.",
+      "ja": "３つの頭を持つ巨大な怪物を飼ってるそうだ"
     }
   },
   {
     "translation": {
-      "en": "Sucks on her teat like a babe. - - Beast!",
+      "en": "Sucks on her teat like a babe. -[laughter] -[elf] Beast!",
       "ja": "授乳までしてるらしい"
     }
   },
   {
     "translation": {
-      "en": "A beast?",
+      "en": "[elfyn] A beast?",
       "ja": "怪物だって？"
     }
   },
@@ -3146,7 +3146,7 @@
   {
     "translation": {
       "en": "no Xin'trean bitch is gonna tell me I'm not Pryshian anymore.",
-      "ja": "俺は シン＝トリア人の 指図は受けない"
+      "ja": "俺は シン＝トリア人の指図は受けない"
     }
   },
   {
@@ -3158,13 +3158,13 @@
   {
     "translation": {
       "en": "Paradin' around in your Pryshian armor mere suns ago.",
-      "ja": "数日前まで プリシア軍の鎧(よろい)を着ていたが"
+      "ja": "数日前までプリシア軍の鎧(よろい)を着ていたが"
     }
   },
   {
     "translation": {
       "en": "Traitorous pissants, dressed in that cunt's armor.",
-      "ja": "今は あの女の鎧をまとった 裏切り者だ"
+      "ja": "今は あの女の鎧をまとった裏切り者だ"
     }
   },
   {
@@ -3182,24 +3182,24 @@
   {
     "translation": {
       "en": "Éile of Raven Clan, Fjall of Dog Clan.",
-      "ja": "鴉の民のエイラと 犬の民のフィヨール"
+      "ja": "鴉の民のエイラと犬の民のフィヨール"
     }
   },
   {
     "translation": {
-      "en": "- - We need to be smart about this.",
+      "en": "-[grunts] -We need to be smart about this.",
       "ja": "冷静になって"
     }
   },
   {
     "translation": {
       "en": "If you can't control your fire because someone insulted your lover, we should part ways now.",
-      "ja": "怒りを抑えられないなら ここで別れよう"
+      "ja": "怒りを抑えられないならここで別れよう"
     }
   },
   {
     "translation": {
-      "en": "- This has nothing to do with her. - This has everything to do with her.",
+      "en": "-This has nothing to do with her. -This has everything to do with her.",
       "ja": "彼女は無実だ すべて彼女の仕業よ"
     }
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "translation": {
-      "en": "One! Two!",
+      "en": "[elf] One! Two!",
       "ja": "１　２"
     }
   },
@@ -3223,38 +3223,38 @@
   },
   {
     "translation": {
-      "en": "- One… - You!",
+      "en": "-One… -You!",
       "ja": "お前！"
     }
   },
   {
     "translation": {
-      "en": "The largest we've excavated yet.",
+      "en": "[Eredin] The largest we've excavated yet.",
       "ja": "発掘した中で最大だ"
     }
   },
   {
     "translation": {
-      "en": "I need more power to stabilize the gateways.",
-      "ja": "入り口(ゲートウェイ)には もっと力が必要だ"
+      "en": "[Balor] I need more power to stabilize the gateways.",
+      "ja": "入り口(ゲートウェイ)にはもっと力が必要だ"
     }
   },
   {
     "translation": {
-      "en": "- How many monoliths have you raised? - Three in the north, two in the south.",
+      "en": "-How many monoliths have you raised? -Three in the north, two in the south.",
       "ja": "一枚岩の数は？ 北に３つ　南に２つ"
     }
   },
   {
     "translation": {
       "en": "Another five excavated being configured with Syndril's sigils.",
-      "ja": "シンドリルの魔術で 特定された"
+      "ja": "シンドリルの魔術で特定された"
     }
   },
   {
     "translation": {
       "en": "Not enough to power a gateway for a legion. Why the delay?",
-      "ja": "それでは全く足りない なぜ遅れてる？"
+      "ja": "それでは全く足りないなぜ遅れてる？"
     }
   },
   {
@@ -3272,7 +3272,7 @@
   {
     "translation": {
       "en": "You absorbed the entire Darwen and Pryshian army. How can you be stretched thin?",
-      "ja": "ダーウェン軍とプリシア軍を 吸収したはずだぞ"
+      "ja": "ダーウェン軍とプリシア軍を吸収したはずだぞ"
     }
   },
   {
@@ -3289,14 +3289,14 @@
   },
   {
     "translation": {
-      "en": "Non- cooperative mages.",
+      "en": "Non-cooperative mages.",
       "ja": "逆らった者だけだ"
     }
   },
   {
     "translation": {
       "en": "Crop failures are worsening. Bread riots are running rampant--",
-      "ja": "不作が続き 暴動が横行している"
+      "ja": "不作が続き暴動が横行している"
     }
   },
   {
@@ -3313,14 +3313,14 @@
   },
   {
     "translation": {
-      "en": "What of Fjall Stoneheart?",
-      "ja": "フィヨール･ ストーンハートは？"
+      "en": "[Balor] What of Fjall Stoneheart?",
+      "ja": "フィヨール･ストーンハートは？"
     }
   },
   {
     "translation": {
-      "en": "He escaped our assassins on Inis Dubh. - - Along with the Raven Clan warrior.",
-      "ja": "鴉の民の戦士と手を組み 暗殺を逃れたが"
+      "en": "[Eredin] He escaped our assassins on Inis Dubh. -[crash echoing] -Along with the Raven Clan warrior.",
+      "ja": "鴉の民の戦士と手を組み暗殺を逃れたが"
     }
   },
   {
@@ -3331,7 +3331,7 @@
   },
   {
     "translation": {
-      "en": "That's a heroic folktale waiting to happen.",
+      "en": "[Balor] That's a heroic folktale waiting to happen.",
       "ja": "まるで民話に出てくる英雄だ"
     }
   },
@@ -3374,7 +3374,7 @@
   {
     "translation": {
       "en": "How can that even exist? Where did it come from?",
-      "ja": "存在するの？ 一体どこから？"
+      "ja": "存在するの？一体どこから？"
     }
   },
   {
@@ -3392,37 +3392,37 @@
   {
     "translation": {
       "en": "He dug up and raised an ancient Dwarven monolith.",
-      "ja": "古代のドワーフの一枚岩を 発掘した"
+      "ja": "古代のドワーフの一枚岩を発掘した"
     }
   },
   {
     "translation": {
       "en": "He used it to… open up a gateway to another world.",
-      "ja": "別世界への入り口を 開くためだ"
+      "ja": "別世界への入り口を開くためだ"
     }
   },
   {
     "translation": {
-      "en": "- The monster came from there? - I mean, maybe.",
+      "en": "-The monster came from there? -I mean, maybe.",
       "ja": "それで怪物が？ 恐らく"
     }
   },
   {
     "translation": {
-      "en": "- I know it sounds insane. - There are old stories of other worlds.",
+      "en": "-I know it sounds insane. -There are old stories of other worlds.",
       "ja": "バカげた話だ 言い伝えがある"
     }
   },
   {
     "translation": {
       "en": "And nothing's been right since.",
-      "ja": "それ以来 異変が起き 空も変わった"
+      "ja": "それ以来 異変が起き空も変わった"
     }
   },
   {
     "translation": {
-      "en": "- Even the skies have changed. - And the seas too.",
-      "ja": "それ以来 異変が起き 空も変わった 海も"
+      "en": "-Even the skies have changed. -And the seas too.",
+      "ja": "それ以来 異変が起き空も変わった 海も"
     }
   },
   {
@@ -3434,25 +3434,25 @@
   {
     "translation": {
       "en": "But even with the beast, Merwyn had no power to pull this off.",
-      "ja": "メルウィンが １人でやったとは思えない"
+      "ja": "メルウィンが１人でやったとは思えない"
     }
   },
   {
     "translation": {
       "en": "There has to be someone else behind this. The generals, or the mages--",
-      "ja": "黒幕がいるはずだ 将軍か魔術師…"
+      "ja": "黒幕がいるはずだ将軍か魔術師…"
     }
   },
   {
     "translation": {
-      "en": "- You're making excuses for her. - No.",
+      "en": "-You're making excuses for her. -No.",
       "ja": "かばってる 違う"
     }
   },
   {
     "translation": {
       "en": "If, now I mean if, she's Empress, then she was involved.",
-      "ja": "本当に彼女が女王で 関与していたなら―"
+      "ja": "本当に彼女が女王で関与していたなら―"
     }
   },
   {
@@ -3530,7 +3530,7 @@
   {
     "translation": {
       "en": "We find Merwyn, end her beast and anyone who stands with her.",
-      "ja": "メルウィンを見つけ 怪物や彼女の仲間を始末する"
+      "ja": "メルウィンを見つけ怪物や彼女の仲間を始末する"
     }
   },
   {
@@ -3559,14 +3559,14 @@
   },
   {
     "translation": {
-      "en": "Your brother. How could you?",
+      "en": "[Ket] Your brother. How could you?",
       "ja": "お兄様を殺すなんて…"
     }
   },
   {
     "translation": {
-      "en": "I'd no choice, Ket. He'd written my life for me.",
-      "ja": "しかたなかった 自由のためよ"
+      "en": "[Merwyn] I'd no choice, Ket. He'd written my life for me.",
+      "ja": "しかたなかった自由のためよ"
     }
   },
   {
@@ -3590,13 +3590,13 @@
   {
     "translation": {
       "en": "When Solryth died, we turned on each other.",
-      "ja": "ソルリスが死ぬと 戦争が生まれた"
+      "ja": "ソルリスが死ぬと戦争が生まれた"
     }
   },
   {
     "translation": {
       "en": "A great golden era destroyed by an endless cycle of war.",
-      "ja": "絶え間ない戦争によって 黄金時代が破壊された"
+      "ja": "絶え間ない戦争によって黄金時代が破壊された"
     }
   },
   {
@@ -3608,7 +3608,7 @@
   {
     "translation": {
       "en": "Balor and Eredin want to use Syndril's gateways",
-      "ja": "バラーとエレディンの狙いは 入り口を利用し―"
+      "ja": "バラーとエレディンの狙いは入り口を利用し―"
     }
   },
   {
@@ -3632,13 +3632,13 @@
   {
     "translation": {
       "en": "Bring our art, our science, and culture to them,",
-      "ja": "芸術と科学と文化を 世界にもたらす"
+      "ja": "芸術と科学と文化を世界にもたらす"
     }
   },
   {
     "translation": {
       "en": "and create a new golden era for all of elfkind.",
-      "ja": "エルフの新しい黄金時代を 築くのよ"
+      "ja": "エルフの新しい黄金時代を築くのよ"
     }
   },
   {
@@ -3680,13 +3680,13 @@
   {
     "translation": {
       "en": "Or all of this, every drop of blood spilled,",
-      "ja": "さもなければ 犠牲になった命が ムダになってしまう"
+      "ja": "さもなければ 犠牲になった命がムダになってしまう"
     }
   },
   {
     "translation": {
       "en": "will have been in vain.",
-      "ja": "犠牲になった命が ムダになってしまう"
+      "ja": "犠牲になった命がムダになってしまう"
     }
   },
   {
@@ -3703,20 +3703,20 @@
   },
   {
     "translation": {
-      "en": "You've unlocked the future, Syndril.",
+      "en": "[Balor] You've unlocked the future, Syndril.",
       "ja": "未来を解き放ったんだ"
     }
   },
   {
     "translation": {
       "en": "Without your knowledge, none of this would have been possible.",
-      "ja": "君の知識がなければ できなかった"
+      "ja": "君の知識がなければできなかった"
     }
   },
   {
     "translation": {
       "en": "Now the master monolith is raised, who knows what worlds await?",
-      "ja": "一枚岩を発掘し 新世界が開かれる"
+      "ja": "一枚岩を発掘し新世界が開かれる"
     }
   },
   {
@@ -3740,12 +3740,12 @@
   {
     "translation": {
       "en": "This new dawn of possibilities is all thanks to you.",
-      "ja": "君が 新たな夜明けを もたらした"
+      "ja": "君が 新たな夜明けをもたらした"
     }
   },
   {
     "translation": {
-      "en": "I can't believe they united the armies.",
+      "en": "[Fjall] I can't believe they united the armies.",
       "ja": "軍隊を統合するとはな"
     }
   },
@@ -3757,20 +3757,20 @@
   },
   {
     "translation": {
-      "en": "Then we change the odds with the best blade in the land.",
+      "en": "[Éile] Then we change the odds with the best blade in the land.",
       "ja": "最高の剣で勝率を上げる"
     }
   },
   {
     "translation": {
-      "en": "- Who? - My old sword master.",
-      "ja": "誰だ？ 私の剣の師匠よ 恨まれてるかもしれない"
+      "en": "-[Fjall] Who? -[Éile] My old sword master.",
+      "ja": "誰だ？ 私の剣の師匠よ恨まれてるかもしれない"
     }
   },
   {
     "translation": {
       "en": "If she doesn't kill me on sight.",
-      "ja": "私の剣の師匠よ 恨まれてるかもしれない"
+      "ja": "私の剣の師匠よ恨まれてるかもしれない"
     }
   },
   {
@@ -3793,13 +3793,13 @@
   },
   {
     "translation": {
-      "en": "You're willing to risk your throat?",
+      "en": "[Fjall] You're willing to risk your throat?",
       "ja": "殺されに行く気か？"
     }
   },
   {
     "translation": {
-      "en": "We want vengeance? We need her.",
+      "en": "[Éile] We want vengeance? We need her.",
       "ja": "復讐には彼女が必要よ"
     }
   },
@@ -3860,7 +3860,7 @@
   {
     "translation": {
       "en": "When they refused to fight for him, your King Darach poisoned their water supply.",
-      "ja": "一族が命令を拒否したため ダラック王は毒を盛った"
+      "ja": "一族が命令を拒否したためダラック王は毒を盛った"
     }
   },
   {
@@ -3883,13 +3883,13 @@
   },
   {
     "translation": {
-      "en": "Please. We mean you no harm.",
+      "en": "[elderly elf] Please. We mean you no harm.",
       "ja": "頼む　我々は無害だ"
     }
   },
   {
     "translation": {
-      "en": "What brings you so far from the main roads?",
+      "en": "[Éile] What brings you so far from the main roads?",
       "ja": "道を外れた場所で何を？"
     }
   },
@@ -3902,13 +3902,13 @@
   {
     "translation": {
       "en": "Our mages and elders refused the new empire. Her soldiers burnt it to ash,",
-      "ja": "町の権威が帝国を拒否すると 軍隊は火を放ち"
+      "ja": "町の権威が帝国を拒否すると軍隊は火を放ち"
     }
   },
   {
     "translation": {
       "en": "stole our young to dig up their black towers.",
-      "ja": "黒い塔の発掘のため 若者を連行した"
+      "ja": "黒い塔の発掘のため若者を連行した"
     }
   },
   {
@@ -3938,7 +3938,7 @@
   {
     "translation": {
       "en": "I saw you last year at the Aedd Gynvael.",
-      "ja": "エード･グインヴェールで 見たわ"
+      "ja": "エード･グインヴェールで見たわ"
     }
   },
   {
@@ -3956,12 +3956,12 @@
   {
     "translation": {
       "en": "made us feel special. Like the world was ours.",
-      "ja": "自由を手にしたように 感じられた"
+      "ja": "自由を手にしたように感じられた"
     }
   },
   {
     "translation": {
-      "en": "Any chance you could sing The Black Rose?",
+      "en": "Any chance you could sing \"The Black Rose\"?",
       "ja": "歌ってくれない？"
     }
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "translation": {
-      "en": "That's enough.",
+      "en": "[whispers] That's enough.",
       "ja": "もういい"
     }
   },
@@ -3991,26 +3991,26 @@
   },
   {
     "translation": {
-      "en": "♪ We are the Black Rose ♪",
+      "en": "[elfyn] ♪ We are the Black Rose ♪",
       "ja": "私たちはブラック･ローズだ"
     }
   },
   {
     "translation": {
-      "en": "♪ Rise up And let them hear… ♪",
+      "en": "[others join in] ♪ Rise up And let them hear… ♪",
       "ja": "立ち上がり 雄たけびを…"
     }
   },
   {
     "translation": {
-      "en": "He had heard that song far south in Xin'trea,",
-      "ja": "彼はシン＝トリアの南部で この曲を聞いた"
+      "en": "[mysterious elfyn] He had heard that song far south in Xin'trea,",
+      "ja": "彼はシン＝トリアの南部でこの曲を聞いた"
     }
   },
   {
     "translation": {
       "en": "hummed in doorways, sung in streets and taverns, always amongst the lowborn.",
-      "ja": "平民たちが玄関先で口ずさみ 路上や酒場で歌っていた"
+      "ja": "平民たちが玄関先で口ずさみ路上や酒場で歌っていた"
     }
   },
   {
@@ -4027,7 +4027,7 @@
   },
   {
     "translation": {
-      "en": "We're not far from her. Tread lightly if you can.",
+      "en": "[Éile] We're not far from her. Tread lightly if you can.",
       "ja": "もうすぐよ　用心して"
     }
   },
@@ -4081,13 +4081,13 @@
   },
   {
     "translation": {
-      "en": "- - Fuck's sake.",
+      "en": "-[laughing] -[groans] Fuck's sake.",
       "ja": "最悪だ"
     }
   },
   {
     "translation": {
-      "en": "The clans are gone.",
+      "en": "[Scían] The clans are gone.",
       "ja": "一族は消えた"
     }
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "translation": {
-      "en": "I sense the echo of slaughter on you.",
+      "en": "[female voice echoing] I sense the echo of slaughter on you.",
       "ja": "虐殺の残響を感じる"
     }
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "translation": {
-      "en": "Interesting…",
+      "en": "[whispers overlapping] Interesting…",
       "ja": "興味深い"
     }
   },
@@ -4160,7 +4160,7 @@
   {
     "translation": {
       "en": "One that raises me above any highborn, royal, or army.",
-      "ja": "貴族や王族や軍隊にも 勝る力だ"
+      "ja": "貴族や王族や軍隊にも勝る力だ"
     }
   },
   {
@@ -4184,7 +4184,7 @@
   {
     "translation": {
       "en": "Are you willing to sacrifice anything for it, no matter what the cost?",
-      "ja": "そのためなら どんな犠牲でも払えるか？"
+      "ja": "そのためならどんな犠牲でも払えるか？"
     }
   },
   {
@@ -4256,13 +4256,13 @@
   {
     "translation": {
       "en": "If not for me, then for your ancestors.",
-      "ja": "あなたの 祖先のためだったら？"
+      "ja": "あなたの祖先のためだったら？"
     }
   },
   {
     "translation": {
       "en": "Xin'trea stole your tribe's sacred blade.",
-      "ja": "シン＝トリアが 一族から奪った"
+      "ja": "シン＝トリアが一族から奪った"
     }
   },
   {
@@ -4334,7 +4334,7 @@
   {
     "translation": {
       "en": "If you even make it that far travelling with the enemy.",
-      "ja": "たとえ敵と共に 到達できたとしてもね"
+      "ja": "たとえ敵と共に到達できたとしてもね"
     }
   },
   {
@@ -4370,7 +4370,7 @@
   {
     "translation": {
       "en": "She's got contacts from sellswording across the land. Contacts we may need.",
-      "ja": "彼女なら大陸中の傭兵と 連絡を取れる"
+      "ja": "彼女なら大陸中の傭兵と連絡を取れる"
     }
   },
   {
@@ -4393,13 +4393,13 @@
   },
   {
     "translation": {
-      "en": "These changing skies bode a darkness.",
+      "en": "[Scían] These changing skies bode a darkness.",
       "ja": "暗闇を前兆する空だ"
     }
   },
   {
     "translation": {
-      "en": "We have a chance if we do it together.",
+      "en": "[Éile] We have a chance if we do it together.",
       "ja": "手を組めば望みがある"
     }
   },
@@ -4411,13 +4411,13 @@
   },
   {
     "translation": {
-      "en": "- I need you. We need you. - You have your own path to take.",
+      "en": "-I need you. We need you. -You have your own path to take.",
       "ja": "あなたが必要なの 自分の道を進め"
     }
   },
   {
     "translation": {
-      "en": "I can get us past the gates and into the palace.",
+      "en": "[Fjall] I can get us past the gates and into the palace.",
       "ja": "宮殿まで行く方法はある"
     }
   },
@@ -4454,7 +4454,7 @@
   {
     "translation": {
       "en": "The only good thing that's come of all this",
-      "ja": "この混乱で得られた 唯一の救いは"
+      "ja": "この混乱で得られた唯一の救いは"
     }
   },
   {
@@ -4466,13 +4466,13 @@
   {
     "translation": {
       "en": "And may your father suffer eternity in a lonely grave.",
-      "ja": "あなたの父親は 永遠に苦しめばいい"
+      "ja": "あなたの父親は永遠に苦しめばいい"
     }
   },
   {
     "translation": {
       "en": "My father should have finished King Darach's work.",
-      "ja": "父は ダラック王の 仕事を全うし―"
+      "ja": "父は ダラック王の仕事を全うし―"
     }
   },
   {
@@ -4501,7 +4501,7 @@
   },
   {
     "translation": {
-      "en": "- What are you doing? - He's the one with an axe.",
+      "en": "-What are you doing? -He's the one with an axe.",
       "ja": "やめて 斧を持つのは彼よ"
     }
   },
@@ -4525,20 +4525,20 @@
   },
   {
     "translation": {
-      "en": "Have I?",
+      "en": "[Éile] Have I?",
       "ja": "私が？"
     }
   },
   {
     "translation": {
       "en": "Your instincts are good, but you let your emotions control you.",
-      "ja": "勘はいいけど 感情に支配されている"
+      "ja": "勘はいいけど感情に支配されている"
     }
   },
   {
     "translation": {
       "en": "And you, you have forgotten how to work as part of a clan.",
-      "ja": "あなたは一族の戦い方を 忘れてしまった"
+      "ja": "あなたは一族の戦い方を忘れてしまった"
     }
   },
   {
@@ -4567,19 +4567,19 @@
   },
   {
     "translation": {
-      "en": "Three against an empire.",
+      "en": "[Fjall] Three against an empire.",
       "ja": "３人で帝国と戦う"
     }
   },
   {
     "translation": {
-      "en": "Not enough. We need to find more.",
+      "en": "[Scían] Not enough. We need to find more.",
       "ja": "足りない　もっと必要だ"
     }
   },
   {
     "translation": {
-      "en": "Then we'll find others who want to kill the bitch.",
+      "en": "[Éile] Then we'll find others who want to kill the bitch.",
       "ja": "女王を殺したい人を探す"
     }
   },
@@ -4591,44 +4591,44 @@
   },
   {
     "translation": {
-      "en": "And so two became three.",
+      "en": "[mysterious elfyn] And so two became three.",
       "ja": "２人は３人になった"
     }
   },
   {
     "translation": {
       "en": "The first drops in a torrent that would change the world forever.",
-      "ja": "世界を一変させるであろう 最初の一滴だった"
+      "ja": "世界を一変させるであろう最初の一滴だった"
     }
   },
   {
     "translation": {
-      "en": "♪ We are the Black Rose ♪",
-      "ja": "私たちは 　　ブラック･ローズだ"
+      "en": "[Éile] ♪ We are the Black Rose ♪",
+      "ja": "私たちは　　ブラック･ローズだ"
     }
   },
   {
     "translation": {
       "en": "♪ Let no one doubt our cause ♪",
-      "ja": "私たちの信念を 　　誰にも疑わせるな"
+      "ja": "私たちの信念を　　誰にも疑わせるな"
     }
   },
   {
     "translation": {
       "en": "♪ Rise up and let them feel our thorns ♪",
-      "ja": "立ち上がり 　　とげを刺してやれ"
+      "ja": "立ち上がり　　とげを刺してやれ"
     }
   },
   {
     "translation": {
       "en": "♪ And freedom will be ours ♪",
-      "ja": "自由は 　　私たちのものになる"
+      "ja": "自由は　　私たちのものになる"
     }
   },
   {
     "translation": {
-      "en": "♪ We are the Black- Thorned Rose ♪",
-      "ja": "とげのある 　　ブラック･ローズだ"
+      "en": "♪ We are the Black-Thorned Rose ♪",
+      "ja": "とげのある　　ブラック･ローズだ"
     }
   },
   {
@@ -4640,7 +4640,7 @@
   {
     "translation": {
       "en": "♪ Rise up and let them hear our roar ♪",
-      "ja": "立ち上がり 　　雄たけびを聞かせろ"
+      "ja": "立ち上がり　　雄たけびを聞かせろ"
     }
   },
   {
@@ -4676,31 +4676,31 @@
   {
     "translation": {
       "en": "♪ Rise up from the soil we till ♪",
-      "ja": "耕した土地から 　　　　立ち上がれ"
+      "ja": "耕した土地から　　　　立ち上がれ"
     }
   },
   {
     "translation": {
       "en": "♪ Rise up from the soil that they own ♪",
-      "ja": "彼らが所有する 　　土地から立ち上がれ"
+      "ja": "彼らが所有する　　土地から立ち上がれ"
     }
   },
   {
     "translation": {
       "en": "♪ We are the Black Rose ♪",
-      "ja": "私たちは 　　ブラック･ローズだ"
+      "ja": "私たちは　　ブラック･ローズだ"
     }
   },
   {
     "translation": {
       "en": "♪ Let no one doubt our cause ♪",
-      "ja": "私たちの信念を 　　誰にも疑わせるな"
+      "ja": "私たちの信念を　　誰にも疑わせるな"
     }
   },
   {
     "translation": {
       "en": "♪ Rise up and let them feel our thorns ♪",
-      "ja": "立ち上がり 　　とげを刺してやれ"
+      "ja": "立ち上がり　　とげを刺してやれ"
     }
   },
   {
@@ -4711,8 +4711,8 @@
   },
   {
     "translation": {
-      "en": "♪ We are the Black- Thorned Rose ♪",
-      "ja": "とげのある 　　ブラック･ローズだ"
+      "en": "♪ We are the Black-Thorned Rose ♪",
+      "ja": "とげのある　　ブラック･ローズだ"
     }
   },
   {
@@ -4724,7 +4724,7 @@
   {
     "translation": {
       "en": "♪ Rise up and let them hear our roar ♪",
-      "ja": "立ち上がり 　　雄たけびを聞かせろ"
+      "ja": "立ち上がり　　雄たけびを聞かせろ"
     }
   },
   {
@@ -4748,7 +4748,7 @@
   {
     "translation": {
       "en": "♪ Till the land is covered With petals like snow ♪",
-      "ja": "雪のように花びらで 　　　　覆いつくすまで"
+      "ja": "雪のように花びらで　　　　覆いつくすまで"
     }
   },
   {
@@ -4766,31 +4766,31 @@
   {
     "translation": {
       "en": "♪ We are the Black Rose ♪",
-      "ja": "私たちは 　　ブラック･ローズだ"
+      "ja": "私たちは　　ブラック･ローズだ"
     }
   },
   {
     "translation": {
       "en": "♪ Let no one doubt our cause ♪",
-      "ja": "私たちの信念を 　　誰にも疑わせるな"
+      "ja": "私たちの信念を　　誰にも疑わせるな"
     }
   },
   {
     "translation": {
       "en": "♪ Rise up and let them feel our thorns ♪",
-      "ja": "立ち上がり 　　とげを刺してやれ"
+      "ja": "立ち上がり　　とげを刺してやれ"
     }
   },
   {
     "translation": {
       "en": "♪ And freedom will be ours ♪",
-      "ja": "自由は 　　私たちのものになる"
+      "ja": "自由は　　私たちのものになる"
     }
   },
   {
     "translation": {
-      "en": "♪ We are the Black- Thorned Rose ♪",
-      "ja": "とげのある 　　ブラック･ローズだ"
+      "en": "♪ We are the Black-Thorned Rose ♪",
+      "ja": "とげのある　　ブラック･ローズだ"
     }
   },
   {
@@ -4802,7 +4802,7 @@
   {
     "translation": {
       "en": "♪ Rise up and let them hear our roar ♪",
-      "ja": "立ち上がり 　　雄たけびを聞かせろ"
+      "ja": "立ち上がり　　雄たけびを聞かせろ"
     }
   },
   {
@@ -4813,8 +4813,8 @@
   },
   {
     "translation": {
-      "en": "♪ We are the Black- Thorned Rose ♪",
-      "ja": "とげのある 　　ブラック･ローズだ"
+      "en": "♪ We are the Black-Thorned Rose ♪",
+      "ja": "とげのある　　ブラック･ローズだ"
     }
   },
   {
@@ -4826,7 +4826,7 @@
   {
     "translation": {
       "en": "♪ Rise up and let them feel our thorns ♪",
-      "ja": "立ち上がり 　　とげを刺してやれ"
+      "ja": "立ち上がり　　とげを刺してやれ"
     }
   },
   {

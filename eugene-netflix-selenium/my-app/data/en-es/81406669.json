@@ -1,62 +1,62 @@
 [
   {
     "translation": {
-      "en": "We have a female patient, unconscious with a head injury.",
-      "es": "Aquí 742. Paciente inconsciente con herida en la cabeza."
+      "en": "[paramedic 1] We have a female patient, unconscious with a head injury.",
+      "es": "Aquí 742. Paciente inconscientecon herida en la cabeza."
     }
   },
   {
     "translation": {
-      "en": "Olivia, can you hear me?",
+      "en": "[paramedic 2] Olivia, can you hear me?",
       "es": "Olivia, ¿me oyes?"
     }
   },
   {
     "translation": {
-      "en": "- Olivia, can you hear me? -",
+      "en": "-Olivia, can you hear me? -[gasps]",
       "es": "Olivia, ¿me oyes?"
     }
   },
   {
     "translation": {
-      "en": "- - Fuck.",
-      "es": "- Mierda. - No pasa nada."
+      "en": "-[cardiac monitor beeping] -[Olivia] Fuck.",
+      "es": "- Mierda.- No pasa nada."
     }
   },
   {
     "translation": {
-      "en": "- Look, it's okay. It's okay. No. - You're okay.",
-      "es": "- Mierda. - No pasa nada. - Tranquila. - Estás bien. Estás en una ambulancia."
+      "en": "-Look, it's okay. It's okay. No. -[paramedic 2] You're okay.",
+      "es": "- Mierda.- No pasa nada. - Tranquila.- Estás bien. Estás en una ambulancia."
     }
   },
   {
     "translation": {
-      "en": "- You're in an ambulance. - No, no. I need to--",
-      "es": "- Tranquila. - Estás bien. Estás en una ambulancia. No. Tengo que…"
+      "en": "-You're in an ambulance. -No, no. I need to--",
+      "es": "- Tranquila.- Estás bien. Estás en una ambulancia. No. Tengo que…"
     }
   },
   {
     "translation": {
-      "en": "- - Let me out.",
+      "en": "-[monitor beeping rapidly] -Let me out.",
       "es": "Déjenme salir."
     }
   },
   {
     "translation": {
-      "en": "- It's okay. - Off. Off.",
-      "es": "- Tranquila. - Déjame."
+      "en": "-It's okay. -Off. Off.",
+      "es": "- Tranquila.- Déjame."
     }
   },
   {
     "translation": {
-      "en": "- Stop. - What is-- Let me out!",
-      "es": "- Basta. - ¿Qué…? ¡Déjenme ir!"
+      "en": "-[paramedic 1] Stop. -What is-- Let me out!",
+      "es": "- Basta.- ¿Qué…? ¡Déjenme ir!"
     }
   },
   {
     "translation": {
-      "en": "- Miss Healy-- - Oh, my boob!",
-      "es": "- Señorita Hea… - ¡Mi teta!"
+      "en": "-Miss Healy-- -Oh, my boob!",
+      "es": "- Señorita Hea…- ¡Mi teta!"
     }
   },
   {
@@ -67,38 +67,38 @@
   },
   {
     "translation": {
-      "en": "- Grab her! - Oh, God! I wanna go home!",
-      "es": "- Agárrala. - ¡Dios! ¡Quiero ir a casa!"
+      "en": "-[paramedic 2] Grab her! -Oh, God! I wanna go home!",
+      "es": "- Agárrala.- ¡Dios! ¡Quiero ir a casa!"
     }
   },
   {
     "translation": {
-      "en": "Sorry. My bad.",
+      "en": "[man] Sorry. My bad.",
       "es": "Disculpa."
     }
   },
   {
     "translation": {
-      "en": "- That's too much eye contact. - Okay.",
-      "es": "- Demasiado contacto visual. - Bueno."
+      "en": "-[Olivia] That's too much eye contact. -[man] Okay.",
+      "es": "- Demasiado contacto visual.- Bueno."
     }
   },
   {
     "translation": {
-      "en": "- Oh, shit, I'm coming. - Okay.",
-      "es": "- Estoy acabando. - Bien."
+      "en": "-[panting] Oh, shit, I'm coming. -[man] Okay.",
+      "es": "- Estoy acabando.- Bien."
     }
   },
   {
     "translation": {
-      "en": "- You need to skedaddle. - Oh.",
+      "en": "-You need to skedaddle. -Oh.",
       "es": "Debes irte."
     }
   },
   {
     "translation": {
-      "en": "- You don't wanna grab a bite? - Well, I can't.",
-      "es": "- ¿No quieres comer algo? - No puedo."
+      "en": "-You don't wanna grab a bite? -Well, I can't.",
+      "es": "- ¿No quieres comer algo?- No puedo."
     }
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "translation": {
-      "en": "- Tomorrow? - No can do.",
-      "es": "- ¿Mañana? - No puedo."
+      "en": "-Tomorrow? -No can do.",
+      "es": "- ¿Mañana?- No puedo."
     }
   },
   {
@@ -146,13 +146,13 @@
   {
     "translation": {
       "en": "Yeah, well, existence is random, life is short.",
-      "es": "Sí, bueno, la existencia es aleatoria, la vida es corta."
+      "es": "Sí, bueno, la existencia es aleatoria,la vida es corta."
     }
   },
   {
     "translation": {
       "en": "If you're not making the most of every moment, what's the fucking point?",
-      "es": "Si no aprovechas cada momento, ¿qué sentido tiene?"
+      "es": "Si no aprovechas cada momento,¿qué sentido tiene?"
     }
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "translation": {
-      "en": "- Hey. - Yo, Liv.",
-      "es": "- Hola. - Hola, Liv."
+      "en": "-Hey. -Yo, Liv.",
+      "es": "- Hola.- Hola, Liv."
     }
   },
   {
     "translation": {
-      "en": "My wife loved that bar you recommended.  Told you the oysters would work.",
-      "es": "- A mi esposa le encantó el bar. - Te dije que le gustarían las ostras."
+      "en": "My wife loved that bar you recommended. [Liv] Told you the oysters would work.",
+      "es": "- A mi esposa le encantó el bar.- Te dije que le gustarían las ostras."
     }
   },
   {
@@ -200,7 +200,7 @@
   {
     "translation": {
       "en": "I'm not gonna hassle you about being a judge for the new TV show.",
-      "es": "No te insistiré para ser jueza en el nuevo programa."
+      "es": "No te insistiré para ser juezaen el nuevo programa."
     }
   },
   {
@@ -211,8 +211,8 @@
   },
   {
     "translation": {
-      "en": "World's top chefs being judged by Banquet's top food writer.",
-      "es": "Los mejores chefs, juzgados por la mejor crítica de Banquet."
+      "en": "\"World's top chefs being judged by Banquet's top food writer.\"",
+      "es": "\"Los mejores chefs,juzgados por la mejor crítica de Banquet\"."
     }
   },
   {
@@ -236,7 +236,7 @@
   {
     "translation": {
       "en": "In fact, I think a million people across 120 territories",
-      "es": "Y creo que un millón de personas, de 120 territorios distintos,"
+      "es": "Y creo que un millón de personas,de 120 territorios distintos,"
     }
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "translation": {
-      "en": "- Your writing's on point. - Oh, my God.",
-      "es": "- Escribes muy bien. - ¡Dios!"
+      "en": "-Your writing's on point. -Oh, my God.",
+      "es": "- Escribes muy bien.- ¡Dios!"
     }
   },
   {
@@ -278,7 +278,7 @@
   {
     "translation": {
       "en": "and this whole Australian thing, I can sell it.",
-      "es": "y todo eso de ser australiana… sí, puedo venderlo."
+      "es": "y todo eso de ser australiana…sí, puedo venderlo."
     }
   },
   {
@@ -302,7 +302,7 @@
   {
     "translation": {
       "en": "Outside the food industry, Liv Healy means nothing.",
-      "es": "Fuera de la industria gastronómica, Liv Healy no es nadie."
+      "es": "Fuera de la industria gastronómica,Liv Healy no es nadie."
     }
   },
   {
@@ -313,8 +313,8 @@
   },
   {
     "translation": {
-      "en": "- It's true, but harsh. - The show execs see you as a wild card.",
-      "es": "- Cierto, pero fuerte. - Los ejecutivos dudan de ti."
+      "en": "-It's true, but harsh. -The show execs see you as a wild card.",
+      "es": "- Cierto, pero fuerte.- Los ejecutivos dudan de ti."
     }
   },
   {
@@ -326,7 +326,7 @@
   {
     "translation": {
       "en": "that your voice can reach an audience outside the food industry.",
-      "es": "Debo demostrarles que tu voz puede llegar a un público fuera de esta industria."
+      "es": "Debo demostrarles que tu voz puede llegar a un públicofuera de esta industria."
     }
   },
   {
@@ -350,13 +350,13 @@
   {
     "translation": {
       "en": "Yeah, I need you to write something that raises your profile globally.",
-      "es": "Sí, necesito que escribas algo que eleve tu perfil a nivel mundial."
+      "es": "Sí, necesito que escribas algoque eleve tu perfil a nivel mundial."
     }
   },
   {
     "translation": {
       "en": "The execs need to see you reach a large audience,",
-      "es": "Deben verte alcanzar una audiencia más grande,"
+      "es": "Deben verte alcanzaruna audiencia más grande,"
     }
   },
   {
@@ -368,7 +368,7 @@
   {
     "translation": {
       "en": "The show launches in four weeks. Let's talk tomorrow. We'll talk strategy.",
-      "es": "El programa sale en un mes. Hablemos mañana de estrategia."
+      "es": "El programa sale en un mes.Hablemos mañana de estrategia."
     }
   },
   {
@@ -392,13 +392,13 @@
   {
     "translation": {
       "en": "Come Monday, it's on.",
-      "es": "- Ven el lunes y empezaremos. - Cielos."
+      "es": "- Ven el lunes y empezaremos.- Cielos."
     }
   },
   {
     "translation": {
       "en": "Seriously, this is gonna take you from Stefani Germanotta",
-      "es": "En serio, esto te llevará de ser Stefani Germanotta"
+      "es": "En serio, esto te llevaráde ser Stefani Germanotta"
     }
   },
   {
@@ -416,24 +416,24 @@
   {
     "translation": {
       "en": "Okay, I gotta bounce. My dog needs her epilepsy meds.",
-      "es": "Me voy. Mi perro necesita el remedio para la epilepsia."
+      "es": "Me voy. Mi perro necesitael remedio para la epilepsia."
     }
   },
   {
     "translation": {
-      "en": "- I'll talk to you soon. - Yeah.",
-      "es": "- Hablaremos pronto. - Sí."
+      "en": "-I'll talk to you soon. -Yeah.",
+      "es": "- Hablaremos pronto.- Sí."
     }
   },
   {
     "translation": {
-      "en": "- This is huge. - Wow.",
-      "es": "- Esto es enorme. - Vaya."
+      "en": "-This is huge. -Wow.",
+      "es": "- Esto es enorme.- Vaya."
     }
   },
   {
     "translation": {
-      "en": "- Don't fuck it up. - Uh- huh.",
+      "en": "-Don't fuck it up. -Uh-huh.",
       "es": "No la cagues."
     }
   },
@@ -445,14 +445,14 @@
   },
   {
     "translation": {
-      "en": "- Cheers. - Thank you.",
-      "es": "- Salud. - Gracias."
+      "en": "-Cheers. -Thank you.",
+      "es": "- Salud.- Gracias."
     }
   },
   {
     "translation": {
-      "en": "Ladies and gentlemen, we'll shortly begin our descent into Sydney,",
-      "es": "Damas y caballeros, pronto llegaremos a Sídney,"
+      "en": "[stewardess] Ladies and gentlemen, we'll shortly begin our descent into Sydney,",
+      "es": "Damas y caballeros,pronto llegaremos a Sídney,"
     }
   },
   {
@@ -463,8 +463,8 @@
   },
   {
     "translation": {
-      "en": "- Fuck me dead. How's the fucking humidity? - Welcome to Sydney, mate.",
-      "es": "- Carajo. ¿Qué es esta humedad de mierda? - Bienvenido a Sídney."
+      "en": "-Fuck me dead. How's the fucking humidity? -Welcome to Sydney, mate.",
+      "es": "- Carajo. ¿Qué es esta humedad de mierda?- Bienvenido a Sídney."
     }
   },
   {
@@ -506,13 +506,13 @@
   {
     "translation": {
       "en": "Don't see how this tops the air fryer we got her.",
-      "es": "No veo cómo supera a la freidora que le dimos."
+      "es": "No veo cómo superaa la freidora que le dimos."
     }
   },
   {
     "translation": {
-      "en": "- Hi. - This is the best present ever.",
-      "es": "- Hola. - Este sí es el mejor regalo del mundo."
+      "en": "-Hi. -This is the best present ever.",
+      "es": "- Hola.- Este sí es el mejor regalo del mundo."
     }
   },
   {
@@ -547,8 +547,8 @@
   },
   {
     "translation": {
-      "en": "- Okay. - I was drinking that.",
-      "es": "- Bien. - Estaba tomando."
+      "en": "-Okay. -[woman] I was drinking that.",
+      "es": "- Bien.- Estaba tomando."
     }
   },
   {
@@ -565,13 +565,13 @@
   },
   {
     "translation": {
-      "en": "You've been my ride- or- die since high school and my soul mate.",
-      "es": "Has sido mi compañera infalible desde la secundaria, mi alma gemela."
+      "en": "You've been my ride-or-die since high school and my soul mate.",
+      "es": "Has sido mi compañera infalibledesde la secundaria, mi alma gemela."
     }
   },
   {
     "translation": {
-      "en": "- Aw. - And there is no one in the world that I--",
+      "en": "-[Amy] Aw. -And there is no one in the world that I--",
       "es": "Y no hay nadie en este mundo que…"
     }
   },
@@ -595,7 +595,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, wake up, boofhead. -",
+      "en": "-Oh, wake up, boofhead. -[Liv groans]",
       "es": "Despiértate, tonta."
     }
   },
@@ -631,14 +631,14 @@
   },
   {
     "translation": {
-      "en": "- Welcome home. - Oh, get out.",
-      "es": "- Bienvenida a casa. - Vete."
+      "en": "-Welcome home. -Oh, get out.",
+      "es": "- Bienvenida a casa.- Vete."
     }
   },
   {
     "translation": {
       "en": "Oh, Mum, so the celebrant is confirmed, but I spoke to the florist.",
-      "es": "Mamá, el celebrante está confirmado, pero hablé con la florista,"
+      "es": "Mamá, el celebrante está confirmado,pero hablé con la florista,"
     }
   },
   {
@@ -662,19 +662,19 @@
   {
     "translation": {
       "en": "But the lilies will be just as pretty. Don't you think, Liv?",
-      "es": "Los lirios se verán bonitos. ¿No crees, Liv?"
+      "es": "Los lirios se verán bonitos.¿No crees, Liv?"
     }
   },
   {
     "translation": {
       "en": "Wonder what your gay ancestors would think about you entering into an antiquated institution",
-      "es": "¿Qué dirían tus ancestros gay de que entres a una institución anticuada"
+      "es": "¿Qué dirían tus ancestros gayde que entres a una institución anticuada"
     }
   },
   {
     "translation": {
       "en": "that's predominantly about oppression and ownership.",
-      "es": "que se trata más que nada de opresión y propiedad?"
+      "es": "que se trata más que nadade opresión y propiedad?"
     }
   },
   {
@@ -697,8 +697,8 @@
   },
   {
     "translation": {
-      "en": "- Yes! - Wow.",
-      "es": "- ¡Sí! - Vaya."
+      "en": "-Yes! -Wow.",
+      "es": "- ¡Sí!- Vaya."
     }
   },
   {
@@ -715,19 +715,19 @@
   },
   {
     "translation": {
-      "en": "- It's not that often. - I love having you both home.",
-      "es": "- No es tan seguido. - Me encanta tenerlos en casa."
+      "en": "-It's not that often. -I love having you both home.",
+      "es": "- No es tan seguido.- Me encanta tenerlos en casa."
     }
   },
   {
     "translation": {
-      "en": "- Now, what do you want for dinner? - Surprise me.",
-      "es": "- ¿Qué quieren de cenar? - Sorpréndeme."
+      "en": "-Now, what do you want for dinner? -[Liv] Surprise me.",
+      "es": "- ¿Qué quieren de cenar?- Sorpréndeme."
     }
   },
   {
     "translation": {
-      "en": "- Oh! No. Your lamb chops. Delectable. - Hmm.",
+      "en": "-Oh! No. Your lamb chops. Delectable. -[Gaz] Hmm.",
       "es": "¡No! Tus chuletas de cordero. Qué rico."
     }
   },
@@ -746,13 +746,13 @@
   {
     "translation": {
       "en": "Internationally renowned chefs compete to be crowned world's best.",
-      "es": "Chefs conocidos internacionalmente cocinando en una competencia."
+      "es": "Chefs conocidos internacionalmentecocinando en una competencia."
     }
   },
   {
     "translation": {
       "en": "Coming this fall, Banquet Royale, your newest food obsession.",
-      "es": "Este otoño, Banquet Royale, tu nueva obsesión gastronómica."
+      "es": "Este otoño, Banquet Royale,tu nueva obsesión gastronómica."
     }
   },
   {
@@ -770,13 +770,13 @@
   {
     "translation": {
       "en": "A great writer. And that's why they want me, my voice,",
-      "es": "Una excelente. Por eso me quieren a mí, mi voz,"
+      "es": "Una excelente.Por eso me quieren a mí, mi voz,"
     }
   },
   {
     "translation": {
       "en": "so I can share my taste with, like, a gajillion people.",
-      "es": "para que comparta mi gusto con millones de personas."
+      "es": "para que comparta mi gustocon millones de personas."
     }
   },
   {
@@ -793,20 +793,20 @@
   },
   {
     "translation": {
-      "en": "- Oh, her dad was hot. - Oh, her dad was hot.",
-      "es": "- Su papá era sexy. - Su papá era sexy."
+      "en": "-Oh, her dad was hot. -Oh, her dad was hot.",
+      "es": "- Su papá era sexy.- Su papá era sexy."
     }
   },
   {
     "translation": {
       "en": "Well, she cooked the most delicious date slice",
-      "es": "Trajo una tarta de dátiles fabulosa a la recaudación de fondos del club de surf."
+      "es": "Trajo una tarta de dátiles fabulosa a la recaudación de fondosdel club de surf."
     }
   },
   {
     "translation": {
       "en": "for the surf club fundraiser.",
-      "es": "a la recaudación de fondos del club de surf."
+      "es": "a la recaudación de fondosdel club de surf."
     }
   },
   {
@@ -824,18 +824,18 @@
   {
     "translation": {
       "en": "Oh, I'm so sorry. I didn't realize it was moist.",
-      "es": "Lo siento mucho. No me di cuenta de que estaba húmeda."
+      "es": "Lo siento mucho.No me di cuenta de que estaba húmeda."
     }
   },
   {
     "translation": {
-      "en": "Oh, Olivia.",
+      "en": "[Lorraine] Oh, Olivia.",
       "es": "Olivia."
     }
   },
   {
     "translation": {
-      "en": "- I need some air. - Hmm.",
+      "en": "-I need some air. -[Gaz] Hmm.",
       "es": "Necesito aire."
     }
   },
@@ -853,14 +853,14 @@
   },
   {
     "translation": {
-      "en": "Your face is a health hazard.",
+      "en": "[Liv] Your face is a health hazard.",
       "es": "Como tu cara."
     }
   },
   {
     "translation": {
       "en": "Forget it. I'll find a whistleblower willing to go on record.",
-      "es": "Olvídalo. Encontraré un informante dispuesto a hablar."
+      "es": "Olvídalo. Encontraré un informantedispuesto a hablar."
     }
   },
   {
@@ -889,13 +889,13 @@
   },
   {
     "translation": {
-      "en": "That's Mum to you.",
-      "es": "Soy mamá para ti."
+      "en": "That's \"Mum\" to you.",
+      "es": "Soy \"mamá\" para ti."
     }
   },
   {
     "translation": {
-      "en": "Her attitude stinks lately.",
+      "en": "[in Cantonese] Her attitude stinks lately.",
       "es": "Últimamente tiene mala actitud."
     }
   },
@@ -907,7 +907,7 @@
   },
   {
     "translation": {
-      "en": "- Just got the bill from yesterday. - Mmm.",
+      "en": "-Just got the bill from yesterday. -Mmm.",
       "es": "Recibí la factura de ayer."
     }
   },
@@ -926,7 +926,7 @@
   {
     "translation": {
       "en": "Yeah, it's pretty cool Liv flew halfway around the world for you.",
-      "es": "Sí, Liv voló hasta el otro lado del mundo por ti."
+      "es": "Sí, Liv volóhasta el otro lado del mundo por ti."
     }
   },
   {
@@ -944,19 +944,19 @@
   {
     "translation": {
       "en": "you probably wouldn't mind if I took my best friend to the awards tonight.",
-      "es": "que no te molestará si hoy llevo a mi mejor amiga a los premios."
+      "es": "que no te molestará si hoy llevoa mi mejor amiga a los premios."
     }
   },
   {
     "translation": {
       "en": "Oh! First I'm down 700 bucks, now this.",
-      "es": "que no te molestará si hoy llevo a mi mejor amiga a los premios. Primero pierdo 700 dólares, ahora esto."
+      "es": "que no te molestará si hoy llevoa mi mejor amiga a los premios. Primero pierdo 700 dólares, ahora esto."
     }
   },
   {
     "translation": {
       "en": "Oh, Liv's heard me bang on about the AJAs since uni.",
-      "es": "Liv me oye hablar de estos premios desde la universidad."
+      "es": "Liv me oye hablar de estos premiosdesde la universidad."
     }
   },
   {
@@ -1009,26 +1009,26 @@
   },
   {
     "translation": {
-      "en": "- Oh, my God. - Are you okay?",
-      "es": "- Dios mío. - ¿Estás bien?"
+      "en": "-Oh, my God. -Are you okay?",
+      "es": "- Dios mío.- ¿Estás bien?"
     }
   },
   {
     "translation": {
-      "en": "- Oh, it's just the kid's got my shit. - Come with me.",
+      "en": "-Oh, it's just the kid's got my shit. -Come with me.",
       "es": "Ese chico me robó mis cosas. Ven conmigo."
     }
   },
   {
     "translation": {
-      "en": "You're the cops. Really, that's all you can do?",
+      "en": "[Liv] You're the cops. Really, that's all you can do?",
       "es": "Son policías. ¿No pueden hacer nada más?"
     }
   },
   {
     "translation": {
       "en": "My green card is in that bag, and I cannot be stranded here,",
-      "es": "Se llevó mi tarjeta verde. No puedo quedarme aquí."
+      "es": "Se llevó mi tarjeta verde.No puedo quedarme aquí."
     }
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "translation": {
       "en": "Okay. Thank you, nice lady, for the magic water, but I'm gonna head off.",
-      "es": "Bien, gracias, señorita, por el agua mágica, pero debo irme."
+      "es": "Bien, gracias, señorita,por el agua mágica, pero debo irme."
     }
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "translation": {
       "en": "I have a flight tomorrow and no green card.",
-      "es": "Tengo un vuelo mañana y perdí la tarjeta verde."
+      "es": "Tengo un vuelo mañanay perdí la tarjeta verde."
     }
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "translation": {
       "en": "Yeah, no shit. I don't need a crystal, I need a--",
-      "es": "No me digas. No necesito un cristal, necesito…"
+      "es": "No me digas.No necesito un cristal, necesito…"
     }
   },
   {
@@ -1160,18 +1160,18 @@
   {
     "translation": {
       "en": "Right, my contact got you an appointment at the US consulate tomorrow at 10.",
-      "es": "Tienes cita en el consulado estadounidense mañana a las 10."
+      "es": "Tienes cita en el consulado estadounidensemañana a las 10."
     }
   },
   {
     "translation": {
       "en": "They'll give you a travel document, and you'll be good to make your flight.",
-      "es": "Te darán un documento de viaje y podrás tomar tu vuelo."
+      "es": "Te darán un documento de viajey podrás tomar tu vuelo."
     }
   },
   {
     "translation": {
-      "en": "You are one well- connected goddess. Thank you.",
+      "en": "You are one well-connected goddess. Thank you.",
       "es": "Eres una diosa con contactos. Gracias."
     }
   },
@@ -1184,7 +1184,7 @@
   {
     "translation": {
       "en": "Trying to teach my preteen drugs are bad. I can't let her know I'm a hypocrite.",
-      "es": "Les digo a mis hijos que las drogas son malas. Hipócrita."
+      "es": "Les digo a mis hijosque las drogas son malas. Hipócrita."
     }
   },
   {
@@ -1201,19 +1201,19 @@
   },
   {
     "translation": {
-      "en": "- What do we think of this? - Ah, serious BVE.",
-      "es": "- ¿Qué tal esto? - Vaya, muy MGV."
+      "en": "-What do we think of this? -Ah, serious BVE.",
+      "es": "- ¿Qué tal esto?- Vaya, muy MGV."
     }
   },
   {
     "translation": {
-      "en": "- Big vag energy. - Get fucked. I've had two kids.",
-      "es": "- Mujer de gran vagina. - Vete al diablo. Tuve dos hijos."
+      "en": "-Big vag energy. -Get fucked. I've had two kids.",
+      "es": "- Mujer de gran vagina.- Vete al diablo. Tuve dos hijos."
     }
   },
   {
     "translation": {
-      "en": "Oh, God, it's a compliment. - Oh. - It's like-- Yeah.",
+      "en": "Oh, God, it's a compliment. -Oh. -It's like-- Yeah.",
       "es": "Cielos, es un cumplido. Es como… Sí."
     }
   },
@@ -1225,14 +1225,14 @@
   },
   {
     "translation": {
-      "en": "- I'm just happy to be nominated. - That is absolute bullshit, Kwan.",
-      "es": "- Estoy feliz de estar nominada. - Eso es mentira, Kwan."
+      "en": "-I'm just happy to be nominated. -That is absolute bullshit, Kwan.",
+      "es": "- Estoy feliz de estar nominada.- Eso es mentira, Kwan."
     }
   },
   {
     "translation": {
-      "en": "- I know you wanna win. - Yeah, of course, but you can't say that.",
-      "es": "- Quieres ganar. - Obvio, pero no puedes decirlo."
+      "en": "-I know you wanna win. -Yeah, of course, but you can't say that.",
+      "es": "- Quieres ganar.- Obvio, pero no puedes decirlo."
     }
   },
   {
@@ -1244,7 +1244,7 @@
   {
     "translation": {
       "en": "Okay, it doesn't mean this Asian woman will win up against four men called Chris.",
-      "es": "Esta mujer asiática no ganará contra cuatro hombres llamados Chris."
+      "es": "Esta mujer asiática no ganarácontra cuatro hombres llamados Chris."
     }
   },
   {
@@ -1273,14 +1273,14 @@
   },
   {
     "translation": {
-      "en": "- Yes. - Okay.",
-      "es": "- Sí. - Bueno."
+      "en": "-Yes. -Okay.",
+      "es": "- Sí.- Bueno."
     }
   },
   {
     "translation": {
       "en": "So I was thinking, why don't you just come with me tonight?",
-      "es": "Estaba pensando… ¿por qué no vienes conmigo esta noche?"
+      "es": "Estaba pensando…¿por qué no vienes conmigo esta noche?"
     }
   },
   {
@@ -1292,13 +1292,13 @@
   {
     "translation": {
       "en": "And walk into a room full of people who have either rejected me or fired me?",
-      "es": "- ¿A ver gente que me rechazó o despidió? - Sí."
+      "es": "- ¿A ver gente que me rechazó o despidió?- Sí."
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - That's my idea of hell. Yeah, I know.",
-      "es": "- Es mi idea del infierno. - Lo sé."
+      "en": "-Yeah. -That's my idea of hell. Yeah, I know.",
+      "es": "- Es mi idea del infierno.- Lo sé."
     }
   },
   {
@@ -1310,31 +1310,31 @@
   {
     "translation": {
       "en": "Oh, but come on, now you're killing it. Okay? What is the best revenge?",
-      "es": "Vamos, ahora te va muy bien. ¿Cuál es la mejor venganza?"
+      "es": "Vamos, ahora te va muy bien.¿Cuál es la mejor venganza?"
     }
   },
   {
     "translation": {
       "en": "If you say living well, I will punch you in your perky bosoms.",
-      "es": "Si dices vivir bien, te golpearé."
+      "es": "Si dices \"vivir bien\", te golpearé."
     }
   },
   {
     "translation": {
       "en": "No, shoving your success in the face of those arseholes.",
-      "es": "No, restregar tu éxito en la cara de esos imbéciles."
+      "es": "No, restregar tu éxitoen la cara de esos imbéciles."
     }
   },
   {
     "translation": {
       "en": "You're gonna be a judge on a fancy TV show,",
-      "es": "Vas a ser jueza en un programa de televisión,"
+      "es": "Vas a ser juezaen un programa de televisión,"
     }
   },
   {
     "translation": {
       "en": "and I did just call in a massive favor to get you that consulate appointment.",
-      "es": "y acabo de hacerte un gran favor con la cita en el consulado."
+      "es": "y acabo de hacerte un gran favorcon la cita en el consulado."
     }
   },
   {
@@ -1363,44 +1363,44 @@
   },
   {
     "translation": {
-      "en": "- What? - What?",
-      "es": "- ¿Qué? - ¿Qué?"
+      "en": "-What? -What?",
+      "es": "- ¿Qué?- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "Thank you. Yes. Thanks very much. Appreciate it.",
+      "en": "[woman] Thank you. Yes. Thanks very much. Appreciate it.",
       "es": "Gracias. Sí. Muchas gracias."
     }
   },
   {
     "translation": {
-      "en": "- Hi. - Oh, hi, darling.",
-      "es": "- Hola. - Hola, cariño."
+      "en": "-Hi. -[Lorraine] Oh, hi, darling.",
+      "es": "- Hola.- Hola, cariño."
     }
   },
   {
     "translation": {
-      "en": "- Hi, Mary. - Heard about your ordeal with your bag.",
-      "es": "- Hola, Mary. - Terrible lo que pasó con tu bolso."
+      "en": "-Hi, Mary. -Heard about your ordeal with your bag.",
+      "es": "- Hola, Mary.- Terrible lo que pasó con tu bolso."
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Want a lollipop?",
-      "es": "- Sí. - ¿Quieres un dulce?"
+      "en": "-Yeah. -Want a lollipop?",
+      "es": "- Sí.- ¿Quieres un dulce?"
     }
   },
   {
     "translation": {
-      "en": "- Yes. Yes, I do. Oh, thank you. - This is a nice surprise.",
+      "en": "-Yes. Yes, I do. Oh, thank you. -This is a nice surprise.",
       "es": "Sí, quiero. Gracias. Qué linda sorpresa."
     }
   },
   {
     "translation": {
-      "en": "- What are you doing here? - I just need to see Dr. Price.",
-      "es": "- ¿Qué haces aquí? - Vine a ver al Dr. Price."
+      "en": "-What are you doing here? -I just need to see Dr. Price.",
+      "es": "- ¿Qué haces aquí?- Vine a ver al Dr. Price."
     }
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "translation": {
       "en": "I promised Amy I'd be her date at the Journalism Awards.",
-      "es": "Le prometí a Amy acompañarla a los premios de periodismo."
+      "es": "Le prometí a Amy acompañarlaa los premios de periodismo."
     }
   },
   {
@@ -1442,31 +1442,31 @@
   {
     "translation": {
       "en": "But more importantly, can I please get a lift to the consulate tomorrow?",
-      "es": "Y lo más importante, ¿me llevas al consulado mañana?"
+      "es": "Y lo más importante,¿me llevas al consulado mañana?"
     }
   },
   {
     "translation": {
-      "en": "- I need to get a new green card. - Why are you rushing back to New York?",
-      "es": "- Necesito la tarjeta verde. - ¿Por qué tanto apuro?"
+      "en": "-I need to get a new green card. -Why are you rushing back to New York?",
+      "es": "- Necesito la tarjeta verde.- ¿Por qué tanto apuro?"
     }
   },
   {
     "translation": {
       "en": "You're here now. Why not stay till the wedding?",
-      "es": "Estás aquí. ¿Por qué no te quedas hasta la boda?"
+      "es": "Estás aquí.¿Por qué no te quedas hasta la boda?"
     }
   },
   {
     "translation": {
-      "en": "Mum, the TV show. Huge, life- altering opportunity.",
-      "es": "Mamá, el programa de televisión. Una oportunidad que me cambia la vida."
+      "en": "Mum, the TV show. Huge, life-altering opportunity.",
+      "es": "Mamá, el programa de televisión.Una oportunidad que me cambia la vida."
     }
   },
   {
     "translation": {
       "en": "Well, I'm taking Gareth and Dalbert for a suit fitting in the morning.",
-      "es": "Debo acompañar a Gareth y Dalbert a probarse trajes."
+      "es": "Debo acompañar a Gareth y Dalberta probarse trajes."
     }
   },
   {
@@ -1502,19 +1502,19 @@
   {
     "translation": {
       "en": "It's just to take the edge off this shitastic event I've got tonight.",
-      "es": "Es solo para tolerar un evento que tengo esta noche."
+      "es": "Es solo para tolerar un eventoque tengo esta noche."
     }
   },
   {
     "translation": {
-      "en": "- My New York doctor gives them like candy. - Well, this isn't New York.",
-      "es": "En Nueva York me las dan. - Esto no es Nueva York. - Lo sé."
+      "en": "-My New York doctor gives them like candy. -Well, this isn't New York.",
+      "es": "En Nueva York me las dan. - Esto no es Nueva York.- Lo sé."
     }
   },
   {
     "translation": {
       "en": "I know.",
-      "es": "- Esto no es Nueva York. - Lo sé."
+      "es": "- Esto no es Nueva York.- Lo sé."
     }
   },
   {
@@ -1531,8 +1531,8 @@
   },
   {
     "translation": {
-      "en": "- I still party like I'm 20. - I know. I follow you on Instagram.",
-      "es": "- Salgo como si tuviera 20. - Lo sé. Te sigo en Instagram."
+      "en": "-I still party like I'm 20. -I know. I follow you on Instagram.",
+      "es": "- Salgo como si tuviera 20.- Lo sé. Te sigo en Instagram."
     }
   },
   {
@@ -1562,25 +1562,25 @@
   {
     "translation": {
       "en": "Oh, it's probably spiked because all of my shit was stolen today,",
-      "es": "Debe estar alta porque hoy me robaron todo,"
+      "es": "Debe estar altaporque hoy me robaron todo,"
     }
   },
   {
     "translation": {
       "en": "and Mum is on my back because I can't make dinner tonight.",
-      "es": "y mamá se ofendió porque no cenaré en casa."
+      "es": "y mamá se ofendióporque no cenaré en casa."
     }
   },
   {
     "translation": {
-      "en": "- Oh, Lorraine. She's a firecracker. - Yes.",
-      "es": "- Lo sé. Tu mamá es explosiva. - Sí."
+      "en": "-Oh, Lorraine. She's a firecracker. -Yes.",
+      "es": "- Lo sé. Tu mamá es explosiva.- Sí."
     }
   },
   {
     "translation": {
       "en": "But it must be nice to catch up with your mum and dad though.",
-      "es": "Pero debe ser lindo ponerte al día con tu mamá y tu papá."
+      "es": "Pero debe ser lindoponerte al día con tu mamá y tu papá."
     }
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "translation": {
       "en": "and as his doctor, that's either one hell of a misdiagnosis,",
-      "es": "y como su médico, lo diagnosticó terriblemente mal"
+      "es": "y como su médico,lo diagnosticó terriblemente mal"
     }
   },
   {
@@ -1627,8 +1627,8 @@
   },
   {
     "translation": {
-      "en": "- The who's who of Aussie journalism. - More like the who's that.",
-      "es": "- Los grandes del periodismo australiano. - O no tan grandes."
+      "en": "-The who's who of Aussie journalism. -More like the who's that.",
+      "es": "- Los grandes del periodismo australiano.- O no tan grandes."
     }
   },
   {
@@ -1640,13 +1640,13 @@
   {
     "translation": {
       "en": "Liv Healy, this is Jeremy Jackson, lifestyle writer for Standard.",
-      "es": "Liv Healy, Jeremy Jackson, escritor de The Standard."
+      "es": "Liv Healy, Jeremy Jackson,escritor de The Standard."
     }
   },
   {
     "translation": {
-      "en": "- Namaste. - Namaste.",
-      "es": "- Namasté. - Namasté."
+      "en": "-Namaste. -Namaste.",
+      "es": "- Namasté.- Namasté."
     }
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "translation": {
       "en": "Ah, ah, ah. No, I need both of these. This place is a battlefield.",
-      "es": "No, necesito dos. Esto es como estar en la guerra."
+      "es": "No, necesito dos.Esto es como estar en la guerra."
     }
   },
   {
@@ -1669,14 +1669,14 @@
   },
   {
     "translation": {
-      "en": "that out- of- office Amy is cool while still being professional.",
-      "es": "que fuera de la oficina soy genial,  pero profesional."
+      "en": "that out-of-office Amy is cool while still being professional.",
+      "es": "que fuera de la oficina soy genial, pero profesional."
     }
   },
   {
     "translation": {
-      "en": "- Are you a bit obsessed with your boss? - Yeah, she's terrifying.",
-      "es": "- ¿Estás obsesionada con tu jefa? - Sí, es aterradora."
+      "en": "-Are you a bit obsessed with your boss? -Yeah, she's terrifying.",
+      "es": "- ¿Estás obsesionada con tu jefa?- Sí, es aterradora."
     }
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "translation": {
       "en": "I actually interned for you when you were at the Star.",
-      "es": "Hice una pasantía para usted cuando estaba en Star."
+      "es": "Hice una pasantía para ustedcuando estaba en Star."
     }
   },
   {
@@ -1717,14 +1717,14 @@
   },
   {
     "translation": {
-      "en": "- You must be thinking of someone else. - No, definitely you.",
-      "es": "- Debía ser otra persona. - No, sin duda era usted."
+      "en": "-You must be thinking of someone else. -No, definitely you.",
+      "es": "- Debía ser otra persona.- No, sin duda era usted."
     }
   },
   {
     "translation": {
-      "en": "You also shut down all my pitches, said I was a shallow thinker.",
-      "es": "Nunca me dio lugar y dijo que era una pensadora superficial."
+      "en": "You also shut down all my pitches, said I was a \"shallow thinker.\"",
+      "es": "Nunca me dio lugar y dijoque era una \"pensadora superficial\"."
     }
   },
   {
@@ -1735,14 +1735,14 @@
   },
   {
     "translation": {
-      "en": "Mainly for top- tier publications, doing food and lifestyle stuff.",
-      "es": "Sí. En publicaciones de primera. Escribo sobre comida y estilo de vida."
+      "en": "Mainly for top-tier publications, doing food and lifestyle stuff.",
+      "es": "Sí. En publicaciones de primera.Escribo sobre comida y estilo de vida."
     }
   },
   {
     "translation": {
       "en": "So you've really moved on from being a shallow thinker then.",
-      "es": "Veo que dejaste de ser una pensadora superficial."
+      "es": "Veo que dejaste de seruna pensadora superficial."
     }
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "translation": {
       "en": "I have to prep for my Lifetime Achievement Award.",
-      "es": "Debo prepararme para el premio a la trayectoria."
+      "es": "Debo prepararmepara el premio a la trayectoria."
     }
   },
   {
@@ -1765,13 +1765,13 @@
   },
   {
     "translation": {
-      "en": "- - Oh, fuck off.",
+      "en": "-[dryer blowing] -Oh, fuck off.",
       "es": "Vete a la mierda."
     }
   },
   {
     "translation": {
-      "en": "Get it together, woman.",
+      "en": "[clears throat] Get it together, woman.",
       "es": "Contrólate, mujer."
     }
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "translation": {
-      "en": "- A hundred. - Oh!",
+      "en": "-A hundred. -Oh!",
       "es": "Cien."
     }
   },
@@ -1808,19 +1808,19 @@
   {
     "translation": {
       "en": "Deal, but I would like it noted the price of narcotics in this country is fucking outrageous.",
-      "es": "Trato, pero que conste que el precio de los narcóticos aquí es escandaloso."
+      "es": "Trato, pero que conste que el preciode los narcóticos aquí es escandaloso."
     }
   },
   {
     "translation": {
-      "en": "- Noted. -",
+      "en": "-Noted. -[chuckles]",
       "es": "Anotado."
     }
   },
   {
     "translation": {
       "en": "Hey, Jez. Welcome to the party, man. You want in?",
-      "es": "Hola, Jez. Bienvenido a la fiesta. ¿Quieres?"
+      "es": "Hola, Jez.Bienvenido a la fiesta. ¿Quieres?"
     }
   },
   {
@@ -1831,7 +1831,7 @@
   },
   {
     "translation": {
-      "en": "They say, Carpe that diem, my friend.",
+      "en": "They say, \"Carpe that diem,\" my friend.",
       "es": "Sabes lo que dicen. Hay que carpe diem, amigo."
     }
   },
@@ -1855,14 +1855,14 @@
   },
   {
     "translation": {
-      "en": "- She's really forging a legacy. - Yeah, she's an assassin.",
-      "es": "- Realmente dejará un legado. - Sí, nada la detiene."
+      "en": "-She's really forging a legacy. -Yeah, she's an assassin.",
+      "es": "- Realmente dejará un legado.- Sí, nada la detiene."
     }
   },
   {
     "translation": {
       "en": "But as you said, babe, some average white guy's gonna win it because the system's rigged against you.",
-      "es": "Pero como dijiste, ganará un tipo blanco porque el sistema está en tu contra."
+      "es": "Pero como dijiste, ganará un tipo blancoporque el sistema está en tu contra."
     }
   },
   {
@@ -1874,7 +1874,7 @@
   {
     "translation": {
       "en": "Good because no one outside these four walls gives a shit about any of this. Trust me.",
-      "es": "Bien, porque a nadie fuera de esta sala le importa un carajo esto."
+      "es": "Bien, porque a nadie fuera de esta salale importa un carajo esto."
     }
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "translation": {
       "en": "broke a human trafficking operation wide open.",
-      "es": "puso fin a una operación de tráfico de personas."
+      "es": "puso fin a una operaciónde tráfico de personas."
     }
   },
   {
@@ -1904,13 +1904,13 @@
   {
     "translation": {
       "en": "But you and I both know that Amy's too good for The Standard,",
-      "es": "Ambas sabemos que Amy es demasiado buena para The Standard,"
+      "es": "Ambas sabemos que Amyes demasiado buena para The Standard,"
     }
   },
   {
     "translation": {
       "en": "but in this backward arsehole part of the planet, it's the best she can do.",
-      "es": "pero en este país atrasado de mierda, es lo mejor que conseguirá."
+      "es": "pero en este país atrasado de mierda,es lo mejor que conseguirá."
     }
   },
   {
@@ -1922,37 +1922,37 @@
   {
     "translation": {
       "en": "And you need to keep her star so she doesn't outgrow you.",
-      "es": "Y debes mantenerla contenta para que no los deje."
+      "es": "Y debes mantenerla contentapara que no los deje."
     }
   },
   {
     "translation": {
-      "en": "- I am going to find my seat. - Okay.",
+      "en": "-I am going to find my seat. -Okay.",
       "es": "Me voy a sentar. De acuerdo."
     }
   },
   {
     "translation": {
-      "en": "- Dude, what the fuck? - What?",
-      "es": "- Amiga, ¿qué carajo? - ¿Qué?"
+      "en": "-Dude, what the fuck? -What?",
+      "es": "- Amiga, ¿qué carajo?- ¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "- You just insulted my boss. - She's fine-- I said you were amazing.",
-      "es": "- Insultaste a mi jefa. - Dije que eras increíble."
+      "en": "-You just insulted my boss. -She's fine-- I said you were amazing.",
+      "es": "- Insultaste a mi jefa.- Dije que eras increíble."
     }
   },
   {
     "translation": {
       "en": "Okay, you think this is all a joke, but it's important to me.",
-      "es": "Esto te parece una broma, pero es importante para mí."
+      "es": "Esto te parece una broma,pero es importante para mí."
     }
   },
   {
     "translation": {
       "en": "Which is why I'm here, even though it's fucking torture.",
-      "es": "Por eso estoy aquí, aunque sea una tortura."
+      "es": "Por eso estoy aquí,aunque sea una tortura."
     }
   },
   {
@@ -1963,8 +1963,8 @@
   },
   {
     "translation": {
-      "en": "- What's wrong with trying to have fun? - Because you always take things too far.",
-      "es": "- ¿Qué tiene de malo querer divertirse? - Que siempre te pasas."
+      "en": "-What's wrong with trying to have fun? -Because you always take things too far.",
+      "es": "- ¿Qué tiene de malo querer divertirse?- Que siempre te pasas."
     }
   },
   {
@@ -1975,14 +1975,14 @@
   },
   {
     "translation": {
-      "en": "- You're the one that begged me to come. - Obviously, it was a bad idea.",
-      "es": "- Tú me rogaste que viniera. - Claramente, fue mala idea."
+      "en": "-You're the one that begged me to come. -Obviously, it was a bad idea.",
+      "es": "- Tú me rogaste que viniera.- Claramente, fue mala idea."
     }
   },
   {
     "translation": {
       "en": "Oh, all right, then. Well, if that's how you feel, I'll just go.",
-      "es": "Muy bien, entonces. Si eso es lo que sientes, me iré."
+      "es": "Muy bien, entonces.Si eso es lo que sientes, me iré."
     }
   },
   {
@@ -1993,8 +1993,8 @@
   },
   {
     "translation": {
-      "en": "- No. Forget it, I'm going. - Liv! Liv!",
-      "es": "- No. Olvídalo, me voy. - ¡Liv!"
+      "en": "-No. Forget it, I'm going. -Liv! Liv!",
+      "es": "- No. Olvídalo, me voy.- ¡Liv!"
     }
   },
   {
@@ -2005,19 +2005,19 @@
   },
   {
     "translation": {
-      "en": "Good evening, ladies and gentlemen,",
+      "en": "[announcer] Good evening, ladies and gentlemen,",
       "es": "Buenas noches a todos."
     }
   },
   {
     "translation": {
       "en": "and welcome to the Australian Journalism Awards.",
-      "es": "Bienvenidos a los premios australianos de periodismo."
+      "es": "Bienvenidosa los premios australianos de periodismo."
     }
   },
   {
     "translation": {
-      "en": "- Well, this is exciting, isn't it? -",
+      "en": "-[woman] Well, this is exciting, isn't it? -[audience cheering]",
       "es": "Vaya, qué emocionante, ¿no?"
     }
   },
@@ -2059,7 +2059,7 @@
   },
   {
     "translation": {
-      "en": "How were the awards?",
+      "en": "[Lorraine] How were the awards?",
       "es": "¿Qué tal los premios?"
     }
   },
@@ -2078,7 +2078,7 @@
   {
     "translation": {
       "en": "They even took my moon cup. Fuck.",
-      "es": "Hasta me robaron la copa menstrual. Mierda."
+      "es": "Hasta me robaron la copa menstrual.Mierda."
     }
   },
   {
@@ -2095,7 +2095,7 @@
   },
   {
     "translation": {
-      "en": "- Oh, babe. - Hmm.",
+      "en": "-Oh, babe. -Hmm.",
       "es": "Ay, cariño."
     }
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "translation": {
-      "en": "- - Please don't touch my horn.",
+      "en": "-[honking horn] -Please don't touch my horn.",
       "es": "No toques mi bocina."
     }
   },
@@ -2132,13 +2132,13 @@
   {
     "translation": {
       "en": "Oh, babe, the Vanessas got a babysitter so they're a yes.",
-      "es": "Las Vanessas consiguieron niñera, así que vendrán."
+      "es": "Las Vanessas consiguieron niñera,así que vendrán."
     }
   },
   {
     "translation": {
       "en": "That means Liv's the only one who hasn't RSVP'd for our wedding.",
-      "es": "Entonces Liv es la única que no ha confirmado si vendrá."
+      "es": "Entonces Liv es la únicaque no ha confirmado si vendrá."
     }
   },
   {
@@ -2156,13 +2156,13 @@
   {
     "translation": {
       "en": "It's like you're holding it hostage for attention.",
-      "es": "Te haces la misteriosa para llamar la atención."
+      "es": "Te haces la misteriosapara llamar la atención."
     }
   },
   {
     "translation": {
-      "en": "- Shut up. Why would I do that? - Because that's what you do.",
-      "es": "- Cállate. ¿Por qué haría eso? - Es lo que haces."
+      "en": "-Shut up. Why would I do that? -Because that's what you do.",
+      "es": "- Cállate. ¿Por qué haría eso?- Es lo que haces."
     }
   },
   {
@@ -2179,20 +2179,20 @@
   },
   {
     "translation": {
-      "en": "- Move, dipshit! -",
+      "en": "-Move, dipshit! -[honking horn]",
       "es": "¡A un lado, idiota!"
     }
   },
   {
     "translation": {
-      "en": "- Friendly reminder, horn's for the driver. - Oh, God.",
-      "es": "- Recuerda, la bocina es del conductor. - Dios."
+      "en": "-Friendly reminder, horn's for the driver. -[Liv] Oh, God.",
+      "es": "- Recuerda, la bocina es del conductor.- Dios."
     }
   },
   {
     "translation": {
       "en": "Remember when you boycotted Nan's last Christmas?",
-      "es": "Boicoteaste la última Navidad de la abuela."
+      "es": "Boicoteastela última Navidad de la abuela."
     }
   },
   {
@@ -2204,13 +2204,13 @@
   {
     "translation": {
       "en": "Stalking a boy from Amnesty International is not a good cause, Olivia.",
-      "es": "Acosar a un chico de Amnistía Internacional no es una buena causa, Olivia."
+      "es": "Acosar a un chicode Amnistía Internacional no es una buena causa, Olivia."
     }
   },
   {
     "translation": {
-      "en": "And then at my year- 12 formal, you had sex with my date.",
-      "es": "Y en mi baile de último año, tuviste sexo con mi cita."
+      "en": "And then at my year-12 formal, you had sex with my date.",
+      "es": "Y en mi baile de último año,tuviste sexo con mi cita."
     }
   },
   {
@@ -2222,13 +2222,13 @@
   {
     "translation": {
       "en": "And Dad's funeral, you got hammered and passed out in the garden.",
-      "es": "En el funeral de papá, te emborrachaste y te desmayaste."
+      "es": "En el funeral de papá,te emborrachaste y te desmayaste."
     }
   },
   {
     "translation": {
-      "en": "- Right on my petunias. - Yeah.",
-      "es": "- Sobre mis petunias. - Sí."
+      "en": "-Right on my petunias. -Yeah.",
+      "es": "- Sobre mis petunias.- Sí."
     }
   },
   {
@@ -2246,13 +2246,13 @@
   {
     "translation": {
       "en": "but somehow, the focus always ends up on you.",
-      "es": "Pero, de alguna manera, la atención siempre termina en ti."
+      "es": "Pero, de alguna manera,la atención siempre termina en ti."
     }
   },
   {
     "translation": {
       "en": "If I'm so unbearable, why do you want me around?",
-      "es": "¿Para qué me quieren aquí si no me soportan?"
+      "es": "¿Para qué me quieren aquísi no me soportan?"
     }
   },
   {
@@ -2264,7 +2264,7 @@
   {
     "translation": {
       "en": "Oh, really? All right. Well, what's fun about your family thinking that you're a joke?",
-      "es": "¿En serio? ¿Qué tiene de divertido que tu familia piense que eres un chiste?"
+      "es": "¿En serio? ¿Qué tiene de divertidoque tu familia piense que eres un chiste?"
     }
   },
   {
@@ -2281,8 +2281,8 @@
   },
   {
     "translation": {
-      "en": "- Olivia. - Nah. No. No.",
-      "es": "- Olivia. - No. No."
+      "en": "-Olivia. -Nah. No. No.",
+      "es": "- Olivia.- No. No."
     }
   },
   {
@@ -2293,26 +2293,26 @@
   },
   {
     "translation": {
-      "en": "- No, it's no stopping. - No, I don't care. Just pull over.",
-      "es": "- No, no puedo frenar. - No me importa. Detente."
+      "en": "-No, it's no stopping. -No, I don't care. Just pull over.",
+      "es": "- No, no puedo frenar.- No me importa. Detente."
     }
   },
   {
     "translation": {
-      "en": "- I'm not getting a ticket. - Olivia.",
-      "es": "- ¡Para! - Me multarán. Olivia."
+      "en": "-I'm not getting a ticket. -Olivia.",
+      "es": "- ¡Para!- Me multarán. Olivia."
     }
   },
   {
     "translation": {
       "en": "Let's just get an ocean between us so we can all go back to being happy.",
-      "es": "Estemos a un océano de distancia y volvamos a ser felices."
+      "es": "Estemos a un océano de distanciay volvamos a ser felices."
     }
   },
   {
     "translation": {
-      "en": "- Is there an Olivia Healy? - Ah. Yes, I'm here. Hello.",
-      "es": "- ¿Hay una Olivia Healy? - Sí, estoy aquí. Hola."
+      "en": "-Is there an Olivia Healy? -Ah. Yes, I'm here. Hello.",
+      "es": "- ¿Hay una Olivia Healy?- Sí, estoy aquí. Hola."
     }
   },
   {
@@ -2323,7 +2323,7 @@
   },
   {
     "translation": {
-      "en": "Far out.",
+      "en": "[whispers] Far out.",
       "es": "Dios."
     }
   },
@@ -2335,8 +2335,8 @@
   },
   {
     "translation": {
-      "en": "No need to ma'am me.",
-      "es": "El señora no hace falta."
+      "en": "No need to \"ma'am\" me.",
+      "es": "El \"señora\" no hace falta."
     }
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "translation": {
       "en": "so if you could please just stamp it,",
-      "es": "así que sería genial si puedes ponerle el sello,"
+      "es": "así que sería genialsi puedes ponerle el sello,"
     }
   },
   {
@@ -2378,7 +2378,7 @@
   {
     "translation": {
       "en": "I take my orders from the US government, not you.",
-      "es": "Obedezco al gobierno estadounidense, no a usted."
+      "es": "Obedezco al gobierno estadounidense,no a usted."
     }
   },
   {
@@ -2390,19 +2390,19 @@
   {
     "translation": {
       "en": "because one little error can void an application.",
-      "es": "porque un pequeño error puede anular una solicitud."
+      "es": "porque un pequeño errorpuede anular una solicitud."
     }
   },
   {
     "translation": {
-      "en": "- All right, well, it's all in order. - I'll be the judge of that.",
-      "es": "- Bueno, todo está en orden. - Yo decidiré eso."
+      "en": "-All right, well, it's all in order. -I'll be the judge of that.",
+      "es": "- Bueno, todo está en orden.- Yo decidiré eso."
     }
   },
   {
     "translation": {
       "en": "I feel like we got off on the wrong foot. I'm actually a really lovely person.",
-      "es": "Empezamos con el pie izquierdo. En realidad, soy simpática."
+      "es": "Empezamos con el pie izquierdo.En realidad, soy simpática."
     }
   },
   {
@@ -2432,7 +2432,7 @@
   {
     "translation": {
       "en": "If you can be quiet for five seconds, I can do my job.",
-      "es": "Si se calla cinco segundos, podré trabajar."
+      "es": "Si se calla cinco segundos,podré trabajar."
     }
   },
   {
@@ -2443,31 +2443,31 @@
   },
   {
     "translation": {
-      "en": "Oh, my God, stop the goddamn tapping, please.",
-      "es": "Dios mío, deja de hacer ese ruido, por favor."
+      "en": "[echoing] Oh, my God, stop the goddamn tapping, please.",
+      "es": "Dios mío,deja de hacer ese ruido, por favor."
     }
   },
   {
     "translation": {
-      "en": "- Do not raise your voice at me. - Sorry.",
-      "es": "- Mire, no me levante la voz. - Perdón."
+      "en": "-Do not raise your voice at me. -Sorry.",
+      "es": "- Mire, no me levante la voz.- Perdón."
     }
   },
   {
     "translation": {
-      "en": "- Are you all right? You don't look well. - I'm fine.",
-      "es": "- ¿Está bien? No se ve bien. - Estoy bien."
+      "en": "-Are you all right? You don't look well. -I'm fine.",
+      "es": "- ¿Está bien? No se ve bien.- Estoy bien."
     }
   },
   {
     "translation": {
-      "en": "- You know you can't fly if you're sick. - No, I'm not sick.",
-      "es": "- No puede volar enferma. - No estoy enferma."
+      "en": "-You know you can't fly if you're sick. -No, I'm not sick.",
+      "es": "- No puede volar enferma.- No estoy enferma."
     }
   },
   {
     "translation": {
-      "en": "I have reason to believe you're lying to me,",
+      "en": "[Chad] I have reason to believe you're lying to me,",
       "es": "Creo que me está mintiendo,"
     }
   },
@@ -2491,20 +2491,20 @@
   },
   {
     "translation": {
-      "en": "Fuck. I need to get home!",
+      "en": "[gasps] Fuck. I need to get home!",
       "es": "Mierda. ¡Debo ir a casa!"
     }
   },
   {
     "translation": {
-      "en": "- - I wanna go home!",
+      "en": "-[cardiac monitor beeping rapidly] -I wanna go home!",
       "es": "¡Quiero irme a casa!"
     }
   },
   {
     "translation": {
-      "en": "Don't worry, you'll be home soon.",
-      "es": "- Pronto irás a casa. - Agárrala."
+      "en": "[paramedic 1] Don't worry, you'll be home soon.",
+      "es": "- Pronto irás a casa.- Agárrala."
     }
   },
   {
@@ -2533,7 +2533,7 @@
   },
   {
     "translation": {
-      "en": "and family history of heart disease.",
+      "en": "and family history of heart disease. [blows a raspberry]",
       "es": "y antecedentes de enfermedades cardíacas."
     }
   },
@@ -2545,13 +2545,13 @@
   },
   {
     "translation": {
-      "en": "- Pass me for what? - The medical.",
+      "en": "-Pass me for what? -The medical.",
       "es": "¿A qué? El examen médico para la tarjeta verde."
     }
   },
   {
     "translation": {
-      "en": "- It's the first step to get a green card. - Oh, no, I have a green card.",
+      "en": "-It's the first step to get a green card. -Oh, no, I have a green card.",
       "es": "El examen médico para la tarjeta verde. Tengo la tarjeta verde."
     }
   },
@@ -2570,7 +2570,7 @@
   {
     "translation": {
       "en": "After your incident, the consulate deemed that your poor health",
-      "es": "Por su incidente, el consulado decidió que su salud"
+      "es": "Por su incidente,el consulado decidió que su salud"
     }
   },
   {
@@ -2581,8 +2581,8 @@
   },
   {
     "translation": {
-      "en": "As one of two consulate- approved doctors in Sydney, I'm assigned to assess you.",
-      "es": "Como médica aprobada por el consulado, me tocó evaluarla."
+      "en": "As one of two consulate-approved doctors in Sydney, I'm assigned to assess you.",
+      "es": "Como médica aprobada por el consulado,me tocó evaluarla."
     }
   },
   {
@@ -2612,13 +2612,13 @@
   {
     "translation": {
       "en": "My boss thinks I'm on a plane now",
-      "es": "Mi jefa cree que estoy volviendo para estar en un programa."
+      "es": "Mi jefa cree que estoy volviendopara estar en un programa."
     }
   },
   {
     "translation": {
       "en": "so she can sell me for a TV show. It's a major deal.",
-      "es": "Mi jefa cree que estoy volviendo para estar en un programa. Es algo importante."
+      "es": "Mi jefa cree que estoy volviendopara estar en un programa. Es algo importante."
     }
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "translation": {
       "en": "Um. Okay. Uh, let me do the medical again.",
-      "es": "Bien. Déjeme hacer el examen médico otra vez."
+      "es": "Bien.Déjeme hacer el examen médico otra vez."
     }
   },
   {
@@ -2660,13 +2660,13 @@
   {
     "translation": {
       "en": "A year-- No, I've gotta be in New York in four weeks for the show.",
-      "es": "¿Qué? No, debo estar en Nueva York en un mes para el programa."
+      "es": "¿Qué? No, debo estar en Nueva Yorken un mes para el programa."
     }
   },
   {
     "translation": {
       "en": "Listen, you need to shift your cholesterol from a 6 to 4.5,",
-      "es": "Escuche, su nivel de colesterol debe pasar de 6 a 4,5."
+      "es": "Escuche, su nivel de colesteroldebe pasar de 6 a 4,5."
     }
   },
   {
@@ -2678,7 +2678,7 @@
   {
     "translation": {
       "en": "and lower your resting heart rate from 105 to at least 75.",
-      "es": "Su frecuencia cardíaca en reposo debe bajar de 105 a 75, como mínimo."
+      "es": "Su frecuencia cardíaca en reposodebe bajar de 105 a 75, como mínimo."
     }
   },
   {
@@ -2689,14 +2689,14 @@
   },
   {
     "translation": {
-      "en": "- Well, you don't know me. - I don't, and don't want to.",
-      "es": "- Bueno, no me conoce. - No, y no quiero."
+      "en": "-Well, you don't know me. -I don't, and don't want to.",
+      "es": "- Bueno, no me conoce.- No, y no quiero."
     }
   },
   {
     "translation": {
       "en": "I'm gonna get so well that I'm gonna smash that stupid medical,",
-      "es": "Me recuperaré, me irá genial en ese estúpido examen,"
+      "es": "Me recuperaré,me irá genial en ese estúpido examen,"
     }
   },
   {
@@ -2708,7 +2708,7 @@
   {
     "translation": {
       "en": "and I'm gonna be the best goddamn TV judge that the world's ever seen.",
-      "es": "y seré la mejor jueza de televisión que el mundo haya visto."
+      "es": "y seré la mejor jueza de televisiónque el mundo haya visto."
     }
   },
   {
@@ -2725,8 +2725,8 @@
   },
   {
     "translation": {
-      "en": "- Does this stay open or, I don't know-- - Shut it.",
-      "es": "- ¿Dejo abierta esta puerta o…? - Ciérrela."
+      "en": "-Does this stay open or, I don't know-- -Shut it.",
+      "es": "- ¿Dejo abierta esta puerta o…?- Ciérrela."
     }
   }
 ]

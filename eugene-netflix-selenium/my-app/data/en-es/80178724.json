@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "Hillston pitch is in 20 minutes.",
+      "en": "[Mousy] Hillston pitch is in 20 minutes.",
       "es": "Presentación de Hillston en 20 minutos."
     }
   },
@@ -91,7 +91,7 @@
   },
   {
     "translation": {
-      "en": "- wants us to... - Uh...",
+      "en": "-wants us to... -Uh...",
       "es": "...quiere que..."
     }
   },
@@ -115,13 +115,13 @@
   },
   {
     "translation": {
-      "en": "- Yeah! -",
-      "es": "- ¡Sí! - ¡Sí!"
+      "en": "-[woman] Yeah! -[crowd cheering]",
+      "es": "- ¡Sí!- ¡Sí!"
     }
   },
   {
     "translation": {
-      "en": "It's Dan's party!",
+      "en": "[man] It's Dan's party!",
       "es": "La fiesta de Dan."
     }
   },
@@ -146,7 +146,7 @@
   {
     "translation": {
       "en": "I mean, you used to hide behind interns, but now you're... you're so you.",
-      "es": "Te escondías tras los pasantes, pero ahora eres tan tú."
+      "es": "Te escondías tras los pasantes,pero ahora eres tan tú."
     }
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "translation": {
-      "en": "Hey,",
-      "es": "Oye."
+      "en": "\"Hey,",
+      "es": "\"Oye."
     }
   },
   {
     "translation": {
-      "en": "we're gonna be friends.",
-      "es": "Seremos amigos."
+      "en": "we're gonna be friends.\"",
+      "es": "Seremos amigos\"."
     }
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "translation": {
-      "en": "- No. - I went to...",
-      "es": "- No. - Fui a..."
+      "en": "-No. -I went to...",
+      "es": "- No.- Fui a..."
     }
   },
   {
@@ -217,7 +217,7 @@
   },
   {
     "translation": {
-      "en": "It was like this cleanse...",
+      "en": "[exhales] It was like this cleanse...",
       "es": "Es como una purificación"
     }
   },
@@ -283,8 +283,8 @@
   },
   {
     "translation": {
-      "en": "- When one succeeds, we all succeed. - Oh, come-- Bullshit.",
-      "es": "- Si uno triunfa, todos triunfamos. - Mentira."
+      "en": "-When one succeeds, we all succeed. -Oh, come-- Bullshit.",
+      "es": "- Si uno triunfa, todos triunfamos.- Mentira."
     }
   },
   {
@@ -313,7 +313,7 @@
   },
   {
     "translation": {
-      "en": "Was that the credenza?",
+      "en": "[Kate] Was that the credenza?",
       "es": "¿Fue el aparador?"
     }
   },
@@ -332,19 +332,19 @@
   {
     "translation": {
       "en": "Hello?",
-      "es": "- ¿Hola? - Buen día, señor Elliott."
+      "es": "- ¿Hola?- Buen día, señor Elliott."
     }
   },
   {
     "translation": {
-      "en": "Good morning, Mr. Elliott. This is South Hill Fertility Center",
-      "es": "- ¿Hola? - Buen día, señor Elliott. Clínica de Fertilidad South Hill. Para confirmar su cita hoy."
+      "en": "[Hugh] Good morning, Mr. Elliott. This is South Hill Fertility Center",
+      "es": "- ¿Hola?- Buen día, señor Elliott. Clínica de Fertilidad South Hill.Para confirmar su cita hoy."
     }
   },
   {
     "translation": {
       "en": "calling to confirm your appointment for today.",
-      "es": "Clínica de Fertilidad South Hill. Para confirmar su cita hoy."
+      "es": "Clínica de Fertilidad South Hill.Para confirmar su cita hoy."
     }
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "translation": {
-      "en": "Let me guess, Mr. Elliott. Another reschedule?",
+      "en": "[Hugh] Let me guess, Mr. Elliott. Another reschedule?",
       "es": "Adivinaré. ¿Quiere volver a cambiarla?"
     }
   },
@@ -391,14 +391,14 @@
   },
   {
     "translation": {
-      "en": "It's...",
+      "en": "It's... [sighs]",
       "es": "Es..."
     }
   },
   {
     "translation": {
       "en": "It's so expensive, you know. Well, then, what else have we been saving for?",
-      "es": "- Es muy costoso. - ¿Y para qué ahorramos?"
+      "es": "- Es muy costoso.- ¿Y para qué ahorramos?"
     }
   },
   {
@@ -410,7 +410,7 @@
   {
     "translation": {
       "en": "You know, a sperm analysis is nothing to be ashamed of.",
-      "es": "Un análisis de semen no es nada de qué avergonzarse."
+      "es": "Un análisis de semenno es nada de qué avergonzarse."
     }
   },
   {
@@ -457,7 +457,7 @@
   },
   {
     "translation": {
-      "en": "- Where do we keep the light bulbs again? -",
+      "en": "-Where do we keep the light bulbs again? -[cell phone chimes]",
       "es": "¿Dónde guardábamos las bombillas?"
     }
   },
@@ -469,8 +469,14 @@
   },
   {
     "translation": {
-      "en": "- Right. -",
+      "en": "-Right. -[cell phone chimes]",
       "es": "Claro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Right] Top Happy.",
+      "es": "Top Happy."
     }
   },
   {
@@ -481,13 +487,13 @@
   },
   {
     "translation": {
-      "en": "Fifty thousand dollar.",
+      "en": "[Right] Fifty thousand dollar.",
       "es": "Cincuenta mil."
     }
   },
   {
     "translation": {
-      "en": "One- seven- three- zero highway 27,",
+      "en": "One-seven-three-zero highway 27,",
       "es": "Uno, siete, tres, cero, autopista 27,"
     }
   },
@@ -553,14 +559,14 @@
   },
   {
     "translation": {
-      "en": "- Was that Tom Brady outside? - Sorry...",
-      "es": "- ¿Vi a Tom Brady afuera? - Perdón."
+      "en": "-Was that Tom Brady outside? -Sorry...",
+      "es": "- ¿Vi a Tom Brady afuera?- Perdón."
     }
   },
   {
     "translation": {
-      "en": "client confidentiality is our number- one priority.",
-      "es": "Confidencialidad de cliente es nuestra prioridad."
+      "en": "client confidentiality is our number-one priority.",
+      "es": "Confidencialidadde cliente es nuestra prioridad."
     }
   },
   {
@@ -607,7 +613,7 @@
   },
   {
     "translation": {
-      "en": "The path of life",
+      "en": "[Right] The path of life",
       "es": "El camino de la vida..."
     }
   },
@@ -698,7 +704,7 @@
   {
     "translation": {
       "en": "Is there a reason I'm wearing a diaper?",
-      "es": "Disculpe. ¿Hay alguna razón por la que uso pañal?"
+      "es": "Disculpe. ¿Hay alguna razónpor la que uso pañal?"
     }
   },
   {
@@ -733,7 +739,7 @@
   },
   {
     "translation": {
-      "en": "Make you more comfortable.",
+      "en": "[Left] Make you more comfortable.",
       "es": "Para más comodidad."
     }
   },
@@ -769,19 +775,19 @@
   },
   {
     "translation": {
-      "en": "What's that?",
+      "en": "[Miles] What's that?",
       "es": "¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[Miles] What?",
       "es": "¿Qué?"
     }
   },
   {
     "translation": {
-      "en": "Everything okay?",
+      "en": "[stutters] Everything okay?",
       "es": "¿Todo bien?"
     }
   },
@@ -793,7 +799,7 @@
   },
   {
     "translation": {
-      "en": "Miles?",
+      "en": "[man] Miles?",
       "es": "¿Miles?"
     }
   },
@@ -805,7 +811,7 @@
   },
   {
     "translation": {
-      "en": "Let's see if this thing worked.",
+      "en": "[heavy breathing] Let's see if this thing worked.",
       "es": "Veamos si esto funcionó."
     }
   },
@@ -829,43 +835,43 @@
   },
   {
     "translation": {
-      "en": "What time do you have to be at work in the morning?",
+      "en": "[Miles] What time do you have to be at work in the morning?",
       "es": "¿A qué hora entras mañana?"
     }
   },
   {
     "translation": {
-      "en": "I don't know, the usual.",
+      "en": "[Kate] I don't know, the usual.",
       "es": "No sé. Como siempre."
     }
   },
   {
     "translation": {
-      "en": "Do you want any water from the fridge? I need to hydrate.",
+      "en": "[Miles] Do you want any water from the fridge? I need to hydrate.",
       "es": "¿Necesitas agua? Creo que debo hidratarme."
     }
   },
   {
     "translation": {
-      "en": "No, it's okay, I'm just trying to sleep.",
+      "en": "[Kate] No, it's okay, I'm just trying to sleep.",
       "es": "No, gracias. Solo intento dormir."
     }
   },
   {
     "translation": {
-      "en": "Miles, is that the credenza?",
+      "en": "[Kate] Miles, is that the credenza?",
       "es": "Miles, ¿fue el aparador?"
     }
   },
   {
     "translation": {
-      "en": "Are you okay? Do I need to come down?",
+      "en": "[Kate] Are you okay? Do I need to come down?",
       "es": "¿Estás bien? ¿Bajo?"
     }
   },
   {
     "translation": {
-      "en": "No, no, it's fine.",
+      "en": "[both] No, no, it's fine.",
       "es": "No, está bien."
     }
   },
@@ -889,8 +895,8 @@
   },
   {
     "translation": {
-      "en": "- What are you? - I don't want any trouble.",
-      "es": "- ¿Qué eres? - No quiero problemas."
+      "en": "-What are you? -I don't want any trouble.",
+      "es": "- ¿Qué eres?- No quiero problemas."
     }
   },
   {
@@ -931,13 +937,13 @@
   },
   {
     "translation": {
-      "en": "- Take it easy. Take it easy. - What's happening?",
+      "en": "-Take it easy. Take it easy. -What's happening?",
       "es": "Tranquilo. ¿Qué pasa?"
     }
   },
   {
     "translation": {
-      "en": "- What's happening? - No.",
+      "en": "-What's happening? -No.",
       "es": "No."
     }
   },
@@ -955,7 +961,7 @@
   },
   {
     "translation": {
-      "en": "- That's what I'd like to know. - The only thing I know",
+      "en": "-That's what I'd like to know. -The only thing I know",
       "es": "Eso quisiera saber. Lo único que sé es"
     }
   },
@@ -1016,7 +1022,7 @@
   {
     "translation": {
       "en": "to... find whatever the fuck you are upstairs with my wife.",
-      "es": "y encontré lo que mierda seas arriba con mi esposa."
+      "es": "y encontré lo que mierda seas arribacon mi esposa."
     }
   },
   {
@@ -1045,8 +1051,8 @@
   },
   {
     "translation": {
-      "en": "The spa.",
-      "es": "- El spa. - El spa."
+      "en": "[both] The spa.",
+      "es": "- El spa.- El spa."
     }
   },
   {
@@ -1063,19 +1069,19 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - You can borrow",
-      "es": "- Sí. - Puedes tomar"
+      "en": "-Yeah. -You can borrow",
+      "es": "- Sí.- Puedes tomar"
     }
   },
   {
     "translation": {
       "en": "some of mine in the laundry room.",
-      "es": "- algo del lavadero. - Sí."
+      "es": "- algo del lavadero.- Sí."
     }
   },
   {
     "translation": {
-      "en": "There are shoes by the front door.",
+      "en": "[New Miles] There are shoes by the front door.",
       "es": "Hay zapatos en la entrada."
     }
   },
@@ -1087,7 +1093,7 @@
   },
   {
     "translation": {
-      "en": "I'm just gonna leave Kate a note.",
+      "en": "[New Miles] I'm just gonna leave Kate a note.",
       "es": "Le dejaré una nota a Kate."
     }
   },
@@ -1099,25 +1105,25 @@
   },
   {
     "translation": {
-      "en": "Okay, tell me this.",
+      "en": "[inhales] Okay, tell me this.",
       "es": "Bien, dime algo."
     }
   },
   {
     "translation": {
-      "en": "Four years old, co- op, pre- K.",
+      "en": "Four years old, co-op, pre-K.",
       "es": "Cuatro años, preescolar cooperativo."
     }
   },
   {
     "translation": {
       "en": "I'm drinking lemonade, waiting for my mom to pick me up. What happened?",
-      "es": "Bebo limonada y espero que mamá me recoja. ¿Qué pasó?"
+      "es": "Bebo limonada y esperoque mamá me recoja. ¿Qué pasó?"
     }
   },
   {
     "translation": {
-      "en": "Huh? Uh- huh. See?",
+      "en": "Huh? Uh-huh. See?",
       "es": "¿Ves?"
     }
   },
@@ -1142,7 +1148,7 @@
   {
     "translation": {
       "en": "Lake Valley overnight, seven minutes in heaven.",
-      "es": "Noche en Lake Valley, siete minutos en el cielo."
+      "es": "Noche en Lake Valley,siete minutos en el cielo."
     }
   },
   {
@@ -1153,26 +1159,26 @@
   },
   {
     "translation": {
-      "en": "- Oh, uh... - She told the whole school about it. I know, I know. I know she did. What, um...",
-      "es": "- Le contó a toda la escuela. - Ya sé. ¿Qué...?"
+      "en": "-Oh, uh... -She told the whole school about it. I know, I know. I know she did. What, um...",
+      "es": "- Le contó a toda la escuela.- Ya sé. ¿Qué...?"
     }
   },
   {
     "translation": {
       "en": "Hair color?",
-      "es": "- ¿Cabello? - Rubio."
+      "es": "- ¿Cabello?- Rubio."
     }
   },
   {
     "translation": {
-      "en": "- Blonde. - Right. Yeah, yeah. Um...",
+      "en": "-Blonde. -Right. Yeah, yeah. Um...",
       "es": "Claro. Sí."
     }
   },
   {
     "translation": {
-      "en": "- First initial. - E.",
-      "es": "- Inicial. - E."
+      "en": "-First initial. -E.",
+      "es": "- Inicial.- E."
     }
   },
   {
@@ -1189,32 +1195,44 @@
   },
   {
     "translation": {
-      "en": "- Yeah. See, not so easy, is it? - Okay. No, no, I- I know it. It's um...",
+      "en": "-Yeah. See, not so easy, is it? -Okay. No, no, I-I know it. It's um...",
       "es": "¿Ves? No es tan fácil, ¿no? No, lo sé. Es..."
     }
   },
   {
     "translation": {
-      "en": "- It's, uh, Ellen. - Ellen.",
-      "es": "- Es Ellen. - Ellen."
+      "en": "-It's, uh, Ellen. -Ellen.",
+      "es": "- Es Ellen.- Ellen."
     }
   },
   {
     "translation": {
-      "en": "Ellen. - Ellen, uh... Ellen, um... - What?",
+      "en": "Ellen. -Ellen, uh... Ellen, um... -What?",
       "es": "Ellen..."
     }
   },
   {
     "translation": {
-      "en": "- Hall something, right? - Halter?",
-      "es": "- Hall algo. - ¿Halter?"
+      "en": "-Hall something, right? -Halter?",
+      "es": "- Hall algo.- ¿Halter?"
     }
   },
   {
     "translation": {
       "en": "Halter. Halter.",
       "es": "Halter."
+    }
+  },
+  {
+    "translation": {
+      "en": "[both] Halther.",
+      "es": "Halther."
+    }
+  },
+  {
+    "translation": {
+      "en": "[both] Ellen Halther.",
+      "es": "Ellen Halther."
     }
   },
   {
@@ -1226,30 +1244,30 @@
   {
     "translation": {
       "en": "God, I know. She had that uptight preppy thing going on, right?",
-      "es": "- Lo sé. Era estirada, ¿no? - Ellen Halther."
+      "es": "- Lo sé. Era estirada, ¿no?- Ellen Halther."
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Ellen Halther.",
-      "es": "- Sí. - Ellen Halther."
+      "en": "-Yeah. -Ellen Halther.",
+      "es": "- Sí.- Ellen Halther."
     }
   },
   {
     "translation": {
       "en": "When was the last time you...",
-      "es": "- ¿Desde cuándo... - Sí."
+      "es": "- ¿Desde cuándo...- Sí."
     }
   },
   {
     "translation": {
-      "en": "- thought of... - Yeah. Yeah.",
+      "en": "-thought of... -Yeah. Yeah.",
       "es": "...no piensas en...?"
     }
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "Come on. [knocking]",
       "es": "Vamos."
     }
   },
@@ -1261,8 +1279,8 @@
   },
   {
     "translation": {
-      "en": "- Fuck off. - Sir...",
-      "es": "- Púdrete. - Señor. Por favor."
+      "en": "-Fuck off. -Sir...",
+      "es": "- Púdrete.- Señor. Por favor."
     }
   },
   {
@@ -1298,18 +1316,18 @@
   {
     "translation": {
       "en": "Reproductive cloning is still illegal in 187 countries.",
-      "es": "La clonación reproductiva es aún ilegal en 187 países."
+      "es": "La clonación reproductiva es aún ilegalen 187 países."
     }
   },
   {
     "translation": {
-      "en": "- Cloning? - Ultrarapid cloning",
-      "es": "- ¿Clonación? - Ultrarrápida."
+      "en": "-Cloning? -Ultrarapid cloning",
+      "es": "- ¿Clonación?- Ultrarrápida."
     }
   },
   {
     "translation": {
-      "en": "plus micro- synaptic memory transfer.",
+      "en": "plus micro-synaptic memory transfer.",
       "es": "Y transferencia de memoria."
     }
   },
@@ -1339,7 +1357,7 @@
   },
   {
     "translation": {
-      "en": "The me- me.",
+      "en": "The me-me.",
       "es": "El yo-yo."
     }
   },
@@ -1370,19 +1388,19 @@
   {
     "translation": {
       "en": "but we had maintenance problems.",
-      "es": "pero hay un problema. Es difícil conseguir piezas"
+      "es": "pero hay un problema.Es difícil conseguir piezas"
     }
   },
   {
     "translation": {
       "en": "The difficulties of getting parts from Korea, you wouldn't believe.",
-      "es": "pero hay un problema. Es difícil conseguir piezas de Corea. No lo creería."
+      "es": "pero hay un problema.Es difícil conseguir piezas de Corea. No lo creería."
     }
   },
   {
     "translation": {
-      "en": "So, for now, we bury the de- activees in the state forest.",
-      "es": "Por ahora, enterramos a desactivados en bosque estatal."
+      "en": "So, for now, we bury the de-activees in the state forest.",
+      "es": "Por ahora, enterramos a desactivadosen bosque estatal."
     }
   },
   {
@@ -1393,14 +1411,14 @@
   },
   {
     "translation": {
-      "en": "- Pretty good deal. - I'm sorry.",
-      "es": "- Es genial. - Disculpen."
+      "en": "-Pretty good deal. -[Miles] I'm sorry.",
+      "es": "- Es genial.- Disculpen."
     }
   },
   {
     "translation": {
-      "en": "You... - tried to murder me. - Please.",
-      "es": "- Intentaron... matarme. - Por favor."
+      "en": "You... -tried to murder me. -Please.",
+      "es": "- Intentaron... matarme.- Por favor."
     }
   },
   {
@@ -1412,7 +1430,7 @@
   {
     "translation": {
       "en": "You are the first to survive the deactivation.",
-      "es": "Es el primero que sobrevive a desactivación."
+      "es": "Es el primeroque sobrevive a desactivación."
     }
   },
   {
@@ -1441,7 +1459,7 @@
   },
   {
     "translation": {
-      "en": "Kidding.",
+      "en": "[Right laughs] Kidding.",
       "es": "Es broma."
     }
   },
@@ -1465,7 +1483,7 @@
   },
   {
     "translation": {
-      "en": "So, you are kidding?",
+      "en": "[stammers] So, you are kidding?",
       "es": "¿Bromea, entonces?"
     }
   },
@@ -1490,25 +1508,25 @@
   {
     "translation": {
       "en": "Well, I'm sorry, but you know what? Somehow that seems a little insufficient.",
-      "es": "Perdón, pero, de algún modo, eso no parece bastar."
+      "es": "Perdón, pero, de algún modo,eso no parece bastar."
     }
   },
   {
     "translation": {
-      "en": "I mean, at the minimum...  the minimum,",
+      "en": "I mean, at the minimum... [stammers] the minimum,",
       "es": "Como mínimo,"
     }
   },
   {
     "translation": {
       "en": "I should get a refund.",
-      "es": "- deben reembolsarme. - Perdón, no reembolso."
+      "es": "- deben reembolsarme.- Perdón, no reembolso."
     }
   },
   {
     "translation": {
-      "en": "- Sorry, no refunds. Corporate policy. - Hey!",
-      "es": "- deben reembolsarme. - Perdón, no reembolso. - Es política. - ¡Oye!"
+      "en": "-Sorry, no refunds. Corporate policy. -[Miles] Hey!",
+      "es": "- deben reembolsarme.- Perdón, no reembolso. - Es política.- ¡Oye!"
     }
   },
   {
@@ -1544,7 +1562,7 @@
   {
     "translation": {
       "en": "There's two of us, but there is one home, there's one car, one life.",
-      "es": "Somos dos, pero hay una casa, un auto, una vida."
+      "es": "Somos dos, pero hay una casa,un auto, una vida."
     }
   },
   {
@@ -1556,13 +1574,13 @@
   {
     "translation": {
       "en": "Okay, here's what we can do. Ten percent discount.",
-      "es": "Podemos hacer esto. Descuento de diez por ciento."
+      "es": "Podemos hacer esto.Descuento de diez por ciento."
     }
   },
   {
     "translation": {
       "en": "That's it?",
-      "es": "- ¿Eso es todo? - No."
+      "es": "- ¿Eso es todo?- No."
     }
   },
   {

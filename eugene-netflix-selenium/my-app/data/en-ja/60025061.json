@@ -1,7 +1,7 @@
 [
   {
     "translation": {
-      "en": "- Mr. Szpilman? - Hello.",
+      "en": "-Mr. Szpilman? -Hello.",
       "ja": "シュピルマンさん"
     }
   },
@@ -13,13 +13,13 @@
   },
   {
     "translation": {
-      "en": "- Who are you? - My name's Dorota, Jurek's sister.",
+      "en": "-Who are you? -My name's Dorota, Jurek's sister.",
       "ja": "どなた？ ユレックの妹　ドロタです"
     }
   },
   {
     "translation": {
-      "en": "- You're bleeding! - It's nothing.",
+      "en": "-You're bleeding! -It's nothing.",
       "ja": "額から血が… 平気だよ"
     }
   },
@@ -37,26 +37,26 @@
   },
   {
     "translation": {
-      "en": "- I don't know what to take. - You always take too much.",
+      "en": "-[father] I don't know what to take. -[mother] You always take too much.",
       "ja": "荷物は？ 最小限にして"
     }
   },
   {
     "translation": {
-      "en": "How many suitcases are you taking?",
+      "en": "[Regina] How many suitcases are you taking?",
       "ja": "持ちすぎよ"
     }
   },
   {
     "translation": {
-      "en": "I'm packing my red dress.",
+      "en": "[Halina] I'm packing my red dress.",
       "ja": "赤いドレスも"
     }
   },
   {
     "translation": {
-      "en": "And what, what do you think, should I, should I take uncle Szymon's portrait?",
-      "ja": "伯父さんの肖像画も 持っていくか？"
+      "en": "[father] And what, what do you think, should I, should I take uncle Szymon's portrait? [siren wails in background]",
+      "ja": "伯父さんの肖像画も持っていくか？"
     }
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "translation": {
-      "en": "- Can't you see I'm worried sick? - Oh... He'll come home, he'll be alright.",
+      "en": "-Can't you see I'm worried sick? -Oh... He'll come home, he'll be alright.",
       "ja": "私は不安で… もうじき戻ってくるよ"
     }
   },
@@ -98,30 +98,30 @@
   {
     "translation": {
       "en": "I told her not to worry. You had your papers on you. If you'd been hit by a bomb, they'd have known where to take you.",
-      "ja": "身分証があれば 死んでも家まで運んでくれる"
+      "ja": "身分証があれば死んでも家まで運んでくれる"
     }
   },
   {
     "translation": {
-      "en": "- - Henryk, Henryk, don't say things like... don't say things like that.",
-      "ja": "ヘンリック 悪い冗談は言わないで"
+      "en": "-[Halina laughs] -Henryk, Henryk, don't say things like... don't say things like that.",
+      "ja": "ヘンリック悪い冗談は言わないで"
     }
   },
   {
     "translation": {
-      "en": "- I can't find anything. - God forbid. God forbid.",
+      "en": "-[father] I can't find anything. -God forbid. God forbid.",
       "ja": "やめなさい"
     }
   },
   {
     "translation": {
-      "en": "- Papa, Wladek's home. - What did I tell you?",
+      "en": "-Papa, Wladek's home. -What did I tell you?",
       "ja": "ヴワデックよ 戻ったか"
     }
   },
   {
     "translation": {
-      "en": "Has anybody seen my hat with the wide brim?",
+      "en": "[Halina] Has anybody seen my hat with the wide brim?",
       "ja": "私の帽子はどこ？"
     }
   },
@@ -145,38 +145,44 @@
   },
   {
     "translation": {
-      "en": "- Where are we going? - Pfff. Out of Warsaw.",
+      "en": "-Where are we going? -Pfff. Out of Warsaw.",
       "ja": "どうして？ 街を出るの"
     }
   },
   {
     "translation": {
-      "en": "- Out of Warsaw where? - You haven't heard?",
+      "en": "-Out of Warsaw where? -[Regina] You haven't heard?",
       "ja": "どこへ？ 知らないの？"
     }
   },
   {
     "translation": {
-      "en": "- Heard what? - Haven't you seen the paper?",
+      "en": "-Heard what? -Haven't you seen the paper?",
       "ja": "何を？ 新聞は読んだ？"
     }
   },
   {
     "translation": {
-      "en": "- Oh, where's the paper? - I used it for packing.",
+      "en": "-Oh, where's the paper? -I used it for packing.",
       "ja": "新聞は？ 食器を包んでる"
     }
   },
   {
     "translation": {
-      "en": "The government's moved to Lublin.",
+      "en": "[sirens wail nearby]",
+      "ja": "食器を包んでる"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father] The government's moved to Lublin.",
       "ja": "政府はルブリンへ"
     }
   },
   {
     "translation": {
       "en": "All able bodied men must leave the city, go across the river and set up a new line of defense, that's what it said.",
-      "ja": "男は川の先で新たな 防衛ラインを築くの"
+      "ja": "男は川の先で新たな防衛ラインを築くの"
     }
   },
   {
@@ -188,42 +194,42 @@
   {
     "translation": {
       "en": "And what do you think you'll do while you're setting up a new line of defense?",
-      "ja": "防衛ラインで 荷物をひきずり回すの？"
+      "ja": "防衛ラインで荷物をひきずり回すの？"
     }
   },
   {
     "translation": {
-      "en": "- Wonder around lugging your suitcases? - Pack, Wladek. There's no time.",
-      "ja": "防衛ラインで 荷物をひきずり回すの？ 荷造りをしなさい"
+      "en": "-Wonder around lugging your suitcases? -[mother] Pack, Wladek. There's no time.",
+      "ja": "防衛ラインで荷物をひきずり回すの？ 荷造りをしなさい"
     }
   },
   {
     "translation": {
-      "en": "- I'm not going anywhere. - Good! I'm not going anywhere either!",
+      "en": "-I'm not going anywhere. -Good! I'm not going anywhere either!",
       "ja": "僕は行かないよ それなら 私も行かない！"
     }
   },
   {
     "translation": {
-      "en": "Don't be ridiculous, we've got to keep together.",
+      "en": "[mother] Don't be ridiculous, we've got to keep together.",
       "ja": "家族は一緒にいるものよ"
     }
   },
   {
     "translation": {
       "en": "No, no, look, look. If I'm going to die, I prefer to die in my own home, staying put.",
-      "ja": "どうせなら自分の家で 死にたいよ"
+      "ja": "どうせなら自分の家で死にたいよ"
     }
   },
   {
     "translation": {
-      "en": "- God forbid. - Sssh! Shut up! I've got something listen.",
+      "en": "-[mother] God forbid. -Sssh! Shut up! I've got something listen.",
       "ja": "静かに！　放送だ"
     }
   },
   {
     "translation": {
-      "en": "...from the BBC in London.",
+      "en": "[radio announcer] ...from the BBC in London.",
       "ja": "英国 ＢＢＣ放送によると"
     }
   },
@@ -242,36 +248,42 @@
   {
     "translation": {
       "en": "has declared war on Nazi Germany.",
-      "ja": "ナチス･ドイツに 宣戦布告しました"
+      "ja": "ナチス･ドイツに宣戦布告しました"
     }
   },
   {
     "translation": {
-      "en": "- Oh, oh, that's wonderful! Wonderful! - It is expected that...",
-      "ja": "ナチス･ドイツに 宣戦布告しました それはいい！ そして さらに…"
+      "en": "-Oh, oh, that's wonderful! Wonderful! -[radio announcer] It is expected that...",
+      "ja": "ナチス･ドイツに宣戦布告しました それはいい！ そして さらに…"
     }
   },
   {
     "translation": {
-      "en": "...within the next few hours, France will make a similar declaration.",
-      "ja": "数時間以内にフランスも 宣戦布告すると思われ"
+      "en": "[radio static cross wires with German radio announcer]",
+      "ja": "そして さらに…"
     }
   },
   {
     "translation": {
-      "en": "Poland is no longer alone. - My God! - Oh! Oh!",
-      "ja": "ポーランドの 孤立は終わります"
+      "en": "[radio announcer] ...within the next few hours, France will make a similar declaration.",
+      "ja": "数時間以内にフランスも宣戦布告すると思われ"
     }
   },
   {
     "translation": {
-      "en": "It's great, great, wonderful, wonderful!",
+      "en": "Poland is no longer alone. -[mother] My God! -[father] Oh! Oh!",
+      "ja": "ポーランドの孤立は終わります"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father] It's great, great, wonderful, wonderful!",
       "ja": "本当によかった！"
     }
   },
   {
     "translation": {
-      "en": "- Mama, that was a great dinner. - Hm! Yes, it certainly was.",
+      "en": "-Mama, that was a great dinner. -[Wladek] Hm! Yes, it certainly was.",
       "ja": "母さん うまかったよ 最高だ"
     }
   },
@@ -289,7 +301,7 @@
   },
   {
     "translation": {
-      "en": "I told you. Didn't I tell you? All will be well.",
+      "en": "[father] I told you. Didn't I tell you? All will be well.",
       "ja": "これからは全て良くなる"
     }
   },
@@ -319,26 +331,26 @@
   },
   {
     "translation": {
-      "en": "Re: Further restrictions regarding liquid assets.",
+      "en": "[Regina] \"Re: Further restrictions regarding liquid assets.",
       "ja": "ユダヤ人の現金所有限度は―"
     }
   },
   {
     "translation": {
-      "en": "Jews will be allowed to keep a maximum of two thousand zlotys in their homes.",
+      "en": "Jews will be allowed to keep a maximum of two thousand zlotys in their homes.\"",
       "ja": "“2000ズウォティス”"
     }
   },
   {
     "translation": {
-      "en": "- What do we do with the rest? - Deposit it in a bank. A blocked account.",
+      "en": "-[mother] What do we do with the rest? -Deposit it in a bank. A blocked account.",
       "ja": "残りはどうするの？ 銀行に預けたらどう？"
     }
   },
   {
     "translation": {
       "en": "Banks?! Who'd be stupid enough to deposit money in a German bank?",
-      "ja": "ドイツの銀行に 預けるバカがいるか"
+      "ja": "ドイツの銀行に預けるバカがいるか"
     }
   },
   {
@@ -350,48 +362,48 @@
   {
     "translation": {
       "en": "No, no, no. I'll tell you what we'll do. We'll use try and tested methods. You know what we did in the last war?",
-      "ja": "昔からの方法が一番だ この前の戦争では―"
+      "ja": "昔からの方法が一番だこの前の戦争では―"
     }
   },
   {
     "translation": {
-      "en": "We made a hole in the table leg...  and we hid the money in there.",
-      "ja": "テーブルの脚に 金を隠した"
+      "en": "We made a hole in the table leg... [taps the table leg] and we hid the money in there.",
+      "ja": "テーブルの脚に金を隠した"
     }
   },
   {
     "translation": {
-      "en": "- And suppose they take the table away? - What do you mean take the table away?",
+      "en": "-And suppose they take the table away? -What do you mean take the table away?",
       "ja": "没収される どうして？"
     }
   },
   {
     "translation": {
       "en": "The Germans go into Jewish homes and they just take what they want... furniture, valuables, anything.",
-      "ja": "ドイツ兵は金目の物は 家具でも何でも奪う"
+      "ja": "ドイツ兵は金目の物は家具でも何でも奪う"
     }
   },
   {
     "translation": {
-      "en": "- Do they? - Idiot! What would they want with a table. Hey? A table like this?",
+      "en": "-[mother] Do they? -Idiot! What would they want with a table. Hey? A table like this?",
       "ja": "こんなテーブルもか？"
     }
   },
   {
     "translation": {
-      "en": "- What on earth are you doing? - No, listen, look.",
+      "en": "-What on earth are you doing? -No, listen, look.",
       "ja": "何をするの！ 植木鉢の下が一番安全よ"
     }
   },
   {
     "translation": {
-      "en": "This is the best place for it.",
+      "en": "[Halina] This is the best place for it.",
       "ja": "植木鉢の下が一番安全よ"
     }
   },
   {
     "translation": {
-      "en": "No- one would think of looking under the flowerpot.",
+      "en": "[Halina] No-one would think of looking under the flowerpot.",
       "ja": "誰も探さないわ"
     }
   },
@@ -409,7 +421,7 @@
   },
   {
     "translation": {
-      "en": "- You know what we do? We use psychology. - We use what?",
+      "en": "-You know what we do? We use psychology. -[Wladek] We use what?",
       "ja": "心理学の応用だ"
     }
   },
@@ -451,7 +463,7 @@
   },
   {
     "translation": {
-      "en": "And you call me stupid.",
+      "en": "[Henryk laughs] And you call me stupid.",
       "ja": "バカにするな"
     }
   },
@@ -463,25 +475,25 @@
   },
   {
     "translation": {
-      "en": "- This would take hours. - We are not in a hurry. We'd get it back.",
+      "en": "-This would take hours. -We are not in a hurry. We'd get it back.",
       "ja": "面倒だろ！ 時間はあるわ"
     }
   },
   {
     "translation": {
-      "en": "- It won't take hours. - How will you get them out? Tell me that! Tell me that, I would like to know. How would you get them out?",
+      "en": "-It won't take hours. -How will you get them out? Tell me that! Tell me that, I would like to know. How would you get them out?",
       "ja": "どうやって取り出すんだ？"
     }
   },
   {
     "translation": {
-      "en": "- You take each one out individually. - Order please!",
+      "en": "-You take each one out individually. -[Regina] Order please!",
       "ja": "１枚ずつ出すのか？"
     }
   },
   {
     "translation": {
-      "en": "No- one listens to me, no one listens.",
+      "en": "No-one listens to me, no one listens.",
       "ja": "やっぱりここよ"
     }
   },
@@ -493,25 +505,25 @@
   },
   {
     "translation": {
-      "en": "- She's a lawyer, she likes order. - Listen, just listen. Look,",
+      "en": "-She's a lawyer, she likes order. -Listen, just listen. Look,",
       "ja": "はいはい 弁護士さん 結論はこうよ"
     }
   },
   {
     "translation": {
       "en": "the watch we put under the flowerpots and the money we stuff in the violin.",
-      "ja": "時計は植木鉢の下 お金はバイオリンの中"
+      "ja": "時計は植木鉢の下お金はバイオリンの中"
     }
   },
   {
     "translation": {
-      "en": "- Will I still be able to play? - Well, you'll find out.",
+      "en": "-Will I still be able to play? -Well, you'll find out.",
       "ja": "でも弾けるのか？ 弾いてみれば分かるさ"
     }
   },
   {
     "translation": {
-      "en": "- Jurek? It's Wladek Szpilman. - Wladek, how are you?",
+      "en": "-Jurek? It's Wladek Szpilman. -Wladek, how are you?",
       "ja": "ユレック 僕だ ヴワデック 元気か？"
     }
   },
@@ -524,18 +536,18 @@
   {
     "translation": {
       "en": "Fine, we're fine under the circumstances. But I guess what you've called about.",
-      "ja": "今の状況では お手上げだ"
+      "ja": "今の状況ではお手上げだ"
     }
   },
   {
     "translation": {
-      "en": "There's nothing we can do. They won't re- open the station.",
-      "ja": "今の状況では お手上げだ 放送局は再開できん"
+      "en": "There's nothing we can do. They won't re-open the station.",
+      "ja": "今の状況ではお手上げだ 放送局は再開できん"
     }
   },
   {
     "translation": {
-      "en": "Just won't re- open the station.",
+      "en": "Just won't re-open the station.",
       "ja": "放送局は再開できん"
     }
   },
@@ -548,7 +560,7 @@
   {
     "translation": {
       "en": "Not even music, nothing, no radios for the Poles.",
-      "ja": "ポーランド人は 音楽とラジオが禁止だ"
+      "ja": "ポーランド人は音楽とラジオが禁止だ"
     }
   },
   {
@@ -572,13 +584,13 @@
   {
     "translation": {
       "en": "I nagged Jurek for weeks and weeks, and at last he gave in and said...",
-      "ja": "ユレックに頼み込んで やっと行けたのに"
+      "ja": "ユレックに頼み込んでやっと行けたのに"
     }
   },
   {
     "translation": {
-      "en": "All right, come with me tomorrow, And so I came and...",
-      "ja": "ユレックに頼み込んで やっと行けたのに 放送局が爆撃されるなんて"
+      "en": "\"All right, come with me tomorrow\", And so I came and...",
+      "ja": "ユレックに頼み込んでやっと行けたのに 放送局が爆撃されるなんて"
     }
   },
   {
@@ -595,7 +607,7 @@
   },
   {
     "translation": {
-      "en": "- Really? - Yes, it was... It was unforgettable.",
+      "en": "-Really? -Yes, it was... It was unforgettable.",
       "ja": "本当に？ 君のことが頭から離れなかった"
     }
   },
@@ -607,13 +619,13 @@
   },
   {
     "translation": {
-      "en": "- No- one plays Chopin like you. - I hope that's a compliment.",
+      "en": "-No-one plays Chopin like you. -I hope that's a compliment.",
       "ja": "ショパンは秀逸だわ 本当かな？"
     }
   },
   {
     "translation": {
-      "en": "- Of course, I mean it. - I was... trying to be funny.",
+      "en": "-Of course, I mean it. -I was... trying to be funny.",
       "ja": "もちろんよ わかってる　冗談だよ"
     }
   },
@@ -631,19 +643,19 @@
   },
   {
     "translation": {
-      "en": "- And you, what do you do? - I finished with the conservatoire.",
+      "en": "-And you, what do you do? -I finished with the conservatoire.",
       "ja": "仕事は何をしてるの？ 音楽学校を出たの"
     }
   },
   {
     "translation": {
-      "en": "- You're a musician? - Yes. But only just.",
+      "en": "-You're a musician? -Yes. But only just.",
       "ja": "音楽家なのか 駆け出しよ"
     }
   },
   {
     "translation": {
-      "en": "- What instrument? - The cello.",
+      "en": "-What instrument? -The cello.",
       "ja": "楽器は？ チェロよ"
     }
   },
@@ -673,13 +685,13 @@
   },
   {
     "translation": {
-      "en": "- I'm going in there to complain. - No. It's better not, believe me.",
+      "en": "-I'm going in there to complain. -No. It's better not, believe me.",
       "ja": "抗議するわ いや やめたほうがいい"
     }
   },
   {
     "translation": {
-      "en": "- It's so humiliating. Someone like you! - Good- bye!",
+      "en": "-It's so humiliating. Someone like you! -[woman] Good-bye!",
       "ja": "あなたのような方に失礼よ"
     }
   },
@@ -691,26 +703,26 @@
   },
   {
     "translation": {
-      "en": "- We can walk in the park. - No, we can't.",
+      "en": "-[Dorota] We can walk in the park. -No, we can't.",
       "ja": "公園はどう？ 禁じられてる"
     }
   },
   {
     "translation": {
       "en": "It's an official decree. No Jews allowed in the park.",
-      "ja": "命令でユダヤ人は 入れないんだ"
+      "ja": "命令でユダヤ人は入れないんだ"
     }
   },
   {
     "translation": {
-      "en": "- My God. Are you joking? - I'm not joking, it's true.",
+      "en": "-My God. Are you joking? -I'm not joking, it's true.",
       "ja": "そんなこと… これが現実だ"
     }
   },
   {
     "translation": {
-      "en": "I suggest we just sit on a bench somewhere but that's another official decree, no Jews allowed on public benches.",
-      "ja": "ベンチに座ることさえ 禁じられてる"
+      "en": "I suggest we just sit on a bench somewhere but that's another official decree, \"no Jews allowed on public benches\".",
+      "ja": "ベンチに座ることさえ禁じられてる"
     }
   },
   {
@@ -775,14 +787,14 @@
   },
   {
     "translation": {
-      "en": "Re: emblems for Jews in the Warsaw district.",
+      "en": "\"Re: emblems for Jews in the Warsaw district.",
       "ja": "“ユダヤ人は腕章着用”"
     }
   },
   {
     "translation": {
       "en": "I hereby order that all Jews in the Warsaw district...",
-      "ja": "“ワルシャワ地区の ユダヤ人は すべて―”"
+      "ja": "“ワルシャワ地区のユダヤ人は すべて―”"
     }
   },
   {
@@ -812,7 +824,7 @@
   {
     "translation": {
       "en": "and will represent a blue star of David on a white background.",
-      "ja": "“絵柄は白地に 青いダビデの星”"
+      "ja": "“絵柄は白地に青いダビデの星”"
     }
   },
   {
@@ -824,7 +836,7 @@
   {
     "translation": {
       "en": "for the star to measure eight centimeters from point to point.",
-      "ja": "“星は端から端まで ８cmとする”"
+      "ja": "“星は端から端まで８cmとする”"
     }
   },
   {
@@ -841,7 +853,7 @@
   },
   {
     "translation": {
-      "en": "Governor of Warsaw district, Dr. Fischer.",
+      "en": "Governor of Warsaw district, Dr. Fischer.\"",
       "ja": "“ワルシャワ地区長官―” 以上だ"
     }
   },
@@ -859,7 +871,7 @@
   },
   {
     "translation": {
-      "en": "Let, let me see this.",
+      "en": "[clears throat] Let, let me see this.",
       "ja": "見せてくれる？"
     }
   },
@@ -871,7 +883,7 @@
   },
   {
     "translation": {
-      "en": "- Where will we get them? - We're not going to get them.",
+      "en": "-Where will we get them? -We're not going to get them.",
       "ja": "支給か？ つけないから必要ない"
     }
   },
@@ -883,43 +895,43 @@
   },
   {
     "translation": {
-      "en": "You!",
+      "en": "[in German] You!",
       "ja": "〈お前！〉"
     }
   },
   {
     "translation": {
-      "en": "Come here.",
+      "en": "[in German] Come here.",
       "ja": "〈来い〉"
     }
   },
   {
     "translation": {
-      "en": "Why didn't you bow?",
+      "en": "[in German] Why didn't you bow?",
       "ja": "〈なぜ挨拶しない？〉"
     }
   },
   {
     "translation": {
-      "en": "I beg your pardon.",
+      "en": "[in German] I beg your pardon.",
       "ja": "〈失礼しました〉"
     }
   },
   {
     "translation": {
-      "en": "You're forbidden to walk on the pavement.",
+      "en": "[in German] You're forbidden to walk on the pavement.",
       "ja": "〈舗道を歩くな〉"
     }
   },
   {
     "translation": {
-      "en": "Walk in the gutter!",
+      "en": "[in German] Walk in the gutter!",
       "ja": "〈溝を歩け〉"
     }
   },
   {
     "translation": {
-      "en": "- Have you seen this? - What, what, what? I'm working. What?",
+      "en": "-Have you seen this? -What, what, what? I'm working. What?",
       "ja": "これを見て 今 仕事中だよ"
     }
   },
@@ -931,14 +943,14 @@
   },
   {
     "translation": {
-      "en": "- That's where they're going to put us. - What do you mean, put us?",
+      "en": "-That's where they're going to put us. -What do you mean, put us?",
       "ja": "そこに住めって 何のことだ？"
     }
   },
   {
     "translation": {
-      "en": "By order of the governor of the Warsaw district, Dr. Fischer...",
-      "ja": "“ワルシャワ地区 長官の命令で”"
+      "en": "\"By order of the governor of the Warsaw district, Dr. Fischer...",
+      "ja": "“ワルシャワ地区長官の命令で”"
     }
   },
   {
@@ -950,25 +962,25 @@
   {
     "translation": {
       "en": "There will be created a Jewish district in which all Jews living in Warsaw",
-      "ja": "“ワルシャワ市内の ユダヤ人は―”"
+      "ja": "“ワルシャワ市内のユダヤ人は―”"
     }
   },
   {
     "translation": {
-      "en": "or moving to Warsaw will have to reside.",
+      "en": "or moving to Warsaw will have to reside.\"",
       "ja": "“居住区内に住むこと”"
     }
   },
   {
     "translation": {
-      "en": "Look here. Jews living outside of the prescribed area",
-      "ja": "ここを見て “地区外のユダヤ人は 居住区に移ること”"
+      "en": "Look here. \"Jews living outside of the prescribed area",
+      "ja": "ここを見て “地区外のユダヤ人は居住区に移ること”"
     }
   },
   {
     "translation": {
-      "en": "will have to move to the Jewish district by 31st of October, 1940.",
-      "ja": "“地区外のユダヤ人は 居住区に移ること” “期限は1940年 10月31日”"
+      "en": "will have to move to the Jewish district by 31st of October, 1940.\"",
+      "ja": "“地区外のユダヤ人は居住区に移ること” “期限は1940年 10月31日”"
     }
   },
   {
@@ -985,19 +997,19 @@
   },
   {
     "translation": {
-      "en": "What am I supposed to do? Hm? You tell me.",
+      "en": "[mother crying] What am I supposed to do? Hm? You tell me.",
       "ja": "どうしろと？ 私はどうしたらいいの"
     }
   },
   {
     "translation": {
-      "en": "You're a clever man, you'll tell me what I will buy.",
+      "en": "[mother crying] You're a clever man, you'll tell me what I will buy.",
       "ja": "私はどうしたらいいの"
     }
   },
   {
     "translation": {
-      "en": "Mama?",
+      "en": "[Halina] Mama?",
       "ja": "ママ？"
     }
   },
@@ -1009,7 +1021,7 @@
   },
   {
     "translation": {
-      "en": "20 zlotys!",
+      "en": "[mother cries] 20 zlotys!",
       "ja": "もう…"
     }
   },
@@ -1045,25 +1057,25 @@
   },
   {
     "translation": {
-      "en": "- But, it's a Bechstein, Mr. Lipa! - Two thousand. My advice is to take it.",
+      "en": "-But, it's a Bechstein, Mr. Lipa! -Two thousand. My advice is to take it.",
       "ja": "ベヒシュタインよ 2000ズウォティスで売れ"
     }
   },
   {
     "translation": {
-      "en": "What are you going to do when you're hungry? Eat the piano?",
+      "en": "[Mr. Lipa] What are you going to do when you're hungry? Eat the piano?",
       "ja": "飢えてもピアノは食えん"
     }
   },
   {
     "translation": {
-      "en": "- Get out! - Hey! What's the matter with you?",
+      "en": "-Get out! -Hey! What's the matter with you?",
       "ja": "出てけ！ 薄汚いブタ野郎"
     }
   },
   {
     "translation": {
-      "en": "- Stop it! - We'd rather give it away. Go on, get out!",
+      "en": "-Stop it! -We'd rather give it away. Go on, get out!",
       "ja": "とっとと失せろ！"
     }
   },
@@ -1105,7 +1117,7 @@
   },
   {
     "translation": {
-      "en": "Hello.",
+      "en": "[Wladek] Hello.",
       "ja": "ドロタ"
     }
   },
@@ -1123,7 +1135,7 @@
   },
   {
     "translation": {
-      "en": "- How are you doing? - Fine.",
+      "en": "-How are you doing? -Fine.",
       "ja": "元気なの？ ええ"
     }
   },
@@ -1141,7 +1153,7 @@
   },
   {
     "translation": {
-      "en": "- This is disgraceful. - It won't last long. Don't worry.",
+      "en": "-This is disgraceful. -It won't last long. Don't worry.",
       "ja": "酷い世の中だわ… 長くは続かないよ"
     }
   },
@@ -1177,7 +1189,7 @@
   },
   {
     "translation": {
-      "en": "Good- bye.",
+      "en": "Good-bye.",
       "ja": "じゃあ！"
     }
   },
@@ -1189,7 +1201,7 @@
   },
   {
     "translation": {
-      "en": "- Where will we sleep? - I sleep in the kitchen with the girls.",
+      "en": "-Where will we sleep? -I sleep in the kitchen with the girls.",
       "ja": "どこで眠る？ 私と娘たちは台所で"
     }
   },
@@ -1225,38 +1237,38 @@
   },
   {
     "translation": {
-      "en": "- Sell anything? - Just one. Dostoievski, The Idiot.",
-      "ja": "売れたか？ ドストエフスキーの 「白痴」が１冊"
+      "en": "-Sell anything? -Just one. Dostoievski, The Idiot.",
+      "ja": "売れたか？ ドストエフスキーの「白痴」が１冊"
     }
   },
   {
     "translation": {
-      "en": "- Three zlotys. - It's better than yesterday.",
-      "ja": "ドストエフスキーの 「白痴」が１冊 昨日よりいい"
+      "en": "-Three zlotys. -It's better than yesterday.",
+      "ja": "ドストエフスキーの「白痴」が１冊 昨日よりいい"
     }
   },
   {
     "translation": {
       "en": "Three lousy zlotys. And there are people there making millions.",
-      "ja": "３ズウォティス… 荒稼ぎする奴もいるのに"
+      "ja": "３ズウォティス…荒稼ぎする奴もいるのに"
     }
   },
   {
     "translation": {
-      "en": "- I know. - You don't know, believe me.",
+      "en": "-I know. -You don't know, believe me.",
       "ja": "そうだな 兄貴は何も知らない"
     }
   },
   {
     "translation": {
       "en": "They bribe the guards, the guards turn a blind eye.",
-      "ja": "儲ける奴らは 監視兵を買収し―"
+      "ja": "儲ける奴らは監視兵を買収し―"
     }
   },
   {
     "translation": {
       "en": "They're bringing in cartloads of food, tobacco, liquor, French cosmetics.",
-      "ja": "食料 タバコ 酒 化粧品を運び込む 貧乏人が死んでも知らん顔だ"
+      "ja": "食料 タバコ 酒化粧品を運び込む 貧乏人が死んでも知らん顔だ"
     }
   },
   {
@@ -1268,31 +1280,31 @@
   {
     "translation": {
       "en": "Excuse me, have you seen my husband, Izaak Szerman?",
-      "ja": "夫を見ました？ イザク･シェルマンです"
+      "ja": "夫を見ました？イザク･シェルマンです"
     }
   },
   {
     "translation": {
       "en": "A tall, a tall handsome man, with a little gray beard... No?",
-      "ja": "背が高くてハンサム 髭があるの"
+      "ja": "背が高くてハンサム髭があるの"
     }
   },
   {
     "translation": {
-      "en": "- I'm afraid not. - Excuse me. Good- bye.",
+      "en": "-I'm afraid not. -Excuse me. Good-bye.",
       "ja": "いいえ そうですか… さようなら　よく眠って"
     }
   },
   {
     "translation": {
       "en": "Sleep well. But, but, but if you see him, write to me, yes?",
-      "ja": "さようなら　よく眠って 見たら知らせてね イザク･シェルマンよ"
+      "ja": "さようなら　よく眠って 見たら知らせてねイザク･シェルマンよ"
     }
   },
   {
     "translation": {
       "en": "Izaak Szerman.",
-      "ja": "見たら知らせてね イザク･シェルマンよ"
+      "ja": "見たら知らせてねイザク･シェルマンよ"
     }
   },
   {
@@ -1315,7 +1327,7 @@
   },
   {
     "translation": {
-      "en": "The Germans claim to be intelligent.",
+      "en": "[Jewish man] The Germans claim to be intelligent.",
       "ja": "ドイツ人は利口ぶってるが"
     }
   },
@@ -1339,31 +1351,31 @@
   },
   {
     "translation": {
-      "en": "Maybe they think I come here to listen to the music?",
+      "en": "[Jewish man] Maybe they think I come here to listen to the music?",
       "ja": "音楽を聴きに来たんじゃない"
     }
   },
   {
     "translation": {
-      "en": "You're cold?",
+      "en": "[in German] You're cold?",
       "ja": "〈何だその面は？〉"
     }
   },
   {
     "translation": {
-      "en": "Dance!",
+      "en": "[speaking German] [in German] Dance!",
       "ja": "〈お前　踊ってみろ〉"
     }
   },
   {
     "translation": {
-      "en": "- Dance! - Dance!",
+      "en": "-[in German] Dance! -[in German] Dance!",
       "ja": "〈さあ踊れ！〉"
     }
   },
   {
     "translation": {
-      "en": "Good, they're here.",
+      "en": "[mother] Good, they're here.",
       "ja": "おかえり"
     }
   },
@@ -1375,19 +1387,19 @@
   },
   {
     "translation": {
-      "en": "- What's this about? - Sit down, have tea.",
-      "ja": "何だよ？ お茶をどうぞ 昼食の準備をするわ"
+      "en": "-What's this about? -[mother] Sit down, have tea.",
+      "ja": "何だよ？ お茶をどうぞ昼食の準備をするわ"
     }
   },
   {
     "translation": {
-      "en": "I'll start lunch when the girls get here.",
-      "ja": "お茶をどうぞ 昼食の準備をするわ"
+      "en": "[mother] I'll start lunch when the girls get here.",
+      "ja": "お茶をどうぞ昼食の準備をするわ"
     }
   },
   {
     "translation": {
-      "en": "- So, what are you doing here? - He brought cakes.",
+      "en": "-[Henryk] So, what are you doing here? -[father] He brought cakes.",
       "ja": "何しに来た？ ケーキを持ってきてくれたぞ"
     }
   },
@@ -1405,13 +1417,13 @@
   },
   {
     "translation": {
-      "en": "Amazing, jewelery.",
+      "en": "[father] Amazing, jewelery.",
       "ja": "素晴らしいことだ"
     }
   },
   {
     "translation": {
-      "en": "- We're recruiting. - Who is recruiting?",
+      "en": "-We're recruiting. -Who is recruiting?",
       "ja": "求人がある 誰に？"
     }
   },
@@ -1423,7 +1435,7 @@
   },
   {
     "translation": {
-      "en": "They're bringing Jews in from all over the country.",
+      "en": "[Heller] They're bringing Jews in from all over the country.",
       "ja": "ゲットーは超満員"
     }
   },
@@ -1435,26 +1447,26 @@
   },
   {
     "translation": {
-      "en": "- We need more Jewish police. - Oh! More Jewish police!",
+      "en": "-We need more Jewish police. -Oh! More Jewish police!",
       "ja": "ユダヤ人警察は人手不足だ ああ 警官の増員ですか"
     }
   },
   {
     "translation": {
       "en": "You mean you want me to beat up Jews with my truncheon and catch the Gestapo spirit.",
-      "ja": "ゲシュタポみたいに ユダヤ人を殴れと？"
+      "ja": "ゲシュタポみたいにユダヤ人を殴れと？"
     }
   },
   {
     "translation": {
-      "en": "- I see! - Someone's got to do it, Henryk.",
+      "en": "-[Henryk] I see! -Someone's got to do it, Henryk.",
       "ja": "それが任務だ"
     }
   },
   {
     "translation": {
-      "en": "But why me? I thought you only recruited boys with rich fathers.",
-      "ja": "金持ちの息子しか 雇わないんだろ"
+      "en": "[Henryk] But why me? I thought you only recruited boys with rich fathers.",
+      "ja": "金持ちの息子しか雇わないんだろ"
     }
   },
   {
@@ -1483,14 +1495,14 @@
   },
   {
     "translation": {
-      "en": "I'm doing you people a favor.",
+      "en": "[scoffs] I'm doing you people a favor.",
       "ja": "君たちのためだぞ"
     }
   },
   {
     "translation": {
       "en": "What about you, Wladek? You're a great pianist. And we've got an excellent police jazz band.",
-      "ja": "ヴワデックは警察の ジャズバンドへ"
+      "ja": "ヴワデックは警察のジャズバンドへ"
     }
   },
   {
@@ -1501,7 +1513,7 @@
   },
   {
     "translation": {
-      "en": "- You've got no work. - Thank you, I've got work.",
+      "en": "-[Heller] You've got no work. -Thank you, I've got work.",
       "ja": "君も仕事がないんだろ？ 仕事ならある"
     }
   },
@@ -1513,26 +1525,26 @@
   },
   {
     "translation": {
-      "en": "Who wants me to stop?",
+      "en": "[continues playing] Who wants me to stop?",
       "ja": "なぜです？"
     }
   },
   {
     "translation": {
-      "en": "I always say, look on the bright side.",
+      "en": "[Jehuda] I always say, look on the bright side.",
       "ja": "前向きに考えろ"
     }
   },
   {
     "translation": {
-      "en": "You're in a small ghetto with intellectuals, professional people.",
-      "ja": "小ゲットーには 知識階級が多いが"
+      "en": "[Jehuda] You're in a small ghetto with intellectuals, professional people.",
+      "ja": "小ゲットーには知識階級が多いが"
     }
   },
   {
     "translation": {
-      "en": "You're better off than us. Here in the large ghetto it's a cesspool.",
-      "ja": "この大ゲットーは 掃きだめだ"
+      "en": "[Jehuda] You're better off than us. Here in the large ghetto it's a cesspool.",
+      "ja": "この大ゲットーは掃きだめだ"
     }
   },
   {
@@ -1544,48 +1556,48 @@
   {
     "translation": {
       "en": "You're an artist, Wladek. You keep peoples' spirits up. You do enough.",
-      "ja": "芸術家は人を 感動させていればいい"
+      "ja": "芸術家は人を感動させていればいい"
     }
   },
   {
     "translation": {
-      "en": "- I want to help, I want to do something. - You're too well known, Wladek.",
+      "en": "-I want to help, I want to do something. -You're too well known, Wladek.",
       "ja": "僕にも何かできる 君は顔を知られすぎてる"
     }
   },
   {
     "translation": {
       "en": "And you know what? You musicians don't make good conspirators.",
-      "ja": "君は顔を知られすぎてる 音楽家は地下運動に 向いてない"
+      "ja": "君は顔を知られすぎてる 音楽家は地下運動に向いてない"
     }
   },
   {
     "translation": {
-      "en": "You're too... too... musical.",
-      "ja": "音楽家は地下運動に 向いてない 音を立てすぎるからな！"
+      "en": "You're too... too... musical. [laughs]",
+      "ja": "音楽家は地下運動に向いてない 音を立てすぎるからな！"
     }
   },
   {
     "translation": {
-      "en": "- Who is that? - Symche.",
+      "en": "-Who is that? -Symche.",
       "ja": "誰だ？"
     }
   },
   {
     "translation": {
-      "en": "Majorek.",
+      "en": "[Symche] Majorek.",
       "ja": "マヨレク"
     }
   },
   {
     "translation": {
-      "en": "There are notices going up. City is to be cleansed of undesirables.",
-      "ja": "役立たずは 追い出される"
+      "en": "[Wladek] There are notices going up. City is to be cleansed of undesirables.",
+      "ja": "役立たずは追い出される"
     }
   },
   {
     "translation": {
-      "en": "- No notices going up. - Hello, Symche.",
+      "en": "-No notices going up. -[Majorek] Hello, Symche.",
       "ja": "噂なんか信じるな 元気か？"
     }
   },
@@ -1597,14 +1609,14 @@
   },
   {
     "translation": {
-      "en": "Jehuda, working hard?",
+      "en": "[Majorek] Jehuda, working hard?",
       "ja": "よう　仕事はどうだ？"
     }
   },
   {
     "translation": {
       "en": "Majorek. This is the greatest pianist in Poland. Maybe the whole world.",
-      "ja": "彼はポーランド最高の ピアニストだ"
+      "ja": "彼はポーランド最高のピアニストだ"
     }
   },
   {
@@ -1615,13 +1627,13 @@
   },
   {
     "translation": {
-      "en": "- How do you do? - I know your name.",
+      "en": "-How do you do? -I know your name.",
       "ja": "名前だけは…　聞いているよ"
     }
   },
   {
     "translation": {
-      "en": "- I've never heard you play. - Majorek used to be in the Army.",
+      "en": "-I've never heard you play. -[Jehuda] Majorek used to be in the Army.",
       "ja": "名前だけは…　聞いているよ マヨレクは優秀な軍人だった"
     }
   },
@@ -1633,19 +1645,25 @@
   },
   {
     "translation": {
-      "en": "You better go now, Wladek. It's nearly curfew.",
+      "en": "[Jehuda laughs]",
+      "ja": "だが社会主義者じゃない"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jehuda] You better go now, Wladek. It's nearly curfew.",
       "ja": "帰れ じき外出禁止時刻だ"
     }
   },
   {
     "translation": {
-      "en": "You know how many copies we print of our newspaper?",
+      "en": "[Jehuda] You know how many copies we print of our newspaper?",
       "ja": "どれだけ新聞を刷ると思う？"
     }
   },
   {
     "translation": {
-      "en": "Five hundred.",
+      "en": "[Jehuda] Five hundred.",
       "ja": "500部だ"
     }
   },
@@ -1658,7 +1676,7 @@
   {
     "translation": {
       "en": "That makes ten thousand readers. These will start the uprising.",
-      "ja": "つまり１万人に 蜂起を呼びかける"
+      "ja": "つまり１万人に蜂起を呼びかける"
     }
   },
   {
@@ -1669,37 +1687,37 @@
   },
   {
     "translation": {
-      "en": "- Toilets, huh? - As many toilets as I can find.",
-      "ja": "なぜ？ ドイツ人は ユダヤ人の便所を使わない"
+      "en": "-Toilets, huh? -As many toilets as I can find.",
+      "ja": "なぜ？ ドイツ人はユダヤ人の便所を使わない"
     }
   },
   {
     "translation": {
       "en": "Germans never use Jewish toilets.",
-      "ja": "ドイツ人は ユダヤ人の便所を使わない"
+      "ja": "ドイツ人はユダヤ人の便所を使わない"
     }
   },
   {
     "translation": {
-      "en": "- They're too clean for them. -",
+      "en": "-They're too clean for them. -[Jehuda laughs]",
       "ja": "清潔すぎるのさ"
     }
   },
   {
     "translation": {
-      "en": "Stop it! Stop it!",
+      "en": "[Wladek] Stop it! Stop it!",
       "ja": "やめろ！"
     }
   },
   {
     "translation": {
-      "en": "Stop it!",
+      "en": "[Wladek] Stop it!",
       "ja": "殴るな！"
     }
   },
   {
     "translation": {
-      "en": "Come on, come on, come on. Come on boy.",
+      "en": "[Wladek] Come on, come on, come on. Come on boy.",
       "ja": "しっかりしろ 坊や"
     }
   },
@@ -1712,37 +1730,37 @@
   {
     "translation": {
       "en": "Please, tonight for once, I don't want anything bad talked about.",
-      "ja": "今夜だけは― 暗い話はやめて 食事を楽しんで"
+      "ja": "今夜だけは― 暗い話はやめて食事を楽しんで"
     }
   },
   {
     "translation": {
-      "en": "- Enjoy our meal. - Fine, then I'll tell you something funny.",
-      "ja": "暗い話はやめて 食事を楽しんで 笑い話をしよう ラシェア医師を知ってる？"
+      "en": "-Enjoy our meal. -Fine, then I'll tell you something funny.",
+      "ja": "暗い話はやめて食事を楽しんで 笑い話をしようラシェア医師を知ってる？"
     }
   },
   {
     "translation": {
       "en": "You all know who I mean by Dr. Raszeja?",
-      "ja": "笑い話をしよう ラシェア医師を知ってる？"
+      "ja": "笑い話をしようラシェア医師を知ってる？"
     }
   },
   {
     "translation": {
-      "en": "- The surgeon. - The surgeon.",
+      "en": "-The surgeon. -[Henryk] The surgeon.",
       "ja": "外科医の？"
     }
   },
   {
     "translation": {
-      "en": "Well, for some reason, don't ask me why, the Germans allowed him into the ghetto to perform an operation.",
-      "ja": "ドイツ軍は彼に ゲットーでの手術を許した"
+      "en": "[Henryk] Well, for some reason, don't ask me why, the Germans allowed him into the ghetto to perform an operation.",
+      "ja": "ドイツ軍は彼にゲットーでの手術を許した"
     }
   },
   {
     "translation": {
       "en": "On a Jew? They let a Pole to come in to operate on a Jew?",
-      "ja": "ポーランド人が ユダヤ人の手術を？"
+      "ja": "ポーランド人がユダヤ人の手術を？"
     }
   },
   {
@@ -1754,13 +1772,13 @@
   {
     "translation": {
       "en": "he puts the patient to sleep and starts the operation.",
-      "ja": "患者に麻酔をかけ 切開したとたん―"
+      "ja": "患者に麻酔をかけ切開したとたん―"
     }
   },
   {
     "translation": {
       "en": "He'd just made the first incision when the SS burst in...",
-      "ja": "患者に麻酔をかけ 切開したとたん― 親衛隊が乱入して患者を殺害"
+      "ja": "患者に麻酔をかけ切開したとたん― 親衛隊が乱入して患者を殺害"
     }
   },
   {
@@ -1783,7 +1801,7 @@
   },
   {
     "translation": {
-      "en": "The patient didn't feel a thing, he was anesthetized.",
+      "en": "The patient didn't feel a thing, he was anesthetized. [laughs]",
       "ja": "患者は麻酔で痛みはゼロ"
     }
   },
@@ -1808,7 +1826,7 @@
   {
     "translation": {
       "en": "Well, you know what's funny? You're funny, with that ridiculous tie.",
-      "ja": "ネクタイなんかして 気取りやがって"
+      "ja": "ネクタイなんかして気取りやがって"
     }
   },
   {
@@ -1819,25 +1837,25 @@
   },
   {
     "translation": {
-      "en": "- I need this tie for my work. - Your work?",
+      "en": "-[Wladek] I need this tie for my work. -Your work?",
       "ja": "仕事のためだ 仕事？"
     }
   },
   {
     "translation": {
-      "en": "- Yes, that's right, I work. - Yes, yes, your work.",
-      "ja": "そうだ！ 寄生虫どもを相手に ピアノ演奏か"
+      "en": "-Yes, that's right, I work. -Yes, yes, your work.",
+      "ja": "そうだ！ 寄生虫どもを相手にピアノ演奏か"
     }
   },
   {
     "translation": {
       "en": "Playing the piano for all the parasites in the ghetto.",
-      "ja": "寄生虫どもを相手に ピアノ演奏か"
+      "ja": "寄生虫どもを相手にピアノ演奏か"
     }
   },
   {
     "translation": {
-      "en": "- Parasites? - Parasites.",
+      "en": "-Parasites? -Parasites.",
       "ja": "やめろ"
     }
   },
@@ -1862,12 +1880,12 @@
   {
     "translation": {
       "en": "I do because I see it every day. They don't even notice what's going around them.",
-      "ja": "ここで起きていることに 無関心だ"
+      "ja": "ここで起きていることに無関心だ"
     }
   },
   {
     "translation": {
-      "en": "- I blame the Americans. - For what? For my tie?",
+      "en": "-I blame the Americans. -For what? For my tie?",
       "ja": "米国が悪い なぜ？"
     }
   },
@@ -1885,44 +1903,44 @@
   },
   {
     "translation": {
-      "en": "The Jewish bankers over there should be persuading America to declare war on Germany.",
-      "ja": "ユダヤ系銀行家は 米国の参戦を促すべきだ"
+      "en": "The Jewish bankers over there should be persuading America to declare war on Germany. [car tires squeal] [engine revs]",
+      "ja": "ユダヤ系銀行家は米国の参戦を促すべきだ"
     }
   },
   {
     "translation": {
-      "en": "Lights! Lights!",
+      "en": "[whispers] Lights! Lights!",
       "ja": "暗くしろ！"
     }
   },
   {
     "translation": {
-      "en": "Stand up!",
+      "en": "[SS Officer] Stand up!",
       "ja": "〈立て！〉"
     }
   },
   {
     "translation": {
-      "en": "You, stand up! Come on!",
+      "en": "[SS Officer] You, stand up! Come on!",
       "ja": "〈お前もだ！〉 〈立て！〉"
     }
   },
   {
     "translation": {
-      "en": "- I'm Mr. Szpilman's sister. - Yes, come in. Not you!",
+      "en": "-I'm Mr. Szpilman's sister. -Yes, come in. Not you!",
       "ja": "シュピルマンの家族よ ダメだ"
     }
   },
   {
     "translation": {
-      "en": "- What's happened? - Oh my God, it's terrible.",
+      "en": "-What's happened? -Oh my God, it's terrible.",
       "ja": "大変よ"
     }
   },
   {
     "translation": {
-      "en": "- What? - They're hunting people in the streets. They've taken Henryk.",
-      "ja": "ヘンリックがユダヤ人警察に 捕まったの"
+      "en": "-What? -They're hunting people in the streets. They've taken Henryk.",
+      "ja": "ヘンリックがユダヤ人警察に捕まったの"
     }
   },
   {
@@ -1934,19 +1952,19 @@
   {
     "translation": {
       "en": "Excuse me. Have you seen my husband? Izaak Szerman?",
-      "ja": "夫を見ました？ イザク･シェルマンです"
+      "ja": "夫を見ました？イザク･シェルマンです"
     }
   },
   {
     "translation": {
-      "en": "- No, I'm afraid not. - Tall, handsome, a little gray beard.",
+      "en": "-No, I'm afraid not. -Tall, handsome, a little gray beard.",
       "ja": "いいえ 背が高くてハンサムなの"
     }
   },
   {
     "translation": {
       "en": "If you see him, write to me. Don't forget. Izaak Szerman.",
-      "ja": "見たら知らせてね イザック･シェルマンよ"
+      "ja": "見たら知らせてねイザック･シェルマンよ"
     }
   },
   {
@@ -1958,13 +1976,13 @@
   {
     "translation": {
       "en": "They've got my grandson in there. They pick them up, they take them away.",
-      "ja": "孫が捕まったんだ 片っ端から捕まえてる 何をする気だ？"
+      "ja": "孫が捕まったんだ 片っ端から捕まえてる何をする気だ？"
     }
   },
   {
     "translation": {
       "en": "What they do to them, I've stopped believing in God.",
-      "ja": "片っ端から捕まえてる 何をする気だ？ もう神さえ信じられない"
+      "ja": "片っ端から捕まえてる何をする気だ？ もう神さえ信じられない"
     }
   },
   {
@@ -1975,7 +1993,7 @@
   },
   {
     "translation": {
-      "en": "Yitzchak?",
+      "en": "[Wladek] Yitzchak?",
       "ja": "イツァーク"
     }
   },
@@ -1987,13 +2005,13 @@
   },
   {
     "translation": {
-      "en": "- Henryk's in there. - I haven't seen him.",
+      "en": "-Henryk's in there. -I haven't seen him.",
       "ja": "ヘンリックは？ 知らんな"
     }
   },
   {
     "translation": {
-      "en": "- Believe me. They picked him up. - Tough luck!",
+      "en": "-Believe me. They picked him up. -[Heller] Tough luck!",
       "ja": "いるはずだ 待て！"
     }
   },
@@ -2017,7 +2035,7 @@
   },
   {
     "translation": {
-      "en": "- It costs. - I have no money.",
+      "en": "-It costs. -I have no money.",
       "ja": "高くつくぞ 金など無い"
     }
   },
@@ -2029,7 +2047,7 @@
   },
   {
     "translation": {
-      "en": "- Yitzchak they told me you had influence. - Who told you?",
+      "en": "-Yitzchak they told me you had influence. -Who told you?",
       "ja": "君には権力があるだろう 誰に聞いた？"
     }
   },
@@ -2041,31 +2059,31 @@
   },
   {
     "translation": {
-      "en": "Yitzchak!",
+      "en": "[Wladek] Yitzchak!",
       "ja": "イツァーク"
     }
   },
   {
     "translation": {
-      "en": "- Want a cigarette? - Cigarette? Mmm.",
+      "en": "-[2nd Shupo] Want a cigarette? -[Rubinstein] Cigarette? Mmm.",
       "ja": "〈タバコですか〉"
     }
   },
   {
     "translation": {
-      "en": "Thank you.",
+      "en": "[Rubinstein in German] Thank you.",
       "ja": "〈ありがたい〉"
     }
   },
   {
     "translation": {
-      "en": "- Why did they pick you up? - So you go to Yitzchak Heller?",
+      "en": "-Why did they pick you up? -So you go to Yitzchak Heller?",
       "ja": "なぜ捕まった？ 命乞いなんて頼んでないぞ"
     }
   },
   {
     "translation": {
-      "en": "- Did I ask you to talk to him? - You're out, aren't you?",
+      "en": "-Did I ask you to talk to him? -You're out, aren't you?",
       "ja": "命乞いなんて頼んでないぞ 解放されたろ"
     }
   },
@@ -2101,14 +2119,14 @@
   },
   {
     "translation": {
-      "en": "- I can look after myself. - They were taking you away.",
+      "en": "-I can look after myself. -They were taking you away.",
       "ja": "俺に構うな 殺されるぞ"
     }
   },
   {
     "translation": {
       "en": "It's got nothing to do with you. It's me they wanted, not you.",
-      "ja": "兄貴には関係ない 俺の問題だ"
+      "ja": "兄貴には関係ない俺の問題だ"
     }
   },
   {
@@ -2161,13 +2179,13 @@
   },
   {
     "translation": {
-      "en": "- Otherwise what? - You'll be deported.",
+      "en": "-Otherwise what? -[Henryk] You'll be deported.",
       "ja": "どうなる？ 移送される"
     }
   },
   {
     "translation": {
-      "en": "- So the rumors were true. - They're going to resettle us...",
+      "en": "-So the rumors were true. -[Henryk] They're going to resettle us...",
       "ja": "噂は本当だったか 俺たちは―"
     }
   },
@@ -2179,13 +2197,13 @@
   },
   {
     "translation": {
-      "en": "- And they're closing the small ghetto. - My God!",
+      "en": "-And they're closing the small ghetto. -My God!",
       "ja": "小ゲットーは閉鎖だ"
     }
   },
   {
     "translation": {
-      "en": "Wladek? Wladek?",
+      "en": "[Jehuda] Wladek? Wladek?",
       "ja": "ヴワデック"
     }
   },
@@ -2197,7 +2215,7 @@
   },
   {
     "translation": {
-      "en": "- Not this week. - You look terrible.",
+      "en": "-Not this week. -You look terrible.",
       "ja": "いや今は 何があった"
     }
   },
@@ -2210,13 +2228,13 @@
   {
     "translation": {
       "en": "Rumors! You take it all too much to heart Wladek. What's the trouble?",
-      "ja": "噂なんか信じるな 何が問題だ？"
+      "ja": "噂なんか信じるな何が問題だ？"
     }
   },
   {
     "translation": {
       "en": "I, I've been trying to get the certificate of employment for my father.",
-      "ja": "父の雇用証明書が 取れなくて"
+      "ja": "父の雇用証明書が取れなくて"
     }
   },
   {
@@ -2227,7 +2245,7 @@
   },
   {
     "translation": {
-      "en": "- I've been to all the firms and shops... - Why didn't you come to me?",
+      "en": "-I've been to all the firms and shops... -Why didn't you come to me?",
       "ja": "父のだけは… 俺に任せろ"
     }
   },
@@ -2275,13 +2293,13 @@
   },
   {
     "translation": {
-      "en": "- Look on the bright side! - The bright side, yes, I know.",
+      "en": "-Look on the bright side! -The bright side, yes, I know.",
       "ja": "前向きに考えるんだ そうするよ"
     }
   },
   {
     "translation": {
-      "en": "- How's your back? - Better.",
+      "en": "-[Majorek] How's your back? -Better.",
       "ja": "腰は？ マシだ"
     }
   },
@@ -2299,20 +2317,20 @@
   },
   {
     "translation": {
-      "en": "- Thank you. - My pleasure. Won't help you anyway.",
+      "en": "-Thank you. -My pleasure. Won't help you anyway.",
       "ja": "助かった ああ　大して役に立たんがな"
     }
   },
   {
     "translation": {
-      "en": "Thank you, Mr. Schultz.",
+      "en": "[Majorek] Thank you, Mr. Schultz.",
       "ja": "感謝します"
     }
   },
   {
     "translation": {
       "en": "Well, at least we got work in the ghetto. Hey? At least we are still together.",
-      "ja": "仕事のおかげで 家族が一緒にいられる"
+      "ja": "仕事のおかげで家族が一緒にいられる"
     }
   },
   {
@@ -2324,13 +2342,13 @@
   {
     "translation": {
       "en": "We're all employed. We've got work permits.",
-      "ja": "〈僕らは雇用証明書が あります〉"
+      "ja": "〈僕らは雇用証明書があります〉"
     }
   },
   {
     "translation": {
-      "en": "The rest of you, get dressed and report back here!",
-      "ja": "〈残りは着替えて ここに集まれ〉"
+      "en": "[in German] The rest of you, get dressed and report back here!",
+      "ja": "〈残りは着替えてここに集まれ〉"
     }
   },
   {
@@ -2366,30 +2384,30 @@
   {
     "translation": {
       "en": "Let's just hope that Henryk and Halina will be better off.",
-      "ja": "ヘンリックとハリーナの 無事を祈るのよ"
+      "ja": "ヘンリックとハリーナの無事を祈るのよ"
     }
   },
   {
     "translation": {
-      "en": "- Where will we be going? - You're going to work.",
-      "ja": "どこへ？ 労働奉仕だ ゲットーより良い"
+      "en": "-Where will we be going? -You're going to work.",
+      "ja": "どこへ？ 労働奉仕だゲットーより良い"
     }
   },
   {
     "translation": {
       "en": "You'll be much better off than in the stinking ghetto. Move.",
-      "ja": "労働奉仕だ ゲットーより良い"
+      "ja": "労働奉仕だゲットーより良い"
     }
   },
   {
     "translation": {
-      "en": "Why did I do it? Why did I do it?",
-      "ja": "なぜ私はあんな事を してしまったの"
+      "en": "[young woman] Why did I do it? Why did I do it?",
+      "ja": "なぜ私はあんな事をしてしまったの"
     }
   },
   {
     "translation": {
-      "en": "Why did I do it? Why did I do it?",
+      "en": "[young woman] Why did I do it? Why did I do it?",
       "ja": "どうして私は なぜあんな事を"
     }
   },
@@ -2402,7 +2420,7 @@
   {
     "translation": {
       "en": "Don't you have a drop of water? He's dying.",
-      "ja": "水を下さい 死にそうなの"
+      "ja": "水を下さい死にそうなの"
     }
   },
   {
@@ -2413,7 +2431,7 @@
   },
   {
     "translation": {
-      "en": "- I beg you. I beg you. - I'm sorry.",
+      "en": "-I beg you. I beg you. -I'm sorry.",
       "ja": "どうかこの子に水を お願いです　水を下さい"
     }
   },
@@ -2425,19 +2443,19 @@
   },
   {
     "translation": {
-      "en": "Did you hear what I'm saying? - I'm telling you, it's a disgrace. - I can hear you.",
+      "en": "[Dr. Szpilman] Did you hear what I'm saying? -I'm telling you, it's a disgrace. -I can hear you.",
       "ja": "まったく　これは我々の恥だ"
     }
   },
   {
     "translation": {
-      "en": "We're letting them take us to our death like sheep to the slaughter.",
+      "en": "[Dr. Szpilman] We're letting them take us to our death like sheep to the slaughter.",
       "ja": "殺されるのを待つ羊だ"
     }
   },
   {
     "translation": {
-      "en": "- Not so loud. - Why don't we attack them?",
+      "en": "-Not so loud. -[Dr. Szpilman] Why don't we attack them?",
       "ja": "声が大きい 戦うべきだ"
     }
   },
@@ -2485,14 +2503,14 @@
   },
   {
     "translation": {
-      "en": "He's right. What do you think I can do? Fight them with my violin bow?",
+      "en": "[father] He's right. What do you think I can do? Fight them with my violin bow?",
       "ja": "バイオリンの弓で戦うか？"
     }
   },
   {
     "translation": {
       "en": "The Germans would never squander a huge labor force like this. They're sending us to a labor camp, it's obvious.",
-      "ja": "ドイツ軍は我々を殺さん 働かされるだけだ"
+      "ja": "ドイツ軍は我々を殺さん働かされるだけだ"
     }
   },
   {
@@ -2504,7 +2522,7 @@
   {
     "translation": {
       "en": "Look at that cripple there, look at the old people, the children. They're gonna work?",
-      "ja": "負傷者 老人 子供が 働けるか？"
+      "ja": "負傷者 老人 子供が働けるか？"
     }
   },
   {
@@ -2533,14 +2551,14 @@
   },
   {
     "translation": {
-      "en": "Stupid. Stupid.",
+      "en": "[sighs] Stupid. Stupid.",
       "ja": "なんて… 愚かなんだ"
     }
   },
   {
     "translation": {
-      "en": "Why did I do it? Why did I do it?",
-      "ja": "なぜ私はあんな事を してしまったの"
+      "en": "[young woman] Why did I do it? Why did I do it?",
+      "ja": "なぜ私はあんな事をしてしまったの"
     }
   },
   {
@@ -2551,7 +2569,7 @@
   },
   {
     "translation": {
-      "en": "- What did she do, for God's sake? - She smothered her baby.",
+      "en": "-What did she do, for God's sake? -She smothered her baby.",
       "ja": "一体何をしたの？ 赤ん坊を死なせた"
     }
   },
@@ -2570,13 +2588,13 @@
   {
     "translation": {
       "en": "She smothered the cries with her hands, the baby died.",
-      "ja": "手で口を覆ったら 赤ん坊は窒息死した"
+      "ja": "手で口を覆ったら赤ん坊は窒息死した"
     }
   },
   {
     "translation": {
-      "en": "A policeman heard the death rattle and found where they were hiding.",
-      "ja": "死に際の声を聞かれて 捕まった"
+      "en": "[Grun] A policeman heard the death rattle and found where they were hiding.",
+      "ja": "死に際の声を聞かれて捕まった"
     }
   },
   {
@@ -2587,7 +2605,7 @@
   },
   {
     "translation": {
-      "en": "If you prick us, de we not bleed? If you tickle us, do we not laugh?",
+      "en": "\"If you prick us, de we not bleed? If you tickle us, do we not laugh?",
       "ja": "“刺されても血を流さず” “くすぐられても笑わず”"
     }
   },
@@ -2599,13 +2617,13 @@
   },
   {
     "translation": {
-      "en": "And, if you wrong us, shall we not revenge?",
+      "en": "And, if you wrong us, shall we not revenge?\"",
       "ja": "“苦しめられても復讐せず”"
     }
   },
   {
     "translation": {
-      "en": "- Very appropriate. - Yes. That's why I brought it.",
+      "en": "-Very appropriate. -Yes. That's why I brought it.",
       "ja": "今の僕らだな だから持ってきた"
     }
   },
@@ -2623,20 +2641,20 @@
   },
   {
     "translation": {
-      "en": "Come here.",
+      "en": "[father] Come here.",
       "ja": "ここだ"
     }
   },
   {
     "translation": {
-      "en": "- How much for a caramel? - Twenty zlotys.",
+      "en": "-[father] How much for a caramel? -Twenty zlotys.",
       "ja": "幾らだ？ 20だよ"
     }
   },
   {
     "translation": {
       "en": "What? For one caramel? What do you think you're gonna do with the money?",
-      "ja": "キャラメル１つで？ 金をどうする"
+      "ja": "キャラメル１つで？金をどうする"
     }
   },
   {
@@ -2665,13 +2683,13 @@
   },
   {
     "translation": {
-      "en": "- Halina? - What?",
+      "en": "-Halina? -What?",
       "ja": "ハリーナ 何？"
     }
   },
   {
     "translation": {
-      "en": "- It's a funny time to say this, but... - What?",
+      "en": "-It's a funny time to say this, but... -What?",
       "ja": "こんな時だけど… 何なの？"
     }
   },
@@ -2689,7 +2707,7 @@
   },
   {
     "translation": {
-      "en": "Szpilman? Szpilman!",
+      "en": "[Heller] Szpilman? Szpilman!",
       "ja": "シュピルマン"
     }
   },
@@ -2725,7 +2743,7 @@
   },
   {
     "translation": {
-      "en": "Don't run!",
+      "en": "[Heller] Don't run!",
       "ja": "走るな"
     }
   },
@@ -2737,7 +2755,7 @@
   },
   {
     "translation": {
-      "en": "- Well, off they go to the melting pot. - Ah! Ja.",
+      "en": "-Well, off they go to the melting pot. -Ah! Ja.",
       "ja": "まさにユダヤのるつぼだな"
     }
   },
@@ -2749,13 +2767,13 @@
   },
   {
     "translation": {
-      "en": "Wladek?",
+      "en": "[Benek] Wladek?",
       "ja": "ヴワデック"
     }
   },
   {
     "translation": {
-      "en": "Why are you here, Wladek?",
+      "en": "[sighs heavily] Why are you here, Wladek?",
       "ja": "なぜここにいる？"
     }
   },
@@ -2792,7 +2810,7 @@
   {
     "translation": {
       "en": "It's not finished yet. We'll stay here for a couple of days, until things die down.",
-      "ja": "事態が収まるまで ２日は潜伏する"
+      "ja": "事態が収まるまで２日は潜伏する"
     }
   },
   {
@@ -2834,19 +2852,19 @@
   {
     "translation": {
       "en": "She's a singer. I knew her well actually. Her husband's an actor.",
-      "ja": "歌手だよ　古い友人だ 旦那は役者で いい人たちだ"
+      "ja": "歌手だよ　古い友人だ 旦那は役者でいい人たちだ"
     }
   },
   {
     "translation": {
       "en": "They're good people. I'd like to talk to her.",
-      "ja": "旦那は役者で いい人たちだ 話したい"
+      "ja": "旦那は役者でいい人たちだ 話したい"
     }
   },
   {
     "translation": {
       "en": "Don't forget, Wladek. They hang them for helping Jews.",
-      "ja": "ユダヤ人を助けたら 彼らも死刑だぞ"
+      "ja": "ユダヤ人を助けたら彼らも死刑だぞ"
     }
   },
   {
@@ -2882,7 +2900,7 @@
   {
     "translation": {
       "en": "We sent someone out. Zygmunt, a good man.",
-      "ja": "ジグムントという男に 調べさせた"
+      "ja": "ジグムントという男に調べさせた"
     }
   },
   {
@@ -2912,7 +2930,7 @@
   {
     "translation": {
       "en": "He said everyday freight trains carrying people from Warsaw...",
-      "ja": "満員の列車が毎日 ワルシャワを出て―"
+      "ja": "満員の列車が毎日ワルシャワを出て―"
     }
   },
   {
@@ -2930,7 +2948,7 @@
   {
     "translation": {
       "en": "And civilians are forbidden to approach the Treblinka station.",
-      "ja": "民間人はトレブリンカ駅に 近づけない"
+      "ja": "民間人はトレブリンカ駅に近づけない"
     }
   },
   {
@@ -2948,7 +2966,7 @@
   {
     "translation": {
       "en": "We're 60 thousand left, out of half a million.",
-      "ja": "50万人のうち ６万しか残ってない"
+      "ja": "50万人のうち６万しか残ってない"
     }
   },
   {
@@ -2972,7 +2990,7 @@
   {
     "translation": {
       "en": "Organized. We're prepared.",
-      "ja": "組織化して 準備は整っている"
+      "ja": "組織化して準備は整っている"
     }
   },
   {
@@ -2983,25 +3001,25 @@
   },
   {
     "translation": {
-      "en": "You! Come here!",
+      "en": "[Zig-Zag] You! Come here!",
       "ja": "〈来い〉"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry. I'm sorry.",
+      "en": "[Wladek] I'm sorry. I'm sorry.",
       "ja": "すみません"
     }
   },
   {
     "translation": {
-      "en": "I, I don't know what I was thinking.",
+      "en": "[Wladek] I, I don't know what I was thinking.",
       "ja": "ついボンヤリして"
     }
   },
   {
     "translation": {
-      "en": "Get him away from here.",
+      "en": "[in German] Get him away from here.",
       "ja": "〈連れて行け〉"
     }
   },
@@ -3031,19 +3049,19 @@
   },
   {
     "translation": {
-      "en": "Assemble! Fall in!",
+      "en": "[German soldier # 1 in German] Assemble! Fall in!",
       "ja": "〈ユダヤ人だけ集まれ！〉"
     }
   },
   {
     "translation": {
-      "en": "Round up! Only the Jews.",
+      "en": "[German soldier # 2] Round up! Only the Jews.",
       "ja": "ユダヤ人は集合"
     }
   },
   {
     "translation": {
-      "en": "Poles go on working. Only the Jews!",
+      "en": "[German soldier # 2] Poles go on working. Only the Jews!",
       "ja": "ポーランド人は仕事を続けろ"
     }
   },
@@ -3133,19 +3151,19 @@
   },
   {
     "translation": {
-      "en": "Carry on.",
+      "en": "[in German] Carry on.",
       "ja": "〈続けろ〉"
     }
   },
   {
     "translation": {
       "en": "That one, with the string. The others, tied by wire.",
-      "ja": "縛ってあるやつだ 他のは針金だ"
+      "ja": "縛ってあるやつだ他のは針金だ"
     }
   },
   {
     "translation": {
-      "en": "Now!",
+      "en": "[Majorek] Now!",
       "ja": "今だ！"
     }
   },
@@ -3182,7 +3200,7 @@
   {
     "translation": {
       "en": "Last summer, I worked for a day in the Zelazna Brama Square.",
-      "ja": "夏にジェラズナ広場で 労働をした時―"
+      "ja": "夏にジェラズナ広場で労働をした時―"
     }
   },
   {
@@ -3229,13 +3247,13 @@
   },
   {
     "translation": {
-      "en": "Got a plaster?",
+      "en": "[in German] Got a plaster?",
       "ja": "〈絆創膏はあるか？〉"
     }
   },
   {
     "translation": {
-      "en": "What are you up to?",
+      "en": "[in German] What are you up to?",
       "ja": "〈何を企ててる？〉"
     }
   },
@@ -3247,56 +3265,56 @@
   },
   {
     "translation": {
-      "en": "We're allowed to take food into the ghetto.",
+      "en": "[in German] We're allowed to take food into the ghetto.",
       "ja": "〈ゲットーに運ぶ食料です〉"
     }
   },
   {
     "translation": {
-      "en": "Three kilos of potato and bread.",
+      "en": "[in German] Three kilos of potato and bread.",
       "ja": "〈イモとパンです…〉"
     }
   },
   {
     "translation": {
-      "en": "Open it.",
+      "en": "[in German] Open it.",
       "ja": "〈開けろ〉"
     }
   },
   {
     "translation": {
-      "en": "It's only potatoes and bread.",
+      "en": "[in German] It's only potatoes and bread.",
       "ja": "〈イモとパンですよ〉"
     }
   },
   {
     "translation": {
-      "en": "You're lying. I can smell it.",
+      "en": "[in German] You're lying. I can smell it.",
       "ja": "〈お前の嘘などお見通しだ〉"
     }
   },
   {
     "translation": {
-      "en": "Open it.",
+      "en": "[in German] Open it.",
       "ja": "〈早く開けろ〉"
     }
   },
   {
     "translation": {
-      "en": "Potatoes!",
+      "en": "[in German] Potatoes!",
       "ja": "〈やっぱりな〉"
     }
   },
   {
     "translation": {
-      "en": "You Jews are all the same.",
+      "en": "[in German] You Jews are all the same.",
       "ja": "〈油断もスキもない〉"
     }
   },
   {
     "translation": {
-      "en": "Give a Jew your little finger...",
-      "ja": "〈ユダヤ人に 甘い顔をすると―〉"
+      "en": "[in German] Give a Jew your little finger...",
+      "ja": "〈ユダヤ人に甘い顔をすると―〉"
     }
   },
   {
@@ -3307,55 +3325,55 @@
   },
   {
     "translation": {
-      "en": "Lie to me again, I'll shoot you... personally.",
+      "en": "[in German] Lie to me again, I'll shoot you... personally.",
       "ja": "〈次は撃ち殺すからな〉"
     }
   },
   {
     "translation": {
-      "en": "I tried your friends.",
+      "en": "[Majorek] I tried your friends.",
       "ja": "お前の友達は引越した"
     }
   },
   {
     "translation": {
-      "en": "- They don't live there anymore. - Did you make contact?",
+      "en": "-They don't live there anymore. -Did you make contact?",
       "ja": "お前の友達は引越した 連絡は取れたか？"
     }
   },
   {
     "translation": {
-      "en": "- Be ready to leave. - When?",
+      "en": "-Be ready to leave. -When?",
       "ja": "準備しとけ いつ？"
     }
   },
   {
     "translation": {
-      "en": "- Soon. - Halt!",
+      "en": "-Soon. -[Zig-Zag] Halt!",
       "ja": "すぐに"
     }
   },
   {
     "translation": {
-      "en": "I'll teach you discipline, you dirty pigs!",
+      "en": "[in German] I'll teach you discipline, you dirty pigs!",
       "ja": "〈お前らに教えてやる〉"
     }
   },
   {
     "translation": {
-      "en": "Know why we're beating you?",
+      "en": "[in German] Know why we're beating you?",
       "ja": "〈なぜ殴るのか―〉"
     }
   },
   {
     "translation": {
-      "en": "Know why we beat you?",
+      "en": "[in German] Know why we beat you?",
       "ja": "〈分かってるか？〉"
     }
   },
   {
     "translation": {
-      "en": "- Why? - To celebrate New Year's Eve.",
+      "en": "-[in German] Why? -[in German] To celebrate New Year's Eve.",
       "ja": "〈なぜ？〉 〈大晦日を祝うためさ〉"
     }
   },
@@ -3367,38 +3385,38 @@
   },
   {
     "translation": {
-      "en": "March and sing!",
+      "en": "[Zig-Zag in German] March and sing!",
       "ja": "〈歌え！〉"
     }
   },
   {
     "translation": {
-      "en": "Sing something cheerful!",
+      "en": "[Zig-Zag in German] Sing something cheerful!",
       "ja": "〈陽気な歌を〉"
     }
   },
   {
     "translation": {
-      "en": "Sing it loud and clear!",
+      "en": "[Zig-Zag in German] Sing it loud and clear!",
       "ja": "〈大きな声で はっきりと〉"
     }
   },
   {
     "translation": {
-      "en": "♪ Hey ranks unite and follow the white eagle ♪",
-      "ja": "兵よ整列し 　　白きワシに続け"
+      "en": "[Column sings] ♪ Hey ranks unite and follow the white eagle ♪",
+      "ja": "兵よ整列し　　白きワシに続け"
     }
   },
   {
     "translation": {
-      "en": "♪ Stand up and fight our mortal enemies ♪",
-      "ja": "不倶戴天の敵を 　　倒すべく戦おう"
+      "en": "[all sing] ♪ Stand up and fight our mortal enemies ♪",
+      "ja": "不倶戴天の敵を　　倒すべく戦おう"
     }
   },
   {
     "translation": {
       "en": "♪ Riflemen, hey! Let's give them fire and brimstone ♪",
-      "ja": "射撃手たちよ 　　地獄の炎を敵陣に"
+      "ja": "射撃手たちよ　　地獄の炎を敵陣に"
     }
   },
   {
@@ -3410,18 +3428,18 @@
   {
     "translation": {
       "en": "♪ Punish and rout the rapists of our nation ♪",
-      "ja": "祖国の凌辱者に 　　裁きと罰を下せ"
+      "ja": "祖国の凌辱者に　　裁きと罰を下せ"
     }
   },
   {
     "translation": {
       "en": "♪ We'll smash the knout to save our dignity ♪",
-      "ja": "我らの尊厳を 　　この手に取り戻せ"
+      "ja": "我らの尊厳を　　この手に取り戻せ"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry. I'm dirty. I'm so filthy.",
+      "en": "I'm sorry. I'm dirty. I'm so filthy. [sniffs]",
       "ja": "こんな汚い姿で すまない"
     }
   },
@@ -3439,7 +3457,7 @@
   },
   {
     "translation": {
-      "en": "Here. See if these fit.  We're going to have to keep moving you.",
+      "en": "Here. See if these fit. [Bogucki] We're going to have to keep moving you.",
       "ja": "着替だ　隠れ家を転々とする"
     }
   },
@@ -3451,8 +3469,8 @@
   },
   {
     "translation": {
-      "en": "Jews, non- Jews, anybody, everybody.",
-      "ja": "誰であれ ドイツ兵に捕らえられる"
+      "en": "Jews, non-Jews, anybody, everybody.",
+      "ja": "誰であれドイツ兵に捕らえられる"
     }
   },
   {
@@ -3475,7 +3493,7 @@
   },
   {
     "translation": {
-      "en": "- I'll bring you food. - Alright, let's go.",
+      "en": "-I'll bring you food. -Alright, let's go.",
       "ja": "私が食料を運ぶわ よし 行こう"
     }
   },
@@ -3488,13 +3506,13 @@
   {
     "translation": {
       "en": "You have to stay here until tomorrow afternoon.",
-      "ja": "明日の午後まで ここにいて―"
+      "ja": "明日の午後までここにいて―"
     }
   },
   {
     "translation": {
       "en": "We have a flat for you near the ghetto wall. But it's safe.",
-      "ja": "ゲットーの壁近くの 部屋へ行く そこは安全だ"
+      "ja": "ゲットーの壁近くの部屋へ行く そこは安全だ"
     }
   },
   {
@@ -3529,7 +3547,7 @@
   },
   {
     "translation": {
-      "en": "I'm going to draw the curtains now.",
+      "en": "[Gebczynski] I'm going to draw the curtains now.",
       "ja": "カーテンを閉める"
     }
   },
@@ -3559,20 +3577,20 @@
   },
   {
     "translation": {
-      "en": "Some bread, potatoes, onions.",
+      "en": "[Gebczynski] Some bread, potatoes, onions.",
       "ja": "パン　イモ　タマネギがある"
     }
   },
   {
     "translation": {
       "en": "I'll come again. And Janina Bogucki will visit twice a week.",
-      "ja": "また来るよ 週２回 ヤニナが食料を 持ってくる"
+      "ja": "また来るよ 週２回 ヤニナが食料を持ってくる"
     }
   },
   {
     "translation": {
       "en": "Bring more food, see how you are.",
-      "ja": "週２回 ヤニナが食料を 持ってくる"
+      "ja": "週２回 ヤニナが食料を持ってくる"
     }
   },
   {
@@ -3595,68 +3613,80 @@
   },
   {
     "translation": {
-      "en": "Puppy dog, what do you mean you forgot?",
+      "en": "[woman playing kitten's voice next door] Puppy dog, what do you mean you forgot?",
       "ja": "忘れたですって？"
     }
   },
   {
     "translation": {
-      "en": "What do you think I mean, Kitten? I forgot, that's what I mean.",
+      "en": "[man playing puppy dog's voice] What do you think I mean, Kitten? I forgot, that's what I mean.",
       "ja": "そうさ　忘れただけさ"
     }
   },
   {
     "translation": {
-      "en": "You know what, you treat me like dirt.",
+      "en": "[Kitten's voice] You know what, you treat me like dirt.",
       "ja": "私をゴミ扱いするのね！"
     }
   },
   {
     "translation": {
-      "en": "I treat you like dirt because you are dirt.",
+      "en": "[Puppy dog's voice] I treat you like dirt because you are dirt.",
       "ja": "ゴミ同然だろ？"
     }
   },
   {
     "translation": {
-      "en": "- Pig! Pig! - Bitch!",
+      "en": "-[Kitten's voice] Pig! Pig! -[Puppy dog's voice] Bitch!",
       "ja": "あんたはブタよ！ アバズレ"
     }
   },
   {
     "translation": {
-      "en": "- Dirty pig! - You are a dirty pig!",
+      "en": "-[Kitten's voice] Dirty pig! -[Puppy dog's voice] You are a dirty pig!",
       "ja": "汚いブタ！ お前だって"
     }
   },
   {
     "translation": {
-      "en": "Takes one to know one. Pig.",
+      "en": "[Kitten's voice] Takes one to know one. Pig.",
       "ja": "じゃあ同類ってことね"
     }
   },
   {
     "translation": {
-      "en": "Hmm. You play like an angel, Kitten.",
+      "en": "[Puppy dog's voice] Hmm. You play like an angel, Kitten.",
       "ja": "天使のような音色だ"
     }
   },
   {
     "translation": {
-      "en": "If I play like an angel, why don't you listen?",
+      "en": "[Kitten's voice] If I play like an angel, why don't you listen? [Wladek chuckles]",
       "ja": "ろくに聴いてないくせに"
     }
   },
   {
     "translation": {
-      "en": "I was listening, Kitten.",
+      "en": "[Puppy dog's voice] I was listening, Kitten.",
       "ja": "聴いてるよ"
     }
   },
   {
     "translation": {
-      "en": "Liar! You fell asleep. Pig!",
+      "en": "[Kitten's voice] Liar! You fell asleep. Pig!",
       "ja": "ウトウトしてたでしょ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gunshots, rapid gunfire]",
+      "ja": "1943年 ４月19日"
+    }
+  },
+  {
+    "translation": {
+      "en": "[speaking German]",
+      "ja": "1943年 ５月16日"
     }
   },
   {
@@ -3667,13 +3697,13 @@
   },
   {
     "translation": {
-      "en": "- I wanted to come earlier, but... - No, no, no, thank you.",
+      "en": "-I wanted to come earlier, but... -No, no, no, thank you.",
       "ja": "遅れてごめんなさい"
     }
   },
   {
     "translation": {
-      "en": "No- one thought they'd hold out so long.",
+      "en": "[Janina] No-one thought they'd hold out so long.",
       "ja": "彼らはずいぶん抵抗したわ"
     }
   },
@@ -3686,37 +3716,37 @@
   {
     "translation": {
       "en": "Wladek, stop that. It's over now.",
-      "ja": "ヴワデックやめて もう終わったのよ 彼らは勇敢だった"
+      "ja": "ヴワデックやめて もう終わったのよ彼らは勇敢だった"
     }
   },
   {
     "translation": {
       "en": "Just be proud it happened.",
-      "ja": "もう終わったのよ 彼らは勇敢だった"
+      "ja": "もう終わったのよ彼らは勇敢だった"
     }
   },
   {
     "translation": {
-      "en": "- My God, did they put up a fight! - Yes.",
+      "en": "-My God, did they put up a fight! -Yes.",
       "ja": "粘り強く戦ったわ そうだな"
     }
   },
   {
     "translation": {
-      "en": "- So did the Germans. - They're in shock!",
-      "ja": "ドイツ側も 予想外の攻防に 驚いたでしょうね"
+      "en": "-So did the Germans. -They're in shock!",
+      "ja": "ドイツ側も 予想外の攻防に驚いたでしょうね"
     }
   },
   {
     "translation": {
       "en": "They didn't expect it. Nobody expected it. Jews fighting back?",
-      "ja": "予想外の攻防に 驚いたでしょうね まさかユダヤ人が 反撃するなんて"
+      "ja": "予想外の攻防に驚いたでしょうね まさかユダヤ人が反撃するなんて"
     }
   },
   {
     "translation": {
-      "en": "- Who would have thought? - What good did it do?",
-      "ja": "まさかユダヤ人が 反撃するなんて でもムダだった"
+      "en": "-Who would have thought? -What good did it do?",
+      "ja": "まさかユダヤ人が反撃するなんて でもムダだった"
     }
   },
   {
@@ -3746,7 +3776,7 @@
   {
     "translation": {
       "en": "Now the Poles will rise. We're ready.",
-      "ja": "次は私たちポーランド人が 立ち上がるの"
+      "ja": "次は私たちポーランド人が立ち上がるの"
     }
   },
   {
@@ -3758,25 +3788,25 @@
   {
     "translation": {
       "en": "Get your things together. You have to leave.",
-      "ja": "荷物をまとめろ ここを出る"
+      "ja": "荷物をまとめろここを出る"
     }
   },
   {
     "translation": {
-      "en": "p What? What's happened?",
+      "en": "p[Wladek] What? What's happened?",
       "ja": "どうした？"
     }
   },
   {
     "translation": {
-      "en": "- I'm on the run. - What's happened?",
+      "en": "-[Gebczynski] I'm on the run. -What's happened?",
       "ja": "俺は逃げる なぜ？"
     }
   },
   {
     "translation": {
       "en": "The Gestapo found our weapons. They've arrested Janina and Andrzej.",
-      "ja": "ゲシュタポが 武器が見つけて ヤニナたちも捕まった"
+      "ja": "ゲシュタポが武器が見つけて ヤニナたちも捕まった"
     }
   },
   {
@@ -3799,14 +3829,14 @@
   },
   {
     "translation": {
-      "en": "- Can I take my chances here? - That's your decision.",
-      "ja": "ここに残る 好きにしろ だが奴らが来たら―"
+      "en": "-Can I take my chances here? -That's your decision.",
+      "ja": "ここに残る 好きにしろだが奴らが来たら―"
     }
   },
   {
     "translation": {
       "en": "But when they storm the flat, throw yourself out the window,",
-      "ja": "好きにしろ だが奴らが来たら― 飛び下りろ　生きて捕まるな"
+      "ja": "好きにしろだが奴らが来たら― 飛び下りろ　生きて捕まるな"
     }
   },
   {
@@ -3823,20 +3853,20 @@
   },
   {
     "translation": {
-      "en": "Open up!",
+      "en": "[woman] Open up!",
       "ja": "開けなさい"
     }
   },
   {
     "translation": {
-      "en": "Open this door at once or we'll call the police!",
+      "en": "[woman shouts] Open this door at once or we'll call the police!",
       "ja": "開けないと警察を呼ぶわよ"
     }
   },
   {
     "translation": {
       "en": "Are you from this flat? You're not registered.",
-      "ja": "ここの住人？ 登録してないでしょ"
+      "ja": "ここの住人？登録してないでしょ"
     }
   },
   {
@@ -3859,13 +3889,13 @@
   },
   {
     "translation": {
-      "en": "- Let me see your identity card. - Yes, of course.",
+      "en": "-Let me see your identity card. -Yes, of course.",
       "ja": "証明書を見せなさい"
     }
   },
   {
     "translation": {
-      "en": "- I want to see your identity card! - What's happening?",
+      "en": "-I want to see your identity card! -What's happening?",
       "ja": "出しなさいよ！ 何事？"
     }
   },
@@ -3889,13 +3919,13 @@
   },
   {
     "translation": {
-      "en": "- Yes? - Mr. Gebczynski sent me.",
+      "en": "-[Dorota] Yes? -Mr. Gebczynski sent me.",
       "ja": "どなた？ マレクの紹介です"
     }
   },
   {
     "translation": {
-      "en": "- Wladyslaw Szpilman. - Dorota.",
+      "en": "-Wladyslaw Szpilman. -Dorota.",
       "ja": "ヴワデック…？ ドロタか…！"
     }
   },
@@ -3955,13 +3985,13 @@
   },
   {
     "translation": {
-      "en": "- I need somewhere to stay. - He'll be here soon.",
+      "en": "-I need somewhere to stay. -He'll be here soon.",
       "ja": "見つかって… 夫が力になるわ"
     }
   },
   {
     "translation": {
-      "en": "- How long have you been married? - Just over a year.",
+      "en": "-How long have you been married? -Just over a year.",
       "ja": "いつ結婚したの？ １年前よ"
     }
   },
@@ -3979,26 +4009,26 @@
   },
   {
     "translation": {
-      "en": "- And when, when is your baby due? - Christmas.",
+      "en": "-And when, when is your baby due? -Christmas.",
       "ja": "赤ちゃんの予定日は？ クリスマスよ"
     }
   },
   {
     "translation": {
-      "en": "This is not a good time to have children, - - but then...",
-      "ja": "子供を産むには 厳しい時代だけど…"
+      "en": "This is not a good time to have children, -[door opens, closes] -but then...",
+      "ja": "子供を産むには厳しい時代だけど…"
     }
   },
   {
     "translation": {
       "en": "This is my husband. Wladyslaw Szpilman.",
-      "ja": "夫よ シュピルマンさんよ マレクの紹介で"
+      "ja": "夫よ シュピルマンさんよマレクの紹介で"
     }
   },
   {
     "translation": {
-      "en": "- Marek Gebczynski sent him. - Oh, yes, I remember.",
-      "ja": "シュピルマンさんよ マレクの紹介で そうだったか"
+      "en": "-Marek Gebczynski sent him. -Oh, yes, I remember.",
+      "ja": "シュピルマンさんよマレクの紹介で そうだったか"
     }
   },
   {
@@ -4016,7 +4046,7 @@
   {
     "translation": {
       "en": "We can't move you tonight. You'll sleep on the sofa.",
-      "ja": "今夜は出られない ソファで眠って"
+      "ja": "今夜は出られないソファで眠って"
     }
   },
   {
@@ -4045,14 +4075,14 @@
   },
   {
     "translation": {
-      "en": "You're in a very German area.",
+      "en": "[Michal] You're in a very German area.",
       "ja": "ドイツ陣営の中心部"
     }
   },
   {
     "translation": {
       "en": "The building opposite is a hospital taking in wounded from the Russian front.",
-      "ja": "正面は病院 ロシア戦線の負傷兵ばかり"
+      "ja": "正面は病院ロシア戦線の負傷兵ばかり"
     }
   },
   {
@@ -4063,7 +4093,7 @@
   },
   {
     "translation": {
-      "en": "Safest place to be.",
+      "en": "[Michal] Safest place to be.",
       "ja": "ここは最も安全だ"
     }
   },
@@ -4081,7 +4111,7 @@
   },
   {
     "translation": {
-      "en": "No- one knows you're here, so keep as quiet as possible.",
+      "en": "No-one knows you're here, so keep as quiet as possible.",
       "ja": "なるべく音を立てないように"
     }
   },
@@ -4100,7 +4130,7 @@
   {
     "translation": {
       "en": "This is Antek Szalas. He'll be looking after you.",
-      "ja": "シャワスだ 君の世話をしてくれる"
+      "ja": "シャワスだ君の世話をしてくれる"
     }
   },
   {
@@ -4117,7 +4147,7 @@
   },
   {
     "translation": {
-      "en": "- You don't remember me Mr. Szpilman? - I don't think so.",
+      "en": "-You don't remember me Mr. Szpilman? -I don't think so.",
       "ja": "私を覚えてませんか？ いや…"
     }
   },
@@ -4129,13 +4159,13 @@
   },
   {
     "translation": {
-      "en": "I saw you almost every day.",
+      "en": "[Szalas] I saw you almost every day.",
       "ja": "いつも見ていました"
     }
   },
   {
     "translation": {
-      "en": "- I'm sorry, I don't remember, I... - It doesn't matter.",
+      "en": "-I'm sorry, I don't remember, I... -It doesn't matter.",
       "ja": "覚えてなくて 構いません"
     }
   },
@@ -4148,7 +4178,7 @@
   {
     "translation": {
       "en": "You'll be pleased to hear that the Allies are bombing Germany... night after night, after night.",
-      "ja": "連合軍がドイツを 毎晩爆撃している"
+      "ja": "連合軍がドイツを毎晩爆撃している"
     }
   },
   {
@@ -4160,7 +4190,7 @@
   {
     "translation": {
       "en": "And the Russians are really giving them hell. It's the beginning of the end.",
-      "ja": "ソ連軍も侵攻する 終わりは近い"
+      "ja": "ソ連軍も侵攻する終わりは近い"
     }
   },
   {
@@ -4189,7 +4219,7 @@
   },
   {
     "translation": {
-      "en": "- How long is this meant to last? - Not long now.",
+      "en": "-How long is this meant to last? -Not long now.",
       "ja": "いつまで続くのか… 長くはない"
     }
   },
@@ -4208,7 +4238,7 @@
   {
     "translation": {
       "en": "My grandfather was jilted by his girlfriend when he got jaundice.",
-      "ja": "祖父は黄疸で 恋人に振られたがな"
+      "ja": "祖父は黄疸で恋人に振られたがな"
     }
   },
   {
@@ -4225,13 +4255,13 @@
   },
   {
     "translation": {
-      "en": "- I got-- - Problems.",
+      "en": "-I got-- -Problems.",
       "ja": "困ったよ"
     }
   },
   {
     "translation": {
-      "en": "- Money. -",
+      "en": "-Money. -[car door slams]",
       "ja": "金がなくて"
     }
   },
@@ -4249,7 +4279,7 @@
   },
   {
     "translation": {
-      "en": "Here. Sell this.",
+      "en": "[Wladek] Here. Sell this.",
       "ja": "これを売って"
     }
   },
@@ -4262,13 +4292,13 @@
   {
     "translation": {
       "en": "Oh, yes. I meant to tell you! The Allies have landed in France.",
-      "ja": "いい知らせが 連合軍がフランスに上陸 ソ連軍も来る"
+      "ja": "いい知らせが 連合軍がフランスに上陸ソ連軍も来る"
     }
   },
   {
     "translation": {
       "en": "Russians will be here soon.",
-      "ja": "連合軍がフランスに上陸 ソ連軍も来る"
+      "ja": "連合軍がフランスに上陸ソ連軍も来る"
     }
   },
   {
@@ -4303,13 +4333,13 @@
   },
   {
     "translation": {
-      "en": "- I'll get a doctor. - You can't. It's too dangerous.",
+      "en": "-I'll get a doctor. -You can't. It's too dangerous.",
       "ja": "医者を呼ぶわ 危険すぎる"
     }
   },
   {
     "translation": {
-      "en": "- I'll get Dr. Luczak. We can trust him. - Dorota. Don't be ridiculous,",
+      "en": "-I'll get Dr. Luczak. We can trust him. -Dorota. Don't be ridiculous,",
       "ja": "ルジャク先生なら 小児科医だぞ？"
     }
   },
@@ -4321,7 +4351,7 @@
   },
   {
     "translation": {
-      "en": "- He's still a doctor. - No.",
+      "en": "-He's still a doctor. -No.",
       "ja": "でも医者だわ"
     }
   },
@@ -4358,7 +4388,7 @@
   {
     "translation": {
       "en": "He's been collecting money on your behalf all over Warsaw.",
-      "ja": "あなたのためと言って 寄付を集めて"
+      "ja": "あなたのためと言って寄付を集めて"
     }
   },
   {
@@ -4376,7 +4406,7 @@
   {
     "translation": {
       "en": "The liver the size of a football. Acute inflammation of the gall bladder...",
-      "ja": "肝臓が肥大 胆嚢が炎症しているが―"
+      "ja": "肝臓が肥大胆嚢が炎症しているが―"
     }
   },
   {
@@ -4393,13 +4423,13 @@
   },
   {
     "translation": {
-      "en": "- Can you visit him again? - Who knows.",
+      "en": "-Can you visit him again? -Who knows.",
       "ja": "また来て下さいます？ 何とも言えん"
     }
   },
   {
     "translation": {
-      "en": "- Doctor, thank you. - Don't speak, rest.",
+      "en": "-Doctor, thank you. -Don't speak, rest.",
       "ja": "先生 ありがとう… 静かに休みなさい"
     }
   },
@@ -4412,30 +4442,36 @@
   {
     "translation": {
       "en": "We've brought you some food. I'll prepare something now for you, then we must go.",
-      "ja": "食料を持ってきたから 何か作るわ"
+      "ja": "食料を持ってきたから何か作るわ"
     }
   },
   {
     "translation": {
-      "en": "Get out, get out, get out into the streets!",
+      "en": "[tram bell rings]",
+      "ja": "1944年 ８月１日"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Get out, get out, get out into the streets!",
       "ja": "早く外へ逃げろ！"
     }
   },
   {
     "translation": {
-      "en": "Get out now! The Germans have surrounded the building!",
+      "en": "[man] Get out now! The Germans have surrounded the building!",
       "ja": "ドイツ軍が建物を包囲した"
     }
   },
   {
     "translation": {
-      "en": "Somebody... Somebody! somebody help me!",
+      "en": "[Wladek] Somebody... Somebody! somebody help me!",
       "ja": "誰か！ 助けてくれ"
     }
   },
   {
     "translation": {
-      "en": "What are you doing here?",
+      "en": "[German Captain in German] What are you doing here?",
       "ja": "〈何してる？〉"
     }
   },
@@ -4447,19 +4483,19 @@
   },
   {
     "translation": {
-      "en": "- Understand? - Yes.",
+      "en": "-Understand? -[in German] Yes.",
       "ja": "〈ドイツ語は？〉"
     }
   },
   {
     "translation": {
-      "en": "What are you doing?",
+      "en": "[German Captain in German] What are you doing?",
       "ja": "〈ここで何を？〉"
     }
   },
   {
     "translation": {
-      "en": "I, I was...",
+      "en": "[in German] I, I was...",
       "ja": "〈その缶…〉"
     }
   },
@@ -4471,31 +4507,31 @@
   },
   {
     "translation": {
-      "en": "Do you live here?",
+      "en": "[in German] Do you live here?",
       "ja": "〈ここの住人か？〉"
     }
   },
   {
     "translation": {
-      "en": "Do you work here?",
+      "en": "[in German] Do you work here?",
       "ja": "〈働いてるのか？〉"
     }
   },
   {
     "translation": {
-      "en": "No.",
+      "en": "[Wladek in German] No.",
       "ja": "〈いいえ〉"
     }
   },
   {
     "translation": {
-      "en": "What do you do?",
+      "en": "[in German] What do you do?",
       "ja": "〈職業は？〉"
     }
   },
   {
     "translation": {
-      "en": "I am...",
+      "en": "[in German] I am...",
       "ja": "〈私は…〉"
     }
   },
@@ -4513,140 +4549,140 @@
   },
   {
     "translation": {
-      "en": "Come on.",
+      "en": "[in German] Come on.",
       "ja": "〈こっちだ〉"
     }
   },
   {
     "translation": {
-      "en": "Play something.",
+      "en": "[in German] Play something.",
       "ja": "〈弾けるか？〉"
     }
   },
   {
     "translation": {
-      "en": "Are you hiding here?",
+      "en": "[in German] Are you hiding here?",
       "ja": "〈潜伏中か？〉"
     }
   },
   {
     "translation": {
-      "en": "Jew?",
+      "en": "[in German] Jew?",
       "ja": "〈ユダヤ人か〉"
     }
   },
   {
     "translation": {
-      "en": "Where are you hiding?",
+      "en": "[in German] Where are you hiding?",
       "ja": "〈隠れ場所は？〉"
     }
   },
   {
     "translation": {
-      "en": "In the attic.",
+      "en": "[in German] In the attic.",
       "ja": "〈屋根裏です〉"
     }
   },
   {
     "translation": {
-      "en": "Show me.",
+      "en": "[in German] Show me.",
       "ja": "〈案内しろ〉"
     }
   },
   {
     "translation": {
-      "en": "Got any food?",
+      "en": "[in German] Got any food?",
       "ja": "〈食べ物は？〉"
     }
   },
   {
     "translation": {
-      "en": "Jew!",
+      "en": "[in German] Jew!",
       "ja": "〈おい〉"
     }
   },
   {
     "translation": {
-      "en": "Excuse me. Please.  What's all that gunfire?",
+      "en": "Excuse me. Please. [in German] What's all that gunfire?",
       "ja": "〈待って　あの砲撃音は？〉"
     }
   },
   {
     "translation": {
-      "en": "Russians. Across the river.",
+      "en": "[in German] Russians. Across the river.",
       "ja": "〈ソ連軍が迫っている〉"
     }
   },
   {
     "translation": {
-      "en": "All you have to do is wait a few weeks.",
+      "en": "[in German] All you have to do is wait a few weeks.",
       "ja": "〈あと２週間もすれば終わる〉"
     }
   },
   {
     "translation": {
-      "en": "- What's happening? - We're leaving.",
+      "en": "-[Wladek in German] What's happening? -[in German] We're leaving.",
       "ja": "〈どうしました？〉 〈撤退する〉"
     }
   },
   {
     "translation": {
-      "en": "- Are the Russians here? - Not yet.",
+      "en": "-[in German] Are the Russians here? -[in German] Not yet.",
       "ja": "〈ソ連軍は？〉 〈まだだ〉"
     }
   },
   {
     "translation": {
-      "en": "I... I don't know how to thank you.",
+      "en": "[in German] I... I don't know how to thank you.",
       "ja": "〈どう感謝すればいいか…〉"
     }
   },
   {
     "translation": {
-      "en": "Thank God, not me.",
+      "en": "[in German] Thank God, not me.",
       "ja": "〈神に感謝したまえ〉"
     }
   },
   {
     "translation": {
-      "en": "He wants us to survive. Well, that's what we have to believe.",
+      "en": "[in German] He wants us to survive. Well, that's what we have to believe.",
       "ja": "〈神に生かされていると―〉 〈信じるべきだ〉"
     }
   },
   {
     "translation": {
-      "en": "Here. Take it.",
+      "en": "[in German] Here. Take it.",
       "ja": "〈これを〉"
     }
   },
   {
     "translation": {
-      "en": "- And you? - I've got another...",
+      "en": "-[in German] And you? -[in German] I've got another...",
       "ja": "〈あなたは？〉 〈もっと暖かいのがある〉"
     }
   },
   {
     "translation": {
-      "en": "a warmer one.",
+      "en": "[in German] a warmer one.",
       "ja": "〈もっと暖かいのがある〉"
     }
   },
   {
     "translation": {
-      "en": "What'll you do when it's all over?",
+      "en": "[in German] What'll you do when it's all over?",
       "ja": "〈終戦後はどうするんだ？〉"
     }
   },
   {
     "translation": {
-      "en": "I'll play the piano again. On the Polish radio.",
-      "ja": "〈またラジオで ピアノを弾きます〉"
+      "en": "[in German] I'll play the piano again. On the Polish radio.",
+      "ja": "〈またラジオでピアノを弾きます〉"
     }
   },
   {
     "translation": {
-      "en": "Tell me your name.  I'll listen out for you.",
-      "ja": "〈名前を教えてくれ 放送を聴く〉"
+      "en": "[in German] Tell me your name. [in German] I'll listen out for you.",
+      "ja": "〈名前を教えてくれ放送を聴く〉"
     }
   },
   {
@@ -4663,13 +4699,13 @@
   },
   {
     "translation": {
-      "en": "Good name for a pianist.",
+      "en": "[in German] Good name for a pianist.",
       "ja": "〈ピアニストらしい名だ〉"
     }
   },
   {
     "translation": {
-      "en": "German! German!",
+      "en": "[woman shouts] German! German!",
       "ja": "ドイツ兵！ ドイツ兵よ！"
     }
   },
@@ -4681,19 +4717,19 @@
   },
   {
     "translation": {
-      "en": "- - Please! I'm Polish!",
+      "en": "-[gunshot] -Please! I'm Polish!",
       "ja": "ポーランド人だ"
     }
   },
   {
     "translation": {
-      "en": "Come out with your hands up!",
+      "en": "[Polish Officer shouts] Come out with your hands up!",
       "ja": "両手を上げろ！"
     }
   },
   {
     "translation": {
-      "en": "Please! I beg of you!",
+      "en": "[Wladek] Please! I beg of you!",
       "ja": "撃たないで"
     }
   },
@@ -4705,7 +4741,7 @@
   },
   {
     "translation": {
-      "en": "Come down!",
+      "en": "[Polish Officer shouts] Come down!",
       "ja": "下りてこい！"
     }
   },
@@ -4717,19 +4753,19 @@
   },
   {
     "translation": {
-      "en": "He's Polish.",
+      "en": "[Polish Officer] He's Polish.",
       "ja": "よく見ろ"
     }
   },
   {
     "translation": {
-      "en": "Yes, he's Polish.",
+      "en": "[Polish Officer #2] Yes, he's Polish.",
       "ja": "ポーランド人だ"
     }
   },
   {
     "translation": {
-      "en": "Why the fucking coat?",
+      "en": "[Polish Officer #2] Why the fucking coat?",
       "ja": "そのコートは？"
     }
   },
@@ -4747,32 +4783,32 @@
   },
   {
     "translation": {
-      "en": "Murderers! Murderers!",
+      "en": "[Lednicki] Murderers! Murderers!",
       "ja": "人殺し！ 人殺し！"
     }
   },
   {
     "translation": {
-      "en": "- Dirty bastards! - Assassins!",
+      "en": "-Dirty bastards! -[Lednicki] Assassins!",
       "ja": "卑劣な奴らめ！ 殺し屋！"
     }
   },
   {
     "translation": {
-      "en": "- Bastards! - Look at you now!",
-      "ja": "カスども！ 貴様らは 俺のすべてを奪った"
+      "en": "-[Polish man] Bastards! -[Lednicki] Look at you now!",
+      "ja": "カスども！ 貴様らは俺のすべてを奪った"
     }
   },
   {
     "translation": {
       "en": "You took everything I had. Me, a musician.",
-      "ja": "貴様らは 俺のすべてを奪った 音楽家の俺から―"
+      "ja": "貴様らは俺のすべてを奪った 音楽家の俺から―"
     }
   },
   {
     "translation": {
       "en": "You took my violin, you took my soul!",
-      "ja": "バイオリンを奪った 俺の魂まで！"
+      "ja": "バイオリンを奪った俺の魂まで！"
     }
   },
   {
@@ -4783,85 +4819,85 @@
   },
   {
     "translation": {
-      "en": "Musician?",
+      "en": "[in German] Musician?",
       "ja": "〈音楽家か？〉"
     }
   },
   {
     "translation": {
-      "en": "Do you know a pianist named Szpilman?",
+      "en": "[in German] Do you know a pianist named Szpilman?",
       "ja": "〈知っているか？〉 〈ピアニストのシュピルマンを〉"
     }
   },
   {
     "translation": {
-      "en": "Polish radio?",
+      "en": "[in German] Polish radio?",
       "ja": "〈ピアニストのシュピルマンを〉"
     }
   },
   {
     "translation": {
-      "en": "Of course I know him.",
+      "en": "[in German] Of course I know him.",
       "ja": "〈ああ 知ってるとも〉"
     }
   },
   {
     "translation": {
-      "en": "I helped him when he was in hiding. Tell him I'm here.",
+      "en": "[in German] I helped him when he was in hiding. Tell him I'm here.",
       "ja": "〈ここにいると伝えてくれ〉"
     }
   },
   {
     "translation": {
-      "en": "- - Ask him to help me.",
+      "en": "-[Russian Guard speaking Russian] -[Captain in German] Ask him to help me.",
       "ja": "〈私は彼を助けた者だ〉"
     }
   },
   {
     "translation": {
-      "en": "What's your name?",
+      "en": "[in German] What's your name?",
       "ja": "〈名前は？〉"
     }
   },
   {
     "translation": {
-      "en": "- What? -",
+      "en": "-[in German] What? -[Russian Guard speaking Russian]",
       "ja": "〈何だって？〉"
     }
   },
   {
     "translation": {
-      "en": "It was here, I'm certain of it.",
+      "en": "[Lednicki] It was here, I'm certain of it.",
       "ja": "確かにここだ　間違いない"
     }
   },
   {
     "translation": {
-      "en": "Well, it's not here now.",
+      "en": "[Wladek] Well, it's not here now.",
       "ja": "もう何もないが"
     }
   },
   {
     "translation": {
-      "en": "I shouted, abuse at them. I'm not proud of it but that's what I did.",
+      "en": "[Lednicki] I shouted, abuse at them. I'm not proud of it but that's what I did.",
       "ja": "ここでドイツ兵を罵倒した"
     }
   },
   {
     "translation": {
-      "en": "And I'm certain I stood where you are now.",
+      "en": "[Lednicki] And I'm certain I stood where you are now.",
       "ja": "鉄条網越しにな"
     }
   },
   {
     "translation": {
-      "en": "There was barbed wire, and this German came up to me.",
-      "ja": "するとドイツ兵が 近づいてきた"
+      "en": "[Lednicki] There was barbed wire, and this German came up to me.",
+      "ja": "するとドイツ兵が近づいてきた"
     }
   },
   {
     "translation": {
-      "en": "- You didn't catch his name? - No.",
+      "en": "-[Wladek] You didn't catch his name? -No.",
       "ja": "名前は？ わからない"
     }
   },

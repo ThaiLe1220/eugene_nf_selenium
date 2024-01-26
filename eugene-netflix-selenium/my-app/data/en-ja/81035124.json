@@ -43,7 +43,7 @@
   },
   {
     "translation": {
-      "en": "Everybody ready for story- time?",
+      "en": "Everybody ready for story-time?",
       "ja": "お話(はなし)をするよ"
     }
   },
@@ -92,7 +92,7 @@
   {
     "translation": {
       "en": "Sounds like everything's just right for our story:",
-      "ja": "おとなしくなって お話(はなし)にちょうどいいね"
+      "ja": "おとなしくなってお話(はなし)にちょうどいいね"
     }
   },
   {
@@ -110,13 +110,13 @@
   {
     "translation": {
       "en": "It's exactly like that! Only different...",
-      "ja": "あのお話(はなし)とは ちょっとだけちがうの"
+      "ja": "あのお話(はなし)とはちょっとだけちがうの"
     }
   },
   {
     "translation": {
       "en": "Story spinner, story spinner, zip, zap, zobble!",
-      "ja": "ストーリー･スピナー 出(で)ばんだよ"
+      "ja": "ストーリー･スピナー出(で)ばんだよ"
     }
   },
   {
@@ -127,55 +127,55 @@
   },
   {
     "translation": {
-      "en": "Once upon a time, a papa, a mama, and a little Yeti",
-      "ja": "ある日(ひ) パパ ママ 子(こ)どものイエティが"
+      "en": "[True] Once upon a time, a papa, a mama, and a little Yeti",
+      "ja": "ある日(ひ) パパ ママ子(こ)どものイエティが"
     }
   },
   {
     "translation": {
       "en": "sat down to enjoy some yummy nummleberry porridge...",
-      "ja": "もぐもぐベリーの おかゆを食(た)べました"
+      "ja": "もぐもぐベリーのおかゆを食(た)べました"
     }
   },
   {
     "translation": {
-      "en": "...but it was too hot.",
+      "en": "[True] ...but it was too hot.",
       "ja": "おかゆは熱(あつ)すぎました"
     }
   },
   {
     "translation": {
       "en": "So the Yetis decided to take a pleasant walk in the forest while the porridge cooled off.",
-      "ja": "そこで さめるまで 森(もり)でおさんぽすることに"
+      "ja": "そこで さめるまで森(もり)でおさんぽすることに"
     }
   },
   {
     "translation": {
-      "en": "Didn't you mean a swing through the forest?",
+      "en": "[Bartleby] Didn't you mean a swing through the forest?",
       "ja": "おさんぽにロープ？"
     }
   },
   {
     "translation": {
-      "en": "Just then, Grizeldalocks came by.",
+      "en": "[True] Just then, Grizeldalocks came by.",
       "ja": "そこにグリゼルダロックスが"
     }
   },
   {
     "translation": {
       "en": "Oh, Frookie! What a glorious day for a walk in the forest!",
-      "ja": "フルーキー おさんぽびよりね"
+      "ja": "フルーキーおさんぽびよりね"
     }
   },
   {
     "translation": {
-      "en": "Something smells yummy!",
+      "en": "[sniffs] Something smells yummy!",
       "ja": "おいしいにおい"
     }
   },
   {
     "translation": {
-      "en": "- Are you hungry, Frookie- wookie? -",
+      "en": "-Are you hungry, Frookie-wookie? -[barks]",
       "ja": "おなかすいたの？"
     }
   },
@@ -211,7 +211,7 @@
   },
   {
     "translation": {
-      "en": "Hello? Anyone home?",
+      "en": "[Grizeldalocks] Hello? Anyone home?",
       "ja": "だれかいないの？"
     }
   },
@@ -229,7 +229,7 @@
   },
   {
     "translation": {
-      "en": "- - You're right, Frookie.",
+      "en": "-[barks] -You're right, Frookie.",
       "ja": "そうね まってあげる"
     }
   },
@@ -307,13 +307,13 @@
   },
   {
     "translation": {
-      "en": "Mmm. Not bad. But it needs to be more rainbow- licious.",
+      "en": "Mmm. Not bad. But it needs to be more rainbow-licious.",
       "ja": "いいけど にじの味(あじ)がしない"
     }
   },
   {
     "translation": {
-      "en": "Hmm. Frookie- boo, I'm starting to see a pattern here.",
+      "en": "Hmm. Frookie-boo, I'm starting to see a pattern here.",
       "ja": "ねえ ここのモノってぜんぶ"
     }
   },
@@ -331,7 +331,7 @@
   },
   {
     "translation": {
-      "en": "- - Exactly!",
+      "en": "-[barks] -Exactly!",
       "ja": "そうよ"
     }
   },
@@ -350,18 +350,18 @@
   {
     "translation": {
       "en": "Grizeldalocks' glamorous home makeover!",
-      "ja": "ゴージャスに リフォームするの"
+      "ja": "ゴージャスにリフォームするの"
     }
   },
   {
     "translation": {
-      "en": "That's it, Grizmos! Bring in my signature razzle- dazzle!",
-      "ja": "グリズモたち しっかり はこんで"
+      "en": "That's it, Grizmos! Bring in my signature razzle-dazzle!",
+      "ja": "グリズモたちしっかり はこんで"
     }
   },
   {
     "translation": {
-      "en": "Change that painting! More is better!",
+      "en": "[Grizeldalocks] Change that painting! More is better!",
       "ja": "ハデな色(いろ)でカラフルに"
     }
   },
@@ -373,7 +373,7 @@
   },
   {
     "translation": {
-      "en": "- Mm- hmm. - Good work, Grizmos!",
+      "en": "-Mm-hmm. -[Grizeldalocks] Good work, Grizmos!",
       "ja": "いいわ"
     }
   },
@@ -391,14 +391,14 @@
   },
   {
     "translation": {
-      "en": "Good idea, Frookie- kins.",
+      "en": "Good idea, Frookie-kins.",
       "ja": "それがいいわ"
     }
   },
   {
     "translation": {
       "en": "A nap is just what we deserve after all this hard work.",
-      "ja": "はたらいたあとは おひるねよ"
+      "ja": "はたらいたあとはおひるねよ"
     }
   },
   {
@@ -427,55 +427,55 @@
   },
   {
     "translation": {
-      "en": "When the Yetis got back,",
+      "en": "[True] When the Yetis got back,",
       "ja": "イエティたちは"
     }
   },
   {
     "translation": {
       "en": "they were surprised to see that somebody had wandered into their home.",
-      "ja": "家(いえ)のようすが変(へん)なので おどろきました"
+      "ja": "家(いえ)のようすが変(へん)なのでおどろきました"
     }
   },
   {
     "translation": {
-      "en": "Papa's chair was covered in sparkles.",
+      "en": "[True] Papa's chair was covered in sparkles.",
       "ja": "パパのイスはキラキラ"
     }
   },
   {
     "translation": {
-      "en": "Papa does not like sparkles.",
+      "en": "[Bartleby] Papa does not like sparkles.",
       "ja": "おこられるぞ"
     }
   },
   {
     "translation": {
-      "en": "And Mama's porridge had rainbow sprinkles.",
+      "en": "[True] And Mama's porridge had rainbow sprinkles.",
       "ja": "ママのおかゆは にじ味(あじ)に"
     }
   },
   {
     "translation": {
-      "en": "Oh, that's not good. That's bad.",
+      "en": "[Bartleby] Oh, that's not good. That's bad.",
       "ja": "それはマズい"
     }
   },
   {
     "translation": {
-      "en": "Little Yeti could hear someone sleeping in his bedroom!",
-      "ja": "子(こ)どもべやからは だれかの ね息(いき)が"
+      "en": "[True] Little Yeti could hear someone sleeping in his bedroom!",
+      "ja": "子(こ)どもべやからはだれかの ね息(いき)が"
     }
   },
   {
     "translation": {
-      "en": "Gasp!",
+      "en": "[Bartleby] Gasp!",
       "ja": "みつかる"
     }
   },
   {
     "translation": {
-      "en": "Hi!",
+      "en": "[all] Hi!",
       "ja": "やあ"
     }
   },
@@ -512,12 +512,12 @@
   {
     "translation": {
       "en": "I knew you'd think everything was just right!",
-      "ja": "やっぱり これでちょうどいいね"
+      "ja": "やっぱりこれでちょうどいいね"
     }
   },
   {
     "translation": {
-      "en": "Wait, wait, wait. Back it up.",
+      "en": "[Bartleby] Wait, wait, wait. Back it up.",
       "ja": "ちょっとまった"
     }
   },
@@ -529,8 +529,8 @@
   },
   {
     "translation": {
-      "en": "Yep! Yetis like things yeti- ish... and sparkly.",
-      "ja": "まさか イエティは キラキラもすきだもの"
+      "en": "Yep! Yetis like things yeti-ish... and sparkly.",
+      "ja": "まさか イエティはキラキラもすきだもの"
     }
   },
   {
@@ -572,24 +572,24 @@
   {
     "translation": {
       "en": "and the amount of princess in it was just right.",
-      "ja": "プリンセスの出(で)ばんも ちょうどいい"
+      "ja": "プリンセスの出(で)ばんもちょうどいい"
     }
   },
   {
     "translation": {
-      "en": "Don't you think, Frookie- kins?",
+      "en": "Don't you think, Frookie-kins?",
       "ja": "そうでしょ？"
     }
   },
   {
     "translation": {
-      "en": "The story's over?",
+      "en": "[Bartleby] The story's over?",
       "ja": "おしまい？"
     }
   },
   {
     "translation": {
-      "en": "I finally got comfortable!",
+      "en": "I finally got comfortable! [sighs]",
       "ja": "おちついたのに"
     }
   },
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "Oh, Bartleby!",
+      "en": "[they laugh] Oh, Bartleby!",
       "ja": "よかったね"
     }
   },
@@ -613,7 +613,7 @@
   },
   {
     "translation": {
-      "en": "- - What?",
+      "en": "-[they laugh] -What?",
       "ja": "ねえ"
     }
   }

@@ -1,8 +1,8 @@
 [
   {
     "translation": {
-      "en": "For a hundred years, there was chaos in our lands.",
-      "es": "Durante cien años, hubo caos en nuestras tierras."
+      "en": "[Finan] For a hundred years, there was chaos in our lands.",
+      "es": "Durante cien años,hubo caos en nuestras tierras."
     }
   },
   {
@@ -14,13 +14,13 @@
   {
     "translation": {
       "en": "And war between men who wanted to be kings.",
-      "es": "Y guerra entre hombres que querían ser reyes."
+      "es": "Y guerra entre hombresque querían ser reyes."
     }
   },
   {
     "translation": {
       "en": "My lord, Uhtred, son of Uhtred, born a Saxon, but raised a Dane,",
-      "es": "Mi señor, Uhtred, hijo de Uhtred, nacido sajón, pero criado como danés,"
+      "es": "Mi señor, Uhtred, hijo de Uhtred,nacido sajón, pero criado como danés,"
     }
   },
   {
@@ -44,13 +44,13 @@
   {
     "translation": {
       "en": "And while most of the country was sworn to the Saxons,",
-      "es": "Y aunque la mayor parte del país había jurado lealtad a los sajones,"
+      "es": "Y aunque la mayor parte del paíshabía jurado lealtad a los sajones,"
     }
   },
   {
     "translation": {
       "en": "Uhtred's land of Northumbria was not.",
-      "es": "la tierra de Uhtred, Northumbria, no lo había hecho."
+      "es": "la tierra de Uhtred,Northumbria, no lo había hecho."
     }
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "translation": {
-      "en": "Wolf!  Wolf!",
+      "en": "Wolf! [grunts] Wolf!",
       "es": "¡Lobo! ¡Lo…!"
     }
   },
@@ -79,7 +79,7 @@
   },
   {
     "translation": {
-      "en": "Anlaf, we have the spy.",
+      "en": "[warrior] Anlaf, we have the spy.",
       "es": "Anlaf, tenemos a la espía."
     }
   },
@@ -104,7 +104,7 @@
   {
     "translation": {
       "en": "It is how they dress, Father. If I'm to hide amongst them, I must appear--",
-      "es": "Así se visten, padre. Si quiero esconderme, debo parecer…"
+      "es": "Así se visten, padre.Si quiero esconderme, debo parecer…"
     }
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "translation": {
-      "en": "- But each breath could be his last. - Then we chose our moment.",
-      "es": "- Pero falta poco. - Entonces, es el mejor momento."
+      "en": "-But each breath could be his last. -Then we chose our moment.",
+      "es": "- Pero falta poco.- Entonces, es el mejor momento."
     }
   },
   {
     "translation": {
       "en": "A king dies, Saxons always turn on each other.",
-      "es": "Cuando el rey muere, los sajones siempre pelean entre sí."
+      "es": "Cuando el rey muere,los sajones siempre pelean entre sí."
     }
   },
   {
@@ -140,7 +140,7 @@
   {
     "translation": {
       "en": "Tell them I have crossed from Irland and wish to make allies.",
-      "es": "Diles que he venido desde Irlanda y quiero hacer aliados."
+      "es": "Diles que he venido desde Irlanday quiero hacer aliados."
     }
   },
   {
@@ -169,20 +169,26 @@
   },
   {
     "translation": {
-      "en": "No. Stay back.",
+      "en": "[guard] No. Stay back.",
       "es": "No. Atrás."
     }
   },
   {
     "translation": {
-      "en": "Find the queen!",
+      "en": "[soldier] Find the queen!",
       "es": "¡Encuentren a la reina!"
     }
   },
   {
     "translation": {
+      "en": "[Aldhelm] Lady Eadgifu,",
+      "es": "Lady Eadgifu,"
+    }
+  },
+  {
+    "translation": {
       "en": "the traitor Aelfweard has sent men to take you and Prince Edmund into protection.",
-      "es": "el traidor Aelfweard envió hombres a protegerla a usted y al príncipe Edmund."
+      "es": "el traidor Aelfweard envió hombresa protegerla a usted y al príncipe Edmund."
     }
   },
   {
@@ -193,8 +199,8 @@
   },
   {
     "translation": {
-      "en": "- Can we fight them? - Not without Aethelstan.",
-      "es": "- ¿Podemos luchar? - No sin Aethelstan."
+      "en": "-Can we fight them? -Not without Aethelstan.",
+      "es": "- ¿Podemos luchar?- No sin Aethelstan."
     }
   },
   {
@@ -206,7 +212,7 @@
   {
     "translation": {
       "en": "Loyalties are shifting and factions forming.",
-      "es": "Las lealtades han cambiado y hay facciones."
+      "es": "Las lealtades han cambiadoy hay facciones."
     }
   },
   {
@@ -223,7 +229,7 @@
   },
   {
     "translation": {
-      "en": "I will not forgive this.",
+      "en": "[Eadgifu] I will not forgive this.",
       "es": "No perdonaré esto."
     }
   },
@@ -247,73 +253,73 @@
   },
   {
     "translation": {
-      "en": "- Where's the queen? - Move! Look everywhere!",
-      "es": "- ¿Y la reina? - ¡Vamos! ¡Busquen por doquier!"
+      "en": "-[soldier 1] Where's the queen? -[soldier 2] Move! Look everywhere!",
+      "es": "- ¿Y la reina?- ¡Vamos! ¡Busquen por doquier!"
     }
   },
   {
     "translation": {
-      "en": "- Mother, what's-- - Sh. Quiet.",
-      "es": "- Madre, ¿qué…? - Silencio."
+      "en": "-[Edmund] Mother, what's-- -[Eadgifu] Sh. Quiet.",
+      "es": "- Madre, ¿qué…?- Silencio."
     }
   },
   {
     "translation": {
-      "en": "- Wait. -",
+      "en": "-Wait. -[footsteps approaching]",
       "es": "Momento."
     }
   },
   {
     "translation": {
-      "en": "- Pyrlig. - We got word.",
-      "es": "- Pyrlig. - Nos enteramos."
+      "en": "-[Eadgifu] Pyrlig. -[Pyrlig] We got word.",
+      "es": "- Pyrlig.- Nos enteramos."
     }
   },
   {
     "translation": {
       "en": "Aethelstan has gone on pilgrimage to pray for his father's health.",
-      "es": "Aethelstan fue a peregrinar y rezar por su padre."
+      "es": "Aethelstan fue a peregrinary rezar por su padre."
     }
   },
   {
     "translation": {
       "en": "Then find him and tell him of his death.",
-      "es": "Encuéntrelo y avísele de su muerte. Luego, dele un golpe por mí."
+      "es": "Encuéntrelo y avísele de su muerte.Luego, dele un golpe por mí."
     }
   },
   {
     "translation": {
       "en": "Then strike him, from me, for he swore to protect us.",
-      "es": "Encuéntrelo y avísele de su muerte. Luego, dele un golpe por mí. Porque juró protegernos."
+      "es": "Encuéntrelo y avísele de su muerte.Luego, dele un golpe por mí. Porque juró protegernos."
     }
   },
   {
     "translation": {
-      "en": "Come. There's no time.",
+      "en": "[Aldhelm grunts] Come. There's no time.",
       "es": "Vengan. No hay tiempo."
     }
   },
   {
     "translation": {
-      "en": "Where will you go?",
+      "en": "[Pyrlig] Where will you go?",
       "es": "¿A dónde irá?"
     }
   },
   {
     "translation": {
-      "en": "- To Uhtred. - The pagan?",
-      "es": "- Por Uhtred. - ¿El pagano?"
+      "en": "-To Uhtred. -The pagan?",
+      "es": "- Por Uhtred.- ¿El pagano?"
     }
   },
   {
     "translation": {
-      "en": "- They're in here! - Go! Go!",
-      "es": "- ¡Llegaron! - ¡Vamos!"
+      "en": "-[soldier] They're in here! -[Aldhelm] Go! Go!",
+      "es": "- ¡Llegaron!- ¡Vamos!"
     }
   },
   {
     "translation": {
-      "en": "Uhtred betrayed my husband.",
+      "en": "[Eadgifu] Uhtred betrayed my husband.",
       "es": "Uhtred traicionó a mi esposo."
     }
   },
@@ -326,7 +332,7 @@
   {
     "translation": {
       "en": "Uhtred was like a father to Aethelstan. He can be trusted.",
-      "es": "Uhtred era como un padre para Aethelstan. Podemos confiar."
+      "es": "Uhtred era como un padrepara Aethelstan. Podemos confiar."
     }
   },
   {
@@ -337,8 +343,8 @@
   },
   {
     "translation": {
-      "en": "He stood in front of the army, and he said, Release the arrows!",
-      "es": "Se paró frente al ejército y dijo: ¡Lancen las flechas!."
+      "en": "[Finan] He stood in front of the army, and he said, \"Release the arrows!\"",
+      "es": "Se paró frente al ejército y dijo:\"¡Lancen las flechas!\"."
     }
   },
   {
@@ -349,20 +355,20 @@
   },
   {
     "translation": {
-      "en": "Oh, that was something.",
+      "en": "[Finan] Oh, that was something.",
       "es": "Fue increíble."
     }
   },
   {
     "translation": {
       "en": "But then, the battle for this place certainly sticks in the memory.",
-      "es": "La batalla por este lugar ha sido memorable."
+      "es": "La batalla por este lugarha sido memorable."
     }
   },
   {
     "translation": {
-      "en": "- Both times. - Hey. Cnut.",
-      "es": "- Ambas. - Canuto."
+      "en": "-Both times. -[Finan] Hey. Cnut.",
+      "es": "- Ambas.- Canuto."
     }
   },
   {
@@ -373,14 +379,14 @@
   },
   {
     "translation": {
-      "en": "Then there were the horse- killers. Oh, they were deadly.",
-      "es": "Luego, los asesinos de caballos. Eran mortales."
+      "en": "Then there were the horse-killers. Oh, they were deadly.",
+      "es": "Luego, los asesinos de caballos.Eran mortales."
     }
   },
   {
     "translation": {
-      "en": "- What was his name? - Bloodhair.",
-      "es": "- ¿Cómo se llamaba? - Bloodhair."
+      "en": "-What was his name? -Bloodhair.",
+      "es": "- ¿Cómo se llamaba?- Bloodhair."
     }
   },
   {
@@ -391,38 +397,38 @@
   },
   {
     "translation": {
-      "en": "Do not remind me.  Skade! Now, she was moon touched.",
-      "es": "- No me recuerdes. ¡Skade! - Estaba desquiciada."
+      "en": "Do not remind me. [belches] Skade! Now, she was moon touched.",
+      "es": "- No me recuerdes. ¡Skade!- Estaba desquiciada."
     }
   },
   {
     "translation": {
       "en": "Another one who thought she was a seer. It didn't go well for her.",
-      "es": "Otra que creyó que era una vidente. No le fue bien."
+      "es": "Otra que creyó que era una vidente.No le fue bien."
     }
   },
   {
     "translation": {
       "en": "I am telling you, my dream was a prophecy. Three nights I have had it.",
-      "es": "Le digo que mi sueño fue una profecía. Lo he soñado tres noches."
+      "es": "Le digo que mi sueño fue una profecía.Lo he soñado tres noches."
     }
   },
   {
     "translation": {
-      "en": "- And what is your dream, Ingrith? - Don't get her started, Lord.",
-      "es": "- ¿Cuál es su sueño, Ingrith? - No le dé cuerda, milord."
+      "en": "-And what is your dream, Ingrith? -[Finan] Don't get her started, Lord.",
+      "es": "- ¿Cuál es su sueño, Ingrith?- No le dé cuerda, milord."
     }
   },
   {
     "translation": {
-      "en": "- Hear my words. Seven kings must die. - Lord?",
-      "es": "Escuche: Siete reyes deben morir."
+      "en": "-Hear my words. \"Seven kings must die.\" -[man] Lord?",
+      "es": "Escuche: \"Siete reyes deben morir\"."
     }
   },
   {
     "translation": {
-      "en": "- Seven kings and-- - Ingrith!",
-      "es": "- Siete reyes y… - ¡Ingrith!"
+      "en": "-Seven kings and-- -Ingrith!",
+      "es": "- Siete reyes y…- ¡Ingrith!"
     }
   },
   {
@@ -458,7 +464,7 @@
   {
     "translation": {
       "en": "Edward, rightful king of these lands, has died.",
-      "es": "Eduardo, el rey legítimo de estas tierras, ha muerto."
+      "es": "Eduardo, el rey legítimode estas tierras, ha muerto."
     }
   },
   {
@@ -488,7 +494,7 @@
   {
     "translation": {
       "en": "Northumbria recognizes the new king, Aethelstan.",
-      "es": "Northumbria reconoce al nuevo rey, Aethelstan."
+      "es": "Northumbria reconoceal nuevo rey, Aethelstan."
     }
   },
   {
@@ -499,8 +505,8 @@
   },
   {
     "translation": {
-      "en": "- Who is supporting Aelfweard? - The ealdormen of Wessex.",
-      "es": "- ¿Quién apoya a Aelfweard? - Los ealdormen de Wessex."
+      "en": "-Who is supporting Aelfweard? -[Aldhelm] The ealdormen of Wessex.",
+      "es": "- ¿Quién apoya a Aelfweard?- Los ealdormen de Wessex."
     }
   },
   {
@@ -512,19 +518,19 @@
   {
     "translation": {
       "en": "Yes. Aelfweard has the wealth of Wiltunscir behind him.",
-      "es": "Sí. Aelfweard posee la riqueza de Wiltunscir."
+      "es": "Sí. Aelfweard posee la riquezade Wiltunscir."
     }
   },
   {
     "translation": {
       "en": "Our spies in Aegelesburg say he's there, openly recruiting mercenaries.",
-      "es": "Según espías en Aegelesburg, está reclutando mercenarios."
+      "es": "Según espías en Aegelesburg,está reclutando mercenarios."
     }
   },
   {
     "translation": {
       "en": "We will go to Aegelesburg and seize him before he is at full force.",
-      "es": "Lo capturaremos en Aegelesburg antes de que cobre fuerza."
+      "es": "Lo capturaremos en Aegelesburgantes de que cobre fuerza."
     }
   },
   {
@@ -536,7 +542,7 @@
   {
     "translation": {
       "en": "My offer gives Aethelstan the time to go to Winchester to be crowned,",
-      "es": "Mi oferta le da tiempo a Aethelstan de coronarse en Winchester"
+      "es": "Mi oferta le da tiempo a Aethelstande coronarse en Winchester"
     }
   },
   {
@@ -560,19 +566,19 @@
   {
     "translation": {
       "en": "Yet your oath to swear your lands to the king remains unfulfilled.",
-      "es": "Pero no ha cumplido el juramento de sus tierras al rey."
+      "es": "Pero no ha cumplidoel juramento de sus tierras al rey."
     }
   },
   {
     "translation": {
       "en": "Your husband showed himself hostile to those of Danish blood.",
-      "es": "Su esposo fue hostil con los de sangre danesa."
+      "es": "Su esposo fue hostilcon los de sangre danesa."
     }
   },
   {
     "translation": {
       "en": "As such, he was not the right man to unite England.",
-      "es": "No era el hombre indicado para unir a Inglaterra"
+      "es": "No era el hombre indicadopara unir a Inglaterra"
     }
   },
   {
@@ -583,7 +589,7 @@
   },
   {
     "translation": {
-      "en": "But now things can be different.",
+      "en": "[Aldhelm] But now things can be different.",
       "es": "Pero las cosas pueden ser diferentes."
     }
   },
@@ -602,13 +608,13 @@
   {
     "translation": {
       "en": "I swore an oath of loyalty, and it stands.",
-      "es": "Hice un juramento de lealtad y lo mantendré."
+      "es": "Hice un juramento de lealtady lo mantendré."
     }
   },
   {
     "translation": {
       "en": "If Aelfweard is buying mercenaries, he will be looking for men from all parts.",
-      "es": "Si Aelfweard contrata mercenarios, buscará hombres en todas partes."
+      "es": "Si Aelfweard contrata mercenarios,buscará hombres en todas partes."
     }
   },
   {
@@ -625,31 +631,31 @@
   },
   {
     "translation": {
-      "en": "- If he does not fall asleep. - Once. I fell asleep once.",
-      "es": "- Si no se queda dormido. - Solo fue una vez."
+      "en": "-If he does not fall asleep. -Once. I fell asleep once.",
+      "es": "- Si no se queda dormido.- Solo fue una vez."
     }
   },
   {
     "translation": {
       "en": "Are you certain this is better than a band of young fighters?",
-      "es": "¿Seguro que esto es mejor que una horda de guerreros?"
+      "es": "¿Seguro que esto es mejorque una horda de guerreros?"
     }
   },
   {
     "translation": {
       "en": "I hear you do little these days but feast and hunt.",
-      "es": "Escuché que ya no hace más que comer y cazar."
+      "es": "Escuché que ya no hacemás que comer y cazar."
     }
   },
   {
     "translation": {
       "en": "I will not send young men to do a task I swore to do myself.",
-      "es": "No enviaré a jóvenes a una tarea que yo juré hacer."
+      "es": "No enviaré a jóvenesa una tarea que yo juré hacer."
     }
   },
   {
     "translation": {
-      "en": "- - Come on, you little…",
+      "en": "-[horse whinnies] -[Finan] Come on, you little…",
       "es": "Vamos, pequeña…"
     }
   },
@@ -662,19 +668,19 @@
   {
     "translation": {
       "en": "Osbert! What news from our borders? Do the Scots behave themselves?",
-      "es": "¡Osbert! ¿Y las fronteras? ¿Los escoceses se portan bien?"
+      "es": "¡Osbert! ¿Y las fronteras?¿Los escoceses se portan bien?"
     }
   },
   {
     "translation": {
-      "en": "Yes, Father. There are rumors Wolf- Warriors landed near Derwent.",
-      "es": "Sí, padre. Los Guerreros Lobos atracaron en Derwent."
+      "en": "Yes, Father. There are rumors Wolf-Warriors landed near Derwent.",
+      "es": "Sí, padre. Los Guerreros Lobosatracaron en Derwent."
     }
   },
   {
     "translation": {
-      "en": "- Wolf- Warriors? - Why are you carrying your sword?",
-      "es": "- ¿Guerreros Lobos? - ¿Por qué llevas tu espada?"
+      "en": "-Wolf-Warriors? -Why are you carrying your sword?",
+      "es": "- ¿Guerreros Lobos?- ¿Por qué llevas tu espada?"
     }
   },
   {
@@ -691,26 +697,26 @@
   },
   {
     "translation": {
-      "en": "- Any fight of yours is mine. - Stay here and protect your birthright.",
-      "es": "Iré. Cualquier pelea tuya es mía también. - Cuida tu derecho de nacimiento. - No me sentaré a esperarlo."
+      "en": "-Any fight of yours is mine. -Stay here and protect your birthright.",
+      "es": "Iré. Cualquier pelea tuya es mía también. - Cuida tu derecho de nacimiento.- No me sentaré a esperarlo."
     }
   },
   {
     "translation": {
       "en": "No good comes of sitting waiting for a birthright.",
-      "es": "- Cuida tu derecho de nacimiento. - No me sentaré a esperarlo."
+      "es": "- Cuida tu derecho de nacimiento.- No me sentaré a esperarlo."
     }
   },
   {
     "translation": {
       "en": "So you train the horses and you teach that boy how to defend himself.",
-      "es": "Entrena los caballos y enséñale a ese chico a defenderse."
+      "es": "Entrena los caballosy enséñale a ese chico a defenderse."
     }
   },
   {
     "translation": {
       "en": "No one likes the third son of a dead king.",
-      "es": "Nadie quiere al tercer hijo de un rey muerto."
+      "es": "Nadie quiere al tercer hijode un rey muerto."
     }
   },
   {
@@ -721,43 +727,43 @@
   },
   {
     "translation": {
-      "en": "- Will you swear our lands to Aethelstan? - I must honor my word.",
-      "es": "- ¿Jurarás nuestras tierras a Aethelstan? - Debo honrar mi palabra."
+      "en": "-Will you swear our lands to Aethelstan? -I must honor my word.",
+      "es": "- ¿Jurarás nuestras tierras a Aethelstan?- Debo honrar mi palabra."
     }
   },
   {
     "translation": {
       "en": "Northumbrians will be sad to lose their pagan lord.",
-      "es": "Northumbria lamentará perder a su señor pagano."
+      "es": "Northumbria lamentaráperder a su señor pagano."
     }
   },
   {
     "translation": {
-      "en": "Gotcha!",
+      "en": "[Finan] Gotcha!",
       "es": "¡Te tengo!"
     }
   },
   {
     "translation": {
-      "en": "- Look at this little bastard. - Are we ready?",
-      "es": "Mira esta mierda. - ¿Listos? - Se queja de su silla."
+      "en": "-Look at this little bastard. -Are we ready?",
+      "es": "Mira esta mierda. - ¿Listos?- Se queja de su silla."
     }
   },
   {
     "translation": {
-      "en": "He's complaining about his saddle.",
-      "es": "- ¿Listos? - Se queja de su silla."
+      "en": "[Sihtric] He's complaining about his saddle.",
+      "es": "- ¿Listos?- Se queja de su silla."
     }
   },
   {
     "translation": {
-      "en": "- Says his arse gets sore. - Didn't say arse. I said my back.",
-      "es": "- Le duele el culo. - Dije que la espalda."
+      "en": "-Says his arse gets sore. -[Finan] Didn't say arse. I said my back.",
+      "es": "- Le duele el culo.- Dije que la espalda."
     }
   },
   {
     "translation": {
-      "en": "I made you this.",
+      "en": "[Ingrith] I made you this.",
       "es": "Te hice esto."
     }
   },
@@ -770,7 +776,7 @@
   {
     "translation": {
       "en": "Men who sit on cold earth find the cold earth calls for them.",
-      "es": "Quien se sienta en la tierra fría termina enterrado en ella."
+      "es": "Quien se sienta en la tierra fríatermina enterrado en ella."
     }
   },
   {
@@ -793,14 +799,14 @@
   },
   {
     "translation": {
-      "en": "Seven kings must die, Lord.",
-      "es": "Siete reyes deben morir, milord."
+      "en": "\"Seven kings must die,\" Lord.",
+      "es": "\"Siete reyes deben morir\", milord."
     }
   },
   {
     "translation": {
-      "en": "- Seven kings-- - Ingrith, no.",
-      "es": "- Siete reyes…. - No."
+      "en": "-\"Seven kings--\" -Ingrith, no.",
+      "es": "- \"Siete reyes…\".- No."
     }
   },
   {
@@ -811,8 +817,8 @@
   },
   {
     "translation": {
-      "en": "And the woman you love.",
-      "es": "Y la mujer que amas."
+      "en": "\"And the woman you love.\"",
+      "es": "\"Y la mujer que amas\"."
     }
   },
   {
@@ -823,8 +829,8 @@
   },
   {
     "translation": {
-      "en": "- It means nothing. - Lord Uhtred.",
-      "es": "- No significa nada. - Lord Uhtred."
+      "en": "-It means nothing. -[Aldhelm] Lord Uhtred.",
+      "es": "- No significa nada.- Lord Uhtred."
     }
   },
   {
@@ -836,13 +842,13 @@
   {
     "translation": {
       "en": "While you are here, take Wassa as your serving woman.",
-      "es": "Mientras esté aquí, Wassa será su sirvienta."
+      "es": "Mientras esté aquí,Wassa será su sirvienta."
     }
   },
   {
     "translation": {
-      "en": "- Make this fortress your home. - I wish to say one thing of Aethelstan.",
-      "es": "- Siéntase en casa en la fortaleza. - Algo sobre Aethelstan."
+      "en": "-Make this fortress your home. -I wish to say one thing of Aethelstan.",
+      "es": "- Siéntase en casa en la fortaleza.- Algo sobre Aethelstan."
     }
   },
   {
@@ -860,7 +866,7 @@
   {
     "translation": {
       "en": "The Brotherhood of Oswald exert great influence.",
-      "es": "La Hermandad de Oswald ejerce una gran influencia."
+      "es": "La Hermandad de Oswaldejerce una gran influencia."
     }
   },
   {
@@ -871,13 +877,13 @@
   },
   {
     "translation": {
-      "en": "- Let's go play kingmaker. - Once again.",
+      "en": "-[Uhtred] Let's go play kingmaker. -[Finan] Once again.",
       "es": "Juguemos a hacer reyes. Otra vez."
     }
   },
   {
     "translation": {
-      "en": "My father? No, that cannot be.",
+      "en": "[Aethelstan] My father? No, that cannot be.",
       "es": "¿Mi padre? No, no puede ser."
     }
   },
@@ -889,8 +895,8 @@
   },
   {
     "translation": {
-      "en": "Lord Aethelstan, you should make haste to Wessex for coronation.",
-      "es": "Lord Aethelstan, debe ir a Wessex para la coronación."
+      "en": "[Pyrlig] Lord Aethelstan, you should make haste to Wessex for coronation.",
+      "es": "Lord Aethelstan,debe ir a Wessex para la coronación."
     }
   },
   {
@@ -902,13 +908,13 @@
   {
     "translation": {
       "en": "Establish yourself at Winchester before he raises an army.",
-      "es": "Vaya a Winchester antes de que tenga un ejército."
+      "es": "Vaya a Winchesterantes de que tenga un ejército."
     }
   },
   {
     "translation": {
       "en": "We will leave when God commands us to leave, Father Pyrlig.",
-      "es": "Iremos cuando Dios nos lo ordene, padre Pyrlig."
+      "es": "Iremos cuando Diosnos lo ordene, padre Pyrlig."
     }
   },
   {
@@ -925,13 +931,13 @@
   },
   {
     "translation": {
-      "en": "Do I depart?",
+      "en": "[Aethelstan] Do I depart?",
       "es": "¿Me voy?"
     }
   },
   {
     "translation": {
-      "en": "Only the book has answers.",
+      "en": "[Ingilmundr] Only the book has answers.",
       "es": "El libro tiene respuestas."
     }
   },
@@ -944,13 +950,13 @@
   {
     "translation": {
       "en": "You have been guided to the Book of Matthew, verse 157.",
-      "es": "Lo guiaron al Evangelio de Mateo, versículo 157."
+      "es": "Lo guiaron al Evangelio de Mateo,versículo 157."
     }
   },
   {
     "translation": {
-      "en": "Then Jesus went thence and departed into the coasts of Tyre and Sidon.",
-      "es": "Jesús se fue de allí a las costas de Tiro y Sidón."
+      "en": "\"Then Jesus went thence and departed into the coasts of Tyre and Sidon.\"",
+      "es": "\"Jesús se fue de allía las costas de Tiro y Sidón\"."
     }
   },
   {
@@ -967,7 +973,7 @@
   },
   {
     "translation": {
-      "en": "Halt. State your business here.",
+      "en": "[sentry] Halt. State your business here.",
       "es": "Alto. Digan a qué vinieron."
     }
   },
@@ -991,8 +997,8 @@
   },
   {
     "translation": {
-      "en": "- This place has fallen to shit. - Edward left it to decline.",
-      "es": "- El lugar está abandonado. - Eduardo lo dejó morir."
+      "en": "-This place has fallen to shit. -[Uhtred] Edward left it to decline.",
+      "es": "- El lugar está abandonado.- Eduardo lo dejó morir."
     }
   },
   {
@@ -1003,19 +1009,19 @@
   },
   {
     "translation": {
-      "en": "Word has spread.  I swear I've fought half these men.",
-      "es": "- Se enteraron. - He luchado contra la mitad."
+      "en": "Word has spread. [Sihtric] I swear I've fought half these men.",
+      "es": "- Se enteraron.- He luchado contra la mitad."
     }
   },
   {
     "translation": {
-      "en": "This is not someone trying to recruit. This is preparing for a battle.",
-      "es": "- No están tratando de reclutar. - Se preparan para la batalla."
+      "en": "[Finan] This is not someone trying to recruit. This is preparing for a battle.",
+      "es": "- No están tratando de reclutar.- Se preparan para la batalla."
     }
   },
   {
     "translation": {
-      "en": "That is the youth Aelfweard.",
+      "en": "[Uhtred] That is the youth Aelfweard.",
       "es": "Es el joven Aelfweard."
     }
   },
@@ -1027,14 +1033,14 @@
   },
   {
     "translation": {
-      "en": "- Is that amber in your sword? - How much do you want for it?",
+      "en": "-Is that amber in your sword? -How much do you want for it?",
       "es": "¿Tu espada tiene ámbar? ¿Cuánto quieres?"
     }
   },
   {
     "translation": {
-      "en": "- Go home to your mothers. - Edgar! No.",
-      "es": "- Vayan con sus madres. - ¡Edgar! No."
+      "en": "-[Uhtred] Go home to your mothers. -[teen 2] Edgar! No.",
+      "es": "- Vayan con sus madres.- ¡Edgar! No."
     }
   },
   {
@@ -1081,14 +1087,14 @@
   },
   {
     "translation": {
-      "en": "- Who do you fight for now? - Aelf… something?",
-      "es": "- ¿Por quién peleas ahora? - Aelf… ¿algo?"
+      "en": "-Who do you fight for now? -Aelf… something?",
+      "es": "- ¿Por quién peleas ahora?- Aelf… ¿algo?"
     }
   },
   {
     "translation": {
-      "en": "- Saxon names are much alike. - The Aelf who marches on Wessex?",
-      "es": "- Los nombres sajones se parecen. - ¿El que marcha en Wessex?"
+      "en": "-Saxon names are much alike. -The Aelf who marches on Wessex?",
+      "es": "- Los nombres sajones se parecen.- ¿El que marcha en Wessex?"
     }
   },
   {
@@ -1106,7 +1112,7 @@
   {
     "translation": {
       "en": "I'm told the new plan is to lure Aethelstan here.",
-      "es": "Dijeron que el plan era atraer a Aethelstan."
+      "es": "Dijeron que el planera atraer a Aethelstan."
     }
   },
   {
@@ -1136,7 +1142,7 @@
   {
     "translation": {
       "en": "They plan to snare him between the gate and men hidden in the hills.",
-      "es": "Lo emboscarán entre la puerta y las colinas."
+      "es": "Lo emboscaránentre la puerta y las colinas."
     }
   },
   {
@@ -1159,38 +1165,38 @@
   },
   {
     "translation": {
-      "en": "Hey! Can I tempt you to play for money, friend?",
+      "en": "[Finan] Hey! Can I tempt you to play for money, friend?",
       "es": "¡Hola! ¿Quieres apostar, amigo?"
     }
   },
   {
     "translation": {
-      "en": "Tie them up and secure the bolt. Stay low until Aethelstan arrives.",
-      "es": "Átenlos y aseguren el cerrojo. Ocúltense hasta que llegue Aethelstan."
+      "en": "[Uhtred] Tie them up and secure the bolt. Stay low until Aethelstan arrives.",
+      "es": "Átenlos y aseguren el cerrojo.Ocúltense hasta que llegue Aethelstan."
     }
   },
   {
     "translation": {
-      "en": "If there's a bed, it's mine.",
+      "en": "[Finan] If there's a bed, it's mine.",
       "es": "Si hay una cama, es mía."
     }
   },
   {
     "translation": {
-      "en": "He's here.",
+      "en": "[Uhtred] He's here.",
       "es": "Ya llegó."
     }
   },
   {
     "translation": {
-      "en": "Raise the alarm! Soldiers approach the southern gate!",
-      "es": "¡Den la alarma! ¡Los soldados se acercan a la puerta sur!"
+      "en": "[guard in distance] Raise the alarm! Soldiers approach the southern gate!",
+      "es": "¡Den la alarma!¡Los soldados se acercan a la puerta sur!"
     }
   },
   {
     "translation": {
-      "en": "Come no further! Aegelesburg is loyal to me now.",
-      "es": "¡No vayan más lejos! Aegelesburg me es leal ahora."
+      "en": "[Aelfweard] Come no further! Aegelesburg is loyal to me now.",
+      "es": "¡No vayan más lejos!Aegelesburg me es leal ahora."
     }
   },
   {
@@ -1207,8 +1213,8 @@
   },
   {
     "translation": {
-      "en": "- You'll have to starve us out. - I am not foolish, brother.",
-      "es": "- Tendrán que matarnos de hambre. - No soy tonto, hermano."
+      "en": "-You'll have to starve us out. -I am not foolish, brother.",
+      "es": "- Tendrán que matarnos de hambre.- No soy tonto, hermano."
     }
   },
   {
@@ -1231,8 +1237,8 @@
   },
   {
     "translation": {
-      "en": "You can yield now, or we destroy the gate and kill all your men.",
-      "es": "Cede ahora o destruiremos la puerta y mataremos a tus hombres."
+      "en": "[Aethelstan] You can yield now, or we destroy the gate and kill all your men.",
+      "es": "Cede ahora o destruiremos la puertay mataremos a tus hombres."
     }
   },
   {
@@ -1243,7 +1249,7 @@
   },
   {
     "translation": {
-      "en": "Then you will be destroyed.",
+      "en": "[Aethelstan] Then you will be destroyed.",
       "es": "Entonces, los destruiremos."
     }
   },
@@ -1255,38 +1261,38 @@
   },
   {
     "translation": {
-      "en": "I am the rightful king. Your mother was a whore.",
-      "es": "Soy el rey legítimo. Tu madre era una puta."
+      "en": "[Aelfweard] I am the rightful king. Your mother was a whore.",
+      "es": "Soy el rey legítimo.Tu madre era una puta."
     }
   },
   {
     "translation": {
       "en": "All good men know it. You have no allies.",
-      "es": "Los hombres buenos lo saben. No tienes aliados."
+      "es": "Los hombres buenos lo saben.No tienes aliados."
     }
   },
   {
     "translation": {
-      "en": "- I'm Uhtred of Bebbanburg. - Uhtred.",
-      "es": "- Uhtred de Bebbanburg. - Uhtred."
+      "en": "-I'm Uhtred of Bebbanburg. -Uhtred.",
+      "es": "- Uhtred de Bebbanburg.- Uhtred."
     }
   },
   {
     "translation": {
-      "en": "You know me as a man who speaks the truth,",
+      "en": "[Uhtred] You know me as a man who speaks the truth,",
       "es": "Me conoces como un hombre honesto,"
     }
   },
   {
     "translation": {
       "en": "so hear me when I say, for the common good, stand down.",
-      "es": "así que escúchame cuando te pido que te retires por el bien común."
+      "es": "así que escúchame cuando te pidoque te retires por el bien común."
     }
   },
   {
     "translation": {
       "en": "My men control the gate. You're outnumbered on all sides.",
-      "es": "Mis hombres controlan la puerta. Te superan en número."
+      "es": "Mis hombres controlan la puerta.Te superan en número."
     }
   },
   {
@@ -1303,7 +1309,7 @@
   },
   {
     "translation": {
-      "en": "Give yourself to me, brother.",
+      "en": "[Aethelstan] Give yourself to me, brother.",
       "es": "Ríndete ante mí."
     }
   },
@@ -1316,7 +1322,7 @@
   {
     "translation": {
       "en": "Forgive me for my failings, and give comfort to my mother's kin.",
-      "es": "Perdón por mis fallas. Consuelen a los parientes de mi madre."
+      "es": "Perdón por mis fallas.Consuelen a los parientes de mi madre."
     }
   },
   {
@@ -1328,13 +1334,13 @@
   {
     "translation": {
       "en": "and how we sought to honor our discarded bloodline.",
-      "es": "y cómo buscamos honrar nuestro linaje menospreciado."
+      "es": "y cómo buscamos honrarnuestro linaje menospreciado."
     }
   },
   {
     "translation": {
-      "en": "- For Wessex! - For Wessex!",
-      "es": "- ¡Por Wessex! - ¡Por Wessex!"
+      "en": "-For Wessex! -[men] For Wessex!",
+      "es": "- ¡Por Wessex!- ¡Por Wessex!"
     }
   },
   {
@@ -1345,13 +1351,13 @@
   },
   {
     "translation": {
-      "en": "- No! - God chose me rightful heir.",
-      "es": "- ¡No! - Dios me eligió heredero."
+      "en": "-No! -[Aethelstan] God chose me rightful heir.",
+      "es": "- ¡No!- Dios me eligió heredero."
     }
   },
   {
     "translation": {
-      "en": "Aethelstan!",
+      "en": "[Uhtred] Aethelstan!",
       "es": "¡Aethelstan!"
     }
   },
@@ -1369,31 +1375,31 @@
   },
   {
     "translation": {
-      "en": "Lord, stop this madness!",
+      "en": "[Finan] Lord, stop this madness!",
       "es": "¡Señor, pare esta locura!"
     }
   },
   {
     "translation": {
-      "en": "Stop!",
+      "en": "[Uhtred] Stop!",
       "es": "¡Alto!"
     }
   },
   {
     "translation": {
-      "en": "Aethelstan!",
+      "en": "[Uhtred] Aethelstan!",
       "es": "¡Aethelstan!"
     }
   },
   {
     "translation": {
-      "en": "Get back! Hide!",
+      "en": "[Sihtric] Get back! Hide!",
       "es": "¡Atrás! ¡Escóndanse!"
     }
   },
   {
     "translation": {
-      "en": "- I submit! Please don't-- -",
+      "en": "-[mercenary] I submit! Please don't-- -[grunts]",
       "es": "¡Me rindo! Por favor, no…"
     }
   },
@@ -1405,13 +1411,13 @@
   },
   {
     "translation": {
-      "en": "Please, show mercy!",
+      "en": "[mercenary] Please, show mercy!",
       "es": "Ten piedad."
     }
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "[Uhtred] No!",
       "es": "¡No!"
     }
   },
@@ -1429,13 +1435,13 @@
   },
   {
     "translation": {
-      "en": "- Aethelsta-- -",
+      "en": "-Aethelsta-- -[high-pitched ringing]",
       "es": "¡Aethelstan!"
     }
   },
   {
     "translation": {
-      "en": "Lord! Lord, help us!",
+      "en": "[man] Lord! Lord, help us!",
       "es": "¡Señor! ¡Señor, ayúdenos!"
     }
   },
@@ -1453,38 +1459,38 @@
   },
   {
     "translation": {
-      "en": "- Stand down your men. - Uhtred, why are you here?",
-      "es": "- Retíralos. - Uhtred, ¿por qué viniste?"
+      "en": "-Stand down your men. -[Aethelstan] Uhtred, why are you here?",
+      "es": "- Retíralos.- Uhtred, ¿por qué viniste?"
     }
   },
   {
     "translation": {
-      "en": "To stop this. Your enemy has surrendered. Halt your men.",
-      "es": "Para detener esto. El enemigo se rindió. Detén a tus hombres."
+      "en": "[Uhtred] To stop this. Your enemy has surrendered. Halt your men.",
+      "es": "Para detener esto.El enemigo se rindió. Detén a tus hombres."
     }
   },
   {
     "translation": {
-      "en": "- Let him approach and call a halt. - Yes, my lord.",
-      "es": "- Déjalo y detenlo. - Sí, milord."
+      "en": "-Let him approach and call a halt. -[guard] Yes, my lord.",
+      "es": "- Déjalo y detenlo.- Sí, milord."
     }
   },
   {
     "translation": {
-      "en": "- What happened to you? - What happened to you?",
-      "es": "- ¿Qué te pasó? - ¿Qué te pasó a ti?"
+      "en": "-What happened to you? -What happened to you?",
+      "es": "- ¿Qué te pasó?- ¿Qué te pasó a ti?"
     }
   },
   {
     "translation": {
-      "en": "- You had no need to kill your brother. - I did, or in time, he would return.",
-      "es": "- No tenías que matar a tu hermano. - Sí. - Iba a volver. - Faltaste a tu palabra."
+      "en": "-You had no need to kill your brother. -I did, or in time, he would return.",
+      "es": "- No tenías que matar a tu hermano.- Sí. - Iba a volver.- Faltaste a tu palabra."
     }
   },
   {
     "translation": {
-      "en": "- You dishonored your word. - I did not.",
-      "es": "- Iba a volver. - Faltaste a tu palabra."
+      "en": "-You dishonored your word. -I did not.",
+      "es": "- Iba a volver.- Faltaste a tu palabra."
     }
   },
   {
@@ -1496,7 +1502,7 @@
   {
     "translation": {
       "en": "It was never our plan to let him live. Lord, reverse the order.",
-      "es": "Nunca planeamos dejarlo vivir. Señor, revierta la orden."
+      "es": "Nunca planeamos dejarlo vivir.Señor, revierta la orden."
     }
   },
   {
@@ -1507,14 +1513,14 @@
   },
   {
     "translation": {
-      "en": "- Hired men have no quarrel with you. - You were right not to seek his help.",
-      "es": "- No te hicieron nada. - Hizo bien en no pedirle ayuda."
+      "en": "-Hired men have no quarrel with you. -You were right not to seek his help.",
+      "es": "- No te hicieron nada.- Hizo bien en no pedirle ayuda."
     }
   },
   {
     "translation": {
       "en": "You kill 100 fathers, you give 300 sons a reason to defy you.",
-      "es": "Si matas a cien padres, le das a 300 hijos razón para desafiarte."
+      "es": "Si matas a cien padres,le das a 300 hijos razón para desafiarte."
     }
   },
   {
@@ -1538,18 +1544,18 @@
   {
     "translation": {
       "en": "I speak only as a man who has made mistakes before.",
-      "es": "Hablo como un hombre que ha cometido errores."
+      "es": "Hablo como un hombreque ha cometido errores."
     }
   },
   {
     "translation": {
-      "en": "- I'm Uhtred of-- - I know who you are.",
-      "es": "- Soy Uhtred de… - Sé quién es."
+      "en": "-I'm Uhtred of-- -I know who you are.",
+      "es": "- Soy Uhtred de…- Sé quién es."
     }
   },
   {
     "translation": {
-      "en": "Uhtred, this is Lord Ingilmundr.",
+      "en": "[Aethelstan] Uhtred, this is Lord Ingilmundr.",
       "es": "Uhtred, es lord Ingilmundr."
     }
   },
@@ -1610,19 +1616,19 @@
   {
     "translation": {
       "en": "Ingilmundr holds the garrison at Thelwael on the Wirral.",
-      "es": "Ingilmundr tiene guarnición en Thelwael, en Wirral."
+      "es": "Ingilmundr tiene guarniciónen Thelwael, en Wirral."
     }
   },
   {
     "translation": {
       "en": "He knows many of the people we knew from Rumcofa. Good people. I should like to see them again.",
-      "es": "- Conoce a muchos de Rumcofa. - Son buenos. Quisiera volver a verlos."
+      "es": "- Conoce a muchos de Rumcofa.- Son buenos. Quisiera volver a verlos."
     }
   },
   {
     "translation": {
-      "en": "Yes. Perhaps after you've sworn Northumbria to the new king.",
-      "es": "Sí, después de haber jurado Northumbria al nuevo rey."
+      "en": "[Ingilmundr] Yes. Perhaps after you've sworn Northumbria to the new king.",
+      "es": "Sí, después de haber juradoNorthumbria al nuevo rey."
     }
   },
   {
@@ -1634,7 +1640,7 @@
   {
     "translation": {
       "en": "Swear to Aethelstan what you denied his father.",
-      "es": "Jure a Aethelstan lo que le negó a su padre."
+      "es": "Jure a Aethelstanlo que le negó a su padre."
     }
   },
   {
@@ -1664,13 +1670,13 @@
   {
     "translation": {
       "en": "I will renounce my lands in the Great Hall at Winchester.",
-      "es": "Renunciaré a mis tierras en el Salón de Winchester."
+      "es": "Renunciaré a mis tierrasen el Salón de Winchester."
     }
   },
   {
     "translation": {
-      "en": "- It doesn't need to be done with ceremony. - But Uhtred is a man of his word.",
-      "es": "- La ceremonia sobra. - Pero Uhtred es un hombre de palabra."
+      "en": "-It doesn't need to be done with ceremony. -But Uhtred is a man of his word.",
+      "es": "- La ceremonia sobra.- Pero Uhtred es un hombre de palabra."
     }
   },
   {
@@ -1687,8 +1693,8 @@
   },
   {
     "translation": {
-      "en": "How did he know we were coming here?  He's always found a way to protect me.",
-      "es": "- ¿Cómo supo que veníamos? - Siempre ha querido protegerme."
+      "en": "[Ingilmundr] How did he know we were coming here? [Aethelstan] He's always found a way to protect me.",
+      "es": "- ¿Cómo supo que veníamos?- Siempre ha querido protegerme."
     }
   },
   {
@@ -1699,7 +1705,7 @@
   },
   {
     "translation": {
-      "en": "My mother was the same.",
+      "en": "[chuckles] My mother was the same.",
       "es": "Mi madre era igual."
     }
   },
@@ -1711,8 +1717,8 @@
   },
   {
     "translation": {
-      "en": "- He's been steadfast a long time. - And noble that you trust him.",
-      "es": "- Ha demostrado su lealtad. - Qué noble por confiar en él."
+      "en": "-He's been steadfast a long time. -And noble that you trust him.",
+      "es": "- Ha demostrado su lealtad.- Qué noble por confiar en él."
     }
   },
   {
@@ -1723,8 +1729,14 @@
   },
   {
     "translation": {
-      "en": "Which boy prevailed?",
+      "en": "[Constantin] Which boy prevailed?",
       "es": "¿Cuál de los chicos ganó?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Domnal] Aethelstan.",
+      "es": "Aethelstan."
     }
   },
   {
@@ -1735,8 +1747,8 @@
   },
   {
     "translation": {
-      "en": "Then it's settled. Any word on renewal of the treaty?",
-      "es": "Está decidido. ¿Alguna novedad sobre el tratado?"
+      "en": "[Constantin] Then it's settled. Any word on renewal of the treaty?",
+      "es": "Está decidido.¿Alguna novedad sobre el tratado?"
     }
   },
   {
@@ -1747,26 +1759,26 @@
   },
   {
     "translation": {
-      "en": "- Make contact. - Lord, we've had word of something else.",
-      "es": "- Haz contacto. - Señor, nos enteramos de algo más."
+      "en": "-Make contact. -Lord, we've had word of something else.",
+      "es": "- Haz contacto.- Señor, nos enteramos de algo más."
     }
   },
   {
     "translation": {
-      "en": "- The Dane, Anlaf, seeks a meeting. - The one who eats the flesh of men?",
-      "es": "- El danés, Anlaf, quiere verlo. - ¿El que come carne humana?"
+      "en": "-The Dane, Anlaf, seeks a meeting. -The one who eats the flesh of men?",
+      "es": "- El danés, Anlaf, quiere verlo.- ¿El que come carne humana?"
     }
   },
   {
     "translation": {
       "en": "An assembly with you, and the kings of Man, Shetland, and Orkney.",
-      "es": "Quiere una asamblea con usted y los reyes de Man, Shetland y Orkney."
+      "es": "Quiere una asamblea con ustedy los reyes de Man, Shetland y Orkney."
     }
   },
   {
     "translation": {
       "en": "I will not be the lone Christian lured to meet Dane kings.",
-      "es": "No seré el único cristiano que se reúna con los reyes daneses."
+      "es": "No seré el único cristianoque se reúna con los reyes daneses."
     }
   },
   {
@@ -1784,25 +1796,25 @@
   {
     "translation": {
       "en": "Edward kept the truce. We have no reason to think his son will not.",
-      "es": "Eduardo mantuvo la tregua. Su hijo hará lo mismo."
+      "es": "Eduardo mantuvo la tregua.Su hijo hará lo mismo."
     }
   },
   {
     "translation": {
-      "en": "I'll send word.",
+      "en": "[Domnal] I'll send word.",
       "es": "Enviaré un mensaje."
     }
   },
   {
     "translation": {
-      "en": "His own flesh, put to the knife.",
+      "en": "[Anlaf] His own flesh, put to the knife.",
       "es": "Su propia carne. Lo asesinó."
     }
   },
   {
     "translation": {
-      "en": "- He is more brutal than you suggested. - His heart has hardened.",
-      "es": "- Es más brutal de lo que dijo. - Se endureció."
+      "en": "-He is more brutal than you suggested. -His heart has hardened.",
+      "es": "- Es más brutal de lo que dijo.- Se endureció."
     }
   },
   {
@@ -1813,14 +1825,14 @@
   },
   {
     "translation": {
-      "en": "- Do other kings in Britain hear our call? - They pretend to be deaf to us.",
-      "es": "- ¿Otros reyes escuchan nuestro llamado? - Fingen no saber nada."
+      "en": "-Do other kings in Britain hear our call? -They pretend to be deaf to us.",
+      "es": "- ¿Otros reyes escuchan nuestro llamado?- Fingen no saber nada."
     }
   },
   {
     "translation": {
-      "en": "- But I know they listen. - They should.",
-      "es": "- Pero escuchan. - Deberían."
+      "en": "-But I know they listen. -They should.",
+      "es": "- Pero escuchan.- Deberían."
     }
   },
   {
@@ -1838,7 +1850,7 @@
   {
     "translation": {
       "en": "Eh, and when my lands are yours, you will know it too.",
-      "es": "Cuando mis tierras sean tuyas, también la conocerás."
+      "es": "Cuando mis tierras sean tuyas,también la conocerás."
     }
   },
   {
@@ -1861,25 +1873,25 @@
   },
   {
     "translation": {
-      "en": "- - Father, have you been injured?",
-      "es": "- ¿Se lastimó? - Es solo un rasguño."
+      "en": "-[Uhtred grunts] -[Osbert] Father, have you been injured?",
+      "es": "- ¿Se lastimó?- Es solo un rasguño."
     }
   },
   {
     "translation": {
-      "en": "- Nothing that will not heal. - Tell me the news is wrong.",
-      "es": "- ¿Se lastimó? - Es solo un rasguño. Dígame que es mentira. ¿Aethelstan mató a su hermano?"
+      "en": "-Nothing that will not heal. -[Eadgifu] Tell me the news is wrong.",
+      "es": "- ¿Se lastimó?- Es solo un rasguño. Dígame que es mentira.¿Aethelstan mató a su hermano?"
     }
   },
   {
     "translation": {
-      "en": "- Did Aethelstan turn on his own blood? - Yes.",
-      "es": "Dígame que es mentira. ¿Aethelstan mató a su hermano?"
+      "en": "-Did Aethelstan turn on his own blood? -[Uhtred] Yes.",
+      "es": "Dígame que es mentira.¿Aethelstan mató a su hermano?"
     }
   },
   {
     "translation": {
-      "en": "- Aelfweard did not survive. - Then Edmund cannot return to Winchester.",
+      "en": "-Aelfweard did not survive. -Then Edmund cannot return to Winchester.",
       "es": "Sí. Aelfweard no sobrevivió. Edmund no puede regresar a Winchester."
     }
   },
@@ -1897,7 +1909,7 @@
   },
   {
     "translation": {
-      "en": "But she is right.",
+      "en": "[Uhtred] But she is right.",
       "es": "Pero tiene razón."
     }
   },
@@ -1915,8 +1927,8 @@
   },
   {
     "translation": {
-      "en": "- You're welcome here as long as you wish. - And it will pass.",
-      "es": "- Es bienvenida cuanto quiera. - Ya pasará."
+      "en": "-You're welcome here as long as you wish. -[Aldhelm] And it will pass.",
+      "es": "- Es bienvenida cuanto quiera.- Ya pasará."
     }
   },
   {
@@ -1939,14 +1951,14 @@
   },
   {
     "translation": {
-      "en": "Almighty and everlasting God,",
+      "en": "[Pyrlig] Almighty and everlasting God,",
       "es": "Dios todopoderoso y eterno,"
     }
   },
   {
     "translation": {
       "en": "pour out the spirit of thy grace and blessing upon this, thy servant,",
-      "es": "derrama el espíritu de tu gracia y bendición sobre tu sirviente,"
+      "es": "derrama el espíritu de tu graciay bendición sobre tu sirviente,"
     }
   },
   {
@@ -1958,7 +1970,7 @@
   {
     "translation": {
       "en": "That, as by the imposition of our hands, he is this day crowned king.",
-      "es": "A quien, por imposición de nuestras manos, coronamos rey."
+      "es": "A quien, por imposiciónde nuestras manos, coronamos rey."
     }
   },
   {
@@ -1970,7 +1982,7 @@
   {
     "translation": {
       "en": "continue always thy chosen servant, through Christ, our Lord.",
-      "es": "continúe siempre como tu sirviente elegido."
+      "es": "continúe siemprecomo tu sirviente elegido."
     }
   },
   {
@@ -1982,25 +1994,25 @@
   {
     "translation": {
       "en": "the wisdom of Solomon, the courage of David.",
-      "es": "la sabiduría de Salomón, el valor de David."
+      "es": "la sabiduría de Salomón,el valor de David."
     }
   },
   {
     "translation": {
       "en": "Vivat Rex! Vivat Rex!",
-      "es": "II: REY DE WESSEX, MERCIA Y ANGLIA ORIENTAL"
+      "es": "II: REY DE WESSEX,MERCIA Y ANGLIA ORIENTAL"
     }
   },
   {
     "translation": {
-      "en": "You were not there. This moment was all we had talked of.",
+      "en": "[Aethelstan] You were not there. This moment was all we had talked of.",
       "es": "No estabas. No hemos hablado de otra cosa."
     }
   },
   {
     "translation": {
-      "en": "- And you were not there. - No.",
-      "es": "- Y no estabas. - No."
+      "en": "-And you were not there. -No.",
+      "es": "- Y no estabas.- No."
     }
   },
   {
@@ -2053,8 +2065,8 @@
   },
   {
     "translation": {
-      "en": "- Clearly, he-- - He wishes to remain king in his own land.",
-      "es": "- Claramente… - Quiere seguir siendo rey en su tierra."
+      "en": "-Clearly, he-- -He wishes to remain king in his own land.",
+      "es": "- Claramente…- Quiere seguir siendo rey en su tierra."
     }
   },
   {
@@ -2078,13 +2090,13 @@
   {
     "translation": {
       "en": "What torture to enact on so kind a soul.",
-      "es": "Qué forma de torturar a un alma tan gentil."
+      "es": "Qué forma de torturara un alma tan gentil."
     }
   },
   {
     "translation": {
-      "en": "- I thought you had both abandoned me. - Of course I would not.",
-      "es": "- Pensé que me habías abandonado. - Claro que no."
+      "en": "-I thought you had both abandoned me. -Of course I would not.",
+      "es": "- Pensé que me habías abandonado.- Claro que no."
     }
   },
   {
@@ -2113,7 +2125,7 @@
   },
   {
     "translation": {
-      "en": "Lord.",
+      "en": "[Finan] Lord.",
       "es": "Señor."
     }
   },
@@ -2143,7 +2155,7 @@
   },
   {
     "translation": {
-      "en": "Ball- taker.",
+      "en": "Ball-taker.",
       "es": "Castradora."
     }
   },
@@ -2162,7 +2174,7 @@
   {
     "translation": {
       "en": "Perhaps losing my sword was a sign that my battle days are over.",
-      "es": "Perder mi espada fue la señal de que ya no puedo luchar."
+      "es": "Perder mi espada fue la señalde que ya no puedo luchar."
     }
   },
   {
@@ -2173,32 +2185,32 @@
   },
   {
     "translation": {
-      "en": "I did not provoke him.",
+      "en": "[Uhtred] I did not provoke him.",
       "es": "No lo provoqué."
     }
   },
   {
     "translation": {
       "en": "I'm simply giving him time to prove he's not a tyrant.",
-      "es": "Le doy tiempo para probar que no es un tirano."
+      "es": "Le doy tiempopara probar que no es un tirano."
     }
   },
   {
     "translation": {
-      "en": "- Otherwise… - Otherwise what?",
-      "es": "- Si no… - Si no, ¿qué?"
+      "en": "-Otherwise… -Otherwise what?",
+      "es": "- Si no…- Si no, ¿qué?"
     }
   },
   {
     "translation": {
-      "en": "Seven kings must die. For what?",
-      "es": "Siete reyes deben morir. ¿Por qué?"
+      "en": "\"Seven kings must die.\" For what?",
+      "es": "\"Siete reyes deben morir\". ¿Por qué?"
     }
   },
   {
     "translation": {
-      "en": "- What did your wife see? - She sees nothing.",
-      "es": "- ¿Qué vio tu esposa? - Nada."
+      "en": "-What did your wife see? -She sees nothing.",
+      "es": "- ¿Qué vio tu esposa?- Nada."
     }
   },
   {
@@ -2209,25 +2221,25 @@
   },
   {
     "translation": {
-      "en": "What do they celebrate?",
+      "en": "[Eadgifu] What do they celebrate?",
       "es": "¿Qué celebran?"
     }
   },
   {
     "translation": {
-      "en": "The breaking of the horses.",
+      "en": "[Uhtred] The breaking of the horses.",
       "es": "Están domando a los caballos."
     }
   },
   {
     "translation": {
-      "en": "Thank Osbert for the care he has shown Edmund.",
+      "en": "[Eadgifu] Thank Osbert for the care he has shown Edmund.",
       "es": "Agradezca a Osbert los cuidados a Edmund."
     }
   },
   {
     "translation": {
-      "en": "He's part of Bebbanburg now.",
+      "en": "[Uhtred] He's part of Bebbanburg now.",
       "es": "Ahora es parte de Bebbanburg."
     }
   },
@@ -2239,7 +2251,7 @@
   },
   {
     "translation": {
-      "en": "Yes, my son is quite changed.",
+      "en": "[Eadgifu] Yes, my son is quite changed.",
       "es": "Sí, mi hijo está muy cambiado."
     }
   },
@@ -2263,7 +2275,7 @@
   },
   {
     "translation": {
-      "en": "You yourself seem happier.",
+      "en": "[Uhtred] You yourself seem happier.",
       "es": "Usted también se ve más feliz."
     }
   },
@@ -2287,14 +2299,14 @@
   },
   {
     "translation": {
-      "en": "Control! Good!",
+      "en": "[Osbert] Control! Good!",
       "es": "¡Contrólenlos! ¡Bien!"
     }
   },
   {
     "translation": {
       "en": "Forgive us these sins that we commit.",
-      "es": "Señor, ten piedad de nuestras almas y perdona nuestros pecados."
+      "es": "Señor, ten piedad de nuestras almasy perdona nuestros pecados."
     }
   },
   {
@@ -2354,13 +2366,13 @@
   {
     "translation": {
       "en": "Perhaps return to your grandfather's vision for England.",
-      "es": "Puede retomar la visión de su abuelo para Inglaterra."
+      "es": "Puede retomar la visiónde su abuelo para Inglaterra."
     }
   },
   {
     "translation": {
       "en": "Perhaps now there is an urgency to bring the pagans to light.",
-      "es": "Quizá sea urgente llevar a los paganos a la luz."
+      "es": "Quizá sea urgentellevar a los paganos a la luz."
     }
   },
   {
@@ -2372,7 +2384,7 @@
   {
     "translation": {
       "en": "Well, surely the greater the lands, the greater the faith.",
-      "es": "Cuanto más grandes las tierras, mayor será la fe."
+      "es": "Cuanto más grandes las tierras,mayor será la fe."
     }
   },
   {
@@ -2384,7 +2396,7 @@
   {
     "translation": {
       "en": "Look to the islands God made, not the countries ordained by men,",
-      "es": "Mire las islas de Dios, no los países de los hombres,"
+      "es": "Mire las islas de Dios,no los países de los hombres,"
     }
   },
   {
@@ -2419,7 +2431,7 @@
   },
   {
     "translation": {
-      "en": "Lord!",
+      "en": "[Finan] Lord!",
       "es": "¡Señor!"
     }
   },
@@ -2431,7 +2443,7 @@
   },
   {
     "translation": {
-      "en": "What do you talk of?",
+      "en": "[Eadgifu] What do you talk of?",
       "es": "¿De qué hablan?"
     }
   },
@@ -2444,13 +2456,13 @@
   {
     "translation": {
       "en": "The ladies here care for Lord Uhtred and wish keenly he would find a woman.",
-      "es": "Todas cuidamos a lord Uhtred y queremos que encuentre una mujer."
+      "es": "Todas cuidamos a lord Uhtredy queremos que encuentre una mujer."
     }
   },
   {
     "translation": {
       "en": "Well, they shall be sore of heart. The widow of a king will not marry a lord.",
-      "es": "Las decepcionaré. La viuda de un rey no se casará con un señor."
+      "es": "Las decepcionaré. La viuda de un reyno se casará con un señor."
     }
   },
   {
@@ -2480,18 +2492,18 @@
   {
     "translation": {
       "en": "The women Uhtred has affection for become a target for his enemies.",
-      "es": "Las mujeres cercanas a Uhtred son blanco de sus enemigos."
+      "es": "Las mujeres cercanas a Uhtredson blanco de sus enemigos."
     }
   },
   {
     "translation": {
-      "en": "- Sihtric! - Sh- sh.",
+      "en": "-[Uhtred] Sihtric! -Sh-sh.",
       "es": "¡Sihtric!"
     }
   },
   {
     "translation": {
-      "en": "What have you learnt?",
+      "en": "[Uhtred] What have you learnt?",
       "es": "¿Qué descubriste?"
     }
   },
@@ -2504,7 +2516,7 @@
   {
     "translation": {
       "en": "He says since Rognvaldr is dead, there is no king, so it belongs to him.",
-      "es": "Como Rognvaldr está muerto y no hay rey, dice que le pertenece."
+      "es": "Como Rognvaldr está muertoy no hay rey, dice que le pertenece."
     }
   },
   {
@@ -2516,7 +2528,7 @@
   {
     "translation": {
       "en": "They see me as their lord now. Aethelstan knows this.",
-      "es": "Ahora me ven como su señor. Aethelstan lo sabe."
+      "es": "Ahora me ven como su señor.Aethelstan lo sabe."
     }
   },
   {
@@ -2528,7 +2540,7 @@
   {
     "translation": {
       "en": "Not just Saxon chiefs, but all kings of Britain.",
-      "es": "No solo de los sajones, sino de los reyes británicos."
+      "es": "No solo de los sajones,sino de los reyes británicos."
     }
   },
   {
@@ -2563,14 +2575,14 @@
   },
   {
     "translation": {
-      "en": "Lord.",
+      "en": "[Sihtric] Lord.",
       "es": "Señor."
     }
   },
   {
     "translation": {
-      "en": "There went out a decree that all the world should be taxed.",
-      "es": "Se decretó que todos deben pagar impuestos."
+      "en": "\"There went out a decree that all the world should be taxed.\"",
+      "es": "\"Se decretó que todosdeben pagar impuestos\"."
     }
   },
   {
@@ -2581,20 +2593,20 @@
   },
   {
     "translation": {
-      "en": "- Uhtred! Calm yourself. - Pyrlig? What is this tribute?",
-      "es": "- ¡Uhtred! Calma. - ¿Pyrlig? ¿Qué es este tributo?"
+      "en": "-Uhtred! Calm yourself. -Pyrlig? What is this tribute?",
+      "es": "- ¡Uhtred! Calma.- ¿Pyrlig? ¿Qué es este tributo?"
     }
   },
   {
     "translation": {
       "en": "He says it is to build churches, but, please, there are spies everywhere.",
-      "es": "Es para construir iglesias, pero hay espías por todos lados."
+      "es": "Es para construir iglesias,pero hay espías por todos lados."
     }
   },
   {
     "translation": {
       "en": "Tell your arseling apprentice he's badly misjudged the mood of Scotland.",
-      "es": "Dile a tu aprendiz que juzgó mal el estado de ánimo de Escocia."
+      "es": "Dile a tu aprendiz que juzgó malel estado de ánimo de Escocia."
     }
   },
   {
@@ -2612,7 +2624,7 @@
   {
     "translation": {
       "en": "Instead, we've been left waiting for days, only to be told we are supplicants.",
-      "es": "En cambio, nos dejaron esperando por días. Solo para decir que somos suplicantes."
+      "es": "En cambio, nos dejaron esperando por días.Solo para decir que somos suplicantes."
     }
   },
   {
@@ -2629,8 +2641,8 @@
   },
   {
     "translation": {
-      "en": "- Why is Aethelstan doing this? - He says to unite Christians.",
-      "es": "- ¿Por qué hace esto? - Pide unir a los cristianos."
+      "en": "-Why is Aethelstan doing this? -He says to unite Christians.",
+      "es": "- ¿Por qué hace esto?- Pide unir a los cristianos."
     }
   },
   {
@@ -2648,7 +2660,7 @@
   {
     "translation": {
       "en": "The death of his brother, the bastardy of his parentage?",
-      "es": "¿La muerte de su hermano, el bastardo de su ascendencia?"
+      "es": "¿La muerte de su hermano,el bastardo de su ascendencia?"
     }
   },
   {
@@ -2666,13 +2678,13 @@
   {
     "translation": {
       "en": "but there is talk of conquest and forced baptism.",
-      "es": "pero dicen que conquistará y obligará al bautizo."
+      "es": "pero dicen que conquistaráy obligará al bautizo."
     }
   },
   {
     "translation": {
-      "en": "- Where is he? - The Devil's Stones.",
-      "es": "- ¿Dónde está? - En las piedras del diablo."
+      "en": "-Where is he? -The Devil's Stones.",
+      "es": "- ¿Dónde está?- En las piedras del diablo."
     }
   },
   {
@@ -2683,7 +2695,7 @@
   },
   {
     "translation": {
-      "en": "This is madness. Aldhelm.",
+      "en": "[Uhtred] This is madness. Aldhelm.",
       "es": "Esto es una locura. Aldhelm."
     }
   },
@@ -2707,8 +2719,8 @@
   },
   {
     "translation": {
-      "en": "Aethelstan wanted him to witness it. They were built by his forebears.",
-      "es": "Aethelstan quería un testigo. Lo hicieron sus antepasados."
+      "en": "[Aldhelm] Aethelstan wanted him to witness it. They were built by his forebears.",
+      "es": "Aethelstan quería un testigo.Lo hicieron sus antepasados."
     }
   },
   {
@@ -2719,7 +2731,7 @@
   },
   {
     "translation": {
-      "en": "King Hywel.",
+      "en": "[Uhtred] King Hywel.",
       "es": "Rey Hywel. IV: REY DE WEALAS"
     }
   },
@@ -2732,31 +2744,31 @@
   {
     "translation": {
       "en": "After all you did for Mercia? What choice do I have, Uhtred?",
-      "es": "- ¿Y lo que hizo por Mercia? - ¿Qué opción tengo, Uhtred?"
+      "es": "- ¿Y lo que hizo por Mercia?- ¿Qué opción tengo, Uhtred?"
     }
   },
   {
     "translation": {
       "en": "He took my son to Winchester.",
-      "es": "- Se llevó a mi hijo a Winchester. - ¿Como rehén?"
+      "es": "- Se llevó a mi hijo a Winchester.- ¿Como rehén?"
     }
   },
   {
     "translation": {
-      "en": "- He is keeping your son hostage? - You take the son, you take a future king.",
-      "es": "- Se llevó a mi hijo a Winchester. - ¿Como rehén? Tomas al hijo y tomas a un futuro rey."
+      "en": "-He is keeping your son hostage? -You take the son, you take a future king.",
+      "es": "- Se llevó a mi hijo a Winchester.- ¿Como rehén? Tomas al hijo y tomas a un futuro rey."
     }
   },
   {
     "translation": {
-      "en": "- Now I am forced to follow his bidding. - I will tell him this cannot stand.",
-      "es": "- Ahora tengo que seguir sus órdenes. - Le diré que no puede hacer esto."
+      "en": "-Now I am forced to follow his bidding. -I will tell him this cannot stand.",
+      "es": "- Ahora tengo que seguir sus órdenes.- Le diré que no puede hacer esto."
     }
   },
   {
     "translation": {
       "en": "King Hywel, I swear, Wealas's faithfulness will not be spat on.",
-      "es": "Rey Hywel, juro que no escupirá en la lealtad de Wealas."
+      "es": "Rey Hywel, juro que no escupiráen la lealtad de Wealas."
     }
   },
   {
@@ -2768,7 +2780,7 @@
   {
     "translation": {
       "en": "That a Saxon would break us all to build their country.",
-      "es": "Que un sajón nos destruiría a todos para construir su país."
+      "es": "Que un sajón nos destruiría a todospara construir su país."
     }
   },
   {
@@ -2785,13 +2797,13 @@
   },
   {
     "translation": {
-      "en": "Halt. Stay back.",
+      "en": "[guard] Halt. Stay back.",
       "es": "Alto. Atrás."
     }
   },
   {
     "translation": {
-      "en": "Step aside! The king requested Uhtred speak with him.",
+      "en": "[Aldhelm] Step aside! The king requested Uhtred speak with him.",
       "es": "¡A un lado! El rey pidió a Uhtred."
     }
   },
@@ -2803,7 +2815,7 @@
   },
   {
     "translation": {
-      "en": "Lord King,",
+      "en": "[Uhtred] Lord King,",
       "es": "Mi señor,"
     }
   },
@@ -2815,14 +2827,14 @@
   },
   {
     "translation": {
-      "en": "You should not have stepped on my land.",
-      "es": "- No debiste pisar mis tierras. - Rompiste tu palabra."
+      "en": "[Uhtred] You should not have stepped on my land.",
+      "es": "- No debiste pisar mis tierras.- Rompiste tu palabra."
     }
   },
   {
     "translation": {
       "en": "You should not have broken your word, humiliated me,",
-      "es": "- No debiste pisar mis tierras. - Rompiste tu palabra. Me humillaste como a mi padre."
+      "es": "- No debiste pisar mis tierras.- Rompiste tu palabra. Me humillaste como a mi padre."
     }
   },
   {
@@ -2839,8 +2851,8 @@
   },
   {
     "translation": {
-      "en": "- You do the bidding of Ingilmundr-- - I do the bidding of the Lord.",
-      "es": "- Obedeces a Ingilmundr… - Obedezco al Señor."
+      "en": "-You do the bidding of Ingilmundr-- -I do the bidding of the Lord.",
+      "es": "- Obedeces a Ingilmundr…- Obedezco al Señor."
     }
   },
   {
@@ -2851,14 +2863,14 @@
   },
   {
     "translation": {
-      "en": "- Did I teach you nothing of respect? - Many Danes welcome the Lord.",
-      "es": "- ¿No te enseñé a respetar? - Muchos lo desean."
+      "en": "-Did I teach you nothing of respect? -Many Danes welcome the Lord.",
+      "es": "- ¿No te enseñé a respetar?- Muchos lo desean."
     }
   },
   {
     "translation": {
-      "en": "- Those in my court thank me for it. - Many do not wish it, and you know this.",
-      "es": "- Mi corte me lo agradece. - Muchos no y lo sabes."
+      "en": "-Those in my court thank me for it. -Many do not wish it, and you know this.",
+      "es": "- Mi corte me lo agradece.- Muchos no y lo sabes."
     }
   },
   {
@@ -2869,8 +2881,8 @@
   },
   {
     "translation": {
-      "en": "- Even Alfred respected this. - I have more to atone for than Alfred.",
-      "es": "- Hasta Alfred respetaba eso. - Tengo más que expiar que Alfred."
+      "en": "-Even Alfred respected this. -I have more to atone for than Alfred.",
+      "es": "- Hasta Alfred respetaba eso.- Tengo más que expiar que Alfred."
     }
   },
   {
@@ -2888,7 +2900,7 @@
   {
     "translation": {
       "en": "For I've seen before men under the spell of those who claim to know the gods.",
-      "es": "He visto el hechizo de quienes dicen conocer a los dioses."
+      "es": "He visto el hechizode quienes dicen conocer a los dioses."
     }
   },
   {
@@ -2906,7 +2918,7 @@
   {
     "translation": {
       "en": "but do not fall under the influence of those who seek power--",
-      "es": "pero no te dejes manipular por gente ambiciosa."
+      "es": "pero no te dejes manipularpor gente ambiciosa."
     }
   },
   {
@@ -2917,14 +2929,14 @@
   },
   {
     "translation": {
-      "en": "- No one. - Who tells such lies?",
-      "es": "- No. - ¿Quién te mintió?"
+      "en": "-No one. -Who tells such lies?",
+      "es": "- No.- ¿Quién te mintió?"
     }
   },
   {
     "translation": {
-      "en": "- It has not been talked of. - Lord Aldhelm, does he spy for…",
-      "es": "- Nadie habla de eso. - ¿Lord Aldhelm me espía?"
+      "en": "-It has not been talked of. -Lord Aldhelm, does he spy for…",
+      "es": "- Nadie habla de eso.- ¿Lord Aldhelm me espía?"
     }
   },
   {
@@ -2936,19 +2948,19 @@
   {
     "translation": {
       "en": "No one has said anything. I care not for that, but for you.",
-      "es": "Nadie ha dicho nada. No me importa eso, sino tú."
+      "es": "Nadie ha dicho nada.No me importa eso, sino tú."
     }
   },
   {
     "translation": {
       "en": "Aethelstan, you are a kind man, but you are tenderhearted,",
-      "es": "Aethelstan, eres un buen hombre, pero eres sensible."
+      "es": "Aethelstan, eres un buen hombre,pero eres sensible."
     }
   },
   {
     "translation": {
       "en": "and Ingilmundr is seeking power for himself and for his brotherhood.",
-      "es": "Ingilmundr busca poder para él y su hermandad."
+      "es": "Ingilmundr busca poderpara él y su hermandad."
     }
   },
   {
@@ -2966,7 +2978,7 @@
   {
     "translation": {
       "en": "And you are turned from your king! You seek to be one yourself.",
-      "es": "¡Y tú te alejaste de tu rey! Sueñas con llegar a ser rey."
+      "es": "¡Y tú te alejaste de tu rey!Sueñas con llegar a ser rey."
     }
   },
   {
@@ -3008,13 +3020,13 @@
   {
     "translation": {
       "en": "Like you ran to protect him in Aegelesburg and ended up being beaten by boys?",
-      "es": "¿Como en Aegelesburg, esa vez que terminaron golpeándolo?"
+      "es": "¿Como en Aegelesburg,esa vez que terminaron golpeándolo?"
     }
   },
   {
     "translation": {
       "en": "Should he really take counsel from a man who loses his sword to a child?",
-      "es": "¿Debe escuchar a un hombre que pierde su espada ante un niño?"
+      "es": "¿Debe escuchar a un hombreque pierde su espada ante un niño?"
     }
   },
   {
@@ -3032,7 +3044,7 @@
   {
     "translation": {
       "en": "Do not think he will spare you just because you follow the same gods.",
-      "es": "No te perdonará solo porque siguen a los mismos dioses."
+      "es": "No te perdonará solo porque siguena los mismos dioses."
     }
   },
   {
@@ -3062,7 +3074,7 @@
   {
     "translation": {
       "en": "Lord Ingilmundr has declared you an enemy of God",
-      "es": "Lord Ingilmundr lo ha declarado enemigo de Dios"
+      "es": "Lord Ingilmundr lo ha declaradoenemigo de Dios"
     }
   },
   {
@@ -3080,7 +3092,7 @@
   {
     "translation": {
       "en": "Which is why Ingilmundr seeks to keep his hands clean of it",
-      "es": "Por eso, Ingilmundr no quiere ensuciarse las manos"
+      "es": "Por eso, Ingilmundrno quiere ensuciarse las manos"
     }
   },
   {
@@ -3097,7 +3109,7 @@
   },
   {
     "translation": {
-      "en": "This way.",
+      "en": "[Aldhelm] This way.",
       "es": "Por aquí."
     }
   },
@@ -3121,26 +3133,26 @@
   },
   {
     "translation": {
-      "en": "Horsemen approach!",
+      "en": "[sentry] Horsemen approach!",
       "es": "¡Se acercan jinetes!"
     }
   },
   {
     "translation": {
-      "en": "Stay back from my gates and tell me who you are.",
+      "en": "[Osbert] Stay back from my gates and tell me who you are.",
       "es": "Aléjate de mis puertas y dime quién eres."
     }
   },
   {
     "translation": {
       "en": "Lord Ingilmundr, and I come at Lord Uhtred's request.",
-      "es": "Lord Ingilmundr, y vengo a petición de lord Uhtred."
+      "es": "Lord Ingilmundr,y vengo a petición de lord Uhtred."
     }
   },
   {
     "translation": {
       "en": "He's delayed in Eoferwic as he renews his vow to the king.",
-      "es": "Se retrasó en Eoferwic mientras renueva su voto al rey."
+      "es": "Se retrasó en Eoferwicmientras renueva su voto al rey."
     }
   },
   {
@@ -3157,13 +3169,13 @@
   },
   {
     "translation": {
-      "en": "There is a rumor of Wolf- Warriors landed near Derwent.",
-      "es": "Dicen que los Guerreros Lobos llegaron a Derwent."
+      "en": "There is a rumor of Wolf-Warriors landed near Derwent.",
+      "es": "Dicen que los Guerreros Lobosllegaron a Derwent."
     }
   },
   {
     "translation": {
-      "en": "Open the gate! Open the gate!",
+      "en": "[guard] Open the gate! Open the gate!",
       "es": "¡Abran la puerta!"
     }
   },
@@ -3193,14 +3205,14 @@
   },
   {
     "translation": {
-      "en": "And despite this, you drip poison against me and plot with Uhtred. - No. - Yes.",
-      "es": "Y a pesar de eso, mientes sobre mí y conspiras con Uhtred."
+      "en": "And despite this, you drip poison against me and plot with Uhtred. -No. -Yes.",
+      "es": "Y a pesar de eso, mientes sobre míy conspiras con Uhtred."
     }
   },
   {
     "translation": {
-      "en": "- No. - Yes!",
-      "es": "- No. - Sí."
+      "en": "-No. -Yes!",
+      "es": "- No.- Sí."
     }
   },
   {
@@ -3217,8 +3229,8 @@
   },
   {
     "translation": {
-      "en": "Lord Ingilmundr, you bring welcome news of Lord Uhtred's supplication.",
-      "es": "Lord Ingilmundr, trae buenas noticias de la súplica de lord Uhtred."
+      "en": "[Eadgifu] Lord Ingilmundr, you bring welcome news of Lord Uhtred's supplication.",
+      "es": "Lord Ingilmundr, trae buenas noticiasde la súplica de lord Uhtred."
     }
   },
   {
@@ -3230,7 +3242,7 @@
   {
     "translation": {
       "en": "Lady, we have ridden hard to get here. At least let us rest a day or so.",
-      "es": "Lady, hemos cabalgado mucho. Al menos déjenos descansar un día."
+      "es": "Lady, hemos cabalgado mucho.Al menos déjenos descansar un día."
     }
   },
   {
@@ -3242,13 +3254,13 @@
   {
     "translation": {
       "en": "Believe me, you do not want to find yourself here longer than intended.",
-      "es": "Créame, no querrá quedarse más tiempo del necesario."
+      "es": "Créame, no querrá quedarsemás tiempo del necesario."
     }
   },
   {
     "translation": {
-      "en": "- They've been warned! - Now!",
-      "es": "- ¡Les advirtieron! - ¡Ahora!"
+      "en": "-They've been warned! -[Finan] Now!",
+      "es": "- ¡Les advirtieron!- ¡Ahora!"
     }
   },
   {
@@ -3260,12 +3272,12 @@
   {
     "translation": {
       "en": "Whatever power you hold over Aethelstan, today it ends.",
-      "es": "El poder que tiene sobre Aethelstan se termina hoy."
+      "es": "El poder que tienesobre Aethelstan se termina hoy."
     }
   },
   {
     "translation": {
-      "en": "My sword!",
+      "en": "[Ingilmundr grunts] My sword!",
       "es": "¡Mi espada!"
     }
   },
@@ -3290,7 +3302,7 @@
   {
     "translation": {
       "en": "Christians amongst you, defend me! Who is your Lord?",
-      "es": "¡Cristianos presentes, defiéndanme! ¿Quién es su señor?"
+      "es": "¡Cristianos presentes, defiéndanme!¿Quién es su señor?"
     }
   },
   {
@@ -3320,13 +3332,13 @@
   {
     "translation": {
       "en": "He makes peace with Northumbria and guarantees the border.",
-      "es": "Paz con Northumbria y garantizar la frontera."
+      "es": "Paz con Northumbriay garantizar la frontera."
     }
   },
   {
     "translation": {
-      "en": "- No one is forced to follow his god. - Yes, Lord.",
-      "es": "- Nadie debe seguir a su dios. - Sí, milord."
+      "en": "-No one is forced to follow his god. -Yes, Lord.",
+      "es": "- Nadie debe seguir a su dios.- Sí, milord."
     }
   },
   {
@@ -3337,8 +3349,8 @@
   },
   {
     "translation": {
-      "en": "- Will Aethelstan agree? - Let us hope so.",
-      "es": "- ¿Aceptará? - Ojalá que sí."
+      "en": "-Will Aethelstan agree? -[Uhtred] Let us hope so.",
+      "es": "- ¿Aceptará?- Ojalá que sí."
     }
   },
   {
@@ -3349,26 +3361,26 @@
   },
   {
     "translation": {
-      "en": "Truly, you bless an unworthy soul.",
+      "en": "[Ingilmundr] Truly, you bless an unworthy soul.",
       "es": "Bendice a un alma indigna."
     }
   },
   {
     "translation": {
-      "en": "- May God reward your kindness. - Amen.",
-      "es": "- Que Dios recompense su bondad. - Amén."
+      "en": "-May God reward your kindness. -Amen.",
+      "es": "- Que Dios recompense su bondad.- Amén."
     }
   },
   {
     "translation": {
-      "en": "Aethelstan turns against his friends.",
+      "en": "[Anlaf] Aethelstan turns against his friends.",
       "es": "Aethelstan traiciona a sus amigos."
     }
   },
   {
     "translation": {
       "en": "Succumbs to a wild dream to be a monarch for all your land.",
-      "es": "Sucumbe al sueño delirante de ser el monarca de toda la tierra."
+      "es": "Sucumbe al sueño delirantede ser el monarca de toda la tierra."
     }
   },
   {
@@ -3386,13 +3398,19 @@
   {
     "translation": {
       "en": "He will take what belonged to your forebears and call it Britain.",
-      "es": "Tomará la tierra de sus antepasados y la llamará Gran Bretaña."
+      "es": "Tomará la tierra de sus antepasadosy la llamará Gran Bretaña."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shetland] No.",
+      "es": "No."
     }
   },
   {
     "translation": {
       "en": "He barely sets his foot upon the water. Saxon country folk.",
-      "es": "Casi no pone pie en el agua. Es un sajón de campo."
+      "es": "Casi no pone pie en el agua.Es un sajón de campo."
     }
   },
   {
@@ -3404,19 +3422,19 @@
   {
     "translation": {
       "en": "I'm not talking of repelling, but of meeting conquest with conquest.",
-      "es": "No hablo de defensa, sino de enfrentar conquista con conquista."
+      "es": "No hablo de defensa,sino de enfrentar conquista con conquista."
     }
   },
   {
     "translation": {
-      "en": "Scotland rejects your offer.",
+      "en": "[Domnal] Scotland rejects your offer.",
       "es": "Escocia rechaza su oferta."
     }
   },
   {
     "translation": {
       "en": "We cannot join with pagans to attack a man who's not threatened us.",
-      "es": "No nos uniremos con paganos para atacar a quien no nos hizo nada."
+      "es": "No nos uniremos con paganospara atacar a quien no nos hizo nada."
     }
   },
   {
@@ -3439,13 +3457,13 @@
   },
   {
     "translation": {
-      "en": "God be with you.",
+      "en": "[Ingilmundr] God be with you.",
       "es": "Que Dios la acompañe."
     }
   },
   {
     "translation": {
-      "en": "The stone was rolled away, as in the scripture.",
+      "en": "[Wassa] The stone was rolled away, as in the scripture.",
       "es": "Quitaron la piedra como en las escrituras."
     }
   },
@@ -3463,7 +3481,7 @@
   },
   {
     "translation": {
-      "en": "Lord!",
+      "en": "[Sihtric] Lord!",
       "es": "¡Señor!"
     }
   },
@@ -3500,18 +3518,18 @@
   {
     "translation": {
       "en": "Perhaps without his shadow, Aethelstan sees more clearly.",
-      "es": "Puede que Aethelstan piense con más claridad sin su sombra."
+      "es": "Puede que Aethelstanpiense con más claridad sin su sombra."
     }
   },
   {
     "translation": {
-      "en": "What trouble brings you out here?",
+      "en": "[Sihtric] What trouble brings you out here?",
       "es": "¿Qué problema los trae?"
     }
   },
   {
     "translation": {
-      "en": "The villagers were hunting for pagan silver.",
+      "en": "[Finan] The villagers were hunting for pagan silver.",
       "es": "Los aldeanos buscaban plata pagana."
     }
   },
@@ -3523,7 +3541,7 @@
   },
   {
     "translation": {
-      "en": "Make way for the King of Northumbria.",
+      "en": "[Wassa] Make way for the King of Northumbria.",
       "es": "Abran paso al rey de Northumbria."
     }
   },
@@ -3541,25 +3559,25 @@
   },
   {
     "translation": {
-      "en": "Do you think they hope to keep half for themselves?",
+      "en": "[Finan] Do you think they hope to keep half for themselves?",
       "es": "¿Esperarán quedarse con la mitad?"
     }
   },
   {
     "translation": {
-      "en": "They likely took it from Bebbanburg in the first place.",
+      "en": "[Sihtric] They likely took it from Bebbanburg in the first place.",
       "es": "Quizá lo robaron de Bebbanburg."
     }
   },
   {
     "translation": {
-      "en": "You are detained in the name of King Aethelstan.",
-      "es": "Está detenido en nombre del rey Aethelstan."
+      "en": "[man] You are detained in the name of King Aethelstan.",
+      "es": "Está detenidoen nombre del rey Aethelstan."
     }
   },
   {
     "translation": {
-      "en": "Lord.",
+      "en": "[Finan] Lord.",
       "es": "Señor."
     }
   },
@@ -3577,7 +3595,7 @@
   },
   {
     "translation": {
-      "en": "Lord, I'm sorry!",
+      "en": "[Wassa] Lord, I'm sorry!",
       "es": "¡Señor, lo siento!"
     }
   },
@@ -3590,7 +3608,7 @@
   {
     "translation": {
       "en": "The prisoner told me I had to, or I'd burn in the fires of hell.",
-      "es": "Me dijo que tenía que hacerlo o me quemaría en el fuego del infierno."
+      "es": "Me dijo que tenía que hacerloo me quemaría en el fuego del infierno."
     }
   },
   {
@@ -3601,7 +3619,7 @@
   },
   {
     "translation": {
-      "en": "Really?",
+      "en": "[man] Really?",
       "es": "¿En serio?"
     }
   },
@@ -3643,14 +3661,14 @@
   },
   {
     "translation": {
-      "en": "- I can kill him in front of you. - Do not open!",
-      "es": "- Lo mataré frente a ti. - ¡No abras!"
+      "en": "-I can kill him in front of you. -Do not open!",
+      "es": "- Lo mataré frente a ti.- ¡No abras!"
     }
   },
   {
     "translation": {
-      "en": "- The choice is yours. - Osbert! Do not open!",
-      "es": "- Es su decisión. - ¡Osbert, no abras!"
+      "en": "-The choice is yours. -[Uhtred] Osbert! Do not open!",
+      "es": "- Es su decisión.- ¡Osbert, no abras!"
     }
   },
   {
@@ -3662,18 +3680,18 @@
   {
     "translation": {
       "en": "And I command that we open.",
-      "es": "- Ordeno que abran. - ¡No!"
+      "es": "- Ordeno que abran.- ¡No!"
     }
   },
   {
     "translation": {
-      "en": "- No! - No, no, no!",
-      "es": "- Ordeno que abran. - ¡No! ¡No!"
+      "en": "-No! -[Sihtric] No, no, no!",
+      "es": "- Ordeno que abran.- ¡No! ¡No!"
     }
   },
   {
     "translation": {
-      "en": "Drop your sword.",
+      "en": "[guard] Drop your sword.",
       "es": "Suelta la espada."
     }
   },
@@ -3703,26 +3721,26 @@
   },
   {
     "translation": {
-      "en": "Come.",
+      "en": "Come. [grunts]",
       "es": "Ven."
     }
   },
   {
     "translation": {
-      "en": "I can walk.",
+      "en": "[Eadgifu] I can walk.",
       "es": "Puedo caminar."
     }
   },
   {
     "translation": {
-      "en": "Go on. Kill me.",
+      "en": "[Eadgifu] Go on. Kill me.",
       "es": "Vamos. Máteme."
     }
   },
   {
     "translation": {
-      "en": "You are to be placed in the community on Lindisfarne to protect your virtue.",
-      "es": "La pondrán en la comunidad de Lindisfarne para proteger su virtud."
+      "en": "[Ingilmundr] You are to be placed in the community on Lindisfarne to protect your virtue.",
+      "es": "La pondrán en la comunidadde Lindisfarne para proteger su virtud."
     }
   },
   {
@@ -3746,7 +3764,7 @@
   {
     "translation": {
       "en": "to have prayed for your excruciating death.",
-      "es": "haber rezado para que tenga una muerte dolorosa."
+      "es": "haber rezado para que tengauna muerte dolorosa."
     }
   },
   {
@@ -3764,31 +3782,31 @@
   {
     "translation": {
       "en": "at Thelwael where he will be trained for battle.",
-      "es": "Llevaremos a su hijo a Thelwael. - Lo van a entrenar. - No, por favor."
+      "es": "Llevaremos a su hijo a Thelwael. - Lo van a entrenar.- No, por favor."
     }
   },
   {
     "translation": {
       "en": "No. No. Please.",
-      "es": "- Lo van a entrenar. - No, por favor."
+      "es": "- Lo van a entrenar.- No, por favor."
     }
   },
   {
     "translation": {
-      "en": "- Move! - Your son also.",
-      "es": "- ¡Anda! - Su hijo también."
+      "en": "-[guard] Move! -Your son also.",
+      "es": "- ¡Anda!- Su hijo también."
     }
   },
   {
     "translation": {
-      "en": "No. Edmund is the blood of Alfred. He should not be fodder for a shield wall! Please!",
-      "es": "No, Edmund es la sangre de Alfred. No pueden usarlo en un muro de escudos."
+      "en": "[Eadgifu] No. Edmund is the blood of Alfred. He should not be fodder for a shield wall! Please!",
+      "es": "No, Edmund es la sangre de Alfred.No pueden usarlo en un muro de escudos."
     }
   },
   {
     "translation": {
-      "en": "- I will take care of him. - Please!",
-      "es": "- Lo cuidaré. - Por favor."
+      "en": "-[Osbert] I will take care of him. -Please!",
+      "es": "- Lo cuidaré.- Por favor."
     }
   },
   {
@@ -3799,7 +3817,7 @@
   },
   {
     "translation": {
-      "en": "Hey! Hey!",
+      "en": "[Finan] Hey! Hey!",
       "es": "¡Oye!"
     }
   },
@@ -3811,26 +3829,26 @@
   },
   {
     "translation": {
-      "en": "- Am I to be drowned in the sea? - I never quite know his mind.",
-      "es": "- ¿Me ahogaré en el mar? - Nunca sé lo que piensa."
+      "en": "-[Uhtred] Am I to be drowned in the sea? -[Ingilmundr] I never quite know his mind.",
+      "es": "- ¿Me ahogaré en el mar?- Nunca sé lo que piensa."
     }
   },
   {
     "translation": {
-      "en": "Do not punish those in Bebbanburg.",
-      "es": "No castiguen a Bebbanburg. Su pelea es conmigo."
+      "en": "[Uhtred] Do not punish those in Bebbanburg.",
+      "es": "No castiguen a Bebbanburg.Su pelea es conmigo."
     }
   },
   {
     "translation": {
-      "en": "- His fight is with me. - His fight is elsewhere.",
-      "es": "No castiguen a Bebbanburg. Su pelea es conmigo. Su pelea es en otro lado."
+      "en": "-His fight is with me. -His fight is elsewhere.",
+      "es": "No castiguen a Bebbanburg.Su pelea es conmigo. Su pelea es en otro lado."
     }
   },
   {
     "translation": {
       "en": "How lucky we have found ourselves so close to the Scottish border.",
-      "es": "Suerte encontrarnos tan cerca de la frontera escocesa."
+      "es": "Suerte encontrarnostan cerca de la frontera escocesa."
     }
   },
   {
@@ -3848,13 +3866,13 @@
   {
     "translation": {
       "en": "The king has no successor to fear for. It makes him strong.",
-      "es": "El rey no teme por su sucesor. Es una fortaleza."
+      "es": "El rey no teme por su sucesor.Es una fortaleza."
     }
   },
   {
     "translation": {
       "en": "Do whatever you must to protect our sons. Do not fight him. Just capitulate.",
-      "es": "Protege a nuestros hijos. No pelee con él. Solo ríndase."
+      "es": "Protege a nuestros hijos.No pelee con él. Solo ríndase."
     }
   },
   {
@@ -3865,8 +3883,8 @@
   },
   {
     "translation": {
-      "en": "- Aldhelm never betrayed you. - All of you betrayed me.",
-      "es": "- Aldhelm no te traicionó. - Todos me traicionaron."
+      "en": "-Aldhelm never betrayed you. -All of you betrayed me.",
+      "es": "- Aldhelm no te traicionó.- Todos me traicionaron."
     }
   },
   {
@@ -3878,13 +3896,13 @@
   {
     "translation": {
       "en": "Swear now, before Bebbanburg, and I will spare your life.",
-      "es": "Júralo ante Bebbanburg y te perdonaré la vida."
+      "es": "Júralo ante Bebbanburgy te perdonaré la vida."
     }
   },
   {
     "translation": {
-      "en": "- No. - Then you leave me with no choice.",
-      "es": "- No. - Entonces, no me dejas alternativa."
+      "en": "-No. -Then you leave me with no choice.",
+      "es": "- No.- Entonces, no me dejas alternativa."
     }
   },
   {
@@ -3895,8 +3913,8 @@
   },
   {
     "translation": {
-      "en": "- Let me offer my-- - No.",
-      "es": "- Le ofrezco mi… - No."
+      "en": "-Let me offer my-- -No.",
+      "es": "- Le ofrezco mi…- No."
     }
   },
   {
@@ -3908,7 +3926,7 @@
   {
     "translation": {
       "en": "I banish you from my lands to travel the earth and seas alone.",
-      "es": "Te destierro de mis tierras para viajar solo."
+      "es": "Te destierro de mis tierraspara viajar solo."
     }
   },
   {
@@ -3920,7 +3938,7 @@
   {
     "translation": {
       "en": "Let none feed or clothe him, lest become my enemy.",
-      "es": "Quien lo alimente o vista se volverá mi enemigo."
+      "es": "Quien lo alimente o vistase volverá mi enemigo."
     }
   },
   {
@@ -3937,7 +3955,7 @@
   },
   {
     "translation": {
-      "en": "Turn back. There is still time.",
+      "en": "[Hywel] Turn back. There is still time.",
       "es": "Regrese. Aún hay tiempo."
     }
   },
@@ -3955,20 +3973,20 @@
   },
   {
     "translation": {
-      "en": "To save us from the pagans can be a just endeavor.",
-      "es": "Salvarnos de los paganos puede ser un esfuerzo justo."
+      "en": "[Hywel] To save us from the pagans can be a just endeavor.",
+      "es": "Salvarnos de los paganospuede ser un esfuerzo justo."
     }
   },
   {
     "translation": {
       "en": "But to turn on other Christians is ungodly.",
-      "es": "Pero volverse contra otros cristianos es impío."
+      "es": "Pero volversecontra otros cristianos es impío."
     }
   },
   {
     "translation": {
-      "en": "Your men do not want this fight.  Well, perhaps I need better men.",
-      "es": "- Sus hombres no quieren luchar. - Tal vez necesito mejores hombres."
+      "en": "[Hywel] Your men do not want this fight. [Aethelstan] Well, perhaps I need better men.",
+      "es": "- Sus hombres no quieren luchar.- Tal vez necesito mejores hombres."
     }
   },
   {
@@ -3998,7 +4016,7 @@
   {
     "translation": {
       "en": "Do I tell Anlaf you are ready to meet with him and the other kings?",
-      "es": "¿Le digo a Anlaf que se reunirá con él y los otros reyes?"
+      "es": "¿Le digo a Anlaf que se reunirácon él y los otros reyes?"
     }
   },
   {
@@ -4010,7 +4028,7 @@
   {
     "translation": {
       "en": "You killed my cousin Gelf at the battle of Beamfleot.",
-      "es": "Mató a mi primo, Gelf, en la batalla de Beamfleot."
+      "es": "Mató a mi primo, Gelf,en la batalla de Beamfleot."
     }
   },
   {
@@ -4033,56 +4051,56 @@
   },
   {
     "translation": {
-      "en": "Where are you taking me?",
+      "en": "[Uhtred] Where are you taking me?",
       "es": "¿A dónde me llevan?"
     }
   },
   {
     "translation": {
-      "en": "To the very north of these islands.",
+      "en": "[woman] To the very north of these islands.",
       "es": "A la punta norte de estas islas."
     }
   },
   {
     "translation": {
-      "en": "- What do you give thanks for? - For the great battle to come.",
+      "en": "-[Uhtred] What do you give thanks for? -For the great battle to come.",
       "es": "¿Por qué dan gracias? Por la gran batalla que se avecina."
     }
   },
   {
     "translation": {
       "en": "Tell the jarl we're here with the King of Northumbria.",
-      "es": "Dile al jarl que el rey de Northumbria vino."
+      "es": "Dile al jarl que el reyde Northumbria vino."
     }
   },
   {
     "translation": {
-      "en": "- All folk of Shetland? - Some of Man and Orkney join us.",
-      "es": "- ¿Todos son de Shetland? - Algunos de Man y Orkney se nos unieron."
+      "en": "-[Uhtred] All folk of Shetland? -[woman] Some of Man and Orkney join us.",
+      "es": "- ¿Todos son de Shetland?- Algunos de Man y Orkney se nos unieron."
     }
   },
   {
     "translation": {
-      "en": "With their kings.",
+      "en": "With their kings. [chuckles]",
       "es": "Con sus reyes."
     }
   },
   {
     "translation": {
-      "en": "Is this who they claim? The King of Northumbria?",
+      "en": "[Anlaf] Is this who they claim? The King of Northumbria?",
       "es": "¿Es el que dicen? ¿El rey de Northumbria?"
     }
   },
   {
     "translation": {
-      "en": "Aye, it's him.",
+      "en": "[Constantin] Aye, it's him.",
       "es": "Sí, es él."
     }
   },
   {
     "translation": {
-      "en": "- I am no king. - No.",
-      "es": "- No soy rey. - No."
+      "en": "-I am no king. -[Anlaf] No.",
+      "es": "- No soy rey.- No."
     }
   },
   {
@@ -4099,7 +4117,7 @@
   },
   {
     "translation": {
-      "en": "You join with pagans?",
+      "en": "[Uhtred] You join with pagans?",
       "es": "¿Te unes a los paganos?"
     }
   },
@@ -4123,14 +4141,14 @@
   },
   {
     "translation": {
-      "en": "- Is it worse than his cruelty in Irland? - Tales to spread fear.",
-      "es": "¿Es peor que su crueldad en Irlanda? - Son cuentos para inspirar miedo. - No podíamos más que defendernos."
+      "en": "-Is it worse than his cruelty in Irland? -Tales to spread fear.",
+      "es": "¿Es peor que su crueldad en Irlanda? - Son cuentos para inspirar miedo.- No podíamos más que defendernos."
     }
   },
   {
     "translation": {
-      "en": "We had no choice but to defend ourselves.",
-      "es": "- Son cuentos para inspirar miedo. - No podíamos más que defendernos."
+      "en": "[Constantin] We had no choice but to defend ourselves.",
+      "es": "- Son cuentos para inspirar miedo.- No podíamos más que defendernos."
     }
   },
   {
@@ -4141,14 +4159,14 @@
   },
   {
     "translation": {
-      "en": "- How did you find me? Who's your spy? - We have many spies. We know many things.",
-      "es": "- ¿Cómo me hallaron? ¿Quién es su espía? - Tenemos muchos. Sabemos mucho."
+      "en": "-How did you find me? Who's your spy? -We have many spies. We know many things.",
+      "es": "- ¿Cómo me hallaron? ¿Quién es su espía?- Tenemos muchos. Sabemos mucho."
     }
   },
   {
     "translation": {
-      "en": "We know Aethelstan has banished you. And we know he gets humped like a woman.",
-      "es": "- Sabemos que Aethelstan te desterró. - Y que lo montan como a una mujer."
+      "en": "[Constantin] We know Aethelstan has banished you. And we know he gets humped like a woman.",
+      "es": "- Sabemos que Aethelstan te desterró.- Y que lo montan como a una mujer."
     }
   },
   {
@@ -4165,20 +4183,20 @@
   },
   {
     "translation": {
-      "en": "- He endures it often, from what I hear. - So…",
-      "es": "- Él lo soporta a menudo. - Entonces…"
+      "en": "-He endures it often, from what I hear. -So…",
+      "es": "- Él lo soporta a menudo.- Entonces…"
     }
   },
   {
     "translation": {
       "en": "As a man who shares our enemy,",
-      "es": "como su enemigo es el mismo que el nuestro,"
+      "es": "como su enemigoes el mismo que el nuestro,"
     }
   },
   {
     "translation": {
       "en": "we ask you to join with us, Uhtred, in our alliance.",
-      "es": "le pedimos que se una a nosotros en nuestra alianza, Uhtred."
+      "es": "le pedimos que se una a nosotrosen nuestra alianza, Uhtred."
     }
   },
   {
@@ -4196,7 +4214,7 @@
   {
     "translation": {
       "en": "What has become of the warrior? Do you no longer yearn for Valhalla?",
-      "es": "¿Qué ha sido del guerrero? ¿Ya no añora el Valhalla?"
+      "es": "¿Qué ha sido del guerrero?¿Ya no añora el Valhalla?"
     }
   },
   {
@@ -4214,7 +4232,7 @@
   {
     "translation": {
       "en": "All of Britain will unite against the Saxons,",
-      "es": "Toda Gran Bretaña se unirá contra los sajones,"
+      "es": "Toda Gran Bretañase unirá contra los sajones,"
     }
   },
   {
@@ -4226,25 +4244,25 @@
   {
     "translation": {
       "en": "return the feals to the line of Arthur.",
-      "es": "y devolverá a los aliados a las filas de Arturo."
+      "es": "y devolverá a los aliadosa las filas de Arturo."
     }
   },
   {
     "translation": {
-      "en": "There. The vision of an old man.",
+      "en": "[Anlaf] There. The vision of an old man.",
       "es": "Esa es la visión de un anciano."
     }
   },
   {
     "translation": {
-      "en": "- So it must be true. - We Northumbrians also have a prophecy.",
-      "es": "- Debe ser cierto. - Northumbria también tiene una profecía."
+      "en": "-So it must be true. -We Northumbrians also have a prophecy.",
+      "es": "- Debe ser cierto.- Northumbria también tiene una profecía."
     }
   },
   {
     "translation": {
-      "en": "Seven kings must die.",
-      "es": "Siete reyes deben morir."
+      "en": "\"Seven kings must die.\"",
+      "es": "\"Siete reyes deben morir\"."
     }
   },
   {
@@ -4261,20 +4279,20 @@
   },
   {
     "translation": {
-      "en": "Seven kings die, seven will, in that moment, be made.",
-      "es": "Si mueren siete reyes, se harán otros siete en ese momento."
+      "en": "[Owain] Seven kings die, seven will, in that moment, be made.",
+      "es": "Si mueren siete reyes,se harán otros siete en ese momento."
     }
   },
   {
     "translation": {
-      "en": "It's true.",
+      "en": "[Anlaf] It's true.",
       "es": "Es verdad."
     }
   },
   {
     "translation": {
       "en": "If you make a child, your kingdom stands beyond you.",
-      "es": "Si tienes un hijo, tu reino vivirá más que tú."
+      "es": "Si tienes un hijo,tu reino vivirá más que tú."
     }
   },
   {
@@ -4285,7 +4303,7 @@
   },
   {
     "translation": {
-      "en": "Then there is another way to consider.",
+      "en": "[Constantin] Then there is another way to consider.",
       "es": "Pero hay otra forma de verlo."
     }
   },
@@ -4327,7 +4345,7 @@
   },
   {
     "translation": {
-      "en": "The alternative, of course, is war.",
+      "en": "[Anlaf] The alternative, of course, is war.",
       "es": "La alternativa es la guerra."
     }
   },
@@ -4340,7 +4358,7 @@
   {
     "translation": {
       "en": "If Aethelstan wanted to unite the tribes of Britain,",
-      "es": "Si Aethelstan quería unir a las tribus de Gran Bretaña,"
+      "es": "Si Aethelstan quería unira las tribus de Gran Bretaña,"
     }
   },
   {
@@ -4351,7 +4369,7 @@
   },
   {
     "translation": {
-      "en": "Why do you seek us here?",
+      "en": "[Anlaf] Why do you seek us here?",
       "es": "¿Por qué nos buscas aquí?"
     }
   },
@@ -4381,7 +4399,7 @@
   },
   {
     "translation": {
-      "en": "- Well, he will be killed in the attempt. -",
+      "en": "-Well, he will be killed in the attempt. -[woman chuckles]",
       "es": "Lo matarán en el intento."
     }
   },
@@ -4394,7 +4412,7 @@
   {
     "translation": {
       "en": "He attacks Aethelstan. Aethelstan attacks him.",
-      "es": "Ataca a Aethelstan. Aethelstan lo ataca a él."
+      "es": "Ataca a Aethelstan.Aethelstan lo ataca a él."
     }
   },
   {
@@ -4406,13 +4424,13 @@
   {
     "translation": {
       "en": "Either way, we face in battle men whose spirits have been broken.",
-      "es": "Como sea, enfrentaremos a hombres con la moral baja."
+      "es": "Como sea, enfrentaremosa hombres con la moral baja."
     }
   },
   {
     "translation": {
       "en": "Ingilmundr, go to the West. The time is near.",
-      "es": "Ingilmundr, ve al oeste. Se acerca el momento."
+      "es": "Ingilmundr, ve al oeste.Se acerca el momento."
     }
   },
   {
@@ -4423,7 +4441,7 @@
   },
   {
     "translation": {
-      "en": "I did not think I would see you again.",
+      "en": "[Aethelstan] I did not think I would see you again.",
       "es": "Pensé que no volvería a verte."
     }
   },
@@ -4501,26 +4519,26 @@
   },
   {
     "translation": {
-      "en": "- Lies. - It is true. I saw him in Shetland.",
-      "es": "- Mentiras. - No, lo vi en Shetland."
+      "en": "-Lies. -It is true. I saw him in Shetland.",
+      "es": "- Mentiras.- No, lo vi en Shetland."
     }
   },
   {
     "translation": {
       "en": "He told Anlaf's warriors to track me. They tried to turn me--",
-      "es": "Pidió que me rastrearan y trató de reclutarme…"
+      "es": "Pidió que me rastrearany trató de reclutarme…"
     }
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "No! [grunts]",
       "es": "¡No!"
     }
   },
   {
     "translation": {
-      "en": "- He is in Thelwael with your son! - He told them things of you.",
-      "es": "- ¡Está en Thelwael con tu hijo! - Les dijo cosas sobre ti."
+      "en": "-He is in Thelwael with your son! -He told them things of you.",
+      "es": "- ¡Está en Thelwael con tu hijo!- Les dijo cosas sobre ti."
     }
   },
   {
@@ -4543,38 +4561,38 @@
   },
   {
     "translation": {
-      "en": "No, he would not betray me. If anything, I have betrayed him.",
-      "es": "No me traicionaría. En todo caso, yo lo traicioné a él."
+      "en": "[Aethelstan] No, he would not betray me. If anything, I have betrayed him.",
+      "es": "No me traicionaría.En todo caso, yo lo traicioné a él."
     }
   },
   {
     "translation": {
-      "en": "- No. - He is a man of God, and I am a sinner!",
-      "es": "- No. - ¡Es un creyente y yo soy un pecador!"
+      "en": "-No. -He is a man of God, and I am a sinner!",
+      "es": "- No.- ¡Es un creyente y yo soy un pecador!"
     }
   },
   {
     "translation": {
       "en": "He has convinced you of this to provoke your campaign.",
-      "es": "Te convenció de eso para provocar tu campaña."
+      "es": "Te convenció de esopara provocar tu campaña."
     }
   },
   {
     "translation": {
-      "en": "- To unite your enemies. - No!",
-      "es": "- Unir a tus enemigos. - ¡No!"
+      "en": "-To unite your enemies. -No!",
+      "es": "- Unir a tus enemigos.- ¡No!"
     }
   },
   {
     "translation": {
       "en": "Aethelstan, please see this. This alliance he has gathered is too large.",
-      "es": "Aethelstan, por favor. Su alianza es demasiado grande."
+      "es": "Aethelstan, por favor.Su alianza es demasiado grande."
     }
   },
   {
     "translation": {
-      "en": "- Your lands will be overrun. - No! You lie!",
-      "es": "- Invadirán tus tierras. - ¡No! ¡Mientes!"
+      "en": "-Your lands will be overrun. -No! You lie!",
+      "es": "- Invadirán tus tierras.- ¡No! ¡Mientes!"
     }
   },
   {
@@ -4597,8 +4615,8 @@
   },
   {
     "translation": {
-      "en": "- Get out. - Aethelstan--",
-      "es": "- Vete. - Aethelstan…"
+      "en": "-Get out. -Aethelstan--",
+      "es": "- Vete.- Aethelstan…"
     }
   },
   {
@@ -4609,25 +4627,25 @@
   },
   {
     "translation": {
-      "en": "- - Take him!",
+      "en": "-[door opens] -Take him!",
       "es": "¡Llévenselo!"
     }
   },
   {
     "translation": {
-      "en": "You dog! On your way.",
+      "en": "[guard] You dog! On your way.",
       "es": "¡Perro! Lárgate."
     }
   },
   {
     "translation": {
-      "en": "We search every forest, every valley.",
+      "en": "[Sihtric] We search every forest, every valley.",
       "es": "Buscamos en bosques y valles."
     }
   },
   {
     "translation": {
-      "en": "And here he is, back in the lap of luxury.",
+      "en": "[Finan] And here he is, back in the lap of luxury.",
       "es": "Y aquí está, dándose la buena vida."
     }
   },
@@ -4645,20 +4663,20 @@
   },
   {
     "translation": {
-      "en": "Let's find ourselves an alehouse, make a plan.",
-      "es": "Busquemos una taberna y pensemos en un plan."
+      "en": "[Finan] Let's find ourselves an alehouse, make a plan.",
+      "es": "Busquemos una tabernay pensemos en un plan."
     }
   },
   {
     "translation": {
-      "en": "- Who told you I was here? - She said you called for us.",
-      "es": "- ¿Quién les dijo? - Dijo que nos llamó."
+      "en": "-Who told you I was here? -[Sihtric] She said you called for us.",
+      "es": "- ¿Quién les dijo?- Dijo que nos llamó."
     }
   },
   {
     "translation": {
-      "en": "- Did you not send for us, Lord? - She said you needed us. And requested a guard.",
-      "es": "- ¿No nos llamó? - Dijo que pidió una guardia."
+      "en": "-Did you not send for us, Lord? -She said you needed us. And requested a guard.",
+      "es": "- ¿No nos llamó?- Dijo que pidió una guardia."
     }
   },
   {
@@ -4681,38 +4699,38 @@
   },
   {
     "translation": {
-      "en": "- Stay here and guard the gates. - Yes, Lord.",
-      "es": "- Quédate y vigila las puertas. - Sí, señor."
+      "en": "-[Sihtric] Stay here and guard the gates. -[man] Yes, Lord.",
+      "es": "- Quédate y vigila las puertas.- Sí, señor."
     }
   },
   {
     "translation": {
-      "en": "Wolf- Warriors.",
+      "en": "[Uhtred] Wolf-Warriors.",
       "es": "Guerreros Lobos."
     }
   },
   {
     "translation": {
-      "en": "This is Anlaf's doing.",
+      "en": "[Uhtred] This is Anlaf's doing.",
       "es": "Esto es obra de Anlaf."
     }
   },
   {
     "translation": {
-      "en": "Ingrith!",
+      "en": "[Finan] Ingrith!",
       "es": "¡Ingrith!"
     }
   },
   {
     "translation": {
-      "en": "Lord, where are they all?",
+      "en": "[Sihtric] Lord, where are they all?",
       "es": "Señor, ¿dónde están todos?"
     }
   },
   {
     "translation": {
-      "en": "- Eadgifu? - Uhtred.",
-      "es": "- Eadgifu. - Uhtred."
+      "en": "-[Uhtred] Eadgifu? -Uhtred.",
+      "es": "- Eadgifu.- Uhtred."
     }
   },
   {
@@ -4723,14 +4741,14 @@
   },
   {
     "translation": {
-      "en": "When news reached us of the attack and torture here,",
+      "en": "[Eadgifu] When news reached us of the attack and torture here,",
       "es": "Cuando supimos del ataque y la tortura,"
     }
   },
   {
     "translation": {
       "en": "the abbess sent us to help the injured.",
-      "es": "la abadesa nos envió a ayudar a los heridos."
+      "es": "la abadesa nos envióa ayudar a los heridos."
     }
   },
   {
@@ -4747,20 +4765,20 @@
   },
   {
     "translation": {
-      "en": "Seven kings must die, Lord.",
-      "es": "Siete reyes deben morir, milord."
+      "en": "\"Seven kings must die,\" Lord.",
+      "es": "\"Siete reyes deben morir\", milord."
     }
   },
   {
     "translation": {
-      "en": "Seven kings",
-      "es": "Siete reyes"
+      "en": "\"Seven kings",
+      "es": "\"Siete reyes"
     }
   },
   {
     "translation": {
-      "en": "and the woman you love.",
-      "es": "y la mujer que amas."
+      "en": "and the woman you love.\"",
+      "es": "y la mujer que amas\"."
     }
   },
   {
@@ -4771,8 +4789,8 @@
   },
   {
     "translation": {
-      "en": "- No. Ingrith! - Every man is to help move it.",
-      "es": "- ¡Ingrith! - Ayuden a moverla."
+      "en": "-No. Ingrith! -Every man is to help move it.",
+      "es": "- ¡Ingrith!- Ayuden a moverla."
     }
   },
   {
@@ -4783,8 +4801,8 @@
   },
   {
     "translation": {
-      "en": "- Can anyone hear me? - Watch for signs of Anlaf's men.",
-      "es": "- ¿Alguien me oye? - ¡Busca a los hombres de Anlaf!"
+      "en": "-[Finan] Can anyone hear me? -[Uhtred] Watch for signs of Anlaf's men.",
+      "es": "- ¿Alguien me oye?- ¡Busca a los hombres de Anlaf!"
     }
   },
   {
@@ -4796,13 +4814,13 @@
   {
     "translation": {
       "en": "Uhtred, Ingrith said they threatened to return.",
-      "es": "Uhtred, Ingrith me dijo que amenazaron con regresar."
+      "es": "Uhtred, Ingrith me dijoque amenazaron con regresar."
     }
   },
   {
     "translation": {
-      "en": "- We must secure ourselves. - Not until we rescue those within.",
-      "es": "- Debemos protegernos. - No hasta rescatarlos."
+      "en": "-We must secure ourselves. -Not until we rescue those within.",
+      "es": "- Debemos protegernos.- No hasta rescatarlos."
     }
   },
   {
@@ -4819,25 +4837,25 @@
   },
   {
     "translation": {
-      "en": "- Get the rope up there! -",
+      "en": "-[Finan] Get the rope up there! -[man grunts]",
       "es": "¡Lánzame la cuerda!"
     }
   },
   {
     "translation": {
-      "en": "Come on!",
+      "en": "[Finan] Come on!",
       "es": "¡Vamos!"
     }
   },
   {
     "translation": {
-      "en": "Pull!",
+      "en": "[Finan] Pull!",
       "es": "¡Jalen!"
     }
   },
   {
     "translation": {
-      "en": "Pull!",
+      "en": "[Finan] Pull!",
       "es": "¡Jalen!"
     }
   },
@@ -4861,13 +4879,13 @@
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "[in anguish] No!",
       "es": "¡No!"
     }
   },
   {
     "translation": {
-      "en": "I brought this on them.",
+      "en": "[Uhtred] I brought this on them.",
       "es": "Yo les ocasioné esto."
     }
   },
@@ -4898,7 +4916,7 @@
   {
     "translation": {
       "en": "Then we must find the courage to defend Northumbria from their return.",
-      "es": "Encontremos el valor para defender a Northumbria."
+      "es": "Encontremos el valorpara defender a Northumbria."
     }
   },
   {
@@ -4916,12 +4934,12 @@
   {
     "translation": {
       "en": "Whatever we suffer protects those we are apart from.",
-      "es": "Nuestro sufrimiento protegerá a los que queremos."
+      "es": "Nuestro sufrimientoprotegerá a los que queremos."
     }
   },
   {
     "translation": {
-      "en": "She's right, Lord.",
+      "en": "[Sihtric] She's right, Lord.",
       "es": "Cierto, señor."
     }
   },
@@ -4940,7 +4958,7 @@
   {
     "translation": {
       "en": "We must find the fastest horses. I think Anlaf is hoping to turn all eyes here.",
-      "es": "Vamos en los caballos más rápidos. Creo que Anlaf quiere llamar la atención."
+      "es": "Vamos en los caballos más rápidos.Creo que Anlaf quiere llamar la atención."
     }
   },
   {
@@ -4952,7 +4970,7 @@
   {
     "translation": {
       "en": "But they will land where they have men. Ingilmundr holds a garrison in the Wirral.",
-      "es": "Pero atracarán donde tienen hombres. Ingilmundr tiene una guarnición en Wirral."
+      "es": "Pero atracarán donde tienen hombres.Ingilmundr tiene una guarnición en Wirral."
     }
   },
   {
@@ -4963,20 +4981,20 @@
   },
   {
     "translation": {
-      "en": "Something's underway.",
+      "en": "[Osbert] Something's underway.",
       "es": "Algo está en marcha."
     }
   },
   {
     "translation": {
-      "en": "- - Get in the cart.",
+      "en": "-[men shouting] -[Osbert] Get in the cart.",
       "es": "Sube a la carreta."
     }
   },
   {
     "translation": {
       "en": "Those of you with swords to your throats face a decision.",
-      "es": "Aquellos con espadas en la garganta se enfrentan a una decisión."
+      "es": "Aquellos con espadas en la gargantase enfrentan a una decisión."
     }
   },
   {
@@ -4994,13 +5012,13 @@
   {
     "translation": {
       "en": "Within a week, Saxon boroughs will be overrun.",
-      "es": "En una semana, invadirán los distritos sajones."
+      "es": "En una semana,invadirán los distritos sajones."
     }
   },
   {
     "translation": {
       "en": "Join us and fight the tyrant Aethelstan,",
-      "es": "Únanse y luchemos contra el tirano Aethelstan"
+      "es": "Únanse y luchemoscontra el tirano Aethelstan"
     }
   },
   {
@@ -5017,7 +5035,7 @@
   },
   {
     "translation": {
-      "en": "- Keep still. - This way!",
+      "en": "-[Osbert] Keep still. -[man] This way!",
       "es": "No te muevas."
     }
   },
@@ -5029,19 +5047,19 @@
   },
   {
     "translation": {
-      "en": "- There. Far away. - Thank you.",
-      "es": "- Hacia allá. Muy lejos. - Gracias."
+      "en": "-There. Far away. -Thank you.",
+      "es": "- Hacia allá. Muy lejos.- Gracias."
     }
   },
   {
     "translation": {
-      "en": "Yes, my lord.",
+      "en": "[woman] Yes, my lord.",
       "es": "Sí, milord."
     }
   },
   {
     "translation": {
-      "en": "No word from Thelwael, Lord.",
+      "en": "[Sihtric] No word from Thelwael, Lord.",
       "es": "No hay noticias de Thelwael."
     }
   },
@@ -5060,25 +5078,25 @@
   {
     "translation": {
       "en": "All the warrior kings that I've known, Ubba, Cnut, Bloodhair,",
-      "es": "Todos los reyes guerreros que he conocido: Ubba, Canuto, Bloodhair…"
+      "es": "Todos los reyes guerreros que he conocido:Ubba, Canuto, Bloodhair…"
     }
   },
   {
     "translation": {
       "en": "all have faced defeat in the end and have taken others with them.",
-      "es": "han enfrentado la derrota y han arrastrado a otros."
+      "es": "han enfrentado la derrotay han arrastrado a otros."
     }
   },
   {
     "translation": {
       "en": "The fight was always coming, Lord. No warrior dies a peaceful death.",
-      "es": "La lucha era inevitable, señor. Ningún guerrero muere en paz."
+      "es": "La lucha era inevitable, señor.Ningún guerrero muere en paz."
     }
   },
   {
     "translation": {
-      "en": "She saw it all. Seven kings must die.",
-      "es": "Ella lo vio todo: Siete reyes deben morir."
+      "en": "She saw it all. \"Seven kings must die.\"",
+      "es": "Ella lo vio todo:\"Siete reyes deben morir\"."
     }
   },
   {
@@ -5095,7 +5113,7 @@
   },
   {
     "translation": {
-      "en": "Have those fleeing heard anything of my son?",
+      "en": "[Eadgifu] Have those fleeing heard anything of my son?",
       "es": "¿Los que huyen saben algo de mi hijo?"
     }
   },
@@ -5108,25 +5126,25 @@
   {
     "translation": {
       "en": "And if conquest is easy, perhaps Anlaf may be satisfied with Mercia.",
-      "es": "Y si la conquista es fácil, Mercia podría ser suficiente para Anlaf."
+      "es": "Y si la conquista es fácil,Mercia podría ser suficiente para Anlaf."
     }
   },
   {
     "translation": {
-      "en": "- It is fertile-- - He will not be satisfied.",
-      "es": "- Es fértil… - No será suficiente."
+      "en": "-It is fertile-- -[Uhtred] He will not be satisfied.",
+      "es": "- Es fértil…- No será suficiente."
     }
   },
   {
     "translation": {
       "en": "They come Viking now to extinguish an idea of England.",
-      "es": "Invadirán para extinguir la idea de Inglaterra."
+      "es": "Invadirán para extinguirla idea de Inglaterra."
     }
   },
   {
     "translation": {
       "en": "A dream unites a people who once sought to kill each other.",
-      "es": "Solo un sueño une a un pueblo que solía aniquilarse."
+      "es": "Solo un sueño une a un puebloque solía aniquilarse."
     }
   },
   {
@@ -5161,7 +5179,7 @@
   },
   {
     "translation": {
-      "en": "You are alive.",
+      "en": "[Uhtred] You are alive.",
       "es": "Está viva."
     }
   },
@@ -5179,7 +5197,7 @@
   },
   {
     "translation": {
-      "en": "Edmund?",
+      "en": "[Uhtred] Edmund?",
       "es": "¿Edmund?"
     }
   },
@@ -5191,7 +5209,7 @@
   },
   {
     "translation": {
-      "en": "Edmund?",
+      "en": "[Eadgifu] Edmund?",
       "es": "¿Edmund?"
     }
   },
@@ -5215,7 +5233,7 @@
   },
   {
     "translation": {
-      "en": "We came to search for our sons.",
+      "en": "[Uhtred] We came to search for our sons.",
       "es": "Vinimos a buscar a nuestros hijos."
     }
   },
@@ -5227,25 +5245,25 @@
   },
   {
     "translation": {
-      "en": "Osbert!",
+      "en": "[Uhtred] Osbert!",
       "es": "¡Osbert!"
     }
   },
   {
     "translation": {
-      "en": "They hid themselves and were spared the massacre.",
-      "es": "Se escondieron y se salvaron de la masacre."
+      "en": "[Aethelstan] They hid themselves and were spared the massacre.",
+      "es": "Se escondierony se salvaron de la masacre."
     }
   },
   {
     "translation": {
-      "en": "Lord King, you have my endless gratitude.",
+      "en": "[Eadgifu] Lord King, you have my endless gratitude.",
       "es": "Señor mío, tiene mi infinita gratitud."
     }
   },
   {
     "translation": {
-      "en": "I've not been myself this past year, and truly, truly, I…",
+      "en": "[Aethelstan] I've not been myself this past year, and truly, truly, I…",
       "es": "No he sido yo mismo últimamente y…"
     }
   },
@@ -5258,7 +5276,7 @@
   {
     "translation": {
       "en": "I face a great alliance at Brunanburh.",
-      "es": "Me enfrento a una gran alianza en Brunanburh."
+      "es": "Me enfrento a una gran alianzaen Brunanburh."
     }
   },
   {
@@ -5275,8 +5293,8 @@
   },
   {
     "translation": {
-      "en": "- Osbert, what have you learnt? - They've set up camp on high ground.",
-      "es": "- Osbert, ¿qué descubriste? - Acamparon en terreno elevado."
+      "en": "-Osbert, what have you learnt? -They've set up camp on high ground.",
+      "es": "- Osbert, ¿qué descubriste?- Acamparon en terreno elevado."
     }
   },
   {
@@ -5299,8 +5317,8 @@
   },
   {
     "translation": {
-      "en": "- Trust I'm on your side-- - I know that.",
-      "es": "- Estoy de tu lado… - Lo sé."
+      "en": "-[Uhtred] Trust I'm on your side-- -I know that.",
+      "es": "- Estoy de tu lado…- Lo sé."
     }
   },
   {
@@ -5318,13 +5336,13 @@
   {
     "translation": {
       "en": "If I do not survive the battle, then succession will be secure.",
-      "es": "Si no sobrevivo a la batalla, la sucesión estará a salvo."
+      "es": "Si no sobrevivo a la batalla,la sucesión estará a salvo."
     }
   },
   {
     "translation": {
-      "en": "You cannot fight this alliance alone.  Yet I forbid you from taking part.",
-      "es": "- No puedes luchar solo. - Pero te prohíbo participar."
+      "en": "You cannot fight this alliance alone. [Aethelstan] Yet I forbid you from taking part.",
+      "es": "- No puedes luchar solo.- Pero te prohíbo participar."
     }
   },
   {
@@ -5335,8 +5353,8 @@
   },
   {
     "translation": {
-      "en": "- I've dragged you all to this fate. - Let us serve you.",
-      "es": "- Los arrastré a este destino. - Déjanos servirte."
+      "en": "-I've dragged you all to this fate. -[Uhtred] Let us serve you.",
+      "es": "- Los arrastré a este destino.- Déjanos servirte."
     }
   },
   {
@@ -5353,7 +5371,7 @@
   },
   {
     "translation": {
-      "en": "This is martyrdom.",
+      "en": "[Uhtred] This is martyrdom.",
       "es": "Es un sacrificio."
     }
   },
@@ -5371,14 +5389,14 @@
   },
   {
     "translation": {
-      "en": "- God is telling us to get to safety. - Your god does not speak to me.",
-      "es": "- Dios dice que nos pongamos a salvo. - Su dios no me habla."
+      "en": "-God is telling us to get to safety. -Your god does not speak to me.",
+      "es": "- Dios dice que nos pongamos a salvo.- Su dios no me habla."
     }
   },
   {
     "translation": {
       "en": "It is not cowardly to spurn a battle that cannot be won.",
-      "es": "No es cobarde huir de una batalla imposible."
+      "es": "No es cobardehuir de una batalla imposible."
     }
   },
   {
@@ -5390,7 +5408,7 @@
   {
     "translation": {
       "en": "However this prevails, I will have to know I walked away from danger.",
-      "es": "Pase lo que pase, sabré que hui del peligro."
+      "es": "Pase lo que pase,sabré que hui del peligro."
     }
   },
   {
@@ -5413,38 +5431,38 @@
   },
   {
     "translation": {
-      "en": "- We will fight with the shield wall. - No.",
-      "es": "Muro de escudos. - No. - Osbert."
+      "en": "-We will fight with the shield wall. -No.",
+      "es": "Muro de escudos. - No.- Osbert."
     }
   },
   {
     "translation": {
-      "en": "- Osbert, are you ready? - I've always been ready.",
-      "es": "- ¿Listo? - Siempre."
+      "en": "-Osbert, are you ready? -I've always been ready.",
+      "es": "- ¿Listo?- Siempre."
     }
   },
   {
     "translation": {
       "en": "Pyrlig, you once told me that it was my destiny to save England.",
-      "es": "Pyrlig, una vez me dijiste que mi destino era salvar Inglaterra."
+      "es": "Pyrlig, una vez me dijisteque mi destino era salvar Inglaterra."
     }
   },
   {
     "translation": {
       "en": "Hadn't seen it quite like this, but then I'm not one for prophecies.",
-      "es": "No lo había visto así, pero no me gustan las profecías."
+      "es": "No lo había visto así,pero no me gustan las profecías."
     }
   },
   {
     "translation": {
-      "en": "What if your destiny is to protect Edmund?",
+      "en": "[Eadgifu] What if your destiny is to protect Edmund?",
       "es": "¿Y si su destino es proteger a Edmund?"
     }
   },
   {
     "translation": {
       "en": "Perhaps he is the one to unite England. He could be the king who was worthy.",
-      "es": "Quizá él unirá a Inglaterra. Podría ser digno de ser rey."
+      "es": "Quizá él unirá a Inglaterra.Podría ser digno de ser rey."
     }
   },
   {
@@ -5462,7 +5480,7 @@
   {
     "translation": {
       "en": "Not Edmund or Edward or Alfred. Not even Aethelstan.",
-      "es": "Ni Edmund, ni Eduardo, ni Alfred. Ni siquiera Aethelstan."
+      "es": "Ni Edmund, ni Eduardo, ni Alfred.Ni siquiera Aethelstan."
     }
   },
   {
@@ -5492,12 +5510,12 @@
   {
     "translation": {
       "en": "Who better than a half Saxon, half Dane to lead men from divided places?",
-      "es": "¿Quién mejor que un medio sajón y medio danés para unir un ejército así?"
+      "es": "¿Quién mejor que un medio sajóny medio danés para unir un ejército así?"
     }
   },
   {
     "translation": {
-      "en": "We go!",
+      "en": "[Uhtred] We go!",
       "es": "¡Vamos!"
     }
   },
@@ -5509,8 +5527,8 @@
   },
   {
     "translation": {
-      "en": "- -",
-      "es": "BROMBOROUGH EL WIRRAL"
+      "en": "-[grunting] -[yelling]",
+      "es": "BROMBOROUGHEL WIRRAL"
     }
   },
   {
@@ -5521,14 +5539,14 @@
   },
   {
     "translation": {
-      "en": "We should make our way. If this is to work, we need to be on the front line.",
-      "es": "Hay que avanzar. Para que funcione, debemos estar en primera fila."
+      "en": "[Uhtred] We should make our way. If this is to work, we need to be on the front line.",
+      "es": "Hay que avanzar. Para que funcione,debemos estar en primera fila."
     }
   },
   {
     "translation": {
-      "en": "- We'll aim for their left side. - Why?",
-      "es": "- Apunta a su lado izquierdo. - ¿Por qué?"
+      "en": "-We'll aim for their left side. -Why?",
+      "es": "- Apunta a su lado izquierdo.- ¿Por qué?"
     }
   },
   {
@@ -5540,13 +5558,13 @@
   {
     "translation": {
       "en": "Weaker. Most men fight with the sword in their right hand.",
-      "es": "Es más débil. La mayoría empuña con la derecha."
+      "es": "Es más débil.La mayoría empuña con la derecha."
     }
   },
   {
     "translation": {
       "en": "I've fought with Uhtred many times. Trust he will find a way.",
-      "es": "He peleado con Uhtred muchas veces. Lo resolverá."
+      "es": "He peleado con Uhtred muchas veces.Lo resolverá."
     }
   },
   {
@@ -5588,19 +5606,19 @@
   {
     "translation": {
       "en": "When I say exchange, I mean you take that one, and I keep this one.",
-      "es": "Me refiero a que tomes esa y yo me quedaré con esta."
+      "es": "Me refiero a que tomes esay yo me quedaré con esta."
     }
   },
   {
     "translation": {
-      "en": "I am no commander of yours.",
+      "en": "[Uhtred] I am no commander of yours.",
       "es": "No soy su comandante."
     }
   },
   {
     "translation": {
       "en": "I have no authority other than being a man who has fought in many battles.",
-      "es": "No tengo más autoridad que mi experiencia en muchas batallas."
+      "es": "No tengo más autoridadque mi experiencia en muchas batallas."
     }
   },
   {
@@ -5618,7 +5636,7 @@
   {
     "translation": {
       "en": "But I ask that, on the field, you once again let me guide you.",
-      "es": "Pero les pido que me dejen guiarlos otra vez."
+      "es": "Pero les pidoque me dejen guiarlos otra vez."
     }
   },
   {
@@ -5630,7 +5648,7 @@
   {
     "translation": {
       "en": "but the trees to our left give us an advantage the enemy will not see.",
-      "es": "pero los árboles a la izquierda nos dan una ventaja inesperada."
+      "es": "pero los árboles a la izquierdanos dan una ventaja inesperada."
     }
   },
   {
@@ -5647,20 +5665,20 @@
   },
   {
     "translation": {
-      "en": "- This is one way to clear the ale. - Smell of a thousand armpits.",
-      "es": "- Qué buen remedio para la resaca. - Huele a mil axilas."
+      "en": "-This is one way to clear the ale. -Smell of a thousand armpits.",
+      "es": "- Qué buen remedio para la resaca.- Huele a mil axilas."
     }
   },
   {
     "translation": {
-      "en": "Aye. Maybe they smelled us and ran away.",
+      "en": "[Finan] Aye. Maybe they smelled us and ran away.",
       "es": "Sí, tal vez nos olieron y huyeron."
     }
   },
   {
     "translation": {
-      "en": "- Maybe. - Who touched my arse?",
-      "es": "- Quizá. - ¿Quién me tocó el culo?"
+      "en": "-[Sihtric] Maybe. -[Finan] Who touched my arse?",
+      "es": "- Quizá.- ¿Quién me tocó el culo?"
     }
   },
   {
@@ -5671,7 +5689,7 @@
   },
   {
     "translation": {
-      "en": "Jesus!",
+      "en": "[soldier] Jesus!",
       "es": "¡Por Dios!"
     }
   },
@@ -5683,14 +5701,14 @@
   },
   {
     "translation": {
-      "en": "Uhtred?",
+      "en": "[Edmund] Uhtred?",
       "es": "¿Uhtred?"
     }
   },
   {
     "translation": {
-      "en": "- How do we face this? - You see these bags?",
-      "es": "- ¿Qué haremos? - Esas bolsas."
+      "en": "-How do we face this? -You see these bags?",
+      "es": "- ¿Qué haremos?- Esas bolsas."
     }
   },
   {
@@ -5701,7 +5719,7 @@
   },
   {
     "translation": {
-      "en": "Do not raise your shield until you have to.",
+      "en": "[Uhtred] Do not raise your shield until you have to.",
       "es": "No levanten hasta sea necesario."
     }
   },
@@ -5713,38 +5731,38 @@
   },
   {
     "translation": {
-      "en": "- And do not show them we are unsettled. - Lord!",
-      "es": "- Y no les demuestren miedo. - ¡Señor! Ya llegó."
+      "en": "-And do not show them we are unsettled. -[Finan] Lord!",
+      "es": "- Y no les demuestren miedo.- ¡Señor! Ya llegó."
     }
   },
   {
     "translation": {
-      "en": "Here he comes. The tyrant himself.",
+      "en": "[Anlaf] Here he comes. The tyrant himself.",
       "es": "Aquí viene el tirano en persona."
     }
   },
   {
     "translation": {
-      "en": "Is it done?",
+      "en": "[Uhtred] Is it done?",
       "es": "¿Listo?"
     }
   },
   {
     "translation": {
-      "en": "- Get back as far as you can. - Yeah.",
-      "es": "- Ve lo más lejos posible. - Sí."
+      "en": "-Get back as far as you can. -Yeah.",
+      "es": "- Ve lo más lejos posible.- Sí."
     }
   },
   {
     "translation": {
-      "en": "Shield wall!",
+      "en": "[commander] Shield wall!",
       "es": "¡Muro de escudos!"
     }
   },
   {
     "translation": {
-      "en": "- Are we ready, arselings? - Yeah!",
-      "es": "- ¿Estamos listos, retrasados? - ¡Sí!"
+      "en": "-Are we ready, arselings? -[soldiers] Yeah!",
+      "es": "- ¿Estamos listos, retrasados?- ¡Sí!"
     }
   },
   {
@@ -5768,7 +5786,7 @@
   {
     "translation": {
       "en": "When you see the trees in front of you, it will be time.",
-      "es": "Cuando vean los árboles enfrente, será el momento."
+      "es": "Cuando vean los árboles enfrente,será el momento."
     }
   },
   {
@@ -5839,8 +5857,8 @@
   },
   {
     "translation": {
-      "en": "- Step back! - They know they have lost already.",
-      "es": "- ¡Atrás! - Saben que ya perdieron."
+      "en": "-Step back! -[Anlaf] They know they have lost already.",
+      "es": "- ¡Atrás!- Saben que ya perdieron."
     }
   },
   {
@@ -5851,37 +5869,37 @@
   },
   {
     "translation": {
-      "en": "- Forward! -",
+      "en": "-[commander] Forward! -[soldiers grunt]",
       "es": "¡Adelante!"
     }
   },
   {
     "translation": {
       "en": "I thank God, who I serve with pure conscience.",
-      "es": "Agradezco a Dios, a quien sirvo con conciencia pura."
+      "es": "Agradezco a Dios,a quien sirvo con conciencia pura."
     }
   },
   {
     "translation": {
       "en": "God hath not given us a spirit of fear, but of power…",
-      "es": "Dios no nos dio un espíritu de miedo, sino de poder,"
+      "es": "Dios no nos dio un espíritude miedo, sino de poder,"
     }
   },
   {
     "translation": {
-      "en": "- - …and of sound mind!",
+      "en": "-[soldiers grunt] -…and of sound mind!",
       "es": "de amor y de mente sana."
     }
   },
   {
     "translation": {
-      "en": "Amen.",
+      "en": "[Finan] Amen.",
       "es": "Amén."
     }
   },
   {
     "translation": {
-      "en": "Step back!",
+      "en": "[Uhtred] Step back!",
       "es": "¡Atrás!"
     }
   },
@@ -5893,7 +5911,7 @@
   },
   {
     "translation": {
-      "en": "Re- form! Charge!",
+      "en": "[commander] Re-form! Charge!",
       "es": "¡Refórmense! ¡A la carga!"
     }
   },
@@ -5905,13 +5923,13 @@
   },
   {
     "translation": {
-      "en": "Pyrlig!",
+      "en": "[Uhtred] Pyrlig!",
       "es": "¡Pyrlig!"
     }
   },
   {
     "translation": {
-      "en": "No!",
+      "en": "No! [echoes]",
       "es": "¡No!"
     }
   },
@@ -5923,13 +5941,13 @@
   },
   {
     "translation": {
-      "en": "- Two paces! One pace! - Mm- hmm.",
+      "en": "-Two paces! One pace! -Mm-hmm.",
       "es": "¡Dos pasos! ¡Un paso! ¡A mi orden!"
     }
   },
   {
     "translation": {
-      "en": "- On my command! - Let's hope this works!",
+      "en": "-On my command! -[Finan] Let's hope this works!",
       "es": "¡Dos pasos! ¡Un paso! ¡A mi orden! ¡Esperemos que funcione!"
     }
   },
@@ -5959,14 +5977,14 @@
   },
   {
     "translation": {
-      "en": "They back off. We have them.",
+      "en": "[Anlaf] They back off. We have them.",
       "es": "Retroceden. Los tenemos."
     }
   },
   {
     "translation": {
-      "en": "- Find the king! - Find the king!",
-      "es": "- ¡Encuentren al rey! - ¡Encuentren al rey!"
+      "en": "-Find the king! -[Anlaf] Find the king!",
+      "es": "- ¡Encuentren al rey!- ¡Encuentren al rey!"
     }
   },
   {
@@ -5977,7 +5995,7 @@
   },
   {
     "translation": {
-      "en": "Go backwards!",
+      "en": "[Sihtric] Go backwards!",
       "es": "¡Hacia atrás!"
     }
   },
@@ -6001,13 +6019,13 @@
   },
   {
     "translation": {
-      "en": "- Keep going! - Keep going!",
-      "es": "- ¡Sigan! - ¡Sigan!"
+      "en": "-Keep going! -Keep going!",
+      "es": "- ¡Sigan!- ¡Sigan!"
     }
   },
   {
     "translation": {
-      "en": "Back!",
+      "en": "[Finan] Back!",
       "es": "¡Atrás!"
     }
   },
@@ -6025,8 +6043,8 @@
   },
   {
     "translation": {
-      "en": "They'll overrun us if we keep giving ground!",
-      "es": "¡Nos rebasarán si seguimos cediendo terreno!"
+      "en": "[Finan] They'll overrun us if we keep giving ground!",
+      "es": "¡Nos rebasaránsi seguimos cediendo terreno!"
     }
   },
   {
@@ -6037,8 +6055,8 @@
   },
   {
     "translation": {
-      "en": "Send a message that Aethelstan is in front of us!",
-      "es": "¡Comuniquen que Aethelstan está frente a nosotros!"
+      "en": "[Constantin] Send a message that Aethelstan is in front of us!",
+      "es": "¡Comuniquen que Aethelstanestá frente a nosotros!"
     }
   },
   {
@@ -6055,8 +6073,8 @@
   },
   {
     "translation": {
-      "en": "The line's turning, Lord. We're coming around!",
-      "es": "La línea está girando, señor. ¡Se está doblando!"
+      "en": "[Finan] The line's turning, Lord. We're coming around!",
+      "es": "La línea está girando, señor.¡Se está doblando!"
     }
   },
   {
@@ -6079,13 +6097,13 @@
   },
   {
     "translation": {
-      "en": "Swine wedge!",
+      "en": "[Anlaf] Swine wedge!",
       "es": "¡Cuña de cerdo!"
     }
   },
   {
     "translation": {
-      "en": "Anlaf! Stop!",
+      "en": "[Constantin] Anlaf! Stop!",
       "es": "¡Anlaf! ¡Alto!"
     }
   },
@@ -6121,13 +6139,13 @@
   },
   {
     "translation": {
-      "en": "Aethelstan, hold the line!",
+      "en": "[Uhtred] Aethelstan, hold the line!",
       "es": "¡Aethelstan, mantén la línea!"
     }
   },
   {
     "translation": {
-      "en": "- How much longer, Lord? - We're almost there.",
+      "en": "-[Finan] How much longer, Lord? -[Uhtred] We're almost there.",
       "es": "¿Cuánto tiempo falta? Ya casi."
     }
   },
@@ -6139,7 +6157,7 @@
   },
   {
     "translation": {
-      "en": "We can't hold!",
+      "en": "[Finan] We can't hold!",
       "es": "¡No podemos aguantar!"
     }
   },
@@ -6157,7 +6175,7 @@
   },
   {
     "translation": {
-      "en": "Lord!",
+      "en": "[Ingilmundr] Lord!",
       "es": "¡Señor!"
     }
   },
@@ -6169,19 +6187,19 @@
   },
   {
     "translation": {
-      "en": "Protect the king!",
+      "en": "[Hywel] Protect the king!",
       "es": "¡Protejan al rey!"
     }
   },
   {
     "translation": {
-      "en": "Aethelstan!",
+      "en": "[Uhtred] Aethelstan!",
       "es": "¡Aethelstan!"
     }
   },
   {
     "translation": {
-      "en": "Lord, trees!",
+      "en": "[Finan] Lord, trees!",
       "es": "¡Señor, árboles!"
     }
   },
@@ -6193,19 +6211,19 @@
   },
   {
     "translation": {
-      "en": "- Give the signal! - Yes, Lord.",
-      "es": "- ¡Da la señal! - Sí, señor."
+      "en": "-[Uhtred] Give the signal! -[runner] Yes, Lord.",
+      "es": "- ¡Da la señal!- Sí, señor."
     }
   },
   {
     "translation": {
-      "en": "- Something's not right. - We've been turned around!",
-      "es": "- Algo sucede. - ¡Nos dieron la vuelta!"
+      "en": "-Something's not right. -[Domnal] We've been turned around!",
+      "es": "- Algo sucede.- ¡Nos dieron la vuelta!"
     }
   },
   {
     "translation": {
-      "en": "Make way! Make way!",
+      "en": "[runner] Make way! Make way!",
       "es": "¡Abran paso!"
     }
   },
@@ -6241,7 +6259,7 @@
   },
   {
     "translation": {
-      "en": "My son!",
+      "en": "[Shetland] My son!",
       "es": "¡Mi hijo!"
     }
   },
@@ -6283,7 +6301,7 @@
   },
   {
     "translation": {
-      "en": "Five kings escaped the field that day,",
+      "en": "[Finan] Five kings escaped the field that day,",
       "es": "Cinco reyes escaparon del campo ese día,"
     }
   },
@@ -6301,7 +6319,7 @@
   },
   {
     "translation": {
-      "en": "Each man here has left behind an heir.",
+      "en": "[Constantin] Each man here has left behind an heir.",
       "es": "Cada hombre aquí ha perdido a un heredero."
     }
   },
@@ -6314,18 +6332,18 @@
   {
     "translation": {
       "en": "Then attack those leaving the field and return for our kin.",
-      "es": "Los atacaremos al retirarse y volveremos por los nuestros."
+      "es": "Los atacaremos al retirarsey volveremos por los nuestros."
     }
   },
   {
     "translation": {
-      "en": "Do not be any more foolish, Anlaf.",
+      "en": "[Shetland] Do not be any more foolish, Anlaf.",
       "es": "Qué ingenuo, Anlaf."
     }
   },
   {
     "translation": {
-      "en": "Shetland?",
+      "en": "[Anlaf] Shetland?",
       "es": "¿Shetland?"
     }
   },
@@ -6337,7 +6355,7 @@
   },
   {
     "translation": {
-      "en": "Orkney, we need to fight!",
+      "en": "[Anlaf] Orkney, we need to fight!",
       "es": "¡Orkney, tenemos que luchar!"
     }
   },
@@ -6361,13 +6379,13 @@
   },
   {
     "translation": {
-      "en": "Lord!",
+      "en": "[Sihtric] Lord!",
       "es": "¡Señor!"
     }
   },
   {
     "translation": {
-      "en": "Uhtred!",
+      "en": "[Finan] Uhtred!",
       "es": "¡Uhtred!"
     }
   },
@@ -6379,13 +6397,13 @@
   },
   {
     "translation": {
-      "en": "Finan! Finan!",
+      "en": "[Sihtric] Finan! Finan!",
       "es": "¡Finan!"
     }
   },
   {
     "translation": {
-      "en": "Was any of it real?",
+      "en": "[Aethelstan] Was any of it real?",
       "es": "CRÓNICA ANGLOSAJONA ¿Algo fue real?"
     }
   },
@@ -6398,7 +6416,7 @@
   {
     "translation": {
       "en": "When you find yourself before God, you will have confessed.",
-      "es": "Cuando estés frente a Dios, ya habrás confesado."
+      "es": "Cuando estés frente a Dios,ya habrás confesado."
     }
   },
   {
@@ -6409,8 +6427,8 @@
   },
   {
     "translation": {
-      "en": "- But my love for my people prevailed. - I chose you over my people.",
-      "es": "- Pero pudo más el amor por mi gente. - Te elegí sobre mi gente."
+      "en": "-But my love for my people prevailed. -I chose you over my people.",
+      "es": "- Pero pudo más el amor por mi gente.- Te elegí sobre mi gente."
     }
   },
   {
@@ -6434,25 +6452,25 @@
   {
     "translation": {
       "en": "Only fools try to understand destiny.",
-      "es": "Solo un tonto trata de entender el destino."
+      "es": "Solo un tontotrata de entender el destino."
     }
   },
   {
     "translation": {
       "en": "Did my son survive? Yes.",
-      "es": "- ¿Mi hijo sobrevivió? - Sí."
+      "es": "- ¿Mi hijo sobrevivió?- Sí."
     }
   },
   {
     "translation": {
-      "en": "And Bebbanburg is ours again.",
+      "en": "[Osbert] And Bebbanburg is ours again.",
       "es": "Y recuperamos Bebbanburg."
     }
   },
   {
     "translation": {
-      "en": "- We will rebuild in stone. - There is so much future.",
-      "es": "- La reconstruiremos en piedra. - Tenemos un gran futuro."
+      "en": "-We will rebuild in stone. -[Eadgifu] There is so much future.",
+      "es": "- La reconstruiremos en piedra.- Tenemos un gran futuro."
     }
   },
   {
@@ -6463,20 +6481,20 @@
   },
   {
     "translation": {
-      "en": "- What of the enemy? - The victory is ours.",
-      "es": "- ¿Y el enemigo? - Ganamos."
+      "en": "-What of the enemy? -[Finan] The victory is ours.",
+      "es": "- ¿Y el enemigo?- Ganamos."
     }
   },
   {
     "translation": {
       "en": "Five sons of kings lay dead upon the battlefield.",
-      "es": "Cinco hijos de reyes yacían muertos en el campo de batalla."
+      "es": "Cinco hijos de reyesyacían muertos en el campo de batalla."
     }
   },
   {
     "translation": {
-      "en": "- Five kings that will never be crowned. - Seven kings must die.",
-      "es": "- Cinco que nunca se coronarán. - Siete reyes deben morir."
+      "en": "-Five kings that will never be crowned. -[Finan] \"Seven kings must die.\"",
+      "es": "- Cinco que nunca se coronarán.- \"Siete reyes deben morir\"."
     }
   },
   {
@@ -6500,7 +6518,7 @@
   {
     "translation": {
       "en": "I have told the chroniclers to write of your victory, Uhtred.",
-      "es": "Pedí a los cronistas que escribieran sobre tu victoria."
+      "es": "Pedí a los cronistasque escribieran sobre tu victoria."
     }
   },
   {
@@ -6512,7 +6530,7 @@
   {
     "translation": {
       "en": "I want only to be honored in the feast hall for standing by an oath.",
-      "es": "Solo quiero que me honren en el salón por cumplir mi juramento."
+      "es": "Solo quiero que me honrenen el salón por cumplir mi juramento."
     }
   },
   {
@@ -6578,7 +6596,7 @@
   {
     "translation": {
       "en": "Men have died fighting under the name of the English.",
-      "es": "Muchos murieron luchando bajo el nombre de los ingleses."
+      "es": "Muchos murieronluchando bajo el nombre de los ingleses."
     }
   },
   {
@@ -6608,7 +6626,7 @@
   {
     "translation": {
       "en": "So your brother Edmund can take the throne unchallenged.",
-      "es": "Para que tu hermano Edmund pueda tomar el trono."
+      "es": "Para que tu hermano Edmundpueda tomar el trono."
     }
   },
   {
@@ -6632,7 +6650,7 @@
   {
     "translation": {
       "en": "Which makes you ruler of Wessex, Mercia, East Anglia,",
-      "es": "Lo que te hace gobernante de Wessex, Mercia, Anglia Oriental…"
+      "es": "Lo que te hace gobernantede Wessex, Mercia, Anglia Oriental…"
     }
   },
   {
@@ -6661,13 +6679,13 @@
   },
   {
     "translation": {
-      "en": "Long live the king.",
+      "en": "[all] Long live the king.",
       "es": "Larga vida al rey."
     }
   },
   {
     "translation": {
-      "en": "Long live the King of England.",
+      "en": "[Uhtred] Long live the King of England.",
       "es": "Larga vida al rey de Inglaterra."
     }
   },
@@ -6691,14 +6709,14 @@
   },
   {
     "translation": {
-      "en": "You're not gonna die, Lord.",
+      "en": "[Finan] You're not gonna die, Lord.",
       "es": "No morirá, señor."
     }
   },
   {
     "translation": {
-      "en": "- I would go first, and I'm still alive… -",
-      "es": "Dije que moriría primero y sigo vivo, así que…"
+      "en": "-I would go first, and I'm still alive… -[distant cheering]",
+      "es": "Dije que moriría primeroy sigo vivo, así que…"
     }
   },
   {
@@ -6715,14 +6733,14 @@
   },
   {
     "translation": {
-      "en": "Did seven kings die?",
+      "en": "[Finan] Did seven kings die?",
       "es": "¿Murieron siete reyes?"
     }
   },
   {
     "translation": {
       "en": "The chronicles do not record if my lord Uhtred survived.",
-      "es": "Las crónicas no registran si mi señor Uhtred sobrevivió,"
+      "es": "Las crónicas no registransi mi señor Uhtred sobrevivió,"
     }
   },
   {
@@ -6734,7 +6752,7 @@
   {
     "translation": {
       "en": "recognize him as the greatest warrior of our age,",
-      "es": "lo recuerdan como el mejor guerrero de nuestra época"
+      "es": "lo recuerdan como el mejorguerrero de nuestra época"
     }
   },
   {

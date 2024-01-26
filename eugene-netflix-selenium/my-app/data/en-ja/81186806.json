@@ -1,14 +1,14 @@
 [
   {
     "translation": {
-      "en": "We have breaking news.",
-      "ja": "１日目 先ほど 大惨事が 起きたようですが⸺"
+      "en": "[reporter on TV] We have breaking news.",
+      "ja": "１日目 先ほど 大惨事が起きたようですが⸺"
     }
   },
   {
     "translation": {
       "en": "It happened just a few moments ago, apparently.",
-      "ja": "先ほど 大惨事が 起きたようですが⸺"
+      "ja": "先ほど 大惨事が起きたようですが⸺"
     }
   },
   {
@@ -20,25 +20,25 @@
   {
     "translation": {
       "en": "We are-- We have , I understand, an eyewitness on the phone right now.",
-      "ja": "目撃した方に 電話で話を聞きます"
+      "ja": "目撃した方に電話で話を聞きます"
     }
   },
   {
     "translation": {
-      "en": "- Rog. - Where are you right now?",
+      "en": "-Rog. -Where are you right now?",
       "ja": "ロジャー"
     }
   },
   {
     "translation": {
-      "en": "…in the middle of the plaza at 8:52.",
+      "en": "[reporter on TV] …in the middle of the plaza at 8:52.",
       "ja": "現在 朝の８時52分"
     }
   },
   {
     "translation": {
       "en": "With limited information at this point,",
-      "ja": "情報が少なく 負傷者などは⸺"
+      "ja": "情報が少なく負傷者などは⸺"
     }
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "translation": {
-      "en": "- Uh, what happened? - A bomb.",
+      "en": "-[Lee] Uh, what happened? -A bomb.",
       "ja": "何があった？ 爆弾だな"
     }
   },
@@ -67,7 +67,7 @@
   },
   {
     "translation": {
-      "en": "- There was a loud sound… - Rog, I got to, uh…",
+      "en": "-[man on TV] There was a loud sound… -Rog, I got to, uh…",
       "ja": "時間がなくて…"
     }
   },
@@ -79,19 +79,19 @@
   },
   {
     "translation": {
-      "en": "Wanna go higher?",
+      "en": "[chuckles] Wanna go higher?",
       "ja": "もっと高く？"
     }
   },
   {
     "translation": {
-      "en": "So, the Red Sox with two down on a base hit.",
+      "en": "[announcer over PA] So, the Red Sox with two down on a base hit.",
       "ja": "レッドソックス　ツーアウト"
     }
   },
   {
     "translation": {
-      "en": "- First time through the order? - Third.",
+      "en": "-First time through the order? -Third.",
       "ja": "打席は？ 三巡目"
     }
   },
@@ -103,7 +103,7 @@
   },
   {
     "translation": {
-      "en": "- What inning is this? - Fifth.",
+      "en": "-What inning is this? -Fifth.",
       "ja": "今 何回？ ５回だ"
     }
   },
@@ -115,7 +115,7 @@
   },
   {
     "translation": {
-      "en": "- Disgusting? - Disgusting.",
+      "en": "-Disgusting? -Disgusting.",
       "ja": "（最悪？）"
     }
   },
@@ -127,7 +127,7 @@
   },
   {
     "translation": {
-      "en": "He pops that one up down the line.",
+      "en": "[announcer] He pops that one up down the line.",
       "ja": "高く打ち上げた"
     }
   },
@@ -139,13 +139,13 @@
   },
   {
     "translation": {
-      "en": "- What’s the inning of that game? - Third.",
+      "en": "-What’s the inning of that game? -Third.",
       "ja": "そっちは何回？ ３回だ"
     }
   },
   {
     "translation": {
-      "en": "Come on, Henry!",
+      "en": "[Emmett] Come on, Henry!",
       "ja": "行け　ヘンリー！"
     }
   },
@@ -157,49 +157,49 @@
   },
   {
     "translation": {
-      "en": "- He’s out! - Ooh!",
+      "en": "-[umpire] He’s out! -Ooh!",
       "ja": "アウト！"
     }
   },
   {
     "translation": {
-      "en": "Hey, how do you say dive?",
+      "en": "Hey, how do you say \"dive\"?",
       "ja": "手話で“ダイブ”は？"
     }
   },
   {
     "translation": {
-      "en": "- Dive? - It’s a tough one.",
+      "en": "-Dive? -It’s a tough one.",
       "ja": "ダイブ 難しい？"
     }
   },
   {
     "translation": {
-      "en": "- Ball! -",
+      "en": "-[umpire] Ball! -[crowd cheering]",
       "ja": "ボール！"
     }
   },
   {
     "translation": {
-      "en": "Strike one!",
+      "en": "[umpire] Strike one!",
       "ja": "ワンストライク！"
     }
   },
   {
     "translation": {
-      "en": "- It’s all right. -",
+      "en": "-[Lee] It’s all right. -[crowd cheering]",
       "ja": "（大丈夫）"
     }
   },
   {
     "translation": {
-      "en": "Goddamn thing.",
+      "en": "[Emmett] Goddamn thing.",
       "ja": "壊れたかな"
     }
   },
   {
     "translation": {
-      "en": "Strike two!",
+      "en": "[umpire] Strike two!",
       "ja": "ツーストライク！"
     }
   },
@@ -211,7 +211,7 @@
   },
   {
     "translation": {
-      "en": "All right, folks. That’s the game.",
+      "en": "[man 1] All right, folks. That’s the game.",
       "ja": "試合は ここまでにしよう"
     }
   },
@@ -223,19 +223,19 @@
   },
   {
     "translation": {
-      "en": "- Hey. - Hey.",
+      "en": "-[Lee] Hey. -[Evelyn] Hey.",
       "ja": "さっきのは何？"
     }
   },
   {
     "translation": {
-      "en": "- What was that? - I don’t know.",
+      "en": "-What was that? -I don’t know.",
       "ja": "さっきのは何？ さあ　何だろう"
     }
   },
   {
     "translation": {
-      "en": "- I don’t know what that was. - I’m gonna take the kids home, okay?",
+      "en": "-I don’t know what that was. -I’m gonna take the kids home, okay?",
       "ja": "さあ　何だろう 子供たちを家へ"
     }
   },
@@ -265,7 +265,7 @@
   },
   {
     "translation": {
-      "en": "- Hey. You all right? - Yeah, good.",
+      "en": "-[Emmett] Hey. You all right? -[Lee] Yeah, good.",
       "ja": "大丈夫か？ ああ　平気だ"
     }
   },
@@ -278,30 +278,30 @@
   {
     "translation": {
       "en": "Not that I know of. He just called. Let me call him back.",
-      "ja": "弟から着信が かけ直してみる"
+      "ja": "弟から着信がかけ直してみる"
     }
   },
   {
     "translation": {
-      "en": "All right. Yeah, let me know.",
+      "en": "[Lee] All right. Yeah, let me know.",
       "ja": "後で教えてくれ"
     }
   },
   {
     "translation": {
-      "en": "- My truck's up there. - Don't worry.",
+      "en": "-My truck's up there. -Don't worry.",
       "ja": "（この先に停めた）"
     }
   },
   {
     "translation": {
-      "en": "- - Look out!",
+      "en": "-[horn honks] -[man] Look out!",
       "ja": "気をつけろ！"
     }
   },
   {
     "translation": {
-      "en": "Sorry.",
+      "en": "[sighs] Sorry.",
       "ja": "（心配するな）"
     }
   },
@@ -325,7 +325,7 @@
   },
   {
     "translation": {
-      "en": "- Whereabouts? - I think out by Walker’s farm.",
+      "en": "-Whereabouts? -I think out by Walker’s farm.",
       "ja": "場所は？ ウォーカー農場の先かな"
     }
   },
@@ -337,31 +337,31 @@
   },
   {
     "translation": {
-      "en": "It’s okay, honey. It’s okay, honey bunny.",
+      "en": "[Evelyn] It’s okay, honey. It’s okay, honey bunny.",
       "ja": "大丈夫よ 何でもない"
     }
   },
   {
     "translation": {
-      "en": "- - It’s okay, baby. It’s okay.",
+      "en": "-[cars honking] -It’s okay, baby. It’s okay.",
       "ja": "心配しないで　ボー"
     }
   },
   {
     "translation": {
-      "en": "- Mom? - Yeah.",
+      "en": "-[Marcus] Mom? -Yeah.",
       "ja": "ママ"
     }
   },
   {
     "translation": {
-      "en": "What is happening?",
+      "en": "[Evelyn] What is happening?",
       "ja": "何が起きてるの？"
     }
   },
   {
     "translation": {
-      "en": "- - Oh, my God!",
+      "en": "-[tires squealing] -[Evelyn] Oh, my God!",
       "ja": "危ない！"
     }
   },
@@ -373,19 +373,19 @@
   },
   {
     "translation": {
-      "en": "- That’s Dad. That’s Dad! Dad! Dad! Dad! - Where, where, where?",
+      "en": "-That’s Dad. That’s Dad! Dad! Dad! Dad! -Where, where, where?",
       "ja": "パパだよ！ どこに？"
     }
   },
   {
     "translation": {
-      "en": "Mom. Mom!",
+      "en": "[Marcus] Mom. Mom!",
       "ja": "ママ！"
     }
   },
   {
     "translation": {
-      "en": "- You’re okay, baby. - I’m okay.",
+      "en": "-You’re okay, baby. -I’m okay.",
       "ja": "大丈夫？"
     }
   },
@@ -397,13 +397,13 @@
   },
   {
     "translation": {
-      "en": "- -",
+      "en": "-[man shouts indistinctly] -[screaming]",
       "ja": "その建物の中へ！"
     }
   },
   {
     "translation": {
-      "en": "I’m okay.",
+      "en": "[girl speaking softly] I’m okay.",
       "ja": "私は無事よ"
     }
   },
@@ -427,31 +427,31 @@
   },
   {
     "translation": {
-      "en": "- - Mom?",
+      "en": "-[static on phone] -Mom?",
       "ja": "ママ？"
     }
   },
   {
     "translation": {
-      "en": "Our Father, who art in heaven,",
+      "en": "[man crying softly] Our Father, who art in heaven,",
       "ja": "天にまします我らの父よ"
     }
   },
   {
     "translation": {
-      "en": "- hallowed be thy name. -",
+      "en": "-hallowed be thy name. -[creature growling at a distance]",
       "ja": "御名の尊ばれんことを"
     }
   },
   {
     "translation": {
       "en": "Thy kingdom come, thy will be done, on earth as it is in heaven.",
-      "ja": "御旨(みむね)が天にあるごとく 地にも行われんことを"
+      "ja": "御旨(みむね)が天にあるごとく地にも行われんことを"
     }
   },
   {
     "translation": {
-      "en": "Give us this day our daily--",
+      "en": "[weeping] Give us this day our daily--",
       "ja": "我らの日用の糧(かて)を…"
     }
   },
@@ -493,7 +493,7 @@
   },
   {
     "translation": {
-      "en": "Baby, please.",
+      "en": "[sobbing] Baby, please.",
       "ja": "お願い"
     }
   },
@@ -505,19 +505,19 @@
   },
   {
     "translation": {
-      "en": "It’s okay, honey. It’s okay.",
+      "en": "[Evelyn] It’s okay, honey. It’s okay.",
       "ja": "大丈夫　落ち着いて"
     }
   },
   {
     "translation": {
-      "en": "- - It’s okay.",
+      "en": "-[crying] -It’s okay.",
       "ja": "平気だから"
     }
   },
   {
     "translation": {
-      "en": "It’s okay.",
+      "en": "[sobbing] It’s okay.",
       "ja": "もう平気"
     }
   },
@@ -529,31 +529,31 @@
   },
   {
     "translation": {
-      "en": "Go.",
+      "en": "[whispers] Go.",
       "ja": "行って"
     }
   },
   {
     "translation": {
-      "en": "Jump.",
+      "en": "[whispers] Jump.",
       "ja": "（飛び込んで）"
     }
   },
   {
     "translation": {
-      "en": "You can’t stay.",
+      "en": "[man] You can’t stay.",
       "ja": "長居はするな"
     }
   },
   {
     "translation": {
       "en": "I don’t know why you came all the way up here, but you can’t stay.",
-      "ja": "なぜ上まで来たか 知らないが…"
+      "ja": "なぜ上まで来たか知らないが…"
     }
   },
   {
     "translation": {
-      "en": "- Up? - There’s not enough food…",
+      "en": "-Up? -There’s not enough food…",
       "ja": "上まで？ 食料がない"
     }
   },
@@ -572,12 +572,12 @@
   {
     "translation": {
       "en": "There’s nothing I can do. You won’t survive.",
-      "ja": "力になれない 生き残れないよ"
+      "ja": "力になれない生き残れないよ"
     }
   },
   {
     "translation": {
-      "en": "Show me your face.",
+      "en": "[Evelyn] Show me your face.",
       "ja": "顔を見せて"
     }
   },
@@ -601,7 +601,7 @@
   },
   {
     "translation": {
-      "en": "Emmett?",
+      "en": "[sighs] Emmett?",
       "ja": "エメット"
     }
   },
@@ -644,7 +644,7 @@
   {
     "translation": {
       "en": "Some kind of feedback from the microphone?",
-      "ja": "ハウリングに 反応してなのか？"
+      "ja": "ハウリングに反応してなのか？"
     }
   },
   {
@@ -691,13 +691,13 @@
   },
   {
     "translation": {
-      "en": "- For what? - The boys.",
+      "en": "-For what? -The boys.",
       "ja": "何が？ 坊やたち"
     }
   },
   {
     "translation": {
-      "en": "- I assume-- - That day.",
+      "en": "-I assume-- -That day.",
       "ja": "２人は… １日目に"
     }
   },
@@ -829,49 +829,49 @@
   },
   {
     "translation": {
-      "en": "- What is it? -",
+      "en": "-What is it? -[breathing heavily]",
       "ja": "どうしたの？"
     }
   },
   {
     "translation": {
-      "en": "- What is it? - Music!",
+      "en": "-What is it? -Music!",
       "ja": "何なの？ 音楽が"
     }
   },
   {
     "translation": {
-      "en": "- It’s-- - Beyond the Sea.",
+      "en": "-It’s-- -\"Beyond the Sea.\"",
       "ja": "これは… 「ビヨンド･ザ･シー」"
     }
   },
   {
     "translation": {
-      "en": "- Have you heard this? - Yes.",
+      "en": "-Have you heard this? -Yes.",
       "ja": "聞いたことが？ あるよ"
     }
   },
   {
     "translation": {
       "en": "No. Dad would've heard this.",
-      "ja": "（ウソ！ パパは聞いてない）"
+      "ja": "（ウソ！パパは聞いてない）"
     }
   },
   {
     "translation": {
       "en": "It’s the same song. It’s been playing over and over the last four months.",
-      "ja": "４ヵ月ほど前から 何度も流れてる"
+      "ja": "４ヵ月ほど前から何度も流れてる"
     }
   },
   {
     "translation": {
       "en": "You're lying! My dad used the radio every day!",
-      "ja": "（ウソよ！） （パパは毎日 ラジオを使ってた）"
+      "ja": "（ウソよ！） （パパは毎日ラジオを使ってた）"
     }
   },
   {
     "translation": {
-      "en": "- What’s she saying? - She thinks he would’ve heard it.",
+      "en": "-What’s she saying? -She thinks he would’ve heard it.",
       "ja": "何だって？ 彼は聞いてないって"
     }
   },
@@ -914,25 +914,25 @@
   {
     "translation": {
       "en": "You're nothing like him!",
-      "ja": "（パパは あなたなんかと違う！）"
+      "ja": "（パパはあなたなんかと違う！）"
     }
   },
   {
     "translation": {
-      "en": "Does this mean that there are more people?",
+      "en": "[Marcus] Does this mean that there are more people?",
       "ja": "他にも人がいるの？"
     }
   },
   {
     "translation": {
-      "en": "- I don’t know, baby. I don’t. - No!",
+      "en": "-I don’t know, baby. I don’t. -No!",
       "ja": "分からない よせ"
     }
   },
   {
     "translation": {
       "en": "There’s nothing left. I told you, there is nothing left.",
-      "ja": "もう何もない 言っただろ 何も信用できない"
+      "ja": "もう何もない 言っただろ何も信用できない"
     }
   },
   {
@@ -943,7 +943,7 @@
   },
   {
     "translation": {
-      "en": "It's not a song. On the radio. Beyond the Sea.",
+      "en": "It's not a song. On the radio. \"Beyond the Sea.\"",
       "ja": "（ただの曲じゃない） （ラジオの） （海の向こう(ビヨンド・ザ・シー)… 分かる？）"
     }
   },
@@ -1004,7 +1004,7 @@
   {
     "translation": {
       "en": "If I can find the song, where it's coming from,",
-      "ja": "（曲を流してる 場所を見つけ）"
+      "ja": "（曲を流してる場所を見つけ）"
     }
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "translation": {
       "en": "Mom will never let you go.",
-      "ja": "（ママが絶対に… 許すもんか）"
+      "ja": "（ママが絶対に…許すもんか）"
     }
   },
   {
@@ -1093,20 +1093,20 @@
   },
   {
     "translation": {
-      "en": "She’s gone to get help, and I need you to go and find her for me, and bring her back to me.",
-      "ja": "助けを求めに行ったの 連れ戻して"
+      "en": "She’s gone to get help, and I need you to go and find her for me, and bring her back to me. [sobs]",
+      "ja": "助けを求めに行ったの連れ戻して"
     }
   },
   {
     "translation": {
-      "en": "- All right, listen to me. - Please, Emmett, I’m begging you.",
+      "en": "-All right, listen to me. -Please, Emmett, I’m begging you.",
       "ja": "待てよ エメット　お願い"
     }
   },
   {
     "translation": {
-      "en": "- No, Evelyn-- Please, please. - I’m begging you. We were friends. Emmett, please.",
-      "ja": "前は友達だったでしょ どうか お願い"
+      "en": "-No, Evelyn-- Please, please. -I’m begging you. We were friends. Emmett, please.",
+      "ja": "前は友達だったでしょどうか お願い"
     }
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "translation": {
       "en": "that his little girl is absolutely the kind of person worth saving.",
-      "ja": "あなたの目を見て言うはずよ あの子こそ 救う価値のある人間だと"
+      "ja": "あなたの目を見て言うはずよ あの子こそ救う価値のある人間だと"
     }
   },
   {
@@ -1153,7 +1153,7 @@
   },
   {
     "translation": {
-      "en": "Go!",
+      "en": "[whispers] Go!",
       "ja": "行くぞ"
     }
   },
@@ -1166,7 +1166,7 @@
   {
     "translation": {
       "en": "We stay here until they’re gone, and then we go.",
-      "ja": "奴らがいなくなるまで待ち 戻ろう"
+      "ja": "奴らがいなくなるまで待ち戻ろう"
     }
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "translation": {
       "en": "I’m taking you home. We’ll wait here until they’re gone.",
-      "ja": "奴らがいなくなるまで待ち 君を連れて帰る"
+      "ja": "奴らがいなくなるまで待ち君を連れて帰る"
     }
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "translation": {
       "en": "You said your wife--",
-      "ja": "（言ってたでしょ 奥さんを…）"
+      "ja": "（言ってたでしょ奥さんを…）"
     }
   },
   {
@@ -1303,7 +1303,7 @@
   },
   {
     "translation": {
-      "en": "- But the baby, I don't know how-- - I showed you how to do it.",
+      "en": "-But the baby, I don't know how-- -I showed you how to do it.",
       "ja": "（赤ちゃんをどう…） （見て覚えたはず）"
     }
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "translation": {
-      "en": "♪ You make me happy When skies are gray ♪",
+      "en": "[softly] ♪ You make me happy When skies are gray ♪",
       "ja": "君といれば幸せ 曇っていても"
     }
   },
@@ -1399,7 +1399,7 @@
   },
   {
     "translation": {
-      "en": "I’ll be right back.",
+      "en": "[whispering] I’ll be right back.",
       "ja": "すぐ戻るよ"
     }
   },
@@ -1453,7 +1453,7 @@
   },
   {
     "translation": {
-      "en": "- I thought she was-- - Figured it out.",
+      "en": "-I thought she was-- -Figured it out.",
       "ja": "でも 耳が… 意味に気づいた"
     }
   },
@@ -1466,7 +1466,7 @@
   {
     "translation": {
       "en": "I think most people had finally given up hope.",
-      "ja": "みんな もう希望を 捨てていた"
+      "ja": "みんな もう希望を捨てていた"
     }
   },
   {
@@ -1496,7 +1496,7 @@
   {
     "translation": {
       "en": "We were in the city when we heard the hurricane sirens.",
-      "ja": "サイレンを聞いた時は ＮＹ市にいた"
+      "ja": "サイレンを聞いた時はＮＹ市にいた"
     }
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "translation": {
       "en": "So, as soon as people saw the first one get out safe…",
-      "ja": "最初の船が 無事 出港したのを見て…"
+      "ja": "最初の船が無事 出港したのを見て…"
     }
   },
   {
@@ -1538,7 +1538,7 @@
   {
     "translation": {
       "en": "They had 12 boats lined up on the dock that day.",
-      "ja": "あの日 12隻の船が 埠頭に停泊していたが"
+      "ja": "あの日 12隻の船が埠頭に停泊していたが"
     }
   },
   {
@@ -1681,7 +1681,7 @@
   },
   {
     "translation": {
-      "en": "Get inside!",
+      "en": "[shouts] Get inside!",
       "ja": "中に入れ！"
     }
   },
@@ -1723,7 +1723,7 @@
   },
   {
     "translation": {
-      "en": "- No, no, no. All right. Listen to me. - My family.",
+      "en": "-No, no, no. All right. Listen to me. -My family.",
       "ja": "よせ やめろ"
     }
   },

@@ -1,13 +1,13 @@
 [
   {
     "translation": {
-      "en": "Still time to change your mind.",
+      "en": "[man] Still time to change your mind.",
       "ja": "本当に残るのか？"
     }
   },
   {
     "translation": {
-      "en": "Like a race to see who'd die first.",
+      "en": "[Augustine] Like a race to see who'd die first.",
       "ja": "死のレースだ"
     }
   },
@@ -31,25 +31,25 @@
   },
   {
     "translation": {
-      "en": "If you stop the transfusions, you won't last a week.",
+      "en": "[man] If you stop the transfusions, you won't last a week.",
       "ja": "輸血をやめれば７日で死ぬぞ"
     }
   },
   {
     "translation": {
       "en": "If I was in a hurry to die, I'd go with you.",
-      "ja": "一緒に行けば もっと早く死ぬ"
+      "ja": "一緒に行けばもっと早く死ぬ"
     }
   },
   {
     "translation": {
-      "en": "- We all want to be home. - Where is that?",
+      "en": "-[man] We all want to be home. -Where is that?",
       "ja": "帰りたいだろ どこへ？"
     }
   },
   {
     "translation": {
-      "en": "Well, for you, I guess that's here.",
+      "en": "[man] Well, for you, I guess that's here.",
       "ja": "ここが君の家か"
     }
   },
@@ -61,31 +61,31 @@
   },
   {
     "translation": {
-      "en": "Ana? Ana!",
+      "en": "[woman 1] Ana? Ana!",
       "ja": "アナ！　アナ！"
     }
   },
   {
     "translation": {
-      "en": "- Leave everything behind. - Ana! Ana?",
+      "en": "-[soldier] Leave everything behind. -Ana! Ana?",
       "ja": "捨てて"
     }
   },
   {
     "translation": {
-      "en": "- Leave all belongings behind. - Ana!",
+      "en": "-[soldier] Leave all belongings behind. -Ana!",
       "ja": "荷物を捨てて"
     }
   },
   {
     "translation": {
-      "en": "- My little girl is missing! - What?",
+      "en": "-My little girl is missing! -What?",
       "ja": "いないの"
     }
   },
   {
     "translation": {
-      "en": "- I can't find my daughter. She isn't here. - What's the problem?",
+      "en": "-I can't find my daughter. She isn't here. -What's the problem?",
       "ja": "娘が見つからないの"
     }
   },
@@ -97,13 +97,13 @@
   },
   {
     "translation": {
-      "en": "- Katherine! - Ana?",
+      "en": "-[woman 2] Katherine! -Ana?",
       "ja": "キャサリン"
     }
   },
   {
     "translation": {
-      "en": "- She already left. - What?",
+      "en": "-She already left. -[Katherine] What?",
       "ja": "アナは行ったわ"
     }
   },
@@ -115,7 +115,7 @@
   },
   {
     "translation": {
-      "en": "- What? She was alone? - No, with Doctor Rogg.",
+      "en": "-[crying] What? She was alone? -No, with Doctor Rogg.",
       "ja": "ひとりで？ ロッグ先生と"
     }
   },
@@ -127,13 +127,13 @@
   },
   {
     "translation": {
-      "en": "- We have to go. - Come on.",
+      "en": "-[soldier] We have to go. -[Ana] Come on.",
       "ja": "行くぞ"
     }
   },
   {
     "translation": {
-      "en": "Are you checking off names?",
+      "en": "[man] Are you checking off names?",
       "ja": "名簿は？"
     }
   },
@@ -151,20 +151,20 @@
   },
   {
     "translation": {
-      "en": "He's staying.",
+      "en": "[man] He's staying.",
       "ja": "彼は残る"
     }
   },
   {
     "translation": {
-      "en": "Let's go!",
+      "en": "[soldier] Let's go!",
       "ja": "行こう"
     }
   },
   {
     "translation": {
-      "en": "In our galaxy alone, there are billions of stars,",
-      "ja": "銀河系には 無数の星があります"
+      "en": "[young Augustine] In our galaxy alone, there are billions of stars,",
+      "ja": "銀河系には無数の星があります"
     }
   },
   {
@@ -188,37 +188,37 @@
   {
     "translation": {
       "en": "of these hundreds of billions of exoplanets that exist in our galaxy,",
-      "ja": "無数の惑星のうち 少なくとも１つは"
+      "ja": "無数の惑星のうち少なくとも１つは"
     }
   },
   {
     "translation": {
       "en": "at least one of them has the potential to support life.",
-      "ja": "生命を維持できる 可能性があります"
+      "ja": "生命を維持できる可能性があります"
     }
   },
   {
     "translation": {
-      "en": "This is K- 23, Jupiter's previously undiscovered moon.",
-      "ja": "これはＫｰ23 木星の未踏の衛星です"
+      "en": "This is K-23, Jupiter's previously undiscovered moon.",
+      "ja": "これはＫｰ23木星の未踏の衛星です"
     }
   },
   {
     "translation": {
       "en": "Not quite an exoplanet. The moon's atmosphere is governed not by the sun, but by its thermal volcanic activity.",
-      "ja": "大気は太陽ではなく 火山活動に支配されています"
+      "ja": "大気は太陽ではなく火山活動に支配されています"
     }
   },
   {
     "translation": {
-      "en": "In simpler terms, when studying K- 23's lunar spectrum, its biomarkers and water vapors,",
-      "ja": "Ｋｰ23のスペクトルや 水蒸気を調べてみると"
+      "en": "In simpler terms, when studying K-23's lunar spectrum, its biomarkers and water vapors,",
+      "ja": "Ｋｰ23のスペクトルや水蒸気を調べてみると"
     }
   },
   {
     "translation": {
       "en": "it appears as though it's being heated from the inside out.",
-      "ja": "内側から 温められているようです"
+      "ja": "内側から温められているようです"
     }
   },
   {
@@ -230,7 +230,7 @@
   {
     "translation": {
       "en": "we can confidently say that based on its mass, radial velocity, and orbit,",
-      "ja": "質量や視線速度 軌道などから判断すれば―"
+      "ja": "質量や視線速度軌道などから判断すれば―"
     }
   },
   {
@@ -242,7 +242,7 @@
   {
     "translation": {
       "en": "I haven't met him personally, but I gathered research for his partner years ago, read his papers.",
-      "ja": "会ってはいませんが リサーチの手伝いを"
+      "ja": "会ってはいませんがリサーチの手伝いを"
     }
   },
   {
@@ -259,7 +259,7 @@
   },
   {
     "translation": {
-      "en": "Oh, Michigan.",
+      "en": "[chuckling] Oh, Michigan.",
       "ja": "ミシガン"
     }
   },
@@ -271,13 +271,13 @@
   },
   {
     "translation": {
-      "en": "- Yeah. Have you been? -",
+      "en": "-Yeah. Have you been? -[chuckles]",
       "ja": "ああ　行ったことは？"
     }
   },
   {
     "translation": {
-      "en": "- What are you drinking? -",
+      "en": "-What are you drinking? -[chuckles]",
       "ja": "飲み物は？"
     }
   },
@@ -295,7 +295,7 @@
   },
   {
     "translation": {
-      "en": "There's a place called Portobello Beach. - Have you heard of this? - No.",
+      "en": "There's a place called Portobello Beach. -Have you heard of this? -No.",
       "ja": "ポートベロー･ビーチは？"
     }
   },
@@ -308,13 +308,13 @@
   {
     "translation": {
       "en": "In the height of summer, it's probably gonna be raining.",
-      "ja": "夏は雨が多いから 評判は悪いわ"
+      "ja": "夏は雨が多いから評判は悪いわ"
     }
   },
   {
     "translation": {
-      "en": "- It's a tourist trap. - Yeah, I'm sure.",
-      "ja": "夏は雨が多いから 評判は悪いわ だろうね"
+      "en": "-It's a tourist trap. -Yeah, I'm sure.",
+      "ja": "夏は雨が多いから評判は悪いわ だろうね"
     }
   },
   {
@@ -325,37 +325,37 @@
   },
   {
     "translation": {
-      "en": "- It's beautiful. - I will.",
+      "en": "-It's beautiful. -I will.",
       "ja": "でも海岸は見て ああ"
     }
   },
   {
     "translation": {
       "en": "But, um, while I have you, can I ask you a very serious question about your very serious book?",
-      "ja": "あなたの真面目な本について 聞いていい？"
+      "ja": "あなたの真面目な本について聞いていい？"
     }
   },
   {
     "translation": {
       "en": "How much of what you're searching for is reality,",
-      "ja": "あの本に 書いてあることの―"
+      "ja": "あの本に書いてあることの―"
     }
   },
   {
     "translation": {
       "en": "and how much of your planet is just bullshit?",
-      "ja": "どれだけが事実で どれだけがウソ？"
+      "ja": "どれだけが事実でどれだけがウソ？"
     }
   },
   {
     "translation": {
-      "en": "- List active missions. -",
+      "en": "-List active missions. -[system beeps]",
       "ja": "活動リスト"
     }
   },
   {
     "translation": {
-      "en": "Neowise, inactive.",
+      "en": "[system voice] Neowise, inactive.",
       "ja": "ネオワイズ 活動停止"
     }
   },
@@ -391,7 +391,7 @@
   },
   {
     "translation": {
-      "en": "- Jason 4-- - Show me Aether.",
+      "en": "-Jason 4-- -Show me Aether.",
       "ja": "アイテルを"
     }
   },
@@ -403,13 +403,13 @@
   },
   {
     "translation": {
-      "en": "Aether will be in range in 11 hours and 54 minutes.",
+      "en": "[system voice] Aether will be in range in 11 hours and 54 minutes.",
       "ja": "11時間54分で通信圏内です"
     }
   },
   {
     "translation": {
-      "en": "- Set an alarm for notification. - Alarm is set.",
+      "en": "-Set an alarm for notification. -[system voice] Alarm is set.",
       "ja": "アラームを セット"
     }
   },
@@ -445,19 +445,19 @@
   },
   {
     "translation": {
-      "en": "I'm awake. How are you feeling?",
+      "en": "[Maya] I'm awake. How are you feeling?",
       "ja": "起きてる　気分は？"
     }
   },
   {
     "translation": {
-      "en": "Like a moose.",
+      "en": "[Sully] Like a moose.",
       "ja": "もう最低"
     }
   },
   {
     "translation": {
-      "en": "- Morning, Sully. - I'm not speaking to you.",
+      "en": "-Morning, Sully. -[Sully] I'm not speaking to you.",
       "ja": "サリー 話したくない"
     }
   },
@@ -469,13 +469,13 @@
   },
   {
     "translation": {
-      "en": "I had a dream you left me on K- 23, so I'm not talking to you.",
+      "en": "[Sully] I had a dream you left me on K-23, so I'm not talking to you.",
       "ja": "夢で置き去りにされたから"
     }
   },
   {
     "translation": {
-      "en": "- You started early. - Champions never rest.",
+      "en": "-[Sully] You started early. -Champions never rest.",
       "ja": "早いのね 俺は王者だぞ"
     }
   },
@@ -487,19 +487,19 @@
   },
   {
     "translation": {
-      "en": "- They pay you to distract me, don't they? - Nah, I do it for free.",
+      "en": "-They pay you to distract me, don't they? -Nah, I do it for free.",
       "ja": "邪魔してる？ そのとおり"
     }
   },
   {
     "translation": {
-      "en": "- You hear anything from home? - I'm trying.",
+      "en": "-You hear anything from home? -[Sully] I'm trying.",
       "ja": "交信できた？ 努力してる"
     }
   },
   {
     "translation": {
-      "en": "- Good morning, Sanchez. - Morning, Sully.",
+      "en": "-Good morning, Sanchez. -Morning, Sully.",
       "ja": "サンチェス おはよう"
     }
   },
@@ -511,20 +511,20 @@
   },
   {
     "translation": {
-      "en": "Whoa! Thank you, thank you.",
+      "en": "[chuckles] Whoa! Thank you, thank you.",
       "ja": "ありがとう"
     }
   },
   {
     "translation": {
-      "en": "- Anything yet? - Nothing yet.",
+      "en": "-Anything yet? -[Sully] Nothing yet.",
       "ja": "何かあった？ 何もなし"
     }
   },
   {
     "translation": {
-      "en": "This is Aether Mission K- 23, open on all channels.",
-      "ja": "こちらＫｰ23ミッションの アイテル号です"
+      "en": "This is Aether Mission K-23, open on all channels.",
+      "ja": "こちらＫｰ23ミッションのアイテル号です"
     }
   },
   {
@@ -535,7 +535,7 @@
   },
   {
     "translation": {
-      "en": "Repeat.",
+      "en": "[Sully] Repeat.",
       "ja": "繰り返します"
     }
   },
@@ -547,7 +547,7 @@
   },
   {
     "translation": {
-      "en": "- What's she hearing? - What frequency is this?",
+      "en": "-[Sanchez] What's she hearing? -[Ade] What frequency is this?",
       "ja": "何だ？ 周波数帯域は？"
     }
   },
@@ -559,32 +559,32 @@
   },
   {
     "translation": {
-      "en": "- That puts our last contact-- - Including the control blackout?",
+      "en": "-[Ade] That puts our last contact-- -Including the control blackout?",
       "ja": "最後の接触は… 交信が途絶えて３週間よ"
     }
   },
   {
     "translation": {
-      "en": "- Post- blackout. - Three weeks.",
+      "en": "-[Ade] Post-blackout. -Three weeks.",
       "ja": "交信が途絶えて３週間よ"
     }
   },
   {
     "translation": {
       "en": "If Mojave goes offline, then Spain or Australia immediately grabs the signal. No gaps. We're not receiving anything.",
-      "ja": "モハベの接続が切れても 他国が信号を拾うのに"
+      "ja": "モハベの接続が切れても他国が信号を拾うのに"
     }
   },
   {
     "translation": {
       "en": "I've taken everything apart, rebooted it a dozen times, and nothing works.",
-      "ja": "分析して再起動したけど ダメだった"
+      "ja": "分析して再起動したけどダメだった"
     }
   },
   {
     "translation": {
-      "en": "I also couldn't make contact with the K- 23 colony flight,",
-      "ja": "Ｋｰ23コロニー船とも 交信不能"
+      "en": "I also couldn't make contact with the K-23 colony flight,",
+      "ja": "Ｋｰ23コロニー船とも交信不能"
     }
   },
   {
@@ -608,7 +608,7 @@
   {
     "translation": {
       "en": "But none of that could last this long or disrupt both hemispheres.",
-      "ja": "でも両半球で こんなには続かないわ"
+      "ja": "でも両半球でこんなには続かないわ"
     }
   },
   {
@@ -620,7 +620,7 @@
   {
     "translation": {
       "en": "Hello, this is Barbeau Observatory. A family member has been left behind.",
-      "ja": "こちら天文台 子供が取り残されてる"
+      "ja": "こちら天文台子供が取り残されてる"
     }
   },
   {
@@ -632,7 +632,7 @@
   {
     "translation": {
       "en": "Hello, this is Barbeau Observatory. An outpost child has been left. Sh--",
-      "ja": "こちらバーボー天文台 職員の子供が…"
+      "ja": "こちらバーボー天文台職員の子供が…"
     }
   },
   {
@@ -649,8 +649,8 @@
   },
   {
     "translation": {
-      "en": "She's a-- She's an unidentified child.",
-      "ja": "女の子だが… 身元が分からない"
+      "en": "[hesitates] She's a-- She's an unidentified child.",
+      "ja": "女の子だが…身元が分からない"
     }
   },
   {
@@ -674,7 +674,7 @@
   {
     "translation": {
       "en": "Somebody's gotta be coming back for you, because I can't help you.",
-      "ja": "誰か来ないと… 私には助けられん"
+      "ja": "誰か来ないと…私には助けられん"
     }
   },
   {
@@ -751,14 +751,14 @@
   },
   {
     "translation": {
-      "en": "- Okay. -",
+      "en": "-Okay. -[system beeps]",
       "ja": "そうか"
     }
   },
   {
     "translation": {
-      "en": "Aether is within direct contact range. There are no incoming messages.",
-      "ja": "アイテルが通信圏内です メッセージはありません"
+      "en": "[system voice] Aether is within direct contact range. There are no incoming messages.",
+      "ja": "アイテルが通信圏内ですメッセージはありません"
     }
   },
   {
@@ -775,7 +775,7 @@
   },
   {
     "translation": {
-      "en": "Come in, Aether. This is Barbeau Observatory.",
+      "en": "[Augustine] Come in, Aether. This is Barbeau Observatory.",
       "ja": "アイテル 私の声が聞こえるか？"
     }
   },
@@ -794,7 +794,7 @@
   {
     "translation": {
       "en": "Come in, Aether. This is Barbeau Observatory. Are you receiving this?",
-      "ja": "アイテル 私の声が聞こえるか？"
+      "ja": "アイテル私の声が聞こえるか？"
     }
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "translation": {
-      "en": "The antenna's our problem. It's not strong enough.",
+      "en": "[Augustine] The antenna's our problem. It's not strong enough.",
       "ja": "アンテナに障害がある"
     }
   },
@@ -925,8 +925,8 @@
   },
   {
     "translation": {
-      "en": "Given all the variables, the fact that we can't contact the K- 23 colony flight",
-      "ja": "どの周波数でも コロニー船と交信できず―"
+      "en": "Given all the variables, the fact that we can't contact the K-23 colony flight",
+      "ja": "どの周波数でもコロニー船と交信できず―"
     }
   },
   {
@@ -950,7 +950,7 @@
   {
     "translation": {
       "en": "But we have exhausted every possible trouble area on our side",
-      "ja": "だが問題とおぼしき箇所を 精査しても―"
+      "ja": "だが問題とおぼしき箇所を精査しても―"
     }
   },
   {
@@ -961,14 +961,14 @@
   },
   {
     "translation": {
-      "en": "If this were a less experienced crew, this ship would be in full- blown panic.",
-      "ja": "新人のクルーなら パニックになったな"
+      "en": "[Ade] If this were a less experienced crew, this ship would be in full-blown panic.",
+      "ja": "新人のクルーならパニックになったな"
     }
   },
   {
     "translation": {
-      "en": "Mission Specialist Sullivan is now breaking every protocol",
-      "ja": "サリーは プロトコルを無視して―"
+      "en": "[Ade] Mission Specialist Sullivan is now breaking every protocol",
+      "ja": "サリーはプロトコルを無視して―"
     }
   },
   {
@@ -1004,13 +1004,13 @@
   {
     "translation": {
       "en": "simply the best flier there is, but he's anxious to get home.",
-      "ja": "最高の操縦士だが 家に帰りたがってる"
+      "ja": "最高の操縦士だが家に帰りたがってる"
     }
   },
   {
     "translation": {
-      "en": "Maya and Sanchez are on 12- hour shifts as they boot and reboot the comms system,",
-      "ja": "マヤとサンチェスは シフト制で 通信システムを監視"
+      "en": "Maya and Sanchez are on 12-hour shifts as they boot and reboot the comms system,",
+      "ja": "マヤとサンチェスはシフト制で 通信システムを監視"
     }
   },
   {
@@ -1022,13 +1022,13 @@
   {
     "translation": {
       "en": "Overall, the crew's spirit remains high as we near the end of our journey.",
-      "ja": "旅の終盤でも クルーの士気は高い"
+      "ja": "旅の終盤でもクルーの士気は高い"
     }
   },
   {
     "translation": {
-      "en": "Our two- year mission to K- 23",
-      "ja": "２年の Ｋｰ23ミッションは―"
+      "en": "Our two-year mission to K-23",
+      "ja": "２年のＫｰ23ミッションは―"
     }
   },
   {
@@ -1063,14 +1063,14 @@
   },
   {
     "translation": {
-      "en": "Why is it so quiet?",
+      "en": "\"Why is it so quiet?\"",
       "ja": "“この静けさは何だ？”"
     }
   },
   {
     "translation": {
-      "en": "Your breakfast has timed out. Would you like another?",
-      "ja": "“朝食”は終了 もう一度 見ますか？"
+      "en": "[system voice] Your breakfast has timed out. Would you like another?",
+      "ja": "“朝食”は終了もう一度 見ますか？"
     }
   },
   {
@@ -1165,7 +1165,7 @@
   },
   {
     "translation": {
-      "en": "possible sighting of a life- form that ultimately proved false.",
+      "en": "possible sighting of a life-form that ultimately proved false.",
       "ja": "生命体の目撃は誤りだった"
     }
   },
@@ -1178,13 +1178,13 @@
   {
     "translation": {
       "en": "To discover new worlds, to… give life some hope.",
-      "ja": "新世界を発見して 未来を託したい"
+      "ja": "新世界を発見して未来を託したい"
     }
   },
   {
     "translation": {
       "en": "But while you're doing all that, your own life is just slipping away.",
-      "ja": "でも その代償として 自分の人生をすり減らしてく"
+      "ja": "でも その代償として自分の人生をすり減らしてく"
     }
   },
   {
@@ -1195,7 +1195,7 @@
   },
   {
     "translation": {
-      "en": "But, you know…",
+      "en": "[sniffles] But, you know…",
       "ja": "でも分かってる"
     }
   },
@@ -1279,7 +1279,7 @@
   },
   {
     "translation": {
-      "en": "It's okay.",
+      "en": "[Augustine] It's okay.",
       "ja": "大丈夫"
     }
   },
@@ -1321,55 +1321,55 @@
   },
   {
     "translation": {
-      "en": "- Sniffing. - What?",
+      "en": "-Sniffing. -[woman 2] What?",
       "ja": "鼻が鳴ったの　クンクンって"
     }
   },
   {
     "translation": {
-      "en": "Then I heard this voice that was like, Oh, damn, you smell good.",
-      "ja": "そして“いい匂い”って 声が聞こえた"
+      "en": "[woman 1] Then I heard this voice that was like, \"Oh, damn, you smell good.\"",
+      "ja": "そして“いい匂い”って声が聞こえた"
     }
   },
   {
     "translation": {
-      "en": "- What? - And it was the guy!",
+      "en": "-[woman 2] What? -[woman 1] And it was the guy!",
       "ja": "それが彼"
     }
   },
   {
     "translation": {
-      "en": "- No way, you're lying. - Why would I lie?",
+      "en": "-[woman 2] No way, you're lying. -[woman 1] Why would I lie?",
       "ja": "ウソ 本当よ"
     }
   },
   {
     "translation": {
-      "en": "- He did that? - No, he didn't.",
+      "en": "-[woman 2] He did that? -[woman 3] No, he didn't.",
       "ja": "そう言ったの？"
     }
   },
   {
     "translation": {
-      "en": "- Oh my God. He did that? - Yeah, he did.",
+      "en": "-[woman 2] Oh my God. He did that? -[woman 1] Yeah, he did.",
       "ja": "マジで言ったの？"
     }
   },
   {
     "translation": {
-      "en": "- But why? - 'Cause I smell good!",
+      "en": "-[woman 2] But why? -[woman 1] 'Cause I smell good!",
       "ja": "なぜよ？"
     }
   },
   {
     "translation": {
-      "en": "So, what? He was behind you?",
+      "en": "[woman 2] So, what? He was behind you?",
       "ja": "後ろにいたの？"
     }
   },
   {
     "translation": {
-      "en": "He was right behind me. He came down onto my neck.",
+      "en": "[woman 1] He was right behind me. He came down onto my neck.",
       "ja": "後ろにいて私の首筋に…"
     }
   },
@@ -1381,13 +1381,13 @@
   },
   {
     "translation": {
-      "en": "- No. -",
+      "en": "-[whispers] No. -[chatter in hologram continues]",
       "ja": "いいよ"
     }
   },
   {
     "translation": {
-      "en": "- Come in! -",
+      "en": "-Come in! -[Sanchez chuckles]",
       "ja": "入って"
     }
   },
@@ -1406,12 +1406,12 @@
   {
     "translation": {
       "en": "And that is my very, very best friend from high school.",
-      "ja": "あっちは高校からの 大親友なの"
+      "ja": "あっちは高校からの大親友なの"
     }
   },
   {
     "translation": {
-      "en": "He turns up. - Wait for it.",
+      "en": "[Maya's friend] He turns up. -Wait for it.",
       "ja": "待って"
     }
   },
@@ -1424,7 +1424,7 @@
   {
     "translation": {
       "en": "The world's smartest cat, Einstein.",
-      "ja": "世界一賢い猫 アインシュタイン"
+      "ja": "世界一賢い猫アインシュタイン"
     }
   },
   {
@@ -1435,13 +1435,13 @@
   },
   {
     "translation": {
-      "en": "I'm so frightened.",
+      "en": "[woman on TV] I'm so frightened.",
       "ja": "怖いの"
     }
   },
   {
     "translation": {
-      "en": "I'm so sorry for so many things.",
+      "en": "[man] I'm so sorry for so many things.",
       "ja": "いろいろ すまなかった"
     }
   },
@@ -1465,44 +1465,44 @@
   },
   {
     "translation": {
-      "en": "Do you want to change games?",
-      "ja": "やめる？ 私は幸運の連続だけど"
+      "en": "[Sully] Do you want to change games?",
+      "ja": "やめる？私は幸運の連続だけど"
     }
   },
   {
     "translation": {
-      "en": "- I'm on about a two- month winning streak. - I'm pacing myself.",
-      "ja": "やめる？ 私は幸運の連続だけど 気楽にやるよ"
+      "en": "-I'm on about a two-month winning streak. -[Ade] I'm pacing myself.",
+      "ja": "やめる？私は幸運の連続だけど 気楽にやるよ"
     }
   },
   {
     "translation": {
       "en": "I got into NASA 'cause I was damn good at mathematics.",
-      "ja": "数学が得意で ＮＡＳＡに入った"
+      "ja": "数学が得意でＮＡＳＡに入った"
     }
   },
   {
     "translation": {
-      "en": "Now, I don't like to use the word prodigy, but--",
-      "ja": "数学が得意で ＮＡＳＡに入った いわゆる“神童”で…"
+      "en": "Now, I don't like to use the word \"prodigy,\" but--",
+      "ja": "数学が得意でＮＡＳＡに入った いわゆる“神童”で…"
     }
   },
   {
     "translation": {
       "en": "Yeah, I read your bio. You also broke the family dog's leg when you strapped it to a wooden rocket.",
-      "ja": "木製ロケットに犬を縛って 脚を折ったでしょ"
+      "ja": "木製ロケットに犬を縛って脚を折ったでしょ"
     }
   },
   {
     "translation": {
-      "en": "- That's irrelevant. - Not to the dog.",
+      "en": "-That's irrelevant. -Not to the dog.",
       "ja": "それが？ 犬が気の毒"
     }
   },
   {
     "translation": {
       "en": "Did you know there are over 60 billion possible combinations of rummy hands at the start of the game?",
-      "ja": "ラミーの手の組み合わせは 600億とおり以上ある"
+      "ja": "ラミーの手の組み合わせは600億とおり以上ある"
     }
   },
   {
@@ -1526,19 +1526,19 @@
   {
     "translation": {
       "en": "among 60 billion possible combinations. But when you apply…",
-      "ja": "600億の 組み合わせの中で…"
+      "ja": "600億の組み合わせの中で…"
     }
   },
   {
     "translation": {
-      "en": "genius- level math skills to the equation,",
+      "en": "genius-level math skills to the equation,",
       "ja": "天才的なスキルを使えば"
     }
   },
   {
     "translation": {
       "en": "you can shift those combinations to your favor.",
-      "ja": "組み合わせを 有利にシフトできる"
+      "ja": "組み合わせを有利にシフトできる"
     }
   },
   {
@@ -1555,37 +1555,37 @@
   },
   {
     "translation": {
-      "en": "You, my friend, are what my fellow mathematicians refer to as… a simpleton.",
-      "ja": "君は俺の数学仲間が 言うところの―"
+      "en": "[chuckles] You, my friend, are what my fellow mathematicians refer to as… a simpleton.",
+      "ja": "君は俺の数学仲間が言うところの―"
     }
   },
   {
     "translation": {
-      "en": "- Oh!  A simpleton! -",
+      "en": "-Oh! [chuckles] A simpleton! -[alarm blaring]",
       "ja": "単細胞だ 単細胞？"
     }
   },
   {
     "translation": {
-      "en": "- We've deviated off course. - How far?",
+      "en": "-We've deviated off course. -[Ade] How far?",
       "ja": "コースを外れた"
     }
   },
   {
     "translation": {
-      "en": "Can't tell yet. Auto- deactivated at some point.",
+      "en": "Can't tell yet. Auto-deactivated at some point.",
       "ja": "どこかで自動停止を"
     }
   },
   {
     "translation": {
-      "en": "Shut us down. Kill the engines before we get completely sideways.",
+      "en": "[Ade] Shut us down. Kill the engines before we get completely sideways.",
       "ja": "エンジンを切れ　逸脱するぞ"
     }
   },
   {
     "translation": {
-      "en": "- Problem with navigation. - So we're off course. How far?",
+      "en": "-Problem with navigation. -So we're off course. How far?",
       "ja": "ナビに異常 逸脱距離は？"
     }
   },
@@ -1609,13 +1609,13 @@
   },
   {
     "translation": {
-      "en": "- 0.4 degrees. - And it sounded for what? 80 seconds?",
+      "en": "-0.4 degrees. -And it sounded for what? 80 seconds?",
       "ja": "0.4度 80秒間？"
     }
   },
   {
     "translation": {
-      "en": "- At 30,000 miles per hour. - Plus coast speed after engine kill.",
+      "en": "-[Maya] At 30,000 miles per hour. -Plus coast speed after engine kill.",
       "ja": "時速４万8000キロ プラス惰力"
     }
   },
@@ -1627,7 +1627,7 @@
   },
   {
     "translation": {
-      "en": "- Non- existent without comms. - Sanchez, shut off the alarm.",
+      "en": "-Non-existent without comms. -Sanchez, shut off the alarm.",
       "ja": "無理よ 警報を切れ"
     }
   },
@@ -1639,14 +1639,14 @@
   },
   {
     "translation": {
-      "en": "Jupiter probes, the beacon we left behind at K- 23,",
-      "ja": "木星探査機に Ｋ-23のビーコン"
+      "en": "[Sully over radio] Jupiter probes, the beacon we left behind at K-23,",
+      "ja": "木星探査機にＫ-23のビーコン"
     }
   },
   {
     "translation": {
       "en": "the supply probe on its way there now, some dying satellites--",
-      "ja": "供給探査機と 機能停止の人工衛星"
+      "ja": "供給探査機と機能停止の人工衛星"
     }
   },
   {
@@ -1657,8 +1657,8 @@
   },
   {
     "translation": {
-      "en": "We can reference the K- 23 beacon as our starting point.",
-      "ja": "Ｋ-23のビーコンを 出発点にすれば…"
+      "en": "We can reference the K-23 beacon as our starting point.",
+      "ja": "Ｋ-23のビーコンを出発点にすれば…"
     }
   },
   {
@@ -1675,7 +1675,7 @@
   },
   {
     "translation": {
-      "en": "Start building.",
+      "en": "[Ade] Start building.",
       "ja": "やろう"
     }
   },
@@ -1687,7 +1687,7 @@
   },
   {
     "translation": {
-      "en": "Maya, help Sanchez with the course design.",
+      "en": "[over radio] Maya, help Sanchez with the course design.",
       "ja": "マヤ　サンチェスを手伝え"
     }
   },
@@ -1699,19 +1699,19 @@
   },
   {
     "translation": {
-      "en": "And the hits keep coming.",
+      "en": "[Mitchell] And the hits keep coming.",
       "ja": "障害物も"
     }
   },
   {
     "translation": {
       "en": "Ten models, ten matching results.",
-      "ja": "10のモデルと 10のマッチング結果"
+      "ja": "10のモデルと10のマッチング結果"
     }
   },
   {
     "translation": {
-      "en": "You sure about the numbers?",
+      "en": "[Mitchell] You sure about the numbers?",
       "ja": "数値は確かか？"
     }
   },
@@ -1724,7 +1724,7 @@
   {
     "translation": {
       "en": "Yeah, but it puts us in zones that haven't been cleared for passage.",
-      "ja": "しかし通過するには 危険なゾーンだ"
+      "ja": "しかし通過するには危険なゾーンだ"
     }
   },
   {
@@ -1736,7 +1736,7 @@
   {
     "translation": {
       "en": "Well, we know there was meteor activity here, and we can avoid that, but…",
-      "ja": "この辺りの流星活動は 避けられるが…"
+      "ja": "この辺りの流星活動は避けられるが…"
     }
   },
   {
@@ -1753,7 +1753,7 @@
   },
   {
     "translation": {
-      "en": "Nobody's mapped it.",
+      "en": "[Maya] Nobody's mapped it.",
       "ja": "未知の領域"
     }
   },
@@ -1783,7 +1783,7 @@
   },
   {
     "translation": {
-      "en": "We're okay for now.",
+      "en": "[Augustine] We're okay for now.",
       "ja": "もうチェックしなくていい"
     }
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "translation": {
-      "en": "Stay here.",
+      "en": "[Augustine] Stay here.",
       "ja": "動くな"
     }
   },
@@ -1849,7 +1849,7 @@
   },
   {
     "translation": {
-      "en": "Take care of yourself  Goodbye!",
+      "en": "[woman] Take care of yourself [laughing] Goodbye!",
       "ja": "気をつけて　さよなら"
     }
   },
@@ -1880,7 +1880,7 @@
   {
     "translation": {
       "en": "My, uh… My father had a stroke, so we wanted to spend time with him.",
-      "ja": "父が脳卒中で倒れて 一緒にいたわ"
+      "ja": "父が脳卒中で倒れて一緒にいたわ"
     }
   },
   {
@@ -1915,13 +1915,13 @@
   },
   {
     "translation": {
-      "en": "You know, this machine was actually designed to detect alien life- forms that might invade our system.",
-      "ja": "このマシンは体内に侵入した エイリアンを検出できるの"
+      "en": "You know, this machine was actually designed to detect alien life-forms that might invade our system.",
+      "ja": "このマシンは体内に侵入したエイリアンを検出できるの"
     }
   },
   {
     "translation": {
-      "en": "That sounds about right.",
+      "en": "[chuckles] That sounds about right.",
       "ja": "そうみたいね"
     }
   },
@@ -1939,7 +1939,7 @@
   },
   {
     "translation": {
-      "en": "We're having a girl.",
+      "en": "[Sully] We're having a girl.",
       "ja": "女の子よ"
     }
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "translation": {
-      "en": "- No, you said that, not me. - Did I say that?",
+      "en": "-No, you said that, not me. -Did I say that?",
       "ja": "君が言った 私が？"
     }
   },
@@ -1999,7 +1999,7 @@
   },
   {
     "translation": {
-      "en": "Trudy?",
+      "en": "[Sully] Trudy?",
       "ja": "トゥルーディ？"
     }
   },
@@ -2011,13 +2011,13 @@
   },
   {
     "translation": {
-      "en": "- Penelope? -",
+      "en": "-Penelope? -[Ade laughs]",
       "ja": "ペネロピ？"
     }
   },
   {
     "translation": {
-      "en": "Margot?",
+      "en": "[Sully chuckles] Margot?",
       "ja": "マーゴット？"
     }
   },
@@ -2041,7 +2041,7 @@
   },
   {
     "translation": {
-      "en": "For now.",
+      "en": "For now. [coughing]",
       "ja": "休めるな"
     }
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "translation": {
-      "en": "It's all we have.",
+      "en": "[Augustine] It's all we have.",
       "ja": "これだけだ"
     }
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "translation": {
-      "en": "Iris?",
+      "en": "[Augustine] Iris?",
       "ja": "アイリス！"
     }
   },
@@ -2275,7 +2275,7 @@
   },
   {
     "translation": {
-      "en": "I thought I'd lost you.",
+      "en": "[Augustine] I thought I'd lost you.",
       "ja": "どこにいた？"
     }
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "translation": {
-      "en": "All good?",
+      "en": "[Ade] All good?",
       "ja": "どうだ？"
     }
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "translation": {
-      "en": "Nothing yet. It's just a glitch.",
+      "en": "[Ade] Nothing yet. It's just a glitch.",
       "ja": "何もない　ただの不具合だ"
     }
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "translation": {
-      "en": "Until someone tells me different, Tom.",
+      "en": "[Ade] Until someone tells me different, Tom.",
       "ja": "反証がない"
     }
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "translation": {
-      "en": "- Yeah. - Hmm.",
+      "en": "-[Ade] Yeah. -Hmm.",
       "ja": "ああ"
     }
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "translation": {
-      "en": "What?",
+      "en": "[Ade] What?",
       "ja": "何だ？"
     }
   },
@@ -2365,7 +2365,7 @@
   },
   {
     "translation": {
-      "en": "- Hyacinth? - Hmm.",
+      "en": "-Hyacinth? -Hmm.",
       "ja": "ヒヤシンス"
     }
   },
@@ -2377,13 +2377,13 @@
   },
   {
     "translation": {
-      "en": "81- 40 North.",
+      "en": "[Augustine over radio] 81-40 North.",
       "ja": "北緯81度40分"
     }
   },
   {
     "translation": {
-      "en": "72- 58 West.",
+      "en": "72-58 West.",
       "ja": "西経72度58分"
     }
   },
@@ -2395,8 +2395,8 @@
   },
   {
     "translation": {
-      "en": "This is the spaceship Aether returning from Jupiter Mission. - Can you hear me? - Yes.",
-      "ja": "こちらアイテル号 聞こえますか？"
+      "en": "This is the spaceship Aether returning from Jupiter Mission. -Can you hear me? -Yes.",
+      "ja": "こちらアイテル号聞こえますか？"
     }
   },
   {
@@ -2414,7 +2414,7 @@
   {
     "translation": {
       "en": "Lake Hazen, I can't tell you how happy I am to hear your voice.",
-      "ja": "声が聞けて すごくうれしいわ"
+      "ja": "声が聞けてすごくうれしいわ"
     }
   },
   {
@@ -2455,13 +2455,13 @@
   },
   {
     "translation": {
-      "en": "I wish I--",
+      "en": "[Augustine] I wish I--",
       "ja": "実は…"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry, Lake Hazen, I missed that last transmission.",
+      "en": "[Sully] I'm sorry, Lake Hazen, I missed that last transmission.",
       "ja": "よく聞こえないわ"
     }
   },
@@ -2480,7 +2480,7 @@
   {
     "translation": {
       "en": "I don't know all the details. I know it was a mistake.",
-      "ja": "詳細は知らないが 間違いだった"
+      "ja": "詳細は知らないが間違いだった"
     }
   },
   {
@@ -2497,25 +2497,25 @@
   },
   {
     "translation": {
-      "en": "Lake Hazen, do you copy?",
+      "en": "[Sully] Lake Hazen, do you copy?",
       "ja": "聞こえますか？"
     }
   },
   {
     "translation": {
-      "en": "- What is it? - I can't pull it up on radar.",
+      "en": "-[Ade] What is it? -[Maya] I can't pull it up on radar.",
       "ja": "どうした？ レーダーが"
     }
   },
   {
     "translation": {
-      "en": "- Can you rotate on this axis? - Trying now.",
+      "en": "-Can you rotate on this axis? -Trying now.",
       "ja": "回避できるか？ やってる"
     }
   },
   {
     "translation": {
-      "en": "What the hell is that?",
+      "en": "[Sanchez] What the hell is that?",
       "ja": "何だ？"
     }
   },
@@ -2528,7 +2528,7 @@
   {
     "translation": {
       "en": "Aether? Mission Specialist Sullivan, do you copy? Hello?",
-      "ja": "アイテル スペシャリスト･サリヴァン 応答せよ"
+      "ja": "アイテル スペシャリスト･サリヴァン応答せよ"
     }
   },
   {
@@ -2551,13 +2551,13 @@
   },
   {
     "translation": {
-      "en": "It's over.",
+      "en": "[Maya] It's over.",
       "ja": "終わったわ"
     }
   },
   {
     "translation": {
-      "en": "For now.",
+      "en": "[Mitchell] For now.",
       "ja": "今はな"
     }
   },
@@ -2575,14 +2575,14 @@
   },
   {
     "translation": {
-      "en": "What's the status on secondary and tertiary communications?",
+      "en": "[Ade] What's the status on secondary and tertiary communications?",
       "ja": "通信手段はあるか？"
     }
   },
   {
     "translation": {
       "en": "Lost communications. And lost radar.",
-      "ja": "通信もレーダーも 機能してない"
+      "ja": "通信もレーダーも機能してない"
     }
   },
   {
@@ -2594,12 +2594,12 @@
   {
     "translation": {
       "en": "Full reports on all systems, and let's at least get the radar fixed.",
-      "ja": "全システムの報告と レーダーの修理を"
+      "ja": "全システムの報告とレーダーの修理を"
     }
   },
   {
     "translation": {
-      "en": "On it.",
+      "en": "[Maya] On it.",
       "ja": "了解"
     }
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "translation": {
-      "en": "The printer can fix that.",
+      "en": "[Ade] The printer can fix that.",
       "ja": "修理できる"
     }
   },
@@ -2629,19 +2629,19 @@
   },
   {
     "translation": {
-      "en": "Okay.",
+      "en": "[Ade] Okay.",
       "ja": "よし"
     }
   },
   {
     "translation": {
-      "en": "And there's the comms.",
+      "en": "[Mitchell] And there's the comms.",
       "ja": "通信システム 〝ダメージ算定中〞"
     }
   },
   {
     "translation": {
-      "en": "And there's the comms.",
+      "en": "[Ade] And there's the comms.",
       "ja": "〝危険レベル〞 危機的だな"
     }
   },
@@ -2672,7 +2672,7 @@
   {
     "translation": {
       "en": "NASA can worry about how to unload their supply canisters when we get back.",
-      "ja": "ＮＡＳＡには 帰還後に説明する"
+      "ja": "ＮＡＳＡには帰還後に説明する"
     }
   },
   {
@@ -2683,7 +2683,7 @@
   },
   {
     "translation": {
-      "en": "- Hey, Maya? - Hmm?",
+      "en": "-[Sanchez] Hey, Maya? -[Maya] Hmm?",
       "ja": "マヤ"
     }
   },
@@ -2701,13 +2701,13 @@
   },
   {
     "translation": {
-      "en": "Better than Hyacinth?",
+      "en": "[Sanchez] Better than Hyacinth?",
       "ja": "ヒヤシンスより？"
     }
   },
   {
     "translation": {
-      "en": "- Yeah. - Yup.",
+      "en": "-Yeah. -Yup.",
       "ja": "まあね"
     }
   },
@@ -2732,13 +2732,13 @@
   {
     "translation": {
       "en": "Okay, I'll probably tag along, help carry that thing.",
-      "ja": "俺も行く 運ぶのを手伝うよ"
+      "ja": "俺も行く運ぶのを手伝うよ"
     }
   },
   {
     "translation": {
       "en": "There's no gravity out there. It's not gonna be too heavy for us girls to handle.",
-      "ja": "無重力だから 女性でも運べるわ"
+      "ja": "無重力だから女性でも運べるわ"
     }
   },
   {
@@ -2750,13 +2750,13 @@
   {
     "translation": {
       "en": "Is he going because he's worried about you or because I've never walked before?",
-      "ja": "彼はサリーが心配なの？ それとも初心者の私？"
+      "ja": "彼はサリーが心配なの？それとも初心者の私？"
     }
   },
   {
     "translation": {
       "en": "You've trained for this. He wouldn't send you out if he wasn't sure you could do it.",
-      "ja": "訓練を受けたでしょ 不安なら彼も許可しない"
+      "ja": "訓練を受けたでしょ不安なら彼も許可しない"
     }
   },
   {
@@ -2767,14 +2767,14 @@
   },
   {
     "translation": {
-      "en": "That's her fourth.",
+      "en": "[Mitchell] That's her fourth.",
       "ja": "４回目だ"
     }
   },
   {
     "translation": {
       "en": "I mean, she's so small. Where does it all keep coming from?",
-      "ja": "あんな小さい体で よく吐くな"
+      "ja": "あんな小さい体でよく吐くな"
     }
   },
   {
@@ -2785,7 +2785,7 @@
   },
   {
     "translation": {
-      "en": "I could throw up again.",
+      "en": "[Maya] I could throw up again.",
       "ja": "また吐きそう"
     }
   },
@@ -2797,19 +2797,19 @@
   },
   {
     "translation": {
-      "en": "Do it now before you secure the helmet. It's a bitch to get off.",
-      "ja": "ヘルメットを固定したら もう吐けないぞ"
+      "en": "[Ade] Do it now before you secure the helmet. It's a bitch to get off.",
+      "ja": "ヘルメットを固定したらもう吐けないぞ"
     }
   },
   {
     "translation": {
-      "en": "- You need help? - Uh- huh.",
+      "en": "-[Ade] You need help? -[Maya] Uh-huh.",
       "ja": "手を貸そう"
     }
   },
   {
     "translation": {
-      "en": "Thanks.",
+      "en": "[sighs] Thanks.",
       "ja": "どうも"
     }
   },
@@ -2821,19 +2821,19 @@
   },
   {
     "translation": {
-      "en": "You good, Maya?",
+      "en": "[Ade] You good, Maya?",
       "ja": "大丈夫か？"
     }
   },
   {
     "translation": {
-      "en": "We can go as fast or slow as you're comfortable out here.",
+      "en": "[Sully] We can go as fast or slow as you're comfortable out here.",
       "ja": "ゆっくりで構わないから"
     }
   },
   {
     "translation": {
-      "en": "That goes for you too, Sully.",
+      "en": "[Ade] That goes for you too, Sully.",
       "ja": "サリー　君もだ"
     }
   },
@@ -2851,31 +2851,31 @@
   },
   {
     "translation": {
-      "en": "No view quite like it.",
+      "en": "[Ade] No view quite like it.",
       "ja": "絶景だな"
     }
   },
   {
     "translation": {
-      "en": "- There's your radar. - Yep.",
+      "en": "-[Mitchell] There's your radar. -[Sully] Yep.",
       "ja": "レーダーだ"
     }
   },
   {
     "translation": {
-      "en": "The installation site should be coming up.",
+      "en": "[Mitchell] The installation site should be coming up.",
       "ja": "もうすぐ設置場所だ"
     }
   },
   {
     "translation": {
-      "en": "I see it.",
+      "en": "[Ade] I see it.",
       "ja": "見えた"
     }
   },
   {
     "translation": {
-      "en": "Twenty- five meters.",
+      "en": "[Mitchell] Twenty-five meters.",
       "ja": "25メートル"
     }
   },
@@ -2887,19 +2887,19 @@
   },
   {
     "translation": {
-      "en": "Got eyes on the antenna site.",
+      "en": "[Ade] Got eyes on the antenna site.",
       "ja": "アンテナ確認"
     }
   },
   {
     "translation": {
-      "en": "Hey, Sully. What do you think of the name Florence?",
+      "en": "[Mitchell] Hey, Sully. What do you think of the name Florence?",
       "ja": "サリー　フローレンスは？"
     }
   },
   {
     "translation": {
-      "en": "The kids would call her Flo.",
+      "en": "The kids would call her \"Flo.\"",
       "ja": "“フロー”と呼ばれるわ"
     }
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "translation": {
-      "en": "How's the radar look?",
+      "en": "[Mitchell] How's the radar look?",
       "ja": "レーダーは？"
     }
   },
@@ -2924,24 +2924,24 @@
   {
     "translation": {
       "en": "We've got some detached wires, but the nose is intact.",
-      "ja": "ワイヤーが切れてるけど 鼻の部分は無傷"
+      "ja": "ワイヤーが切れてるけど鼻の部分は無傷"
     }
   },
   {
     "translation": {
-      "en": "I'm sorry? Did you say the nose?",
+      "en": "I'm sorry? Did you say \"the nose\"?",
       "ja": "今 鼻って言った？"
     }
   },
   {
     "translation": {
-      "en": "- Everybody's a critic. -",
+      "en": "-Everybody's a critic. -[Sanchez chuckles]",
       "ja": "また揚げ足とり？"
     }
   },
   {
     "translation": {
-      "en": "- Hey, Sanchez. - Yep?",
+      "en": "-[Ade] Hey, Sanchez. -Yep?",
       "ja": "サンチェス"
     }
   },
@@ -2989,13 +2989,13 @@
   },
   {
     "translation": {
-      "en": "Copy that. Give me a second.",
+      "en": "[Mitchell] Copy that. Give me a second.",
       "ja": "了解　ちょっと待て"
     }
   },
   {
     "translation": {
-      "en": "All right, fantastic. Rebooting now.",
+      "en": "[Sanchez] All right, fantastic. Rebooting now.",
       "ja": "いいぞ　再起動した"
     }
   },
@@ -3013,7 +3013,7 @@
   },
   {
     "translation": {
-      "en": "Maya, are we secure?",
+      "en": "[Ade] Maya, are we secure?",
       "ja": "マヤ　どうだ？"
     }
   },
@@ -3025,13 +3025,13 @@
   },
   {
     "translation": {
-      "en": "Let's get back and see who wants to talk to us.",
+      "en": "[Ade] Let's get back and see who wants to talk to us.",
       "ja": "戻って交信してみよう"
     }
   },
   {
     "translation": {
-      "en": "- Sully, you take the lead. - Okay.",
+      "en": "-Sully, you take the lead. -[Sully] Okay.",
       "ja": "サリー　先に行け"
     }
   },
@@ -3044,18 +3044,18 @@
   {
     "translation": {
       "en": "Can't tell about comms, but radar looks like--",
-      "ja": "通信システムはともかく レーダーは…"
+      "ja": "通信システムはともかくレーダーは…"
     }
   },
   {
     "translation": {
-      "en": "What do we got?",
+      "en": "[Mitchell] What do we got?",
       "ja": "何だ？"
     }
   },
   {
     "translation": {
-      "en": "- Maya, move! -",
+      "en": "-Maya, move! -[gasps]",
       "ja": "マヤ　動け！"
     }
   },
@@ -3067,13 +3067,13 @@
   },
   {
     "translation": {
-      "en": "- Get out of there. - Go now, Ade!",
+      "en": "-[Sanchez] Get out of there. -Go now, Ade!",
       "ja": "退避しろ"
     }
   },
   {
     "translation": {
-      "en": "- Maya! Get out of there now! - I'm stuck!",
+      "en": "-[Sanchez] Maya! Get out of there now! -I'm stuck!",
       "ja": "マヤ　急げ！ とれない"
     }
   },
@@ -3110,25 +3110,25 @@
   {
     "translation": {
       "en": "Is everybody all right? Everybody safe?",
-      "ja": "みんな大丈夫か？ ケガはない？"
+      "ja": "みんな大丈夫か？ケガはない？"
     }
   },
   {
     "translation": {
-      "en": "- You okay? - Son of a bitch!",
+      "en": "-You okay? -Son of a bitch!",
       "ja": "無事か？ クソッ！　ビックリした"
     }
   },
   {
     "translation": {
-      "en": "What the fuck?",
+      "en": "What the fuck? [exclaims]",
       "ja": "クソッ！　ビックリした"
     }
   },
   {
     "translation": {
       "en": "Okay, okay. Let's get inside before Maya breaks something else.",
-      "ja": "マヤが何か壊す前に 船内に戻ろう"
+      "ja": "マヤが何か壊す前に船内に戻ろう"
     }
   },
   {
@@ -3139,7 +3139,7 @@
   },
   {
     "translation": {
-      "en": "Status report?",
+      "en": "[Mitchell] Status report?",
       "ja": "状況報告を"
     }
   },
@@ -3170,7 +3170,7 @@
   {
     "translation": {
       "en": "I am gonna celebrate the first and last time I walk in space.",
-      "ja": "最初で最後の 宇宙遊泳を祝して"
+      "ja": "最初で最後の宇宙遊泳を祝して"
     }
   },
   {
@@ -3181,25 +3181,25 @@
   },
   {
     "translation": {
-      "en": "We could all use a drink.",
+      "en": "[Sully] We could all use a drink.",
       "ja": "一緒に飲もう"
     }
   },
   {
     "translation": {
-      "en": "Help me.",
+      "en": "[softly] Help me.",
       "ja": "助けて"
     }
   },
   {
     "translation": {
-      "en": "Help-- Help me.",
+      "en": "[hesitating] Help-- Help me.",
       "ja": "誰か"
     }
   },
   {
     "translation": {
-      "en": "Maya?",
+      "en": "[Sully] Maya?",
       "ja": "マヤ"
     }
   },
@@ -3217,26 +3217,26 @@
   },
   {
     "translation": {
-      "en": "Penetration wound.",
+      "en": "[Ade] Penetration wound.",
       "ja": "マヤが負傷"
     }
   },
   {
     "translation": {
-      "en": "Sanchez, have med- pack ready to meet us in the airlock.",
+      "en": "Sanchez, have med-pack ready to meet us in the airlock.",
       "ja": "エアロックに救急パックを"
     }
   },
   {
     "translation": {
       "en": "Sanchez is on it.",
-      "ja": "サンチェスが行く マヤの酸素濃度低下"
+      "ja": "サンチェスが行くマヤの酸素濃度低下"
     }
   },
   {
     "translation": {
       "en": "Ade, her oxygen levels are falling fast.",
-      "ja": "サンチェスが行く マヤの酸素濃度低下 サンチェスが行く マヤの酸素濃度低下 〝マヤ〞"
+      "ja": "サンチェスが行くマヤの酸素濃度低下 サンチェスが行くマヤの酸素濃度低下 〝マヤ〞"
     }
   },
   {
@@ -3247,31 +3247,31 @@
   },
   {
     "translation": {
-      "en": "- What did I do wrong? - You didn't do anything wrong.",
+      "en": "-[Maya] What did I do wrong? -You didn't do anything wrong.",
       "ja": "私 ヘマをした？ してないわ"
     }
   },
   {
     "translation": {
-      "en": "You're gonna be fine.",
+      "en": "[Sully] You're gonna be fine.",
       "ja": "大丈夫だから"
     }
   },
   {
     "translation": {
-      "en": "Is it bad?",
+      "en": "[Maya] Is it bad?",
       "ja": "ひどいの？"
     }
   },
   {
     "translation": {
-      "en": "- - Let's get this backpack off.",
+      "en": "-[Maya gasping] -[Ade] Let's get this backpack off.",
       "ja": "背中を外せ"
     }
   },
   {
     "translation": {
-      "en": "- Just breathe, Maya. - Sanchez, get that med- pack in here!",
+      "en": "-[Sully] Just breathe, Maya. -Sanchez, get that med-pack in here!",
       "ja": "呼吸して 救急パックを"
     }
   },
@@ -3283,13 +3283,13 @@
   },
   {
     "translation": {
-      "en": "Just breathe.",
+      "en": "[Sully] Just breathe.",
       "ja": "呼吸して"
     }
   },
   {
     "translation": {
-      "en": "- - That's it.",
+      "en": "-[Maya continues groaning] -[Sully] That's it.",
       "ja": "そうよ"
     }
   },
@@ -3307,8 +3307,8 @@
   },
   {
     "translation": {
-      "en": "- I'm gonna take your helmet off. - Okay. - Okay? You're gonna be fine. - Okay.",
-      "ja": "ヘルメットをとるわ 大丈夫だから"
+      "en": "-I'm gonna take your helmet off. -Okay. -Okay? You're gonna be fine. -Okay.",
+      "ja": "ヘルメットをとるわ大丈夫だから"
     }
   },
   {
@@ -3331,7 +3331,7 @@
   },
   {
     "translation": {
-      "en": "- - Ten seconds! Come on!",
+      "en": "-[Maya groans] -Ten seconds! Come on!",
       "ja": "10秒だ"
     }
   },
@@ -3343,37 +3343,37 @@
   },
   {
     "translation": {
-      "en": "- That's too much blood. - It's okay.",
+      "en": "-That's too much blood. -[Sully] It's okay.",
       "ja": "すごい出血 大丈夫よ"
     }
   },
   {
     "translation": {
-      "en": "- There's too much blood. - You're okay.",
+      "en": "-There's too much blood. -[Sully] You're okay.",
       "ja": "多すぎる"
     }
   },
   {
     "translation": {
-      "en": "- We don't have time. Put pressure. - Here? Hang on.",
+      "en": "-We don't have time. Put pressure. -[Sanchez] Here? Hang on.",
       "ja": "手で圧迫しろ"
     }
   },
   {
     "translation": {
-      "en": "There's too much blood. Too much blood.",
+      "en": "[Maya] There's too much blood. Too much blood.",
       "ja": "出血量が多すぎる"
     }
   },
   {
     "translation": {
-      "en": "- I got it. - You're gonna be fine. Okay?",
+      "en": "-I got it. -You're gonna be fine. Okay?",
       "ja": "大丈夫　きっと助かるから"
     }
   },
   {
     "translation": {
-      "en": "- Maya? Maya, breathe. - Hmm?",
+      "en": "-Maya? Maya, breathe. -Hmm?",
       "ja": "マヤ　呼吸して"
     }
   },
@@ -3385,49 +3385,49 @@
   },
   {
     "translation": {
-      "en": "Puncture wound to the lower back.",
+      "en": "[Ade] Puncture wound to the lower back.",
       "ja": "貫通してる"
     }
   },
   {
     "translation": {
-      "en": "Maya?",
+      "en": "[Sully] Maya?",
       "ja": "マヤ"
     }
   },
   {
     "translation": {
-      "en": "- You're gonna be fine. -",
+      "en": "-You're gonna be fine. -[Maya gasping]",
       "ja": "大丈夫"
     }
   },
   {
     "translation": {
-      "en": "- You're gonna be fine. Yes. - No.",
+      "en": "-You're gonna be fine. Yes. -[Maya] No.",
       "ja": "きっと助かるから"
     }
   },
   {
     "translation": {
-      "en": "- Maya. - Why won't the blood stop?",
+      "en": "-[Sully] Maya. -Why won't the blood stop?",
       "ja": "マヤ 止まらない"
     }
   },
   {
     "translation": {
-      "en": "Keep looking at me.",
+      "en": "[Sully] Keep looking at me.",
       "ja": "しっかり"
     }
   },
   {
     "translation": {
-      "en": "- Maya. - I have to stay here.",
+      "en": "-Maya. -I have to stay here.",
       "ja": "手を離せない"
     }
   },
   {
     "translation": {
-      "en": "- Okay, hold on. - Mitchell, get us ready.",
+      "en": "-[Ade] Okay, hold on. -Mitchell, get us ready.",
       "ja": "ミッチェル"
     }
   },
@@ -3439,43 +3439,43 @@
   },
   {
     "translation": {
-      "en": "- Please. - I'm trying. I'm trying.",
+      "en": "-Please. -[Maya] I'm trying. I'm trying.",
       "ja": "お願い お願いだから"
     }
   },
   {
     "translation": {
-      "en": "Maya.",
+      "en": "[Sully panting] Maya.",
       "ja": "マヤ"
     }
   },
   {
     "translation": {
-      "en": "Lake Hazen, this is Aether. Are you receiving?",
+      "en": "[Sully] Lake Hazen, this is Aether. Are you receiving?",
       "ja": "ヘイゼン湖　聞こえますか？"
     }
   },
   {
     "translation": {
-      "en": "Captain, we just got our first view of Earth.",
+      "en": "[Mitchell over radio] Captain, we just got our first view of Earth.",
       "ja": "船長 地球が見えてきた"
     }
   },
   {
     "translation": {
       "en": "I tied into the signals of the old Astron satellite telescope.",
-      "ja": "これはアストロンの 宇宙望遠鏡の画像だ"
+      "ja": "これはアストロンの宇宙望遠鏡の画像だ"
     }
   },
   {
     "translation": {
-      "en": "What do we do?",
+      "en": "[sighs] What do we do?",
       "ja": "どうする？"
     }
   },
   {
     "translation": {
-      "en": "Lake Hazen, this is Aether. Are you receiving?",
+      "en": "[Sully over radio] Lake Hazen, this is Aether. Are you receiving?",
       "ja": "ヘイゼン湖　聞こえますか？"
     }
   },
@@ -3488,7 +3488,7 @@
   {
     "translation": {
       "en": "Lake Hazen, this is Aether. Are you receiving this transmission?",
-      "ja": "こちらアイテル号 受信していますか？"
+      "ja": "こちらアイテル号受信していますか？"
     }
   },
   {
@@ -3505,26 +3505,26 @@
   },
   {
     "translation": {
-      "en": "Our comm system went offline.",
+      "en": "[Sully] Our comm system went offline.",
       "ja": "通信がダウンして…"
     }
   },
   {
     "translation": {
       "en": "We're operational now and just got a visual on Earth.",
-      "ja": "今は復旧して 地球が見えてます"
+      "ja": "今は復旧して地球が見えてます"
     }
   },
   {
     "translation": {
       "en": "I'm afraid we didn't do a good job of looking after the place while you were away.",
-      "ja": "君らの留守中に 地球を守れなかった"
+      "ja": "君らの留守中に地球を守れなかった"
     }
   },
   {
     "translation": {
-      "en": "Do you see any new data that suggests possible safe entry points for us?",
-      "ja": "私たちが安全に 進入できる地点は？"
+      "en": "[Sully] Do you see any new data that suggests possible safe entry points for us?",
+      "ja": "私たちが安全に進入できる地点は？"
     }
   },
   {
@@ -3559,7 +3559,7 @@
   },
   {
     "translation": {
-      "en": "If we want to get back to K- 23, yes.",
+      "en": "If we want to get back to K-23, yes.",
       "ja": "Ｋ-23に戻りたければな"
     }
   },
@@ -3583,25 +3583,25 @@
   },
   {
     "translation": {
-      "en": "- Why would we do that? - There's nothing left for us down there.",
+      "en": "-[Mitchell] Why would we do that? -There's nothing left for us down there.",
       "ja": "なぜだ？ 地球は終わりよ"
     }
   },
   {
     "translation": {
-      "en": "- We're not slingshotting back into space. - We'll die if we go back.",
+      "en": "-We're not slingshotting back into space. -We'll die if we go back.",
       "ja": "俺は地球に戻りたい 死ぬわ"
     }
   },
   {
     "translation": {
-      "en": "- He's still alive. - Poles will be the last areas hit.",
+      "en": "-[Mitchell] He's still alive. -Poles will be the last areas hit.",
       "ja": "彼は？ 最後の砦だ"
     }
   },
   {
     "translation": {
-      "en": "- Air contamination is rising. - We don't know anything.",
+      "en": "-[Sully] Air contamination is rising. -We don't know anything.",
       "ja": "大気汚染が まだ不明だ"
     }
   },
@@ -3613,8 +3613,8 @@
   },
   {
     "translation": {
-      "en": "Our mission was to go to K- 23, turn around, and come home.",
-      "ja": "地球に戻るまでが 俺たちの任務だ"
+      "en": "Our mission was to go to K-23, turn around, and come home.",
+      "ja": "地球に戻るまでが俺たちの任務だ"
     }
   },
   {
@@ -3625,7 +3625,7 @@
   },
   {
     "translation": {
-      "en": "Lake Hazen, are you still picking this up?",
+      "en": "[Sully over radio] Lake Hazen, are you still picking this up?",
       "ja": "ヘイゼン湖　聞こえますか？"
     }
   },
@@ -3637,14 +3637,14 @@
   },
   {
     "translation": {
-      "en": "Lake Hazen, this is Aether Flight Commander Gordon Adewole.",
+      "en": "[Ade] Lake Hazen, this is Aether Flight Commander Gordon Adewole.",
       "ja": "私はアデウォレ船長だ"
     }
   },
   {
     "translation": {
       "en": "Your numbers are intriguing, but they have me curious as to how you came up with them,",
-      "ja": "あなたは どうやって あの数値を出した？"
+      "ja": "あなたは どうやってあの数値を出した？"
     }
   },
   {
@@ -3661,7 +3661,7 @@
   },
   {
     "translation": {
-      "en": "Augustine Lofthouse.",
+      "en": "[Augustine] Augustine Lofthouse.",
       "ja": "オーガスティン･ロフタス"
     }
   },
@@ -3680,7 +3680,7 @@
   {
     "translation": {
       "en": "Unfortunately, that seems less likely as of the last few days.",
-      "ja": "この数日で可能性は 低くなりましたが"
+      "ja": "この数日で可能性は低くなりましたが"
     }
   },
   {
@@ -3691,8 +3691,8 @@
   },
   {
     "translation": {
-      "en": "Given your location, are you certain there are no safe regions in the southern hemisphere?",
-      "ja": "その位置を考えると 南半球に安全地帯はないと？"
+      "en": "[Ade] Given your location, are you certain there are no safe regions in the southern hemisphere?",
+      "ja": "その位置を考えると南半球に安全地帯はないと？"
     }
   },
   {
@@ -3721,7 +3721,7 @@
   },
   {
     "translation": {
-      "en": "There is a message for you.",
+      "en": "[Sanchez] There is a message for you.",
       "ja": "メッセージがある"
     }
   },
@@ -3739,20 +3739,20 @@
   },
   {
     "translation": {
-      "en": "Ten days ago.",
+      "en": "[Sanchez] Ten days ago.",
       "ja": "10日前だ"
     }
   },
   {
     "translation": {
-      "en": "My love, I…",
+      "en": "[woman] My love, I…",
       "ja": "あなた"
     }
   },
   {
     "translation": {
       "en": "Um, I don't know if you know what's going on down here,",
-      "ja": "地球で何が起きてるか 知らないと思うけど―"
+      "ja": "地球で何が起きてるか知らないと思うけど―"
     }
   },
   {
@@ -3854,7 +3854,7 @@
   {
     "translation": {
       "en": "You have two reentry pods on this ship, and I'd like to take one of them.",
-      "ja": "再突入ポッドを １基使わせてくれ"
+      "ja": "再突入ポッドを１基使わせてくれ"
     }
   },
   {
@@ -3866,7 +3866,7 @@
   {
     "translation": {
       "en": "It's your job to turn the ship around, start a new life. Do better this time.",
-      "ja": "この船を方向転換して 新生活を始めることだ"
+      "ja": "この船を方向転換して新生活を始めることだ"
     }
   },
   {
@@ -3901,7 +3901,7 @@
   },
   {
     "translation": {
-      "en": "- It takes two to fly that. - I'll manage.",
+      "en": "-[Sanchez] It takes two to fly that. -[Mitchell] I'll manage.",
       "ja": "２人 必要だ 大丈夫さ"
     }
   },
@@ -3913,13 +3913,13 @@
   },
   {
     "translation": {
-      "en": "- Why would you wanna do that? - I've been thinking.",
+      "en": "-Why would you wanna do that? -I've been thinking.",
       "ja": "なぜだ？ 考えてた"
     }
   },
   {
     "translation": {
-      "en": "- That's your first mistake. -",
+      "en": "-[Mitchell] That's your first mistake. -[chuckles]",
       "ja": "初のミスだな"
     }
   },
@@ -3938,7 +3938,7 @@
   {
     "translation": {
       "en": "Why one person lives a lifetime and another only gets a few years.",
-      "ja": "ある人は寿命を全うし ある人は数年で終わる"
+      "ja": "ある人は寿命を全うしある人は数年で終わる"
     }
   },
   {
@@ -3956,7 +3956,7 @@
   {
     "translation": {
       "en": "Sometimes at night, when I couldn't sleep, I would pretend that they were friends.",
-      "ja": "夜 眠れないときに想像した ２人が友達だったらと"
+      "ja": "夜 眠れないときに想像した２人が友達だったらと"
     }
   },
   {
@@ -4022,12 +4022,12 @@
   {
     "translation": {
       "en": "This is Aether. Are you receiving?",
-      "ja": "こちらアイテル 聞こえますか？"
+      "ja": "こちらアイテル聞こえますか？"
     }
   },
   {
     "translation": {
-      "en": "Dr. Lofthouse, can you hear me?",
+      "en": "[Sully] Dr. Lofthouse, can you hear me?",
       "ja": "博士　聞こえますか？"
     }
   },
@@ -4039,8 +4039,8 @@
   },
   {
     "translation": {
-      "en": "We're headed into an ionization blackout, so I'm gonna lose you soon.",
-      "ja": "もうすぐ 通信が途絶するので―"
+      "en": "[Sully] We're headed into an ionization blackout, so I'm gonna lose you soon.",
+      "ja": "もうすぐ通信が途絶するので―"
     }
   },
   {
@@ -4063,8 +4063,8 @@
   },
   {
     "translation": {
-      "en": "Captain Mitchell and Specialist Sanchez decided on reentry.",
-      "ja": "ミッチェルとサンチェスは 再突入を"
+      "en": "[Sully] Captain Mitchell and Specialist Sanchez decided on reentry.",
+      "ja": "ミッチェルとサンチェスは再突入を"
     }
   },
   {
@@ -4075,20 +4075,20 @@
   },
   {
     "translation": {
-      "en": "Yes.",
+      "en": "[Sully] Yes.",
       "ja": "ええ"
     }
   },
   {
     "translation": {
-      "en": "I understand.",
+      "en": "[Augustine] I understand.",
       "ja": "分かるよ"
     }
   },
   {
     "translation": {
       "en": "Flight Engineer Maya Lawrence, she suffered an accident during the flight.",
-      "ja": "マヤは飛行中の事故で 亡くなりました"
+      "ja": "マヤは飛行中の事故で亡くなりました"
     }
   },
   {
@@ -4117,7 +4117,7 @@
   },
   {
     "translation": {
-      "en": "Well, you pointed to an incredible world.",
+      "en": "[Sully] Well, you pointed to an incredible world.",
       "ja": "途方もない世界をね"
     }
   },
@@ -4129,7 +4129,7 @@
   },
   {
     "translation": {
-      "en": "Lake Hazen will have to do.",
+      "en": "[Augustine] Lake Hazen will have to do.",
       "ja": "ここもいいぞ"
     }
   },
@@ -4147,14 +4147,14 @@
   },
   {
     "translation": {
-      "en": "Well, you've definitely done that.",
+      "en": "[Sully] Well, you've definitely done that.",
       "ja": "間違いなく救ったわ"
     }
   },
   {
     "translation": {
       "en": "You know, you're one of the reasons I joined the space program.",
-      "ja": "博士の影響で この道を選んだの"
+      "ja": "博士の影響でこの道を選んだの"
     }
   },
   {
@@ -4184,7 +4184,7 @@
   {
     "translation": {
       "en": "I wish I could have thanked you for it in person, Dr. Lofthouse.",
-      "ja": "博士には直接 お礼をしたかった"
+      "ja": "博士には直接お礼をしたかった"
     }
   },
   {
@@ -4207,7 +4207,7 @@
   },
   {
     "translation": {
-      "en": "I know.",
+      "en": "[voice breaks] I know.",
       "ja": "知ってる"
     }
   },
@@ -4249,7 +4249,7 @@
   },
   {
     "translation": {
-      "en": "- Yes. -",
+      "en": "-Yes. -[Sully chuckles]",
       "ja": "ああ"
     }
   },
@@ -4268,7 +4268,7 @@
   {
     "translation": {
       "en": "It's like pine trees are hidden somewhere underground, waiting to burst through.",
-      "ja": "地中の松の木が 飛び出すのを待ってる感じ"
+      "ja": "地中の松の木が飛び出すのを待ってる感じ"
     }
   },
   {
@@ -4280,7 +4280,7 @@
   {
     "translation": {
       "en": "I kept looking up, expecting to see a blue sky, but it was orange",
-      "ja": "青空を期待してたけど オレンジ色だった"
+      "ja": "青空を期待してたけどオレンジ色だった"
     }
   },
   {
@@ -4310,7 +4310,7 @@
   {
     "translation": {
       "en": "And that light, it makes all the colors explode, everything.",
-      "ja": "その光は 全ての色を輝かせる"
+      "ja": "その光は全ての色を輝かせる"
     }
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "translation": {
       "en": "It's like landing in Oz and seeing real color for the first time.",
-      "ja": "オズの国で 初めて本当の色を見た感じ"
+      "ja": "オズの国で初めて本当の色を見た感じ"
     }
   },
   {
