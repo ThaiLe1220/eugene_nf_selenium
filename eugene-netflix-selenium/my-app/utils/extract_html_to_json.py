@@ -209,8 +209,8 @@ with open("../source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
 
 # Define language pairs for processing
 LANG_PAIRS = [
-    # ("en", "vi"),
-    # ("en", "es"),
+    ("en", "vi"),
+    ("en", "es"),
     ("en", "zh"),
     ("en", "fr"),
     ("en", "ja"),
@@ -219,7 +219,7 @@ LANG_PAIRS = [
 
 # Processing data for each language pair
 for source, target in LANG_PAIRS:
-    for i in range(20, 1100):
+    for i in range(0, 20):
         print(f"Iteration {i}: ", end="")
         if i < len(movies_ids):  # Prevent index out of range
             process_and_save_data(movies_ids[i], source, target)
