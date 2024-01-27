@@ -1,0 +1,3590 @@
+[
+  {
+    "translation": {
+      "en": "[Kirigan] On our maps, the Shadow Fold is a black stain.",
+      "it": "Sulle nostre mappe, la Faglia d'Ombra è una macchia nera."
+    }
+  },
+  {
+    "translation": {
+      "en": "A scar that severs Ravka in two.",
+      "it": "Una cicatrice che taglia Ravka in due."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was created hundreds of years ago as an act of vengeance",
+      "it": "Venne creata centinaia di anni fa per vendetta"
+    }
+  },
+  {
+    "translation": {
+      "en": "by the Black Heretic.",
+      "it": "dall'Eretico Nero."
+    }
+  },
+  {
+    "translation": {
+      "en": "A man who could summon shadow.",
+      "it": "Un uomo in grado di evocare l'ombra."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was among those rare souls, the Grisha,",
+      "it": "Era una delle rare anime, un Grisha,"
+    }
+  },
+  {
+    "translation": {
+      "en": "who could manipulate the elements of this world.",
+      "it": "capace di manipolare gli elementi di questo mondo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold locked East Ravka away from the sea ports on the west.",
+      "it": "La Faglia escludeva Ravka Est dai porti di mare dell'Ovest."
+    }
+  },
+  {
+    "translation": {
+      "en": "The east withered and became vulnerable to attack",
+      "it": "L'Est si indebolì, vulnerabile agli attacchi"
+    }
+  },
+  {
+    "translation": {
+      "en": "from enemy nations in the north and south.",
+      "it": "delle nazioni del Nord e del Sud."
+    }
+  },
+  {
+    "translation": {
+      "en": "With their powers, only the Grisha were capable of crossing the Fold.",
+      "it": "Con i loro poteri, solo i Grisha erano in grado di attraversare la Faglia."
+    }
+  },
+  {
+    "translation": {
+      "en": "They joined forces with the King in service to Ravka.",
+      "it": "Si misero al servizio del Re di Ravka."
+    }
+  },
+  {
+    "translation": {
+      "en": "They became the lifeline between the two sides of our country.",
+      "it": "Divennero il collegamento tra le due parti del nostro Paese."
+    }
+  },
+  {
+    "translation": {
+      "en": "But they were still hated",
+      "it": "Continuando a essere odiati"
+    }
+  },
+  {
+    "translation": {
+      "en": "for the sins of the Black Heretic.",
+      "it": "per i peccati commessi dall'Eretico Nero."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sins felt most deeply by his descendants.",
+      "it": "Peccati sentiti più profondamente dai suoi discendenti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Old myths foretell of a Grisha never before seen.",
+      "it": "Gli antichi miti profetizzavano l'avvento di un Grisha speciale,"
+    }
+  },
+  {
+    "translation": {
+      "en": "One who could destroy the Fold, reunite Ravka",
+      "it": "in grado di distruggere la Faglia, riunire Ravka"
+    }
+  },
+  {
+    "translation": {
+      "en": "and redeem our people.",
+      "it": "e redimere il nostro popolo."
+    }
+  },
+  {
+    "translation": {
+      "en": "A Summoner of pure light.",
+      "it": "Un Evocatore di pura luce."
+    }
+  },
+  {
+    "translation": {
+      "en": "And so we wait for the one who will deliver us",
+      "it": "E così attendiamo il Grisha che verrà a liberarci"
+    }
+  },
+  {
+    "translation": {
+      "en": "from the dark place we made in the world.",
+      "it": "dal luogo oscuro che abbiamo creato nel mondo."
+    }
+  },
+  {
+    "translation": {
+      "en": "We wait",
+      "it": "Attendiamo"
+    }
+  },
+  {
+    "translation": {
+      "en": "for the Sun Summoner.",
+      "it": "l'Evocaluce."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] When I was young, I was afraid of the dark.",
+      "it": "Da piccola, avevo paura del buio."
+    }
+  },
+  {
+    "translation": {
+      "en": "When I got older, I learned that darkness is a place,",
+      "it": "Con l'età, ho imparato che il buio è un luogo"
+    }
+  },
+  {
+    "translation": {
+      "en": "-and it's full of monsters. -[growling]",
+      "it": "ed è pieno di mostri."
+    }
+  },
+  {
+    "translation": {
+      "en": "I live in East Ravka, but I've never been welcome here",
+      "it": "Vivo a Ravka Est, ma non sono mai stata la benvenuta qui,"
+    }
+  },
+  {
+    "translation": {
+      "en": "because I look like my mother, and she looked like the enemy.",
+      "it": "perché assomiglio a mia madre, e lei aveva il volto del nemico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Alina, how can you do that in here?",
+      "it": "Alina, come ci riesci qui sopra?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bumps help with texture.",
+      "it": "I dossi ne migliorano l'aspetto."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold looks different on mine.",
+      "it": "La Faglia nella mia è diversa."
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to get a better view from your country.",
+      "it": "Devo guardarla meglio dal tuo Paese."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] She grew up here. Come on!",
+      "it": "È cresciuta qui. Dai!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] The Shu Han didn't want her either.",
+      "it": "Neanche a Shu Han la volevano."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cartographers, listen up. We're almost there.",
+      "it": "Cartografi, sentite. Ci siamo quasi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pack up and be ready to leave.",
+      "it": "Vi voglio pronti a scendere."
+    }
+  },
+  {
+    "translation": {
+      "en": "And if you lose anything, you will not be getting a replacement.",
+      "it": "E, se perdete qualcosa, non vi verrà sostituito."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] But they aren't the monsters. They're just boys.",
+      "it": "Ma non sono loro i mostri. Sono solo ragazzi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I learned about my true enemy when I was a child.",
+      "it": "Ho capito da bambina chi era il mio vero nemico."
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Alina] Is it real?",
+      "it": "Esiste davvero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course it's real.",
+      "it": "Ma certo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold ate your parents.",
+      "it": "La Faglia ha inghiottito i tuoi genitori."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the reason for many of the orphans here.",
+      "it": "DAI LIBRI DI LEIGH BARDUGO A questo si devono i tanti orfani."
+    }
+  },
+  {
+    "translation": {
+      "en": "People trying to cross. Taunting the Saints.",
+      "it": "La gente tenta di attraversare sfidando i Santi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then why cross it? Why not go around?",
+      "it": "E perché attraversano? Perché non fanno il giro?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Read the map.",
+      "it": "Osserva la mappa."
+    }
+  },
+  {
+    "translation": {
+      "en": "The north want our Grisha dead,",
+      "it": "Il nord vuole morti i nostri Grisha,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the south guards its mountains.",
+      "it": "il sud protegge i suoi monti."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have nowhere else to go.",
+      "it": "Non sappiamo dove andare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now work on your shading, girl.",
+      "it": "Ora migliora la sfumatura."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep a pencil in your hand.",
+      "it": "Tieni in mano la matita"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or else someone will put a rifle in it instead.",
+      "it": "o qualcuno la sostituirà con un fucile."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] I spent years thinking I'd find a way out.",
+      "it": "Ho passato anni a credere che sarei riuscita"
+    }
+  },
+  {
+    "translation": {
+      "en": "Around the Fold, to go somewhere where no one cares where I'm from.",
+      "it": "ad aggirare la Faglia, arrivando dove il mio aspetto non conta."
+    }
+  },
+  {
+    "translation": {
+      "en": "But now, I'm old enough to know the only way out is through.",
+      "it": "Ma ormai so che l'unico modo per andarmene da qui è attraversarla."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are never going to see it go away. This abomination is here forever.",
+      "it": "Non sparirà mai. Questo abominio resterà qui per sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't go to church.",
+      "it": "Non vai in chiesa."
+    }
+  },
+  {
+    "translation": {
+      "en": "A Saint who can summon the sun will destroy it.",
+      "it": "Un Santo che può evocare il sole la distruggerà."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd like to see even one person who isn't scared of that.",
+      "it": "Vorrei conoscere qualcuno a cui non fa paura."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] I bet I know someone.",
+      "it": "Io uno lo conosco."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mal. He isn't afraid of anything.",
+      "it": "Mal. Lui non ha paura di niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] You'd be surprised.",
+      "it": "Potrebbe sorprenderti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] Alina.",
+      "it": "Alina."
+    }
+  },
+  {
+    "translation": {
+      "en": "Look what I found.",
+      "it": "Guarda cos'ho trovato."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where? -[young Mal] Little guy's lost.",
+      "it": "Dove? Si era perso."
+    }
+  },
+  {
+    "translation": {
+      "en": "But I found some chewed plants in the woods to the east.",
+      "it": "C'erano delle piante masticate nei boschi a est."
+    }
+  },
+  {
+    "translation": {
+      "en": "I bet his warren's there.",
+      "it": "La sua tana sarà lì."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why you run from me, half-breed?",
+      "it": "Perché fuggi da me, meticcio?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay away from him.",
+      "it": "Sta' lontano da lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or what? You going to draw me, rice eater?",
+      "it": "Altrimenti? Mi disegnerai, mangiariso?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or I'll cut you.",
+      "it": "Ti squarterò."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[footsteps approaching] -What's this?",
+      "it": "Che succede?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's tracked in dirt on my rug? Mal Oretsev!",
+      "it": "Chi ha sporcato di terra il mio tappeto? Mal Oretsev!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know you're hiding here!",
+      "it": "So che ti nascondi qui!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come out now! -No!",
+      "it": "- Vieni fuori, subito! - No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't hide forever.",
+      "it": "Non puoi nasconderti per sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, I can!",
+      "it": "Sì, invece!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, maybe you can.",
+      "it": "Va bene, forse sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "But this is what you become!",
+      "it": "Ma è questo che vuoi diventare?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A boy who hides from a fight!",
+      "it": "Uno che si nasconde di fronte a una sfida?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get very good at it, maybe you'll survive to see 20.",
+      "it": "Se diventi bravo a farlo, forse arriverai ai 20 anni."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bring me a big rabbit before the dinner bell goes.",
+      "it": "Portami un bel coniglio prima dell'ora di cena."
+    }
+  },
+  {
+    "translation": {
+      "en": "Final bets! Final bets!",
+      "it": "Ultime puntate!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep it clean, boys, go on.",
+      "it": "Combattete lealmente. Avanti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Yes!",
+      "it": "Sì!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Get stuck in there. Let's go! Come on!",
+      "it": "Dacci dentro, forza! Andiamo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's all right, breathe. Breathe, here we go. Come on.",
+      "it": "Respira. Inspira, forza. Dai."
+    }
+  },
+  {
+    "translation": {
+      "en": "He'll be all right?",
+      "it": "Se la caverà?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sure we'll find out. Come on, hit him! Belt him.",
+      "it": "Lo scopriremo presto. Forza, colpiscilo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He doesn't want it! Come on, chump! He doesn't want it!",
+      "it": "Non lo vuole! Dai, campione!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 3] Hurt him, now! Hurt him!",
+      "it": "Fagli male, ora!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 3] Come on, let's go! Let's go now! Let's have it. Come on!",
+      "it": "Dai, forza, andiamo! Dacci dentro. Vai!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lovely!",
+      "it": "Benissimo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! Yes!",
+      "it": "Sì!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You beauty!",
+      "it": "Sei un grande!"
+    }
+  },
+  {
+    "translation": {
+      "en": "My boy, Mal Oretsev, wins again! Who wants a go?",
+      "it": "Il mio Mal Oretsev vince di nuovo! Chi vuole sfidarlo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 4] I'll take a turn.",
+      "it": "Ci provo io."
+    }
+  },
+  {
+    "translation": {
+      "en": "How about it? Just you and me.",
+      "it": "Che ne dici? Solo noi due."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no.",
+      "it": "No."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you lose, you'll be in the medika. If you win, they'll throw you in the brig.",
+      "it": "Se perdi, vai in ospedale. Se vinci, ti sbattono in prigione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut it down, boys! Shut it down!",
+      "it": "Fatela finita, ragazzi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You try me without that magic, huh?",
+      "it": "Provaci senza trucchi magici!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just air.",
+      "it": "È solo aria."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Anyone!",
+      "it": "Forza! Nessuno?"
+    }
+  },
+  {
+    "translation": {
+      "en": "When did you get in?",
+      "it": "Da quando sei qui?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yesterday. Everyone's getting their assignments.",
+      "it": "Da ieri. Stanno dando le assegnazioni."
+    }
+  },
+  {
+    "translation": {
+      "en": "Suppose cartography's heading back south. [chuckling]",
+      "it": "Credo che i Cartografi tornino a sud."
+    }
+  },
+  {
+    "translation": {
+      "en": "I found out 'cause they're putting my unit with yours again.",
+      "it": "Lo so, riuniscono la mia unità con la tua."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're looking for a way through the mountains.",
+      "it": "Cercano di superare le montagne."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh! So we're back together?",
+      "it": "Siamo di nuovo insieme?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They can't keep best friends apart for too long.",
+      "it": "Non possono tenere gli amici lontani a lungo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal Oretsev, are you saying you miss me?",
+      "it": "Quindi ti manco, caporale Oretsev?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I need someone to take the fall for my petty crimes, that's all.",
+      "it": "Mi serve solo qualcuno da incolpare delle mie malefatte."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, they moved our tent. -Yeah, it's down that end now.",
+      "it": "- Hanno spostato la nostra tenda. - Sì, è laggiù ora."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] So many First Army here.",
+      "it": "Tanti del Primo Esercito."
+    }
+  },
+  {
+    "translation": {
+      "en": "We look like a halfway house, accepting donations.",
+      "it": "Sembra un centro di recupero che accetta le donazioni."
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I won't be accepting any donations",
+      "it": "In realtà non le accettiamo"
+    }
+  },
+  {
+    "translation": {
+      "en": "-because I won this betting on a fight. -Huh?",
+      "it": "perché ho vinto scommettendo su un incontro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at you. Flush with five whole… kruge?",
+      "it": "Ma guardati, getti al vento cinque kruge."
+    }
+  },
+  {
+    "translation": {
+      "en": "What will you do with foreign money? We're not in Ketterdam.",
+      "it": "Cosa fai con i soldi stranieri? Non siamo a Ketterdam."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't crush my dreams.",
+      "it": "Lasciami sognare."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Again! Inferni!",
+      "it": "Di nuovo! Inferno!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice. Nice. Good. Good. Again.",
+      "it": "Bene. Così. Di nuovo."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mal] This is why our tents got moved.",
+      "it": "Perciò ci hanno spostati."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] Good. -Grisha wanted more space.",
+      "it": "- Bene. - I Grisha volevano più spazio."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ugh. Grisha.",
+      "it": "I Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now. I'm going to do it again.",
+      "it": "Ok. Lo rifarò."
+    }
+  },
+  {
+    "translation": {
+      "en": "Show-offs.",
+      "it": "Che esibizionista."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Another Inferni and Squaller.",
+      "it": "Un altro Inferni e un Chiamatempeste."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're always picking on us when their general's not around.",
+      "it": "Fanno sempre i prepotenti quando non c'è il generale."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like home all over again.",
+      "it": "È come a casa."
+    }
+  },
+  {
+    "translation": {
+      "en": "It wasn't all bad. We learned some good life lessons back then.",
+      "it": "Non era così male. Abbiamo imparato delle lezioni utili."
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Yeah? Care to share with the class?",
+      "it": "Davvero? Quali lezioni?"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, don't cry in public.",
+      "it": "Primo: non piangere in pubblico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hide your emotional breakdown for when you're alone. Obviously.",
+      "it": "Tieniti i crolli emotivi per quando sei solo. Ovvio."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Two, always carry a weapon on you. -Always.",
+      "it": "- Secondo: porta sempre un'arma con te. - Sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a third I can't remember.",
+      "it": "Non ricordo il terzo punto."
+    }
+  },
+  {
+    "translation": {
+      "en": "[soldier 1] Open her up, we're loading!",
+      "it": "Aprite, stiamo caricando!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] That looks new.",
+      "it": "È nuova, no?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brand-new. Grisha call it ultralight.",
+      "it": "Nuovissima. I Grisha la definiscono ultraleggera."
+    }
+  },
+  {
+    "translation": {
+      "en": "Made by their own Fabrikators. It's supposed to be faster.",
+      "it": "L'hanno fatta i loro Fabrikator. Dovrebbe essere più veloce."
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened to the last one?",
+      "it": "Che ne è dell'ultima?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never came back.",
+      "it": "Non è mai tornata."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] There he is! -Here we go.",
+      "it": "- Eccolo! - Ci siamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have made a killing on you,",
+      "it": "Avrei dovuto puntare su di te,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but nah, he refused to loan me any money, so…",
+      "it": "ma lui non mi ha prestato i soldi e…"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's because you're a child in a bigger child's body.",
+      "it": "Perché sei un bambino in un corpo minuto."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're shorter than I am. -Okay. Dubrov, Mikhael, this is Alina.",
+      "it": "- Sei più basso di me. - Ok. Dubrov, Mikhael, lei è Alina."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your little friend from Keramzin? -[Dubrov] Ah… -This is her.",
+      "it": "La tua amichetta di Keramzin. È lei."
+    }
+  },
+  {
+    "translation": {
+      "en": "-\"Little friend\"? -How is that wrong?",
+      "it": "- \"Amichetta?\" - Sbaglia, forse?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He talks about you all the time. -What does he say?",
+      "it": "- Parla sempre di te. - E cosa dice?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Mikhael] Oh, well… -Don't listen to these two.",
+      "it": "- Beh… - Non starli a sentire."
+    }
+  },
+  {
+    "translation": {
+      "en": "They like to exaggerate. It's what they do.",
+      "it": "Esagerano sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chuckles] Look at him! -Oh, he's so easy to rile.",
+      "it": "- Ma guardalo! - Quanto è permaloso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that annoying you?",
+      "it": "Ti stai arrabbiando?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah? All right. Come on, you bastard.",
+      "it": "Sì? Bene. Andiamo, bastardo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on, then. -[horn blaring]",
+      "it": "Forza."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Saved by the horn, Mal. -[Mal] Oh, I wouldn't say so.",
+      "it": "- Ti ha salvato il suono del corno, Mal. - Non direi."
+    }
+  },
+  {
+    "translation": {
+      "en": "What does he say about me?",
+      "it": "Cosa dice di me?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, listen up.",
+      "it": "Bene, sentite."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know some of you have been on the road for a week, so I'll be brief.",
+      "it": "Alcuni di voi sono in giro da una settimana. Sarò breve."
+    }
+  },
+  {
+    "translation": {
+      "en": "Most of you will continue north to the Fjerdan frontlines.",
+      "it": "Molti proseguiranno a nord verso il fronte di Fjerda."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or south to the Shu Han border.",
+      "it": "O a sud al confine di Shu Han."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Second Army, however, has a shiny new solution to our food shortage,",
+      "it": "Ma il Secondo Esercito ha una soluzione nuova di pacca per la mancanza di cibo"
+    }
+  },
+  {
+    "translation": {
+      "en": "and it sails tomorrow for Novokribirsk.",
+      "it": "e salperà domani per Novokribirsk."
+    }
+  },
+  {
+    "translation": {
+      "en": "If this model works,",
+      "it": "Se l'idea funzionerà,"
+    }
+  },
+  {
+    "translation": {
+      "en": "it means a full meal for everyone in this tent next week.",
+      "it": "la prossima settimana avrete tutti un pasto completo…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It means bullets for your guns and sugar for your tea.",
+      "it": "munizioni per le armi e zucchero per il tè."
+    }
+  },
+  {
+    "translation": {
+      "en": "[soldier] How about some whiskey?",
+      "it": "E un po' di whisky?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, that would be nice, but don't hold your breath.",
+      "it": "Sì, sarebbe bello, ma non illudetevi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course, they need our help bringing those supplies back,",
+      "it": "Avranno bisogno del nostro aiuto per portare qui le scorte."
+    }
+  },
+  {
+    "translation": {
+      "en": "so some of you will be assigned.",
+      "it": "Ci andranno alcuni di voi."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"There's nothing to fear.\"",
+      "it": "\"Non c'è niente da temere."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I will now be selecting names for what I call the 'nightmare lottery.'\"",
+      "it": "Ora dirò i nomi della cosiddetta 'lotteria degli incubi'.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "For the supply run across the Fold!",
+      "it": "Attraverseranno la Faglia per le scorte di cibo:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sergeant Yure Teplov.",
+      "it": "sergente Yure Teplov."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tracker Malyen Oretsev!",
+      "it": "Tracciatore Malyen Oretsev!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal Masyelentov!",
+      "it": "Caporale Masyelentov!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he… But you're in our unit. -Rifleman Valek Tapenyov! -Uh…",
+      "it": "- Ha detto… Ma sei nella nostra unità. - Fuciliere Valek Tapenyov!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It has to be an error. It has to be.",
+      "it": "Dev'esserci un errore."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Didn't sound like an error, Mal. -And finally, Medic Nolech Barenovsky.",
+      "it": "- Non sembra un errore, Mal. - E infine, dott. Nolech Barenovsky."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. Dinner in one hour.",
+      "it": "È tutto. Si cena tra un'ora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come back and line up by rank. Dismissed.",
+      "it": "Mettetevi in fila per grado. Potete andare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, if it does work, I'll get to visit Ketterdam.",
+      "it": "Se funziona, almeno visiterò Ketterdam."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Come on, come on!",
+      "it": "Andiamo, forza!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gambler] Yes! I love it!",
+      "it": "Sì, mi piace!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Darling, please. Drinks here. Drinks all round here, please.",
+      "it": "Tesoro, per favore. Porta da bere a tutti, qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, you take Zemeni coin, yes?",
+      "it": "Accetti monete Zemeni, vero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Let me see that.",
+      "it": "Vediamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Lucky Nine casino up the block",
+      "it": "Al casinò Il Nove Fortunato"
+    }
+  },
+  {
+    "translation": {
+      "en": "has had trouble with counterfeit coin lately.",
+      "it": "sono state date delle monete false."
+    }
+  },
+  {
+    "translation": {
+      "en": "Heavy, but brittle.",
+      "it": "Pesanti, ma fragili."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, come on, now. I've been here for hours.",
+      "it": "E dai. Sono qui da ore."
+    }
+  },
+  {
+    "translation": {
+      "en": "My money is good, no?",
+      "it": "Le mie sono buone."
+    }
+  },
+  {
+    "translation": {
+      "en": "Zemeni coin can take a bullet. But the knockoff…",
+      "it": "Le monete Zemeni sono antiproiettile, quelle finte…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Busted.",
+      "it": "Beccato."
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that prove?",
+      "it": "E questo cosa prova?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Wait! What are you doing?",
+      "it": "Ehi! Un attimo! Che fate?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get off me!",
+      "it": "Lasciatemi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No loud noises at the table, Jesper.",
+      "it": "Non far baccano al tavolo, Jasper."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll scare off the pigeons.",
+      "it": "Spaventi gli allocchi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wouldn't want that, boss.",
+      "it": "Ma certo, capo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Shouldn't you be on the door? -Yeah, right away, boss.",
+      "it": "- Perché non sei alla porta? - Vado subito."
+    }
+  },
+  {
+    "translation": {
+      "en": "Early for action, innit, Kaz?",
+      "it": "Già all'opera, Kaz?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you want, Rotty?",
+      "it": "Che vuoi, Rotty?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone stole a DeKappel from a merch's private residence last night.",
+      "it": "Ieri sera hanno rubato un DeKappel dalla casa di un mercante."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that so?",
+      "it": "Ma davvero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a painting.",
+      "it": "È un quadro."
+    }
+  },
+  {
+    "translation": {
+      "en": "A landscape of Ravka. The Fold. Oil on parchment.",
+      "it": "Un paesaggio di Ravka. La Faglia. Olio su pergamena."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know who DeKappel is.",
+      "it": "So chi è DeKappel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, he don't do nudes, so I never heard of him.",
+      "it": "Non fa nudi, quindi io non lo conoscevo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Get to it, Rotty.",
+      "it": "Arriva al punto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Worth something like 10,000 kruge.",
+      "it": "Vale qualcosa come 10.000 kruge."
+    }
+  },
+  {
+    "translation": {
+      "en": "The thief had to get past four roving guards,",
+      "it": "Il ladro ha superato quattro guardie,"
+    }
+  },
+  {
+    "translation": {
+      "en": "high fences, padlocked doors,",
+      "it": "recinzioni, porte chiuse"
+    }
+  },
+  {
+    "translation": {
+      "en": "and a security system designed by one of them Grisha witches.",
+      "it": "e un sistema di sicurezza creato da un Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fabrikator. -Whatever.",
+      "it": "Un Fabrikator. Comunque, il punto è che è stata opera di un gruppo o di un fantasma."
+    }
+  },
+  {
+    "translation": {
+      "en": "The point is, either it was a group effort or a ghost.",
+      "it": "Comunque, il punto è che è stata opera di un gruppo o di un fantasma."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why does this concern me?",
+      "it": "Io cosa c'entro?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've got a buyer lined up. Legit money.",
+      "it": "Ho un compratore. Soldi puliti."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, uh… if you hear a whisper… [clicks tongue]",
+      "it": "Perciò… se senti qualche bisbiglio…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who can hear a whisper here?",
+      "it": "Chi può sentirlo qui?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Inej.",
+      "it": "Ciao, Inej."
+    }
+  },
+  {
+    "translation": {
+      "en": "What information do you have for me tonight?",
+      "it": "Che informazioni hai stasera?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A lead on a job. A big one. Enough money to change lives.",
+      "it": "Ho qualcosa su un lavoro grosso. Tanti soldi da cambiare vita."
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't take much to change someone's life in the Barrel.",
+      "it": "Non ci vuole molto a cambiare vita nel Barile."
+    }
+  },
+  {
+    "translation": {
+      "en": "A million kruge?",
+      "it": "Un milione di kruge?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the name?",
+      "it": "Il nome?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dreesen. A wealthy merchant.",
+      "it": "Dreesen. Un ricco mercante."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've heard of him.",
+      "it": "L'ho già sentito."
+    }
+  },
+  {
+    "translation": {
+      "en": "He could afford it.",
+      "it": "Può permetterselo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The question is, what's worth a million kruge to him?",
+      "it": "La domanda è: cosa vuole per un milione?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's looking for a crew willing to cross the Fold into East Ravka",
+      "it": "Persone disposte ad arrivare a Ravka Est attraverso la Faglia"
+    }
+  },
+  {
+    "translation": {
+      "en": "and bring back something.",
+      "it": "per portargli una cosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold?",
+      "it": "La Faglia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, of course, certain death pays a million.",
+      "it": "Ovvio, la morte certa vale un milione."
+    }
+  },
+  {
+    "translation": {
+      "en": "He didn't say what he wants nicked?",
+      "it": "Cosa vuole che rubiamo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "it": "Non lo so."
+    }
+  },
+  {
+    "translation": {
+      "en": "But he's taking meetings tonight, starting at midnight.",
+      "it": "Ma stasera ascolterà gli interessati, dopo mezzanotte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me you followed him.",
+      "it": "Dimmi che l'hai seguito."
+    }
+  },
+  {
+    "translation": {
+      "en": "He brought someone in from a ship.",
+      "it": "Era con qualcuno dalla nave."
+    }
+  },
+  {
+    "translation": {
+      "en": "Took a way back to his house in the Garden District to avoid attention.",
+      "it": "Per non farsi notare, è rientrato passando dal Quartiere dei Giardini."
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have followed him inside, but Dreesen's hired some private security.",
+      "it": "Lo avrei seguito dentro, ma Dreesen ha delle guardie private."
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have had to use my knives to get closer.",
+      "it": "Dovevo usare i coltelli per avvicinarmi."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[thunder rumbling] -Private security.",
+      "it": "Guardie private."
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyone we know?",
+      "it": "Li conosciamo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A Zemeni man. I think his name is Tendo. You know him?",
+      "it": "Uno Zemeni. Credo si chiami Tendo. Lo conosci?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. He gambles at one of Pekka's clubs.",
+      "it": "Sì. Gioca d'azzardo in uno dei locali di Pekka."
+    }
+  },
+  {
+    "translation": {
+      "en": "So I won't have leverage on him.",
+      "it": "Non posso far leva su di lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "But Pekka will.",
+      "it": "Ma Pekka sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kaz, I got this lead from one of the girls at the Menagerie.",
+      "it": "Kaz, ho avuto una soffiata da una delle ragazze del Serraglio."
+    }
+  },
+  {
+    "translation": {
+      "en": "They tell me things in case you'd buy them out, like you did with me.",
+      "it": "Me le danno per farsi comprare come hai comprato me."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't, I'm paying off your indenture.",
+      "it": "Non è così, ti sto riscattando."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what I mean.",
+      "it": "Sai cosa intendo."
+    }
+  },
+  {
+    "translation": {
+      "en": "This one girl, Kesh, she has skill. She's like me.",
+      "it": "C'è una ragazza, Kesh, molto brava. È come me."
+    }
+  },
+  {
+    "translation": {
+      "en": "I only invest in the one of a kind.",
+      "it": "Investo solo su una persona unica."
+    }
+  },
+  {
+    "translation": {
+      "en": "She isn't like you.",
+      "it": "Lei non è come te."
+    }
+  },
+  {
+    "translation": {
+      "en": "No one is.",
+      "it": "Nessuno lo è."
+    }
+  },
+  {
+    "translation": {
+      "en": "So? What's our move now?",
+      "it": "E allora? Che si fa adesso?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're the one of us who believes in a higher power.",
+      "it": "Tu sei quella che crede in un potere superiore."
+    }
+  },
+  {
+    "translation": {
+      "en": "If we're going to survive a round trip through the Fold,",
+      "it": "Per andare e tornare attraversando la Faglia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll need a miracle or two.",
+      "it": "ci servirà un miracolo."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's a Shu girl doing here?",
+      "it": "Che ci fa qui una Shu?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Ravkan. On the cartography team.",
+      "it": "Sono Ravkan. Dei Cartografi."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's half Shu. An orphan.",
+      "it": "È mezza Shu. È un'orfana."
+    }
+  },
+  {
+    "translation": {
+      "en": "[line cook] Is that an answer?",
+      "it": "È una risposta?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Back of the line. Your friends, too.",
+      "it": "Tornate in fila. Tu e i tuoi amici."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know them.",
+      "it": "Non li conosco."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you go. Come on!",
+      "it": "E allora via. Forza!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] You can get arrested for that.",
+      "it": "Potrebbero arrestarti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stealing from Second Army will get you thrown in a hole.",
+      "it": "Per furto al Secondo Esercito ti chiuderebbero dentro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe you should arrest me.",
+      "it": "Dovresti arrestarmi tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hang on.",
+      "it": "Aspetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Aren't you one of our escorts for the crossing?",
+      "it": "Non devi scortarci nell'attraversamento?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right.",
+      "it": "Esatto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well,",
+      "it": "Beh,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't mind sharing.",
+      "it": "possiamo dividercela."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's not for me. It's for a friend.",
+      "it": "Non è per me. È per un'amica."
+    }
+  },
+  {
+    "translation": {
+      "en": "Some of it's for me.",
+      "it": "E un po' per me."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "it": "Come ti chiami?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Mal. I'm a tracker.",
+      "it": "Mal. Sono un tracciatore."
+    }
+  },
+  {
+    "translation": {
+      "en": "Zoya. I'm a Squaller.",
+      "it": "Zoya. Sono una Chiamatempeste."
+    }
+  },
+  {
+    "translation": {
+      "en": "When I get nerves the night before,",
+      "it": "Se la notte prima ho avuto paura,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like to have a good tumble with a stranger.",
+      "it": "mi piace spassarmela con un estraneo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clears my head.",
+      "it": "Mi fa distrarre."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's my remedy.",
+      "it": "È il mio rimedio."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should go.",
+      "it": "Devo andare."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't seem like the type who does what they should.",
+      "it": "Non sembri il tipo che obbedisce agli ordini."
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I found you.",
+      "it": "Ti ho trovata."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] You always do, somehow.",
+      "it": "Già, mi trovi sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's not hard, you always perch.",
+      "it": "Non è difficile, sei sempre di vedetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] I'm brooding.",
+      "it": "Medito."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I have something for you.",
+      "it": "Beh, ho una cosa per te."
+    }
+  },
+  {
+    "translation": {
+      "en": "Where did you get these?",
+      "it": "Dove l'hai presa?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I stole them. -From a Grisha tent? [laughs]",
+      "it": "- L'ho rubata. - Dalla tenda dei Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought it would get me an invitation to jail,",
+      "it": "Pensavo di rischiare la galera,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but it just got me an invitation to tumble with a Grisha.",
+      "it": "invece sono stato abbordato da una Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "You tumbled a Grisha?",
+      "it": "Te la sei fatta?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] No. No, I just flirted with her.",
+      "it": "No, ci ho solo flirtato."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe she flirted with me.",
+      "it": "O lei ha flirtato con me."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look, Grisha women scare me. Okay? -[chuckles]",
+      "it": "Le donne Grisha mi fanno paura. Ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you see the lieutenant?",
+      "it": "Hai visto il tenente?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "it": "Sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "And?",
+      "it": "E allora?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well…",
+      "it": "Beh…"
+    }
+  },
+  {
+    "translation": {
+      "en": "turns out they do need me. So…",
+      "it": "a quanto pare hanno bisogno di me, perciò…"
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "it": "Perciò…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could shoot you in the foot.",
+      "it": "potrei spararti al piede."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're a terrible shot. -[chuckles]",
+      "it": "Hai una pessima mira."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't cross it.",
+      "it": "Non attraversarla."
+    }
+  },
+  {
+    "translation": {
+      "en": "When I was young,",
+      "it": "Da piccolo…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had nightmares about it.",
+      "it": "la vedevo nei miei incubi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Going in.",
+      "it": "Ci entravo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Finding my parents…",
+      "it": "Trovavo i miei genitori…"
+    }
+  },
+  {
+    "translation": {
+      "en": "still dead.",
+      "it": "ancora morti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Waiting for me.",
+      "it": "Mi aspettavano."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Well, orders are orders. -[scoffs]",
+      "it": "Ma gli ordini sono ordini."
+    }
+  },
+  {
+    "translation": {
+      "en": "If it goes wrong, come back. You've lost enough to it already.",
+      "it": "Se va male, torna indietro. Hai già sacrificato troppo."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll find my way back to you.",
+      "it": "Riuscirò a tornare da te."
+    }
+  },
+  {
+    "translation": {
+      "en": "Promise.",
+      "it": "Promesso."
+    }
+  },
+  {
+    "translation": {
+      "en": "But first, I am going gambling in Ketterdam.",
+      "it": "Ma, prima, andrò a giocare d'azzardo a Ketterdam."
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckling] Without me?",
+      "it": "Senza di me?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll write you a letter.",
+      "it": "Ti scriverò."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kaz] Tell us how to safely cross the Fold.",
+      "it": "Dicci come attraversare la Faglia."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold?",
+      "it": "La Faglia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I knew safe passage through that,",
+      "it": "Se conoscessi un passaggio sicuro,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd be wealthier than the whole Merchant Council.",
+      "it": "sarei più ricca di tutti i mercanti."
+    }
+  },
+  {
+    "translation": {
+      "en": "You told me you brought in girls from Os Alta. The other side.",
+      "it": "Mi hai detto che hai portato qui delle ragazze da Os Alta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. The hard way. Lost a few to those damn volcra, too.",
+      "it": "Sì. Nel modo peggiore. Ne ho persi alcuni per via dei Volcra."
+    }
+  },
+  {
+    "translation": {
+      "en": "Nah, there's no trick to it",
+      "it": "Non c'è alcun trucco,"
+    }
+  },
+  {
+    "translation": {
+      "en": "except how it makes people disappear from time to time.",
+      "it": "se non che ogni tanto fa sparire qualcuno."
+    }
+  },
+  {
+    "translation": {
+      "en": "I heard you bragging of a way to make a path.",
+      "it": "Ti vantavi di conoscere un passaggio."
+    }
+  },
+  {
+    "translation": {
+      "en": "I was taking kruge from a tourist. A little lie.",
+      "it": "Era una bugia per spillare soldi a un turista."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Fold keeps those Ravkan bastards and their Grisha attack dogs in check.",
+      "it": "La Faglia tiene a freno quei bastardi di Ravka e i loro Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you imagine how dangerous it would be if it wasn't there?",
+      "it": "Pensa quanto sarebbe pericoloso se non ci fosse."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Just go around.",
+      "it": "Aggiratela."
+    }
+  },
+  {
+    "translation": {
+      "en": "It stretches all the way north to the Fjerdan border.",
+      "it": "Si estende a nord fino al confine con Fjerda."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ja. So go to Fjerda. March through the permafrost.",
+      "it": "Ja. E voi andate a Fjerda. Attraversate il Permafrost."
+    }
+  },
+  {
+    "translation": {
+      "en": "How long would that take?",
+      "it": "Quanto ci vuole?"
+    }
+  },
+  {
+    "translation": {
+      "en": "From here? Four months.",
+      "it": "Da qui? Quattro mesi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe five.",
+      "it": "Forse cinque."
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't have that kind of time.",
+      "it": "Abbiamo poco tempo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Either you take your time or you take your chances.",
+      "it": "O ci mettete più tempo o rischiate."
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's what I don't get.",
+      "it": "Non capisco questo…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're going to be here all night. -Rude.",
+      "it": "- Ci vorrà tutta la notte. - Sgarbata."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why haven't they tried going under it? Just dig a tunnel.",
+      "it": "Perché non provare a passarci sotto scavando un tunnel?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tried that. More than a century ago.",
+      "it": "Già provato. Più di un secolo fa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Something… heard them digging.",
+      "it": "Qualcosa… li ha sentiti scavare."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was made hundreds of years ago by that crazy Grisha…",
+      "it": "Fu fatto secoli fa da quel folle Grisha…"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Black Heretic.",
+      "it": "L'Eretico Nero."
+    }
+  },
+  {
+    "translation": {
+      "en": "The one who controls shadow. They've got one in their army now.",
+      "it": "Quello che controlla l'ombra. Ora ne hanno uno nell'esercito."
+    }
+  },
+  {
+    "translation": {
+      "en": "General Kirigan?",
+      "it": "Il generale Kirigan?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Inej] Your point?",
+      "it": "Dove vuoi arrivare?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jesper] If one of his kind made it, can't he unmake it?",
+      "it": "Se uno come lui l'ha creata, lui non può disfarla?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you ever put out fire by adding more fire?",
+      "it": "Hai mai spento un fuoco con altro fuoco?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then what's the opposite?",
+      "it": "E qual è il contrario?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-A Sun Summoner. -[Jesper] Right, then, one of those.",
+      "it": "- Un Evocaluce. - Esatto, proprio così."
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't exist.",
+      "it": "Non esiste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't exist yet.",
+      "it": "Non ancora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dreesen comes into town, doesn't waste a minute.",
+      "it": "Se Dreesen viene in città, non perde tempo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sends out for a crew to steal something but doesn't specify what.",
+      "it": "Manda i suoi a rubare qualcosa, ma non dice cosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it heavy, large, worth more than a million on the black market?",
+      "it": "È pesante, grande e vale oltre un milione al mercato nero."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe he doesn't know.",
+      "it": "Forse non lo sa."
+    }
+  },
+  {
+    "translation": {
+      "en": "We can let this one go, Kaz.",
+      "it": "Lasciamo perdere."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sounds like a trap, anyway. -[Kaz] A trap would sound easy.",
+      "it": "- Sembra una trappola. - Una trappola sarebbe facile."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is something else.",
+      "it": "C'è dell'altro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Boss, boss.",
+      "it": "Capo."
+    }
+  },
+  {
+    "translation": {
+      "en": "We intercepted a note from Dreesen.",
+      "it": "Abbiamo captato un messaggio da Dreesen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you, now?",
+      "it": "Davvero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's for the owner of the Orchid.",
+      "it": "Per il gestore dell'Orchidea."
+    }
+  },
+  {
+    "translation": {
+      "en": "Says they require the services of a Heartrender. Tonight.",
+      "it": "Richiedono i servizi di uno Spaccacuore. Stanotte."
+    }
+  },
+  {
+    "translation": {
+      "en": "A Heartrender? Why?",
+      "it": "Uno Spaccacuore? Perché?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't say. Just they need it before midnight.",
+      "it": "Non l'hanno detto. Ma serve prima di mezzanotte."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't bring in a Heartrender",
+      "it": "Se vuoi uno Spaccacuore,"
+    }
+  },
+  {
+    "translation": {
+      "en": "unless you need an answer out of someone who isn't willing to talk.",
+      "it": "ti serve una risposta da qualcuno che non vuole parlare."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how we get this job before anyone else.",
+      "it": "Così otterremo il lavoro prima degli altri."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bring Dreesen a Heartrender.",
+      "it": "Portiamogli uno Spaccacuore."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Boss, just one problem.",
+      "it": "Capo, c'è solo un problema."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pekka Rollins knows.",
+      "it": "Pekka Rollins lo sa."
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Pekka Rollins.",
+      "it": "Pekka Rollins."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, you know who I am. That makes things easier.",
+      "it": "Quindi sai chi sono. Questo facilita le cose."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You lead the Dime Lions.",
+      "it": "I Centesimi di Leone."
+    }
+  },
+  {
+    "translation": {
+      "en": "My men tell me that you run this club.",
+      "it": "Mi hanno detto che gestisci tu questo locale."
+    }
+  },
+  {
+    "translation": {
+      "en": "I do. [wheezing]",
+      "it": "Sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "And the brothel next door.",
+      "it": "E il bordello qui accanto."
+    }
+  },
+  {
+    "translation": {
+      "en": "-The Orchid. -That's right.",
+      "it": "- L'Orchidea. - Già."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine girls there. Boys, too. Whatever you like.",
+      "it": "Belle ragazze. E anche bei ragazzi. Per tutti i gusti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Abram, get in here!",
+      "it": "Abram, vieni qui!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. Abram wouldn't let us talk, so we did the other thing.",
+      "it": "Abram non ci lasciava parlare, così abbiamo agito."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll jump straight to it. I'm in a bit of a rush.",
+      "it": "Vado al dunque. Sono un po' di fretta."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm in need of a Heartrender tonight for a million-kruge job.",
+      "it": "Mi serve uno Spaccacuore per un lavoro da un milione di kruge."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you got one. At the Orchid.",
+      "it": "E tu nei hai una. All'Orchidea."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You want Milana, then.",
+      "it": "Allora vuoi Milana."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can get you a good rate for her by the hour…",
+      "it": "Posso farti un buon prezzo all'ora…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, I'm not renting her.",
+      "it": "No, non la voglio in affitto."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's for a job.",
+      "it": "È per un lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "If I bring her back, she'll tell you about the job.",
+      "it": "Se te la riporto, te ne parlerà"
+    }
+  },
+  {
+    "translation": {
+      "en": "Next thing you know, everyone is talking about the job.",
+      "it": "e poi lo sapranno tutti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[breathing heavily] My indentures are discreet.",
+      "it": "I miei dipendenti sono discreti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Pekka] Hmm. Because they work for you, right?",
+      "it": "Perché lavorano per te, no?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So here's the deal.",
+      "it": "L'accordo è questo:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Work for me,",
+      "it": "lavora per me,"
+    }
+  },
+  {
+    "translation": {
+      "en": "give over this dump and the Orchid,",
+      "it": "molla questo postaccio e l'Orchidea"
+    }
+  },
+  {
+    "translation": {
+      "en": "then I'll give you 10% of whatever business comes in.",
+      "it": "e ti darò il 10% di ogni lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckling] That's a shit deal. I already get 100%.",
+      "it": "È un accordo di merda. Io ho il 100% ora."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Pekka] Yeah, okay.",
+      "it": "Ok, giusto."
+    }
+  },
+  {
+    "translation": {
+      "en": "The other option is…",
+      "it": "L'alternativa è…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll carve you up",
+      "it": "che ti sventri"
+    }
+  },
+  {
+    "translation": {
+      "en": "and leave you in a barrel for the rats.",
+      "it": "e ti lasci in un barile per i ratti."
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "it": "Allora…"
+    }
+  },
+  {
+    "translation": {
+      "en": "how about ten?",
+      "it": "che ne dici?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cheer up, Dubrov.",
+      "it": "Su col morale, Dubrov."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Black General's here to save the day.",
+      "it": "Il Generale Nero è qui per risolvere le cose."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, is he going to tear down the Fold?",
+      "it": "Vuole distruggere la Faglia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I was being sarcastic.",
+      "it": "No, parlavo in modo sarcastico."
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a Grisha, not a miracle-worker.",
+      "it": "È un Grisha, non uno che fa miracoli."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it him?",
+      "it": "È lui?"
+    }
+  },
+  {
+    "translation": {
+      "en": "General Kirigan.",
+      "it": "Il gen. Kirigan."
+    }
+  },
+  {
+    "translation": {
+      "en": "The leader of the Second Army here to grace us with his presence?",
+      "it": "Il leader del Secondo Esercito ci onora della sua presenza?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He must believe the new skiff will be a shining success.",
+      "it": "Forse crede che la nuova nave sarà un successo."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Or a spectacular failure.",
+      "it": "O uno grandioso fallimento."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Alexei. -[Alexei] What?",
+      "it": "- Alexei. - Che c'è?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, Mal.",
+      "it": "Scusa, Mal."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think he's coming with us?",
+      "it": "Pensi che verrà con noi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If he does, then you know what he believes.",
+      "it": "Se è così, sai cosa crede."
+    }
+  },
+  {
+    "translation": {
+      "en": "Are we children, or are we soldiers?",
+      "it": "Siamo bambini o soldati?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get to your posts and pack your gear. Skiff launches in 20.",
+      "it": "Ai vostri posti, preparatevi. Si salpa tra 20 minuti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sergeant, get your crew ready!",
+      "it": "Sergente, prepari l'equipaggio!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mal, you're with me, son. Chin up.",
+      "it": "Mal, tu sei con me. Coraggio."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've crossed it three times without incident.",
+      "it": "L'ho attraversata tre volte senza problemi."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll get your first soon enough.",
+      "it": "Tra poco ne avrai uno anche tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be back before you know it.",
+      "it": "Tornerò prestissimo."
+    }
+  },
+  {
+    "translation": {
+      "en": "And I'll be here the whole time.",
+      "it": "E io sarò sempre qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Me and the cartographers, I mean.",
+      "it": "Io e i Cartografi, intendo."
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Alina] We can't hide forever.",
+      "it": "Non possiamo nasconderci."
+    }
+  },
+  {
+    "translation": {
+      "en": "We can run. Together.",
+      "it": "Possiamo scappare. Insieme."
+    }
+  },
+  {
+    "translation": {
+      "en": "Petya, how did this happen?",
+      "it": "Petya, com'è successo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't know. We were extra careful to secure all the lanterns.",
+      "it": "Non si sa. Abbiamo legato tutte le lanterne con attenzione."
+    }
+  },
+  {
+    "translation": {
+      "en": "-And what was damaged? -Nothing major.",
+      "it": "- Cosa si è danneggiato? - Niente di che."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just some records of the western coast line,",
+      "it": "Solo dei dati sulla costa ovest,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Os Kervo and the river system that runs through it.",
+      "it": "su Os Kervo e i fiumi che la attraversano."
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's really not… -Critical?",
+      "it": "- Non è… - Grave?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Geographical data of the territory on the other side of the damn Fold?",
+      "it": "I dati geografici sul territorio al di là della Faglia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those records?",
+      "it": "Proprio quei dati?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, but I'm sure that the First Army on the other side has an--",
+      "it": "Sì, ma di sicuro il Primo Esercito dall'altra parte ha…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think I trust anyone else's intel?",
+      "it": "Pensi che mi fidi dei dati di altri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now someone will have to cross the Fold, to redraw these maps.",
+      "it": "Bisognerà attraversare la Faglia e ridisegnare le mappe."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go. Put me on the skiff, I'll go.",
+      "it": "Vado io. Mi faccia partire con la nave."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. You will.",
+      "it": "Sì, andrai tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your whole unit will.",
+      "it": "Con tutta la tua unità."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't understand. We were going south, now we're going west?",
+      "it": "Non capisco. Andavamo a sud e ora andiamo a ovest?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What did you do? -Nothing.",
+      "it": "- Cos'hai fatto? - Niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Leave her alone, Raisa. You want everything to be her fault.",
+      "it": "Lasciala stare, Raisa. Dai sempre la colpa a lei."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm usually right.",
+      "it": "Di solito ho ragione."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Alina gasps] -What the hell are you doing here?",
+      "it": "Che ci fai qui?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We've been assigned with you. -No. Turn around right now.",
+      "it": "- Dobbiamo venire con voi. - No. Torna indietro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Orders are orders.",
+      "it": "Sai, gli ordini…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could shoot you in the foot.",
+      "it": "Potrei spararti al piede."
+    }
+  },
+  {
+    "translation": {
+      "en": "I like my feet, thank you.",
+      "it": "Ci tengo ai miei piedi."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tell them you're too sick to go. -I'm never that sick.",
+      "it": "- Di' loro che stai male. - Non sto mai male."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lie if you have to.",
+      "it": "Menti, se devi."
+    }
+  },
+  {
+    "translation": {
+      "en": "And what's your lie? I'm with you.",
+      "it": "E tu non menti? Vengo con te."
+    }
+  },
+  {
+    "translation": {
+      "en": "Get off this boat now, or I'll carry you off.",
+      "it": "Scendi o ti porto giù di peso."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sergeant Yure] Raise the gate!",
+      "it": "Su il portellone!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ready to lock up.",
+      "it": "Pronti a salpare."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll make it, promise.",
+      "it": "Ce la farò, promesso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sergeant! What now?",
+      "it": "Sergente! Ora che facciamo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Grisha will tell us.",
+      "it": "Ce lo dirà la Grisha."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not her. The Inferni.",
+      "it": "No, non lei. L'Inferno."
+    }
+  },
+  {
+    "translation": {
+      "en": "[claps hands] Here's how it goes. We go into the Fold,",
+      "it": "Faremo così: andremo nella Faglia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "it gets dark, but we like it dark.",
+      "it": "sarà buio, ma a noi va bene"
+    }
+  },
+  {
+    "translation": {
+      "en": "That keeps us from drawing attention.",
+      "it": "perché così non ci noteranno."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how we travel.",
+      "it": "Viaggeremo così."
+    }
+  },
+  {
+    "translation": {
+      "en": "The only light we use is the blue one at the mast.",
+      "it": "L'unica luce che useremo è quella blu dell'albero."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's weak but safe.",
+      "it": "È fioca, ma è sicura."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Raisa] But you're an Inferni, right?",
+      "it": "Tu sei un'Inferno, vero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you here if we're supposed to keep things dark?",
+      "it": "Perché sei qui, se dobbiamo restare al buio?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For when the dark comes to keep you.",
+      "it": "Per quando il buio verrà a prendervi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's your general? Kirigan?",
+      "it": "Dov'è il generale Kirigan?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sailor] Ready for launch!",
+      "it": "Pronti a salpare!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's our cue.",
+      "it": "Ecco il segnale."
+    }
+  },
+  {
+    "translation": {
+      "en": "Right, listen to me, cartographers.",
+      "it": "Bene, ascoltatemi, Cartografi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Until we reach the western dry docks,",
+      "it": "Finché non arriveremo ai moli occidentali,"
+    }
+  },
+  {
+    "translation": {
+      "en": "you are to remain at your station.",
+      "it": "restate al vostro posto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not, I repeat, do not leave the skiff during the crossing.",
+      "it": "Ripeto, non lasciate la nave durante la traversata."
+    }
+  },
+  {
+    "translation": {
+      "en": "In we go.",
+      "it": "Entriamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Marker one.",
+      "it": "Primo indicatore."
+    }
+  },
+  {
+    "translation": {
+      "en": "How many more are there?",
+      "it": "Quanti ce ne sono?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thirty-seven.",
+      "it": "Trentasette."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Blow it out! What are you doing? -[creature growling]",
+      "it": "Spegnila! Che fai?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do we--",
+      "it": "Cosa…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come at me! Come at me, you coward!",
+      "it": "Vieni a prendermi, vigliacco!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alina] Alexei, no!",
+      "it": "Alexei, no!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[mouthing] Mal!",
+      "it": "Mal!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll meet you at the meadow.",
+      "it": "Ci ritroveremo al prato."
+    }
+  },
+  {
+    "translation": {
+      "en": "General Zlatan. Your orders?",
+      "it": "Generale Zlatan. Quali sono i suoi ordini?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been too long.",
+      "it": "È passato troppo tempo."
+    }
+  },
+  {
+    "translation": {
+      "en": "They should have emerged two hours ago.",
+      "it": "Dovevano emergere due ore fa."
+    }
+  },
+  {
+    "translation": {
+      "en": "[soldier] Sir! Look!",
+      "it": "Signore! Guardi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is the rest of your crew?",
+      "it": "Dov'è il resto dell'equipaggio?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "it": "Allora,"
+    }
+  },
+  {
+    "translation": {
+      "en": "new management, gents.",
+      "it": "nuova gestione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's the deal.",
+      "it": "Ascoltatemi."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Heartrender is gone, boss.",
+      "it": "La Spaccacuore è sparita."
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone else got her.",
+      "it": "L'ha presa qualcuno."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who?",
+      "it": "Chi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really appreciate new business,",
+      "it": "Mi piacciono i lavori nuovi,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but you've only paid for an hour of my time,",
+      "it": "ma mi ha pagato solo per un'ora"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I have to be back at the Orchid.",
+      "it": "e devo tornare all'Orchidea."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kaz] The Orchid isn't safe tonight. Your life's in danger with this job.",
+      "it": "L'Orchidea non è sicura stasera. Ora sei in pericolo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Make yourself scarce for a few days afterwards.",
+      "it": "Cerca di sparire per qualche giorno."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Brekker, are you threatening me? Really?",
+      "it": "Sig. Brekker, mi sta minacciando?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even if I'm nice, my boss will call the stadwatch on you.",
+      "it": "Il mio capo la denuncerà alla stadwatch."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not me you're in danger with. It's Pekka Rollins.",
+      "it": "Non è in pericolo con me, ma con Pekka Rollins."
+    }
+  },
+  {
+    "translation": {
+      "en": "My boss would call the stadwatch on him as well.",
+      "it": "Il mio capo denuncerà anche lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Which is why your boss is already dead.",
+      "it": "Per questo il suo capo è già morto."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Who are you lot? -We're here to see Dreesen.",
+      "it": "- Chi siete? - Vogliamo vedere Dreesen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You're not with Pekka's crew.",
+      "it": "Non siete con gli uomini di Pekka."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're not in Pekka's pocket anymore if you don't owe him.",
+      "it": "E voi non dipendete più da lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, where did you get that coin?",
+      "it": "Ehi, da dove hai preso quella moneta?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Hey! One of these has a hole in it!",
+      "it": "Ehi! Una di queste ha un buco!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Saints.",
+      "it": "Per tutti i Santi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Inside. Inside. -[laughing]",
+      "it": "Entriamo. Forza."
+    }
+  },
+  {
+    "translation": {
+      "en": "One look and I can tell. Criminals.",
+      "it": "Lo capisco al primo sguardo. Criminali."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not meeting anyone 'til midnight.",
+      "it": "Non vedrò nessuno fino a mezzanotte."
+    }
+  },
+  {
+    "translation": {
+      "en": "We heard you needed a Heartrender.",
+      "it": "Non le serviva una Spaccacuore?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, she stays, the rest of you, out.",
+      "it": "Ok, lei può restare. Voi, fuori."
+    }
+  },
+  {
+    "translation": {
+      "en": "She stays.",
+      "it": "Lei può restare."
+    }
+  },
+  {
+    "translation": {
+      "en": "And we have an exclusive on this job.",
+      "it": "E noi abbiamo l'esclusiva sul lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Brekker.",
+      "it": "Sig. Brekker."
+    }
+  },
+  {
+    "translation": {
+      "en": "No businessman worth his salt hires his first applicant.",
+      "it": "Nessun uomo d'affari assume il primo che si offre per un lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kaz] No. No, I understand.",
+      "it": "No, lo capisco."
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course, I will have to report you to the guild",
+      "it": "Certo, dovrò denunciarla al sindacato"
+    }
+  },
+  {
+    "translation": {
+      "en": "for kidnapping and harboring a prisoner without chain of title.",
+      "it": "per rapimento e per aver nascosto un prigioniero."
+    }
+  },
+  {
+    "translation": {
+      "en": "You wouldn't.",
+      "it": "Non lo farebbe."
+    }
+  },
+  {
+    "translation": {
+      "en": "No businessman worth his salt",
+      "it": "Nessun uomo d'affari"
+    }
+  },
+  {
+    "translation": {
+      "en": "bargains for what he can take.",
+      "it": "tratta per ciò che può prendersi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to be back in an hour.",
+      "it": "Devo rientrare tra un'ora."
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, come on.",
+      "it": "Va bene, andiamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's this?",
+      "it": "Chi è?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you don't know everything after all.",
+      "it": "Perciò in fondo non sapete tutto."
+    }
+  },
+  {
+    "translation": {
+      "en": "This…",
+      "it": "Lui…"
+    }
+  },
+  {
+    "translation": {
+      "en": "is Alexei Stepanov.",
+      "it": "è Alexei Stepanov."
+    }
+  },
+  {
+    "translation": {
+      "en": "Two weeks ago, young Alexei here",
+      "it": "Due settimane fa, il giovane Alexei"
+    }
+  },
+  {
+    "translation": {
+      "en": "crossed through the Fold on foot.",
+      "it": "ha attraversato la Faglia a piedi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Alone.",
+      "it": "Da solo."
+    }
+  },
+  {
+    "translation": {
+      "en": "How?",
+      "it": "E come?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're keeping it quiet,",
+      "it": "Non lo dicono,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but allegedly -he was one of a few witnesses to… -[water pouring]",
+      "it": "ma pare che sia stato uno dei pochi testimoni di…"
+    }
+  },
+  {
+    "translation": {
+      "en": "…an event.",
+      "it": "un evento."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alexei] Water.",
+      "it": "Acqua."
+    }
+  },
+  {
+    "translation": {
+      "en": "What kind of event?",
+      "it": "Che genere di evento?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dreesen] I know an expedition was swarmed by volcra.",
+      "it": "So che una spedizione è stata attaccata dai Volcra."
+    }
+  },
+  {
+    "translation": {
+      "en": "Should've been a total loss,",
+      "it": "Sarebbe stata una disfatta,"
+    }
+  },
+  {
+    "translation": {
+      "en": "but something happened.",
+      "it": "se non fosse successo qualcosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Some device detonated.",
+      "it": "È esploso un dispositivo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Obliterated the volcra,",
+      "it": "Ha annientato i Volcra"
+    }
+  },
+  {
+    "translation": {
+      "en": "lit up the dark like a forest fire.",
+      "it": "e ha illuminato il buio come un incendio."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know it wasn't a fire or else no one would have survived.",
+      "it": "RAVKA EST Non è stato un incendio. Non sarebbe sopravvissuto nessuno."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dreesen] This was some invention no one had seen before.",
+      "it": "È un'invenzione che non nessuno ha mai visto."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zoya] Healer!",
+      "it": "Guaritore!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He knows.",
+      "it": "Lui lo sa."
+    }
+  },
+  {
+    "translation": {
+      "en": "But he doesn't seem to be able to articulate his account of events.",
+      "it": "Ma non è in grado di raccontare gli eventi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Some form of traumatic lapse.",
+      "it": "Una specie di vuoto di memoria dovuto al trauma."
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "it": "Perciò…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Milana] You're safe now.",
+      "it": "Ora sei al sicuro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you can just speak",
+      "it": "Ora puoi parlare"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I will just listen.",
+      "it": "e io ti ascolterò."
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "it": "Va bene."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me what happened in the Fold.",
+      "it": "Dimmi cos'è successo nella Faglia."
+    }
+  },
+  {
+    "translation": {
+      "en": "What saved you?",
+      "it": "Cosa ti ha salvato?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alexei] You won't believe me, but…",
+      "it": "Non mi crederà, ma…"
+    }
+  },
+  {
+    "translation": {
+      "en": "it was a Sun Summoner.",
+      "it": "è stata un'Evocaluce."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who was it?",
+      "it": "Chi era?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I tell you, you'll set me free?",
+      "it": "Se glielo dico, mi libererà?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have my word. I'll set you free.",
+      "it": "Hai la mia parola. Sarai libero."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're in Ketterdam now, Alexei.",
+      "it": "Ora sei a Ketterdam, Alexei."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can go anywhere in the world from here.",
+      "it": "Da qui puoi andare in tutto il mondo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just imagine.",
+      "it": "Immagina un po'."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "it": "Dai, dillo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Her name is…",
+      "it": "Si chiama…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dreesen] Alina Starkov?",
+      "it": "Alina Starkov?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good boy.",
+      "it": "Bravo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Show me the manifest.",
+      "it": "Mi mostri il manifesto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Perfect.",
+      "it": "Perfetto."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll set me free now?",
+      "it": "Ora mi libererà?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you. Of course.",
+      "it": "Grazie. Certo."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are now the only people west of the Fold with this information.",
+      "it": "Ora siamo gli unici a ovest della Faglia a saperlo."
+    }
+  },
+  {
+    "translation": {
+      "en": "My ship sails for West Ravka at dawn.",
+      "it": "La mia nave salperà all'alba verso Ravka Ovest."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you can prove that you have a way through the Fold and back,",
+      "it": "Se mi dimostra di poter attraversare la Faglia e tornare,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll put you on that ship with an advance.",
+      "it": "la farò salire sulla nave in anticipo."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't, I'm giving this job to Pekka Rollins.",
+      "it": "Se no, affiderò il lavoro a Pekka Rollins."
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me a day. I'll have a plan.",
+      "it": "Mi dia un giorno. Ho un piano."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have until sunrise,",
+      "it": "Ha tempo fino al tramonto,"
+    }
+  },
+  {
+    "translation": {
+      "en": "then your ship will have sailed, Mr. Brekker.",
+      "it": "poi la nave salperà, sig. Brekker."
+    }
+  },
+  {
+    "translation": {
+      "en": "The prize is one million kruge.",
+      "it": "Il compenso è un milione di kruge."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now bring me Alina Starkov.",
+      "it": "Ora mi porti Alina Starkov."
+    }
+  }
+]

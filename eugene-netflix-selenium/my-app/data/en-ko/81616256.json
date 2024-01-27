@@ -1,0 +1,9494 @@
+[
+  {
+    "translation": {
+      "en": "[man over PA] Welcome to the store. Are you a Busy Beaver?",
+      "ko": "어서 오세요 부지런한 비버이신가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] No, I am not a Busy Beaver.",
+      "ko": "아니, 부지런한 비버 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you a Frequent Beaver?",
+      "ko": "단골 비버이신가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Join our rewards club for savings.",
+      "ko": "멤버로 가입하시면"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can get your teeth into our dam good deals.",
+      "ko": "먹음직한 할인 혜택을 해드립니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't forget:",
+      "ko": "잊지 마시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you need help, ask a Beaver.",
+      "ko": "도움이 필요하시면 비버를 부르세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. Oh. Can I, uh, help you with that, sir?",
+      "ko": "제가 도와드릴까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think I don't know how to cut rope?",
+      "ko": "밧줄 자르는 법도 모를 거 같아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, it's just we usually do that for ya.",
+      "ko": "아뇨, 보통은 제가 해드려서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think I'm gonna cut myself and bleed all over your floor and sue you?",
+      "ko": "혼자 하다가 베여서 피바다 만들고 고소할까 봐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아뇨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I don't need your help.",
+      "ko": "그럼 도움 필요 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have an excellent day.",
+      "ko": "좋은 하루 보내세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a Busy Beaver.",
+      "ko": "나는 부지런한 비버!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Idiot.",
+      "ko": "머저리"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you, um, find everything you were lookin' for today?",
+      "ko": "찾으시던 건 다 찾으셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ko": "다행이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's see here.",
+      "ko": "어디 보자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, your total is 3.47.",
+      "ko": "총 3.47달러예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You charged me for 6 feet of rope.",
+      "ko": "그건 6피트 밧줄값이잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, yes, it's 99¢ a yard.",
+      "ko": "네, 1야드에 99센트예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't get 2 yards. I got 5 feet.",
+      "ko": "2야드가 아니라 5피트 샀어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, we don't charge by the foot. We charge by the yard.",
+      "ko": "여긴 피트가 아니라 야드로 계산해서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "99¢ a yard is 33¢ a foot, times 5, that's 1.65.",
+      "ko": "1야드에 99센트면 1피트에 33센트, 1.65달러"
+    }
+  },
+  {
+    "translation": {
+      "en": "You charged me $1.98.",
+      "ko": "1.98달러 달라며?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] You're good at math. Um...",
+      "ko": "계산 잘하시네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I know, but I can't put it into the computer the way that you just said.",
+      "ko": "그건 알지만 저희 컴퓨터에는 그렇게 입력 못 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell kind of computer can't do simple math?",
+      "ko": "무슨 놈의 컴퓨터가 간단한 셈도 못 해?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Can I speak to your manager? -He's at lunch.",
+      "ko": "- 점장 불러주겠나? - 점심 들고 계세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lunch. All anyone cares about these days is lunch.",
+      "ko": "요즘은 왜 그리들 점심에 환장해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Is there anyone else in charge? -You want the assistant manager?",
+      "ko": "- 다른 책임자 없어? - 부점장이요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes, I'd like the assistant manager. -'Kay.",
+      "ko": "- 그래, 부점장 불러봐 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[over PA] Hey, Taylor?",
+      "ko": "테일러?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Taylor? To the front register.",
+      "ko": "테일러, 계산대로 와주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's up?",
+      "ko": "왜요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Taylor.",
+      "ko": "테일러"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the assistant manager? How old is she?",
+      "ko": "부점장이라고? 몇 살인데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shouldn't you be in gym class?",
+      "ko": "체육 수업 땡땡이치고 왔나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, what?",
+      "ko": "죄송한데 뭐라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Here. I got some change.",
+      "ko": "제가 잔돈 드릴게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me cover that extra 33¢ for you.",
+      "ko": "그 33센트, 이걸로 내세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, I do not want your 33¢. And this is not about 33¢.",
+      "ko": "그 돈은 됐소 돈이 문제가 아니라 팩트가 틀려먹었잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is about the fact that I got 5 feet of rope because I want 5 feet of rope.",
+      "ko": "돈이 문제가 아니라 팩트가 틀려먹었잖아 5피트 필요해서 5피트 샀으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I shouldn't have to pay for 6 feet of rope if I don't want 6 feet.",
+      "ko": "6피트 값을 내면 안 되는 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you want another foot of rope?",
+      "ko": "1피트 더 드릴까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[groans] Not again.",
+      "ko": "또 이러네"
+    }
+  },
+  {
+    "translation": {
+      "en": "How hard can this be?",
+      "ko": "이게 그렇게 힘들어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That bike goes over here.",
+      "ko": "\"주민이 아니면 쓰레기 버리지 마시오!\" 자전거는 저기 둬야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! What the hell?",
+      "ko": "저기요! 뭐예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's mine.",
+      "ko": "내 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It belongs in the bike rack. -I was only gone half a minute.",
+      "ko": "- 거치대에 둬야지 - 30초도 안 됐어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Next time, I'll lock it up in the lost and found.",
+      "ko": "다음엔 분실물 창고에 처박을 줄 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Grumpy old bastard.",
+      "ko": "완전 개꼰대"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jeez.",
+      "ko": "짜증 나"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not on the mirror.",
+      "ko": "미러에 달아야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, Otto! -[grunts]",
+      "ko": "안녕하세요, 오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Okay.",
+      "ko": "옳지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "ko": "안녕하세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you dare let that little rat dog piss on my walkway again.",
+      "ko": "또 우리 집 앞에 오줌만 싸게 해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I know it was you. -Ignore him, Prince.",
+      "ko": "- 가만 안 둬 - 무시해, 프린스"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a nasty, bitter old man. And he has no idea who's doing that.",
+      "ko": "동네 꼰대 할아버지인데 증거도 없이 저런다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it was one of you.",
+      "ko": "그럼 네가 쌌겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And tell that useless boyfriend of yours to stop stretching his groin in public.",
+      "ko": "그 식충이 같은 남자 친구한테 전해 길거리에서 가랑이 벌려대지 말라고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like a 14-year-old Romanian gymnast, for God's sakes.",
+      "ko": "14살짜리 루마니아 체조선수도 아니고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go on. Get outta here.",
+      "ko": "가, 저리 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "ko": "가"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] There he is, the big man himself.",
+      "ko": "주인공 오셨네요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's all this?",
+      "ko": "이건 다 뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's, well, retirement cake, I guess. Call it what you like.",
+      "ko": "퇴직 기념 케이크 준비해 봤어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] \"Have fun.\"",
+      "ko": "'즐기세요'?"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Have fun.\" Doing what?",
+      "ko": "즐기라니 뭘?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have fun with the rest of your life. We wanted to, you know...",
+      "ko": "여생을 즐기시란 거죠 이제 가시니까…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Celebrate?",
+      "ko": "기분 좋다?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! Well, no.",
+      "ko": "네, 아뇨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give you a nice send-off.",
+      "ko": "좋게 보내드려야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Nice.\"",
+      "ko": "'좋게'?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Otto.",
+      "ko": "이러지 마세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're the one who decided to leave.",
+      "ko": "직접 결정한 퇴직이잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you did get a nice severance package.",
+      "ko": "퇴직금도 많이 받으셨고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You took me off Operations. You cut back on my hours.",
+      "ko": "현장에서 빼버리고 근로 시간도 줄이고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You made Terry, who I trained, my supervisor.",
+      "ko": "내가 가르친 테리를 내 상사로 앉혔잖소"
+    }
+  },
+  {
+    "translation": {
+      "en": "Terry, who can barely figure out what year it is without his phone.",
+      "ko": "폰 없으면 올해가 몇 년인지도 모르는 애를"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, yes, I took the severance package.",
+      "ko": "그러니 퇴직 신청했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry you see it that way.",
+      "ko": "그렇게 보시다니 유감이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We all had to adjust after the merger.",
+      "ko": "합병 후엔 조정이 따르는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you've been quite an asset to this company over the years, so--",
+      "ko": "그래도 오랫동안 정말 수고하셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have. Reliable as hell.",
+      "ko": "수고하셨죠, 믿음직한 분이셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna miss those schedules of yours.",
+      "ko": "그 빡빡하던 일정도 그리울 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "To Otto!",
+      "ko": "오토를 위해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-To Otto! -To Otto.",
+      "ko": "- 오토를 위해 - 오토를 위해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, Otto. Want a piece of your face?",
+      "ko": "오토, 얼굴 한 조각 드실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Who's hungry? -[employees laughing]",
+      "ko": "배고프신 분?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Look at this. No, no.",
+      "ko": "이것 봐라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey, wait!",
+      "ko": "이봐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no. Hey, you cannot use this road without a permit.",
+      "ko": "주차증 없이 들어오면 안 되지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not parking. I just dropped off a package.",
+      "ko": "주차한 게 아니라 택배 내린 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The sign doesn't say anything about packages, does it?",
+      "ko": "저 표지판에 택배는 예외라던가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It says \"permits\" and you don't have one.",
+      "ko": "주차증 없으면 대지 말라잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is not a through street.",
+      "ko": "여긴 통행로도 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have a nice day, sir.",
+      "ko": "좋은 하루 보내세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Every time you come in here that means one of the residents can't park in front of their homes!",
+      "ko": "이러면 주민들이 집 앞에 차를 못 댄다니까!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The other guys don't do this. The guys with the white trucks.",
+      "ko": "흰 택배차는 이런 짓 안 하더구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "How come it's always you brown guys?",
+      "ko": "어째 갈색 양반들만 이런 식이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I don't mean that racially!",
+      "ko": "인종 얘긴 아니야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello.",
+      "ko": "여보시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman's voice] Oh, hi. Sorry, can you hear me? Yes.",
+      "ko": "- 안녕하세요, 들리세요? - 그렇소"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's Susan. Susan who?",
+      "ko": "- 수전이에요 - 수전 누구?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have great news about your health insurance.",
+      "ko": "건강 보험 관련해서 좋은 소식이 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no, no, no. Robot, robot, robot!",
+      "ko": "또야, 또! 로봇, 로봇, 로봇!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, who do I have to talk to to get this phone number disconnected?",
+      "ko": "전화 해지하려면 어디에 말하면 되겠소?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] That's Account Services.",
+      "ko": "계정 관리부에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you transfer me or should I press a number?",
+      "ko": "연결해 줄 거요? 아님 내가 걸까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I have been listening to that music for seven minutes.",
+      "ko": "연결 음악을 7분이나 들었소"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I do apologize, Mr. Anderson.",
+      "ko": "죄송합니다, 앤더슨 씨"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would like the electricity shut off at this residence.",
+      "ko": "이 집 전기를 끊고 싶은데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you moving home? -No, I am canceling the account.",
+      "ko": "- 이사 가시나요? - 아니, 해지한다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "A-N-D-E-R-S-O-N.",
+      "ko": "A-N-D-E-R-S-O-N"
+    }
+  },
+  {
+    "translation": {
+      "en": "And why can't you refund me for the six days?",
+      "ko": "남은 6일 치는 왜 환불 안 된다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "O-T-T-O.",
+      "ko": "O-T-T-O"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, it's policy.",
+      "ko": "방침이다?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, my policy is that if I'm going to pay for six days of gas,",
+      "ko": "내 방침은 가스비 6일 치를 써야"
+    }
+  },
+  {
+    "translation": {
+      "en": "then I will use six days of gas.",
+      "ko": "6일 치를 내는 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then we are done here.",
+      "ko": "해줘야 끊을 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Idiots.",
+      "ko": "머저리들"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Go, go, go. Stop. Go.",
+      "ko": "더, 더, 그만"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Yeah. Stop.",
+      "ko": "됐어, 그만"
+    }
+  },
+  {
+    "translation": {
+      "en": "Back. You're in the blind spot, be careful. Use the Force.",
+      "ko": "뒤로, 사각 있으니까 조심해서 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good, good. No, you're going on the sidewalk.",
+      "ko": "좋아, 아니야, 인도로 가잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. [speaking in Spanish]",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Back, back, back.",
+      "ko": "뒤로, 뒤로"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go away.",
+      "ko": "쭉쭉"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[radar beeping] -[in English] Stop. Stop.",
+      "ko": "그만"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell is he doing?",
+      "ko": "무슨 짓거리야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Yes! Exactly! That's exactly what I was saying.",
+      "ko": "제 말이요! 저게 무슨 짓인지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, you can't just drive here. -[radar beeping, then stops]",
+      "ko": "여긴 운전 금지야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not driving. Am I driving the car? No.",
+      "ko": "안 하잖아요, 제가 하고 있어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't just bring a car on this street without a permit.",
+      "ko": "여긴 주차증 없인 차 못 들어와"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, we have a parking permit. Right here. See?",
+      "ko": "주차증 있어요, 여기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell's it doing in your pocket?!",
+      "ko": "그걸 왜 주머니에 넣고 다녀!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I'm the driver.",
+      "ko": "차 주인이니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're renting here. Yeah.",
+      "ko": "여기 세 들어왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "In 206.",
+      "ko": "206번지"
+    }
+  },
+  {
+    "translation": {
+      "en": "That doesn't mean you can back the trailer up to your front door.",
+      "ko": "그렇다고 인도에다 트레일러 대면 안 되지"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I wasn't. I was, uh, parallel parking.",
+      "ko": "저도 평행 주차 하려던 건데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Parallel to what?",
+      "ko": "어디에 평행?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that, uh, didn't go so well, huh?",
+      "ko": "생각대로 안 되네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll just give it another try.",
+      "ko": "다시 해볼게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, my God. -[speaking in Spanish]",
+      "ko": "돌겠구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Good. Good!",
+      "ko": "좋아, 좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol in English] Keep backing away. Keep backing away.",
+      "ko": "계속 뒤로, 뒤로"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now go away more.",
+      "ko": "조금 더"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Okay, I got this.",
+      "ko": "될 거 같아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] The other way, but first the other way.",
+      "ko": "- 반대쪽, 저쪽 - 천천히"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Otto] Easy. -Exactamente.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Otto] Easy, easy. -[Marisol] Uh-huh. Good.",
+      "ko": "- 천천히 - 좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No, no. What? No!",
+      "ko": "아니야, 아니!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no! Stop! Stop, stop, stop! Stop! -[yelling]",
+      "ko": "아니, 멈춰! 그만, 그만!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop! Stop. Get outta the car. -[engine turns off]",
+      "ko": "멈춰, 내려"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get outta the car. -I'm sorry.",
+      "ko": "- 내려 - 죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How you could make it this far through life without knowing how to back up a trailer.",
+      "ko": "후진도 못 하면서 여태 어떻게 살았어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My God, a dog with one front paw and cataracts coulda done better than that.",
+      "ko": "백내장 걸린 외다리 개도 이것보단 잘하겠구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "And an automatic, of course. Give me the keys.",
+      "ko": "오토로도 못 하네, 열쇠 줘봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, they're in the cupholder.",
+      "ko": "컵 홀더에 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a push-button start.",
+      "ko": "버튼 시동식이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I knew that.",
+      "ko": "나도 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell is that?",
+      "ko": "이 소린 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, that's the radar.",
+      "ko": "후방 경보예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The trailer's too close to the side of the car.",
+      "ko": "트레일러가 차랑 너무 가까워서"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why it's still beeping, but--",
+      "ko": "경고음 나는 건데, 이럴 땐…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello.",
+      "ko": "안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello.",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "ko": "이름이 뭐예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Otto. -Otto?",
+      "ko": "오토 아로?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. O-T-T-O.",
+      "ko": "오토, O-T-T-O"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Abbie, O-T-T-O.",
+      "ko": "전 애비예요, O-T-T-O"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs softly] And I'm Luna.",
+      "ko": "전 루나예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice to meet you.",
+      "ko": "반갑다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Oh, that was good, huh?",
+      "ko": "잘하시네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He just did it in one shot, huh?",
+      "ko": "한 방에 하셨어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Perfecto! -Thank you, sir.",
+      "ko": "- 딱이에요! - 감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyone who thinks they need to use radar to back up a car",
+      "ko": "후진에 경보음까지 필요한 작자들은"
+    }
+  },
+  {
+    "translation": {
+      "en": "shouldn't be allowed to drive one. They shouldn't be allowed to use the radio.",
+      "ko": "자동차는커녕 라디오도 만지면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what I said.",
+      "ko": "제 생각도 그래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the permit goes on the rearview mirror. Not in your pocket!",
+      "ko": "주차증은 주머니가 아니라 룸미러에 달고 다녀!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[in English] Okay, okay. -Got it.",
+      "ko": "- 네, 네 - 알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bye! Thank you! -Thank you, sir. That was very nice.",
+      "ko": "- 감사해요! - 감사해요, 친절하시네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Idiot.",
+      "ko": "저 머저리"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] You guys all ready?",
+      "ko": "준비됐니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "됐다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Bring your stuff, okay?",
+      "ko": "짐 들고 올래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, sweeties.",
+      "ko": "어서 오렴"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chiquitita, take your stuff.",
+      "ko": "짐 챙겨 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sonya] How much more shelf space is left?",
+      "ko": "선반 몇 개 남았어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Otto] Three shelves.",
+      "ko": "세 개"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How many more boxes of books do you have? -[Sonya] Seven or eight.",
+      "ko": "- 책 상자 많이 남았어? - 7, 8개"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Then I'll build you another bookcase.\"",
+      "ko": "'그럼 책장 하나 더 만들어 줄게'"
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Otto] Then I'll build you another bookcase.",
+      "ko": "그럼 책장 하나 더 만들어 줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Marisol] Hi. -[Tommy] Hey.",
+      "ko": "- 안녕하세요 - 안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi. Otto. Right? Yes?",
+      "ko": "안녕하세요, 오우토 맞으시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that's what I said. No? What did I say--?",
+      "ko": "그렇게 말했는데요, 아닌가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't matter what you said. Otto. O-T-T-O.",
+      "ko": "발음이 틀렸잖아, 오토, O-T-T-O"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ah! Otto. -Otto.",
+      "ko": "- 오토 - 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. Okay, so it's the same forward that is backwards.",
+      "ko": "아, 철자를 뒤로 해도 오토가 되네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Otto. -It's Otto, Mari.",
+      "ko": "- 오토 - 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just you don't hear that name very often.",
+      "ko": "자주 듣는 이름은 아니라서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do.",
+      "ko": "난 자주 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. If we're interrupting, we can always come back.",
+      "ko": "지금 바쁘시면 나중에 올게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it you want?",
+      "ko": "용건이 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I brought you some food.",
+      "ko": "드실 것 좀 가져왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "ko": "왜?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because you looked hungry.",
+      "ko": "시장해 보이셔서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why we go so well together.",
+      "ko": "이래서 우리가 천생연분이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She loves to cook, and I like to eat everything.",
+      "ko": "아내는 요리 좋아하고 저는 식탐이 많고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyway, we just, uh...",
+      "ko": "아무튼…"
+    }
+  },
+  {
+    "translation": {
+      "en": "We wanted to properly introduce ourselves",
+      "ko": "제대로 인사를 드리고 싶었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "because we're gonna be neighbors and everything, so...",
+      "ko": "이웃이 될 거니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So... -Okay. -Okay. -Bye.",
+      "ko": "- 그러니까… - 그래, 잘 가게"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Marisol.",
+      "ko": "제 이름은 마리솔이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I'm Tommy.",
+      "ko": "저는 토미고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you always this unfriendly?",
+      "ko": "원래 이렇게 쌀쌀맞으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not unfriendly.",
+      "ko": "쌀쌀맞진 않아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'd say you're a little unfriendly. -I'm not unfriendly.",
+      "ko": "- 살짝 쌀쌀맞으신데요 - 아니라니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Un poquito. -I am not.",
+      "ko": "- 그러신데 - 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "No? Okay, you're not.",
+      "ko": "아니에요? 아니셨구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no, no. You're not unfriendly.",
+      "ko": "알았어요, 쌀쌀맞지 않으세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Every word you say is like a warm cuddle. It really is.",
+      "ko": "하시는 말씀마다 정말 따뜻해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enjoy it.",
+      "ko": "맛있게 드세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "ko": "뭔데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be careful with the salsa, please.",
+      "ko": "흔드시면 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's, um, pollo con mole. It's really good.",
+      "ko": "몰레 소스 치킨인데 진짜 맛있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a Mexican dish. I'm Mexican. [speaks in Spanish]",
+      "ko": "멕시코 음식이에요 멕시코인이거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] I was born in El Salvador because my father is from there.",
+      "ko": "아빠 고향인 엘살바도르에서 태어났는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But my mom is Mexican, so we went to first Mexico and then--",
+      "ko": "엄마가 멕시코인이라 멕시코로 갔다가…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And you? -I'm an IT consultant.",
+      "ko": "자네는? 저는 IT 컨설턴트예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I'm from Anaheim.",
+      "ko": "아나하임 출신이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, from Anaheim. Anaheim, yeah.",
+      "ko": "- '애너하임'이지 - 애너하임, 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. El Paso.",
+      "ko": "엘패소에서 커서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, well, I have some things I need to do.",
+      "ko": "난 이제 할 일이 있어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me, Mr. Otto.",
+      "ko": "죄송한데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wouldn't have an Alvin wrench I could borrow, would you?",
+      "ko": "앨빈 렌치를 빌릴 수 있을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You mean an Allen wrench.",
+      "ko": "앨런 렌치겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, an Alvin wrench.",
+      "ko": "아뇨, 앨빈 렌치요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's Allen wrench. -[Marisol] Allen wrench.",
+      "ko": "- 앨런 렌치야 - 앨런 렌치"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's \"Allen\" wrench, right? It's Allen wrench.",
+      "ko": "'앨런' 렌치 맞죠? 맞다잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's Alvin.",
+      "ko": "앨빈이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "All morning, \"Alvin wrench, Alvin wrench.\"",
+      "ko": "오전 내내 '앨빈 렌치, 앨빈 렌치'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honey, it's Alvin, trust me.",
+      "ko": "진짜 앨빈이라니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everybody else I know calls it an Alvin wrench.",
+      "ko": "내 지인들은 다 그렇게 불러"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everybody else you know is wrong. -Oh, yeah? You wanna Google it?",
+      "ko": "그 사람들이 틀린 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "My God.",
+      "ko": "- 환장하겠구먼 - 검색해 볼래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Google it! Google it!",
+      "ko": "- 환장하겠구먼 - 검색해 볼래? 검색해 봐, 위키피디아도 보고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Google it. Wikipediale. Wikipediale.",
+      "ko": "검색해 봐, 위키피디아도 보고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Give me your phone.",
+      "ko": "폰 줘봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, my phone. You use your phone.",
+      "ko": "됐거든, 당신 폰으로 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know what size you need?",
+      "ko": "어떤 사이즈로 줘?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, just the usual size.",
+      "ko": "그냥 보통 사이즈요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the set.",
+      "ko": "세트 가져가"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -Thank you.",
+      "ko": "- 감사해요 - 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We go because you have things to do, so...",
+      "ko": "바쁘신데 저희는 이만…"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you want, huh?",
+      "ko": "어쩌라고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Isn't she beautiful, son?",
+      "ko": "멋지지 않니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a Chevy engine for you.",
+      "ko": "이게 쉐보레 엔진이란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dependable.",
+      "ko": "믿음직하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not enough you can depend on in this world.",
+      "ko": "세상에 믿을 만한 건 많지 않단다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dad, this is Otto.",
+      "ko": "아빠, 오토예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough now, darling.",
+      "ko": "이제 됐어, 자기야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Huh.",
+      "ko": "\"8달러에 생화 두 다발\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Two for $8?",
+      "ko": "8달러에 두 다발?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe I should just run myself over with a car. That'll work.",
+      "ko": "그냥 차에 뛰어들까 봐 그게 낫겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Found some of the flowers you like.",
+      "ko": "당신이 좋아하는 꽃이 있더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pink.",
+      "ko": "분홍색"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] There was a deal on 'em.",
+      "ko": "싸게 샀어"
+    }
+  },
+  {
+    "translation": {
+      "en": "On sale. Two for 8 bucks.",
+      "ko": "세일해서 8달러에 두 다발"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry I didn't get 'em here earlier.",
+      "ko": "일찍 못 와서 미안"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got distracted.",
+      "ko": "정신없었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "By some new neighbors.",
+      "ko": "이웃집 이사 와서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nitwit husband.",
+      "ko": "남편이 반푼이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't even know an Allen wrench from one of the Chipmunks.",
+      "ko": "앨런 렌치도 모르는 친구더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Renters, of course.",
+      "ko": "세입자들이 그렇지"
+    }
+  },
+  {
+    "translation": {
+      "en": "No commitment to anything.",
+      "ko": "노력을 안 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, I know. Maybe they can't afford to buy yet.",
+      "ko": "\"소냐\" 알아, 살 여력이 안 될 수도 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But what will they do when those real estate bastards decide to tear down their house",
+      "ko": "근데 악덕 부동산업자가 집 허물어 버리고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and put up more of those ricky-ticky condos, huh?",
+      "ko": "싸구려 콘도 세운다면 어쩔 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gonna happen. I promise you.",
+      "ko": "그렇게 될걸"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're already driving around the gates, driving right across the grass.",
+      "ko": "벌써 차도 막 들어오고 잔디도 밟고 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dye & Merika.",
+      "ko": "다이 앤 메리카"
+    }
+  },
+  {
+    "translation": {
+      "en": "What idiot thought that was a good name for a real estate company?",
+      "ko": "부동산 회사 이름을 누가 저렇게 지어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sounds like \"dying America.\"",
+      "ko": "'다잉 아메리카' 같잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "It is, of course.",
+      "ko": "맞는 말이기야 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't even buy a decent screw hook anymore.",
+      "ko": "갈고리못 하나 멀쩡한 걸 못 사는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or rope by the foot.",
+      "ko": "밧줄도 피트로 못 사고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing works when you're not home.",
+      "ko": "당신이 없으니까 되는 게 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Next.",
+      "ko": "다음"
+    }
+  },
+  {
+    "translation": {
+      "en": "I suspect you have hypertrophic cardiomyopathy,",
+      "ko": "비후성 심근증이 있는 것 같군"
+    }
+  },
+  {
+    "translation": {
+      "en": "which is a genetic enlargement of the--",
+      "ko": "이건 유전질환이라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "ko": "알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My father had it.",
+      "ko": "아버지도 있으셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, you'll likely be around a good long time,",
+      "ko": "오래 사는 데는 지장 없겠지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I'm afraid your military prospects end here.",
+      "ko": "입대는 어려울 것 같네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Next.",
+      "ko": "다음"
+    }
+  },
+  {
+    "translation": {
+      "en": "One return ticket to Pittsburgh, please.",
+      "ko": "피츠버그 왕복 한 장 주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That'll be 1.10.",
+      "ko": "1.10달러예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Thank you.",
+      "ko": "감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Coming through.",
+      "ko": "지나갑니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, you dropped your book!",
+      "ko": "저기요, 책 떨어졌어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Miss, you dropped your book! Hey!",
+      "ko": "책 떨어졌어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that mine?",
+      "ko": "제 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes. I saw you dropped it, so I... -[chuckles]",
+      "ko": "네 떨어뜨리셨길래… \"거장과 마르가리타\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you so much.",
+      "ko": "정말 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm halfway through reading it. I would hate not knowing how it ends.",
+      "ko": "반밖에 못 읽었는데 결말도 모를 뻔했네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, here. Why don't you join me?",
+      "ko": "앉으세요 자리 비었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Sonya.",
+      "ko": "저는 소냐예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Otto. It was my father's name.",
+      "ko": "저는 오토예요, 아버지 이름이었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm on my way to visit my father right now.",
+      "ko": "저도 아버지 만나러 가는 길이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I go every Thursday.",
+      "ko": "목요일마다 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you take this train a lot?",
+      "ko": "이 기차 자주 타세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no, I had to come into town for my Army physical.",
+      "ko": "아뇨, 신검받으러 왔던 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God.",
+      "ko": "저런…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, that must be so hard, not knowing what you're gonna face over there.",
+      "ko": "군 생활 막막할 텐데 걱정되시겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-When are you leaving? -I'm not--",
+      "ko": "언제 가세요? 안 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not for a while.",
+      "ko": "당분간은"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Tickets, please.",
+      "ko": "표 보여주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, thank you.",
+      "ko": "감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm afraid you're on the wrong train. This is an eastbound ticket.",
+      "ko": "기차를 잘못 타셨네요 반대 방향 기차예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I must have, um...",
+      "ko": "제가 착각을…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll get off at the next station.",
+      "ko": "다음 역에서 내릴게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, how much is it?",
+      "ko": "푯값 얼마죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, $1.75.",
+      "ko": "1.75달러예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "One.",
+      "ko": "1달러…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here. I have some change.",
+      "ko": "여기 잔돈 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "There you go. Thank you. Have a good day.",
+      "ko": "여기 있습니다 좋은 하루 보내세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A quarter to spare.",
+      "ko": "25센트 남았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's 1964.",
+      "ko": "1964년 동전이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's pure silver. -Oh?",
+      "ko": "순은이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep it, then. It's lucky.",
+      "ko": "그럼 가지세요, 행운의 상징인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, it is.",
+      "ko": "그렇지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Otto! A little late for your morning rounds, isn't it?",
+      "ko": "안녕하세요, 오토! 아침 순찰 늦으셨네요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "No? Aren't you supposed to be at work?",
+      "ko": "오늘 출근 안 하세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "안 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh. Cool. You wanna come over for lunch, then?",
+      "ko": "그렇구나, 점심 드시러 오실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[hip-hop music blaring over car speakers] -Lunch.",
+      "ko": "그렇구나, 점심 드시러 오실래요? 점심?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[growls] No, no.",
+      "ko": "안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's pork tenderloin, in case you change your mind!",
+      "ko": "돼지 안심 요리예요 생각 바뀌면 오세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no, no.",
+      "ko": "안 돼, 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, excuse me.",
+      "ko": "이보게"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was you.",
+      "ko": "자네였구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a private road, and these gates are to keep down the flow of traffic.",
+      "ko": "여기는 사유 도로고 저건 차 막는 문이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not so idiot drivers can go around them and tear up the grass.",
+      "ko": "잔디 밟고 돌아가라고 만든 게 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[music stops] -Okay. You got me. I'm with Dye & Merika.",
+      "ko": "딱 걸렸네요 다이 앤 메리카 직원이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna have the groundskeeper come down and fix that up for ya, okay?",
+      "ko": "관리인 불러서 고쳐놓으면 되죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good as new. Even better. You have a good one now, okay?",
+      "ko": "깔끔하게 고쳐놓을게요 좋은 하루 보내세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The rules are here for a reason.",
+      "ko": "규칙에는 이유가 있는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know what you guys are up to.",
+      "ko": "당신들 꿍꿍이 내가 다 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, Mr. Anderson. Whatever you say.",
+      "ko": "네, 앤더슨 씨, 맘대로 생각하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep up the neighborhood watch.",
+      "ko": "동네 순찰 잘하시고요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[dog barking] -Get out here, you little bugger! [grunts]",
+      "ko": "이리 나와, 이 꼬맹아!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Yeah.",
+      "ko": "나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get out here!",
+      "ko": "나와!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] You throw one more rock,",
+      "ko": "하나만 더 던지면 그 개 발로 차서"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I swear I'll dropkick that little rat dog of yours right over the roof.",
+      "ko": "하나만 더 던지면 그 개 발로 차서 지붕 위로 날려버릴 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I'm not throwing it at your house. That nasty cat scratched Prince.",
+      "ko": "저게 우리 프린스를 할퀴었단 말이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna kill that piece of shit.",
+      "ko": "죽여버릴 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, you're not.",
+      "ko": "그건 아니지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Barb] What do you care? It's feral.",
+      "ko": "뭐 어때요? 길고양이잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's probably full of all sorts of disgusting diseases.",
+      "ko": "병균 덩어리일 텐데"
+    }
+  },
+  {
+    "translation": {
+      "en": "So are you, most likely. I don't throw rocks at you.",
+      "ko": "자네도 그럴 텐데 내가 돌 던지던?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Andy.",
+      "ko": "앤디"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Andy] What's up? -Did you hear what he just said this time?",
+      "ko": "왜 그래? 방금 들었어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Barb] I told you before about how he talks to me.",
+      "ko": "저 노인네 맨날 저런다니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get outta here while you can.",
+      "ko": "기회 있을 때 나가"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not your friend.",
+      "ko": "난 네 친구 아니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Barb] Dye & Merika said they'll get all the old people on this street into a home.",
+      "ko": "다이 앤 메리카에서 노인들 쫓아낼 거랬는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "The sooner the better!",
+      "ko": "빨리 좀 하지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[in English] Hello. -What now?",
+      "ko": "안녕하세요 또 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] I just wanted to bring the wrenches back.",
+      "ko": "렌치 돌려드리려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I found one that came with the furniture. -Congratulations.",
+      "ko": "맞는 렌치가 있었어요 축하하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I made you some salpores de arroz.",
+      "ko": "'살포레스 데 아로스' 좀 만들었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that chicken and mole?",
+      "ko": "그 몰레 치킨?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. These are Salvadoran cookies. They were my father's favorite, so...",
+      "ko": "아뇨, 엘살바도르 쿠키예요 아버지가 좋아하시던 거라…"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're delicious. You're gonna love 'em.",
+      "ko": "진짜 맛있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, because I made them.",
+      "ko": "누가 만들었는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Also, Otto, I was wondering if you have a ladder I can borrow.",
+      "ko": "그리고 사다리도 빌릴 수 있을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our window is jammed.",
+      "ko": "창문이 끼어서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why do you need a ladder?",
+      "ko": "사다리가 왜 필요해?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's the one up there.",
+      "ko": "위층 창문인데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It won't open.",
+      "ko": "열리질 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're gonna try to open it from the outside?",
+      "ko": "저걸 밖에서 열어보겠다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Right.",
+      "ko": "네, 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll get my coat.",
+      "ko": "코트 가져오지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Thank you.",
+      "ko": "감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like how his hands are waving.",
+      "ko": "손 흔들게 하자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's put the arm in.",
+      "ko": "팔도 붙이고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Good. -Anita.",
+      "ko": "- 잘됐네 - 어니타"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, Otto, hate to bother you, but, um, we don't have any heat.",
+      "ko": "오토, 미안하지만 난방이 안 돼서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Could you come take a look?",
+      "ko": "와서 좀 봐줄래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try bleeding your radiators.",
+      "ko": "라디에이터 숨 빼봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "How would I go about that?",
+      "ko": "그건 어떻게 하는 건데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "By bleeding the radiators.",
+      "ko": "라디에이터 숨 빼서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. Don't be rude.",
+      "ko": "오토, 무뚝뚝하게 왜 그러세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wasn't being rude.",
+      "ko": "무뚝뚝한 거 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's hard to tell the difference sometimes with Otto.",
+      "ko": "똑같은 얘길 저렇게 한다니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "그러게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "By the way, we, uh, just moved to 206.",
+      "ko": "저희는 206번지로 이사 왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm Marisol. -I'm Tommy.",
+      "ko": "- 전 마리솔이에요 - 전 토미예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Welcome, honey. -[Tommy] Nice meeting you.",
+      "ko": "- 잘 왔어요 - 안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Anita.",
+      "ko": "난 어니타예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My husband, Reuben, is the one who used to handle the heat.",
+      "ko": "우리 영감 루벤이 잘 고쳤는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. -But we always knew a day would come",
+      "ko": "이젠 나이가 나이다 보니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "when he wouldn't be able to handle things around the house any longer.",
+      "ko": "이젠 나이가 나이다 보니까 집 돌보는 일은 못 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe Reuben should have thought of that when he organized his coup.",
+      "ko": "쿠데타 벌일 때 생각했어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was a long time ago.",
+      "ko": "언제 적 얘기를"
+    }
+  },
+  {
+    "translation": {
+      "en": "A coup?",
+      "ko": "쿠데타요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a misunderstanding.",
+      "ko": "오해가 있었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a coup.",
+      "ko": "쿠데타였지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, can't you just go breathe Anita's radiators for her?",
+      "ko": "오토, 그냥 라디에이터 숨 쉬게 해주면 안 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. Because you don't breathe radiators.",
+      "ko": "안 돼, 라디에이터 숨 쉬게 하는 게 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "You bleed them.",
+      "ko": "숨을 빼는 거니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Honey, look at this ramp. -[Anita] That's Sonya's.",
+      "ko": "- 여보, 경사로가 있어 - 소냐 건데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is what we needed for the trailer. -Put that down.",
+      "ko": "- 트레일러에 쓰면… - 내려놔"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put that down! Who said you could touch that?!",
+      "ko": "내려놔! 누가 건드리래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tommy] Sorry. -All of you get outta here. Go, go.",
+      "ko": "- 죄송해요, 오토 - 전부 저리 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take your ladder and go. Get outta here. All of you.",
+      "ko": "사다리 가지고 가, 전부 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Marisol] Okay. -[Tommy] Thank you.",
+      "ko": "- 알았어요 - 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Watch out.",
+      "ko": "- 감사해요 - 조심"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[speaking in Spanish] -Right. Right.",
+      "ko": "됐어, 됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you! -[in English] Thank you!",
+      "ko": "- 감사해요! - 감사해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. What are you doing in here?",
+      "ko": "넌 또 여기서 뭐 하는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you get in here? Come on.",
+      "ko": "어떻게 들어갔어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Go! Get outta there.",
+      "ko": "자, 나와, 거기서 나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, get out. Get out of there.",
+      "ko": "나와, 나오라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, go.",
+      "ko": "얼른 나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey. -[meowing]",
+      "ko": "이 녀석이"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let go!",
+      "ko": "놔!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let go. -[hisses]",
+      "ko": "놔"
+    }
+  },
+  {
+    "translation": {
+      "en": "You scratch me, I'll bite you.",
+      "ko": "나 할퀴면 문다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That'll teach you. -[cat grumbles]",
+      "ko": "이제 정신 차렸겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stupid cat.",
+      "ko": "망할 놈의 고양이"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi, Otto! -Hi, Otto!",
+      "ko": "- 안녕하세요, 오토! - 안녕하세요, 오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[both giggling] -[Abbie] O-T-T-O.",
+      "ko": "O-T-T-O"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. Um...",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "I loaned you my garden hose last August.",
+      "ko": "지난 8월에 호스 빌려줬는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you give it back to me, I'll bleed your radiators for you.",
+      "ko": "그거 돌려주면 라디에이터 숨 빼줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come in.",
+      "ko": "들어와"
+    }
+  },
+  {
+    "translation": {
+      "en": "So those new neighbors of yours, they seem quite lovely, don't you think?",
+      "ko": "이사 온 부부 사랑스럽지 않아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lovely.",
+      "ko": "사랑스럽지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, well, you may have some more new neighbors soon enough.",
+      "ko": "조만간 새 이웃들이 더 생길지 몰라"
+    }
+  },
+  {
+    "translation": {
+      "en": "The realty people, they've been telling us...",
+      "ko": "부동산 사람들이 계속 그러네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reuben and I have to move out.",
+      "ko": "이 집 비우는 게 좋을 거라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, that's a load of crap.",
+      "ko": "무슨 헛소리래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They don't own this house. You do.",
+      "ko": "당신이 집주인인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, well, that's what I said.",
+      "ko": "나도 그렇게 말했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They, uh, have been talking to our boy, Chris.",
+      "ko": "우리 아들 크리스랑 얘길 좀 했나 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now he's saying that I can no longer take care of Reuben,",
+      "ko": "걔는 이제 엄마가 아빠 못 챙긴다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "that he needs to be in a special care place.",
+      "ko": "아빠를 자꾸 요양원에 보내래"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I should move into a retirement home.",
+      "ko": "나는 실버타운 들어가래고"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does Chris know about it? He's an idiot. He always has been.",
+      "ko": "그놈이 뭘 알아? 그 모자란 놈 같으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "They can't make you do anything.",
+      "ko": "그놈들 말 듣지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does he even know we're here?",
+      "ko": "우리 여기 있는 거 알기는 알아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course he does.",
+      "ko": "그거야 알지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't let him fool you.",
+      "ko": "겉보기만 저런 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's still in there.",
+      "ko": "정신은 아직 멀쩡해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me go find your hose.",
+      "ko": "호스 찾아올게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] The whole neighborhood is falling apart these days.",
+      "ko": "요새 동네가 아주 엉망진창이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "They don't even have a homeowners' association anymore.",
+      "ko": "주민 자치회도 안 열더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one left to keep things running.",
+      "ko": "동네에 신경 쓰는 사람이 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not like we did.",
+      "ko": "우리 때랑 다르지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, just to be clear...",
+      "ko": "분명히 해두는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "I still haven't forgiven you.",
+      "ko": "아직 자네 용서 안 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just didn't realize you would fall to shit so quickly.",
+      "ko": "이렇게 빨리 고꾸라질 줄 몰랐지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now...",
+      "ko": "이제…"
+    }
+  },
+  {
+    "translation": {
+      "en": "they're tearing apart everything we worked so hard to build.",
+      "ko": "우리가 열심히 쌓아온 게 다 부서지고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I haven't even left yet, and they're trying to erase us.",
+      "ko": "난 이렇게 멀쩡한데도 우릴 지우려 하잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I am not staying around to see that happen.",
+      "ko": "가만 앉아서 구경할 생각 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm leaving.",
+      "ko": "난 떠날 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-For good. -[Jimmy] You ready for lunch?",
+      "ko": "영영 점심 준비됐어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anita] I'm making that creamed corn you like. Oh, thank you.",
+      "ko": "- 크림콘 만들어 줄게 - 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Otto. I'm sorry it took so long to give it back.",
+      "ko": "고마워, 오토, 늦게 줘서 미안해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, you wanna stay for lunch?",
+      "ko": "점심 먹고 갈래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, Anita made a pork tenderloin.",
+      "ko": "돼지 안심 요리래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I have a lot of things I have to do.",
+      "ko": "아니, 할 일 많아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reuben, what are you doing, hon?",
+      "ko": "루벤, 뭐 하는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let go. -[Anita] What are you doing?",
+      "ko": "- 놔 - 왜 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let go. -[Anita] Reuben. Reuben.",
+      "ko": "- 놔 - 루벤"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let... -[Anita] What are you doing?",
+      "ko": "- 좀… - 뭐 하는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "...go.",
+      "ko": "놔"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jimmy] Oh, man.",
+      "ko": "이런…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Try opening it from the inside a little.",
+      "ko": "안에서 좀 열어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's higher than I thought.",
+      "ko": "생각보다 높네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a little bit dizzy, honey.",
+      "ko": "좀 어지럽다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Looks like we'll both have to take the next one.",
+      "ko": "둘 다 다음 기차 타야겠는데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was your father's name.",
+      "ko": "아버님 이름이랬죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You remembered.",
+      "ko": "기억하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you have to go back to the military center?",
+      "ko": "다시 신검받으러 가는 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I wanted to pay you back for the train ticket.",
+      "ko": "아뇨, 기차푯값 갚으러 왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wouldn't it be nicer if you invited me to dinner?",
+      "ko": "저녁을 사는 게 더 좋지 않을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Otto] Shall we?",
+      "ko": "들어갈까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, let's go in.",
+      "ko": "들어가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Otto] You're...",
+      "ko": "근데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "...fifteen minutes late.",
+      "ko": "15분 늦었네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Am I?",
+      "ko": "그래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, what kinds of things interest you?",
+      "ko": "근데 관심사가 뭐예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Interest me like...?",
+      "ko": "관심사라면…"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you passionate about?",
+      "ko": "좋아하는 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Machines. Engines.",
+      "ko": "기계나 엔진…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like knowing how things work.",
+      "ko": "그런 것들의 원리가 재밌어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like knowing how things work.",
+      "ko": "그런 것들의 원리가 재밌어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What each part does to make a car run smoothly.",
+      "ko": "차를 굴러가게 하는 부품의 역할이라거나"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's more complicated than people realize.",
+      "ko": "사람들 생각보다 아주 복잡해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A carburetor has to mix gas and air in just the right combination,",
+      "ko": "카뷰레터가 기름과 공기를 적정 비율로 혼합하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then the spark plug has to ignite that mixture,",
+      "ko": "점화 플러그가 거기에 불을 붙이면"
+    }
+  },
+  {
+    "translation": {
+      "en": "which drives the piston and the connecting rods and the drive shaft--",
+      "ko": "피스톤이 움직이고 연결된 구동축과…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where did you learn so much about cars?",
+      "ko": "차는 어디서 그렇게 많이 배웠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "From my father.",
+      "ko": "아버지한테요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's all we really talked about. He was a good dad.",
+      "ko": "우린 늘 차 얘기를 했죠 좋은 아버지셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dependable.",
+      "ko": "믿음직하셨죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "He passed away.",
+      "ko": "돌아가셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two months ago.",
+      "ko": "두 달 전에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was sudden.",
+      "ko": "갑작스럽게"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "ko": "힘들었겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And your mom?",
+      "ko": "어머니는요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't remember her much.",
+      "ko": "기억이 별로 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just how it felt when she was gone.",
+      "ko": "돌아가셨을 때 기분만 기억나고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why didn't you get an entrée?",
+      "ko": "왜 메인 요리는 주문 안 했어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I ate at home.",
+      "ko": "집에서 먹고 왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "ko": "왜요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you could order whatever you wanted.",
+      "ko": "먹고 싶다는 거 다 사주고 싶어서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, I lied to you.",
+      "ko": "사실 거짓말했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "ko": "- 미안해요 - 미안해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not in the Army. I couldn't pass my physical.",
+      "ko": "나 입대 안 해요, 신검 떨어졌어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I had, at least I'd have a job now, which is what I was counting on.",
+      "ko": "그러면 직업이라도 생기는 거였는데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't.",
+      "ko": "틀렸어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I don't know what I'm gonna do.",
+      "ko": "그래서 어떡할지 모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should go.",
+      "ko": "그만 갈게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming.",
+      "ko": "나간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming!",
+      "ko": "나간다고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? What do you want?",
+      "ko": "왜? 또 뭔데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What are you doing here? -What are you doing?",
+      "ko": "- 여기서 뭐 하세요? - 자네는?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm looking for you. -Well, you found me.",
+      "ko": "- 영감님 찾고 있죠 - 찾았네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you please take me to the hospital? Please?",
+      "ko": "병원까지 태워주시면 안 될까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tommy fell off the ladder, and the ambulance just took him away.",
+      "ko": "토미가 사다리에서 떨어져서 구급차 타고 갔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, you can drive yourself in that imported toaster you call a car.",
+      "ko": "그 같잖은 깡통 몰고 가면 되잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't have a license.",
+      "ko": "면허증이 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How old are you? -Huh? Thirty.",
+      "ko": "- 몇 살이야? - 서른요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you don't have a driver's license?",
+      "ko": "근데 면허증도 없어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a driving's permit.",
+      "ko": "임시 면허증은 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just never got to the other parts.",
+      "ko": "나머지 절차를 안 밟았을 뿐이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many other parts are there?",
+      "ko": "나머지 절차가 몇 개나 되는데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Please!",
+      "ko": "제발요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Focus! Please, listen!",
+      "ko": "집중 좀 하세요! 제발 들으세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tommy is in the hospital, and he may be dying as we speak.",
+      "ko": "토미가 병원에 있는데 죽을지도 모른다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So are you gonna drive me to the hospital, or are you gonna make me take a bus?",
+      "ko": "저 태워주실 거예요? 아니면 버스 타고 가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I will drive you to the hospital. -Thank you.",
+      "ko": "- 병원까지 태워주지 - 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it so hard?",
+      "ko": "그게 그렇게 힘드셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are you going?",
+      "ko": "어디 가는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm going to get the children!",
+      "ko": "애들 데리러요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The children?",
+      "ko": "애들?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luna] Pick me up, pick me up!",
+      "ko": "들어 올려줘!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bam everywhere. No! No!",
+      "ko": "여기서 쾅! 안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Smack, smack, smack!",
+      "ko": "받아라! 받아라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] These dolls.",
+      "ko": "그 인형들…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are they some kind of superheroes?",
+      "ko": "슈퍼히어로 같은 거냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, Luchador are wrestlers. Yeah.",
+      "ko": "프로레슬러들이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wrestlers.",
+      "ko": "- 프로레슬러 - 곰 아저씨 책 찾았어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I found a Mr. Bear book! -So I see.",
+      "ko": "- 프로레슬러 - 곰 아저씨 책 찾았어요! 그렇구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "She wants you to read to her.",
+      "ko": "읽어달라는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Exactly.",
+      "ko": "맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] \"Are You There, Baby Bear?",
+      "ko": "'거기 있니, 아기 곰아?'"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Are you there, Baby Bear?' Mr. Bear says.",
+      "ko": "''거기 있니, 아기 곰아?' 곰 아저씨가 말했어요'"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Where, oh where, is my Baby Bear.'\"",
+      "ko": "'우리 아기 곰이 어디 있을까?'"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, talk like a bear.",
+      "ko": "곰처럼 읽어야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bears don't talk.",
+      "ko": "곰은 말 못 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, this one does.",
+      "ko": "이 곰은 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in deep voice] \"'Where, oh where, is my Baby Bear?'",
+      "ko": "'우리 아기 곰이 어디 있을까?'"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Are you there, Baby Bear, up in that tree?'\"",
+      "ko": "'나무 위에 있니, 아기 곰아?'"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[growls] -No, it's an owl!",
+      "ko": "이건 올빼미예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"'There's nobody here but baby and me.'",
+      "ko": "'여긴 아기랑 나밖에 없어요'"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Are you there, Baby Bear, deep underground?'\"",
+      "ko": "'깊은 땅속에 있니, 아기 곰아?'"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beppo] I'm no Baby Bear.",
+      "ko": "난 아기 곰이 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Beppo!",
+      "ko": "베뽀예요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi, Beppo! -Hi, Beppo!",
+      "ko": "안녕, 베뽀!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you want to see a trick? -Yes!",
+      "ko": "- 마술 보여줄까? - 네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I was reading to them.",
+      "ko": "책 읽어주던 중이었네"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Actually, I was reading to them,\" Mr. Bear grumbled.",
+      "ko": "'책 읽어주던 중이었네' 곰 아저씨가 투덜댔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say, could I borrow a coin, Mr. Bear?",
+      "ko": "동전 좀 빌려주실래요, 곰 아저씨?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes, please?",
+      "ko": "네, 제발요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, please, please?",
+      "ko": "제발, 제발"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes, yes, yes! -[gasps]",
+      "ko": "네, 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need this back.",
+      "ko": "꼭 돌려주게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Absolutely.",
+      "ko": "아무렴요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He doesn't even own the costume. That's owned by the hospital. He's gonna have to pay for that.",
+      "ko": "자기 의상도 아니고 병원 거라 물어내야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beppo means happiness. He volunteers his time to be here.",
+      "ko": "베뽀는 자원봉사로 웃음 주는 분이라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Otto. What the hell did you do?",
+      "ko": "오토, 뭘 어쩌셨는데요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing.",
+      "ko": "아무것도 안 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abuelo Otto hit the clown.",
+      "ko": "오토 할아버지가 광대를 때렸어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I did not. -Yeah, you did.",
+      "ko": "안 때렸다 때리셨잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abuelo Luchadoro!",
+      "ko": "프로레슬러 할아버지다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Luchadoro!",
+      "ko": "프로레슬러!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was all the clown's fault.",
+      "ko": "그 광대 놈 잘못이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is it going?",
+      "ko": "어디로 갈까나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here you go.",
+      "ko": "여기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Blow.",
+      "ko": "부세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow! Here it is!",
+      "ko": "와우! 여기 있네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How'd you do that? -Oh, it's magic.",
+      "ko": "어떻게 했어요? 마법이란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[groans] -Thank you.",
+      "ko": "감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hope you have a magical day!",
+      "ko": "마법 같은 하루 보내렴!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bye! -Bye, Beppo!",
+      "ko": "- 안녕! - 안녕, 베뽀!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Beppo] Thank you. -Hang on.",
+      "ko": "고마워 잠깐만"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't my quarter.",
+      "ko": "내 동전이 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it came from your ear, sir, so that's a you problem.",
+      "ko": "영감님 귀에서 나왔으니 알아서 하셔야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, this isn't my quarter.",
+      "ko": "내 동전이 아니라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"No, no, no. This is not your quarter.\"",
+      "ko": "'아니, 아니, 내 동전이 아니라고'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look. I gave you a quarter that I said I needed back.",
+      "ko": "내가 그 동전 꼭 돌려 달랬지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You want a dollar? -And you switched them on me.",
+      "ko": "- 지폐로요? - 그런데 바꿔서 줬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-The ol' switcheroo. -You gave me this quarter.",
+      "ko": "- 그냥 마술인데요 - 이 동전이 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is Otto going to get in trouble?",
+      "ko": "오토 할아버지 싸우는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Beppo] It's just a quarter. -[Otto] No, it's not.",
+      "ko": "- 평범한 동전이잖아요 - 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you see the copper? -He's not calling the coppers.",
+      "ko": "- 이 구리 보여? - 갑자기요? 뭐야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I gave you a 1964 quarter. -Please calm down.",
+      "ko": "- 1964년 동전이었어, 내놔! - 진정하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want it back! Where is it?",
+      "ko": "- 1964년 동전이었어, 내놔! - 진정하세요 - 어디 숨겼어? - 도와주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You have it on you. -Officer, help me.",
+      "ko": "- 어디 숨겼어? - 도와주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer] 129. We have a clown situation. Where is it?",
+      "ko": "광대 좀 놓으세요, 어르신!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let go of the clown! Sir! Sir!",
+      "ko": "어르신"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] A-ha! 1964.",
+      "ko": "1964년!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's my toy?",
+      "ko": "내 장난감은?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's in your backpack.",
+      "ko": "가방에 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What pocket? There's a million pockets.",
+      "ko": "어느 주머니에? 주머니가 많잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "뭐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My father used to smile like that.",
+      "ko": "우리 아버지도 그렇게 웃곤 하셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not smiling.",
+      "ko": "웃는 거 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Exactly.",
+      "ko": "아니네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] You should never be mean to a clown.",
+      "ko": "광대 아저씨한테 그러면 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What about Alvin Wrench, is he coming? -[gasps] Look!",
+      "ko": "- 앨빈 렌치는 온대? - 저기 봐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, guys! -Mom, there he is!",
+      "ko": "- 얘들아! - 엄마, 아빠야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Pull the car up please, so we pick him up.",
+      "ko": "태우게 위로 가주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Marisol] Thanks for driving us. -[Luna] Bye, Abuelo Luchadoro.",
+      "ko": "- 태워주셔서 감사해요 - 안녕, 프로레슬러 할아버지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tommy] Thank you, Otto. -Okay, good night.",
+      "ko": "- 감사해요 - 쉬세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Abbie] Bye! -[Tommy] Thanks again, Otto.",
+      "ko": "- 안녕! - 정말 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye, then.",
+      "ko": "갈게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] All right, ladies.",
+      "ko": "자, 얘들아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go.",
+      "ko": "- 가자 - 빨리"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] Look at your new leg! They look like a robot leg.",
+      "ko": "아빠 다리 생겼네? 로봇 다리 같다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Oh, my God, is he dead?",
+      "ko": "어떡해, 죽은 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, he's probably sleeping.",
+      "ko": "아니, 자고 있겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. No, no, no, please. Please. Please. Take him out. Please.",
+      "ko": "오토, 안 돼요, 제발 데려가세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, why can't you?",
+      "ko": "자네가 하지, 왜?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because I'm pregnant. I cannot handle the cats because I can get the toxo thing.",
+      "ko": "임신 중이라 안 돼요 기생충 옮으면 어떡해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, he got himself in there. He can get himself out of there.",
+      "ko": "제 발로 들어갔으니 제 발로 나오겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Why are you like that?",
+      "ko": "왜 저러신대?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not good with cats.",
+      "ko": "난 고양이 별로야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, man. What's going on?",
+      "ko": "안녕하세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jimmy. Jimmy. We have a...",
+      "ko": "지미, 지미, 저기…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Oh, no!",
+      "ko": "저런!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We gotta warm you up, buddy!",
+      "ko": "얼어 죽겠네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Oh, yeah. Oh, be careful.",
+      "ko": "조심해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jimmy] Oh, no.",
+      "ko": "저런"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, I've got you. -[meows]",
+      "ko": "이리 온"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's so cold.",
+      "ko": "- 얼음장이에요 - 어떡해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where do we go?",
+      "ko": "어디로 가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. But no. Toxo. Otto. -[Jimmy] Oh.",
+      "ko": "안 돼요, 기생충, 오토한테"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, let's go. I've got you now.",
+      "ko": "그래요, 안심하렴"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto. Open the door.",
+      "ko": "오토, 문 여세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, it's all right, buddy.",
+      "ko": "괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's gonna be okay, chiquitito. -Poor guy.",
+      "ko": "- 괜찮을 거야 - 딱해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. You're okay.",
+      "ko": "괜찮아, 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Snow all over my floor. -Oh, sorry.",
+      "ko": "- 그래, 눈 다 털어라 - 죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God, it's so freezing here.",
+      "ko": "어머, 집이 너무 춥다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, how about this one? Please?",
+      "ko": "이걸로라도 - 안 돼 - 이걸…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no. Don't touch that coat. It'll stay here.",
+      "ko": "- 안 돼 - 이걸… 그건 만지지 마, 여기 둬야 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. Can you please bring a blanket? -For the cat?",
+      "ko": "- 담요 좀 주실래요? - 고양이 덮게?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's okay. I got this. -What are you doing?",
+      "ko": "그럼 내가 할게요 뭐 하는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, body heat works wonders. I've got plenty of body and heat.",
+      "ko": "체온으로 덥히게요 제가 열이 많아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna turn on the oven.",
+      "ko": "오븐 켜야겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are not putting that cat in my oven.",
+      "ko": "고양이를 오븐에 넣겠다는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] No, I'm just trying to get some heat in the house.",
+      "ko": "집 좀 덥히려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your counters are so low. Where did you get them?",
+      "ko": "카운터가 엄청 낮네 어디서 하셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I built them. For Sonya. For my wife.",
+      "ko": "내가 만든 거야, 아내 편하라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. Is she short too?",
+      "ko": "그분도 작으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya passed away.",
+      "ko": "돌아가셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was a great cook though, wasn't she?",
+      "ko": "요리 정말 잘하셨는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "I used to eat here all the time.",
+      "ko": "여기 자주 와서 먹었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "ko": "죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, can you go now? I have things to do.",
+      "ko": "이제 나가주겠나? 할 일이 있어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it was great seeing ya, as usual.",
+      "ko": "오늘도 반가웠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, hey, who's gonna look after this guy?",
+      "ko": "얘는 누가 돌봐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are.",
+      "ko": "자네가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sonya] Now ask me the right way.",
+      "ko": "정식으로 물어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was so beautiful too.",
+      "ko": "정말 근사하더라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, now I'm hungry. Now I'm hungry.",
+      "ko": "나 배고파"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's see.",
+      "ko": "보여줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"The Board of Regents hereby certifies that Otto Anderson,",
+      "ko": "'본 이사회는 오토 앤더슨에게'"
+    }
+  },
+  {
+    "translation": {
+      "en": "having completed all the requirements for a Bachelor's Degree in Engineering--\"",
+      "ko": "'공학 학사 학위를 수여하며…'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would you ever wanna...",
+      "ko": "혹시 나랑…"
+    }
+  },
+  {
+    "translation": {
+      "en": "get married?",
+      "ko": "결혼할 생각 있어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-'Cause if you did... -Look at me.",
+      "ko": "- 그렇다면… - 날 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now ask me the right way.",
+      "ko": "정식으로 물어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will you...?",
+      "ko": "나랑…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will you marry me?",
+      "ko": "나랑 결혼해 줄래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes!",
+      "ko": "그래!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[students cheering and chattering] -Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes! Yes! -[horn honking]",
+      "ko": "그래!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Oh, my God! -[woman] Someone call 911.",
+      "ko": "맙소사! 911 좀 불러요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He fell down!",
+      "ko": "떨어졌어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Somebody help him! -Get the camera on him. No, take video.",
+      "ko": "- 누가 좀 도와줘요! - 동영상 찍어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, for God's sake.",
+      "ko": "환장하겠구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Who's gonna do something? -Oh, my God, he fell.",
+      "ko": "- 보고 있을 거예요? - 어떡해, 떨어졌어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get him off the tracks. Somebody help. -Hey! Can you move?",
+      "ko": "누가 좀 올려줘요 이봐요! 움직일 수 있어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta move! Come on! You gotta get up!",
+      "ko": "일어나야지! 얼른 일어나요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will somebody help me?",
+      "ko": "안 도와줄 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Come on. -[woman] Film it, film it, film it.",
+      "ko": "어서 찍어, 찍어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get the shot. -I have him. I see him.",
+      "ko": "사진 찍어 내가 찍었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zoom in on his face.",
+      "ko": "얼굴 줌 해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tell me what happened. -We were going to the museum...",
+      "ko": "- 설명해 줘 - 박물관 가는데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sonya] Look at me.",
+      "ko": "날 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say hello.",
+      "ko": "'안녕' 해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take a breath, Otto.",
+      "ko": "숨 쉬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take my hand.",
+      "ko": "내 손 잡아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Take my hand.",
+      "ko": "제 손 잡아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take my hand now!",
+      "ko": "어서 손잡아요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, are you out of your mind? You could have been killed.",
+      "ko": "정신 나갔어요? 죽을 뻔했잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 1] Sir, you saved his life.",
+      "ko": "어르신이 구하셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 2] He saved that guy's life.",
+      "ko": "저분이 구했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 1] That was amazing.",
+      "ko": "장난 아니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Whatever. Follow us. -Anyway, follow us.",
+      "ko": "- 팔로우해 주세요 - 팔로우!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you trying to scare me to death?",
+      "ko": "놀라 죽으라는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at this.",
+      "ko": "이거 보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abbie wanted to make a picture of her new neighbor.",
+      "ko": "애비가 새 이웃을 그린 건데"
+    }
+  },
+  {
+    "translation": {
+      "en": "She wants you to have that.",
+      "ko": "영감님 드리래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] That's you.",
+      "ko": "영감님이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She always draws you in color.",
+      "ko": "늘 영감님만 컬러로 그려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, \"always\"?",
+      "ko": "'늘'이라니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a very good idea.",
+      "ko": "좋은 생각 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can be my driver's instructor.",
+      "ko": "저 운전 가르쳐주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "싫어"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no.",
+      "ko": "싫어, 싫어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't have time for that.",
+      "ko": "그럴 시간 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "But don't worry, I'll pay for the gas and everything.",
+      "ko": "제가 기름값이랑 다 댈게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, there you guys are. I've been looking for ya everywhere.",
+      "ko": "안녕하세요, 어디 계신가 했네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[cat meows] -Hi, Jimmy. What are you doing?",
+      "ko": "안녕하세요, 지미, 뭐 하세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cat in there? -[Jimmy] Yeah.",
+      "ko": "- 고양이 들었어? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[cat yowls] -Oh, jeez! Calm down, dude.",
+      "ko": "깜짝이야! 진정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[hissing] -He really doesn't like this.",
+      "ko": "상자를 싫어해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him out of the box.",
+      "ko": "그럼 내보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Sorry, buddy.",
+      "ko": "네, 미안해"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you think you were doing? Taking him for a walk?",
+      "ko": "뭐 하려고? 산책시키는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I had to bring him back. I forgot that I'm allergic.",
+      "ko": "돌려드리러 왔어요 알레르기를 깜빡했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So... -[gasps]",
+      "ko": "그래서…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, Jimmy. -Yeah. Yeah.",
+      "ko": "- 지미 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I put oatmeal on it, and it didn't help at all.",
+      "ko": "오트밀 발랐는데 도움이 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what, you come with me. Tommy has a prescription from last year.",
+      "ko": "오트밀 발랐는데 도움이 안 돼요 우리 집 가요 토미 먹던 약 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He found a wasp's nest. -Are you sure?",
+      "ko": "- 작년에 벌집 건드려서 - 정말요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't want to be a bother. -It's okay.",
+      "ko": "- 민폐 끼치기 싫은데 - 괜찮으니까 긁지 마요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't scratch. -I feel like I should scratch a little.",
+      "ko": "조금만 긁고 싶은데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey, what about the cat?",
+      "ko": "이봐! 고양이는?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, looks like he's yours now, Otto.",
+      "ko": "영감님이 돌봐주셔야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Love him.",
+      "ko": "사랑해 주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get in the box. -[grumbles]",
+      "ko": "상자에 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get in the box.",
+      "ko": "상자에 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get in the box.",
+      "ko": "상자에 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry I haven't come yet.",
+      "ko": "아직도 못 가서 미안해"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been harder than I thought to...",
+      "ko": "그게 생각보다 힘들더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now he's moved in.",
+      "ko": "이제 얘까지 들어왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a cat.",
+      "ko": "나 고양이 생겼어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to figure out what to do with him.",
+      "ko": "이 녀석을 어떡할지 알아보고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I'll come to you, Sonya. I promise.",
+      "ko": "그때 갈게, 소냐, 내가 약속해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I miss you.",
+      "ko": "보고 싶어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no, no, no.",
+      "ko": "안 돼, 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are not taking over my bed.",
+      "ko": "어딜 침대에 올라와"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is your bed.",
+      "ko": "이게 네 침대다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would you rather sleep outside, back in the snow?",
+      "ko": "싫으면 나가서 눈밭에서 잘래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That can be arranged.",
+      "ko": "그것도 좋고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll be the best dad our children could ever hope for.",
+      "ko": "당신은 우리 애들한테 최고의 아빠가 될 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Hey!",
+      "ko": "어이! 어이!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "왜요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this what you use that bike for?",
+      "ko": "그 자전거, 배달에 쓰는 거였어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. It's my job.",
+      "ko": "네, 제 일인걸요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Waiting tables and pumping gas, that's a job.",
+      "ko": "식당이나 주유소, 그런 게 일이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I also work nights at a pizza shop and weekends at a thrift store, so...",
+      "ko": "밤엔 피자집에서 일하고 주말엔 중고 숍에서 일해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Huh. -You're Mr. Anderson, aren't you?",
+      "ko": "성함이 앤더슨 맞죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You used to come to presentations at school.",
+      "ko": "학교 발표회 때 오셨잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "When was that?",
+      "ko": "언제?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mrs. Anderson was my teacher.",
+      "ko": "사모님이 제 선생님이셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was the first person that didn't treat me like a freak",
+      "ko": "저를 멀쩡하게 대해준 첫 번째 분이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause I'm transgender.",
+      "ko": "전 트랜스젠더거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was the first to call me by my new name.",
+      "ko": "제 새 이름을 불러준 첫 번째 분이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She got the other teachers to do it too.",
+      "ko": "다른 선생님들에게도 그렇게 시키셨고"
+    }
+  },
+  {
+    "translation": {
+      "en": "It really helped me at school.",
+      "ko": "덕분에 학교 잘 다녔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I won't leave these here anymore.",
+      "ko": "이제 안 넣을게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "어이"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "ko": "이름이 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Malcolm. -Malcolm.",
+      "ko": "- 맬컴이요 - 맬컴"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice to meet you, Otto.",
+      "ko": "반가웠어요, 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Hey!",
+      "ko": "안녕하세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto! Good news.",
+      "ko": "오토, 좋은 소식이에요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Andy's teaching me how to drive.",
+      "ko": "앤디한테 운전 배우고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The wrong way.",
+      "ko": "개판으로 배웠구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -Of course.",
+      "ko": "- 고마워요 - 고맙긴요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right. -Okay.",
+      "ko": "- 갈게요 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bye. -Bye.",
+      "ko": "- 안녕 - 가세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Park!",
+      "ko": "주차요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're still in drive! It's an automatic.",
+      "ko": "전진 기어잖아! 이건 오토야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were still in drive. You gotta put it into park.",
+      "ko": "기어를… 전진이니까 주차에 놔야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "In what?",
+      "ko": "뭐에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye!",
+      "ko": "갈게요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Luna] Help! -I'm coming!",
+      "ko": "- 도와줘요! - 내가 간다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Saving the princess!",
+      "ko": "공주를 구하자!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right. Coming! -[Luna] Otto!",
+      "ko": "네, 나가요! 오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto's here! My mom made her salpores.",
+      "ko": "오토 할아버지! 엄마가 쿠키 구웠어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Otto. Come in.",
+      "ko": "안녕하세요, 들어오세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't stand watching one idiot teach another how to drive.",
+      "ko": "저 엉터리가 운전을 가르치는 꼴은 못 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "You. Put on your coat. It's lesson time.",
+      "ko": "자네, 코트 입어, 가르쳐줄 테니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] You're gonna teach me? Really?",
+      "ko": "정말 가르쳐주신다고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, thank you!",
+      "ko": "오토, 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mm. -Thank you.",
+      "ko": "감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be right out!",
+      "ko": "금방 올게요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's really, really nice of you, Otto. Thank you.",
+      "ko": "정말 다정하세요, 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tried once.",
+      "ko": "전 포기했거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You guys, okay.",
+      "ko": "잘들 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye, Otto!",
+      "ko": "안녕, 오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mama's going on a ride. -Be careful, honey.",
+      "ko": "- 엄마 간다 - 조심해, 여보"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bye, Mama! -Bye, mi vida.",
+      "ko": "- 안녕, 엄마 - 안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tommy] Have fun, guys! -[speaks in Spanish]",
+      "ko": "재밌게 타고 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye, Mama!",
+      "ko": "안녕, 엄마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No more grown-ups. Come on! -Yay!",
+      "ko": "어른들 다 나갔다, 가자!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. Otto, pero can we go in our car?",
+      "ko": "오토, 우리 차로 하시면 안 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because I've only ever driven automatic.",
+      "ko": "저는 오토만 몰아봤어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] No.",
+      "ko": "안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm teaching you how to drive. Get in.",
+      "ko": "난 운전을 가르치는 거야 타"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, coming up on the red light. You're going to have to stop.",
+      "ko": "빨간불엔 멈추는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, but I get the clutch, right?",
+      "ko": "네, 네, 클러치는 밟는 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You get the clutch and then press in on the brake.",
+      "ko": "클러치를 밟고 브레이크를 밟아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do I hit the brake or the clutch? -No, keep the clutch in.",
+      "ko": "- 이게 클러치인가? - 클러치 밟고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put in the brake, I put the clutch.",
+      "ko": "브레이크… 클러치 밟았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clutch and brake. And now brake.",
+      "ko": "클러치 다음 브레이크 지금 브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Brake. Brake. -No. No.",
+      "ko": "브레이크, 브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[in English] Don't shout at me. -I am not shouting at you.",
+      "ko": "소리 지르지 마세요! 소리 안 질렀어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clutch in. It's in, it's in!",
+      "ko": "클러치, 됐어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're going to stop, and...",
+      "ko": "이제 정지할 거니까…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clutch in, and brake. Brake. Brake. Brake.",
+      "ko": "클러치 다음 브레이크 브레이크, 브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "The car is stopped. Don't hit the car! Brake, brake!",
+      "ko": "저 차 멈췄잖아, 받으면 안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. All right, let go.",
+      "ko": "좋아, 됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God.",
+      "ko": "엄마야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brake.",
+      "ko": "브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's clutch and brake.",
+      "ko": "클러치 다음 브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "I suck at this.",
+      "ko": "되게 못 하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[groans] I suck. -You're learning.",
+      "ko": "- 못 해 - 배우는 중이잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God, I almost hit the car. It's like this.",
+      "ko": "차 받을 뻔했어요, 아슬아슬했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't matter. It's a hybrid.",
+      "ko": "받아도 돼, 하이브리드 차야"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a hybrid, okay.",
+      "ko": "하이브리드, 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, I should move back. -No, no, no. No.",
+      "ko": "- 뒤로 가야겠어요 - 아니, 아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're fine right where you are. -But I'm very close.",
+      "ko": "- 지금 괜찮아 - 너무 가깝잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Doesn't matter. -I don't need to go back?",
+      "ko": "- 상관없어 - 후진 안 해도 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just wait for the green light. -[rock music blaring over SUV speakers]",
+      "ko": "녹색불만 기다려"
+    }
+  },
+  {
+    "translation": {
+      "en": "And here we go. So press in on the clutch.",
+      "ko": "자, 간다, 클러치 밟아"
+    }
+  },
+  {
+    "translation": {
+      "en": "And give it a little gas.",
+      "ko": "액셀 살짝 밟고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Slowly let out on the clu--",
+      "ko": "천천히 클러치 떼고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Green!",
+      "ko": "불 들어왔잖아!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press in on the clutch, shift into fi-- You don't have to turn the key.",
+      "ko": "클러치 밟고 기어를… 열쇠 안 돌려도 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Go! -Just press in--",
+      "ko": "- 가요! - 액셀만…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, my God. [speaks in Spanish] -Press in on the--",
+      "ko": "- 어떡해 - 액셀을…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[horn blaring] -Slowly let out the clutch,",
+      "ko": "천천히 클러치 떼고 액셀을 밟아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-then press the gas. -I can't do this.",
+      "ko": "천천히 클러치 떼고 액셀을 밟아 못 하겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That is all you have to do. -I can't do this.",
+      "ko": "- 그것만 하면 돼 - 못 하겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Otto. Otto, no.",
+      "ko": "안 돼, 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] What?",
+      "ko": "뭐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] What is wrong with you?",
+      "ko": "뭐 하자는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's learning how to drive.",
+      "ko": "운전 배우는 중이잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you not have to learn how to drive?",
+      "ko": "자넨 날 때부터 운전 잘했어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Calm down, old man. Hey, hey.",
+      "ko": "진정해요, 꼰대 할아버지 뭐예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not your old man! You son of a bitch!",
+      "ko": "누가 네 할아비야? 이 염병할 놈!"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you honk that horn one more time,",
+      "ko": "또 경적 울렸다간"
+    }
+  },
+  {
+    "translation": {
+      "en": "it'll be the last thing you do. You hear me? Huh?",
+      "ko": "그 길로 인생 종 친다, 알았어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "¿Comprende?",
+      "ko": "알았어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you listen to me.",
+      "ko": "이제 잘 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have given birth to two children. Soon it'll be three.",
+      "ko": "자넨 애를 둘이나 낳았고 이제 곧 셋이 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have come here from a country very far away.",
+      "ko": "그리고 이 먼 나라까지 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You learned a new language,",
+      "ko": "낯선 말을 배웠고"
+    }
+  },
+  {
+    "translation": {
+      "en": "you got yourself an education and a nitwit husband",
+      "ko": "학교도 다녔고 반푼이 남편 데리고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you are holding that family together.",
+      "ko": "자네 가족을 잘 건사하고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You will have no problem learning how to drive.",
+      "ko": "운전 따위는 아무것도 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "My God, the world is full of complete idiots",
+      "ko": "이 세상은 꽉 막힌 머저리들로 가득하지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "who have managed to figure it out, and you are not a complete idiot.",
+      "ko": "이 세상은 꽉 막힌 머저리들로 가득하지만 자넨 꽉 막힌 머저리는 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "So...",
+      "ko": "그러니까…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clutch.",
+      "ko": "클러치"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shift.",
+      "ko": "기어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gas.",
+      "ko": "액셀"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drive.",
+      "ko": "출발"
+    }
+  },
+  {
+    "translation": {
+      "en": "Que bueno.",
+      "ko": "아주 좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Que bueno.",
+      "ko": "좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Okay, there's a spot right there. Just pull up, parallel,",
+      "ko": "저기 자리 있네, 평행으로 세우고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and back the car up until that bumper is in line with your side-view mirror.",
+      "ko": "범퍼가 백미러와 나란해질 때까지 후진"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now straighten out.",
+      "ko": "이제 쭉 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Back up all the way up to the curb.",
+      "ko": "핸들 풀면서 후진"
+    }
+  },
+  {
+    "translation": {
+      "en": "-A little bit. -Well, a little bit.",
+      "ko": "- 조금 더 - 조금 더"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] And stop.",
+      "ko": "정지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Neutral.",
+      "ko": "기어 중립"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Brake. -[brake clacks]",
+      "ko": "브레이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "Key.",
+      "ko": "열쇠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that it?",
+      "ko": "끝이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it.",
+      "ko": "끝이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[bell rings] -And we're right on time.",
+      "ko": "시간 맞춰 왔군"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have it.",
+      "ko": "고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-These are semlors. -[gasps]",
+      "ko": "이건 셈라야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Swedish éclairs. -Oh!",
+      "ko": "스웨덴 디저트지"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're a little messy.",
+      "ko": "조잡해 보이지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But let's try. -Yes.",
+      "ko": "한번 먹어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "With your finger.",
+      "ko": "손으로 들고"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you find this place?",
+      "ko": "이런 맛집은 어떻게 아세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was Sonya's place.",
+      "ko": "소냐가 단골이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "We used to come here every Saturday at 1:00.",
+      "ko": "토요일마다 1시에 같이 왔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then? What?",
+      "ko": "그러곤요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go home at 2:00.",
+      "ko": "2시에 집에 갔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd wash and wax the car,",
+      "ko": "난 세차하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and she would grade her papers and cook and spend the rest of the day reading.",
+      "ko": "아내는 시험지 채점하고 요리하고 남은 시간은 책 보고"
+    }
+  },
+  {
+    "translation": {
+      "en": "What kind of books?",
+      "ko": "어떤 책이요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Her books. -[Marisol chuckles]",
+      "ko": "좋아하던 책들"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tried to read some of them, but...",
+      "ko": "나도 읽어보려고 했는데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just...",
+      "ko": "난 그냥…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not into books.",
+      "ko": "책은 별로야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Her friends said that we were like night and day.",
+      "ko": "아내 친구들은 우리가 정반대라 했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "My life was black-and-white before I met Sonya.",
+      "ko": "소냐를 만나기 전에 내 삶은 흑백이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was the color.",
+      "ko": "소냐는 컬러였지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have liked her.",
+      "ko": "좋은 분 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was a force of nature.",
+      "ko": "매력이 넘쳤지"
+    }
+  },
+  {
+    "translation": {
+      "en": "She convinced the school to start up a program",
+      "ko": "학교를 설득해서 보충 학습반을 만들고"
+    }
+  },
+  {
+    "translation": {
+      "en": "for the kids that needed extra help.",
+      "ko": "도움이 필요한 애들을 모았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "A lot of kids had problems at home or, uh, social anxieties.",
+      "ko": "집에 문제가 있거나 불안장애 있는 애들인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But by the time Sonya was done with 'em,",
+      "ko": "소냐랑 학기를 마치고 나면"
+    }
+  },
+  {
+    "translation": {
+      "en": "they were reciting Shakespeare.",
+      "ko": "셰익스피어를 낭독했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I ran into one of her students,",
+      "ko": "아내 제자를 한 명 만났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "just the other day.",
+      "ko": "요 며칠 전에"
+    }
+  },
+  {
+    "translation": {
+      "en": "A kid named Malcolm.",
+      "ko": "맬컴이란 애야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need more cream. Okay.",
+      "ko": "- 크림 더 가져올게 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] We all got along fine, of course, when we first moved in.",
+      "ko": "처음 이사 왔을 땐 이웃과 사이좋았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was like a gift.",
+      "ko": "마치 선물 같았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to the neighborhood.",
+      "ko": "정말 잘 오셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi, I'm Sonya. -I'm Anita.",
+      "ko": "- 안녕하세요, 소냐예요 - 어니타예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Sonya and Anita were best friends.",
+      "ko": "소냐와 어니타는 절친이 됐고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[young Otto] So I got my Allen keys...",
+      "ko": "그래서 앨런 렌치로…"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Reuben and I were a lot alike.",
+      "ko": "루벤과 나는 공통점이 많았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Slow down!",
+      "ko": "속도 줄여요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "About most things.",
+      "ko": "죽이 잘 맞았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Idiot.",
+      "ko": "머저리"
+    }
+  },
+  {
+    "translation": {
+      "en": "But people change.",
+      "ko": "하지만 사람은 변해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or they don't change.",
+      "ko": "변하지 않기도 하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Things happen. People drift apart.",
+      "ko": "이런저런 일로 사이가 멀어지지"
+    }
+  },
+  {
+    "translation": {
+      "en": "They build walls. They take offense.",
+      "ko": "벽을 쌓고 감정적으로 굴고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who knows why.",
+      "ko": "이유를 모르겠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe it was all the construction that drove everybody crazy.",
+      "ko": "공사로 주민들이 예민해져서 그랬으려나"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, there used to be a forest up on that hill.",
+      "ko": "원래 저쪽은 전부 숲이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why they call it Birchwood.",
+      "ko": "그래서 지명이 버치우드인 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then they started building all those condos and cut down all the birches.",
+      "ko": "근데 콘도 짓는다고 나무를 다 벴어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They didn't even realize what they were doing until we told them,",
+      "ko": "우리가 항의하기 전엔 뭐가 잘못인 줄도 모르더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reuben and I.",
+      "ko": "루벤과 내가"
+    }
+  },
+  {
+    "translation": {
+      "en": "But this was before the coup?",
+      "ko": "그게 쿠데타 전이죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, yeah, yeah. Reuben and I were friends then.",
+      "ko": "그래, 그때만 해도 친구 사이였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "After that, all we saw were the differences.",
+      "ko": "그 후로 의견 차이를 발견했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few years later, their son, Chris, he, uh, took a job in Japan,",
+      "ko": "몇 년 후 그 집 아들 크리스가 일본으로 취직했고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I don't think he's been back to visit them since.",
+      "ko": "그 후로 한 번도 안 온 것 같아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh. -Reuben and he never did get along.",
+      "ko": "루벤과 사이가 별로였거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyway, that's when I decided to bury the hatchet.",
+      "ko": "아무튼 해묵은 감정을 털기로 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reuben.",
+      "ko": "루벤"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "저기…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya gave me this a while back.",
+      "ko": "전에 소냐가 사준 건데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never found the occasion.",
+      "ko": "마실 기회가 없더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought maybe we could start fresh.",
+      "ko": "이걸로 깨끗하게 새로 시작하자고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, would you like to see my new car?",
+      "ko": "내 새 차 볼래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sure.",
+      "ko": "좋지"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a new model.",
+      "ko": "신모델이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just came out.",
+      "ko": "방금 나왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Voilà.",
+      "ko": "짜잔"
+    }
+  },
+  {
+    "translation": {
+      "en": "A Toyota?",
+      "ko": "도요타?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You bought a Toyota.",
+      "ko": "도요타를 샀어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Celica GT convertible.",
+      "ko": "셀리카 GT 컨버터블"
+    }
+  },
+  {
+    "translation": {
+      "en": "Five-speed automatic.",
+      "ko": "5단 오토매틱"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta change with the times.",
+      "ko": "시대에 맞춰 가야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know what went wrong with Reuben, but that's when I knew I'd lost him.",
+      "ko": "왜 그리됐나 몰라도 도저히 안 되겠더라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, a man has to stand up for what he believes in.",
+      "ko": "사람이 지조를 지켜야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even if it is an F-O-R-D.",
+      "ko": "그게 '포드'더라도"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you and Sonya, did you ever think about having children?",
+      "ko": "근데 자녀 계획은 없으셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, 2:00.",
+      "ko": "2시군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "그러네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was wondering if you could help us out tonight.",
+      "ko": "혹시 오늘 저녁에 도와주실 수 있을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me and Tommy don't get a lot of time to go out for dinner",
+      "ko": "토미랑 데이트할 시간이 없어서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "before the baby comes.",
+      "ko": "애 나오기 전에"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not gonna drive you two around on a date.",
+      "ko": "둘이 데이트하는데 기사 노릇 하라고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. We're gonna take a cab.",
+      "ko": "아뇨, 택시 탈 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you need me for, then?",
+      "ko": "그럼 뭘 도와달라고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mama, I did not! Why would I? -Yes, you did!",
+      "ko": "엄마, 나 안 했어! 했잖아! 돌려줘!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give it back! -You gotta catch me!",
+      "ko": "했잖아! 돌려줘! - 나 잡아봐라! - 얘들아, 조심해"
+    }
+  },
+  {
+    "translation": {
+      "en": "You guys, por favor.",
+      "ko": "- 나 잡아봐라! - 얘들아, 조심해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] And learn to share your everything.",
+      "ko": "그리고 장난감은 같이 갖고 놀아야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure about this.",
+      "ko": "이게 내가 되겠어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] No. Don't be silly. It's gonna be very fun.",
+      "ko": "걱정하지 마세요, 재밌을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you remember, Abbie has to be in bed by 9:00, okay?",
+      "ko": "애비를 9시까지 재우시는 것만 기억하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're good? -[grunts]",
+      "ko": "아셨죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, alarm code, 4491. 4491.",
+      "ko": "알람 코드는 4491"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm setting it to \"Armed Stay.\" Are you paying attention?",
+      "ko": "'거주 중'으로 세팅해 놓을게요 잘 보고 계시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So if you wanna go out,",
+      "ko": "나가실 땐 이것만 누르시면 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "you just have to press this button here, and it's disalarmed.",
+      "ko": "나가실 땐 이것만 누르시면 돼요 그럼 해제돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be right here.",
+      "ko": "어디 안 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right. Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, you never know.",
+      "ko": "혹시나 해서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Be good to Abuelo Otto please, okay?",
+      "ko": "- 할아버지 말씀 잘 들어 - 알았어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't see chocolate milk in here.",
+      "ko": "초콜릿 우유는 없구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "You make it with the syrup. But not too much. It'll keep her awake.",
+      "ko": "시럽으로 만드는 거예요 조금만 넣어야 해요 얘 못 자거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] Give me milk.",
+      "ko": "우유 줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is that?",
+      "ko": "그건 뭐냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the goddamn useless dishwasher.",
+      "ko": "빌어먹을 고물 식기세척기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dad said he wanted to throw it out the window,",
+      "ko": "아빠가 창문 밖으로 던지고 싶댔는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "but Mom said Dad isn't allowed to open windows anymore.",
+      "ko": "엄마가 아빠는 창문 여는 거 금지래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] Head.",
+      "ko": "머리"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cabeza.",
+      "ko": "'카베자'"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cabeza. -Cabeza.",
+      "ko": "- '카베자' - '카베자'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ko": "잘했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eyes.",
+      "ko": "눈"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ojos.",
+      "ko": "'오호'"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ojos. -Ojos.",
+      "ko": "- '오호' - '오호'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ko": "잘했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arm. Brazo.",
+      "ko": "팔, '브라소'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arm. Brazo.",
+      "ko": "팔, '브라소'"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "ko": "잘했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] I don't think this is a good idea.",
+      "ko": "아무래도 안 되겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "ko": "왜요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because no one stands a chance against a luchadoro.",
+      "ko": "할아버지 프로레슬러에겐 아무래도 못 당하니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abuelo Luchadoro!",
+      "ko": "할아버지 프로레슬러!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abuelo Luchadoro!",
+      "ko": "할아버지 프로레슬러!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me, help me.",
+      "ko": "도와줘, 도와줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, no, he started it.",
+      "ko": "잠깐, 시작했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ready? -Rub it and smack!",
+      "ko": "- 준비됐어? - 날아서 쾅!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rub it and smack! Smack! Karate chop!",
+      "ko": "날아서 쾅! 가라테 촙!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Huh.",
+      "ko": "\"캘리포니아 대학교 마리솔 멘데스\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Wow, it's awfully quiet, huh?",
+      "ko": "희한하게 조용하네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Luna speaks in Spanish] -Hey, guys.",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol in English] Hi.",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi.",
+      "ko": "어서 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was already asleep.",
+      "ko": "막내는 잠들었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] How was it?",
+      "ko": "어떠셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fine. -You did a good job tonight, Otto.",
+      "ko": "괜찮았어 오늘 정말 잘하셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should pat yourself on the back.",
+      "ko": "토닥토닥하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tommy] Thank you, Otto. -[Otto] Yeah.",
+      "ko": "- 감사해요 - 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Exit now.",
+      "ko": "외출 중입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Have a good night.",
+      "ko": "쉬세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did he do that?",
+      "ko": "어떻게 하셨지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Malcolm] Hi, Otto. -Malcolm.",
+      "ko": "- 안녕하세요 - 맬컴"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't hear your chain rattle when you switch gears like that?",
+      "ko": "기어 바꾸는 소리 이상한 거 안 들리냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My bike's getting old. -Don't blame the bike.",
+      "ko": "- 자전거가 낡아서요 - 자전거 탓하기는"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just have to adjust your derailleur.",
+      "ko": "변속기만 조정하면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My what? -Your derailleur needs adjusting.",
+      "ko": "- 뭐요? - 변속기 조정하라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, excuse me.",
+      "ko": "안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi, I'm Shari Kenzie. -Hi.",
+      "ko": "- 셔리 켄지라고 하는데요 - 안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a social media journalist.",
+      "ko": "소셜 미디어 기자예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm, um, looking for Otto Anderson.",
+      "ko": "오토 앤더슨 씨를 찾고 있는데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you sure you wanna do that?",
+      "ko": "정말 만나실 생각이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow. It's great. That's amazing.",
+      "ko": "되네요, 신기해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You treat it right, it'll treat you right.",
+      "ko": "제대로 대하면 제대로 대접받지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here. Keep the set.",
+      "ko": "가져라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Otto.",
+      "ko": "감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't believe I'm helping you throw crap onto people's lawns.",
+      "ko": "전단지 무단 투기를 돕게 될 줄이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't two jobs enough?",
+      "ko": "투잡으로도 부족하냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm saving up for a car.",
+      "ko": "차 살 돈 모으려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah? -Yeah.",
+      "ko": "- 그래? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "What kind?",
+      "ko": "어떤 차?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Volkswagen.",
+      "ko": "폭스바겐이요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Young lady, you're blocking the garage.",
+      "ko": "차고를 막으면 안 되지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Anderson? My name is Shari Kenzie.",
+      "ko": "앤더슨 씨? 셔리 켄지라고 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a social media journalist, and I--",
+      "ko": "소셜 미디어 기자인데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is that?",
+      "ko": "그게 뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have an online series called Everyday Heroes.",
+      "ko": "'일상의 영웅들'이란 코너를 담당하고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What you did the other day at the train station was amazing.",
+      "ko": "저번에 기차역에서 큰 활약 하셨더라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You saved that man's life.",
+      "ko": "생명을 구하셨잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have the wrong guy.",
+      "ko": "잘못 찾아왔소"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I don't. I've watched the video at least a dozen times.",
+      "ko": "아뇨, 그 동영상 수십 번 봤는걸요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's you. -Video?",
+      "ko": "- 어르신 맞아요 - 동영상?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You haven't seen it?",
+      "ko": "아직 못 보셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh. A commuter recorded what happened on their phone and posted it online.",
+      "ko": "누가 폰으로 찍어서 인터넷에 올렸어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone in the comments recognized you. That's how I tracked you down.",
+      "ko": "알아본 사람이 댓글 썼길래 물어물어 온 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gotten over a million views.",
+      "ko": "조회수가 100만이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A million? A million.",
+      "ko": "100만?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why can't people mind their own business?",
+      "ko": "자기들 일에나 신경 쓸 것이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because stories like yours are inspiring.",
+      "ko": "이런 이야기들은 영감이 되잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I could just talk to you for a few minutes--",
+      "ko": "잠깐 시간 되시면…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, now I've got too many things I have to do.",
+      "ko": "아니, 일이 많아서 안 되겠소"
+    }
+  },
+  {
+    "translation": {
+      "en": "I recorded a video message from the man you saved.",
+      "ko": "구해주신 분의 영상 메시지가 있는데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should see this.",
+      "ko": "한번 보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Um... just pull it up. -[Marisol] Otto! Hi!",
+      "ko": "- 오토, 안녕하세요! - 어디 있더라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good morning.",
+      "ko": "좋은 아침이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good morning.",
+      "ko": "좋은 아침!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So you ready for another driving lesson? -[pounding on garage door]",
+      "ko": "오늘 운전 강습 준비되셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now's not a good time. -No?",
+      "ko": "- 지금은 어렵겠군 - 안 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] Hello? Hello? Hey, I'm still in here!",
+      "ko": "저기요? 여기 갇혔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I didn't lock you in. -[Shari] Hello?",
+      "ko": "- 가둔 적 없소 - 저기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the knob, open the door.",
+      "ko": "문으로 나오면 되지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[speaks in Spanish] -Opened a door before, haven't you?",
+      "ko": "문 안 열어봤나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Idiot.",
+      "ko": "머저리"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol in English] Otto! It's me.",
+      "ko": "오토, 저예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's gone.",
+      "ko": "그 여자 갔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. I'm not through with my rounds.",
+      "ko": "잘됐군, 아침 순찰 못 했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Social media journalist\"?",
+      "ko": "'소셜 미디어 기자'?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell does that even mean?",
+      "ko": "무슨 놈의 직함이 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Buncha knotheads pointin' a camera at themselves.",
+      "ko": "자기들 얼굴에 카메라 들이밀고 설치는 게 전부면서"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought you handled it really well.",
+      "ko": "대처 잘하시던데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, closing her in your garage.",
+      "ko": "차고에 가두신 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was, like, excellent strategy.",
+      "ko": "끝내주는 전략이었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[growls] -Good job. [laughs]",
+      "ko": "잘하셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, also, I was thinking you've done so much for us.",
+      "ko": "제가 신세를 너무 많이 져서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I wanna do something for you too. -I don't need anything.",
+      "ko": "- 뭐 해드리고 싶어요 - 필요한 거 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I think you could do with some decent food. Sometimes. No?",
+      "ko": "가끔 음식이라도 드리면 좋잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those cookies... The what? The \"salporanz\"?",
+      "ko": "- 그 쿠키… - '살포레스'요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those are not bad. They're not bad.",
+      "ko": "그거 나쁘지 않더군"
+    }
+  },
+  {
+    "translation": {
+      "en": "And, also, I was thinking",
+      "ko": "그리고 생각해 봤는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "that I can help you clean out your house and clean out the front hall in your home,",
+      "ko": "집 정리도 도와드릴 수 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and help you pack the coats and shoes you have there of Sonya's.",
+      "ko": "소냐의 코트나 신발도 한데 정리하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's not needed.",
+      "ko": "그건 필요 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, but it can help you move on.",
+      "ko": "그래도 이렇게 해야 새 출발 하시죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't wanna move on.",
+      "ko": "새 출발 생각 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's always gonna be with you.",
+      "ko": "소냐는 언제까지나 함께 계실 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But you're still here. -Ah...",
+      "ko": "그래도 산 사람은 살아야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough.",
+      "ko": "거기까지 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "When my father died, my mother, she stopped living.",
+      "ko": "아빠가 돌아가셨을 때 엄마는 삶을 관두셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She just stopped like she used-- -Stop talking!",
+      "ko": "- 삶을 멈춰버리고… - 말 그만해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop it. -Okay! Don't yell at me.",
+      "ko": "- 그만 - 알았어요 소리치지 마세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why can't people mind their own business? Idiots.",
+      "ko": "자기들 인생에나 신경 쓸 것이지 머저리들"
+    }
+  },
+  {
+    "translation": {
+      "en": "Interrupting me at every turn.",
+      "ko": "사사건건 참견이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The more they babble, the more they drown out the memory of her voice.",
+      "ko": "다들 하도 쫑알대니까 소냐의 목소리도 가물가물해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want to clear Sonya from my life.",
+      "ko": "내 인생에서 소냐를 지울 생각 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was everything.",
+      "ko": "내 전부였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was nothing before her, and there's nothing after!",
+      "ko": "그 사람 이전에도 이후에도 아무것도 없어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm something.",
+      "ko": "저 있잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That son of a bitch!",
+      "ko": "저 빌어먹을 놈!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh-uh. No, no, no.",
+      "ko": "안 돼, 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop right there. You stop that car!",
+      "ko": "거기 서, 차 세워!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you leave that gate open? You left that gate open, didn't you?",
+      "ko": "자네가 문 열었어? 자네 짓이지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're the only one who gives a damn.",
+      "ko": "저거 영감님만 신경 쓰는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I give a damn about people following the rules.",
+      "ko": "내가 신경 쓰는 건 규칙 준수야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, I know. I know all about you.",
+      "ko": "네, 알아요, 어르신 잘 알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a file on you at the office. It's this thick.",
+      "ko": "어르신에 관한 파일이 이렇게 두껍게 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know about your wife. How you blame whatever happened to her on everybody else.",
+      "ko": "부인 일도 알아요 그걸 딴사람들 탓으로…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You shut up.",
+      "ko": "입 다물어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you say one more word. [gasping]",
+      "ko": "한 마디만 더 해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take it easy, Otto. Look, I'm not trying to upset you,",
+      "ko": "진정하세요 화 돋우려는 게 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "but you really shouldn't be living alone.",
+      "ko": "이렇게 혼자 사시면 안 된다는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, we know more about you than you probably realize, so...",
+      "ko": "생각보다 어르신에 관해 많이 알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just look after that heart of yours, okay?",
+      "ko": "심장 조심하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you know about my heart?",
+      "ko": "뭘 안다고 떠들어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, what do you know about my heart?!",
+      "ko": "뭘 안다고 떠들어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You prying bastard!",
+      "ko": "감히 뒤를 캐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, Otto.",
+      "ko": "오토, 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, what's going on? Are you okay? Do you feel okay?",
+      "ko": "왜 그러세요? 괜찮으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wanna help me, close the gate.",
+      "ko": "돕고 싶으면 문이나 닫아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Otto. Otto.",
+      "ko": "오토, 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[knocking on door] -Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Talk to me, Otto. Please?",
+      "ko": "얘기 좀 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Talk to me, Otto.",
+      "ko": "얘기 좀 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "고마워"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sonya] It'll be cute on you.",
+      "ko": "당신 쓰면 귀엽겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[young Otto] No. -[Sonya] Aw, c'mon.",
+      "ko": "- 됐어 - 써봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honey, you look really cute. [laughs]",
+      "ko": "진짜 귀여울 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me your hand.",
+      "ko": "손 줘봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "The baby's really kicking.",
+      "ko": "애가 엄청 찬다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be right back.",
+      "ko": "금방 올게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya!",
+      "ko": "소냐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya!",
+      "ko": "소냐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya!",
+      "ko": "소냐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi.",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "There you are. ♪ Of all the things we should've said That we never said ♪",
+      "ko": "일어났구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sonya] That's enough now, darling.",
+      "ko": "거기까지 해, 여보"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're angry. I know.",
+      "ko": "화난 거 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "And sad.",
+      "ko": "슬프기도 하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "So am I.",
+      "ko": "나도 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "But now we have to live.",
+      "ko": "하지만 살아야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "What now?",
+      "ko": "또 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Malcolm.",
+      "ko": "맬컴"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry. I didn't mean to--",
+      "ko": "죄송해요, 제가 불쑥…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not gonna shoot you.",
+      "ko": "너 안 쏜다"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was that noise?",
+      "ko": "방금 무슨 소리예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The generator blew and the power is out.",
+      "ko": "발전기가 터져서 전기가 나갔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What d'ya want? It's freezing.",
+      "ko": "용건부터 말해라, 얼어 죽겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was hoping you might let me crash on your couch for the night.",
+      "ko": "하루만 소파에서 재워주실 수 있을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is not a hotel.",
+      "ko": "여긴 호텔이 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. I'm sorry.",
+      "ko": "네, 죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why can't you go home?",
+      "ko": "왜 집에 안 가고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My dad kicked me out.",
+      "ko": "아빠한테 쫓겨났어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a sofa you can use.",
+      "ko": "소파 하나 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't go into the dining room. The ceiling needs repair.",
+      "ko": "주방 쪽엔 가지 마라 천장 망가졌으니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's upstairs in Sonya's old study.",
+      "ko": "위층에 가면 소냐의 서재 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "So why did he kick you out?",
+      "ko": "왜 쫓겨난 거냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because you're Malcolm now?",
+      "ko": "이제 맬컴이라서?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, because I'm Malcolm.",
+      "ko": "네, 맬컴이라서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because I dress like this.",
+      "ko": "이렇게 입어서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I read too much. I don't like sports. Take your pick.",
+      "ko": "책만 보고 스포츠 싫어하고 한두 가지가 아니에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's embarrassed 'cause I'm trans.",
+      "ko": "내가 트랜스젠더라고 창피해하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then he's an idiot.",
+      "ko": "머저리라 그러지"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is you.",
+      "ko": "여기 써라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try not to touch anything.",
+      "ko": "뭐 만지지 말고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well...",
+      "ko": "뭐…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good morning. The power's still out",
+      "ko": "일어나셨어요? 전기가 안 들어와서 달걀 상할까 봐 썼어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I cooked up the last of the eggs while they're still good.",
+      "ko": "전기가 안 들어와서 달걀 상할까 봐 썼어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hope you don't mind.",
+      "ko": "괜찮으시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to do my rounds.",
+      "ko": "순찰하고 오마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you at least want some coffee first?",
+      "ko": "커피라도 드시고 가실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "There you go.",
+      "ko": "여기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, some eggs?",
+      "ko": "달걀도요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't say no.",
+      "ko": "주면 먹어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "That can...",
+      "ko": "저 깡통"
+    }
+  },
+  {
+    "translation": {
+      "en": "goes in here.",
+      "ko": "이쪽으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hang that up.",
+      "ko": "여기 걸어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Otto! Making your rounds.",
+      "ko": "안녕하세요, 오토, 순찰하시네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You mind if I join you? I need to get my steps in.",
+      "ko": "같이 가도 돼요? 운동도 할 겸"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Otto sighs] -Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm Jimmy. -Malcolm.",
+      "ko": "- 난 지미야 - 맬컴이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nice to meet you. -Aw, thanks.",
+      "ko": "- 만나서 반가워요 - 고마워"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Malcolm] Yes.",
+      "ko": "있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Otto, if you want to slow down, we can 'cause my beats are up.",
+      "ko": "좀 천천히 갈까요? 심장이 빨리 뛰어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Malcolm] Yes.",
+      "ko": "있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto, did you hear they're moving Reuben into assisted living this afternoon?",
+      "ko": "오늘 루벤을 요양원으로 보낸다던데 들으셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who is?",
+      "ko": "누가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Dye & Merika guys.",
+      "ko": "다이 앤 메리카 사람들요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My God. -[music fades]",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "They convinced Anita to sell the house.",
+      "ko": "어니타를 꼬드겨서 집을 팔게 했구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, they made the deal with Chris.",
+      "ko": "아뇨, 크리스랑 거래를 했대요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Chris? He can't do that. -Yeah, he can.",
+      "ko": "- 크리스는 권리가 없지 - 있대요"
+    }
+  },
+  {
+    "translation": {
+      "en": "After Dye & Merika found out Anita had Parkinson's,",
+      "ko": "어니타가 파킨슨병 걸린 걸 알아내고"
+    }
+  },
+  {
+    "translation": {
+      "en": "they tracked Chris down and--",
+      "ko": "크리스를 찾아가서 제안을…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Parkinson's? -Yeah.",
+      "ko": "- 파킨슨병? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "So last year Chris convinced Anita to give him power of attorney in case she got worse.",
+      "ko": "그래서 작년에 크리스가 미리 위임장 받았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So Dye & Merika made the deal with Chris to buy the house.",
+      "ko": "그 권한으로 이 집을 팔아넘긴 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those pricks.",
+      "ko": "인간 말종들"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, Anita found out she had Parkinson's last year?",
+      "ko": "잠깐, 어니타가 작년에 파킨슨병 진단받았다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, that's not right.",
+      "ko": "아닐 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "She would've told Sonya. Sonya would've told me.",
+      "ko": "그럼 소냐에게 말했겠지 나도 알았을 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, Anita and Reuben didn't want you and Sonya to know.",
+      "ko": "어니타와 루벤이 어르신 댁엔 숨기셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "They said you had enough on your plate as it is.",
+      "ko": "이거 아니어도 힘드실 거라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "They said that?",
+      "ko": "그 친구들이 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to see everything you ever got from Dye & Merika.",
+      "ko": "다이 앤 메리카에서 받은 거 다 줘봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Notices, letters. Do you have a copy of the power of attorney?",
+      "ko": "통지서, 서신 위임장 사본은 있어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you know about that?",
+      "ko": "그건 어떻게 알아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you have it? -Yes.",
+      "ko": "- 갖고 있어? - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get it. -Yes.",
+      "ko": "- 줘봐 - 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "And any records of Reuben's condition and yours.",
+      "ko": "루벤과 당신의 진료 기록도 줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did Jimmy tell you that?",
+      "ko": "지미가 말했어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you get it now?",
+      "ko": "갖다줄래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been an idiot.",
+      "ko": "내가 머저리였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got so wrapped up in my own troubles, I stopped thinking of anyone else.",
+      "ko": "내 문제만 생각하느라 남들 생각을 안 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I figured they weren't thinking about me.",
+      "ko": "남들도 내 생각을 안 하겠거니 했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Friends shouldn't do that.",
+      "ko": "친구는 그러면 안 되는 건데"
+    }
+  },
+  {
+    "translation": {
+      "en": "So...",
+      "ko": "그래서…"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't easy to say after all this time.",
+      "ko": "긴 세월 지나서 말하려니 어렵군"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I'm sorry.",
+      "ko": "미안하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I will sort all this out.",
+      "ko": "내가 다 해결할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to use your phone.",
+      "ko": "전화 좀 써야겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why can't you use your own?",
+      "ko": "어르신 거 쓰시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mine is disconnected at the moment.",
+      "ko": "내 전화는 끊겨서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Why? -That doesn't matter.",
+      "ko": "왜요? 그건 몰라도 돼 전화만 좀 쓰자니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just need to use your phone, okay?",
+      "ko": "그건 몰라도 돼 전화만 좀 쓰자니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what?",
+      "ko": "그거 아세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No? -No.",
+      "ko": "- 싫어? - 싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You won't tell me why your phone is disconnected?",
+      "ko": "전화 왜 끊겼는지도 말 안 해주시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You won't tell me why you need to use my phone?",
+      "ko": "왜 전화 쓰시려는지도 말 안 해주시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You won't tell me what happened to you in the street yesterday?",
+      "ko": "어제 왜 그러셨는지도 말 안 해주시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then you went inside and you wouldn't even open the door?",
+      "ko": "집으로 들어가서 문도 안 여셨잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You scared me, Otto.",
+      "ko": "얼마나 무서웠다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know how long I was out there?",
+      "ko": "밖에 얼마나 오래 있었는지 아세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I didn't know if something had happened to you.",
+      "ko": "어떻게 되셨나 알 방법도 없고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or if something was gonna happen to you.",
+      "ko": "어떻게 되시면 어쩌나 안절부절못하면서"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I'm sorry if I said the wrong thing about Sonya's coats.",
+      "ko": "소냐의 코트 정리하란 말 죄송했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I was just trying to help.",
+      "ko": "도와드리고 싶었을 뿐이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you left me out there.",
+      "ko": "그런데 절 밖에 세워두셨잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, no. You can't use my phone.",
+      "ko": "그러니까 안 돼요 전화 못 빌려드려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think your life is so hard because everybody's an idiot",
+      "ko": "남들이 다 머저리라 인생이 고달프시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you have to do everything on your own, right?",
+      "ko": "모든 걸 직접 하셔야 하고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right?",
+      "ko": "그렇죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "But guess what.",
+      "ko": "근데 있잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't.",
+      "ko": "그렇겐 못 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one can.",
+      "ko": "누구도 그렇겐 못 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I think you should just be happy",
+      "ko": "힘든 날을 이겨내도록"
+    }
+  },
+  {
+    "translation": {
+      "en": "that someone was trying to help you get through a crappy day.",
+      "ko": "도와주려는 사람들이 있는 게 행복한 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even if they're an idiot.",
+      "ko": "다 머저리들이라도"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So... -The real estate bastards",
+      "ko": "그러니까… 부동산 놈들이"
+    }
+  },
+  {
+    "translation": {
+      "en": "are trying to force Anita and Reuben out of their home.",
+      "ko": "어니타와 루벤을 쫓아내려 하고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why I need to use your phone.",
+      "ko": "그래서 전화를 쓰려는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, fine. Come on.",
+      "ko": "좋아요, 들어오세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had never had a vacation.",
+      "ko": "우린 휴가 한 번 제대로 못 갔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya was six months pregnant.",
+      "ko": "소냐는 임신 6개월이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "And she wanted to do something special before the baby came.",
+      "ko": "출산 전에 특별한 걸 해보고 싶다더군"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we booked a trip to Niagara Falls.",
+      "ko": "그래서 나이아가라 폭포 여행을 예약했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "On the way back, the bus crashed.",
+      "ko": "돌아오는 길에 버스가 추돌했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "There'd been a recall on the brake lines,",
+      "ko": "브레이크 결함이 있던 차였는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the company never had them fixed.",
+      "ko": "회사가 고치질 않았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya was paralyzed...",
+      "ko": "소냐는 하반신이 마비됐고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we lost our son.",
+      "ko": "우리 아들도 떠났지"
+    }
+  },
+  {
+    "translation": {
+      "en": "After three months, she was finally able to come home.",
+      "ko": "3개월 후 소냐가 드디어 집에 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they had started building the new condos",
+      "ko": "한창 콘도를 짓고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the community center and the walkways,",
+      "ko": "주민 센터니 인도니 만들고 있었지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "none of which were designed for people in wheelchairs.",
+      "ko": "휠체어 탄 사람을 전혀 배려하지 않았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The builders could have changed their plans.",
+      "ko": "설계를 바꾸면 되는 일인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the laws weren't in place back then, and they didn't care.",
+      "ko": "당시엔 법이 허술해서 다들 무시했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I did.",
+      "ko": "난 아니었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're putting in a new playground... -I cared.",
+      "ko": "내겐 중요했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-There's places for people like your wife. -And I was so angry.",
+      "ko": "- 이런 사람들은 다른 곳에… - 그래서 화가 났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that mean? People like her? What does that mean?",
+      "ko": "무슨 소리예요? 이런 사람? 무슨 소리야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What're you tryin' to say?! -[yells] Get off of me!",
+      "ko": "- 다시 말해봐! - 이거 놔요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's when they voted me out as head of the homeowners' association.",
+      "ko": "표결로 주민 자치회 회장에서 내려왔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanted to obliterate them all.",
+      "ko": "다 없애버리고 싶었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The builders, and the realtors, and the bus company, the bus driver.",
+      "ko": "건설사, 부동산업자 버스 회사, 버스 기사"
+    }
+  },
+  {
+    "translation": {
+      "en": "I never would have let it go...",
+      "ko": "끝까지 싸우려 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "but for Sonya.",
+      "ko": "그런데 소냐가…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sonya said we had to keep living.",
+      "ko": "소냐가 우린 계속 살아가야 한다고 했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what I did.",
+      "ko": "그래서 그렇게 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I lived for Sonya.",
+      "ko": "소냐를 위해 살았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six months ago she passed away.",
+      "ko": "소냐는 6개월 전에 떠났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cancer.",
+      "ko": "암으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was going to join her.",
+      "ko": "따라갈 생각이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why I had them disconnect my phone.",
+      "ko": "그래서 전화 해지한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "But now I think she wants me to keep living.",
+      "ko": "그런데 소냐가 아직은 오지 말라는 거 같아"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I have things to do.",
+      "ko": "해야 할 일도 있고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're wasting your time, Otto.",
+      "ko": "시간 낭비하시는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a done deal. Reuben's coming with us.",
+      "ko": "계약이 끝났어요 루벤을 모셔갈 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if you get in our way, I'll have you arrested.",
+      "ko": "방해하시면 체포당하실 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm not doing a thing. -Don't you take another step.",
+      "ko": "난 가만있을 거야 한 발짝만 더 와봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are not taking my husband away from me.",
+      "ko": "내 남편은 못 뺏어 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anita, please. We're doing this for your own good.",
+      "ko": "어니타, 이러지 마세요 두 분을 위한 일이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What you're doing is trying to take my property.",
+      "ko": "내 집을 뺏으려는 수작이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want Reuben to stay right here for the rest of his life,",
+      "ko": "루벤은 평생 여기서 살 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "with me in our home.",
+      "ko": "나랑 우리 집에서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, but who's gonna take care of Reuben when you're no longer able to?",
+      "ko": "아주머니가 힘들어 지시면 루벤을 누가 돌보고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's gonna take care of you? Otto?",
+      "ko": "아주머니는요? 오토가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto's not in the best health either. Are you, Otto?",
+      "ko": "저분도 건강 상태가 좋진 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jimmy] I'll take care of 'em.",
+      "ko": "내가 돌볼 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What are you doing? Put that down. -Anita and Reuben are like family to me.",
+      "ko": "뭐 하는 거예요? 내려놔요 어니타와 루벤은 가족이나 다름없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll take care of them as long as they need.",
+      "ko": "언제까지고 내가 돌볼 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're not your family.",
+      "ko": "가족도 아니잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, their son, Chris, has decided they're not fit enough to be on their own,",
+      "ko": "아드님인 크리스가 두 분만으로는 힘들다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and so what we're doing is--",
+      "ko": "결정한 일이라…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me. When was the last time Chris saw his parents?",
+      "ko": "잠시만요 크리스가 부모님을 뵌 지 얼마나 됐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He lives in Japan. They've been estranged for 10 years.",
+      "ko": "일본에 살고 있고 10년째 남남이잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chris would have no idea how his parents are doing,",
+      "ko": "크리스는 부모님 상태를 알지도 못해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "except for what you told him.",
+      "ko": "당신이 말한 내용이나 알지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. And who are you?",
+      "ko": "근데 누구시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Shari Kenzie.",
+      "ko": "셔리 켄지예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Social media journalist.",
+      "ko": "소셜 미디어 기자래"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're streaming live right now. -Uh...",
+      "ko": "지금 생방 중이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, all right, shut that camera off. You can't film this.",
+      "ko": "저기… 카메라 꺼요, 찍으면 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a public sidewalk.",
+      "ko": "여긴 공공 인도야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You told Anita's son, Chris, that she had Parkinson's,",
+      "ko": "당신이 파킨슨병 진단을 크리스에게 알렸지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but Anita never told anyone about her diagnosis.",
+      "ko": "어니타는 누구에게도 말한 적이 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So how did you know?",
+      "ko": "어떻게 아신 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd have to check the records.",
+      "ko": "기록을 봐야 알겠는데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Anderson over there is something of a local hero.",
+      "ko": "저기 앤더슨 씨는 이 지역 영웅이세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He tells me you know details about his private health records as well.",
+      "ko": "저분에게 듣자니 저분의 건강 상태도 알고 계신다던데"
+    }
+  },
+  {
+    "translation": {
+      "en": "So how are you and your company",
+      "ko": "그 회사에선 어떻게"
+    }
+  },
+  {
+    "translation": {
+      "en": "getting illegal access to the medical records of seniors?",
+      "ko": "노인들의 진료 기록을 불법적으로 보시는 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, let's go. We're done. We're done.",
+      "ko": "그만 갑시다 이제 끝내요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] Very nice to meet you.",
+      "ko": "반가웠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, you're done. You're done!",
+      "ko": "끝난 건 당신이지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get that goddamn camera out of my face. -[Tommy] Goodbye.",
+      "ko": "빌어먹을 카메라 치워요 잘 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We did it! -Oh, we did!",
+      "ko": "- 해냈어! - 해냈다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jimmy] Bye, thank you!",
+      "ko": "안녕, 고마워요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I first uploaded Anita and Chris's story an hour ago.",
+      "ko": "어니타와 크리스의 사연을 한 시간 전에 올렸는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Already dozens of people are saying",
+      "ko": "벌써 제보자 수십 명이"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dye & Merika forced them out of their homes.",
+      "ko": "다이 앤 메리카에 집을 뺏겼다고 하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Otto] That was easy. -Yeah, goodbye.",
+      "ko": "- 쉽구먼 - 안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] If you have a story, share it with me at Shari_Kenzie.",
+      "ko": "제보하실 내용이 있다면 언제든 연락 주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I got it. I got it. -[Otto laughing]",
+      "ko": "찍었어, 찍었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Hey, you forgot to shut the gate!",
+      "ko": "문 닫고 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] You see that? He just rolled right over. Gave up.",
+      "ko": "봤지? 꼬리 말고 도망쳤어"
+    }
+  },
+  {
+    "translation": {
+      "en": "In our day, the bastards would at least put up a fight.",
+      "ko": "왕년에 그놈들은 덤벼들기라도 했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "They haven't gotten rid of us yet.",
+      "ko": "그놈들도 우리는 못 당했지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "It does feel pretty good. Doesn't it?",
+      "ko": "기분 참 좋지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] Neighborly neighbors, a thing of the past?",
+      "ko": "이웃사촌이란 말이 옛말이라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I'm here with eyewitnesses Anita and Jimmy to find out more.",
+      "ko": "어니타와 지미에게 이야기를 더 들어보죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jimmy, you mentioned that Anita and Reuben are like family to you.",
+      "ko": "지미, 두 분이 가족과 다름없다 하셨는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that mean, exactly?",
+      "ko": "그게 어떤 뜻이죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I have dinner at their house nearly every single night.",
+      "ko": "거의 매일 저녁을 같이 먹거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know what you're waiting for. You're ready for lunch, aren't you?",
+      "ko": "얼굴 보니 알겠구먼 점심 먹고 싶지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know what you want.",
+      "ko": "딱 보니 알겠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa. Here we go.",
+      "ko": "내려가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] You moved into this community recently.",
+      "ko": "최근 이사 오셨는데 어떠세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How has that been for you? -It's been beautiful.",
+      "ko": "최근 이사 오셨는데 어떠세요? - 너무 좋죠 - 이웃들도 너무 좋고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shari] And your family, to have people there that are--",
+      "ko": "- 너무 좋죠 - 이웃들도 너무 좋고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Otto? -Will you air this in Mexico?",
+      "ko": "- 오토? - 멕시코에도 방송되나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Call an ambulance!",
+      "ko": "구급차 불러요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ms. Mendes? You can see him now. -Yes?",
+      "ko": "- 멘데스 씨? - 네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hola, Abuelo Otto.",
+      "ko": "일어나셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ms. Mendes?",
+      "ko": "멘데스 씨?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Dr. Ellis.",
+      "ko": "닥터 엘리스예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Anderson listed you as next of kin.",
+      "ko": "부인을 친족으로 기재하셨더라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. Yes, that's correct.",
+      "ko": "네, 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your uncle had a close call. Has he spoken to you about his condition?",
+      "ko": "삼촌분 위험하셨어요 어떤 상태인지 들으셨나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, not really. No.",
+      "ko": "아뇨"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's called hypertrophic cardiomyopathy.",
+      "ko": "비후성 심근증이란 병이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Basically, his heart is too big.",
+      "ko": "쉽게 말해 심장이 너무 큰 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Too big?",
+      "ko": "너무 커요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, okay.",
+      "ko": "아, 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] No, sorry. It's okay.",
+      "ko": "죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're really bad at dying, you know that?",
+      "ko": "정말 죽는 데 소질 없으세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Otto, I think it's time.",
+      "ko": "온 거 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it's time.",
+      "ko": "온 거 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's time.",
+      "ko": "왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, uh, I'm a cardiologist. I'll page OB for you.",
+      "ko": "저는 심장전문의예요 산부인과 호출할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do something. It's time!",
+      "ko": "어떻게 좀 해줘요, 온다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] All right, ready?",
+      "ko": "준비됐니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, picture, everybody!",
+      "ko": "자, 사진 찍어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Picture, picture, picture.",
+      "ko": "사진, 사진"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Ready? Everybody say, \"Marco.\"",
+      "ko": "준비됐죠? 다 같이 '마르코'"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, two, three.",
+      "ko": "하나, 둘, 셋"
+    }
+  },
+  {
+    "translation": {
+      "en": "Marco!",
+      "ko": "마르코!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hola. Hi! -[Tommy] Hey, Otto. Come in.",
+      "ko": "들어오세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everyone, this is our friend Otto.",
+      "ko": "우리 친구 오토예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi, Otto!",
+      "ko": "안녕하세요, 오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Otto.",
+      "ko": "어서 오세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, is this about the cars that are in front?",
+      "ko": "죄송해요, 주차들을 막 했죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I brought you something.",
+      "ko": "아니, 뭐 좀 가져왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gave it a fresh coat of paint.",
+      "ko": "페인트 다시 칠했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love it.",
+      "ko": "너무 예뻐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's for the baby. -Yes.",
+      "ko": "아기 선물이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you. Okay, hold him one second, please.",
+      "ko": "감사해요, 잠깐 안고 계세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Why? -To show Tommy.",
+      "ko": "- 왜? - 토미 부르려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold him. Oh, he's gonna cry.",
+      "ko": "안고 계세요, 아기 울겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] I'll be right back, bebé. Okay.",
+      "ko": "금방 올게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tomaso?",
+      "ko": "토미"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello. There we are.",
+      "ko": "그래, 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[fussing] -Uh, should I put this thing back in him?",
+      "ko": "이거 다시 물려?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There.",
+      "ko": "옳지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh. Yeah.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "옳지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo soy Abuelo Otto.",
+      "ko": "오토 할아버지란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "ko": "알았지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, well, let me show you how this works.",
+      "ko": "어떻게 눕는 건지 가르쳐주마"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't have to do anything.",
+      "ko": "가만있으면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Easy.",
+      "ko": "가만히"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your little head...",
+      "ko": "요 귀여운 머리는…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, you just go...",
+      "ko": "자, 이제…"
+    }
+  },
+  {
+    "translation": {
+      "en": "like so.",
+      "ko": "그렇게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Sonya, this is Abbie and Luna. They have something for you.",
+      "ko": "소냐, 애비랑 루나가 선물 가져왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi, Sonya. -Hi, Sonya.",
+      "ko": "- 안녕하세요, 소냐 - 안녕하세요, 소냐"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That's, uh, brand-new little Marco there. -[speaks in Spanish]",
+      "ko": "여긴 갓 태어난 마르코"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Marisol, Tommy. I told you about them.",
+      "ko": "마리솔, 토미 이 친구들 얘긴 했지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say, \"Hola. Hola, Sonya.\"",
+      "ko": "할머니한테 인사해야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "She loved pink flowers, girls. You chose well.",
+      "ko": "분홍색 꽃 좋아했는데 잘 골랐구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like pink too.",
+      "ko": "저도 분홍색 좋아해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tommy] Ready? -[Marisol] Yes.",
+      "ko": "- 준비됐어? - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no.",
+      "ko": "아니, 아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Otto.",
+      "ko": "잘 좀 써라"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, Malcolm, check that oil. Check it.",
+      "ko": "맬컴, 오일 확인해 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "And let's see, what does it say?",
+      "ko": "자, 어떠냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks good, right?",
+      "ko": "좋아 보이는데요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-If you say so. -Okay.",
+      "ko": "네가 그렇다면야"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. Okay, now...",
+      "ko": "- 네 - 됐어 자, 설명서다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's your manual.",
+      "ko": "자, 설명서다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's your papers.",
+      "ko": "이건 등록증"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the key.",
+      "ko": "그리고 열쇠"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's your car.",
+      "ko": "네 차다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you kidding me?",
+      "ko": "농담하세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "정말요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto!",
+      "ko": "오토!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you. Oh, thank you.",
+      "ko": "감사해요, 감사해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, my gosh. -Saved you from a Volkswagen.",
+      "ko": "- 대박이다 - 폭스바겐만은 안 되지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a car! I have a car!",
+      "ko": "차 생겼어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Jimmy] This is your car! -[Malcolm] Are you kidding me?",
+      "ko": "- 네 차야! - 미쳤다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto? You got your truck!",
+      "ko": "오토, 트럭 사셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God!",
+      "ko": "세상에"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wanna go for a ride?",
+      "ko": "드라이브 갈까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's go for a ride? -That's a nice truck, Otto.",
+      "ko": "- 드라이브요? - 트럭 멋진데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Be careful.",
+      "ko": "조심"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like your car, Otto.",
+      "ko": "차 정말 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah? Wait till you see how it rides.",
+      "ko": "그래? 달리면 더 좋을걸"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] It's enormous.",
+      "ko": "엄청 넓다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] This is like Otto's luchador monster truck.",
+      "ko": "프로레슬러 할아버지의 괴물 트럭이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luna] Yeah. Do you have any comics?",
+      "ko": "만화책 없어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Abbie] Can we get Swedish éclairs?",
+      "ko": "스웨덴 디저트 먹으러 가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is livin'.",
+      "ko": "이게 사는 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, okay.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Okay, who's ready for breakfast?",
+      "ko": "자, 아침 먹을 사람?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Here we go.",
+      "ko": "여기 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay? [speaks in Spanish]",
+      "ko": "됐지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I can't believe Marco's 3 already. -You're such a big boy.",
+      "ko": "- 마르코가 벌써 3살이야 - 너 진짜 컸다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[knocking] -I'll get it, honey.",
+      "ko": "내가 갈게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, honey?",
+      "ko": "여보?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto hasn't shoveled his walk.",
+      "ko": "오토가 인도의 눈을 안 치우셨어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Watch your brother.",
+      "ko": "동생 보고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Get the keys.",
+      "ko": "열쇠 챙겨"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tommy] Otto?",
+      "ko": "오토?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Otto.",
+      "ko": "오토"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "가셨어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Marisol.",
+      "ko": "마리솔"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] Marisol,",
+      "ko": "마리솔"
+    }
+  },
+  {
+    "translation": {
+      "en": "if you're reading this, don't worry.",
+      "ko": "이걸 읽고 있다면 걱정 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I haven't done anything stupid.",
+      "ko": "멍청한 짓 한 건 아니니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "It turns out having a big heart isn't as nice as it sounds.",
+      "ko": "심장이 크다는 건 듣기에나 좋더구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "The doctors warned me it would get me in the end,",
+      "ko": "의사가 언젠가는 이런 날이 올 거라길래"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I planned ahead, that's all.",
+      "ko": "미리 준비한 것뿐이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "The cat eats tuna twice a day",
+      "ko": "고양이는 하루에 참치를 두 번 먹고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and likes to do his business in private.",
+      "ko": "혼자 있는 시간을 좋아한단다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please respect that.",
+      "ko": "존중해주렴"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would like a funeral.",
+      "ko": "장례식은 하고 싶다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We remember before you this day...",
+      "ko": "오늘 이곳에 모여…"
+    }
+  },
+  {
+    "translation": {
+      "en": "But nothing overblown.",
+      "ko": "거창한 건 됐고"
+    }
+  },
+  {
+    "translation": {
+      "en": "...our brother Otto.",
+      "ko": "우리의 형제…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just a remembrance of some sort...",
+      "ko": "추도식 정도면 된다"
+    }
+  },
+  {
+    "translation": {
+      "en": "for those people who thought I pulled my weight.",
+      "ko": "내가 열심히 살았다고 생각하는 사람들 모아서"
+    }
+  },
+  {
+    "translation": {
+      "en": "A local hero and good friend of the show is being remembered today.",
+      "ko": "영웅이자 좋은 친구가 오늘 세상을 떠났습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otto Anderson.",
+      "ko": "오토 앤더슨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jimmy, would you like to say a few words about Otto?",
+      "ko": "지미, 오토에 관해 몇 마디 해주실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Otto, we love you.",
+      "ko": "네 오토, 사랑해요, 뜻을 이어받아"
+    }
+  },
+  {
+    "translation": {
+      "en": "In your honor, Malcolm and I are doing",
+      "ko": "오토, 사랑해요, 뜻을 이어받아 맬컴과 함께 꼬박꼬박 순찰할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "all of your rounds without fail around lunch and on weekdays.",
+      "ko": "맬컴과 함께 꼬박꼬박 순찰할게요 점심때쯤 돌고 주중에만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You loom large.",
+      "ko": "그리울 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] My lawyer will give you access to my bank accounts.",
+      "ko": "\"안녕, 할아버지\" 내 변호사가 내 계좌를 넘겨줄 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I never wasted money on crap,",
+      "ko": "허튼 데 낭비하진 않았으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "so you'll have enough to get the children through school.",
+      "ko": "애들 교육시킬 돈은 충분할 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "How'd you do that?",
+      "ko": "어떻게 한 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And do what you like with the rest.",
+      "ko": "\"소냐 앤더슨 위기 청소년 기금\" 나머진 알아서 해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] Oh, good boy.",
+      "ko": "착하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jimmy] Is that a doggie cake?",
+      "ko": "개가 먹어도 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marisol] My little monkey-poo.",
+      "ko": "냠냠 먹자"
+    }
+  },
+  {
+    "translation": {
+      "en": "To Otto.",
+      "ko": "오토를 위해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Otto] The house, and everything in it, is yours,",
+      "ko": "내 집과 살림은 모두 네게 남기마"
+    }
+  },
+  {
+    "translation": {
+      "en": "so long as you promise never to sell it to those real estate bastards.",
+      "ko": "부동산 놈들에게 안 판다고 약속만 한다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for God's sakes, Marisol...",
+      "ko": "그리고 부탁인데…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tommy.",
+      "ko": "토미"
+    }
+  },
+  {
+    "translation": {
+      "en": "...don't let Tommy drive the Chevy.",
+      "ko": "토미에게 내 차 운전시키지 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "이리 온"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or anyone else, for that matter.",
+      "ko": "다른 누구에게도"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm trusting it with you alone.",
+      "ko": "믿고 맡길 사람은 너뿐이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because you are not an idiot.",
+      "ko": "넌 머저리가 아니니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Abuelo Otto.",
+      "ko": "오토 할아버지가"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ And I finally see ♪",
+      "ko": "\"삶의 희망이 보이지 않을 땐 혼자 고민하지 마세요\""
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ How your love is the best of me ♪",
+      "ko": "\"더 이상 혼자가 아닙니다 전국 어디서나 국번 없이 129\""
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Yeah, there's so much I want you to know ♪",
+      "ko": "\"www.129.go.kr 보건 복지 상담 센터\""
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Guess I'll wait till you're home ♪",
+      "ko": "\"자기 자신과 타인을 위해 행동하세요\""
+    }
+  }
+]

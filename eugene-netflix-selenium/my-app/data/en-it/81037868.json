@@ -1,0 +1,5330 @@
+[
+  {
+    "translation": {
+      "en": "[boy] ♪ There once was a lord ♪",
+      "it": "C'era una volta un signore"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ In dark woods ♪",
+      "it": "In un bosco oscuro"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Wearing a strange silver band ♪",
+      "it": "E indossava uno strano bracciale d'argento"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Around his hand ♪",
+      "it": "Al suo polso"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ The band was charmed With ore from stars ♪",
+      "it": "Il bracciale era incantato Da un minerale stellare era stato creato"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Bidding all monsters away ♪",
+      "it": "E tutti i mostri poteva cacciar"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Away ♪",
+      "it": "Cacciar via"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ On that quiet eve ♪",
+      "it": "In quella tranquilla sera"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Among these trees ♪",
+      "it": "Tra quegli alberi"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ A bandit slew the good lord ♪",
+      "it": "Un bandito uccise il buon signore"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Stealing that band ♪",
+      "it": "E dal polso del morto"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Off a dead man's hand ♪",
+      "it": "Il bracciale rubò"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ For the bandit also feared ♪",
+      "it": "Perché anche il bandito"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "it": "I mostri temeva"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sugo, keep your eyes and ears open!",
+      "it": "Sugo, tieni occhi e orecchie bene aperti!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's frightening the girls.",
+      "it": "Così spaventi le ragazze."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sugo] They wouldn't even be scared… -[grunts] …if you hadn't gotten lost.",
+      "it": "Non si sarebbero spaventate, se non ti fossi perso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Really, Papa, you grew up in Kaedwen.",
+      "it": "E dai, papà, sei cresciuto a Kaedwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "King clearly dug new trails. [grunts]",
+      "it": "Il Re deve aver creato dei nuovi sentieri."
+    }
+  },
+  {
+    "translation": {
+      "en": "[girl] Is it true, Papa? Are bandits killing innocents along these trails?",
+      "it": "È vero, papà? Su questi sentieri i banditi uccidono gli innocenti?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Oh, pumpkin.",
+      "it": "Oh, tesoro mio."
+    }
+  },
+  {
+    "translation": {
+      "en": "There are no bandits. [grunts]",
+      "it": "Non c'è nessun bandito."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sister! -[limbs squelching]",
+      "it": "Sorella mia!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sugo] A witcher.",
+      "it": "Un witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "[witcher chuckles] Fancy look.",
+      "it": "Stai proprio bene."
+    }
+  },
+  {
+    "translation": {
+      "en": "You must make a killing at druid festivals.",
+      "it": "Andrai alla grande, ai festival dei druidi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't usually see your sorts around these parts.",
+      "it": "Non vedo spesso i tuoi simili."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ha! I see. -[creature snarling]",
+      "it": "Capisco."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a trailblazer, flaunting the new fad.",
+      "it": "Sei un pioniere che sfoggia la nuova moda."
+    }
+  },
+  {
+    "translation": {
+      "en": "Trendsetter, you.",
+      "it": "Crei tendenze, eh?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screeches] -Very bold! [grunts]",
+      "it": "Molto audace."
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa, there. People should get acquainted more, really.",
+      "it": "Ehi, calma! Dovremmo prima conoscerci meglio."
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Converse, a little foreplay.",
+      "it": "Conversare, fare dei preliminari."
+    }
+  },
+  {
+    "translation": {
+      "en": "Especially when one's about to kill the other.",
+      "it": "Soprattutto se stiamo per uccidere l'altro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Though you leshens don't speak, so there's the rub.",
+      "it": "Certo, voi lesny non parlate, e questo è un problema."
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Forest hobo or deadly, flapping swarm.",
+      "it": "O vagabondo da foresta o sciame mortale."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pick a look… [grunts]",
+      "it": "Scegli una delle due cose"
+    }
+  },
+  {
+    "translation": {
+      "en": "…and stick with it.",
+      "it": "e resta tale."
+    }
+  },
+  {
+    "translation": {
+      "en": "Deadly, flapping swarm it is.",
+      "it": "E sciame mortale sia."
+    }
+  },
+  {
+    "translation": {
+      "en": "Away. It's not dead.",
+      "it": "Vattene. Non è morto."
+    }
+  },
+  {
+    "translation": {
+      "en": "So kill it. You're a witcher.",
+      "it": "Allora uccidilo. Sei un witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "There are several ways to kill a leshen.",
+      "it": "Ci sono molti modi per uccidere un lesny."
+    }
+  },
+  {
+    "translation": {
+      "en": "Behead it, sacrifice a few of its furry pets,",
+      "it": "Decapitarlo, sacrificare i suoi animali pelosi"
+    }
+  },
+  {
+    "translation": {
+      "en": "even a few old dryad spells will do.",
+      "it": "o usare qualche vecchio incantesimo da driade."
+    }
+  },
+  {
+    "translation": {
+      "en": "Which will you…",
+      "it": "E tu quale…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[leshen] Garean bhaedh aip me vhoelynath.",
+      "it": "Garean bhaedh aip me vhoelynath."
+    }
+  },
+  {
+    "translation": {
+      "en": "Thought you said they don't speak?",
+      "it": "Non avevi detto che non parlano?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[hissing whisper] Garean bhaedh aip me vhoelynath.",
+      "it": "Garean bhaedh aip me vhoelynath."
+    }
+  },
+  {
+    "translation": {
+      "en": "They don't.",
+      "it": "Infatti è così."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait!",
+      "it": "Aspetta!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait. I'm noble blood.",
+      "it": "Fermo! Ho sangue nobile."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't leave me here.",
+      "it": "Non puoi lasciarmi qui!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What am I to do?",
+      "it": "Cosa dovrei fare?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He said, \"Practice your sad face,",
+      "it": "Mi ha detto: \"Fa' una faccia triste"
+    }
+  },
+  {
+    "translation": {
+      "en": "and maybe a passerby will offer you a ride.\"",
+      "it": "e magari qualche passante ti offrirà un passaggio\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] And what of your sisters?",
+      "it": "E le tue sorelle?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The witcher said to use my sad face on the alderman too.",
+      "it": "Il witcher ha detto di fare lo stesso anche col capovillaggio,"
+    }
+  },
+  {
+    "translation": {
+      "en": "So he'd spare some men to… gather the bodies.",
+      "it": "che così avrebbe mandato degli uomini a recuperarne i corpi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dry eyes, child.",
+      "it": "Niente lacrime."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll see that your father and sisters are returned to you and laid to rest properly.",
+      "it": "Farò sì che tuo padre e le tue sorelle abbiano una degna sepoltura."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Sugo's father was a treasured member of the Assembly",
+      "it": "Il padre di Sugo era un membro prezioso dell'Assemblea"
+    }
+  },
+  {
+    "translation": {
+      "en": "and a loyal subject to our king.",
+      "it": "e un fedele suddito del Re."
+    }
+  },
+  {
+    "translation": {
+      "en": "My students and I resubmit our petition.",
+      "it": "Io e i miei allievi ripresentiamo la nostra petizione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Seize the witcher home of Kaer Morhen",
+      "it": "Occupate la dimora dei witcher di Kaer Morhen"
+    }
+  },
+  {
+    "translation": {
+      "en": "and exile its occupants for crimes against Kaedwen's people.",
+      "it": "ed esiliateli per crimini contro il popolo di Kaedwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "From what the boy told us, Your Highness,",
+      "it": "Da quanto ci ha detto il ragazzo, Vostra Altezza,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the witcher slew the leshen that was terrorizing our forests.",
+      "it": "il witcher ha ucciso il lesny che infestava le nostre foreste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lady Zerbst, since when have leshens prowled about Kaedwen,",
+      "it": "Lady Zerbst, quando mai i lesny si sono aggirati per Kaedwen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "never mind with such hostility?",
+      "it": "figurarsi poi con tale ostilità?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you're suggesting the witchers have been staging these forest attacks.",
+      "it": "Insinui che i witcher abbiano inscenato questi attacchi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So scandalous, Madam Gilcrest.",
+      "it": "Sarebbe davvero scandaloso, madame Gilcrest."
+    }
+  },
+  {
+    "translation": {
+      "en": "Monster species have dwindled under their swords.",
+      "it": "Ci sono sempre meno specie di mostri."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[murmuring] -They need coin.",
+      "it": "Hanno bisogno di soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Some have turned to mercenary work, others criminality.",
+      "it": "Alcuni sono diventati mercenari, altri dei criminali."
+    }
+  },
+  {
+    "translation": {
+      "en": "One even took a bounty on a cheating husband's head.",
+      "it": "E uno ha riscattato una taglia su un marito adultero."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you have evidence to prove your conspiracy?",
+      "it": "E hai le prove circa tale cospirazione?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or are we to merely bank on your magical intuition?",
+      "it": "O dobbiamo affidarci esclusivamente al tuo intuito magico?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's their natures, my lady.",
+      "it": "È la loro natura, mia signora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers are the offspring of foul sorcery.",
+      "it": "I witcher sono figli della magia nera."
+    }
+  },
+  {
+    "translation": {
+      "en": "Roaming our lands, voting themselves the stalkers of evil,",
+      "it": "Vagano per le nostre terre, si elevano a persecutori del male"
+    }
+  },
+  {
+    "translation": {
+      "en": "extorting coin from the gullible.",
+      "it": "ed estorcono soldi ai creduloni,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honest, simple peasants who ascribe all misfortune to spells and monsters.",
+      "it": "contadini onesti e semplici che incolpano fatture e mostri della cattiva sorte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mages create the witcher.",
+      "it": "Sono i maghi a creare i witcher,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then presume it's our duty to hold the bucket and mop up their brown mess.",
+      "it": "poi credono che spetti a noi pulire i loro escrementi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm with Lady Zerbst on this one.",
+      "it": "Io concordo con Lady Zerbst."
+    }
+  },
+  {
+    "translation": {
+      "en": "The witchers remain at Kaer Morhen.",
+      "it": "I witcher resteranno a Kaer Morhen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least until such time as evidence is provided",
+      "it": "almeno finché non ci saranno delle prove"
+    }
+  },
+  {
+    "translation": {
+      "en": "that supports your theory.",
+      "it": "a sostegno della tua teoria."
+    }
+  },
+  {
+    "translation": {
+      "en": "When a witcher inflicts pain,",
+      "it": "Quando un witcher infligge dolore,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he experiences ecstasy.",
+      "it": "prova pura estasi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[hooded figure] The creature's words are Ellyon.",
+      "it": "La creatura parla ellyon,"
+    }
+  },
+  {
+    "translation": {
+      "en": "A dead elven dialect linked to darker times.",
+      "it": "un dialetto elfico morto usato in tempi più bui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Few remember the ancient tongue. Fewer dare speak it.",
+      "it": "Pochi lo ricordano e ancor meno osano parlarlo."
+    }
+  },
+  {
+    "translation": {
+      "en": "But how a leshen would know it or be afraid of some den--",
+      "it": "Ma come potrebbe un lesny conoscerlo o essere spaventato da un antro…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never said it was afraid.",
+      "it": "Non ho detto che lo fosse."
+    }
+  },
+  {
+    "translation": {
+      "en": "You speak Ellyon, don't you, Filavandrel?",
+      "it": "Tu parli ellyon, vero, Filavandrel?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You witchers are desperate for coin. Turning to elves for leads on work.",
+      "it": "Voi witcher bramate davvero molto i soldi, tanto da chiedere nuove piste agli elfi."
+    }
+  },
+  {
+    "translation": {
+      "en": "These pleasures do not pay for themselves. What did the leshen say?",
+      "it": "Questi piaceri non si pagano da soli. - Cos'ha detto il lesny? - \"Attento all'antro dei miei morti.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Beware the den of my dead.\"",
+      "it": "- Cos'ha detto il lesny? - \"Attento all'antro dei miei morti.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. Things you don't wish to hear in a bath.",
+      "it": "Non è ciò che vorrei sentire mentre sono a mollo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you notice anything else unusual?",
+      "it": "Hai notato altro di insolito?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was an energy in the woods.",
+      "it": "C'era un'energia, nel bosco."
+    }
+  },
+  {
+    "translation": {
+      "en": "Some sort of magic, maybe. Controlling the leshen, bewitching it.",
+      "it": "Una specie di magia, forse, che controllava il lesny, che lo stregava."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your face?",
+      "it": "Perché quella faccia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over the last four summers, girls have been disappearing from our ranks.",
+      "it": "Nelle ultime quattro estati, le elfe sono uscite dalle nostre fila."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God, no elf drama.",
+      "it": "Oddio, niente drammi elfici."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] The first we feared were deserting us after the last cleansing.",
+      "it": "Temevamo ci stessero abbandonando dopo l'ultima purificazione,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But the disappearances haven't stopped. -Tragic, really. Very terrible.",
+      "it": "ma poi sono continuate a sparire. Tragico. Davvero terribile."
+    }
+  },
+  {
+    "translation": {
+      "en": "One of the first to vanish was a young mage, Kitsu.",
+      "it": "Una delle prime a sparire fu una giovane maga, Kitsu."
+    }
+  },
+  {
+    "translation": {
+      "en": "She spoke Ellyon. We should return to these forests.",
+      "it": "Parlava ellyon. Dovremmo tornare in queste foreste."
+    }
+  },
+  {
+    "translation": {
+      "en": "See, I'm a monster hunter, Fil,",
+      "it": "Io sono un cacciatore di mostri,"
+    }
+  },
+  {
+    "translation": {
+      "en": "not an elf wrangler, not even the murderous ones, but good luck.",
+      "it": "non un mandriano di elfi, neanche quelli assassini. Buona fortuna."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] A favor to a friend, then?",
+      "it": "Te lo chiedo come favore per un amico."
+    }
+  },
+  {
+    "translation": {
+      "en": "[witcher] Favors and friends don't pay bills.",
+      "it": "I favori e gli amici non ti danno di che vivere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Quite the opposite.",
+      "it": "Il contrario, anzi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] You've really no shame.",
+      "it": "Non hai alcuna vergogna."
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a reputation and a healthy estimation of my talent's worth.",
+      "it": "Ho una reputazione e una sana stima del mio talento."
+    }
+  },
+  {
+    "translation": {
+      "en": "My apologies for trying to save you from a wasted winter at Kaer Morhen.",
+      "it": "Scusami per aver provato a salvarti da un inverno sprecato a Kaer Morhen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Wasted?",
+      "it": "Sprecato?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, there's drinking, eating, sleeping. All free.",
+      "it": "Mi pare che ci sia da bere, da mangiare e da dormire, tutto gratis."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] And the training of another greedy gang of young witchers.",
+      "it": "E l'addestramento di un'altra avida banda di giovani witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I leave that to my peers.",
+      "it": "Che se ne occupino gli altri."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine if you witchers labored for more than just thrill and coin.",
+      "it": "Chissà come sarebbe se voi witcher non lavoraste soltanto per l'adrenalina e per i soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine if you elves wielded your swords -as well as you do guilt. -[cloak rustling]",
+      "it": "E se voi elfi usaste le vostre spade allo stesso modo del senso di colpa."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Please! Get them!",
+      "it": "- Vi prego! - Prendili!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Vesemir, get over here!",
+      "it": "Vesemir, vieni qui!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman muttering incoherently] Where do… Hey! They must go!",
+      "it": "Vi prego. Devono andarsene!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now they're nibbling. No! [giggles]",
+      "it": "Ora mordicchiano. No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Licking. Ooh! They're licking.",
+      "it": "E leccano. Stanno leccando."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughing] Oh! Tongues! -[men grunting]",
+      "it": "Lingue!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] No! Aah! -Vesemir!",
+      "it": "- No! - Vesemir! No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told you, double knots! -I did, Father. Just as you showed. -[woman wailing]",
+      "it": "- Dovevi fare dei doppi nodi. - Ho fatto come mi hai mostrato, padre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's see if the boy can handle fetching a wet cloth.",
+      "it": "Vediamo se riesce a prendere un panno bagnato."
+    }
+  },
+  {
+    "translation": {
+      "en": "A lesser man would sell your boy to another family.",
+      "it": "Se non fossi un brav'uomo, venderei tuo figlio."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Yes, sir.",
+      "it": "Sì, signore."
+    }
+  },
+  {
+    "translation": {
+      "en": "At least my son proves a measure of your generous character.",
+      "it": "Almeno mio figlio dimostra quanto siete generoso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Head to the market. We will need blue gum to sedate our lady.",
+      "it": "Va' al mercato. Servirà dell'eucalipto di Velen per sedarla."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] No! -Try not to cock it up.",
+      "it": "- No! - E non rovinare tutto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please stop! Please make it stop! -[man] No. -[woman] No!",
+      "it": "Basta! Fate che smetta! No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop fidgeting!",
+      "it": "Smettila di agitarti!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Poor Illyana. I didn't even have to take a shot.",
+      "it": "Povera Illyana. Non ho neanche dovuto colpirti io."
+    }
+  },
+  {
+    "translation": {
+      "en": "Moron! You could've killed me.",
+      "it": "Che idiota! Potevi uccidermi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Here to bother me?",
+      "it": "Vuoi infastidirmi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Lord insisted I look after you in the market.",
+      "it": "Il Signore vuole che badi a te al mercato."
+    }
+  },
+  {
+    "translation": {
+      "en": "Seemed rather pissed.",
+      "it": "Sembrava piuttosto arrabbiato."
+    }
+  },
+  {
+    "translation": {
+      "en": "We slave away all day long, getting shout at,",
+      "it": "Passiamo tutto il giorno a farci urlare ordini"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the only coin we get is when we're sent to fetch them goods.",
+      "it": "e ci danno dei soldi solo quando ci mandano a fare compere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just be happy you have a roof over your head and your belly's not empty.",
+      "it": "Sii felice di avere un tetto sulla testa e la pancia piena."
+    }
+  },
+  {
+    "translation": {
+      "en": "Barely a roof, barely not empty. Just enough to keep us here breathing.",
+      "it": "Non esageriamo. Ci danno quanto basta per tenerci in vita."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[horse whines] -[Illyana] Fine.",
+      "it": "E va bene."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's the world. What would you buy if you had all its coin?",
+      "it": "Ecco il mondo. Cosa compreresti, se avessi tutti i suoi soldi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would get the hell out of this village and travel the continent.",
+      "it": "Me ne andrei da qui e girerei tutto il Continente."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Adventure? -Of course.",
+      "it": "- Avventura? - Naturalmente."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Glory? -Oh, yes!",
+      "it": "- Gloria? - Oh, sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "Girls?",
+      "it": "Ragazze?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd buy a gorgeous lake house.",
+      "it": "Io comprerei una splendida casa sul lago."
+    }
+  },
+  {
+    "translation": {
+      "en": "My handsome husband and I would picnic and drink wine by the water",
+      "it": "Io e il mio bel marito faremmo un picnic e berremmo vino a riva"
+    }
+  },
+  {
+    "translation": {
+      "en": "as our children played jacks nearby.",
+      "it": "mentre i nostri figli giocano agli aliossi."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what we should do?",
+      "it": "Sai cosa dovremmo fare?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should take this coin and buy honey cake.",
+      "it": "Usare questi per una torta al miele."
+    }
+  },
+  {
+    "translation": {
+      "en": "And how will our lady get her herbs?",
+      "it": "E come compreremo le erbe per la signora?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! Thief!",
+      "it": "Fermo! Al ladro!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey! -[child laughs]",
+      "it": "Ehi! È di nuovo lì!"
+    }
+  },
+  {
+    "translation": {
+      "en": "This way!",
+      "it": "Di qua!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh! -[woman] Stop him!",
+      "it": "Fermatelo!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[growls] Nutcase.",
+      "it": "Questo è pazzo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Save some for me!",
+      "it": "Lasciamene un po'!"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, it worked. [chuckles]",
+      "it": "Visto? Ha funzionato."
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew it would.",
+      "it": "Ne ero sicuro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] In Nilfgaard,",
+      "it": "A Nilfgaard,"
+    }
+  },
+  {
+    "translation": {
+      "en": "they'd cut your thieving hands right off.",
+      "it": "ti avrebbero tagliato quelle mani da ladruncolo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make you wear 'em round your neck for weeks.",
+      "it": "e te le avrebbero appese al collo per settimane."
+    }
+  },
+  {
+    "translation": {
+      "en": "Smart trick.",
+      "it": "Bel trucchetto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Odd loot.",
+      "it": "Strano bottino, però."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who you got who's sick?",
+      "it": "Chi è che sta male?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd a girl find balls like that in an alley wi' a man like me?",
+      "it": "Dove trovi le palle di affrontare uno come me in un vicolo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I steal them from smelly cowards who try to bully young ladies.",
+      "it": "Le rubo ai codardi puzzolenti che cercano di maltrattare le signorine."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "it": "- Chi sei? - Un filantropo,"
+    }
+  },
+  {
+    "translation": {
+      "en": "A humanitarian, whose well-meaning ears have heard of a local lady",
+      "it": "- Chi sei? - Un filantropo, le cui orecchie ben intenzionate hanno sentito parlare di una donna di qui"
+    }
+  },
+  {
+    "translation": {
+      "en": "-lost to madness and fever… -[gags] …seeing horrors that aren't really there.",
+      "it": "in preda al delirio della febbre e a orribili allucinazioni."
+    }
+  },
+  {
+    "translation": {
+      "en": "That blue gum will certainly ease the affliction, but, uh…",
+      "it": "Quell'eucalipto di Velen allevierà la sofferenza,"
+    }
+  },
+  {
+    "translation": {
+      "en": "a sword would kill it.",
+      "it": "ma una spada la eliminerebbe."
+    }
+  },
+  {
+    "translation": {
+      "en": "Name's Deglan.",
+      "it": "Mi chiamo Deglan,"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're gonna take me to your noblewoman.",
+      "it": "e voi mi porterete dalla vostra nobildonna,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or I'm taking you two pests back to the market.",
+      "it": "altrimenti vi riporto al mercato, piccoli parassiti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] A demon plagues this woman. A mahr.",
+      "it": "Questa donna è posseduta da un demone. Un alp."
+    }
+  },
+  {
+    "translation": {
+      "en": "Puts you down with horrid delusions and feeds off your madness.",
+      "it": "Ti affligge con orride allucinazioni e si nutre della tua follia."
+    }
+  },
+  {
+    "translation": {
+      "en": "Meteorite ore disrupts the demon's magic,",
+      "it": "Il minerale stellare blocca la magia del demone e ci permette"
+    }
+  },
+  {
+    "translation": {
+      "en": "so it can be… removed.",
+      "it": "Il minerale stellare blocca la magia del demone e ci permette di rimuoverlo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Out. Now. All of you.",
+      "it": "Fuori. Subito. Tutti voi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd like to remain.",
+      "it": "Io vorrei restare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your boy's likely seen a monster or two in his time, no?",
+      "it": "Tuo figlio avrà visto un paio di mostri, no?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oof! -[Deglan] I'll be casting the spell.",
+      "it": "Lancerò io l'incantesimo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] -It's on you to catch the critter.",
+      "it": "Tu, invece, prendi la bestiolina."
+    }
+  },
+  {
+    "translation": {
+      "en": "But I thought a witcher slays monsters?",
+      "it": "Ma i witcher non uccidono i mostri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] To slay a beast,",
+      "it": "Per uccidere una bestia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "you've first got to understand it.",
+      "it": "devi prima capirla."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman groaning] -Study it.",
+      "it": "Studiarla."
+    }
+  },
+  {
+    "translation": {
+      "en": "Find its weakness.",
+      "it": "Trovare la sua debolezza."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want this sucker alive and kicking.",
+      "it": "Questa stronza la voglio viva e vegeta."
+    }
+  },
+  {
+    "translation": {
+      "en": "If possible.",
+      "it": "Se possibile."
+    }
+  },
+  {
+    "translation": {
+      "en": "Steady, young fella.",
+      "it": "Sta' fermo, giovanotto."
+    }
+  },
+  {
+    "translation": {
+      "en": "And he asked to stay.",
+      "it": "Hai chiesto tu di restare."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Never let 'em get in your head.",
+      "it": "Non farli mai entrare nella tua testa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Better dead than fled.",
+      "it": "Meglio ucciderli che lasciarli scappare."
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll always be another monster.",
+      "it": "Ci sarà sempre un altro mostro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Vesemir.",
+      "it": "Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fetch warm water.",
+      "it": "Prendi dell'acqua calda."
+    }
+  },
+  {
+    "translation": {
+      "en": "My head…",
+      "it": "La mia testa…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my head hurts wildly.",
+      "it": "La testa mi scoppia."
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice weight, isn't it?",
+      "it": "È un bel gruzzolo, eh?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much you suppose the job cost that prick master of yours?",
+      "it": "Quanto pensi che sia costato a quello stronzo del tuo padrone?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fear and ignorance are good business.",
+      "it": "La paura e l'ignoranza pagano bene."
+    }
+  },
+  {
+    "translation": {
+      "en": "For your service, young fella.",
+      "it": "Per il tuo servizio, giovanotto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Take me with you.",
+      "it": "Portami con te."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not many boys seek to be witchers.",
+      "it": "Pochi ragazzi vogliono diventare dei witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Even fewer seek a life of fetching bedpans and water.",
+      "it": "Ancora meno sognano una vita da sguatteri."
+    }
+  },
+  {
+    "translation": {
+      "en": "And the girl?",
+      "it": "E la ragazza?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your blue-eyed lass?",
+      "it": "Quella dagli occhi blu."
+    }
+  },
+  {
+    "translation": {
+      "en": "You hesitated back with the mahr too.",
+      "it": "Hai esitato anche con l'alp, prima."
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers do not hesitate.",
+      "it": "Un witcher non deve esitare mai."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop! -Are you going to enjoy the day?",
+      "it": "- Smettila. - Ti godrai la giornata?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or are you still too shook from your daring night of monster-slaying?",
+      "it": "O sei ancora scosso dopo l'audace notte passata a uccidere mostri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was your first time, Vesemir.",
+      "it": "Era la tua prima volta, Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me for wanting to be good at something other than serving.",
+      "it": "Scusami tanto se non voglio essere bravo solo come servo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I can see it now.",
+      "it": "Oh, sì, già ti ci immagino."
+    }
+  },
+  {
+    "translation": {
+      "en": "You, adorned in battle armor, steel and silver swords,",
+      "it": "Tu, con indosso l'armatura da battaglia, spade d'acciaio e argento,"
+    }
+  },
+  {
+    "translation": {
+      "en": "saving the continent from kikamores, ghouls, and mad sorcerers.",
+      "it": "che salvi il Continente da kikamore, ghoul e maghi pazzi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Evil would tremble.",
+      "it": "Il male dovrebbe temerti!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stylish armor, by the way. -Imagine it however you like.",
+      "it": "- Un'elegante armatura alla moda. - Immaginatela come vuoi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only way people like us survive is to dream of ourselves as something else.",
+      "it": "L'unico modo per sopravvivere è sognare di essere qualcos'altro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who knows? Perhaps someday I'll be a princess who commands the snow.",
+      "it": "Chissà, magari un giorno sarò una principessa padrona della neve."
+    }
+  },
+  {
+    "translation": {
+      "en": "Vesemir, I was only jesting. You find our fates funny?",
+      "it": "- Vesemir, stavo scherzando. - Trovi divertenti le nostre sorti?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why should I be meek and penniless like my father? Or you like your mother?",
+      "it": "Perché dovrei essere umile e squattrinato come mio padre? O tu come tua madre?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's got you so silly? -You wouldn't understand.",
+      "it": "- Ma che ti prende, adesso? - Non capiresti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Vesemir, out there, we're nothing.",
+      "it": "Per il mondo noi non siamo niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Less than nothing.",
+      "it": "Meno di niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "At least here, at the estate, we have station.",
+      "it": "Almeno qui abbiamo una posizione."
+    }
+  },
+  {
+    "translation": {
+      "en": "And if I could take care of you?",
+      "it": "E se potessi prendermi io cura di te?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The coin that witcher made last night, you should've saw it.",
+      "it": "Avresti dovuto vedere quanti soldi ha guadagnato quel witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd get you your lake house, all your wine. Anything and everything.",
+      "it": "Potrei comprarti la tua casa sul lago, tutto il vino che vuoi, qualsiasi cosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yours.",
+      "it": "Sarebbe tutto tuo."
+    }
+  },
+  {
+    "translation": {
+      "en": "So trade my debt to a master I hate with a debt to one that I love?",
+      "it": "Dovrei trasferire il mio debito da un padrone che odio a uno che amo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, Illyana! Stay!",
+      "it": "Aspetta, Illyana. Non andartene!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You stay.",
+      "it": "Non farlo tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lord Vesemir, my new best friend.",
+      "it": "Lord Vesemir, il mio nuovo migliore amico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Crossed a leshen on my way here. So we've heard.",
+      "it": "- Ho beccato un lesny, per strada. - Abbiamo saputo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Meanwhile, I barely made enough this year",
+      "it": "Io posso a malapena permettermi un prostituto impotente,"
+    }
+  },
+  {
+    "translation": {
+      "en": "to score a night with a limp-pricked man-whore.",
+      "it": "Io posso a malapena permettermi un prostituto impotente, coi miei guadagni."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your woes break me, Luka.",
+      "it": "Le tue pene mi addolorano, Luka."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luka] Then we've got Sven here bringing back new recruits.",
+      "it": "Poi c'è Sven, che continua a portare nuove reclute."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bad enough we're putting ourselves out of business with every monster we kill.",
+      "it": "Peccato che accorciamo la nostra carriera a ogni mostro che uccidiamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now there'll be even more of us.",
+      "it": "E ora saremo ancora di più."
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Not my fault people make more kids than coin.",
+      "it": "Non è colpa mia se la gente fa più figli che soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Also, short a man-whore?",
+      "it": "E poi, sei a corto di un prostituto?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go fuck yourself.",
+      "it": "Vai a farti fottere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Aren't you \"short\" everything?",
+      "it": "Tu non sei corto in tutto?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boys, monsters will fuck through the winter,",
+      "it": "Ragazzi, i mostri scoperanno durante l'inverno,"
+    }
+  },
+  {
+    "translation": {
+      "en": "then come spring, there'll be jobs from here to Nazair.",
+      "it": "e poi saremo pieni di lavoro da qui a Nazair."
+    }
+  },
+  {
+    "translation": {
+      "en": "Until then, I say we perk up, drink up,",
+      "it": "Fino alla primavera, ci tireremo un po' su, berremo"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you two focus on breaking these brats into the world of witchering.",
+      "it": "e voi due introdurrete questi mocciosi nel mondo dei witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] \"Witchers are rogues without virtue.\"",
+      "it": "\"I witcher sono furfanti senza virtù,"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"True diabolical creatures, fit only for killing.\"",
+      "it": "creature diaboliche buone solo a uccidere."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"There is no place amidst honest men for them.\"",
+      "it": "Non c'è posto per loro tra gli uomini onesti.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "My, my. How do you find this rubbish?",
+      "it": "Cielo, dove hai trovato questa spazzatura?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few of the boys spotted 'em posted about towns on their way back.",
+      "it": "Alcuni dei ragazzi li hanno visti durante il viaggio fin qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Tetra Gilcrest.\" Sounds like a botanist.",
+      "it": "\"Tetra Gilcrest.\" Sembra una botanica."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] A purist.",
+      "it": "Una purista."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rambles about being a descendant of the first human mage.",
+      "it": "Farnetica circa il suo essere la discendente del primo mago umano."
+    }
+  },
+  {
+    "translation": {
+      "en": "Would it have vexed you to bury that lad's sisters?",
+      "it": "Potevi seppellire le sorelle del ragazzo."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're feeding fodder to arses like Gilcrest.",
+      "it": "Così dai a Gilcrest pane per i suoi denti."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a wyvern tooth, not a basilisk. I'll mix and match as I please.",
+      "it": "- È un dente di viverna, non di basilisco. - Non sono affari tuoi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Look.",
+      "it": "Senti."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know me and children. -Get over it, young fella.",
+      "it": "- Sai come sono coi bambini. - Fattene una ragione."
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause you're teaching fencing to the recruits.",
+      "it": "Insegnerai scherma alle reclute."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Am I being punished? -I'm down two dozen witchers this winter.",
+      "it": "- Mi vuoi punire? - Quest'inverno ho perso 24 witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wimps found employ in other more lucrative nonsense.",
+      "it": "Quei rammolliti hanno deciso di occuparsi di scemenze più redditizie."
+    }
+  },
+  {
+    "translation": {
+      "en": "So we'll all be slogging more weight.",
+      "it": "Quindi dovremo tutti faticare di più."
+    }
+  },
+  {
+    "translation": {
+      "en": "A wonderful winter of abandoned little tragedies.",
+      "it": "Un meraviglioso inverno con tristi mocciosi abbandonati."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lovely.",
+      "it": "Perfetto."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Now, this leshen.",
+      "it": "Ora, parlami di questo lesny."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me you've considered the thing was bewitched.",
+      "it": "Dimmi che hai pensato che potesse essere stregato."
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] I'm not a dullard.",
+      "it": "Non sono un cretino."
+    }
+  },
+  {
+    "translation": {
+      "en": "A croon could pull that feat.",
+      "it": "Poteva essere opera d'un sortilegio."
+    }
+  },
+  {
+    "translation": {
+      "en": "A higher vampire, definitely.",
+      "it": "Un vampiro superiore, sicuramente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or it could be a new breed of leshen.",
+      "it": "O magari una nuova razza di lesny."
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, just elves airing their usual dirty trousers of victimhood.",
+      "it": "Secondo me era solo opera degli elfi che facevano le vittime come sempre."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan scoffs] Shame.",
+      "it": "Che peccato."
+    }
+  },
+  {
+    "translation": {
+      "en": "A few new beasts would be… good for business.",
+      "it": "Delle nuove bestie gioverebbero agli affari."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Why'd the witcher not handle this?",
+      "it": "Perché non se n'è occupato il witcher?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Lies and conspiracy. -[woman 1] Look away from the faces.",
+      "it": "- Bugie e cospirazione. - Non guardate le facce."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 2] I'd heard the leshen'd been killed.",
+      "it": "Io sapevo che il lesny era stato ucciso."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] A whiff of basilisk breath could snuff out ten strong men.",
+      "it": "Una zaffata d'alito di basilisco potrebbe uccidere dieci uomini forti."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Did you find the creature's body?",
+      "it": "Hai trovato il corpo della creatura?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A witcher would need proof to collect his coin.",
+      "it": "A un witcher servono delle prove per ottenere il suo soldo."
+    }
+  },
+  {
+    "translation": {
+      "en": "And yet… At least help me persuade the king",
+      "it": "- Eppure… - Almeno aiutatemi a convincere il Re."
+    }
+  },
+  {
+    "translation": {
+      "en": "to send an envoy to Kaer Morhen to investigate, please.",
+      "it": "Deve mandare un inviato a Kaer Morhen per indagare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your acolytes have played to people's fears well enough.",
+      "it": "I tuoi accoliti hanno già fatto leva sulle paure della gente."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mere act of sending an envoy would indict the witchers,",
+      "it": "Mandare un inviato incriminerebbe i witcher,"
+    }
+  },
+  {
+    "translation": {
+      "en": "whatever the truth.",
+      "it": "anche se fossero innocenti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know what's involved in making a witcher?",
+      "it": "Sapete come si diventa witcher?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The horrors done to their recruits?",
+      "it": "Gli orrori perpetrati alle reclute,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Boys no older than your orphans here. -[children laughing]",
+      "it": "ragazzi non più grandi dei vostri orfani?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your late husband would've understood this. I was an ardent admirer of Lord Zerbst.",
+      "it": "Il vostro defunto marito l'avrebbe capito. Ero una grande ammiratrice di Lord Zerbst."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was open-minded.",
+      "it": "Aveva una mentalità aperta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Forward-thinking.",
+      "it": "Era lungimirante."
+    }
+  },
+  {
+    "translation": {
+      "en": "Married you, after all.",
+      "it": "Ha sposato voi, dopotutto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Careful, Tetra.",
+      "it": "Sta' attenta, Tetra."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or be quiet.",
+      "it": "Oppure sta' zitta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kaedwen's laws grant a widow her husband's seat at court.",
+      "it": "Le leggi di Kaedwen concedono a una vedova il posto di suo marito a corte,"
+    }
+  },
+  {
+    "translation": {
+      "en": "The laws say nothing about erasing what she once was.",
+      "it": "ma non dicono di dimenticare chi fosse prima."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, how fortunate, my lady, that few have wished to press the issue.",
+      "it": "Per fortuna in pochi hanno insistito perché così fosse, mia signora."
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't fed us in days!",
+      "it": "Non ci dai cibo da giorni,"
+    }
+  },
+  {
+    "translation": {
+      "en": "We ain't given sleep, can barely stand up.",
+      "it": "non possiamo dormire e stiamo in piedi a fatica!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you got us playing with swords?",
+      "it": "E ora ci fai giocare con le spade?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't wish to be here any more than you do.",
+      "it": "Neanche a me fa piacere stare qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll hazard a guess.",
+      "it": "Azzardo un'ipotesi."
+    }
+  },
+  {
+    "translation": {
+      "en": "You all imagine there are better fates for you out there in the world.",
+      "it": "Voi tutti immaginate che vi aspetti poi una sorte migliore,"
+    }
+  },
+  {
+    "translation": {
+      "en": "But out there, you have nothing.",
+      "it": "ma fuori di qui non avete niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "But here, we offer strength.",
+      "it": "Qui, invece, vi diamo la forza."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[boy grunts] -Purpose.",
+      "it": "Uno scopo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Respect.",
+      "it": "Il rispetto."
+    }
+  },
+  {
+    "translation": {
+      "en": "A chance at surviving the very horrors waiting out there.",
+      "it": "La possibilità di sopravvivere agli orrori che vi attendono."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't want that, then this…",
+      "it": "Se non è ciò che volete, però…"
+    }
+  },
+  {
+    "translation": {
+      "en": "is wasted on you.",
+      "it": "è tutta fatica sprecata."
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] \"And if you don't want that,",
+      "it": "\"Se non è ciò che volete, però,"
+    }
+  },
+  {
+    "translation": {
+      "en": "then this is wasted on ya.\"",
+      "it": "è tutta fatica sprecata.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Ugh. That dorbel's full of shit.",
+      "it": "Quel bastardo dice solo stronzate."
+    }
+  },
+  {
+    "translation": {
+      "en": "Master Deglan's preparing us for the Path. -Better hardship here than out there. -[door opens]",
+      "it": "Il maestro Deglan ci prepara alla Pista. Meglio avere difficoltà qui che fuori."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, there's a freeze tonight.",
+      "it": "Stasera si congela."
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut up and steal what sleep you can.",
+      "it": "Non frignare e dormi, finché puoi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, don't mind Tomas. Law of Surprise.",
+      "it": "Non badare a Tomas. È la Legge della Sorpresa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't know he belonged to the witchers till one came knocking.",
+      "it": "Non sapeva di appartenere ai witcher finché non l'hanno preso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Law of Surprise?",
+      "it": "E che legge è?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] Fancy name for when you can't pay a witcher. Give 'em your kid.",
+      "it": "Prevede l'offrire il proprio figlio se non si può pagare un witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Were you sold, or did you volunteer?",
+      "it": "Tu sei stato venduto o sei venuto da te?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] Uh, my folks dumped me here. Like most.",
+      "it": "I miei mi hanno mollato qui, come quasi tutti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who chooses to be in this pigsty?",
+      "it": "Chi sceglie di stare in questo porcile?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't be so scared. -They're…",
+      "it": "Non avere paura. Loro ci…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They're going to poison us. -Who?",
+      "it": "- Ci stanno avvelenando. - Ma chi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] There are mages here.",
+      "it": "Ci sono dei maghi, qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Old ones.",
+      "it": "Maghi antichi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Making witchers, they… They'll kill us. Then bring us back, but…",
+      "it": "Per renderci dei witcher ci uccideranno, poi ci riporteranno in vita,"
+    }
+  },
+  {
+    "translation": {
+      "en": "we won't be normal.",
+      "it": "ma non saremo più normali."
+    }
+  },
+  {
+    "translation": {
+      "en": "-They call it-- -The Trial of the Grasses. I know.",
+      "it": "- La chiamano… - La Prova delle Erbe. Lo so."
+    }
+  },
+  {
+    "translation": {
+      "en": "I get scared too.",
+      "it": "Anch'io ho paura."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I think, \"Soon, I'll be out on the Path,",
+      "it": "Poi penso: \"Presto sarò sulla Pista,"
+    }
+  },
+  {
+    "translation": {
+      "en": "stronger than most anyone, wanting for nothing.\"",
+      "it": "più forte di chiunque altro, e non desidererò altro\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll never be scared again.",
+      "it": "Non avrò paura mai più."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll come out the Trials better than normal, Tomas.",
+      "it": "Dopo le Prove non sarai normale, Tomas. Sarai meglio."
+    }
+  },
+  {
+    "translation": {
+      "en": "On my word.",
+      "it": "Ti do la mia parola."
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the… -[boy] It's Vesemir!",
+      "it": "- Ma che… - È Vesemir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir groans] What's happened? Where are we?",
+      "it": "Cos'è successo? Dove siamo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Quiet. My pa used to talk about this place.",
+      "it": "Parla piano. Mio padre mi parlava di questo posto."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the Red Swamp.",
+      "it": "È la Palude Rossa."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's cursed.",
+      "it": "È maledetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's crawling with evil spirits and beasts.",
+      "it": "È piena di spiriti maligni e bestie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Griffins.",
+      "it": "Grifoni."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a test.",
+      "it": "È una prova."
+    }
+  },
+  {
+    "translation": {
+      "en": "Like all the others.",
+      "it": "Come tutte le altre. Sulla Pista,"
+    }
+  },
+  {
+    "translation": {
+      "en": "On the Path, a witcher's first instinct is to survive.",
+      "it": "Come tutte le altre. Sulla Pista, il primo istinto di un witcher è sopravvivere."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's about wits, not swords.",
+      "it": "Serve l'ingegno, non la spada."
+    }
+  },
+  {
+    "translation": {
+      "en": "We follow the moon until we're clear.",
+      "it": "Seguiamo la luna per allontanarci da qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "If there's a monster close, your medallion will--",
+      "it": "Se c'è un mostro, il vostro medaglione…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Wraiths! -[Vesemir] Keep calm!",
+      "it": "Spettri! State calmi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay together!",
+      "it": "Restiamo uniti!"
+    }
+  },
+  {
+    "translation": {
+      "en": "This way.",
+      "it": "Per di qua."
+    }
+  },
+  {
+    "translation": {
+      "en": "The medallions sometimes sense the bestiary.",
+      "it": "I medaglioni, a volte, percepiscono la sala delle creature."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Especially when it's full. -[Vesemir] You're one of them.",
+      "it": "Soprattutto quando è piena. Sei uno di loro."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mages Tomas mentioned who make witchers.",
+      "it": "I maghi di cui parlava Tomas, quelli che creano i witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't look ancient.",
+      "it": "Non sembri così vecchio."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, mages age quite slowly. Witchers do too.",
+      "it": "I maghi invecchiano molto lentamente. E anche i Witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Gives us both decades to hone our respective skills.",
+      "it": "Così abbiamo decenni per affinare le rispettive abilità."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Trials are only part -of my duty, though. -[snarling]",
+      "it": "Ma le Prove sono solo una parte del mio dovere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't fear.",
+      "it": "Non temere."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's merely a side effect of its hybrid genes.",
+      "it": "È solo un effetto collaterale dei suoi geni ibridi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Krallachs. [chuckles]",
+      "it": "È un Krallach."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've identified three different species in this specimen's makeup.",
+      "it": "Ho identificato tre specie diverse in questo esemplare."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -It's a nasty little crossbreed.",
+      "it": "È un gran brutto ibrido."
+    }
+  },
+  {
+    "translation": {
+      "en": "Master Deglan said monsters can't mate with other species.",
+      "it": "Il maestro Deglan dice che i mostri non possono accoppiarsi con altre specie."
+    }
+  },
+  {
+    "translation": {
+      "en": "True. Though they can be engineered.",
+      "it": "Ed è vero. Ma gli incroci possono essere progettati."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine an army of beasts designed to wipe out the elves and the Old Races",
+      "it": "Immagina un esercito di bestie create per annientare gli elfi e le Razze Antiche"
+    }
+  },
+  {
+    "translation": {
+      "en": "to secure land and food.",
+      "it": "e appropriarsi della terra e del cibo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The alchemy was…",
+      "it": "L'alchimia, tuttavia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "inelegant, though.",
+      "it": "non era perfetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Most crossbreeds died instantly.",
+      "it": "La maggior parte degli ibridi morì all'istante."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Mages made monsters, then made witchers to kill them?",
+      "it": "I maghi hanno creato i mostri e poi i witcher per ucciderli?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[mage] Today, my mages and I guard the secrets to such mutagenic alchemy,",
+      "it": "Oggi, io e i miei maghi proteggiamo i segreti di tale alchimia mutagena"
+    }
+  },
+  {
+    "translation": {
+      "en": "preventing further abuse.",
+      "it": "per scongiurare ulteriori abusi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Reidrich, by the way.",
+      "it": "Sono Reidrich, comunque."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Are you daft, Reidrich?",
+      "it": "Ma sei scemo, Reidrich?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A witcher deserves to understand its place in history.",
+      "it": "Un witcher merita di capire il suo posto nella storia."
+    }
+  },
+  {
+    "translation": {
+      "en": "A rider came while you were licking your wounds. Left a letter for ya.",
+      "it": "Ti hanno recapitato una lettera, mentre ti leccavi le ferite."
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you know that Tomas and the others would die in the swamp?",
+      "it": "Sapevi che gli altri sarebbero morti nella palude?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a numbers game, young fella.",
+      "it": "È una questione di probabilità."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[faint growling] -[Vesemir] How many survive these Trials?",
+      "it": "Quanti sopravvivono a queste Prove?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Depends. How many are witchers?",
+      "it": "Dipende. Quanti di loro sono witcher?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Letter's by your cot. Read it now, before I burn it.",
+      "it": "La lettera è sulla tua branda. Leggila prima che la bruci."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Illyana] \"Vesemir.\"",
+      "it": "Vesemir,"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Your thoughts are likely far from here, so I will be brief.\"",
+      "it": "probabilmente avrai altri pensieri, quindi sarò breve."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Your father is dead.\"",
+      "it": "Tuo padre è morto."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Kaedwen took our village",
+      "it": "Kaedwen ha attaccato il villaggio."
+    }
+  },
+  {
+    "translation": {
+      "en": "and he was killed while helping the lord and lady escape, -both of whom were also slain.\" -[child yelling]",
+      "it": "È stato ucciso mentre aiutava i padroni a fuggire, e così anche loro."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[wailing] -\"Do not return home, Vesemir,",
+      "it": "Non tornare a casa, Vesemir,"
+    }
+  },
+  {
+    "translation": {
+      "en": "if this were ever that to you.\"",
+      "it": "se era questa la tua intenzione."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I hope you have found warmth and comfort in this brittle world",
+      "it": "Spero tu abbia trovato calore e conforto in questo fragile mondo,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that the world is being kind to you, and most of all, fair.\"",
+      "it": "e che quest'ultimo sia gentile e, soprattutto, giusto, con te."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"For me, a noble family from Kaedwen has claimed me theirs.\"",
+      "it": "Io, comunque, sono stata rivendicata da una famiglia nobile di Kaedwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"They are kinder masters.\"",
+      "it": "Sono dei padroni più buoni."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"They let me paint and show me how to read words, as well as write a few.\"",
+      "it": "Mi fanno dipingere e mi hanno insegnato a leggere e anche a scrivere."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I am well-fed and at peace.\"",
+      "it": "Mi danno da mangiare e sono serena."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"There was little to miss in our burnt-out town,",
+      "it": "Del villaggio restava ben poco di cui avere nostalgia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and our snowball fights and alleyway desserts",
+      "it": "e le nostre lotte di palle di neve e i dolci nei vicoli"
+    }
+  },
+  {
+    "translation": {
+      "en": "are heavy memories I now happily lay to rest.\"",
+      "it": "sono ricordi pesanti che ora posso felicemente archiviare."
+    }
+  },
+  {
+    "translation": {
+      "en": "[echoing] \"Find your rebirth, Vesemir,",
+      "it": "Rinasci anche tu, Vesemir,"
+    }
+  },
+  {
+    "translation": {
+      "en": "free of past burdens and hurts.\"",
+      "it": "libero da fardelli e ferite passate."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"And yes,",
+      "it": "E sì,"
+    }
+  },
+  {
+    "translation": {
+      "en": "free of me.\"",
+      "it": "libero da me."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"It is best that way.\"",
+      "it": "È meglio così."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Live and love well.\"",
+      "it": "Vivi e ama bene."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Illyana.\"",
+      "it": "Illyana."
+    }
+  },
+  {
+    "translation": {
+      "en": "Right. So, who wishes to ride and get blitzed somewhere nice and quiet?",
+      "it": "Allora, chi vuole andare a ubriacarsi in un posto bello e tranquillo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] We stay and see who survives. [scoffs] That could take days.",
+      "it": "- Restiamo e vediamo chi sopravvive. - Potrebbero volerci giorni."
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll be Eskel, Lambert,",
+      "it": "Forse sarà Eskel, o Lambert."
+    }
+  },
+  {
+    "translation": {
+      "en": "maybe Remus.",
+      "it": "Magari Remus."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, can we please go get right properly drunk?",
+      "it": "Ora possiamo andare a ubriacarci come si deve?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luka] Oh, let them sulk.",
+      "it": "Lascia stare questi musoni."
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll drink.",
+      "it": "Andiamo noi due."
+    }
+  },
+  {
+    "translation": {
+      "en": "The midwife almost fainted when I came for my payment.",
+      "it": "La levatrice è quasi svenuta, quando sono andato a farmi pagare."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman giggling] -I looked an awful terror, red and sticky,",
+      "it": "Avevo un aspetto terribile, tutto sporco di sangue e appiccicoso, ma fa parte del lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "but, you know, that's the job.",
+      "it": "tutto sporco di sangue e appiccicoso, ma fa parte del lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] And the striga? Was she cured?",
+      "it": "E la strige è poi guarita?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Yes. Yes, of course.",
+      "it": "Sì, certo."
+    }
+  },
+  {
+    "translation": {
+      "en": "We need more before the next tale.",
+      "it": "Ci serve altro alcol per la prossima storia."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, that midwife should've hired a better savior. A man of virtue and honor.",
+      "it": "Quella levatrice avrebbe dovuto assumere un salvatore migliore, un uomo d'onore."
+    }
+  },
+  {
+    "translation": {
+      "en": "A real man.",
+      "it": "Un uomo vero."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a mutant.",
+      "it": "Non un mutante."
+    }
+  },
+  {
+    "translation": {
+      "en": "Are knights being schooled in striga curses now?",
+      "it": "Ora i cavalieri studiano pure le fatture delle strige?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd that lesson fit? Between learning curtsy and joust?",
+      "it": "Le imparano tra le riverenze e i tornei?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all here for a little drink and non-violent fun.",
+      "it": "Siamo tutti qui per bere e divertirci in modo non violento."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this the \"your kind\" bit?",
+      "it": "O vuoi farci il discorsetto su \"quelli come noi\"?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You frighten these people.",
+      "it": "State spaventando questa gente,"
+    }
+  },
+  {
+    "translation": {
+      "en": "As you frightened that midwife you swindled.",
+      "it": "come quella levatrice che hai truffato tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "Best you leave.",
+      "it": "Dovreste andarvene."
+    }
+  },
+  {
+    "translation": {
+      "en": "Right now.",
+      "it": "Immediatamente."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've seen knights try to do our job. Tidy up monsters.",
+      "it": "Ho visto dei cavalieri provare a eliminare i mostri come facciamo noi,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cautionary tales, all of you.",
+      "it": "ma siete tutti degli incapaci."
+    }
+  },
+  {
+    "translation": {
+      "en": "Especially the cute ones.",
+      "it": "Soprattutto quelli carini."
+    }
+  },
+  {
+    "translation": {
+      "en": "The two witchers should be tried and executed. No questions asked.",
+      "it": "Dovreste processare e giustiziare quei due witcher. - Senza fare domande. - Che sciocca che sono."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Silly me.",
+      "it": "- Senza fare domande. - Che sciocca che sono."
+    }
+  },
+  {
+    "translation": {
+      "en": "Here I thought trials were all about questions.",
+      "it": "Credevo che i processi comportassero parecchie domande."
+    }
+  },
+  {
+    "translation": {
+      "en": "These two killed two of your guard, Your Highness. You'd let that stand?",
+      "it": "Hanno ucciso due della vostra guardia, Altezza. Li lascerete impuniti?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Sire, the barkeep claims your knights instigated the altercation.",
+      "it": "Sire, l'oste dice che i vostri cavalieri hanno istigato l'alterco."
+    }
+  },
+  {
+    "translation": {
+      "en": "These witchers were defending themselves.",
+      "it": "Questi witcher si stavano solo difendendo."
+    }
+  },
+  {
+    "translation": {
+      "en": "The people's faith in the monarchy already wavers due to the forest attacks.",
+      "it": "Dopo gli attacchi nella foresta, il popolo non si fida della monarchia."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now they'll hear the crown waxed idly as two monsters shed knighted blood.",
+      "it": "Cosa penserà se il Re non punirà due mostri assassini?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we should go to war with the witchers? If only so you can make them what you fear?",
+      "it": "Dovremmo dichiarare guerra ai witcher per farli diventare ciò di cui hai paura?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They are deadly. On that, we agree, Tetra.",
+      "it": "Sono assassini, su questo concordiamo."
+    }
+  },
+  {
+    "translation": {
+      "en": "And such a battle would flood Kaedwen red.",
+      "it": "E una tale battaglia verserebbe molto sangue di Kaedwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] The Assembly should remember the lady's seat here is honorary.",
+      "it": "Vi ricordo che Lady Zerbst ha un ruolo onorario."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[attendants murmuring] -Yet it is still my chair.",
+      "it": "Eppure lo ricopro ancora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Earned by her body. Not by blood or title.",
+      "it": "E l'ha ottenuto col suo corpo, non per sangue o titolo."
+    }
+  },
+  {
+    "translation": {
+      "en": "[groans] Gods, quiet!",
+      "it": "Oh, dei, tacete!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll have my knights kill you both for the sake of my ears.",
+      "it": "O vi farò ammazzare per poter salvare le mie orecchie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra's right, actually, sire.",
+      "it": "In realtà, Sire, Tetra ha ragione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your subjects expect action.",
+      "it": "I vostri sudditi vogliono che agiate."
+    }
+  },
+  {
+    "translation": {
+      "en": "What if you act on two fronts with one move?",
+      "it": "E se agiste su due fronti con una sola mossa?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clear out our forests while also avoiding war with the witchers?",
+      "it": "Liberando le nostre foreste ed evitando la guerra contro i witcher?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Guard? -[guard grunts]",
+      "it": "Guardia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aye?",
+      "it": "Sì?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you hear that?",
+      "it": "Lo senti?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's like this pinging noise. -Hey!",
+      "it": "- È un tintinnio continuo. - Ehi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you eager for a beating, mutant?",
+      "it": "Vuoi proprio farti pestare, mutante?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd settle for a pot to piss in and some halfway decent bread, please.",
+      "it": "Mi accontento di un vaso da notte e di un po' di pane mangiabile."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. A bit generous, but…",
+      "it": "È stato generoso, ma…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] No need to split this one. Not like when we were younger.",
+      "it": "Questa non dobbiamo dividerla. Non è come quando eravamo piccoli."
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew witchers aged differently, but, well, look at you!",
+      "it": "Sapevo che i witcher invecchiavano diversamente, ma, beh, guardati!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No doubt you imagined me an old spinster by now, slaving away.",
+      "it": "Di certo credevi che, ormai, fossi una vecchia zitella schiava."
+    }
+  },
+  {
+    "translation": {
+      "en": "That is if you ever imagine me at all.",
+      "it": "Sempre che tu abbia mai pensato a me."
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh… your letter.",
+      "it": "Ma la tua lettera."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You'd been sold to a new estate. -Yes.",
+      "it": "- Eri stata venduta a nuovi padroni. - Sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Zerbsts of Kaedwen.",
+      "it": "Gli Zerbst di Kaedwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "They were kind enough, but it…",
+      "it": "Sono stati buoni con me, ma era il figlio ad amarmi davvero,"
+    }
+  },
+  {
+    "translation": {
+      "en": "it was their son who was truly fond of me, despite my station.",
+      "it": "Sono stati buoni con me, ma era il figlio ad amarmi davvero, nonostante la mia posizione."
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] It's been an age. Did you ever get that lake house?",
+      "it": "Da quanto tempo. Hai avuto la casa sul lago?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lake house? Oh, my, the lake house!",
+      "it": "Quale casa sul lago? Oh, cielo, la casa sul lago!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No lake, no.",
+      "it": "No, quella mai."
+    }
+  },
+  {
+    "translation": {
+      "en": "But a nice home.",
+      "it": "Ma ho una bella dimora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turned it into an orphanage after my husband passed.",
+      "it": "Ne ho fatto un orfanotrofio dopo la morte di mio marito."
+    }
+  },
+  {
+    "translation": {
+      "en": "We had children too. Girls.",
+      "it": "Abbiamo anche avuto delle figlie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Horrors, all three of them.",
+      "it": "Sono delle pesti, tutte e tre."
+    }
+  },
+  {
+    "translation": {
+      "en": "One just made me a grandmother. I begged her not to. [chuckles] But they're stubborn little needlers.",
+      "it": "Una mi ha fatta diventare nonna. Io non volevo, ma sono tutte testarde."
+    }
+  },
+  {
+    "translation": {
+      "en": "They often remind me of you--",
+      "it": "Spesso mi ricordano te."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, gods.",
+      "it": "Oh, dei."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm… rambling. You're bored.",
+      "it": "Sto parlando a vanvera e ti sto annoiando."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no. You're fine.",
+      "it": "No, figurati."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're good. Uh… this is unexpected, yes.",
+      "it": "Va tutto bene. Non me l'aspettavo, però."
+    }
+  },
+  {
+    "translation": {
+      "en": "Little fresh. But, uh… also lovely.",
+      "it": "È stato un po' improvviso, ma anche molto bello."
+    }
+  },
+  {
+    "translation": {
+      "en": "You've had such a full--",
+      "it": "Hai avuto una vita molto…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wish to kill my already-dead husband and burn the orphanage to the ground.",
+      "it": "Desideri uccidere il mio defunto marito e bruciare l'orfanotrofio."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not the precise words I'd use.",
+      "it": "Non userei queste esatte parole."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lord Zerbst was kind to me.",
+      "it": "Lord Zerbst è stato buono con me."
+    }
+  },
+  {
+    "translation": {
+      "en": "By no means perfect, but…",
+      "it": "Era tutt'altro che perfetto,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he's someone you miss very much when they depart.",
+      "it": "ma era una di quelle persone che ti mancano tanto, quando muoiono."
+    }
+  },
+  {
+    "translation": {
+      "en": "The tales I've heard of you, though.",
+      "it": "Ho sentito un sacco di storie su di te, comunque."
+    }
+  },
+  {
+    "translation": {
+      "en": "The swashbuckling witcher for hire.",
+      "it": "Il witcher spaccone e mercenario."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"The slayer Vesemir,",
+      "it": "\"L'assassino Vesemir,"
+    }
+  },
+  {
+    "translation": {
+      "en": "priced only for the foulest of creatures.\"",
+      "it": "da assumere solo per le creature più ripugnanti.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, not too long ago, you were stuffing my head full of those very notions.",
+      "it": "Non molto tempo fa, mi mettevi tu in testa queste idee."
+    }
+  },
+  {
+    "translation": {
+      "en": "Years do work differently for you.",
+      "it": "Gli anni funzionano diversamente per te."
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] What's time, anyway?",
+      "it": "Cosa sarà mai, il tempo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everything. -[door opens]",
+      "it": "Beh, è tutto."
+    }
+  },
+  {
+    "translation": {
+      "en": "The king is willing to grant you and your friend amnesty for your crimes.",
+      "it": "Il Re è disposto a concedervi la grazia per i vostri crimini."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you are reminded that I carry the duties",
+      "it": "Tuttavia, io devo assolvere i doveri del mio defunto marito,"
+    }
+  },
+  {
+    "translation": {
+      "en": "of my late husband, the noble Lord Zerbst, adviser to the throne.",
+      "it": "Tuttavia, io devo assolvere i doveri del mio defunto marito, il nobile Lord Zerbst, consigliere reale."
+    }
+  },
+  {
+    "translation": {
+      "en": "Every deal has a price.",
+      "it": "Ma certo, tutto ha un prezzo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kill whatever is murdering our people in the woods outside Ard Carraigh.",
+      "it": "Elimina la bestia che uccide i nostri nelle foreste fuori Ard Carriage."
+    }
+  },
+  {
+    "translation": {
+      "en": "And my colleague, Luka?",
+      "it": "E il mio collega, Luka?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He'll have my care. -Reasonable terms.",
+      "it": "- Penserò io a lui. - Mi sembra ragionevole."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll take a chaperone too.",
+      "it": "E avrai un accompagnatore."
+    }
+  },
+  {
+    "translation": {
+      "en": "That, there, well…",
+      "it": "Beh, questo qui"
+    }
+  },
+  {
+    "translation": {
+      "en": "that's a problem.",
+      "it": "è un bel problema."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Path's quite perilous, and you are a lady, my lady.",
+      "it": "La Pista è pericolosa e tu sei una signora, mia signora."
+    }
+  },
+  {
+    "translation": {
+      "en": "Also, can't have a noble such as you",
+      "it": "E poi, una donna nobile non può farsi vedere nei bassifondi con un mutante come me."
+    }
+  },
+  {
+    "translation": {
+      "en": "seen slumming about with the mutant likes of me.",
+      "it": "non può farsi vedere nei bassifondi con un mutante come me."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you'll no doubt be pleased to hear that I am not your chaperone.",
+      "it": "Allora sarai lieto di sapere che non ti accompagnerò io."
+    }
+  },
+  {
+    "translation": {
+      "en": "I have no intention of playing guide or nurse to you, witch.",
+      "it": "Non intendo farti da guida o da badante, strega."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't care who your great-great-whoever was.",
+      "it": "Non m'importa da chi discendi."
+    }
+  },
+  {
+    "translation": {
+      "en": "On my word, I will slay this beast.",
+      "it": "Ti do la mia parola che ucciderò questa bestia."
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, Illyana.",
+      "it": "Lo farò per te, Illyana."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Might not be a monster at all, either.",
+      "it": "Potrebbe non essere un mostro."
+    }
+  },
+  {
+    "translation": {
+      "en": "The leshen that killed your man Carlisle was bewitched. By an elf.",
+      "it": "Il lesny che ha ucciso quel Carlisle era sotto l'incantesimo di un elfo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tetra groans] -\"Why an elf?\" Ah! Glad you asked.",
+      "it": "\"Perché un elfo?\" Grazie di averlo chiesto."
+    }
+  },
+  {
+    "translation": {
+      "en": "See, another very old but very young-looking elf",
+      "it": "Vedi, un altro vecchio elfo che pare molto giovane"
+    }
+  },
+  {
+    "translation": {
+      "en": "asked me to help him to find a group of misplaced girls.",
+      "it": "mi ha chiesto di aiutarlo a trovare un gruppo di elfe scomparse."
+    }
+  },
+  {
+    "translation": {
+      "en": "Point is, witchering is a business.",
+      "it": "Il punto è che i witcher devono essere imprenditori"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to keep a brand.",
+      "it": "e farsi un nome."
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't score the big jobs if you're known for swatting nymphs and helping out elves.",
+      "it": "Non otterrai grandi incarichi se si dice che pesti le ninfe e aiuti gli elfi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't fire magic forbidden by upstanding mages?",
+      "it": "La magia del fuoco non è vietata dai maghi virtuosi?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only insofar as there are very few mages blessed with the skill to control the flames.",
+      "it": "Solo se ci sono pochissimi maghi in grado di controllare le fiamme."
+    }
+  },
+  {
+    "translation": {
+      "en": "[chewing] Huh. You're very special, clearly.",
+      "it": "Evidentemente tu sei molto speciale."
+    }
+  },
+  {
+    "translation": {
+      "en": "I must seem silly to you.",
+      "it": "Ti sembrerò una sciocca,"
+    }
+  },
+  {
+    "translation": {
+      "en": "But Chaos, it's…",
+      "it": "ma il Caos è…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, words fail description.",
+      "it": "Non ci sono parole per descriverlo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers are connected to Chaos too.",
+      "it": "Anche i witcher sono legati al Caos."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only your connection is corrupted and corrosive. And far less condemning.",
+      "it": "- Ma quel legame è corrotto e corrosivo. - E molto meno riprovevole."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a story about a witcher who helped an ailing priest.",
+      "it": "Si narra di un witcher che ha aiutato un prete malato."
+    }
+  },
+  {
+    "translation": {
+      "en": "The monster-slayer believed the sickness was, in fact, a curse,",
+      "it": "L'ammazza-mostri credeva che la malattia fosse una maledizione"
+    }
+  },
+  {
+    "translation": {
+      "en": "and could be lifted by killing whoever placed it.",
+      "it": "e poteva essere eliminata uccidendone l'autore."
+    }
+  },
+  {
+    "translation": {
+      "en": "The priest quickly fingered a local sorceress,",
+      "it": "Il prete accusò presto una strega del posto,"
+    }
+  },
+  {
+    "translation": {
+      "en": "a stupid girl who always caused him trouble.",
+      "it": "una stupida ragazza che gli dava sempre problemi."
+    }
+  },
+  {
+    "translation": {
+      "en": "The witcher killed her, and was rightly paid in gems and jewels.",
+      "it": "Il witcher la uccise e fu pagato con gemme e gioielli."
+    }
+  },
+  {
+    "translation": {
+      "en": "-The priest obviously got better. -He did.",
+      "it": "- Il prete, ovviamente, guarì. - Esatto."
+    }
+  },
+  {
+    "translation": {
+      "en": "And then a few days later,",
+      "it": "E poi, qualche giorno dopo,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he found a beautiful gem amid his cook's belongings,",
+      "it": "trovò una bellissima gemma tra gli effetti personali del cuoco,"
+    }
+  },
+  {
+    "translation": {
+      "en": "identical to the one he'd given the clever witcher.",
+      "it": "identica a quella che aveva dato all'astuto witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. He had the cook poison the priest's meals. Cut him in on the take.",
+      "it": "Ha detto al cuoco di avvelenare i pasti in cambio di una quota."
+    }
+  },
+  {
+    "translation": {
+      "en": "[exclaims] Smart con. Wish I'd thought of it.",
+      "it": "Astuto. Vorrei averci pensato io."
+    }
+  },
+  {
+    "translation": {
+      "en": "As I said…",
+      "it": "Come ho detto,"
+    }
+  },
+  {
+    "translation": {
+      "en": "corrupted.",
+      "it": "è un legame corrotto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, lovely. -You've led us in a circle. -No.",
+      "it": "- Che bello. Ci hai fatti girare in tondo. - No."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know these forests.",
+      "it": "Conosco queste foreste."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. So did Lord Carlisle.",
+      "it": "Anche Lord Carlisle."
+    }
+  },
+  {
+    "translation": {
+      "en": "At Aretuza, we used magic to cast pleasant illusions around unpleasant foods.",
+      "it": "Ad Aretuza, creavamo illusioni magiche per nascondere i cibi sgradevoli,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Made food tastier, yet the aftertaste of the illusion?",
+      "it": "i quali risultavano più buoni, ma il retrogusto dell'illusione, beh…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitter.",
+      "it": "è amaro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Chaos clear our hearts and minds. Let our eyes see right and true.",
+      "it": "Caos, libera i nostri cuori e le nostre menti. Facci vedere la verità."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lift the shroud that cloaks our mind. -Lift the shroud that cloaks our mind! -[booming]",
+      "it": "Alza il velo che offusca la nostra mente."
+    }
+  },
+  {
+    "translation": {
+      "en": "That illusion was flawless.",
+      "it": "Quell'illusione era perfetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "The power needed to maintain such art…",
+      "it": "Il potere necessario per una cosa simile…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Could also bewitch a leshen.",
+      "it": "Potrebbe anche stregare un lesny."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kitsu? -Friend of yours?",
+      "it": "Kitsu? - È una tua amica? - Amica di un amico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Friend of a friend.",
+      "it": "- È una tua amica? - Amica di un amico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. I'll need to know what and where your den is if I'm to avoid it,",
+      "it": "Sì, ecco, dovrai dirmi dov'è il tuo antro e che cos'è così lo evito,"
+    }
+  },
+  {
+    "translation": {
+      "en": "especially since you're, you know,",
+      "it": "dato che è per difenderlo che stai massacrando la gente."
+    }
+  },
+  {
+    "translation": {
+      "en": "-slaughtering people over it. -Witcher.",
+      "it": "dato che è per difenderlo che stai massacrando la gente. Witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've never seen such a species of basilisk.",
+      "it": "Non ho mai visto un basilisco simile."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Another illusion? -We'll no doubt find out shortly.",
+      "it": "- Un'altra illusione? - Lo scopriremo presto."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. She has that effect on everyone.",
+      "it": "Lo so. Fa quell'effetto a tutti."
+    }
+  },
+  {
+    "translation": {
+      "en": "But still, manners.",
+      "it": "Ma dovresti essere più educato."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kitsu] No!",
+      "it": "No…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! [sobs]",
+      "it": "No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It was real. -Might have slightly underestimated you.",
+      "it": "- È stato intenso. - Potrei averti sottovalutato un po'."
+    }
+  },
+  {
+    "translation": {
+      "en": "Slightly.",
+      "it": "Solo un pochino."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kitsu, this needn't escalate.",
+      "it": "Kitsu, non era necessario arrivare a tanto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Her powers of illusion are unnatural.",
+      "it": "I suoi poteri d'illusione sono innaturali."
+    }
+  },
+  {
+    "translation": {
+      "en": "First monster I ever encountered was a mahr.",
+      "it": "Il primo mostro che affrontai era un alp."
+    }
+  },
+  {
+    "translation": {
+      "en": "Made a woman see nightmares that weren't really there. Illusions.",
+      "it": "Faceva vedere a una donna degli orrori inesistenti. Illusioni."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kitsu's an elf. -Then why does she smell like a mahr?",
+      "it": "- Kitsu è un'elfa. - Allora perché puzza come un alp?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] An elven school.",
+      "it": "Una scuola elfica."
+    }
+  },
+  {
+    "translation": {
+      "en": "They used to send their young here during high summer.",
+      "it": "La gente ci mandava i figli in piena estate."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before repurposing it as a garrison during your last cleansing spree.",
+      "it": "Prima di trasformarla in una guarnigione durante l'ultima purificazione."
+    }
+  },
+  {
+    "translation": {
+      "en": "No signs of blood.",
+      "it": "Non c'è sangue."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can still smell her, though.",
+      "it": "Ma sento ancora il suo odore."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "it": "Sì."
+    }
+  },
+  {
+    "translation": {
+      "en": "She was here.",
+      "it": "È stata qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just before our fight.",
+      "it": "Poco prima del combattimento."
+    }
+  },
+  {
+    "translation": {
+      "en": "Witcher!",
+      "it": "Witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I do have a name, you know.",
+      "it": "Ho un nome, sai?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was done to them?",
+      "it": "Cosa sarà successo loro?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] They're all elves.",
+      "it": "Sono tutti elfi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Girls.",
+      "it": "Delle femmine."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Over here.",
+      "it": "Da questa parte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Help.",
+      "it": "Aiuto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Gods, not another favor.",
+      "it": "Oh, dei, non un altro favore."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's this one?",
+      "it": "Chi è questo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] My aforementioned friend. He was searching for those girls.",
+      "it": "L'amico di cui parlavo prima. Cercava quelle elfe."
+    }
+  },
+  {
+    "translation": {
+      "en": "And I could've saved some, had you set aside your love of coin and helped.",
+      "it": "Avrei potuto salvarle, se tu avessi rinunciato ai soldi e mi avessi aiutato."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Kitsu's been kidnapping them. -Yes. Experimenting on the girls.",
+      "it": "Le ha rapite Kitsu. Sì, fa degli esperimenti sulle femmine."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's using some strange alchemy to try to change them.",
+      "it": "Usa una strana alchimia per cercare di mutarle."
+    }
+  },
+  {
+    "translation": {
+      "en": "Change them to what?",
+      "it": "Di mutarle in cosa?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Into whatever she's become.",
+      "it": "In quello che è diventata lei."
+    }
+  },
+  {
+    "translation": {
+      "en": "I tracked her here, tried stopping her, but… Kitsu's power…",
+      "it": "L'ho stanata qui e ho provato a fermarla, ma il suo potere…"
+    }
+  },
+  {
+    "translation": {
+      "en": "And she just let you live?",
+      "it": "E ti ha lasciato vivere?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I understand if that's a concept unfamiliar to your kind.",
+      "it": "Capisco che non sia un concetto familiare alla gente come te."
+    }
+  },
+  {
+    "translation": {
+      "en": "If Kitsu was using sorcery to try and mutate those girls,",
+      "it": "Se Kitsu voleva mutare quelle elfe con la magia,"
+    }
+  },
+  {
+    "translation": {
+      "en": "who mutated her?",
+      "it": "chi ha mutato lei?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Her genes were spliced with those of a mahr.",
+      "it": "I suoi geni erano combinati a quelli di un alp."
+    }
+  },
+  {
+    "translation": {
+      "en": "It explains her unnatural power. She's a crossbreed.",
+      "it": "Questo spiega il suo potere innaturale. È un ibrido."
+    }
+  },
+  {
+    "translation": {
+      "en": "How is such a thing possible?",
+      "it": "Ma com'è stata creata?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The same way he was made.",
+      "it": "Così com'è stato creato lui."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mutagenic alchemy.",
+      "it": "Con l'alchimia mutagena."
+    }
+  },
+  {
+    "translation": {
+      "en": "Its secrets known only to mages at Kaer Morhen.",
+      "it": "Solo i maghi di Kaer Morhen ne conoscono i segreti."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're behind all this.",
+      "it": "Ci sei tu dietro, quindi."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's ridiculous.",
+      "it": "Che sciocchezze."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] -Hunting monsters for coin wasn't enough?",
+      "it": "Cacciare i mostri per soldi non ti basta più?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you make them? Witchers are struggling, yes, but…",
+      "it": "- Adesso li crei anche? - Sì, i witcher sono in ristrettezze, ma…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shame. A few new beasts would be… good for business.",
+      "it": "Che peccato. Delle nuove bestie gioverebbero agli affari."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] More monsters, more jobs, more coin.",
+      "it": "Nuovi mostri, più lavori, più soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Another sharp con.",
+      "it": "Un'altra astuta truffa."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I swear, Fil, I didn't-- -[rustling]",
+      "it": "Te lo giuro, Fil, non ho…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Another monstrosity.",
+      "it": "Un'altra mostruosità."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's still an elf.",
+      "it": "È ancora un'elfa."
+    }
+  },
+  {
+    "translation": {
+      "en": "You saw what these creatures can do.",
+      "it": "Hai visto di cosa sono capaci queste creature."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fil, if the girl has even half Kitsu's power, she's dangerous.",
+      "it": "Fil, se la ragazza ha anche solo la metà del potere di Kitsu, è pericolosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't this witch say similar of you?",
+      "it": "Questa strega non dice lo stesso di te?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will take her back to my people. She will be raised as an elf.",
+      "it": "La riporterò dalla mia gente. La cresceranno come un'elfa."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] Charitable. Though I imagine it won't be too long before you sic her on us.",
+      "it": "Davvero caritatevole, ma immagino che presto ci verrà scagliata contro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] You won.",
+      "it": "Hai vinto."
+    }
+  },
+  {
+    "translation": {
+      "en": "You beat us.",
+      "it": "Ci hai battuti."
+    }
+  },
+  {
+    "translation": {
+      "en": "At least allow us the indignity",
+      "it": "Almeno lasciaci l'onta di recuperare ciò che resta della nostra specie,"
+    }
+  },
+  {
+    "translation": {
+      "en": "of scavenging whatever's left of our kind, mutant or otherwise.",
+      "it": "Almeno lasciaci l'onta di recuperare ciò che resta della nostra specie, mutante o meno."
+    }
+  },
+  {
+    "translation": {
+      "en": "As a favor to a friend.",
+      "it": "Te lo chiedo come favore per un amico."
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the child and go. Now.",
+      "it": "Prendi la bambina e andatevene. Ora."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have made a serious error.",
+      "it": "Hai commesso un grave errore."
+    }
+  },
+  {
+    "translation": {
+      "en": "Should that girl ever harm a single soul, Fil--",
+      "it": "Se dovesse fare del male a qualcuno…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I will slay her.",
+      "it": "La ucciderò io stesso."
+    }
+  },
+  {
+    "translation": {
+      "en": "Quietly welcome you and your sword.",
+      "it": "Tu e la tua spada sarete i benvenuti."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should've offered up some coin. Then you would've handled matters.",
+      "it": "Se ti avessi pagato, avresti risolto la cosa, eh?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was not a question of price.",
+      "it": "Non era una questione di soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, the witcher's found his morals?",
+      "it": "Il witcher ha trovato la sua morale?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think you're so pure, Tetra? Not a blemish?",
+      "it": "Ti credi tanto pura, Tetra? Non hai nessun difetto?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look outside. There's your morality.",
+      "it": "Guardati intorno. Ecco la tua moralità."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rot and ruin all reeking of hate. Tend to that filth, and I'll tend to mine.",
+      "it": "Marciume e rovina che puzzano d'odio. Tu occupati di quello schifo e io del mio."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Nothing good can come of this.",
+      "it": "Non ne uscirà nulla di buono."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Fear and ignorance are good business. That's what Deglan said the first time we met.",
+      "it": "La paura e l'ignoranza pagano bene. Me lo disse Deglan quando ci conoscemmo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now look.",
+      "it": "Senti,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to know for certain.",
+      "it": "devo saperlo per certo."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] I'd ask you to flee with me.",
+      "it": "Ti chiederei di fuggire con me."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know what you have to do.",
+      "it": "So cosa devi fare."
+    }
+  },
+  {
+    "translation": {
+      "en": "And I won't have you feeling as though you've abandoned me again.",
+      "it": "E non ti farò sentire come se mi avessi abbandonata di nuovo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[growling] -[Tetra] I tried to stop him.",
+      "it": "Ho cercato di fermarlo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[hisses] -But witchers, they never hesitate.",
+      "it": "Ma i witcher non esitano mai."
+    }
+  },
+  {
+    "translation": {
+      "en": "[king] Madam Gilcrest has given proof.",
+      "it": "Madame Gilcrest ha portato le prove."
+    }
+  },
+  {
+    "translation": {
+      "en": "This one breeds monstrosities,",
+      "it": "Questo witcher crea mostruosità,"
+    }
+  },
+  {
+    "translation": {
+      "en": "terrorizes my kingdom,",
+      "it": "terrorizza il mio regno"
+    }
+  },
+  {
+    "translation": {
+      "en": "and swindles the people.",
+      "it": "e truffa il mio popolo."
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell are you talking about?",
+      "it": "Di che diavolo state parlando?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sire, not all witchers were aware of these crossbreeds.",
+      "it": "Sire, non tutti i witcher erano a conoscenza di questi ibridi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lady Zerbst, you are testament to the perils of trusting a servant.",
+      "it": "Lady Zerbst, voi conoscete bene i pericoli in cui si incorre fidandosi di un servo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your Highness--",
+      "it": "Vostra Altezza…"
+    }
+  },
+  {
+    "translation": {
+      "en": "If it pleases, sire,",
+      "it": "Se vi aggrada, Sire,"
+    }
+  },
+  {
+    "translation": {
+      "en": "might I ask where Madam Gilcrest is now?",
+      "it": "posso chiedervi dove si trova Madame Gilcrest, ora?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Monsters were going extinct. I had to protect our way of life.",
+      "it": "I mostri si sarebbero estinti. Dovevo proteggere il nostro lavoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Think of all the coin you stand to make, young fella.",
+      "it": "Pensa a tutti i soldi che potrai guadagnare, giovanotto."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do not call me that. -Check your gratitude, boy.",
+      "it": "- Non chiamarmi così. - Non essere ingrato, ragazzo."
+    }
+  },
+  {
+    "translation": {
+      "en": "You came to me.",
+      "it": "Venisti tu da me."
+    }
+  },
+  {
+    "translation": {
+      "en": "I could've shipped you right back to those bedpans.",
+      "it": "Avrei potuto rispedirti a fare il servo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't pretend you didn't know exactly what you were doing when you threw me those coins. You knew I would come.",
+      "it": "Quando mi lanciasti quei soldi, sapevi che ti avrei seguito. Non dire di no."
+    }
+  },
+  {
+    "translation": {
+      "en": "We were created to kill creatures like these, not to make them.",
+      "it": "Il nostro scopo è uccidere i mostri, non crearli."
+    }
+  },
+  {
+    "translation": {
+      "en": "I won't weep for doing what needed doing.",
+      "it": "Non mi pentirò di aver fatto ciò che serviva."
+    }
+  },
+  {
+    "translation": {
+      "en": "I told you. [Vesemir] A witcher never hesitates.",
+      "it": "- Te l'ho detto. - Un witcher non deve esitare mai."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I know.",
+      "it": "Lo so. Ma che mi dici dell'elfa?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about with the elf? Did you give Kitsu a choice before you mutated her?",
+      "it": "Lo so. Ma che mi dici dell'elfa? Hai dato a Kitsu una scelta, prima di mutarla?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I thought we'd killed her.",
+      "it": "Credevo l'avremmo uccisa."
+    }
+  },
+  {
+    "translation": {
+      "en": "That mutation was unstable. Too much power.",
+      "it": "Era una mutazione instabile, troppo potente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clearly, her death was one of her clever little illusions.",
+      "it": "Chiaramente, la sua morte è stata una delle sue illusioni."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] All of this to line our pockets.",
+      "it": "E tutto solo per riempirci le tasche."
+    }
+  },
+  {
+    "translation": {
+      "en": "You were always too focused on the gold in your hand.",
+      "it": "Ti sei sempre concentrato troppo sui soldi in mano"
+    }
+  },
+  {
+    "translation": {
+      "en": "You never looked up to see who's paying you. See their eyes. We terrify 'em.",
+      "it": "senza mai guardare chi te li dava e la paura nei loro occhi."
+    }
+  },
+  {
+    "translation": {
+      "en": "The only thing keeping men from hunting us",
+      "it": "Se non ci danno la caccia è solo perché uccidiamo"
+    }
+  },
+  {
+    "translation": {
+      "en": "are the scarier beasts we keep away.",
+      "it": "dei mostri peggiori di noi."
+    }
+  },
+  {
+    "translation": {
+      "en": "Humans die quick, so they spend their lives fearing and hating.",
+      "it": "Gli umani muoiono molto presto e passano la vita nella paura e nell'odio."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ask the dwarves or your elf friend.",
+      "it": "Chiedi agli gnomi o al tuo amico elfo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Men will always need monsters.",
+      "it": "Gli uomini avranno sempre bisogno di mostri."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now, so do we. -We're all orphans.",
+      "it": "- E ora anche noi. - Siamo tutti orfani."
+    }
+  },
+  {
+    "translation": {
+      "en": "We've always looked to you to protect us.",
+      "it": "Credevamo che ci avresti protetti."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to burn it to the ground… or I will.",
+      "it": "Devi radere tutto al suolo. O lo farò io."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want to fight you. We've got to protect ourselves, Vesemir.",
+      "it": "- Non voglio lottare con te. - Dobbiamo proteggere noi stessi, Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Got to protect you!",
+      "it": "E proteggere te!"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you two would like to stop trying to kill each other,",
+      "it": "Se la voleste smettere di cercare di uccidervi,"
+    }
+  },
+  {
+    "translation": {
+      "en": "we have a visitor.",
+      "it": "avremmo un'ospite."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] She's coming.",
+      "it": "Lei sta arrivando."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[mob clamoring] -[man] Away with all witchers!",
+      "it": "A morte tutti i witcher!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra wasted no time. Word spread quickly.",
+      "it": "Tetra non ha perso tempo. La voce si è sparsa in fretta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not only of the crossbreeds, but of witchers protecting elves.",
+      "it": "Non solo degli ibridi, ma dei witcher che proteggono gli elfi."
+    }
+  },
+  {
+    "translation": {
+      "en": "And Luka?",
+      "it": "E Luka?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is your two's doing. They were always gonna come, sooner or later.",
+      "it": "- È tutta colpa vostra. - Era destino che succedesse, prima o poi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Well, maybe there was a way for us to die the better men.",
+      "it": "Ma forse c'era un modo per farci morire con onore."
+    }
+  },
+  {
+    "translation": {
+      "en": "My mages and I are the ones who know the secrets to mutagenic alchemy.",
+      "it": "Io e i miei maghi conosciamo i segreti dell'alchimia mutagena."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra will want our heads most.",
+      "it": "Tetra vorrà le nostre teste sopra ogni cosa."
+    }
+  },
+  {
+    "translation": {
+      "en": "If we die,",
+      "it": "Se moriamo noi,"
+    }
+  },
+  {
+    "translation": {
+      "en": "there can be no more witchers.",
+      "it": "non potranno esserci altri witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Seal yourselves in your labs. The rest of us will rally and end her little cult.",
+      "it": "Voi chiudetevi nei vostri laboratori. Noialtri metteremo fine alla sua setta."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitch won't see dawn.",
+      "it": "Quella stronza non vedrà l'alba."
+    }
+  },
+  {
+    "translation": {
+      "en": "Underestimate Tetra and you'll be the one who's seen their last sunrise.",
+      "it": "Sottovalutate Tetra e sarete voi a non rivederla più."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Perhaps she'll listen to reason.",
+      "it": "Magari la faremo ragionare."
+    }
+  },
+  {
+    "translation": {
+      "en": "He may be a bastard… but Deglan is right.",
+      "it": "Deglan sarà un bastardo, ma ha ragione."
+    }
+  },
+  {
+    "translation": {
+      "en": "This was inevitable.",
+      "it": "Era inevitabile."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why? -Because you're different. -[mob yelling]",
+      "it": "- E perché? - Perché siete diversi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] And killing is easier than tolerating.",
+      "it": "E uccidere è più facile che tollerare."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you as far away from this place as possible.",
+      "it": "Voglio che tu te ne vada di qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "There are children here.",
+      "it": "Ci sono dei bambini, qui."
+    }
+  },
+  {
+    "translation": {
+      "en": "-They've been trained. -Children, Vesemir.",
+      "it": "- Sono stati addestrati. - Bambini, Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "As you were when he took you.",
+      "it": "Hanno l'età che avevi tu agli inizi."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll guide them to the cellar until the battle's won.",
+      "it": "Li porterò in cantina finché non avrete vinto."
+    }
+  },
+  {
+    "translation": {
+      "en": "For once, I will decide my place.",
+      "it": "Per una volta, deciderò io qual è il mio posto."
+    }
+  },
+  {
+    "translation": {
+      "en": "You've always had too much fire. And beauty.",
+      "it": "Sei sempre stata troppo agguerrita. E bellissima."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please… I'm nearly 70.",
+      "it": "Ma non dire, ho quasi 70 anni."
+    }
+  },
+  {
+    "translation": {
+      "en": "So am I.",
+      "it": "Anch'io."
+    }
+  },
+  {
+    "translation": {
+      "en": "Beautiful peaks. Too pure for war.",
+      "it": "Che belle cime, troppo pure per essere teatro di guerra."
+    }
+  },
+  {
+    "translation": {
+      "en": "Scurry off and return with the body of the man you murdered, witch.",
+      "it": "Datti una mossa, strega, e torna qui col corpo dell'uomo che hai ucciso."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was executed in the name of those your homemade beasts butchered.",
+      "it": "È stato giustiziato nel nome delle vittime massacrate dalle vostre bestie."
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll be no more of them, Tetra. Upon my word.",
+      "it": "Non ce ne saranno altre, Tetra. Ti do la mia parola."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, witchers are experts in price.",
+      "it": "I witcher sono esperti di prezzi."
+    }
+  },
+  {
+    "translation": {
+      "en": "What is the worth of your word, Vesemir?",
+      "it": "Qual è il valore della tua parola?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some things…",
+      "it": "Certe cose"
+    }
+  },
+  {
+    "translation": {
+      "en": "are beyond cost.",
+      "it": "non hanno prezzo."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you?",
+      "it": "E tu?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you give me your word?",
+      "it": "Mi dai la tua parola?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I give you nothing.",
+      "it": "Non ti do un bel niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Save the chance to fill the valleys of our pretty peaks with your corpses.",
+      "it": "Evitate di riempire le nostre belle valli coi vostri cadaveri."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are an army of witchers.",
+      "it": "Noi siamo un esercito di witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "You are human.",
+      "it": "Voi siete umani."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Kitsu.",
+      "it": "Kitsu."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] She was gutted to hear how you sacked her den,",
+      "it": "L'ha affranta sapere come avete saccheggiato il suo antro,"
+    }
+  },
+  {
+    "translation": {
+      "en": "destroyed her work, and murdered the girl, her only child.",
+      "it": "L'ha affranta sapere come avete saccheggiato il suo antro, distrutto il suo lavoro e ucciso la sua unica figlia."
+    }
+  },
+  {
+    "translation": {
+      "en": "Monsters to fight monsters. How unlike your predecessors.",
+      "it": "Mostri per combattere altri mostri? Non sei diversa dai tuoi predecessori."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Rally! Rally!",
+      "it": "Adunata!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Steel your nerves, lads. We charge!",
+      "it": "Nervi saldi. Andiamo all'attacco!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Swords away. Swords away! -We haven't time to hesitate.",
+      "it": "- Mettete via le spade! - Non abbiamo il tempo di esitare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just bloody trust me for once!",
+      "it": "Fidati di me, per una volta!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please!",
+      "it": "Ti prego!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers, on me!",
+      "it": "Witcher, al mio via!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now! -[low booming]",
+      "it": "Via!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lady Zerbst] Be calm. Be calm. -[low rumbling]",
+      "it": "State tranquilli."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're safe.",
+      "it": "Siete al sicuro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers must be wiped from the surface of this Earth,",
+      "it": "I witcher devono essere eliminati"
+    }
+  },
+  {
+    "translation": {
+      "en": "and all traces strewn with salt and saltpeter.",
+      "it": "e i loro resti cosparsi di sale e salnitro."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] She's going for Reidrich!",
+      "it": "Attaccherà Reidrich!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me and the others will hold the bridge. Use the drop to halve their numbers.",
+      "it": "Io e gli altri difendiamo il ponte. Usate la pozione per dimezzarli."
+    }
+  },
+  {
+    "translation": {
+      "en": "You two, stop her!",
+      "it": "Voi due, fermatela!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you forgive me long enough, young fella?",
+      "it": "Potrai perdonarmi, giovanotto?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If she gets Reidrich, it's the end of us.",
+      "it": "Se prende Reidrich, siamo finiti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Find her!",
+      "it": "Trovala!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop her! -[screaming]",
+      "it": "E fermala!"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a hatch in the grain hold. It lets out on the back pathway.",
+      "it": "C'è un portello nel granaio. Conduce alla strada sul retro."
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you know this? He was trying to run away!",
+      "it": "- E tu come lo sai? - Stava cercando di scappare!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Run as far away as possible.",
+      "it": "Scappate il più lontano possibile."
+    }
+  },
+  {
+    "translation": {
+      "en": "All of you. Rub the heel raw, to the bone, if you have to.",
+      "it": "Tutti quanti. Correte fino a consumarvi i talloni."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't stop.",
+      "it": "Non fermatevi."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Lower your swords.",
+      "it": "Abbassate le spade."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is genocide, Tetra.",
+      "it": "Questo è un genocidio, Tetra."
+    }
+  },
+  {
+    "translation": {
+      "en": "They bred those monsters because of you. There is no purity here. Just fear and hatred.",
+      "it": "Hanno creato quei mostri per colpa tua. Non c'è purezza, qui. Solo paura e odio."
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough, please!",
+      "it": "Ma ora basta, ti prego!"
+    }
+  },
+  {
+    "translation": {
+      "en": "This servant betrays Kaedwen to the witchers.",
+      "it": "Questa serva tradisce Kaedwen con i witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let her join them.",
+      "it": "Che faccia la loro stessa fine."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir yelling] Tetra!",
+      "it": "Tetra!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can drop your men before their blades drop an inch.",
+      "it": "Posso uccidere i tuoi prima che alzino le spade."
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Wishful thinking.",
+      "it": "Che pia illusione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you going to enjoy the day, or are you still too shook",
+      "it": "Ti godrai la giornata? O sei ancora scosso dopo l'audace notte passata a uccidere mostri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "from another daring night of monster-slaying?",
+      "it": "O sei ancora scosso dopo l'audace notte passata a uccidere mostri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Pardon me for wanting to be something other than a churlish knave.",
+      "it": "Scusami tanto se non voglio essere solo un rozzo furfante."
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at you, though.",
+      "it": "Ma guardati."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a witcher.",
+      "it": "Sei un witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're rich!",
+      "it": "Sei ricco!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll lack for nothing, and you'll take care of me, Vesemir.",
+      "it": "Non ci mancherà nulla e tu ti prenderai cura di me, Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Much like you said. True to your word.",
+      "it": "Hai tenuto fede alla tua parola."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look at me. -A lake house.",
+      "it": "Guardami! Una casa sul lago."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wine. Food.",
+      "it": "Vino. Cibo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine the seas of coin we'd wade in.",
+      "it": "Immagina i mari di soldi in cui potremmo sguazzare."
+    }
+  },
+  {
+    "translation": {
+      "en": "You never wanted that! You were always content.",
+      "it": "Tu non volevi questo, ti sentivi già appagata."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no!",
+      "it": "No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Forty tons of sheep's blood?",
+      "it": "Quaranta sacchi di sangue di pecora?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That poor midwife!",
+      "it": "Quella povera levatrice!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, oh, tell 'em about the time you swindled the Redanian priest. Had him thinking he was cursed!",
+      "it": "Racconta della truffa al Prete Redaniano. Gli hai fatto credere che fosse maledetto!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How much did you take that fool for? -You can't be here. We lost you.",
+      "it": "- Quanto ti pagò quello sciocco? - Non puoi essere qui, sei morto."
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you prattling about?",
+      "it": "Cosa stai blaterando?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[cackles] Wake the barkeep, drain the barrels. Everyone drink!",
+      "it": "Svegliate l'oste, svuotate le botti e bevete tutti!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a coin spared. -[man] Yeah! -[men cackling and cheering]",
+      "it": "- Non risparmieremo un solo soldo. - Sì!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough! All of you!",
+      "it": "Basta così! Tutti voi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop… stop cackling!",
+      "it": "Smettetela di schiamazzare!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir, come look.",
+      "it": "Vesemir, vieni a vedere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Be honest, now.",
+      "it": "Sii sincero."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, don't just stand there. Say it.",
+      "it": "Non startene lì. Avanti, dillo."
+    }
+  },
+  {
+    "translation": {
+      "en": "You hate it, don't you?",
+      "it": "Lo odi, vero?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] I…",
+      "it": "Cercavo solo…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just weighing whether you'd done my dashing looks justice.",
+      "it": "di decidere se avessi reso giustizia alla mia bellezza."
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Oh, gods. You frightened me.",
+      "it": "Oh, dei. Mi hai spaventata."
+    }
+  },
+  {
+    "translation": {
+      "en": "Such a look in your eyes. So crestfallen and…",
+      "it": "Avevi uno sguardo così mortificato e…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's perfect, Illyana.",
+      "it": "È perfetto, Illyana."
+    }
+  },
+  {
+    "translation": {
+      "en": "Flawless.",
+      "it": "Impeccabile."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't dally. I'm thirsty.",
+      "it": "Non indugiare. Ho sete."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mama! Make Bojan stop!",
+      "it": "Mamma! Fa' smettere Bojan!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's run away with my jacks!",
+      "it": "È scappato coi miei aliossi!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's wrong, Papa? You're making the sad face.",
+      "it": "Che c'è, papà? Hai un'espressione triste."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no…",
+      "it": "No."
+    }
+  },
+  {
+    "translation": {
+      "en": "This is wrong. Enough mind games, Kitsu. No more fantasies.",
+      "it": "Non è vero. Basta giochetti mentali, Kitsu. Basta fantasie."
+    }
+  },
+  {
+    "translation": {
+      "en": "But you swore you'd care for me, didn't you?",
+      "it": "Ma avevi giurato che ti saresti preso cura di me."
+    }
+  },
+  {
+    "translation": {
+      "en": "That you'd protect me.",
+      "it": "Che mi avresti protetta."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not real.",
+      "it": "- Non sei reale. - La verità non è illusione."
+    }
+  },
+  {
+    "translation": {
+      "en": "Truth is no illusion. There's no escaping it.",
+      "it": "- Non sei reale. - La verità non è illusione. Non puoi fuggirne."
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Get away from me!",
+      "it": "Stammi lontana!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You left me here, darling.",
+      "it": "Mi hai lasciata qui, tesoro."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stranded in hopes and dreams abandoned.",
+      "it": "Bloccata tra speranze e sogni dimenticati."
+    }
+  },
+  {
+    "translation": {
+      "en": "And now you're trying to leave me again.",
+      "it": "E ora vuoi abbandonarmi di nuovo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only this time, I won't be buried",
+      "it": "Stavolta, però, non verrò ricoperta di abiti e titoli e non frequenterò le corti."
+    }
+  },
+  {
+    "translation": {
+      "en": "-in dresses and courts and titles. -[thunder rumbling]",
+      "it": "non verrò ricoperta di abiti e titoli e non frequenterò le corti."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be as you are. Lost and alone.",
+      "it": "Stavolta sarò come te. Persa e sola."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unloved!",
+      "it": "E nessuno mi amerà!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Illyana. I love you.",
+      "it": "No, Illyana. Io ti amo."
+    }
+  },
+  {
+    "translation": {
+      "en": "Coin's your real lover.",
+      "it": "Tu ami solo i soldi."
+    }
+  },
+  {
+    "translation": {
+      "en": "More of her to pluck out there, isn't there?",
+      "it": "E nel mondo ce ne sono tanti da spennare alla gente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop it.",
+      "it": "Basta."
+    }
+  },
+  {
+    "translation": {
+      "en": "We can be whatever we imagine here, Vesemir. We can be rich.",
+      "it": "Possiamo essere ciò che desideriamo, qui. Possiamo essere ricchi."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Together. Here, time is nothing. -[thunder rumbling]",
+      "it": "Insieme. Qui, il tempo non è niente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Out there, I can save her.",
+      "it": "Là fuori, posso salvarla."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's worth more.",
+      "it": "E questo vale di più."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, out of my head.",
+      "it": "Esci dalla mia testa."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] I know you never asked for this.",
+      "it": "So che non te la sei voluta tu."
+    }
+  },
+  {
+    "translation": {
+      "en": "You were only a child.",
+      "it": "Eri solo un bambino."
+    }
+  },
+  {
+    "translation": {
+      "en": "How were you to know?",
+      "it": "Come potevi saperlo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir!",
+      "it": "Vesemir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay back!",
+      "it": "Sta' indietro!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You come at me with magic tricks?",
+      "it": "Mi attacchi con dei trucchi di magia?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no… [gasps]",
+      "it": "No…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No!",
+      "it": "No. No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no, no!",
+      "it": "No!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir.",
+      "it": "Vesemir."
+    }
+  },
+  {
+    "translation": {
+      "en": "This…",
+      "it": "Questo…"
+    }
+  },
+  {
+    "translation": {
+      "en": "this isn't real.",
+      "it": "No, non è reale."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know much about witchers when I was young.",
+      "it": "Da piccola, non sapevo molte cose sui witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know you could smell better, hear better.",
+      "it": "Non sapevo che aveste un olfatto e un udito più forti."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know that the witcher sensed me in the cupboard,",
+      "it": "Non sapevo che il witcher mi sentisse nell'armadio,"
+    }
+  },
+  {
+    "translation": {
+      "en": "trembling, barely breathing, watching as he drove his sword through my mother.",
+      "it": "mentre tremavo e respiravo a fatica e lo guardavo uccidere mia madre,"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silly sorceress who'd crossed a gullible priest.",
+      "it": "la stupida strega che avrebbe maledetto un prete credulone."
+    }
+  },
+  {
+    "translation": {
+      "en": "Monsters to kill monsters.",
+      "it": "Mostri per uccidere mostri."
+    }
+  },
+  {
+    "translation": {
+      "en": "Aye…",
+      "it": "Sì…"
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "it": "Allora…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take her and go.",
+      "it": "Prendila e vattene."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sven? The others?",
+      "it": "Sven? E gli altri?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead.",
+      "it": "Sono morti."
+    }
+  },
+  {
+    "translation": {
+      "en": "All my boys.",
+      "it": "Tutti i miei ragazzi, morti."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Save you. -[Lady Zerbst] The young ones…",
+      "it": "A parte te. I più piccoli"
+    }
+  },
+  {
+    "translation": {
+      "en": "-escaped. -[Vesemir chuckles]",
+      "it": "sono fuggiti."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep your strength.",
+      "it": "Non sprecare le energie."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're your boys now, young fella.",
+      "it": "Ora sono i tuoi ragazzi, giovanotto."
+    }
+  },
+  {
+    "translation": {
+      "en": "Make 'em witchers.",
+      "it": "Falli diventare witcher."
+    }
+  },
+  {
+    "translation": {
+      "en": "Make 'em… somethin' more.",
+      "it": "Plasmali in qualcosa di più grande."
+    }
+  },
+  {
+    "translation": {
+      "en": "To better men.",
+      "it": "A degli uomini migliori."
+    }
+  },
+  {
+    "translation": {
+      "en": "She didn't ask for this.",
+      "it": "Non ha voluto lei tutto questo."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[ice cracking] -Where are we?",
+      "it": "Dove siamo?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beautiful. [sighs]",
+      "it": "Che meraviglia."
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't seem… real.",
+      "it": "Non sembra neanche vero."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do we even know where we're going? -[horse neighs]",
+      "it": "Almeno sappiamo dove stiamo andando?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the last time I allow any of you to ever hesitate.",
+      "it": "È l'ultima volta che permetto a chiunque di voi di esitare."
+    }
+  },
+  {
+    "translation": {
+      "en": "Decide.",
+      "it": "Decidete."
+    }
+  },
+  {
+    "translation": {
+      "en": "But they hate us.",
+      "it": "Ma ci odiano."
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll always be another monster…",
+      "it": "Ci sarà sempre un altro mostro,"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] ♪ There once was a lord ♪",
+      "it": "C'era una volta un signore"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ In dark woods ♪",
+      "it": "In un bosco oscuro"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Wearing a strange ♪",
+      "it": "E indossava Uno strano bracciale d'argento"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Silver band ♪",
+      "it": "Uno strano bracciale d'argento"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Around ♪ ♪ His hand ♪",
+      "it": "Al suo polso"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ For the bandit also ♪",
+      "it": "Perché anche il bandito"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Feared ♪",
+      "it": "I mostri"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "it": "Temeva"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "it": "Sottotitoli: Andrea Guarino"
+    }
+  }
+]

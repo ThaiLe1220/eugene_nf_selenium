@@ -36,8 +36,8 @@ for file_name in files:
             if (
                 "♪" in item["translation"][SOURCE_LANG]
                 or "♪" in item["translation"][TARGET_LANG]
-                or "--" in item["translation"][SOURCE_LANG]
-                or "--" in item["translation"][TARGET_LANG]
+                or "-" in item["translation"][SOURCE_LANG]
+                or "-" in item["translation"][TARGET_LANG]
             ):
                 continue
 
