@@ -1,0 +1,884 @@
+[
+  {
+    "translation": {
+      "en": "[man 1] Only barbarians drink unmixed wine.",
+      "de": "Nur Barbaren trinken unverdünnten Wein."
+    }
+  },
+  {
+    "translation": {
+      "en": "Out of my way, bastard.",
+      "de": "Aus dem Weg, Bastard."
+    }
+  },
+  {
+    "translation": {
+      "en": "Self-control is of the essence.",
+      "de": "Selbstbeherrschung ist essenziell."
+    }
+  },
+  {
+    "translation": {
+      "en": "How much for ore today?",
+      "de": "Wie viel gibt es heute für Erz?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two drachmas for the lot of it.",
+      "de": "Zwei Drachmen für alles."
+    }
+  },
+  {
+    "translation": {
+      "en": "Two drachmas? That's it?",
+      "de": "Zwei Drachmen? Mehr nicht?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be grateful I do business with you at all.",
+      "de": "Sei froh, dass ich dir etwas abkaufe."
+    }
+  },
+  {
+    "translation": {
+      "en": "How did it go?",
+      "de": "Wie lief es?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] What about the rest of it?",
+      "de": "Was ist mit dem Rest?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was lucky to get that.",
+      "de": "Darüber kann ich schon froh sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry. We'll figure something out.",
+      "de": "Keine Sorge. Wir werden uns etwas überlegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "de": "Was ist da los?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need not fear me. I am Grand Archon Alexia.",
+      "de": "Habt keine Angst vor mir. Ich bin die Große Archontin Alexia."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm in pursuit of a demon. Have you seen anything pass?",
+      "de": "Ich verfolge einen Dämon. Ist hier einer aufgetaucht?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Demon? No. -Then get inside.",
+      "de": "-Ein Dämon? Nein. -Dann geht in eure Häuser."
+    }
+  },
+  {
+    "translation": {
+      "en": "These monsters know no mercy.",
+      "de": "Diese Monster kennen kein Erbarmen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Old fool, what are you doing?",
+      "de": "Alter Narr, was tust du da?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Breaking my leg. What's it look like? [groans]",
+      "de": "Mein Bein brechen. Wonach sieht es aus?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've drunk more than you've bled, you old goat.",
+      "de": "Du hast mehr getrunken, als du blutest, alter Bock."
+    }
+  },
+  {
+    "translation": {
+      "en": "One of these days, you're gonna get yourself killed, Elias.",
+      "de": "Eines Tages bringst du dich noch um, Elias."
+    }
+  },
+  {
+    "translation": {
+      "en": "Go ahead without me.",
+      "de": "Geht ohne mich weiter."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're old, not dead.",
+      "de": "Du bist alt, nicht tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to clean this. Heron?",
+      "de": "Wir müssen die Wunde säubern. Heron?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you injured?",
+      "de": "Bist du verletzt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Get to safety.",
+      "de": "Bringt euch in Sicherheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "Arrest this man.",
+      "de": "Nehmt diesen Mann fest."
+    }
+  },
+  {
+    "translation": {
+      "en": "The rumors are true.",
+      "de": "Die Gerüchte sind wahr."
+    }
+  },
+  {
+    "translation": {
+      "en": "An army from the east descends upon us.",
+      "de": "Eine Armee aus dem Osten fällt über uns her."
+    }
+  },
+  {
+    "translation": {
+      "en": "But this enemy is unlike anything we've ever seen before.",
+      "de": "Doch dieser Feind ist anders als alles, was wir kennen."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're a cult of monsters many dare not speak of.",
+      "de": "Es sind Monster, über die nur wenige sprechen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Monsters? -Did she say monsters?",
+      "de": "-Monster? -Sagte sie Monster?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alexia] Only after I saw them did I finally believe.",
+      "de": "Ich glaubte es erst, nachdem ich sie sah."
+    }
+  },
+  {
+    "translation": {
+      "en": "And now, so will you.",
+      "de": "Und ihr werdet das jetzt auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let this test of fire reveal your true nature.",
+      "de": "Was macht sie mit dem Haken? Diese Feuerprobe wird dein wahres Wesen entlarven."
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunting] No! No. Please, please!",
+      "de": "Nein! Bitte!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no!",
+      "de": "Nein!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What are you doing? -May the gods have mercy.",
+      "de": "Was? -Was soll das? -Mögen die Götter gnädig sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "You will convert or die.",
+      "de": "Ihr werdet konvertieren oder sterben."
+    }
+  },
+  {
+    "translation": {
+      "en": "By the gods…",
+      "de": "Bei den Göttern…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You and your cult have forsaken man and spilled innocent blood.",
+      "de": "Ihr habt das Menschsein aufgegeben und unschuldiges Blut vergossen."
+    }
+  },
+  {
+    "translation": {
+      "en": "We've forsaken nothing.",
+      "de": "Nichts haben wir aufgegeben."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the strong and you are the--",
+      "de": "Wir sind die Starken und ihr die…"
+    }
+  },
+  {
+    "translation": {
+      "en": "How is this possible?",
+      "de": "Wie ist das möglich?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How can something like that live inside someone?",
+      "de": "Wie kann so etwas in einem leben?"
+    }
+  },
+  {
+    "translation": {
+      "en": "To understand demons…",
+      "de": "Um Dämonen zu verstehen…"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must to back to the great war against the giants.",
+      "de": "…musst du auf den Krieg gegen die Giganten zurückschauen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Giants?",
+      "de": "Giganten?"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the world was new…",
+      "de": "Als die Welt noch jung war…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] …the gods, the masters of light,",
+      "de": "…besiegten die Götter, die Meister des Lichts,"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeated the titans, the family of darkness.",
+      "de": "die Titanen, die Familie der Dunkelheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "But as the last titan fell,",
+      "de": "Doch als der letzte Titan fiel,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he swore a curse on the gods. And when his blood struck the sea…",
+      "de": "verfluchte er die Götter. Und als sein Blut die See tränkte…"
+    }
+  },
+  {
+    "translation": {
+      "en": "The giants were born.",
+      "de": "…wurden die Giganten geboren."
+    }
+  },
+  {
+    "translation": {
+      "en": "These monsters were brought into the world for a single purpose.",
+      "de": "Diese Monster wurden nur zu einem Zweck geschaffen."
+    }
+  },
+  {
+    "translation": {
+      "en": "To destroy the realm of the gods.",
+      "de": "Um das Reich der Götter zu zerstören."
+    }
+  },
+  {
+    "translation": {
+      "en": "The hellish war erupted, for the great Gigantomachy had begun.",
+      "de": "Der Höllenkrieg brach aus, die große Gigantenschlacht begann."
+    }
+  },
+  {
+    "translation": {
+      "en": "The gods swore to defeat the giants and rid them from the earth.",
+      "de": "Die Götter schworen, die Giganten zu besiegen und sie von der Erde zu tilgen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Both gods and giants fell alike.",
+      "de": "Sowohl Götter als auch Giganten fielen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Still, neither side would relent,",
+      "de": "Trotzdem gab keine Seite nach,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the two factions battled on endlessly, incapable of conquering the other.",
+      "de": "und beide Fraktionen kämpften ewig weiter, unfähig, die andere zu bezwingen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Until one day,",
+      "de": "Bis Zeus eines Tages zwei der Giganten überzeugte,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zeus convinced two of the giants to take up arms with the gods.",
+      "de": "Bis Zeus eines Tages zwei der Giganten überzeugte, mit den Göttern zu kämpfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "And with this, reason and compromise were introduced to the world.",
+      "de": "Und damit waren Vernunft und Übereinkunft erschaffen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Soon, Zeus would lead one final attack.",
+      "de": "Bald führte Zeus einen letzten Angriff an."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] Zeus ordered Hermes to gather their souls…",
+      "de": "Zeus befahl Hermes, ihre Seelen zu sammeln…"
+    }
+  },
+  {
+    "translation": {
+      "en": "while their remains were cast into the ocean,",
+      "de": "…während ihre Überreste ins Meer geworfen wurden,"
+    }
+  },
+  {
+    "translation": {
+      "en": "to be forever swallowed… by the tides.",
+      "de": "wo sie für immer von den Gezeiten verschluckt wurden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The smithing god Hephaestus forged the grand automaton Talos",
+      "de": "Der Götterschmied Hephaistos erschuf den eisernen Riesen Talos,"
+    }
+  },
+  {
+    "translation": {
+      "en": "to stand guard over the cauldron,",
+      "de": "um über das Seelengefäß zu wachen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "forever sworn to keep it shut so that this evil would never return.",
+      "de": "im ewigen Schwur, es geschlossen zu halten, sodass das Böse nie zurückkehren würde."
+    }
+  },
+  {
+    "translation": {
+      "en": "What does this have to do with demons?",
+      "de": "Was hat das mit Dämonen zu tun?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Patience, my young friend.",
+      "de": "Geduld, mein junger Freund."
+    }
+  },
+  {
+    "translation": {
+      "en": "As the ages passed, a terrible squall rustled the ocean floor,",
+      "de": "Im Laufe der Zeit wühlte ein gewaltiger Sturm den Meeresboden auf"
+    }
+  },
+  {
+    "translation": {
+      "en": "casting a dead giant ashore.",
+      "de": "und spülte einen toten Giganten an Land."
+    }
+  },
+  {
+    "translation": {
+      "en": "And as the fates would have it,",
+      "de": "Wie es das Schicksal wollte,"
+    }
+  },
+  {
+    "translation": {
+      "en": "one of these dark vessels was discovered by a man.",
+      "de": "wurde eine dieser dunklen Hüllen von einem Mann gefunden."
+    }
+  },
+  {
+    "translation": {
+      "en": "And though he did not know it, this evil began poisoning him.",
+      "de": "Und wenngleich er es nicht wusste, wurde er von dem Bösen vergiftet."
+    }
+  },
+  {
+    "translation": {
+      "en": "For to even touch a giant is to feel the abyss.",
+      "de": "Einen Giganten zu berühren, bedeutet, den Abgrund zu spüren."
+    }
+  },
+  {
+    "translation": {
+      "en": "And as the moth is drawn to the flame, so were others drawn to him.",
+      "de": "Und wie die Motte zum Licht, so zog es andere Menschen zu ihm."
+    }
+  },
+  {
+    "translation": {
+      "en": "These men ceased to pay tribute to the gods.",
+      "de": "Diese hörten auf, den Göttern Tribut zu zollen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Instead, they pledged their allegiance to the giants.",
+      "de": "Stattdessen schworen sie den Giganten die Treue."
+    }
+  },
+  {
+    "translation": {
+      "en": "And soon, they began to eat of the giant.",
+      "de": "Und bald begannen sie, vom Fleisch des Giganten zu essen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Through this black communion a new family of darkness arose.",
+      "de": "Durch dieses schwarze Abendmahl entstand eine neue Familie der Dunkelheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "They became demons.",
+      "de": "Sie wurden Dämonen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Evil and wicked creatures hidden beneath a human veneer.",
+      "de": "Böse und gottlose Kreaturen hinter einer menschlichen Fassade."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would the gods allow this?",
+      "de": "Warum erlauben die Götter das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because adversity is what makes man great.",
+      "de": "Weil die Not den Menschen groß macht."
+    }
+  },
+  {
+    "translation": {
+      "en": "We'd be weak and useless if the gods were always swooping in",
+      "de": "Wir wären schwach und nutzlos, wenn die Götter immer daherkämen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "and solving our problems.",
+      "de": "um unsere Probleme zu lösen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Huh, I almost forgot.",
+      "de": "Ich hätte es fast vergessen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, accept this as a small token of my appreciation.",
+      "de": "Bitte, nehmt das als kleines Zeichen meiner Dankbarkeit."
+    }
+  },
+  {
+    "translation": {
+      "en": "But it comes with one condition. You make us your wonderful stew.",
+      "de": "Doch nur unter einer Bedingung. Du machst uns deinen grandiosen Eintopf."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] I don't know what we'd do without you.",
+      "de": "Was würden wir nur ohne dich tun?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Must be from Hades. -Strange.",
+      "de": "-Das muss von Hades sein. -Seltsam."
+    }
+  },
+  {
+    "translation": {
+      "en": "-God help us all. -Gods help us all.",
+      "de": "-Gott hilf uns allen. -Götter helft uns allen."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "de": "Wie lautet dein Name?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, Heron. You fought bravely last night.",
+      "de": "-Heron. -Du hast letzte Nacht tapfer gekämpft."
+    }
+  },
+  {
+    "translation": {
+      "en": "And thanks to you, Heron, we found a map, one that describes a nearby encampment.",
+      "de": "Dank dir, Heron, fanden wir eine Karte, auf der ein Lager markiert ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "One the demons will most certainly use to stage their attack.",
+      "de": "Dort werden die Dämonen ihren Angriff koordinieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Join us. Help us take the fight to them.",
+      "de": "Schließ dich uns an. Hilf uns, ihnen zuvorzukommen."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the best way to protect this polis.",
+      "de": "Es ist der beste Weg, diese Polis zu schützen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, my lady. Alexia.",
+      "de": "-Es tut mir leid, Herrin. -Alexia."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, Alexia, but these people have forsaken my mother and I.",
+      "de": "Tut mir leid, Alexia, aber diese Leute haben meine Mutter und mich verbannt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why should I fight for them?",
+      "de": "Warum für sie kämpfen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because all our fates hang in the balance.",
+      "de": "Weil es um unser aller Schicksal geht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Their fate, perhaps. But not mine.",
+      "de": "Um ihr Schicksal vielleicht. Aber nicht um meins."
+    }
+  },
+  {
+    "translation": {
+      "en": "If what she says is true, we should go.",
+      "de": "Wenn das wahr ist, sollten wir gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't understand. We can't.",
+      "de": "Du verstehst nicht. Das geht nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "de": "Warum nicht?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Heron, it'll be our death.",
+      "de": "Heron, es wäre unser Tod."
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you talking about?",
+      "de": "Wovon redest du?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're no bastard.",
+      "de": "Du bist kein Bastard."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your father-- -[man 2] There's the whore! I see her.",
+      "de": "-Dein Vater… -Da ist die Hure! Ich sehe sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 3] That old slut. -[man 4] Over there.",
+      "de": "-Diese alte Schlampe. -Da drüben."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're here to test your whore mother.",
+      "de": "Wir werden deine Hurenmutter auf die Probe stellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You touch her with that and I'll end you.",
+      "de": "Berührt ihr sie damit, seid ihr tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ever since she's turned up, a cloud has hung over us.",
+      "de": "Seit sie aufgetaucht ist, hängt eine Wolke über uns."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's one of them.",
+      "de": "Sie ist eine von ihnen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't kill all of us.",
+      "de": "Du kannst uns nicht alle töten."
+    }
+  },
+  {
+    "translation": {
+      "en": "No. Just some. Who's first?",
+      "de": "Nein. Nur ein paar. Wer will als Erster?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough!",
+      "de": "Das reicht!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "de": "Nein!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! Mom! -[horse neighs]",
+      "de": "Mutter!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rough day.",
+      "de": "Harter Tag."
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have helped, but there were only ten of them.",
+      "de": "Ich hätte geholfen, aber sie waren nur zu zehnt."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should have gone with them.",
+      "de": "Ich hätte mitgehen sollen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You won't be here forever.",
+      "de": "Du wirst nicht für immer hier sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] Alexia's right. War is upon us. We must prepare.",
+      "de": "Alexia hat recht. Krieg steht uns bevor. Wir müssen uns vorbereiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Heron] How?",
+      "de": "Wie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Climb to the top of this mountain.",
+      "de": "Erklimme den Gipfel dieses Berges."
+    }
+  },
+  {
+    "translation": {
+      "en": "There, you will find a rose bush that stands out from the others.",
+      "de": "Dort findest du einen Rosenstrauch, der aus den anderen hervorsticht."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you dig beneath it, you will find the adamantine ore we'll need",
+      "de": "Wenn du darunter gräbst, wirst du das benötigte Adamanterz finden,"
+    }
+  },
+  {
+    "translation": {
+      "en": "to make you a sword like no other.",
+      "de": "um dir ein Schwert wie kein zweites zu schmieden."
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you find me…",
+      "de": "Wie hast du mich gefunden,"
+    }
+  },
+  {
+    "translation": {
+      "en": "You betray your own bidding, o king of kings.",
+      "de": "Du brichst dein eigenes Gebot, König der Könige."
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought we were not to intervene.",
+      "de": "Wir sollten uns doch nicht einmischen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or does that not apply to you?",
+      "de": "Oder gilt das nicht für dich?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I simply said we cannot fight for them.",
+      "de": "Ich sagte, wir können nicht für sie kämpfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "And that I have not done.",
+      "de": "Und das habe ich nicht getan."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I see.",
+      "de": "Verstehe."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll make that distinction clear to the others.",
+      "de": "Ich werde den anderen den Unterschied erklären."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll do no such thing.",
+      "de": "Das wirst du nicht tun."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then allow me to help you. No.",
+      "de": "-Dann erlaube mir, dir zu helfen. -Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "If man is meant to inherit the earth, they must do so on their own accord.",
+      "de": "Wenn der Mensch die Erde erben soll, muss er das aus eigener Kraft schaffen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then why do you come to this one's aid?",
+      "de": "Warum kommst du diesem dann zu Hilfe?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ares] Do you really think this bastard can lead them?",
+      "de": "Denkst du, dieser Bastard kann sie führen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do.",
+      "de": "Das tue ich."
+    }
+  }
+]
