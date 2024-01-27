@@ -1,0 +1,938 @@
+[
+  {
+    "translation": {
+      "en": "Hey, Ipin! Someone needs help!",
+      "th": "นี่ อีปิน มีคนต้องการความช่วยเหลือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's go! -Yes, yes, yes!",
+      "th": "- ไปกันเถอะ - ไปกันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are going to save the day",
+      "th": "เราจะกอบกู้สถานการณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go, Upin and Ipin",
+      "th": "ไปเลย อูปิน อีปิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna help everybody",
+      "th": "เราจะช่วยทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Smarter, faster",
+      "th": "เก่งขึ้น เร็วขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "And stronger!",
+      "th": "และแข็งแกร่งขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry, we will help you!",
+      "th": "ไม่ต้องห่วง เราจะช่วยเธอเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are Upin and Ipin, Helping Heroes!",
+      "th": "เราคืออูปินและอีปิน ฮีโร่ผู้ช่วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi!",
+      "th": "สวัสดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi, everyone!",
+      "th": "สวัสดีครับ ทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am Upin, and this is my twin, Ipin!",
+      "th": "ผมชื่ออูปิน ส่วนนี่ฝาแฝดผม อีปิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes! Hi!",
+      "th": "ใช่ๆ ใช่แล้ว ดีจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Together, we are…",
+      "th": "พวกเราคือ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help! Help!",
+      "th": "ช่วยด้วยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "th": "ช่วยที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone is in trouble!",
+      "th": "มีคนกำลังเดือดร้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "He needs help!",
+      "th": "เขาอยากให้ไปช่วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like a job for the Helping Heroes!",
+      "th": "เห็นทีจะเป็นหน้าที่ของฮีโร่ผู้ช่วยแล้วล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Help! -Help is on the way!",
+      "th": "ช่วยด้วย กำลังไปช่วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh my goodness! What happened here?",
+      "th": "แย่ล่ะสิ เกิดอะไรขึ้นเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over here! Somebody, help me!",
+      "th": "ทางนี้ ใครก็ได้ช่วยที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hurry.",
+      "th": "เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you okay, kid?",
+      "th": "ไม่เป็นไรใช่ไหม เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'm okay.",
+      "th": "อือ ฉันไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh no, no, no, no! My new robot!",
+      "th": "ไม่นะ ไม่ๆ หุ่นยนต์ตัวใหม่ของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It is all broken!",
+      "th": "พังหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am so sad.",
+      "th": "เศร้าจังเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not cry.",
+      "th": "อย่าร้องไห้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can buy a new one.",
+      "th": "ซื้อใหม่ก็ได้นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "But this robot is a birthday gift from my father.",
+      "th": "แต่หุ่นยนต์ตัวนี้เป็นของขวัญวันเกิดจากพ่อฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No other robot can replace it.",
+      "th": "ไม่มีหุ่นยนต์ตัวไหนมาแทนที่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It is special.",
+      "th": "มันพิเศษมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now I am sad.",
+      "th": "ฉันจะร้องด้วยแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not worry. We can fix this!",
+      "th": "ไม่ต้องห่วง เราซ่อมได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can?",
+      "th": "ได้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes!",
+      "th": "ได้สิๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, let us look for the parts and put them back together!",
+      "th": "เราไปหาอะไหล่มาซ่อมมันกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You can help us too! -Yeah!",
+      "th": "- เธอก็ช่วยเราได้นะ - มาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "th": "ลุยเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Look at all the body parts!",
+      "th": "นี่ ดูชิ้นส่วนร่างกายพวกนี้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They kind of look like ours.",
+      "th": "เหมือนของเราเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are right. So, we can fix the robot according to our body.",
+      "th": "จริงด้วย งั้นเราก็ซ่อมหุ่นยนต์ โดยดูจากร่างกายของเราได้สินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Move along with us!",
+      "th": "เอาเลย ขยับตามเราสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yay!",
+      "th": "เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you for helping me with my robot.",
+      "th": "ขอบคุณที่ช่วยฉันเรื่องหุ่นยนต์นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are welcome!",
+      "th": "ด้วยความยินดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "We love to help others and…",
+      "th": "เราชอบช่วยเหลือคนอื่นและ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "…make the world a happier place to live in!",
+      "th": "ทำให้โลกน่าอยู่ขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "th": "พวกเธอเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the Helping Heroes!",
+      "th": "เราคือฮีโร่ผู้ช่วยครับผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi, everyone!",
+      "th": "สวัสดี ทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am Upin, and that is my twin, Ipin!",
+      "th": "ผมชื่ออูปิน ส่วนนี่ฝาแฝดผม อีปิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes! Hi!",
+      "th": "ใช่ๆ ใช่แล้ว ดีจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Together, we are…",
+      "th": "พวกเราคือ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ipin, did you hear that?",
+      "th": "อีปิน ได้ยินไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah! It sounds like a duck is in trouble.",
+      "th": "ได้ยิน เสียงเหมือนเป็ดกำลังลำบาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like a job for the Helping Heroes!",
+      "th": "เห็นทีจะเป็นหน้าที่ของฮีโร่ผู้ช่วยแล้วล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help is on the way!",
+      "th": "กำลังไปช่วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Mama Duck! Why are you quacking so much?",
+      "th": "สวัสดี แม่เป็ด ทำไมร้องก้าบๆ แบบนั้นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "th": "ลุยเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's try again.",
+      "th": "ลองอีกรอบนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you quacking so much?",
+      "th": "ทำไมร้องก้าบๆ แบบนั้นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I lost my baby duckling!",
+      "th": "ฉันทำลูกเป็ดหาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh no! That is pitiful!",
+      "th": "ไม่นะ น่าสงสารจัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, Mama Duck. Do not cry.",
+      "th": "ไม่นะ แม่เป็ด ไม่ร้องนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will help you find your baby duckling.",
+      "th": "เราจะช่วยคุณหาลูกเป็ดน้อยเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You will?",
+      "th": "จริงเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Follow us.",
+      "th": "ตามเรามาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh my goodness! Where do we start?",
+      "th": "โอ้ ตายแล้ว เราจะเริ่มจากตรงไหนดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can ask her!",
+      "th": "เราถามเธอได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Mama Chicken!",
+      "th": "สวัสดี แม่ไก่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you seen Baby Duckling?",
+      "th": "เห็นลูกเป็ดน้อยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่เห็นเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! I played with the duckling just now. Over there!",
+      "th": "เห็น ฉันเพิ่งเล่นกับลูกเป็ดน้อยมา ทางนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait!",
+      "th": "รอก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Baby Chick!",
+      "th": "ขอบคุณนะ ลูกไก่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mama Horse!",
+      "th": "แม่ม้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello!",
+      "th": "สวัสดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Mama Horse!",
+      "th": "สวัสดี แม่ม้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hi! -Have you seen Baby Duckling?",
+      "th": "- สวัสดี - เห็นลูกเป็ดน้อยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่เห็นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! I was playing with the duckling just now too.",
+      "th": "เห็น เมื่อกี้ฉันไปเล่นกับลูกเป็ดน้อยมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over there!",
+      "th": "ตรงนั้นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We will take you there. -Yay!",
+      "th": "- เราจะพาพวกเธอไปที่นั่น - เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah!",
+      "th": "เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Mama Horse!",
+      "th": "ขอบคุณนะ แม่ม้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Baby Foal!",
+      "th": "ขอบคุณนะ ลูกม้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Mama Cow.",
+      "th": "สวัสดี แม่วัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you seen Baby Duckling?",
+      "th": "เห็นลูกเป็ดน้อยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่เห็นเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not worry, Mama Duck.",
+      "th": "ไม่ต้องห่วง แม่เป็ดน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will not give up!",
+      "th": "เราจะไม่ยอมแพ้"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will find your baby no matter what.",
+      "th": "ไม่ว่ายังไงเราก็จะหาลูกคุณให้เจอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Baby Calf!",
+      "th": "ขอบคุณนะ ลูกวัวน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come and sing along!",
+      "th": "มาร้องด้วยกันสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you for helping me find my Baby Duckling.",
+      "th": "ขอบคุณที่ช่วยฉันหาลูกเป็ดน้อยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are welcome, Mama Duck!",
+      "th": "ด้วยความยินดีครับ แม่เป็ด"
+    }
+  },
+  {
+    "translation": {
+      "en": "We did it! We saved the day again!",
+      "th": "สำเร็จแล้ว เรากอบกู้สถานการณ์ได้อีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes.",
+      "th": "ใช่ๆ ใช่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remember to always help others",
+      "th": "จำไว้ว่าจงช่วยเหลือผู้อื่นเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and make the world a happier place!",
+      "th": "และทำให้โลกน่าอยู่ขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "th": "พวกเธอเป็นใครเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the Helping Heroes!",
+      "th": "เราคือฮีโร่ผู้ช่วยครับผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi, everyone!",
+      "th": "สวัสดี ทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am Upin, and this is my twin, Ipin!",
+      "th": "ผมชื่ออูปิน ส่วนนี่ฝาแฝดผม อีปิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes! Hi!",
+      "th": "ใช่ๆ ใช่แล้ว ดีจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whee!",
+      "th": "ไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yay!",
+      "th": "เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Together, we are…",
+      "th": "พวกเราคือ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is that?",
+      "th": "อะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It sounds like something crashed.",
+      "th": "เสียงเหมือนมีอะไรตกเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's have a look!",
+      "th": "ไปดูกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ipin, look! It is a spaceship!",
+      "th": "อีปิน ดูสิ ยานอวกาศนี่นา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes! I can see that.",
+      "th": "ใช่ๆ เห็นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "An alien!",
+      "th": "มนุษย์ต่างดาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The alien is crying.",
+      "th": "มนุษย์ต่างดาวกำลังร้องไห้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It needs help.",
+      "th": "เขาต้องการความช่วยเหลือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like a job for the Helping Heroes!",
+      "th": "เห็นทีจะเป็นหน้าที่ของฮีโร่ผู้ช่วยแล้วล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, calm down.",
+      "th": "ตั้งสติก่อนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's wrong?",
+      "th": "มีอะไรเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puiyo… Puiyo is lost! Puiyo wants to go home.",
+      "th": "ปุยโยะหลงทาง ปุยโยะอยากกลับบ้าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is your home?",
+      "th": "บ้านเธออยู่ไหนเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course! An alien lives in space.",
+      "th": "แหงอยู่แล้ว มนุษย์ต่างดาวอาศัยอยู่ในอวกาศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold on, Puiyo.",
+      "th": "รอเดี๋ยวนะ ปุยโยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are taking you home in space!",
+      "th": "เราจะพาเธอกลับอวกาศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes!",
+      "th": "ใช่ๆ ใช่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come along with us!",
+      "th": "มากับเราสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go!",
+      "th": "ไปกันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "th": "ลุย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ready? Blast off!",
+      "th": "พร้อมไหม พุ่งไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look! The solar system!",
+      "th": "ดูสิ ระบบสุริยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six, seven…",
+      "th": "หก เจ็ด…"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are eight planets in the solar system.",
+      "th": "มีดาวเคราะห์แปดดวงในระบบสุริยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And they all spin around the sun.",
+      "th": "และทุกดวงหมุนรอบดวงอาทิตย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which one is your planet, Puiyo?",
+      "th": "ดาวดวงไหนคือบ้านเธอเหรอ ปุยโยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puiyo is not sure,",
+      "th": "ปุยโยะไม่แน่ใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but it is one of the planets.",
+      "th": "แต่มันเป็นหนึ่งในดาวเคราะห์พวกนี้แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then let us visit all the planets one by one,",
+      "th": "งั้นเราจะแวะดาวเคราะห์แต่ละดวง"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you can tell us which one is your home, okay?",
+      "th": "ให้เธอดูว่าดวงไหนคือบ้านของเธอ โอเคไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are eight planets around the sun.",
+      "th": "มีดาวเคราะห์แปดดวงโคจรรอบดวงอาทิตย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let us name each and every one.",
+      "th": "มารู้จักชื่อแต่ละดวงกันดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puiyo, are any of these planets your home?",
+      "th": "ปุยโยะ ดาวที่ผ่านมาใช่บ้านเธอไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never mind. Let us look some more.",
+      "th": "ไม่เป็นไร ไปกันต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Last planet! Last planet! Yay!",
+      "th": "ดาวดวงสุดท้าย ดาวดวงสุดท้าย ไชโย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Neptune! Is Neptune your home planet?",
+      "th": "ดาวเนปจูน เนปจูนเป็นดาวบ้านเกิดเธอเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! Yes! Puiyo's home!",
+      "th": "ใช่ ใช่ บ้านของปุยโยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you for helping Puiyo!",
+      "th": "ขอบคุณที่ช่วยปุยโยะนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puiyo is happy!",
+      "th": "ปุยโยะมีความสุขแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are welcome, Puiyo!",
+      "th": "ด้วยความยินดี ปุยโยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We did it! We saved the day again!",
+      "th": "สำเร็จแล้ว เรากอบกู้สถานการณ์ได้อีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, yes, yes.",
+      "th": "ใช่ๆ ใช่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remember to always help others",
+      "th": "จำไว้ว่าจงช่วยเหลือผู้อื่นเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and make the world a happier place!",
+      "th": "และทำให้โลกน่าอยู่ขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "th": "พวกเธอเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the Helping Heroes!",
+      "th": "เราคือฮีโร่ผู้ช่วยครับผม"
+    }
+  }
+]

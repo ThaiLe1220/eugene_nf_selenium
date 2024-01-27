@@ -1,0 +1,6224 @@
+[
+  {
+    "translation": {
+      "en": "[man 1] Mayday, mayday! We are under attack.",
+      "th": "เมย์เดย์ๆ เราถูกโจมตี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Under attack from our own people.",
+      "th": "ถูกคนพวกเดียวกันโจมตี"
+    }
+  },
+  {
+    "translation": {
+      "en": "They just started shooting. They took out everyone.",
+      "th": "จู่ๆ ก็เปิดฉากยิง ฆ่าทุกคนตายเรียบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Why are they doing this? -[man 1] They're ours. What's happening?",
+      "th": "ทำไมถึงทำแบบนี้ เป็นพวกเดียวกันแท้ๆ นี่มันเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] How many are there?",
+      "th": "พวกมันมีกี่คน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] They're everywhere! They're going for the command center.",
+      "th": "เยอะแยะไปหมดเลยครับ ตอนนี้กำลังบุกไปศูนย์ควบคุม"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're going to take out the interceptors.",
+      "th": "พวกมันจะไปทำลายมิสไซล์สกัดกั้น (สหรัฐอเมริกามีสถานีเตือนภัยล่วงหน้า อยู่เพียงสองแห่งเท่านั้น)"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] They're killing us, they're killing everybody!",
+      "th": "พวกมันฆ่าเรา ฆ่าทุกคนเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "They reached the command center. I can't hold them off!",
+      "th": "ไปถึงศูนย์ควบคุมแล้ว ผมต้านไว้ไม่ไหวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Somebody help us! Please, send help!",
+      "th": "ใครก็ได้ช่วยพวกเราด้วย ได้โปรดเถอะ ส่งคนมาช่วยที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] We've got to call SBX-1.",
+      "th": "เราต้องโทรหาเอสบีเอ็กซ์วัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] We can't! They destroyed the transmitter!",
+      "th": "โทรไม่ได้ พวกมันทำลายเครื่องส่งสัญญาณแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] This is Fort Greely. We have been overrun. Fort Greely--",
+      "th": "จากฟอร์ตกรีลี่ย์ พวกเราถูกโจมตี ฟอร์ตกรีลี่ย์…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot] Coming up on SBX-1 now, Captain.",
+      "th": "จะถึงเอสบีเอ็กซ์วันแล้วครับ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot] SBX-1 this is Eagle 6-7.",
+      "th": "เอสบีเอ็กซ์วัน นี่อีเกิลซิกซ์เซเว่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got your new missile system specialist here with me.",
+      "th": "ผมพาผู้เชี่ยวชาญระบบมิสไซล์คนใหม่มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Request permission to commence final approach.",
+      "th": "ขออนุญาตดำเนินการลงจอดครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[operator] Eagle 6-7 this is SBX-1, you're cleared for landing.",
+      "th": "อีเกิลซิกซ์เซเว่น นี่เอสบีเอ็กซ์วัน อนุญาตให้ลงจอดได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to the middle of nowhere.",
+      "th": "ขอต้อนรับสู่ดินแดนห่างไกลผู้คน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain Collins, I'm Ensign Washington.",
+      "th": "ผู้กองคอลลินส์ ฉันเรือตรีวอชิงตันค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to SBX-1,",
+      "th": "ยินดีต้อนรับสู่เอสบีเอ็กซ์วัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "or should I say \"welcome back.\"",
+      "th": "หรือฉันควรพูดว่า \"ยินดีต้อนรับกลับมา\""
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thanks. -[Washington] Colonel's waiting for you.",
+      "th": "ขอบคุณนะ ผู้การรออยู่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I heard you grew up in Spain at a base your dad was posted at.",
+      "th": "ฉันได้ยินมาว่าคุณโตมาในสเปน ในฐานที่คุณพ่อคุณไปประจำการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[male voice] Come in.",
+      "th": "เข้ามา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain Collins reporting, sir.",
+      "th": "ร้อยเอกคอลลินส์รายงานตัวค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "At ease.",
+      "th": "ตามสบาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good to see you again, JJ.",
+      "th": "ดีใจที่ได้เจอกันอีก เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You remember Captain Welsh?",
+      "th": "จำผู้กองเวลช์ได้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir. You were just taking over when I rotated out.",
+      "th": "จำได้ค่ะ คุณเพิ่งมารับตำแหน่ง ตอนที่ฉันย้ายไปประจำที่อื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you mean escaped?",
+      "th": "เรียกว่าหนีดีกว่ามั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Welsh] Listen to this.",
+      "th": "ฟังพูดเข้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give us a minute, would you, Lou? -You bet.",
+      "th": "- ขอเวลาพวกเราสักครู่นะ ลู - ได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "See if you can get us an update on that Russian sub.",
+      "th": "ไปหาข่าวเรือดำน้ำรัสเซียให้หน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, as you can see,",
+      "th": "ก็อย่างที่เห็นนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "everything's pretty much the way you left it.",
+      "th": "ทุกอย่างยังเหมือนกับตอนที่คุณอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Navy runs the boat, Army handles the missiles,",
+      "th": "กองทัพเรือควบคุมเรือ กองทัพบกดูเรื่องมิสไซล์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and everyone wants to be anywhere but here.",
+      "th": "และไม่มีใครอยากอยู่ที่นี่เหมือนเดิม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Have you spoke with the board? -Three times.",
+      "th": "คุยกับคณะกรรมการแล้วหรือคะ สามครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Showed them my record? My reviews?",
+      "th": "ให้ดูบันทึกของฉันกับที่ฉันประเมินไว้แล้วหรือคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything.",
+      "th": "ทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was the best you could do?",
+      "th": "แต่ท่านยังทำได้แค่นี้เองหรือคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry.",
+      "th": "ขอโทษค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] No, it's okay.",
+      "th": "ไม่เป็นไรหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought I was done with this shit.",
+      "th": "ฉันนึกว่าไม่ต้องกลับมาทำเรื่องนี้อีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] I know.",
+      "th": "ผมรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never going to change, is it?",
+      "th": "มันคงจะไม่มีวันเปลี่ยนแปลงสินะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you for taking me back.",
+      "th": "ขอบคุณที่ให้ฉันกลับมานะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "For the record, I believed you from the start.",
+      "th": "ขอบอกไว้ก่อนเลยนะ ผมเชื่อคุณมาตั้งแต่แรก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Washington] We got you down here.",
+      "th": "เราจัดห้องไว้ให้คุณข้างล่างนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "One of our guys nabbed your old room.",
+      "th": "ห้องเก่าคุณมีคนยึดไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry about that.",
+      "th": "ต้องขอโทษด้วยนะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, ma'am?",
+      "th": "เอ่อ คุณคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just want to say",
+      "th": "ฉันแค่อยากบอกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "all of us girls are really proud of what you did.",
+      "th": "พวกเราเหล่าทหารหญิงภูมิใจกับสิ่งที่คุณทำมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened to you, well it's…",
+      "th": "เรื่องที่เกิดขึ้นกับคุณมัน…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's happened to a lot of us,",
+      "th": "เคยเกิดกับพวกเราหลายคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I just wanted you to know that.",
+      "th": "และฉันอยากให้คุณรู้ไว้ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you in the command center with your sidearm now.",
+      "th": "ไปที่ศูนย์ควบคุม พกปืนไปด้วย เดี๋ยวนี้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have an active shooter situation at Fort Greely.",
+      "th": "มีผู้ร้ายก่อเหตุยิงที่ฟอร์ตกรีลี่ย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Outsider?",
+      "th": "คนนอกเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, one of ours. Looks like more than one.",
+      "th": "ไม่ คนของเรานี่แหละ ดูเหมือนจะมีมากกว่าหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Interceptors secure?",
+      "th": "มิสไซล์สกัดกั้นยังอยู่ดีไหมคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] Unknown.",
+      "th": "ไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] How bad is it?",
+      "th": "แย่ระดับไหนคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Greely's gone dark. No calls in or out.",
+      "th": "กรีลี่ย์เงียบสนิท ไม่มีการโทรเข้าโทรออก"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're getting all our information off Twitter.",
+      "th": "ข้อมูลทั้งหมดได้มาจากทวิตเตอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] Do we have Fort Greely on the line?",
+      "th": "ติดต่อฟอร์ตกรีลี่ย์ได้รึยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[soldier] Not yet, sir.",
+      "th": "ยังครับท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] You know what to do.",
+      "th": "รู้นะว่าต้องทำยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is Greely being jammed?",
+      "th": "กรีลี่ย์ถูกรบกวนสัญญาณเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. It's like someone turned off the system at the source.",
+      "th": "ไม่ใช่ครับ เหมือนมีใครปิดระบบจากต้นทางเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal Rahul Shah. Joined us six months ago.",
+      "th": "นี่สิบโทราหุล ชาฮ์ เพิ่งเข้ามาได้หกเดือน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain.",
+      "th": "สวัสดีครับ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal.",
+      "th": "ค่ะ ผู้หมู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you remember Beaver.",
+      "th": "ยังจำบีเวอร์ได้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Miss me, Captain?",
+      "th": "คิดถึงผมไหม ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not even once.",
+      "th": "ไม่เลยสักนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] How's our Russian friend?",
+      "th": "เพื่อนรัสเซียของเราเป็นไงมั่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] He's back.",
+      "th": "กลับมาแล้วโน่นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Forty miles out and just sitting there like a turd in a swimming pool.",
+      "th": "ห่างออกไปสี่สิบไมล์ ลอยนิ่งอยู่ตรงนั้นเหมือนขี้จมสระ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] What friend? -Russian attack sub.",
+      "th": "เพื่อนรัสเซียไหน เรือดำน้ำจู่โจมของรัสเซีย ป้วนเปี้ยนแถวนี้หลายเดือนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Been nosing about for months.",
+      "th": "เรือดำน้ำจู่โจมของรัสเซีย ป้วนเปี้ยนแถวนี้หลายเดือนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our subs keep chasing him away and he keeps coming back.",
+      "th": "เรือดำน้ำของเราไล่ไปหลายรอบแต่ก็ยังกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell's going on up there?",
+      "th": "มีเรื่องอะไรกันแน่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. We still on for tonight?",
+      "th": "นี่ คืนนี้ยังเอาอยู่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dude, what?",
+      "th": "เอาอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Poker. I want to whip them janitors like last time.",
+      "th": "โป๊กเกอร์ไง ฉันอยากชนะพวกภารโรงเหมือนคราวที่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Not now, Beaver. -What's wrong with now?",
+      "th": "- ไม่ใช่ตอนนี้ บีเวอร์ - ตอนนี้มันไม่ดียังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're in an emergency.",
+      "th": "กำลังมีเหตุฉุกเฉินกันอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Man, this ain't no emergency.",
+      "th": "บ้าเหรอ อย่างนี้เขาไม่เรียกฉุกเฉินหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's one crackpot with a grudge.",
+      "th": "ก็แค่ไอ้โง่แค้นฝังหุ่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd invite you, ma'am,",
+      "th": "ผมก็อยากเชิญคุณอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but there'll probably be a bit of locker room talk.",
+      "th": "แต่ผมกลัวจะมีมุกเสื่อมๆ ตามประสาชายโฉดน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been practicing against some of the best players in the world",
+      "th": "ฉันซ้อมเล่นกับตัวท็อปๆ ของโลกมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "with this little green guy.",
+      "th": "ใช้เจ้าเครื่องเขียวนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thing's probably more powerful than this entire room.",
+      "th": "น่าจะแรงกว่าคอมทุกตัวในห้องนี้เลยมั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Great story, Beaver.",
+      "th": "เล่าเรื่องได้น่าสนใจดีนี่ บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "In what chapter do you shut the fuck up?",
+      "th": "เมื่อไหร่จะถึงตอนที่นายหุบปากซะทีล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Copy that, STRATCOM.",
+      "th": "รับทราบ สแตรทคอม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, SBX-1 has just been assigned primary early warning status",
+      "th": "ท่านครับ เอสบีเอ็กซ์วันได้รับมอบหมาย ให้เป็นผู้รับแจ้งเตือนหลัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "while Greely's offline.",
+      "th": "ช่วงที่กรีลี่ย์ติดต่อไม่ได้ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, as of this moment we're the only interceptor platform",
+      "th": "เอาละ ทุกคน ณ เวลานี้ เราคือฐานมิสไซล์สกัดกั้นเพียงหนึ่งเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "protecting the United States from a nuclear missile attack.",
+      "th": "ที่ปกป้องสหรัฐฯ จากการโจมตี ด้วยขีปนาวุธนิวเคลียร์ เพราะงั้น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Square your shit away. Focus on the job you've been trained to do.",
+      "th": "หยุดทุกอย่างที่ทำอยู่ แล้วตั้งใจกับหน้าที่ที่ถูกฝึกมาให้ทำซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, we sure this is not some kind of drill or emergency test--",
+      "th": "ท่านครับ เราไม่แน่ใจว่า นี่คือการฝึกซ้อมหรือทดสอบภาวะฉุกเฉิน…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Quiet.",
+      "th": "เงียบก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "NSA is relaying chatter from Russia.",
+      "th": "เอ็นเอสเอกำลังถ่ายทอดบทสนทนาจากรัสเซีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kremlin just received a priority alert from the ICBM missile base in Tavlinka.",
+      "th": "เครมลินเพิ่งได้รับการเตือนภัยระดับหนึ่ง จากฐานยิงมิสไซล์ข้ามทวีปที่ทาฟลินก้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tavlinka site under hostile attack.",
+      "th": "ทาฟลินก้าถูกโจมตี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Multiple casualties.",
+      "th": "มีคนตายหลายศพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unauthorized missile removal.",
+      "th": "มีการเคลื่อนย้ายขีปนาวุธโดยไม่ได้รับอนุญาต"
+    }
+  },
+  {
+    "translation": {
+      "en": "No way.",
+      "th": "ไม่จริงน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sixteen Topol-M mobile missiles unaccounted for.",
+      "th": "ขีปนาวุธเคลื่อนที่โทโพลเอ็ม 16 ลูกหายไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're saying someone stole 16 ICBMs?",
+      "th": "คุณจะบอกว่ามีคนขโมย มิสไซล์ข้ามทวีป 16 ลูกงั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not saying it. The Russians are.",
+      "th": "ฉันไม่ได้พูด พวกรัสเซียว่าอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, Greely goes dark",
+      "th": "ท่านครับ กรีลี่ย์ขาดการติดต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and within 10 minutes a Russian base reports stolen nukes?",
+      "th": "แล้วไม่ถึงสิบนาที ฐานที่รัสเซียบอกว่านิวเคลียร์ถูกขโมยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, Greely's real, but this has to be a Russian exercise.",
+      "th": "เรื่องที่กรีลี่ย์เกิดขึ้นจริง แต่เรื่องนี้น่าจะเป็นการซ้อมของพวกรัสเซีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "If it were real, the Pentagon would've called us by now.",
+      "th": "เพราะถ้าจริง ป่านนี้เพนตากอนโทรมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "SBX-1.",
+      "th": "เอสบีเอ็กซ์วัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir.",
+      "th": "ครับท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are, sir.",
+      "th": "ทราบแล้วครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It just came in now, sir.",
+      "th": "ได้รับแล้วครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will, sir.",
+      "th": "รับทราบครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Russian] We have 16 missiles aimed at 16 American cities.",
+      "th": "เรากำลังเล็งขีปนาวุธ 16 ลูก ไปยัง 16 เมืองในอเมริกา"
+    }
+  },
+  {
+    "translation": {
+      "en": "After this day, America will no longer exist.",
+      "th": "หลังจากวันนี้ จะไม่เหลือประเทศที่ชื่อว่าอเมริกาอีกต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you steal nuclear missiles?",
+      "th": "ขโมยขีปนาวุธนิวเคลียร์ได้ยังไงกันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Had to have been an inside job. You can't just walk in--",
+      "th": "ต้องเป็นฝีมือของคนใน เพราะจู่ๆ จะเดินเข้าไป…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't matter how they did it. What matters is those missiles are mobile.",
+      "th": "จะทำได้ยังไงไม่สำคัญหรอก ประเด็นสำคัญก็คือขีปนาวุธมันเคลื่อนย้ายได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "They can hide their nukes anywhere.",
+      "th": "เพราะงั้นมันเอาไปซ่อนที่ไหนก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our satellites won't spot them till they launch.",
+      "th": "ดาวเทียมของเราคงหาไม่เจอ จนกว่ามันจะยิงแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain.",
+      "th": "ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marshall] JJ.",
+      "th": "เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is on us now, you understand?",
+      "th": "ขึ้นอยู่กับเราแล้ว เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Yes, sir.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're the only thing standing between America and Armageddon.",
+      "th": "เราคือสิ่งเดียวที่จะช่วยอเมริกาจากหายนะได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You up for this?",
+      "th": "คุณพร้อมจะทำไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry about me, sir.",
+      "th": "ไม่ต้องห่วงฉันหรอกค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry. Had to ask.",
+      "th": "โทษที ต้องถามไว้ก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll start the emergency lockdown.",
+      "th": "ฉันจะเริ่มทำการปิดตายฉุกเฉินค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You do that.",
+      "th": "เอาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to find Welsh and secure the HVAR codes.",
+      "th": "ผมต้องไปหาเวลช์ แล้วขอรหัสเอชวาร์มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, wait Sir.",
+      "th": "ท่านคะ เดี๋ยวค่ะ ท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "If they had people inside Tavlinka,",
+      "th": "ถ้าพวกนั้นมีสายอยู่ในทาฟลินก้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the shooters at Greely were all ours,",
+      "th": "แถมพวกที่กราดยิงที่กรีลี่ย์ก็เป็นพวกเรากันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "they might have someone… here.",
+      "th": "ที่นี่ก็อาจจะมี… คนของมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "th": "ยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] The keycard!",
+      "th": "คีย์การ์ด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] The keycard! Get the keycard!",
+      "th": "คีย์การ์ด ไปเอาคีย์การ์ดมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mikael! The door. Open the door!",
+      "th": "มิคาเอล ประตู เปิดประตูเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goddammit, you're a big boy.",
+      "th": "ให้ตายสิ ตัวใหญ่ไม่เบานะเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you send the SOS?",
+      "th": "ส่งสัญญาณเอสโอเอสรึยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you just stab that dude in the eye with your gun?",
+      "th": "เมื่อกี้คุณเพิ่งเอาปืนแทงตาหมอนั่นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Did you send the SOS?",
+      "th": "ใช่ ส่งสัญญาณเอสโอเอสไปรึยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I sent it. They told me to stand by.",
+      "th": "ครับๆ ส่งไปแล้ว ทางนั้นบอกให้รอรับคำสั่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] How is Beaver?",
+      "th": "บีเวอร์เป็นไงบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bullet clipped him. He's unconscious, but he'll be okay.",
+      "th": "โดนยิงเข้าจุดไม่สำคัญ หมดสติไป แต่ไม่เป็นไรหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that acid?",
+      "th": "กรดเหรอครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] Why would they bring acid?",
+      "th": "พวกนั้นจะเอากรดมาทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Destroy the circuitry.",
+      "th": "ทำลายวงจรไฟฟ้าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make this place useless.",
+      "th": "ทำให้ที่นี่ใช้การไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are we going to do?",
+      "th": "แล้วเราจะทำยังไงต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to talk about it?",
+      "th": "อยากคุยกันหน่อยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leave now and you might escape with your life.",
+      "th": "ถ้าไปซะตอนนี้ อาจยังรักษาชีวิตไว้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me in",
+      "th": "ถ้าให้ผมเข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you might escape with yours.",
+      "th": "คุณก็อาจจะมีชีวิตรอดออกไปได้เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are the terrorists who stole the missiles from Tavlinka?",
+      "th": "พวกคุณใช่ไหม ที่ขโมยขีปนาวุธมาจากทาฟลินก้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You know, it would be a hell of a coincidence if I wasn't.",
+      "th": "คงเป็นเรื่องบังเอิญมากไป ถ้าผมจะบอกว่าไม่ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put one on Beaver.",
+      "th": "เอาไปใส่ให้บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the shooters at Greely?",
+      "th": "แล้วพวกกราดยิงที่กรีลี่ย์ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Subcontractors.",
+      "th": "มือปืนรับจ้างน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a gig economy.",
+      "th": "เดี๋ยวนี้เขาฮิตรับจ็อบกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't work at a US base without an extensive background check.",
+      "th": "ถ้าไม่ผ่านการตรวจสอบประวัติอย่างละเอียด ก็ทำงานที่ฐานทัพสหรัฐฯ ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're telling me. The paperwork is a nightmare.",
+      "th": "คุณกำลังบอกผมว่า ขั้นตอนเอกสารมันยุ่งยากมากงั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That would mean you've been planning this--",
+      "th": "นั่นหมายความว่าคุณวางแผนเรื่องนี้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] For a very long time.",
+      "th": "มานานมากแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] How long is a very long time?",
+      "th": "นานมากมันนานแค่ไหนกันล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six years.",
+      "th": "หกปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not going so well for you, is it?",
+      "th": "แต่ไม่ได้ราบรื่นอย่างที่คิด ใช่ไหมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No plan survives contact with the enemy completely intact.",
+      "th": "ไม่มีแผนไหนที่สมบูรณ์แแบบ เมื่อต้องปะทะกับศัตรูจริงๆ หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are we enemies? You sound American.",
+      "th": "เราเป็นศัตรูกันเหรอ สำเนียงคุณฟังดูเป็นคนอเมริกันนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I am American.",
+      "th": "ผมเป็นคนอเมริกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And whether or not you and I are enemies",
+      "th": "และคุณกับผมจะเป็นศัตรูกันหรือไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "is completely up to you.",
+      "th": "มันขึ้นอยู่กับคุณคนเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "th": "คุณชื่ออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Alexander Kessel.",
+      "th": "ผมชื่ออเล็กซานเดอร์ เคสเซล"
+    }
+  },
+  {
+    "translation": {
+      "en": "You say that like I should know it.",
+      "th": "พูดเหมือนฉันจะรู้จักงั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now that you do, you will never forget it.",
+      "th": "ตอนนี้คุณก็รู้แล้ว และคุณจะไม่มีวันลืม"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about I just call you \"asshole\"?",
+      "th": "งั้นฉันขอเรียกสั้นๆ ว่า \"ไอ้ชั่ว\" ได้รึเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, usually it takes a woman a second date to reach that conclusion.",
+      "th": "ปกติแล้ว ต้องไปเดตกันสองครั้ง ผู้หญิงถึงจะตัดสินใจเรียกแบบนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing usual about me.",
+      "th": "ก็ฉันไม่มีอะไรปกติเลยนี่นา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I'm kind of getting that.",
+      "th": "เริ่มจะเข้าใจแล้วละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, Captain, seems as though you and I are at an impasse",
+      "th": "ผู้กอง ดูเหมือนคุณกับผมจะถึงทางตันกันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "because I need to disable your command center",
+      "th": "เพราะผมต้องปิดระบบศูนย์ควบคุมของคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "so my people in Russia can fire those missiles.",
+      "th": "เพื่อให้คนของผมในรัสเซียยิงขีปนาวุธได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you need to keep me out.",
+      "th": "ส่วนคุณก็ต้องคอยกันผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, full disclosure,",
+      "th": "แต่ขอพูดเปิดอกเลยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have contained or killed everyone else on this vessel,",
+      "th": "ผมคุมตัวหรือไม่ก็ฆ่าทุกคนบนฐานนี้หมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I will be getting into that room.",
+      "th": "เพราะงั้นห้องนั้นน่ะ เดี๋ยวผมก็เข้าได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me in now",
+      "th": "ให้ผมเข้าไปซะตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I will spare your lives.",
+      "th": "แล้วผมจะไว้ชีวิตพวกคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And let millions of Americans die?",
+      "th": "แล้วปล่อยให้คนอเมริกันเป็นล้านๆ ต้องตายน่ะเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think you realize why someone joins the Army.",
+      "th": "คงไม่เข้าใจเหตุผลที่คนมาเป็นทหารสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are alone in the middle of the ocean,",
+      "th": "คุณโดดเดี่ยวอยู่กลางทะเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "miles from any port,",
+      "th": "ไกลจากฝั่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "way beyond the nearest shipping lane.",
+      "th": "ห่างจากเส้นทางเดินเรือที่ใกล้ที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one is going to be able to get here and save you",
+      "th": "ไม่มีใครที่จะสามารถถ่อมาที่นี่แล้วช่วยคุณได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "before I cut through these doors.",
+      "th": "ก่อนที่ผมจะเจาะประตูเข้าไปหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Shah, how many janitors are there?",
+      "th": "นี่ ชาฮ์ ที่นี่มีภารโรงกี่คน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. Six, seven?",
+      "th": "ไม่รู้สิครับ หกหรือเจ็ดคนมั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Which is it, six or seven? -[Shah] I don't know. I didn't hire them.",
+      "th": "หกหรือเจ็ดล่ะ ผมไม่รู้ ผมไม่ได้เป็นคนจ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a big rig.",
+      "th": "สถานีนี้ใหญ่มากนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You couldn't have killed everyone so quickly.",
+      "th": "ไม่น่าจะฆ่าทุกคนได้เร็วขนาดนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] Nerve agent.",
+      "th": "สารพิษทำลายประสาท"
+    }
+  },
+  {
+    "translation": {
+      "en": "Released it through the A/C. Put 'em all right to sleep.",
+      "th": "ปล่อยผ่านช่องแอร์ก็สลบกันหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[snorts] Bullshit.",
+      "th": "โกหก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If it makes any difference, they felt nothing.",
+      "th": "ถ้าจะทำให้คุณรู้สึกดีขึ้นละก็ พวกเขาไม่เจ็บปวดเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We did have to shoot them to be sure.",
+      "th": "แต่ก็ต้องยิงซ้ำเพื่อให้แน่ใจอยู่ดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] Don't worry.",
+      "th": "ไม่ต้องห่วง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The command center has its own A/C, and try as I might…",
+      "th": "ศูนย์ควบคุมมีแอร์แยกต่างหาก ถึงผมจะพยายามแล้ว…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't access it.",
+      "th": "ก็เข้าไม่ได้สินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would we be having this awesome little conversation if I could?",
+      "th": "ถ้าได้แล้วเราจะได้มายืนคุยกัน อย่างออกรสอยู่แบบนี้ไหมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-SBX-1. This is Captain Collins. -Is this real?",
+      "th": "- เอสบีเอ็กซ์วัน นี่ร้อยเอกคอลลินส์ - จริงเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-General Dyson. Where's Colonel Marshall? -[man] Everyone quiet.",
+      "th": "- นี่พลเอกไดสัน ผู้การมาร์แชลอยู่ไหน - ทุกคนเงียบก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's dead, sir.",
+      "th": "เสียชีวิตแล้วค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead? What happened?",
+      "th": "ตายเหรอ เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six to seven terrorists disguised as janitors seized our vessel.",
+      "th": "มีผู้ก่อการร้ายหกถึงเจ็ดคน ปลอมตัวเป็นภารโรงมายืดฐานเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "They killed Marshall, they claim they have killed the crew,",
+      "th": "พวกมันฆ่ามาร์แชล อ้างว่าฆ่าลูกเรือคนอื่นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-and tried to take the command center. -Tried?",
+      "th": "ตอนนี้กำลังพยายามยึดศูนย์ควบคุม พยายามเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And failed. -[Dyson] Who's there with you?",
+      "th": "และล้มเหลวค่ะ แล้วใครอยู่กับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporals Shah and Baker.",
+      "th": "สิบโทชาฮ์กับเบเกอร์ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baker's unconscious. Hit by a bullet.",
+      "th": "เบเกอร์หมดสติ โดนยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "How secure are you?",
+      "th": "แล้วตอนนี้ปลอดภัยแค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're using blowtorches to cut through the outer door.",
+      "th": "พวกมันกำลังใช้ตะเกียงฟู่ เจาะผ่านประตูนอกเข้ามาอยู่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Best guess…",
+      "th": "ถ้าให้ประมาณการ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sixty minutes.",
+      "th": "หกสิบนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make that 30 minutes.",
+      "th": "เปลี่ยนเป็น 30 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Dyson] And the inner door? -Same. I don't know.",
+      "th": "แล้วประตูด้านในล่ะ คงเท่ากันมั้งคะ ไม่รู้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What can you tell us about these terrorists?",
+      "th": "รู้ข้อมูลอะไรเกี่ยวกับพวกผู้ก่อการร้ายบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "American. Leader says his name is Alexander Kessel.",
+      "th": "เป็นคนอเมริกัน จ่าฝูงบอกว่าเขาชื่ออเล็กซานเดอร์ เคสเซล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get me a full background check on this guy. What else?",
+      "th": "ไปตรวจสอบประวัติโดยละเอียด แล้วไงอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "They move like they've been trained,",
+      "th": "วิธีการลงมือเหมือนฝึกมาดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "and they're using nerve agents.",
+      "th": "แล้วก็ใช้สารพิษทำลายประสาท"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's happening at Greely?",
+      "th": "ที่กรีลี่ย์เป็นยังไงบ้างคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shooters are dead.",
+      "th": "มือปืนตายหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unfortunately, so are the computers that control the interceptors.",
+      "th": "แต่น่าเสียดายที่คอมพิวเตอร์ ควบคุมมิสไซล์สกัดกั้นก็ถูกทำลายไปด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Burned them all with acid.",
+      "th": "ถูกกรดเผาไหม้หมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "So it's just us.",
+      "th": "เหลือแต่เราแล้วสินะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Afraid so.",
+      "th": "เกรงว่าจะอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "A SEAL team is inbound to you.",
+      "th": "หน่วยซีลกำลังไปสมทบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to hang on a little longer.",
+      "th": "พวกคุณต้องยันไว้ให้นานอีกนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-ETA? -Ninety minutes.",
+      "th": "- เท่าไหร่คะ - เก้าสิบนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are they joking?",
+      "th": "ล้อเล่นใช่ไหมเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, we are not joking. -[Collins] Madam President.",
+      "th": "ไม่ ไม่ได้ล้อเล่นเลย ท่านประธานาธิบดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "The terrorists have 16 mobile missile launchers",
+      "th": "ผู้ก่อการร้ายมีเครื่องยิงขีปนาวุธเคลื่อนที่ 16 ลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we and the Russians cannot find.",
+      "th": "ที่ทั้งเราและรัสเซียหาไม่พบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only reason they haven't launched them yet",
+      "th": "เหตุผลเดียวที่พวกนั้นยังไม่ยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "is because you still have control of your interceptors.",
+      "th": "ก็เพราะพวกคุณยังควบคุมมิสไซล์สกัดกั้นได้อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "The second you don't,",
+      "th": "ทันทีที่เสียการควบคุมไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "they will launch those missiles on the United States.",
+      "th": "พวกมันจะยิงขีปนาวุธเข้าโจมตีสหรัฐอเมริกา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, we don't have time to evacuate 16 cities,",
+      "th": "เราไม่มีเวลาพอที่จะอพยพผู้คนทั้ง 16 เมืองได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "so we're counting on you to keep those maniacs out of that room.",
+      "th": "เพราะงั้นเราต้องหวังพึ่งคุณ ให้คอยกันไอ้พวกบ้านั่นอยู่นอกห้องให้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Understood, Madam President.",
+      "th": "เข้าใจแล้วค่ะ ท่านประธานาธิบดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll get back to you soon. Keep us updated.",
+      "th": "เดี๋ยวเราจะติดต่อไป คอยส่งข่าวด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir.",
+      "th": "รับทราบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain, hold that room.",
+      "th": "ผู้กอง ป้องกันห้องนั้นไว้ให้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[soldier] Let's move out! Go!",
+      "th": "รีบออกเลย ไปๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[operator] SEAL team, you are clear for immediate departure to SBX-1.",
+      "th": "หน่วยซีล ได้รับอนุญาตให้ ออกเดินทางไปเอสบีเอ็กซ์วันทันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ninety minutes? There's no way we can last that long.",
+      "th": "เก้าสิบนาทีเหรอ ต้านไว้นานขนาดนั้นไม่ได้แน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not without a fight.",
+      "th": "คงไม่ได้ ถ้าไม่สู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? No. No, no.",
+      "th": "อะไรนะ ไม่ครับ ไม่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not a fighter. I'm a signal specialist.",
+      "th": "ผมสู้ไม่เก่งนะครับ ผมเป็นผู้เชี่ยวชาญด้านสัญญาณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I sit at a desk and stare at a screen, and know what? I like it.",
+      "th": "หน้าที่ของผมคือนั่งจ้องจออยู่ที่โต๊ะ แล้วผมก็ชอบงานแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Know why? Because nothing ever happens.",
+      "th": "ทำไมรู้ไหม เพราะไม่เคยมีเรื่องเลยไงล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, I haven't fired a gun since basic.",
+      "th": "ผมไม่ได้ยิงปืนมาตั้งแต่ตอนฝึกพื้นฐานแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry. Guns still work the same.",
+      "th": "ไม่ต้องห่วง วิธียิงก็ยังเหมือนเดิมนั่นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, you can't count on me. You can't.",
+      "th": "ฟังนะ คุณหวังพึ่งผมไม่ได้หรอกครับ ไม่ได้จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You surrender?",
+      "th": "ยอมแพ้รึยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you?",
+      "th": "คุณล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Still quite enjoying fucking up your day.",
+      "th": "ยังสนุกกับการกวนตีนคุณอยู่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know anything about the fall of Rome?",
+      "th": "รู้เรื่องการล่มสลายของโรมไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the barbarians massed outside the city gates",
+      "th": "ตอนที่พวกคนป่าเถื่อนรวมตัวกันอยู่นอกประตูเมือง"
+    }
+  },
+  {
+    "translation": {
+      "en": "they did unspeakable things to try and force the Romans to let them in.",
+      "th": "พวกเขาทำเรื่องที่โหดอย่างไม่น่าเชื่อ เพื่อพยายามบีบบังคับให้พวกโรมันเปิดประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Exitus actum probat. \"The result justifies the deed.\"",
+      "th": "เอ็กซิทุส แอ็กตุม โพรแบต \"ผลเป็นเครื่องชี้ว่ากระทำถูก\""
+    }
+  },
+  {
+    "translation": {
+      "en": "You remember Captain Welsh?",
+      "th": "จำผู้กองเวลช์ได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a father of four and a grandfather of seven.",
+      "th": "คุณพ่อลูกสี่ มีหลานเจ็ดคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] This is not gonna work.",
+      "th": "ไม่ได้ผลหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the doors.",
+      "th": "เปิดประตูซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't let him die.",
+      "th": "ปล่อยให้เขาตายไม่ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will not open these doors.",
+      "th": "ฉันไม่ยอมเปิดประตูให้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't, I will kill him.",
+      "th": "ถ้าไม่เปิด ผมจะฆ่าเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will not open these doors.",
+      "th": "ยังไงฉันก็ไม่เปิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Last chance.",
+      "th": "ให้โอกาสครั้งสุดท้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kill anyone you want.",
+      "th": "อยากฆ่าใครก็ฆ่าไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will never open this door.",
+      "th": "ฉันไม่มีวันเปิดประตูเด็ดขาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're going to die too, aren't we?",
+      "th": "เราก็จะตายเหมือนกันใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are not gonna die.",
+      "th": "เราไม่ตายหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're gonna get in here. They're gonna kill us.",
+      "th": "เดี๋ยวพวกมันก็เข้ามาได้ มันฆ่าเราแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Corporal. -There's nothing we can do to stop them!",
+      "th": "- หมู่ - ถึงทำอะไรก็หยุดพวกมันไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal Shah, they're not in here yet,",
+      "th": "หมู่ชาฮ์ พวกมันยังเข้ามาไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "but if we're going to keep them out, I need you thinking clearly.",
+      "th": "แต่การที่จะกันพวกมันไม่ให้เข้ามาได้ คุณจะต้องคิดอย่างมีสติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We still have a job to do, right?",
+      "th": "เรายังมีงานที่ต้องทำใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right.",
+      "th": "ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So go back to your post and keep our scanners on Tavlinka.",
+      "th": "เพราะงั้นกลับไปประจำที่ แล้วก็จับตาดูทาฟลินก้าไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if they launch?",
+      "th": "ถ้ามันยิงขีปนาวุธล่ะครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We intercept.",
+      "th": "เราก็สกัดกั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "We also need to figure out every way they can penetrate this room.",
+      "th": "เราต้องรู้ทุกทาง ที่พวกมันจะสามารถเข้ามาในห้องนี้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tunnel's the only direct way, in or out.",
+      "th": "อุโมงค์เป็นทางเดียวที่ใช้เข้าออกได้โดยตรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about indirect? Any new piping or conduits I should know about?",
+      "th": "แล้วทางอ้อมล่ะ มีการวางท่อน้ำ หรือท่อหุ้มสายไฟใหม่ที่ฉันไม่รู้บ้างไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Plumbing comes through a conduit in the floor",
+      "th": "ท่อประปาต่อขึ้นมาจากท่อใต้พื้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "too small for anyone to fit through.",
+      "th": "เล็กเกินกว่าที่คนจะมุดเข้าไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Same for the cables.",
+      "th": "ท่อเคเบิลก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What else could they do? Think.",
+      "th": "พวกมันจะเข้ามาจากทางได้ไหนอีก คิดสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about blowing the radar dome?",
+      "th": "ถ้าระเบิดโดมเรดาร์ล่ะครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dome's reinforced even stronger than we are.",
+      "th": "โดมมีโครงสร้างเสริมเหล็ก แข็งแกร่งกว่าที่นี่ซะอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Same with the interceptors.",
+      "th": "มิสไซล์สกัดกั้นก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get me eyes outside the hatches, top and bottom.",
+      "th": "เปิดกล้องดูข้างนอกหน่อย ทั้งข้างบนข้างล่างเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the shotgun.",
+      "th": "เอาปืนลูกซองมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shoot him!",
+      "th": "ยิงเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shoot him now!",
+      "th": "ตอนนี้แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like it was just the one.",
+      "th": "ดูเหมือนจะฉายเดี่ยว"
+    }
+  },
+  {
+    "translation": {
+      "en": "When was the last time this thing was test fired?",
+      "th": "ลองยิงเจ้านี่ครั้งสุดท้ายเมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. Can it still work?",
+      "th": "ไม่รู้สิครับ ยังใช้ได้อยู่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not without blowing up in your face.",
+      "th": "มันจะระเบิดใส่หน้าเข้าให้น่ะสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What about your pistol? -Out.",
+      "th": "- แล้วปืนพกคุณล่ะครับ - กระสุนเกลี้ยง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] So we have no weapons.",
+      "th": "งั้นเราก็ไม่เหลืออาวุธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me.",
+      "th": "มาช่วยหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] Thanks for saving Turbo.",
+      "th": "ขอบคุณที่ช่วยเทอร์โบไว้นะครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Who?",
+      "th": "ใครนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turbo, the turtle. My kids gave him to me.",
+      "th": "เทอร์โบ เต่าตัวนั้นน่ะครับ ลูกๆ ผมให้มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many kids you got?",
+      "th": "มีลูกกี่คนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prisha, she's nine. Aditi, seven. And Kalyan, he's three.",
+      "th": "ปรีชา เก้าขวบ อธิติ เจ็ดขวบ แล้วก็กัลญาณ สามขวบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I haven't seen them for six months.",
+      "th": "ผมไม่เห็นหน้าลูกมาหกเดือนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Best thing you can do for them now is help me stop those missiles.",
+      "th": "สิ่งเดียวที่คุณทำเพื่อลูกได้ในตอนนี้ คือช่วยฉันหยุดขีปนาวุธพวกนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything?",
+      "th": "เจออะไรไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] They got everyone.",
+      "th": "พวกเขาจัดการทุกคนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's just going to keep buzzing till you answer.",
+      "th": "ถ้าไม่ตอบก็คงจะกดอยู่อย่างนั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] What do you want now?",
+      "th": "อะไรอีกล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain, you should see this.",
+      "th": "ผู้กองครับ มาดูนี่หน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Think you're the first one to throw that in my face?",
+      "th": "คิดว่าตัวเองเป็นคนแรกที่เอานี่มาให้ฉันดูเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Think you're gonna break me?",
+      "th": "คิดเหรอว่าจะทำให้ฉันเจ็บใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "เปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "And yes.",
+      "th": "แล้วก็ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] It's gonna take more than that. -I've got more coming.",
+      "th": "ต้องใช้มากกว่านี้เยอะ เดี๋ยวมีอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, you don't. You're scrambling.",
+      "th": "ไม่มีหรอก แค่มุกปั่นหัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kessel] Am I? -Desperately.",
+      "th": "- งั้นเหรอ - ปั่นสุดลิ่มทิ่มประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "How so?",
+      "th": "ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a planner.",
+      "th": "คุณเป็นนักวางแผน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six years, you said.",
+      "th": "เมื่อกี้บอกว่าหกปีใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looking for ways to beat the security, getting your people aboard,",
+      "th": "ที่หาวิธีหลบหลีกมาตรการความปลอดภัย พาคนของคุณขึ้นมาที่ฐานนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must have gone over and over these things",
+      "th": "คงคิดทบทวนแผนการหลายตลบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "until you were absolutely sure you planned for every possible outcome,",
+      "th": "จนแน่ใจว่าหาทางหนีทีไล่ไว้หมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "but you couldn't plan for me.",
+      "th": "แต่กลับไม่ได้วางแผนว่าจะเจอฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know how I know?",
+      "th": "รู้ไหมว่าฉันรู้ได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because I'm meant to be in Fort Hunter right now on my new post.",
+      "th": "เพราะจริงๆ แล้วตอนนี้ ฉันควรจะต้องไปประจำการที่ฟอร์ตฮันเตอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only fell through late last night when they reassigned me here.",
+      "th": "แต่แผนเพิ่งล่มไปเมื่อคืน เพราะฉันถูกส่งมาประจำการที่นี่แทน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now…",
+      "th": "และตอนนี้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you can't beat me.",
+      "th": "คุณก็เอาชนะฉันไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll give you \"unexpected.\"",
+      "th": "เรียกว่า \"คาดไม่ถึง\" ดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "But not unbeatable.",
+      "th": "แต่ไม่ถึงกับเอาชนะไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, here's what I know.",
+      "th": "แต่ผมรู้มาว่าอย่างนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know that three years ago, you scored your dream job.",
+      "th": "ผมรู้ว่าเมื่อสามปีก่อน คุณได้งานในฝัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pentagon, three-star General.",
+      "th": "เพนตากอน นายพลสามดาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "A battlefield hero, his troops loved him.",
+      "th": "วีรบุรุษในสนามรบ ทหารใต้บังคับบัญชาเคารพรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were going to build a statue to the guy.",
+      "th": "จนจะสร้างรูปปั้นให้ด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And he promised to take you all the way to the top,",
+      "th": "เขาสัญญาว่าจะพาคุณไปถึงจุดสูงสุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "but then you learned the price you'd have to pay.",
+      "th": "แต่แล้วคุณก็ได้รู้ว่าต้องใช้อะไรเข้าแลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know the Army review board just decided you made it all up.",
+      "th": "ผมรู้ว่าคณะกรรมการตรวจสอบของกองทัพ ลงความเห็นว่าคุณแต่งเรื่องทั้งหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Threw you right back into the lion's den.",
+      "th": "แล้วโยนคุณกลับเข้าถ้ำสิงห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know that three-star welcomed you with open arms.",
+      "th": "ผมรู้ว่าไอ้สามดาวนั่นมันอ้าแขนต้อนรับคุณกลับไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because predators always want to show you exactly who's in charge.",
+      "th": "เพราะนักล่าชอบแสดงให้เหยื่อเห็นว่า ใครถือไพ่เหนือกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, that general got discharged.",
+      "th": "นายพลคนนั้นโดนปลดไปแล้วนี่ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which means you beat him. You won.",
+      "th": "ซึ่งแปลว่าคุณเอาชนะเขาได้ คุณชนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She won the battle, not the war.",
+      "th": "ชนะศึก แต่ไม่ได้ชนะสงคราม"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, first came the hate mail.",
+      "th": "เริ่มจากอีเมลด่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "The bounty hunt for these lewd photos…",
+      "th": "(นังแพศยาตอแหล ตระบัดสัตย์) ตั้งรางวัลสำหรับรูปปลุกใจเสือป่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "…then the death threats.",
+      "th": "แล้วก็คำขู่ฆ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] All from within the army that you so proudly served.",
+      "th": "ทั้งหมดมาจากกองทัพ ที่คุณคอยรับใช้ด้วยความภาคภูมิใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then finally…",
+      "th": "สุดท้ายก็เกิดเรื่อง…"
+    }
+  },
+  {
+    "translation": {
+      "en": "that night.",
+      "th": "คืนนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] JJ! JJ!",
+      "th": "เจเจ เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "JJ, come on!",
+      "th": "โอ้ พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, wake up. JJ!",
+      "th": "ตื่นสิ เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Wake up. Come back.",
+      "th": "ตื่นสิ ตื่น กลับมานะ ลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Papa?",
+      "th": "พ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay, it's okay. Papa's here. It's okay. I got you.",
+      "th": "ไม่เป็นไรนะ พ่ออยู่นี่แล้ว ไม่เป็นไรแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Papa… sorry.",
+      "th": "- พ่ออยู่นี่ - พ่อ… หนูขอโทษ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are beatable, Captain.",
+      "th": "คุณยังมีวันแพ้ได้ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been proven.",
+      "th": "เขาพิสูจน์กันมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you are so right,",
+      "th": "ถ้าพูดถูกนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "then what am I doing here?",
+      "th": "แล้วฉันมาทำอะไรอยู่นี่ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why do I still wear the uniform?",
+      "th": "ทำไมฉันยังใส่เครื่องแบบอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "War's not over yet, motherfucker.",
+      "th": "สงครามยังไม่จบหรอก ไอ้ชาติชั่ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should be working with me.",
+      "th": "คุณน่าจะมาทำงานกับผมนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "In fact, I will give you 30 million dollars",
+      "th": "ผมให้คุณ 30 ล้านดอลลาร์เลยเอ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "if you open these doors.",
+      "th": "ถ้าคุณเปิดประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will have you flown to the country of your choosing",
+      "th": "ผมจะให้คุณบินไปประเทศไหนบนโลกก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "where you can live the rest of your life in luxury.",
+      "th": "ที่คุณจะได้ใช้ชีวิตหรูหราไปจนตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "If anyone has earned the right to walk away from this, it's you.",
+      "th": "ถ้าจะมีคนที่สมควรจะได้ออกไปจากตรงนี้ ก็คือคุณนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thirty million dollars.",
+      "th": "สามสิบล้านดอลลาร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did the Army ever give you?",
+      "th": "กองทัพเคยให้อะไรคุณบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your depressing old job in the middle of nowhere, where they can forget about you?",
+      "th": "งานเดิมๆ ที่น่าหดหู่ อยู่ห่างไกลผู้คน จะได้ไปให้พ้นๆ หน้าซะน่ะเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They don't care about you.",
+      "th": "พวกมันไม่สนใจคุณหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Open these doors.",
+      "th": "เปิดประตูซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take back your power.",
+      "th": "ยึดอำนาจคุณกลับคืนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how you win a war.",
+      "th": "แบบนี้ถึงจะชนะสงคราม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot] SEAL team is inbound to SBX-1. ETA 67 minutes.",
+      "th": "หน่วยซีลกำลังมุ่งหน้าไปเอสบีเอ็กซ์วัน อีกประมาณ 67 นาทีถึง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] They're in.",
+      "th": "เข้ามาได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the door and you leave here a wealthy woman.",
+      "th": "เปิดประตู แล้วคุณจะได้ ออกไปจากที่นี่อย่างเศรษฐี"
+    }
+  },
+  {
+    "translation": {
+      "en": "We still have time before you cut through this door.",
+      "th": "เรายังมีเวลา ก่อนที่แกจะเจาะประตูเข้ามาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You really don't. -[gun cocks]",
+      "th": "ไม่มีหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] Beaver. -[Shah] What?",
+      "th": "- บีเวอร์ - อะไรวะเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Nice, Beaver.",
+      "th": "เยี่ยมมาก บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Initiating satellite relay and EBS hack.",
+      "th": "เริ่มถ่ายทอดสัญญาณดาวเทียม และแฮ็กระบบถ่ายทอดฉุกเฉิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're in.",
+      "th": "เข้าได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I have a new one.",
+      "th": "ไม่ มีรหัสใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "ZSB, Zulu Sierra Bravo, 1-9-9-6.",
+      "th": "แซดเอสบี ซูลู เซียร่า บราโว่ 1996"
+    }
+  },
+  {
+    "translation": {
+      "en": "And tell Danny to move in.",
+      "th": "บอกแดนนี่ให้เข้ามาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you hurt?",
+      "th": "เจ็บไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've had worse.",
+      "th": "เคยเจ็บกว่านี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It really didn't have to be this way.",
+      "th": "ไม่จำเป็นต้องเป็นแบบนี้เลยจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Corporal Baker doesn't get hit, we avoid all of this.",
+      "th": "ถ้าหมู่เบเกอร์ไม่โดนยิง ก็คงไม่ต้องยุ่งยากกันขนาดนี้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you're gonna kill me, just kill me.",
+      "th": "ถ้าจะฆ่าฉันก็ฆ่าเลยเหอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No mansplaining.",
+      "th": "ไม่ต้องอธิบายมากความ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gave you choices.",
+      "th": "ผมให้คุณเลือกแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was your decision to become enemies.",
+      "th": "คุณเลือกเป็นศัตรูเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were with them this whole time?",
+      "th": "แกเป็นพวกมันมาตลอดเลยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "อ่าฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah grunts] Traitor.",
+      "th": "ไอ้คนทรยศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "America's the traitor.",
+      "th": "อเมริกาต่างหากที่ทรยศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Always were full of shit, Beaver.",
+      "th": "ดีแต่ตอแหลสินะ บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Ah, what do you know?",
+      "th": "แกจะไปรู้อะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love my country.",
+      "th": "ฉันก็รักประเทศของฉันนะโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, there was a time I would have even died for it. [sniffs]",
+      "th": "เคยคิดจะตายเพื่อชาติด้วยซ้ำไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never too late.",
+      "th": "ก็ยังไม่สายไปนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut up.",
+      "th": "หุบปากไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's because of immigrants like you",
+      "th": "เพราะพวกอพยพอย่างแก"
+    }
+  },
+  {
+    "translation": {
+      "en": "and like you",
+      "th": "กับแก"
+    }
+  },
+  {
+    "translation": {
+      "en": "that I lost my job",
+      "th": "ทำให้ฉันตกงาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the government took away my rights,",
+      "th": "แถมรัฐบาลยังลิดรอนสิทธิ์ของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "started making up all kinds of shit to scare me.",
+      "th": "กุเรื่องต่างๆ นานาให้ฉันกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Shit. I don't even recognize America these days.",
+      "th": "เชี่ยเอ๊ย ฉันไม่รู้ด้วยซ้ำว่า อเมริกาทุกวันนี้กลายเป็นเหี้ยอะไรไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "And that gives you the right to murder millions of people?",
+      "th": "แล้วมันทำให้แกมีสิทธิ์ฆ่าคนเป็นล้านๆ รึไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it gives me the right to start looking out for myself.",
+      "th": "ฉันมีสิทธิ์ทำเพื่อตัวเองบ้างละกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now I got ten million ways to do that.",
+      "th": "แล้วตอนนี้ฉันก็มีเป็นล้านๆ วิธี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Money? That's what this is about?",
+      "th": "เงินเหรอ แกทำเพื่อเงินใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Uh, yeah. It's what America's about.",
+      "th": "เออ ก็ใช่สิวะ ในอเมริกาเรื่องเงินเรื่องใหญ่นะโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if you don't get that,",
+      "th": "แล้วถ้าแกไม่เข้าใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "you obviously haven't been paying attention, Shah.",
+      "th": "ก็แปลว่าแกไม่ได้สนใจเรื่องรอบตัวเลย ไอ้ชาฮ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wake up, man.",
+      "th": "ตาสว่างได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, sure. Sure. Blame America. Blame the government.",
+      "th": "เออสิ โทษอเมริกา โทษรัฐบาล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Blame everyone else but you.",
+      "th": "โทษมันทุกคนยกเว้นตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what all losers do.",
+      "th": "พวกขี้แพ้ชอบทำแบบนี้แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just keep on talking, darlin'.",
+      "th": "พูดไปเถอะจ้ะ ที่รัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because before this is all over,",
+      "th": "เพราะก่อนที่เรื่องนี้จะจบลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna do to you",
+      "th": "ฉันจะทำแก"
+    }
+  },
+  {
+    "translation": {
+      "en": "what every enlisted grunt secretly wants to do to every female officer.",
+      "th": "แบบที่พวกพลทหารมันคิดอยากทำ กับนายทหารหญิงทุกคนอยู่ในใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The only way you can get it, isn't it?",
+      "th": "ถ้าไม่ทำแบบนี้คงไม่มีวันได้แอ้มละสิท่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. Another thing.",
+      "th": "เฮ้ย อีกอย่างนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never call a woman by anything other than her name.",
+      "th": "อย่าสะเหล่อใช้คำอื่นเรียกผู้หญิงนอกจากชื่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not honey, or honey pie, or sugar, or sugar pie,",
+      "th": "อย่าเรียกว่าอีหนู อีน้อง น้องสาว น้องนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "or sweetie, or sweetie pie.",
+      "th": "เด็กป๋า เด็กเสี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not baby, sweetheart, ho, bitch,",
+      "th": "เด็กเฮีย เด็กพี่ อีร่าน อีเวร"
+    }
+  },
+  {
+    "translation": {
+      "en": "and above all, most of all, beyond all else,",
+      "th": "และเหนืออื่นใด เหนือกว่าคำที่พูดมาทั้งหมดนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "don't ever, ever, call her \"darlin'.\"",
+      "th": "อย่าบังอาจเรียกว่า \"ที่รัก\" เด็ดขาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Satellite relay's live on the EBS.",
+      "th": "ดาวเทียมกำลังถ่ายทอดสดทางอีบีเอสแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Emergency Broadcast System?",
+      "th": "ระบบถ่ายทอดฉุกเฉินน่ะเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, so that every camera on this rig",
+      "th": "ใช่ เพื่อที่กล้องทุกตัวบนแท่นนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "can be broadcast to any device that has smart capabilities.",
+      "th": "จะได้ถ่ายทอดไปยังอุปกรณ์สมาร์ททั้งหลายได้ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wouldn't want anyone missing the show.",
+      "th": "ไม่อยากให้ใครพลาดรับชมน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Kessel. Where's Captain Collins?",
+      "th": "คุณเคสเซล ผู้กองคอลลินส์อยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's here. She's unharmed.",
+      "th": "อยู่ตรงนี้ สบายดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well… relatively.",
+      "th": "ก็… ค่อนข้างน่ะนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "As is Corporal Shah.",
+      "th": "หมู่ชาฮ์ก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] And Corporal Baker?",
+      "th": "หมู่เบเกอร์ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Howdy, General.",
+      "th": "ดีฮะ ท่านนายพล"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] You two are servicemen.",
+      "th": "พวกแกเป็นทหาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You took an oath.",
+      "th": "กล่าวคำสัตย์ปฏิญาณแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "How could you betray your country?",
+      "th": "กล้าทรยศประเทศตัวเองได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I swore an oath to the old America. Not this one.",
+      "th": "ก็ฉันถือคำสัตย์ปฏิญาณต่ออเมริกาแบบเดิม ไม่ใช่แบบนี้โว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] What do you want?",
+      "th": "พวกแกต้องการอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] From you?",
+      "th": "จากคุณน่ะเหรอ ไม่มีนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just waiting for America to join our little chat here.",
+      "th": "ผมแค่รออเมริกามาร่วมวงสนทนาด้วยเฉยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dad's proud. That must be nice.",
+      "th": "พ่อภูมิใจแน่ะ ดีจังเลยเนอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "EBS has slaved all signals.",
+      "th": "อีบีเอสควบคุมสัญญาณทั้งหมดได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say hello to America, boss.",
+      "th": "กล่าวคำทักทายอเมริกาได้เลยค่ะ บอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you know it's got a big screen, great picture quality, you know,",
+      "th": "เนี่ยแหละครับ จอใหญ่ ภาพคมชัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "the sound's kind of meh,",
+      "th": "เสียงก็งั้นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I don't really listen to the TV that much.",
+      "th": "แต่ปกติผมไม่ค่อยฟังเสียงจากทีวีสักเท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I play music when I watch and stuff so it doesn't really…",
+      "th": "ผมชอบฟังเพลงไป ดูทีวีไปมากกว่า ก็เลยไม่ค่อย…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why'd it go black and white?",
+      "th": "ทำไมกลายเป็นขาวดำล่ะเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's the President?",
+      "th": "ประธานาธิบดีอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm here.",
+      "th": "ฉันอยู่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you launch even one of those missiles,",
+      "th": "ถ้าคุณปล่อยขีปนาวุธแม้แต่ลูกเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I swear before God that we will hunt you down",
+      "th": "ฉันขอสาบานต่อพระเจ้าเลยว่าเราจะตามล่าคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and wipe you from existence.",
+      "th": "แล้วกำจัดคุณให้ไม่เหลือซาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough. You're boring me.",
+      "th": "พอเหอะ พูดจาน่าเบื่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm taking your bully pulpit now.",
+      "th": "ผมขอยึดเวทีละนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "My fellow Americans, I am Alexander Kessel,",
+      "th": "เพื่อนผองชาวอเมริกันทั้งหลาย ผมชื่ออเล็กซานเดอร์ เคสเซล"
+    }
+  },
+  {
+    "translation": {
+      "en": "son of trust fund billionaire, Alexander Kessel Senior,",
+      "th": "ลูกชายของมหาเศรษฐีกองทุนทรัสต์ อเล็กซานเดอร์ เคสเซล ซีเนียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "who you may also know",
+      "th": "ซึ่งคุณอาจจะรู้จัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "is the current utterly unqualified US ambassador to the United Nations.",
+      "th": "ในนามทูตสหรัฐฯ ประจำสหประชาชาติ ที่ไร้คุณสมบัติที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, my associates in Russia control 16 nuclear missiles,",
+      "th": "ขณะนี้ พวกพ้องของผมในรัสเซีย มีขีปนาวุธนิวเคลียร์ 16 ลูกอยู่ในมือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I control the only interceptor missiles that are capable of stopping them.",
+      "th": "ส่วนมิสไซล์สกัดกั้นขีปนาวุธ ที่เป็นความหวังชุดสุดท้ายก็อยู่ในมือผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sixteen American cities have been targeted.",
+      "th": "สิบหกเมืองในอเมริกาถูกเล็งไว้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "300 million of you will die.",
+      "th": "ประชากร 300 ล้านคนจะต้องตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "One city will be destroyed first",
+      "th": "เราจะทำลายไปก่อนหนึ่งเมือง"
+    }
+  },
+  {
+    "translation": {
+      "en": "so that the rest of you can watch in horror.",
+      "th": "พวกที่เหลือจะได้ดูกันอย่างอกสั่นขวัญแขวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Missile team one…",
+      "th": "ขีปนาวุธทีมที่หนึ่ง…"
+    }
+  },
+  {
+    "translation": {
+      "en": "fire.",
+      "th": "ยิงได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Missile launch detected. Missile launch detected.",
+      "th": "(เอสบีเอ็กซ์วัน) ตรวจพบการยิงขีปนาวุธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Missile launch detected.",
+      "th": "ตรวจพบการยิงขีปนาวุธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Intercept launch expires in 12 minutes.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาใน 12 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] Now in 12 minutes, that missile I just launched,",
+      "th": "ในอีก 12 นาที ขีปนาวุธที่ผมเพิ่งยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "will pass over my head,",
+      "th": "จะบินผ่านหัวผมไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "at which point, it will be too late for this interceptor to catch it.",
+      "th": "ณ จุดนั้น ถึงจะยิงมิสไซล์สกัดกั้นก็ไม่ทันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "But which city has been chosen?",
+      "th": "แต่เมืองไหนกันนะที่ถูกเลือก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it yours?",
+      "th": "ใช่เมืองของคุณไหมนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wherever it lands, there's no time to run.",
+      "th": "ไม่ว่าจะไปลงที่ไหนก็ไม่ทันแล้วละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't flee.",
+      "th": "หนีไม่ได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you guessed Los Angeles,",
+      "th": "ถ้าคุณเดาว่าลอสแอนเจลิสละก็…"
+    }
+  },
+  {
+    "translation": {
+      "en": "congratulations.",
+      "th": "ปิ๊งป่อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The City of Angels has 23 minutes left to live.",
+      "th": "เมืองแห่งนางฟ้านางสวรรค์ เหลือเวลามีชีวิตอยู่อีก 23 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait a second.",
+      "th": "เดี๋ยวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once Los Angeles is gone,",
+      "th": "พอลอสแอนเจลิสราบเป็นหน้ากลอง…"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the fear of every American is at its peak…",
+      "th": "นี่ จะไปไหน… เดี๋ยวสิ ยังไม่ปิดร้านเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're not closing yet.",
+      "th": "เดี๋ยวสิ ยังไม่ปิดร้านเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "…I will launch a second wave of 15 nuclear missiles.",
+      "th": "ผมก็จะถล่มยิงขีปนาวุธ 15 ลูกที่เหลือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "San Francisco, Seattle, Las Vegas,",
+      "th": "ซานฟรานซิสโก ซีแอตเทิล ลาสเวกัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cincinnati, Dallas, Denver, Memphis, Chicago, St. Louis, Atlanta, Boston,",
+      "th": "ซินซินแนติ ดัลลัส เดนเวอร์ เมมฟิส ชิคาโก เซนต์หลุยส์ แอตแลนตา บอสตัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Philadelphia, Miami, New York.",
+      "th": "ฟิลาเดลเฟีย ไมอามี นิวยอร์ก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And of course, Washington DC.",
+      "th": "และแน่นอน วอชิงตันดีซี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Today…",
+      "th": "วันนี้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "America dies in a paroxysm of fear.",
+      "th": "อเมริกาจะต้องตายขณะที่ตื่นกลัวสุดขีด"
+    }
+  },
+  {
+    "translation": {
+      "en": "America is the greatest lie ever told.",
+      "th": "อเมริกาคือเรื่องโกหกครั้งใหญ่ที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "American exceptionalism?",
+      "th": "คติยกเว้นอเมริกาน่ะเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe once.",
+      "th": "ก็อาจจะเคยใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the founders got rid of kings.",
+      "th": "ตอนที่ผู้ก่อตั้งประเทศกำจัดระบอบกษัตริย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "When they declared that all men are created equal.",
+      "th": "ตอนที่ประกาศว่ามนุษย์ทุกคนเกิดมาเท่าเทียมกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now they say ours are United States, but when was that true?",
+      "th": "ตอนนี้มาบอกว่าประเทศของเราคือสหรัฐ แต่เป็นแบบนั้นจริงๆ เมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it true during the Civil War?",
+      "th": "มันใช่แบบนั้นไหม ตอนมีสงครามกลางเมือง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or Jim Crow?",
+      "th": "หรือตอนร่างกฎหมายจิม โครว์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, is it true now?",
+      "th": "ตอนนี้มันเป็นแบบนั้นจริงหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, this national lie, it's a festering wound,",
+      "th": "ไอ้เรื่องโกหกระดับชาตินี่มันเป็นแผลเน่าเฟะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and it's fatal.",
+      "th": "ร้ายแรงถึงชีวิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no Band-Aid to patch it.",
+      "th": "เอาพลาสเตอร์แปะไว้ไม่ได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, the only way to save our nation and the promise it once held",
+      "th": "หนทางเดียวที่จะช่วยกู้ชาติของเรา และความหวังที่เคยมี"
+    }
+  },
+  {
+    "translation": {
+      "en": "is to erase it. Start over.",
+      "th": "คือต้องลบทิ้งให้หมด แล้วเริ่มใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "So maybe then. when we are staring at each other",
+      "th": "อาจจะเป็นตอนนั้นเอง ที่เรามองตากัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "from across the rubble,",
+      "th": "จากอีกฟากของซากปรักหักพัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "we will all agree that this time",
+      "th": "และเห็นพ้องต้องกันว่าครั้งนี้แหละ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "we're going to get America right.",
+      "th": "เราจะทำให้อเมริกาเป็นอย่างที่ควรเป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Corporal Rahul Shah.",
+      "th": "นี่คือสิบโทราหุล ชาฮ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you like being an American, Rahul?",
+      "th": "คุณชอบการเป็นคนอเมริกันไหม ราหุล"
+    }
+  },
+  {
+    "translation": {
+      "en": "With all my heart.",
+      "th": "สุดหัวใจเลยครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you're a Hindu.",
+      "th": "แต่คุณเป็นคนฮินดูนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can be both.",
+      "th": "ก็เป็นได้ทั้งสอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "In America?",
+      "th": "ในอเมริกาเนี่ยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've never been mocked for your faith?",
+      "th": "ไม่เคยโดนล้อเรื่องศาสนาเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never been the subject to enhanced screenings at airports?",
+      "th": "ไม่เคยโดนตรวจสอบเข้มงวดที่สนามบิน เพราะเรื่องนี้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Share with the world what you've seen.",
+      "th": "บอกให้โลกรู้สิว่าเคยพบเจออะไรมาบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've seen you in the showers,",
+      "th": "ผมเคยเห็นคุณตอนอาบน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I can see why you're obsessed with missiles.",
+      "th": "ทำให้รู้เลยว่าทำไมถึงหมกมุ่นกับเรื่องมิสไซล์นัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pathetic.",
+      "th": "น่าสมเพช"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got this, boss. [inhaling]",
+      "th": "ผมจัดการเอง บอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Captain Joanna Julia Collins.",
+      "th": "นี่คือร้อยเอกโจแอนนา ฮูเลีย คอลลินส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "JJ to her friends.",
+      "th": "หรือที่เพื่อนเรียกว่าเจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "A soldier who has fought with honor and courage here today.",
+      "th": "ทหารที่ต่อสู้อย่างกล้าหาญสมเกียรติในวันนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, three years ago, one of our nation's top generals",
+      "th": "เมื่อสามปีก่อน มีนายพลระดับสูงของประเทศเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "tried to abuse his position of power and force her to have sex with him.",
+      "th": "พยายามใช้อำนาจในตำแหน่งหน้าที่ บังคับให้เธอมีเซ็กซ์ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whose career was ruined?",
+      "th": "คิดว่าหน้าที่การงานของใครจบเห่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should be showering her with praise,",
+      "th": "พวกคุณควรจะสรรเสริญความดีความชอบของเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but she's a woman,",
+      "th": "แต่ด้วยความที่เธอเป็นผู้หญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "so instead her fellow service members",
+      "th": "เพื่อนทหารทั้งหลายแหล่ของเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "put out a bounty hunt on photos like this.",
+      "th": "พากันตั้งรางวัลหารูปแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're an asshole, dude.",
+      "th": "นายแม่งโคตรเฮงซวยเลยว่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I offered her 30 million dollars to give up her post today.",
+      "th": "ผมเสนอเงินให้ 30 ล้านดอลลาร์ เพื่อให้เธอละทิ้งหน้าที่ในวันนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "She refused.",
+      "th": "แต่เธอปฏิเสธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She took that photo for charity, by the way.",
+      "th": "เธอถ่ายรูปนั้นเพื่อการกุศลนะ บอกไว้ก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What position were you? Were you goalkeeper?",
+      "th": "ตอนนั้นเล่นตำแหน่งอะไรนะ ผู้รักษาประตูรึเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goalkeeper. It's a tough position.",
+      "th": "ผู้รักษาประตู เล่นยากอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beg your pardon?",
+      "th": "เมื่อกี้ว่าไงนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You take a lot of hits, concussions, bruised ribs,",
+      "th": "โดนประจำ หัวกระแทกบ้าง ซี่โครงช้ำบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the most common injury is dislocated thumbs.",
+      "th": "แต่ที่บ่อยกว่าเพื่อนคือนิ้วหัวแม่โป้งเคลื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] -[Beaver] Oh shit.",
+      "th": "อ้าว เชี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] No!",
+      "th": "โธ่เว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit! [panting]",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in six minutes.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาในหกนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Think you can make it?",
+      "th": "คิดว่าจะทำได้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you?",
+      "th": "แล้วเธอล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in five minutes.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาในห้านาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have five minutes. Hold her or kill her.",
+      "th": "อีกแค่ห้านาที จับกดไว้หรือไม่ก็ฆ่าซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Interceptor launched.",
+      "th": "ยิงมิสไซล์สกัดกั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Missile intercepted.",
+      "th": "ขีปนาวุธถูกสกัดกั้นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fucking die already, would you?",
+      "th": "ตายซะทีได้ไหมวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remember? I said, \"Whatever happens, make sure you shoot her first.\" [sniffs]",
+      "th": "จำได้ไหม ผมบอกว่า \"ไม่ว่าอะไรจะเกิดขึ้น ให้ยิงนังนั่นก่อนเพื่อนเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"You just take her out of the fight, because if you don't do that,",
+      "th": "เก็บมันก่อนเลย เพราะถ้าไม่ทำแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "if you don't just put her down right away, man, she's gonna be trouble.\"",
+      "th": "ถ้าไม่ฆ่านังนั่นก่อน มันทำเราซวยแน่\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Beaver. She's… She's just one of those women, you know?",
+      "th": "- บีเวอร์ - นังนั่น… นังนั่นเป็นผู้หญิงแบบนั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She just likes to just get under your skin and just needle you, man.",
+      "th": "ประเภทที่กวนประสาท แล้วก็จี้จุดอ่อนของคนน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like a… like a fucking needle.",
+      "th": "เหมือน… เหมือนเข็มทิ่มแทง"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a setback and nothing more.",
+      "th": "เจออุปสรรคนิดหน่อย ก็แค่นั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Setback?",
+      "th": "อุปสรรคเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh. Good.",
+      "th": "อ้อ ดีแฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, did you hear that? It's a setback. That's cool.",
+      "th": "ได้ยินไหมวะ ป๋าเขาว่าอุปสรรคแน่ะ เจ๋งว่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She shot the goddamn missile out of the sky!",
+      "th": "อีห่านจิกแม่งยิงมิสไซล์ร่วงไปแล้วนะโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's one missile. There are 15 left.",
+      "th": "ก็แค่ลูกเดียว ยังเหลืออีกตั้ง 15 ลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And what happens if she shoots them down too, huh?",
+      "th": "ก็แล้วถ้ามันยิงตกทุกลูกล่ะ หา"
+    }
+  },
+  {
+    "translation": {
+      "en": "What then? What do we do then?",
+      "th": "แล้วไง แล้วจะเอาไงกันต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our faces, man, they're all over the world right now.",
+      "th": "หน้าพวกเราขึ้นจอหราไปทั่วโลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do we do then?",
+      "th": "แล้วจะเอาไงต่อล่ะทีนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the statute of limitations on attempted nuking?",
+      "th": "อายุความคดีพยายามยิงระเบิดนิวเคลียร์มันกี่ปีวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are prepared for this. We have backup plans.",
+      "th": "เราเตรียมการสำหรับเรื่องนี้มาแล้วไง แผนสำรองก็มี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? [sighs]",
+      "th": "แค่เนี้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You played that one pretty close to the buzzer.",
+      "th": "เมื่อกี้เฉียดฉิวมากเลยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Doing my best here, ma'am.",
+      "th": "ฉันพยายามทำดีที่สุดแล้วค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you turn off the TV coverage?",
+      "th": "ปิดช่องทางออกอากาศทีวีได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me a minute.",
+      "th": "แป๊บนะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not from here.",
+      "th": "ปิดจากตรงนี้ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] Understood.",
+      "th": "เข้าใจแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long till the SEALS get here?",
+      "th": "เมื่อไหร่หน่วยซีลจะมาถึงคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fifty minutes. They're going as fast as they can.",
+      "th": "ห้าสิบนาที เร็วสุดเท่าที่จะเร็วได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not fast enough.",
+      "th": "ยังเร็วไม่พอค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] And we got some background on Alexander Kessel.",
+      "th": "เรารู้ข้อมูลเพิ่มเติมเกี่ยวกับ อเล็กซานเดอร์ เคสเซล"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was Army, military intelligence.",
+      "th": "เขาเคยอยู่กองทัพ หน่วยข่าวกรอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Started out doing Russian work,",
+      "th": "เริ่มจากเป็นสายข่าวรัสเซีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "then became a psy ops and torture specialist.",
+      "th": "แล้วเข้าหน่วยปฏิบัติการจิตวิทยา เป็นผู้เชี่ยวชาญการทรมาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Torture?",
+      "th": "ทรมานเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] He was good. Too good sometimes.",
+      "th": "เขาเก่งเรื่องนั้นมาก บางครั้งเก่งเกินด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Killed two prisoners while he was torturing them.",
+      "th": "ฆ่านักโทษไปสองรายตอนที่ทรมาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Jesus. I'm dealing with a genuine psychopath.",
+      "th": "ตายละ นี่ฉันสู้กับไอ้โรคจิตตัวจริงอยู่เหรอเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not alone. Lot of smart people here trying to figure out a way to help you.",
+      "th": "ไม่ใช่แค่คุณคนเดียว มีคนเก่งๆ พยายามช่วยคุณอยู่เยอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tacticians, game theorists.",
+      "th": "นักกลยุทธ์ นักทฤษฎีเกม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck theory. I need some fucking soldiers with guns.",
+      "th": "ช่างหัวทฤษฎีเถอะ ฉันต้องการทหารที่มีปืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hear you, Captain.",
+      "th": "ผมรู้แล้ว ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, give her some guns, man.",
+      "th": "เออ ก็เอาปืนให้เขาไปสิวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't mind me saying, you are one armor-plated woman.",
+      "th": "ขอผมพูดหน่อยเถอะนะ คุณคือหญิงเหล็กตัวจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Army never should have picked a fight with you.",
+      "th": "กองทัพไม่น่ามีเรื่องกับคุณเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got that right.",
+      "th": "รู้ก็ดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rahul.",
+      "th": "ราหุล"
+    }
+  },
+  {
+    "translation": {
+      "en": "What'd I miss?",
+      "th": "ผมพลาดอะไรไปบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not much.",
+      "th": "ก็นิดหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did we stop the missile?",
+      "th": "เราหยุดขีปนาวุธได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. We stopped it.",
+      "th": "อืม หยุดได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice.",
+      "th": "เจ๋ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait. Where's all the bad guys?",
+      "th": "เดี๋ยว แล้วพวกตัวร้ายหายไปไหนหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "That Alexander dude must be pissed at you.",
+      "th": "เจ้าอเล็กซานเดอร์นั่นมันคงโกรธคุณสุดๆ เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, well, that's because I'm still fucking up his day.",
+      "th": "ก็นะ เพราะฉันยังทำมันซวยไม่หยุดหย่อนไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Papa?",
+      "th": "พ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. How you feeling?",
+      "th": "ไง เป็นยังไงบ้าง ลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You up for some soup?",
+      "th": "กินซุปหน่อยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sure.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You saw what they did.",
+      "th": "เห็นที่พวกนั้นทำแล้วใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Papa] I'll take care of it.",
+      "th": "เดี๋ยวพ่อจัดการเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not let them get to you now. Don't let them win.",
+      "th": "อย่าเสียกำลังใจเพราะพวกมัน อย่าให้มันเป็นฝ่ายชนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They hate me.",
+      "th": "คนพวกนั้นเกลียดหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "You told the truth.",
+      "th": "ลูกพูดความจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody cares about the truth.",
+      "th": "ไม่มีใครสนใจความจริงหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Papa] I care.",
+      "th": "พ่อนี่แหละสน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've lost everything. Everything I ever worked for.",
+      "th": "หนูสูญเสียทุกอย่างไปแล้ว ทุกอย่างที่หนูเหน็ดเหนื่อยเพื่อให้ได้มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey.",
+      "th": "นี่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the one thing I've taught you since you were little?",
+      "th": "สิ่งเดียวที่พ่อสอนลูกมาตั้งแต่ยังเล็กคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "The one rule in life?",
+      "th": "กฎข้อเดียวในการใช้ชีวิตน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never stop fighting.",
+      "th": "อย่าได้หยุดต่อสู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Papa] You got fight in you, kid.",
+      "th": "ลูกมีพลังที่จะต่อสู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Always have. Just like your mama.",
+      "th": "มีมาตลอด เหมือนแม่ของลูกไงล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] Captain?",
+      "th": "ผู้กองฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He wants to talk.",
+      "th": "เขาอยากคุยด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long have I been out?",
+      "th": "ฉันสลบไปนานแค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] Not long. Fifteen minutes or so.",
+      "th": "ไม่นานฮะ ประมาณ 15 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] What now, asshole?",
+      "th": "อะไรอีกล่ะ ไอ้ชั่ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think I'm a monster.",
+      "th": "คุณคิดว่าผมเป็นปีศาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was.",
+      "th": "ผมเคยเป็นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, growing up, I never summered where I wintered. [chuckles]",
+      "th": "รู้ไหม ตอนเด็กๆ ผมไม่เคยอยู่ประเทศเดียวกันข้ามปีเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was either on a yacht in the Hamptons or skiing in Val d'Isère.",
+      "th": "ถ้าไม่ล่องเรือยอชต์อยู่แถวแฮมป์ตันส์ ก็เล่นสกีอยู่ที่วัลดิแซร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sucks to be you, dude.",
+      "th": "แหม ชีวิตช่างรันทด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not complaining.",
+      "th": "ผมไม่ได้บ่นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was the product of a failed society.",
+      "th": "ผมคือผลพวงของสังคมที่ล้มเหลว"
+    }
+  },
+  {
+    "translation": {
+      "en": "A society that consistently rewards money and ignores everything else.",
+      "th": "สังคมที่ชื่นชมบูชาเงิน และเมินเฉยต่อทุกสิ่งนอกจากเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? You think my father became ambassador to the UN",
+      "th": "คิดว่าพ่อผมได้เป็นทูตสหประชาชาติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "because of any worthwhile diplomatic skills",
+      "th": "เพราะมีทักษะทางการทูตที่ล้ำเลิศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "or because of his political donations?",
+      "th": "หรือเพราะเงินบริจาคทางการเมืองล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, that's what we do in America.",
+      "th": "เห็นไหม อเมริกาก็เป็นซะแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "We just figure because someone's rich that means they're smart.",
+      "th": "พอเห็นใครรวย ก็คิดไว้ก่อนว่าต้องฉลาดแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "My father's a moron.",
+      "th": "พ่อผมน่ะโง่"
+    }
+  },
+  {
+    "translation": {
+      "en": "He inherited his money.",
+      "th": "รวยเพราะได้มรดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He didn't earn it. -God.",
+      "th": "- เฮ้อ - ไม่ได้หามาด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't tell me this is about daddy issues.",
+      "th": "อย่าบอกนะว่าที่ทำนี่เพราะมีปมเรื่องพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't expect you to understand.",
+      "th": "ผมก็ไม่ได้หวังจะให้คุณเข้าใจหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I understand plenty.",
+      "th": "ฉันเข้าใจดีเลยแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your father is a good man.",
+      "th": "พ่อคุณเป็นคนดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "The best.",
+      "th": "ที่หนึ่งเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "He served too, didn't he?",
+      "th": "เคยรับใช้ชาติเหมือนกันใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thirty-six years.",
+      "th": "สามสิบหกปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] That's how he met your mom? When he was stationed in Spain?",
+      "th": "ถึงได้รู้จักกับแม่คุณใช่ไหม ตอนไปประจำการที่สเปน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does he still hang out with his army buddies?",
+      "th": "พ่อคุณยังไปคุยเล่นกับเพื่อนๆ ทหารอยู่รึเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Every day.",
+      "th": "ทุกวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "In Scottsdale, right?",
+      "th": "ที่สก็อตส์เดล ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] The Patriot's Valley Veterans Retirement Home.",
+      "th": "เดอะเพทริออตส์แวลลีย์ บ้านพักทหารผ่านศึก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Room 6B.",
+      "th": "ห้องหกบี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Papa?",
+      "th": "พ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go!",
+      "th": "ปล่อยพ่อฉันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's got nothing to do with this! -Beg to differ.",
+      "th": "- พ่อฉันไม่เกี่ยว - แต่ผมว่าเกี่ยวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go!",
+      "th": "ปล่อยพ่อฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You said I could kill whoever, and you'd never open this door.",
+      "th": "ไหนคุณบอกว่าอยากฆ่าใครก็ฆ่า ให้ตายก็ไม่ยอมเปิดประตูนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go, God damn you!",
+      "th": "ปล่อยพ่อฉันนะ ไอ้เปรตนรก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kessel] Let's see if that's still valid. -Fuck you!",
+      "th": "ไหนดูซิยังจะทำตามที่พูดไหม ไอ้สารเลว ชาติชั่ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think it's going to go any other way?",
+      "th": "คิดเหรอว่ามันจะมีทางอื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is what I was trained for. Psy ops. Military intelligence.",
+      "th": "ผมถูกฝึกมาให้ทำแบบนี้ ปฏิบัติการจิตวิทยา หน่วยข่าวกรองกองทัพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Find your enemy's weak point and exploit it.",
+      "th": "หาจุดอ่อนของศัตรูแล้วใช้ประโยชน์จากมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Let him go!",
+      "th": "ปล่อยพ่อฉันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't open the door,",
+      "th": "ถ้าคุณไม่เปิดประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will take apart your father piece by piece.",
+      "th": "ผมจะแยกร่างพ่อคุณทีละชิ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่ อย่านะ อย่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fine. Have it your way. -No, no! Please.",
+      "th": "ไม่ อย่านะ อย่า… - ได้ งั้นก็ตามใจ - ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no!",
+      "th": "- ได้ งั้นก็ตามใจ - ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do it. -No, no, no! No, don't! No!",
+      "th": "- เอาเลย - อย่านะ ขอร้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] No, no, no! -[groaning]",
+      "th": "ไม่เอานะ อย่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know I can't. -[Kessel] Yes, you can.",
+      "th": "แกก็รู้ฉันทำไม่ได้ ได้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, I can't. -You can make this stop whenever you want.",
+      "th": "คุณสามารถหยุดมันเมื่อไหร่ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me speak with him. Let me speak with him. Okay?",
+      "th": "ขอฉันคุยกับพ่อ ขอฉันคุยกับพ่อนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let me speak with him! -Captain, no.",
+      "th": "ผู้กอง อย่านะครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let her speak.",
+      "th": "ให้พูดไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Papa?",
+      "th": "พ่อคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-JJ. -I can't…",
+      "th": "เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't… I can't lose you.",
+      "th": "ไม่ได้… หนูเสียพ่อไปไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me. Are you listening?",
+      "th": "ฟังนะ ฟังพ่อพูดอยู่รึเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never stop fighting!",
+      "th": "อย่าได้หยุดต่อสู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kill him. -No! No!",
+      "th": "อย่าได้หยุดต่อสู้ - ฆ่าซะ - อย่านะ อย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, please God. God! -[gunshot]",
+      "th": "ไม่นะ ได้โปรดเถอะ พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! [sobs] No, no!",
+      "th": "ไม่นะ! ไม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "My daddy would have made me open that door.",
+      "th": "ถ้าเป็นพ่อผมคงบอกให้เปิดประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "No question!",
+      "th": "อย่างไม่ต้องสงสัยเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] How did they know?",
+      "th": "พวกมันรู้ได้ยังไงกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did they know to have people in Scottsdale?",
+      "th": "รู้ได้ไงว่าต้องส่งคนไปสก็อตส์เดล"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Army signed your transfer order last night, right?",
+      "th": "กองทัพเซ็นคำสั่งย้ายคุณเมื่อคืนนี้ ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Right.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which means they couldn't have known until a few hours ago.",
+      "th": "แปลว่าพวกมันไม่มีทางรู้ได้จนเมื่อไม่กี่ชั่วโมงก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] You still don't get it? You're a pariah in your own ranks.",
+      "th": "ยังไม่เข้าใจอีกเหรอ คุณมันก็แค่คนนอกคอกในหมู่พวกพ้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The decision to have you transferred to this godforsaken rig",
+      "th": "พวกนั้นตัดสินใจย้ายคุณมาอยู่แท่นผีบ้านี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "was made three days ago. They only told you last night.",
+      "th": "ตั้งแต่สามวันก่อนแล้ว แต่เพิ่งบอกคุณเมื่อคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've known for 72 hours.",
+      "th": "ผมรู้มา 72 ชั่วโมงแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[sharp inhale] What are you doing? -Activating my insurance policy.",
+      "th": "ทำอะไรอยู่น่ะ หาหลักประกันให้ตัวเองอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "If she's committed enough to watch her father die,",
+      "th": "ถ้าเธอใจแข็งพอที่จะดูพ่อตัวเองตายต่อหน้าต่อตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "you will find that I am equally as committed.",
+      "th": "คุณจะได้เห็นว่าผมก็ใจแข็งไม่แพ้กัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the HVAR code. The emergency sinking protocol.",
+      "th": "นั่นรหัสเอชวาร์นี่ มาตรการสั่งจมกรณีฉุกเฉิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're going to sink this whole rig?",
+      "th": "นายคิดจะจมแท่นนี้ทั้งแท่นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our telemetry's saying SBX-1's asset removal protocol just activated.",
+      "th": "มาตรวัดทางไกลแจ้งว่า มีการเตรียมเปิดระบบทำลายเอสบีเอ็กซ์วัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't tell me he--",
+      "th": "อย่าบอกนะว่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's going to sink us. [gasps]",
+      "th": "เขาจะจมเราค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's going to sink us using our own scuttling protocol.",
+      "th": "เขาจะจมเราโดยใช้ มาตรการจมเรือของเราเองนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] High value asset removal protocol activated.",
+      "th": "เริ่มมาตรการทำลายทรัพย์สินมูลค่าสูง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do we do?",
+      "th": "ทำยังไงกันดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "As long as we are above the surface, we can still fire our missiles.",
+      "th": "ตราบใดที่ยังลอยอยู่เหนือน้ำ เราก็ยังยิงมิสไซล์ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Thirteen minutes until total vessel submersion.",
+      "th": "อีก 13 นาที แท่นจะจมลงใต้ผิวน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've got 13 minutes to figure out a solution.",
+      "th": "เหลือเวลา 13 นาทีที่จะคิดหาทางออก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm going down there.",
+      "th": "ฉันจะลงไปข้างล่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] Down where? Into the hulls?",
+      "th": "ไปไหนครับ ไปห้องใต้ฐานเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. To close the valves one by one.",
+      "th": "ใช่ ไปไล่ปิดวาล์วทีละตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't go down there with wounds like that.",
+      "th": "มีแผลเหวอะแบบนี้จะลงไปได้ยังไงครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll manage.",
+      "th": "ไปได้น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll… I'll go.",
+      "th": "ผม… ผมจะไปเองครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll do it.",
+      "th": "ผมไปเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] You're running out of time. We clock it at 13 minutes.",
+      "th": "เวลาพวกคุณเหลือน้อยแล้ว เราประมาณไว้ได้ที่ 13 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "So do we.",
+      "th": "เหมือนกันค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the ETA on the SEAL team?",
+      "th": "หน่วยซีลจะมาถึงเมื่อไหร่คะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Twenty-five.",
+      "th": "ยี่สิบห้านาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Damn. I'll call you back.",
+      "th": "ให้ตายสิ ฉันจะโทรไปใหม่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "th": "เอาละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't think this is what heroes look like.",
+      "th": "ฮีโร่คงไม่หน้าตาแบบนี้หรอกเนอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's exactly what they look like.",
+      "th": "หน้าแบบนี้แหละ ถูกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever you say, Captain.",
+      "th": "เอาเถอะครับ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can do this.",
+      "th": "คุณทำได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] You got this, Rahul.",
+      "th": "นายทำได้ ราหุล"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got this.",
+      "th": "นายทำได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "See you on the other side.",
+      "th": "เจอกันที่อีกฟากนะฮะ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Little bastard grew some balls.",
+      "th": "ไอ้อ่อนนั่นหายหงอซะที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take care of it.",
+      "th": "ไปจัดการซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is mine.",
+      "th": "คนนี้ของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "HVAR's been activated. Twelve and a half minutes.",
+      "th": "เปิดระบบเอชวาร์แล้ว 12 นาทีครึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, how far away is he?",
+      "th": "แล้วมันอยู่ไกลแค่ไหนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot] Twenty-two minutes out. Ready your weapons.",
+      "th": "อีก 22 นาทีถึง เตรียมอาวุธให้พร้อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, I've reached the hull.",
+      "th": "โอเค ถึงใต้ฐานแล้วครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You see the console?",
+      "th": "เห็นแผงควบคุมไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is gonna take a while.",
+      "th": "คงใช้เวลาสักพักเลยละครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] You just have to slow it down. -[Shah] Copy that.",
+      "th": "แค่ทำให้มันช้าลงก็พอ รับทราบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How are we looking, Captain?",
+      "th": "เป็นยังไงบ้างครับ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Recalculating. Recalculating.",
+      "th": "กำลังคำนวณใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-12 minutes 11 seconds until… -[Collins] You just bought us two minutes.",
+      "th": "- อีก 12 นาที 11 วินาทีจะทำการ… - ได้ผล คุณซื้อเวลาให้เราได้สองนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep going.",
+      "th": "ทำต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, yeah. I'm an ass-kicking, valve-closing machine.",
+      "th": "เจ๋งเป้ง ผมคือนักปิดวาล์วมือฉมัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody plugs leaks like me.",
+      "th": "อุดรูเก่งกว่าใครในปฐพี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh… -Oh. Shit. -What?",
+      "th": "- โธ่ บ้าเอ๊ย - ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got company.",
+      "th": "มีคนมาครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get out of there. You hear me?",
+      "th": "ออกมาจากตรงนั้น ได้ยินไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Shah] It's too late.",
+      "th": "สายไปแล้วครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not too late. Get out of there, now.",
+      "th": "ไม่สายไปหรอก ออกมาซะ เดี๋ยวนี้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry I couldn't help you more before, Captain,",
+      "th": "ขอโทษที่ก่อนหน้านี้ ผมช่วยอะไรไม่ได้มากนะครับ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I'm hoping this helps you now.",
+      "th": "แต่หวังว่าสิ่งที่ผมทำอยู่นี้จะช่วยคุณได้มากขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Recalculating. Recalculating.",
+      "th": "กำลังคำนวณใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell my children I love them.",
+      "th": "ฝากบอกลูกๆ ด้วยว่าผมรักพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Howdy.",
+      "th": "ไงจ๊ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't have to do this, Beaver.",
+      "th": "นายไม่จำเป็นต้องทำแบบนี้นะ บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not a murderer.",
+      "th": "นายไม่ใช่ฆาตกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right.",
+      "th": "แกพูดถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not a murderer.",
+      "th": "ฉันไม่ใช่ฆาตกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a fucking patriot.",
+      "th": "แต่กูเป็นพวกรักชาติโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rahul? Rahul?",
+      "th": "ราหุล ราหุล"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Shah can't come to the phone right now.",
+      "th": "ตอนนี้ชาฮ์มันไม่ว่างรับสายน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just you and the three of us.",
+      "th": "เหลือแค่เธอกับพวกฉันสามคนแล้วละจ้ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're dead.",
+      "th": "แกตายแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a valiant attempt.",
+      "th": "ช่างเป็นความพยายามอย่างหาญกล้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I admire his courage, truly.",
+      "th": "ผมขอชื่นชมในความกล้าของเขาจากใจจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "To be honest, I'd written him off.",
+      "th": "เอาจริงๆ ทีแรกผมมองข้ามเขาไปด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "His psych evaluation said he'd fold under pressure.",
+      "th": "ผลประเมินทางจิตชี้ว่าเขาทนแรงกดดันไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't even bother to put people on his family.",
+      "th": "ผมเลยไม่ส่งคนไปประกบครอบครัวเขาด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turns out, he almost derailed me.",
+      "th": "แต่เกือบพลาดท่าเพราะเขาซะได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Danilov.",
+      "th": "ดานิลอฟ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I have a new one.",
+      "th": "ไม่ มีรหัสใหม่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "ZSB, Zulu, Sierra, Bravo, 1-9-9-6.",
+      "th": "แซดเอสบี ซูลู เซียร่า บราโว่ 1996"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell Danny to move in.",
+      "th": "บอกแดนนี่ให้เข้ามาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Danny?",
+      "th": "แดนนี่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cut the feed.",
+      "th": "ปิดการถ่ายทอดซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That means nothing.",
+      "th": "ไม่เห็นมีประโยชน์อะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you won't mind if I show it to the world.",
+      "th": "(แซดเอสบี 1996) งั้นก็เอาให้คนทั้งโลกดูได้สิ ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine.",
+      "th": "ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell just happened?",
+      "th": "เกิดอะไรขึ้นเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "ZSB. Zurich Schweitz Bank.",
+      "th": "แซดเอสบี ซูริคชไวทซ์แบงค์"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a Swiss bank account.",
+      "th": "บัญชีธนาคารที่สวิตเซอร์แลนด์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should have known. [inhales]",
+      "th": "ทำไมเพิ่งนึกออกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not a nuclear terrorist or a fanatic.",
+      "th": "แกไม่ใช่ผู้ก่อการร้ายนิวเคลียร์ หรือพวกคลั่งอุดมการณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've been paid for this.",
+      "th": "แต่เขาจ้างแกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, this is my operation. I'm the one in charge.",
+      "th": "นี่มันปฏิบัติการของผม ผมเป็นคนสั่งการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So what if I'm getting paid? Huh? Am I wrong?",
+      "th": "ถ้ามีคนจ้างผมแล้วไง หรือว่าผมผิดล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm destroying a system that tried to destroy you.",
+      "th": "ผมกำลังทำลายระบบที่พยายามทำลายคุณนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm making sure what happened to you doesn't happen to other women.",
+      "th": "เพื่อที่เรื่องที่เกิดกับคุณ จะได้ไม่เกิดกับผู้หญิงคนอื่นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much?",
+      "th": "เท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing?",
+      "th": "ทำอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's paying you?",
+      "th": "ใครเป็นคนจ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seriously, stop with the tape.",
+      "th": "นี่ เลิกปิดเทปซะที"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about the Russian sub?",
+      "th": "แล้วเรือดำน้ำรัสเซียนั่นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop taping the window?",
+      "th": "หยุดปิดเทปก่อนได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Danilov, huh? Yeah, how's Danny?",
+      "th": "ดานิลอฟเหรอ แล้วแดนนี่เป็นยังไงบ้างล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you please…",
+      "th": "ช่วยกรุณา…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please stop taping the window. For me?",
+      "th": "หยุดปิดเทปซะทีเถอะนะ ผมขอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You paid off a sub captain. Where is he taking you?",
+      "th": "แกซื้อตัวกัปตันเรือดำน้ำได้สินะ จ้างให้ไปส่งที่ไหนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop taping the window.",
+      "th": "หยุดปิดเทปได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someplace you can get a new name, a new face?",
+      "th": "ที่ที่แกจะได้ใช้ชื่อใหม่ ทำหน้าใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhere you can spend your blood money?",
+      "th": "ที่ที่แกจะได้ใช้เงินเปื้อนเลือดก้อนนี้น่ะเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop with the damn tape, JJ.",
+      "th": "เลิกปิดเทปซะทีได้ไหม เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about all that shit about your father?",
+      "th": "แล้วดราม่าเรื่องพ่อเมื่อกี้ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, fuck him. He ruined my family's name!",
+      "th": "ช่างหัวพ่อสิ ทำชื่อเสียงตระกูลผมป่นปี้หมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Today I restore it with dignity and respect.",
+      "th": "วันนี้ผมกู้ศักดิ์ศรีคืนให้กับตระกูลได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Bullshit. I saw your file.",
+      "th": "ไอ้ขี้โม้ ฉันเห็นประวัติแกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're just a total fucking psycho.",
+      "th": "แกมันก็แค่ไอ้โรคจิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -[Kessel] For what?",
+      "th": "- ขอบใจนะ - เรื่องอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins] For showing me your weakness. -Oh, yeah. What's that?",
+      "th": "ที่เผยจุดอ่อนให้รู้ อ๋อเหรอ อะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] You want to get out of here alive.",
+      "th": "แกอยากรอดชีวิตออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] You know what else I want? I want to hurt you, JJ.",
+      "th": "ยังมีอีกนะ ผมอยากให้คุณเจ็บ เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to cut off your fingers. I want you to beg me to kill you!",
+      "th": "อยากตัดนิ้ว อยากให้คุณขอร้องให้ผมฆ่าคุณซะที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cabrón.",
+      "th": "ไอ้เวรเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good job cutting the live feed. SEALS are 17 minutes out.",
+      "th": "เก่งมากที่ปิดการถ่ายทอดสดได้ หน่วยซีลจะไปถึงในอีก 17 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, that's not fast enough.",
+      "th": "นั่นยังช้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "This rig is going to sink in 15 minutes.",
+      "th": "แท่นจะจมในอีก 15 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the second it goes under,",
+      "th": "ทันทีที่แท่นจมลงใต้น้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "these assholes will launch all their nukes.",
+      "th": "ไอ้พวกเวรนี่จะยิงขีปนาวุธทั้งหมดทันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is there anything you can do?",
+      "th": "มีอะไรที่คุณพอจะทำได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I sort of have this plan.",
+      "th": "จะว่าไปฉันก็มีแผนอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But it's a little counterintuitive. -[President] Let's hear it, Captain.",
+      "th": "แต่อาจจะขัดกับสัญชาตญาณหน่อยๆ ไหนว่ามาซิ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I let them take the command center.",
+      "th": "ฉันจะปล่อยให้พวกมันยึดศูนย์ควบคุม"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? That's precisely what we don't want to happen.",
+      "th": "อะไรนะ นั่นตรงข้าม กับที่เราต้องการเลยไม่ใช่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This rig is going down, and when it sinks, they win.",
+      "th": "แท่นกำลังจะจม ถ้าจมได้ แปลว่าพวกมันชนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to force them to fire the missiles before that happens.",
+      "th": "เราต้องบีบให้พวกมันยิงขีปนาวุธก่อนที่แท่นจะจม"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then what?",
+      "th": "แล้วไงต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then I retake the command center",
+      "th": "แล้วฉันก็จะยึดศูนย์ควบคุมคืนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and intercept their nukes.",
+      "th": "แล้วสกัดกั้นขีปนาวุธของพวกมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] Inside 12 minutes?",
+      "th": "ภายใน 12 นาทีเนี่ยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir.",
+      "th": "ใช่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dyson] Hold on.",
+      "th": "เดี๋ยวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "th": "เชี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our game theory specialist is not convinced.",
+      "th": "ผู้เชี่ยวชาญทฤษฎีเกมของเราไม่เห็นคล้อยตาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's uh… concerned about your motivations.",
+      "th": "เขากังวลเรื่องแรงจูงใจของคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "By my calculations,",
+      "th": "จากการคำนวณของผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "your proposed plan has a 14% chance of success.",
+      "th": "แผนของคุณมีโอกาสสำเร็จ 14 เปอร์เซ็นต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "To give up that command center to a superior force",
+      "th": "การยกศูนย์ควบคุมให้กับฝ่ายที่เหนือกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "with no certainty of regaining it",
+      "th": "โดยไม่มีหลักประกันว่าจะชิงคืนมาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "is what we refer to as a negative outcome inducing event.",
+      "th": "เราเรียกว่าเป็นกรณีที่ทำให้เกิดผลลัพธ์เป็นลบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you serious with this shit?",
+      "th": "ไอ้ที่พูดมานี่พูดจริงเหรอเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you willing to gamble every life in America on your ability to retake the center?",
+      "th": "คุณคิดจะวางเดิมพันชีวิตทุกคนในอเมริกา กับความสามารถที่จะยึดศูนย์ควบคุมคืนมางั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry. I cannot endorse such a move.",
+      "th": "ขอโทษนะ แต่ผมอนุมัติแผนการนี้ไม่ได้จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, genius. You're saying my plan is running at 14%?",
+      "th": "ฟังนะ พ่อคนหัวดี คุณบอกว่า แผนฉันมีโอกาสสำเร็จ 14 เปอร์เซ็นต์ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yours is zero!",
+      "th": "แต่แผนคุณน่ะศูนย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You haven't been beat up, strangled, or shot defending this rig today.",
+      "th": "วันนี้คุณไม่ได้โดนอัด โดนรัดคอ หรือโดนยิงเพราะพยายามปกป้องแท่นซะหน่อยนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "So I think you'll find I'm kind of fucking motivated here.",
+      "th": "แค่นี้ไม่เห็นรึไง ว่าแรงจูงใจของฉันโคตรจะมาเต็มเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We hear you, Captain.",
+      "th": "เราได้ยินคุณแล้ว ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can do this, sir. I know I can.",
+      "th": "ฉันทำได้ค่ะ ฉันรู้ว่าฉันทำได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Half the people here think you're crazy.",
+      "th": "คนที่นี่ครึ่งหนึ่งคิดว่าคุณบ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "The other half think you're a rock star.",
+      "th": "แต่อีกครึ่งคิดว่าคุณโคตรเท่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fortunately, I'm one of the latter.",
+      "th": "โชคดีที่ฉันเป็นพวกหลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do what you have to do, Captain.",
+      "th": "ทำสิ่งที่คิดว่าต้องทำเถอะ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Collins] Still there?",
+      "th": "ยังอยู่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What do you think? -[Collins] I think you're getting nervous.",
+      "th": "คิดว่าไงล่ะ คิดว่าแกคงเริ่มกลัวแล้วละสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you fail here, your partners will kill you.",
+      "th": "ถ้าแกทำไม่สำเร็จ พวกที่หุ้นด้วยคงไม่เอาไว้แน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want this room? Come and get it.",
+      "th": "อยากได้ห้องนี้นักใช่ไหม ก็เข้ามาเอาเลยสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] Intercom off.",
+      "th": "ปิดอินเตอร์คอม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me the radio.",
+      "th": "เอาวิทยุมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beaver, what's your ETA?",
+      "th": "บีเวอร์ อีกนานเท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] About 30 seconds.",
+      "th": "ประมาณ 30 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's taped up the window. I can't see in the room.",
+      "th": "นังนั่นเอาเทปปิดหน้าต่าง ฉันมองไม่เห็นอะไรเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you to get in there now.",
+      "th": "เข้าไปในห้องนั้นเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Relax. I'm there.",
+      "th": "ใจเย็นสิ มาแล้วนี่ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I ain't see her. She gone.",
+      "th": "ไม่เห็นนังนั่นเลย มันหายไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] What do you mean, gone? Where is she?",
+      "th": "หมายความว่าไงหายไป หายไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "th": "ฉิบหาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] What?",
+      "th": "ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's on the roof.",
+      "th": "อยู่บนดาดฟ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention all missile teams, we have control of the interceptor.",
+      "th": "ทีมยิงขีปนาวุธทุกทีม เรายึดมิสไซล์สกัดกั้นได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire all missiles. Repeat, fire all missiles.",
+      "th": "ยิงขีปนาวุธทั้งหมด ย้ำ ยิงขีปนาวุธทั้งหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Multiple missile launch detected. Multiple missile launch detected.",
+      "th": "ตรวจพบการยิงขีปนาวุธหลายลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Woo! Let's go, baby. Light 'em up!",
+      "th": "วู้ เอาเลย ที่รัก เอาให้ลุกเป็นไฟ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Targets acquired. Targets acquired.",
+      "th": "พบเป้าหมาย พบเป้าหมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seattle, San Francisco, Las Vegas, Denver, St. Louis, Memphis,",
+      "th": "ซีแอตเทิล ซานฟรานซิสโก ลาสเวกัส เดนเวอร์ เซนต์หลุยส์ เมมฟิส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chicago, Cincinnati, Atlanta, Miami, Washington DC,",
+      "th": "ชิคาโก ซินซินแนติ แอตแลนตา ไมอามี วอชิงตันดีซี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boston, New York, Dallas, Philadelphia.",
+      "th": "บอสตัน นิวยอร์ก ดัลลัส ฟิลาเดลเฟีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kill her.",
+      "th": "ฆ่าเธอซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] She come for me.",
+      "th": "คิดจะล่าบีเวอร์เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Come make ten million,\" he says.",
+      "th": "เขาพูดว่า \"อยากได้เงินสิบล้านไหม\""
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Buy yourself a private island,\" he says. \"Piece of cake.\"",
+      "th": "\"ซื้อเกาะส่วนตัวเลยสิ\" เขาว่า \"จิ๊บๆ\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, man. [inhales]",
+      "th": "แม่งเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me your knife.",
+      "th": "เอามีดมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do it.",
+      "th": "เอาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Acid.",
+      "th": "กรด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Where are you, darlin'?",
+      "th": "อยู่ไหนจ๊ะ ที่รัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in singsong] Come out, come out, wherever you are.",
+      "th": "ออกมาหน่อย ออกมาหาพี่ซิจ๊ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Apologies, ladies and gentlemen, for that rude interruption,",
+      "th": "ต้องขอโทษด้วยนะครับ ทุกคน ที่เมื่อกี้หยุดไปอย่างเสียมารยาท"
+    }
+  },
+  {
+    "translation": {
+      "en": "but as you can see,",
+      "th": "แต่ก็อย่างที่เห็นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have retaken this command center and the nukes are on their way.",
+      "th": "ผมยึดศูนย์ควบคุมนี้มาได้อีกแล้ว และนิวเคลียร์กำลังบินไปหาพวกคุณๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, the goalie ain't up here.",
+      "th": "เฮ้ย นังผู้รักษาประตูไม่ได้อยู่บนนี้ว่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She has to be. Where else could she…",
+      "th": "อยู่บนนั้นแหละ ถ้าไม่ใช่แล้วจะไปอยู่ที่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "…be?",
+      "th": "ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "She is on the roof, Beaver.",
+      "th": "มันอยู่บนดาดฟ้าแน่ๆ บีเวอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no one down here.",
+      "th": "ข้างล่างนี่ไม่มีใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in eight minutes.",
+      "th": "การยิงสกัดจะหมดเวลาในแปดนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] Ivan.",
+      "th": "ไอวาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in seven minutes.",
+      "th": "การยิงสกัดจะหมดเวลาในเจ็ดนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Beaver] Can't let you do that, darlin'.",
+      "th": "ปล่อยให้เธอทำแบบนั้นไม่ได้หรอก ที่รัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me go, Beaver. You don't want this.",
+      "th": "ปล่อยฉันนะ บีเวอร์ แกไม่ต้องการสิ่งนี้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, I told you what I wanted.",
+      "th": "เหรอ ฉันบอกเธอแล้วไงว่าฉันต้องการอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna die here.",
+      "th": "แกต้องตายอยู่ที่นี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I'm not.",
+      "th": "ไม่ ฉันไม่ตายหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm on the next submarine out of here. [chuckles]",
+      "th": "ฉันจะนั่งเรือดำน้ำหนีไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "With Alexander?",
+      "th": "กับอเล็กซานเดอร์น่ะนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's gone. [panting]",
+      "th": "เขาไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Collins groans] -[Beaver] Bullshit.",
+      "th": "ตอแหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw him go.",
+      "th": "ฉันเห็นเขาหนีไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in five minutes.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาในห้านาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[snickers] Really think a little bit of razor wire is gonna kill me?",
+      "th": "คิดเหรอว่าลวดหนามกระจอกๆ จะฆ่าฉันได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gravity, darlin'.",
+      "th": "แรงโน้มถ่วงไงจ๊ะ ที่รัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father] JJ… JJ, come on.",
+      "th": "เจเจ เจเจ ตื่นสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the one thing I've taught you since you were little?",
+      "th": "สิ่งเดียวที่พ่อสอนลูกมาตั้งแต่ยังเล็กคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "The one rule in life?",
+      "th": "กฎข้อเดียวในการใช้ชีวิตน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never stop fighting.",
+      "th": "อย่าได้หยุดต่อสู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in three minutes.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาในสามนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in 60 seconds.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาใน 60 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "There she is!",
+      "th": "อยู่นั่นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "There she is!",
+      "th": "นั่นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get up. Get up!",
+      "th": "ลุกขึ้นเร็ว ลุกขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in 40 seconds.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาใน 40 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Don't give up. Don't give up.",
+      "th": "อย่ายอมแพ้นะ อย่าเพิ่งยอมแพ้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in 30 seconds.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาใน 30 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Intercept launch expires in 20 seconds.",
+      "th": "การยิงสกัดกั้นจะหมดเวลาใน 20 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Ten seconds. Nine, eight, seven, six,",
+      "th": "สิบวินาที เก้า แปด เจ็ด หก"
+    }
+  },
+  {
+    "translation": {
+      "en": "five, four, three, two, one.",
+      "th": "ห้า สี่ สาม สอง หนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Interceptors launched.",
+      "th": "ยิงมิสไซล์สกัดกั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Come on. Come on.",
+      "th": "เร็วเข้าๆ เร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[computer voice] Multiple missile interception complete.",
+      "th": "การสกัดกั้นขีปนาวุธหลายลูกเสร็จสิ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah! Woo-hoo!",
+      "th": "เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fourteen percent.",
+      "th": "สิบสี่เปอร์เซ็นต์ โห"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] Look at you.",
+      "th": "ดูสิเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Still going, huh?",
+      "th": "ยังไหวอยู่แฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know you really did fuck up my day.",
+      "th": "คุณทำผมซวยทั้งวันเลยจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I brought America to the brink,",
+      "th": "แต่ผมทำให้อเมริกาเกือบฉิบหายมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'll do it again.",
+      "th": "และผมจะทำอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You may have won the battle, but not the war.",
+      "th": "คุณอาจชนะศึกครั้งนี้ แต่ไม่ได้ชนะสงครามหรอกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Told you. War's not over yet.",
+      "th": "บอกแล้วไง สงครามยังไม่จบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is for my dad, asshole.",
+      "th": "นี่สำหรับพ่อฉัน ไอ้ชาติชั่ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] There's my ride.",
+      "th": "รถมารับแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kessel] There's no room for you.",
+      "th": "คงไม่มีที่สำหรับคุณนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1, in Russian] I've arrived. I can see him.",
+      "th": "ถึงแล้วครับ เจอตัวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2, in Russian] You know what to do.",
+      "th": "รู้นะว่าต้องทำไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] What about the woman?",
+      "th": "แล้วผู้หญิงล่ะครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Your choice.",
+      "th": "แล้วแต่ อยากทำอะไรก็ทำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot, in English] Target in sight. We'll arrive in 30 seconds.",
+      "th": "พบเป้าหมายแล้ว จะถึงในอีก 30 วินาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Contact. Russian submarine looks like it's bugging out.",
+      "th": "ติดต่อศูนย์ พบเรือดำน้ำรัสเซีย ดูเหมือนกำลังจะไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have visual on Captain Collins on the roof.",
+      "th": "เดี๋ยวนะ ผมเห็นผู้กองคอลลินส์อยู่บนดาดฟ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Madam President.",
+      "th": "ท่านประธานาธิบดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "They told me you were awake. It is good to see you, Captain.",
+      "th": "ได้ยินมาว่าคุณฟื้นแล้ว ดีใจจังที่ได้เจอคุณ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is Fort Greely--",
+      "th": "แล้วฟอร์ตกรีลี่ย์…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[President] Greely's back up. Interceptors on standby.",
+      "th": "กลับมาเหมือนเดิมแล้ว มิสไซล์สกัดกั้นก็พร้อมสแตนด์บาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we're going to replace SBX-1 as soon as possible,",
+      "th": "และเราจะสร้างเอสบีเอ็กซ์วันขึ้นใหม่ให้เร็วที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "but don't worry, nobody is going to send you back out there.",
+      "th": "แต่ไม่ต้องกลัวนะ จะไม่มีใครส่งคุณไปที่นั่นอีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "In fact, I think a soldier of your caliber",
+      "th": "อันที่จริงแล้ว ฉันว่าทหารที่มีฝีมือระดับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "would be better put to use on my National Security staff.",
+      "th": "น่าจะมาเป็นเจ้าหน้าที่ หน่วยความมั่นคงแห่งชาติของฉันมากกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you say?",
+      "th": "คุณจะว่ายังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[President] I'll take that as a yes.",
+      "th": "ถือว่าตกลงแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Madam President.",
+      "th": "ขอบคุณนะคะ ท่านประธานาธิบดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, and you have another visitor.",
+      "th": "อ้อ มีแขกมาเยี่ยมอีกคนแน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Papa? -JJ.",
+      "th": "พ่อ เจเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I… I thought you were…",
+      "th": "หนู… หนูนึกว่าพ่อ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turns out your dad has some very well-armed Army buddies",
+      "th": "ดูเหมือนพ่อของคุณจะมีเพื่อนรักติดอาวุธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "watching over him in that retirement home.",
+      "th": "คอยคุ้มกันอยู่ในบ้านพักทหารผ่านศึกน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They saw what was happening on TV.",
+      "th": "พวกเพื่อนพ่อเห็นในทีวี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Broke down my goddamn door.",
+      "th": "ก็เลยพังประตูเข้ามา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Saved my finger. Lost my door.",
+      "th": "ช่วยนิ้วไว้ได้ แต่ประตูพัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I'll expect you to report to the White House next week, Captain.",
+      "th": "เอาละ หวังว่าคุณจะไปรายงานตัว ที่ทำเนียบขาวอาทิตย์หน้านะ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here. Dad.",
+      "th": "มานี่เลยค่ะ พ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh. Uh… This is for you.",
+      "th": "อ้อ นี่ของลูกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Another survivor.",
+      "th": "ผู้รอดชีวิตอีกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turbo.",
+      "th": "เทอร์โบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "SEAL team found him swimming around the wreckage of SBX-1.",
+      "th": "หน่วยซีลไปเห็นมันว่ายอยู่แถวซากเอสบีเอ็กซ์วัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "He belonged to Corporal Shah.",
+      "th": "เต่าของผู้หมู่ชาฮ์น่ะค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father sighs] I heard what happened. I'm sorry.",
+      "th": "พ่อรู้เรื่องที่เกิดขึ้นแล้ว พ่อเสียใจด้วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, sometimes it's…",
+      "th": "รู้ไหม บางทีน่ะ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "it's best to talk about those we've lost so we don't forget.",
+      "th": "เราควรพูดถึงคนที่จากไป เพื่อจะได้ไม่ลืมพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "His name was Rahul.",
+      "th": "เขาชื่อราหุลค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father] Rahul?",
+      "th": "ราหุล"
+    }
+  },
+  {
+    "translation": {
+      "en": "He liked poker…",
+      "th": "ชอบเล่นโป๊กเกอร์…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[father] I see.",
+      "th": "เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "…but he wasn't very good at it.",
+      "th": "แต่เล่นไม่ค่อยเก่งหรอกค่ะ"
+    }
+  }
+]

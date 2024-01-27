@@ -1,0 +1,3740 @@
+[
+  {
+    "translation": {
+      "en": "Hello?",
+      "ko": "저기요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anybody?",
+      "ko": "누구 없어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know where we are?",
+      "ko": "여기가 어딘지 알아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do we know each other?",
+      "ko": "우리 아는 사이인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "ko": "이름이 뭐예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm having a hard time remembering.",
+      "ko": "기억이 잘 안 나요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's yours?",
+      "ko": "그쪽 이름은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ko": "모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is so weird.",
+      "ko": "너무 이상해요, 지갑은커녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "No wallet, no ID.",
+      "ko": "너무 이상해요, 지갑은커녕 신분증도 없고, 깨어나 보니 가진 거라곤 소라껍데기뿐이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, there's nothing on me besides this shell that I woke up holding.",
+      "ko": "신분증도 없고, 깨어나 보니 가진 거라곤 소라껍데기뿐이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you find something?",
+      "ko": "당신도 뭘 찾았나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you have?",
+      "ko": "뭘 갖고 있죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I found it next to me on the beach.",
+      "ko": "깨어나 보니 옆에 있었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a lot more useful than this shell.",
+      "ko": "껍데기보다 훨씬 유용하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, we don't know who or where we are.",
+      "ko": "그러니까 우리가 누구고 여기가 어딘지는 모르며"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we got two things.",
+      "ko": "물건 두 개가 있네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope.",
+      "ko": "아니요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have something,",
+      "ko": "당신한테 하나"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I have something.",
+      "ko": "나한테 하나 있는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know me.",
+      "ko": "난 나를 모르고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And I don't know you. -Exactly.",
+      "ko": "- 당신도 몰라요 - 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't know me.",
+      "ko": "그쪽은 날 모르죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I might be your friend.",
+      "ko": "아마 친구일 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or you might not.",
+      "ko": "아닐 수도 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, okay? I'll put this shell down.",
+      "ko": "잘 들어요 소라껍데기 내려놓을게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you put the knife down, okay? You clearly don't know how to hold one.",
+      "ko": "당신도 칼을 내려놔요 제대로 잡는 방법도 모르잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you tell me something?",
+      "ko": "대답해 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How would you know a thing like that, huh?",
+      "ko": "칼 잡는 방법을 어떻게 알죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How would you know?",
+      "ko": "그걸 어떻게 아느냐고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give the knife back to me.",
+      "ko": "칼을 돌려줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me back that knife.",
+      "ko": "그 칼을 돌려달라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man, distantly] Hello!",
+      "ko": "이봐요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me have that.",
+      "ko": "내가 갖고 있을게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have company. We shouldn't be waving--",
+      "ko": "누가 오고 있으니 무기를 숨겨야..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi.",
+      "ko": "안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Around the corner, there are others.",
+      "ko": "근처에 사람들이 더 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 1] Something's wrong with her.",
+      "ko": "저 여자 좀 이상해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man panting] -[woman 2] Pull it over here.",
+      "ko": "여기에 놔요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] All right, together, guys.",
+      "ko": "그래요, 힘을 모아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] All right.",
+      "ko": "좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Down. Right down. -[man 1] And drop.",
+      "ko": "바로 거기에 내려놔요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[panting] Okay. -[woman 2] Pull it over here.",
+      "ko": "- 됐어요 - 여기에 두죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 2] Yeah, just this way",
+      "ko": "네, 여기에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 1] Okay, let's rest. -[woman 2] Yeah, that's good.",
+      "ko": "- 좀 쉬죠 - 또 뭐 할까요? 당장은 됐어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 2] I'm gonna get some coconuts.",
+      "ko": "코코넛 좀 가져올게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, just take a little sip for now.",
+      "ko": "우선 목이나 축여요 코코넛에 과즙이 그리"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Those things don't have that much milk. -Thanks.",
+      "ko": "우선 목이나 축여요 코코넛에 과즙이 그리 - 많지 않네요 - 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody can remember anything at all about how we woke up here?",
+      "ko": "어쩌다 여기서 깨어나게 됐는지 아무도 몰라요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't remember shit. -Nothing.",
+      "ko": "- 기억 안 나요 - 전혀요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got nothing.",
+      "ko": "아무것도 모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing.",
+      "ko": "저도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not possible that we all have amnesia.",
+      "ko": "단체 기억상실증은 아닐 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, well, we may be on, I don't know,",
+      "ko": "저기, 혹시 잘은 모르지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "some kind of work trip or something?",
+      "ko": "같은 회사에서 온 거 아닐까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Since our clothes are all so similar.",
+      "ko": "모두 옷차림이 비슷해서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think this is team building.",
+      "ko": "단합대회는 아닐 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, what? I mean, our plane went down?",
+      "ko": "그러면 뭐죠? 비행기 추락일까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 1] Our ship? Think about it.",
+      "ko": "배가 침몰했거나? 생각해 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ten people walk away from something like that",
+      "ko": "그랬다면 10명이 살아남았을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "without any injuries?",
+      "ko": "어디 다친 데도 없이?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no floating luggage around anywhere out in the water.",
+      "ko": "바다에 떠다니는 수화물도 안 보이잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-There's no dead bodies. -Dead bodies don't float...",
+      "ko": "- 시체도요 - 시체는 떠오르지 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "at first.",
+      "ko": "처음에는요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It takes a while.",
+      "ko": "시간이 걸리죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "All I'm saying is, it doesn't add up.",
+      "ko": "어쨌든 이건 말이 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right, doesn't add up.",
+      "ko": "맞아요, 말이 안 되죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That's why I'm saying-- -\"Doesn't add up\"?",
+      "ko": "- 내 말이... - 말이 안 된다고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say it again. Doesn't add up.",
+      "ko": "또 말해 봐요 말이 안 된다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makes you feel better? Doesn't add up.",
+      "ko": "기분이 좀 나아요? 이건 말이 안 되죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, you're really confrontational.",
+      "ko": "엄청난 시비조로 말하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're a real bitch.",
+      "ko": "당신은 엄청난 년이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can I see something on your shirt?",
+      "ko": "셔츠 좀 봐도 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman 2] Okay. What? -No, stop.",
+      "ko": "- 왜 그래요? - 가만히 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Is it a bug?",
+      "ko": "- 벌레가 앉았나요? - 아니요"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. I just want to check out your tag.",
+      "ko": "라벨 좀 확인할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Blair.\"",
+      "ko": "블레어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that your name?",
+      "ko": "당신 이름인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, I don't know.",
+      "ko": "모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Check mine. -Okay.",
+      "ko": "- 내 것도 봐요 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman 3] Check mine. -[man 2] Yeah, got it.",
+      "ko": "- 내 것 좀 봐요 - 알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Taylor.\"",
+      "ko": "테일러"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Taylor] What? -[man 2] Yeah.",
+      "ko": "- 확실해요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Taylor] Let me see. -It says... \"KC.\" KC.",
+      "ko": "어디 보자 KC예요, KC요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-KC? -Yeah.",
+      "ko": "- KC요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-\"Moses.\" -Who's that?",
+      "ko": "- 모지스요 - 그게 누구죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Donovan.\"",
+      "ko": "도너번이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe they're just designers.",
+      "ko": "디자이너 이름일 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, all of us wearing the same tag? Same label?",
+      "ko": "라벨에 적힌 이름이 모두 다르잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name's Cooper. I don't remember that at all.",
+      "ko": "내 이름은 쿠퍼예요 그런데 기억이 전혀 없네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Chase.\" Neither do I.",
+      "ko": "체이스요, 저도 그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Moses] What's your name? -[chuckling] Mine's, um, Blair.",
+      "ko": "- 이름이 뭐예요? - 블레어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Brody.\"",
+      "ko": "브로디"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just go with it.",
+      "ko": "대세를 따라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[KC] It's a nice name.",
+      "ko": "이름이 멋지네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks.",
+      "ko": "고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "저기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, do any of you guys want to head out with me?",
+      "ko": "나랑 같이 갈 사람 없어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where? -I don't know.",
+      "ko": "- 어디에요? - 모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just want to figure this thing out.",
+      "ko": "어떻게든 파악해 보려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's to figure out?",
+      "ko": "뭘 파악하게요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where we are, who we are? You know, little details like that.",
+      "ko": "여긴 어디고 우린 누군지 같은 자세한 정보요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We just learned our names.",
+      "ko": "우린 이름을 알아냈어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's enough for one day.",
+      "ko": "오늘은 그걸로 충분해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe we just learned our names.",
+      "ko": "아마도 이름을 알아낸 거겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Anybody?",
+      "ko": "누구 없어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Anybody?",
+      "ko": "아무도요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guess not, Chase.",
+      "ko": "그런가 봐요, 체이스"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what, KC?",
+      "ko": "그거 알아요, KC?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe you did figure out our names.",
+      "ko": "당신이 이름을 알아냈다고 쳐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good for you. But I already have one picked out for you.",
+      "ko": "장하게도요 하지만 어울리는 이름은 따로 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sure it's the same one I've got for you.",
+      "ko": "당신한테 더 어울리는 이름이겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? Um...",
+      "ko": "있잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll come with you. See what's what.",
+      "ko": "나랑 가요, 둘러보죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, me too.",
+      "ko": "나도 갈래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyone else?",
+      "ko": "또 없어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I'm gonna stay.",
+      "ko": "난 여기 있을래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm gonna work on food. -All right.",
+      "ko": "- 난 먹을 걸 구하죠 - 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I guess I'll see you guys later.",
+      "ko": "그럼 다들 이따 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] It's, like, every time.",
+      "ko": "젠장, 매번 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] I know.",
+      "ko": "그러게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] We found something in every spot where someone was lying.",
+      "ko": "각자 누워 있던 곳에 물건이 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Thank God we came when we did.",
+      "ko": "네, 시간을 잘 맞췄어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A little bit longer, that tide would've came in.",
+      "ko": "조금 늦었으면 밀물이 들어왔겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Donovan] This is not a coincidence. -Tell me about it.",
+      "ko": "이건 우연이 아니에요 무슨 말인지 알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are we even doing out here?",
+      "ko": "여기서 뭐 하는 걸까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe we're dead and this is heaven.",
+      "ko": "죽어서 천국에 왔을지도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Yeah, right.",
+      "ko": "그러게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time for the gun show. What a surprise.",
+      "ko": "갑자기 웬 팔뚝 자랑이실까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe we should, uh...",
+      "ko": "우선 급한 게"
+    }
+  },
+  {
+    "translation": {
+      "en": "find some fresh water and shelter.",
+      "ko": "담수와 쉴 곳을 찾는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Yeah, let's do that.",
+      "ko": "그렇게 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, actually,",
+      "ko": "솔직히 말하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think I can deal with that other chick again.",
+      "ko": "그년을 또 상대하기 싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'mma head back, hang with the others. It's too hot for me.",
+      "ko": "난 가서 사람들과 있을게요 너무 덥네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that's a good idea.",
+      "ko": "잘 생각했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eagle Scout. Can't lie.",
+      "ko": "보이스카우트 우수 단원이었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, well, thanks for not making me do the same.",
+      "ko": "네, 수고를 덜어줘서 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where do you want to go? -Let's go that way.",
+      "ko": "- 어디로 갈까요? - 저쪽 어때요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All I'm saying...",
+      "ko": "모를 일이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "is we don't know that aliens didn't drop us here",
+      "ko": "외계인이 우릴 여기에 떨어뜨린 다음"
+    }
+  },
+  {
+    "translation": {
+      "en": "just to harvest our organs.",
+      "ko": "장기를 가져갈지도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] Well, that's one theory.",
+      "ko": "가능한 얘기네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does anyone have any visible injuries or pain?",
+      "ko": "누구든 눈에 띄는 부상이나 통증 있어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -Okay, so it's not trauma-based amnesia.",
+      "ko": "- 없어요 - 외상 후 기억상실은 아니겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, KC,",
+      "ko": "저기요, KC"
+    }
+  },
+  {
+    "translation": {
+      "en": "you want to sit with us?",
+      "ko": "이리 올래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm fine here, thanks.",
+      "ko": "여기 있을게요, 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does anyone remember anything?",
+      "ko": "다들 아무것도 기억 안 나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I vaguely remember having a strong dislike for optimists.",
+      "ko": "난 낙관론자를 질색했던 게 흐릿하게 기억나요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about I say a word,",
+      "ko": "내가 단어를 말하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then you all say the first thing that comes to mind?",
+      "ko": "처음 떠오르는 걸 말해 볼래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe that'll reveal something.",
+      "ko": "뭔가 알게 될지도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] Okay.",
+      "ko": "좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Food.",
+      "ko": "음식"
+    }
+  },
+  {
+    "translation": {
+      "en": "Vegetable.",
+      "ko": "채소"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eventual starvation.",
+      "ko": "궁극적인 굶주림"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sandwiches.",
+      "ko": "샌드위치"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] Home.",
+      "ko": "가정"
+    }
+  },
+  {
+    "translation": {
+      "en": "House.",
+      "ko": "집"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stranded.",
+      "ko": "구속"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] Sandwiches.",
+      "ko": "샌드위치"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] Jobs.",
+      "ko": "직업"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Work.",
+      "ko": "일"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ew.",
+      "ko": "아이고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about \"mother\"?",
+      "ko": "어머니는요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Blair] Father. -[whispering] Children.",
+      "ko": "- 아버지 - 아이들"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey. -[indistinct chatter in background]",
+      "ko": "뭐 해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name's apparently Hayden.",
+      "ko": "내 이름은 헤이든인가 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Apparently, my name is Mason.",
+      "ko": "내 이름은 메이슨이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two are stronger than one.",
+      "ko": "둘이 하나보다 낫죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Why'd you start with food? I'm starving.",
+      "ko": "왜 음식으로 시작했어요? 배고파 죽겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's just crack open some coconuts over there.",
+      "ko": "저기 있는 코코넛을 - 몇 개 깨죠 - 좋아요, 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] Okay. Thank you.",
+      "ko": "- 몇 개 깨죠 - 좋아요, 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you think about all those people?",
+      "ko": "저 사람들 어떤 거 같아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honestly, kind of basic.",
+      "ko": "솔직히 말하면 본능적이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean?",
+      "ko": "무슨 뜻이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm, checking each other out, trying to mate based on sexual attraction.",
+      "ko": "서로 탐색하며 성적 매력에 끌려 짝을 지으려고 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And me,",
+      "ko": "그리고 나는"
+    }
+  },
+  {
+    "translation": {
+      "en": "an intellectual, silently judging them.",
+      "ko": "지적이고 조용하게 저들을 판단하고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You kinda say things funny.",
+      "ko": "말을 재미있게 하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You kinda don't say anything at all.",
+      "ko": "당신은 말을 전혀 안 하네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ko": "괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[fire crackling] -[Hayden] Yeah. Here we go. That's it.",
+      "ko": "드디어 됐어요, 불이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should be careful about spending too much time in the sun.",
+      "ko": "햇볕을 너무 오래 쬐는 건 조심해야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Mom.",
+      "ko": "잔소리 고마워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Melanoma is a serious thing.",
+      "ko": "흑색종은 심각한 질병이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're blocking my light.",
+      "ko": "햇볕을 가리지 마요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna go help them.",
+      "ko": "가서 도와야겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, sweetie.",
+      "ko": "그렇게 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I haven't seen a single plane since we woke up here,",
+      "ko": "여기서 깨어난 뒤로 비행기는 한 대도 못 봤으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "-so good luck with that. -What?",
+      "ko": "- 행운을 빌죠 - 뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We shouldn't try?",
+      "ko": "시도도 하지 말까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just wanna spend the rest of my days on this deserted island in peace,",
+      "ko": "난 무인도에 있는 동안 평화롭게 지내고 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "if you don't mind.",
+      "ko": "당신이 협조해 주면요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You do that.",
+      "ko": "그렇게 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck?",
+      "ko": "제기랄, 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are the others?",
+      "ko": "같이 간 사람들은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Flirting with each other somewhere. Who cares?",
+      "ko": "둘이 어디선가 시시덕거리고 있겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wanna go swimming?",
+      "ko": "수영하러 갈래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope.",
+      "ko": "아니요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course you don't.",
+      "ko": "물론 그렇겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough with the moping.",
+      "ko": "그만 우울해해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's go swimming. -I'm not moping, I'm tanning.",
+      "ko": "- 수영하러 가요 - 안 우울해요, 선탠 중이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cease and desist! -[Donovan chuckles] -Hey.",
+      "ko": "- 그만해요! - 저기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come to help you guys. -[Cooper panting]",
+      "ko": "도우려고 왔어요 뭘 하면 될까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What can I do? -Look who's back.",
+      "ko": "도우려고 왔어요 뭘 하면 될까요? - 누가 왔는지 봐요 - 얼뜨기들, 수영하러 가요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, you losers! Let's go swimming!",
+      "ko": "- 누가 왔는지 봐요 - 얼뜨기들, 수영하러 가요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] Come on!",
+      "ko": "어서요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's the problem?",
+      "ko": "안 될 거 있나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're in paradise. Let's live a little.",
+      "ko": "천국에 있으니 인생을 즐겨야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't swim?",
+      "ko": "수영 안 해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "She swims.",
+      "ko": "물론 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Should we?",
+      "ko": "우리도 할까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? It's hot.",
+      "ko": "알잖아요, 너무 더워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] Watch out, I'm gonna get you! [laughs] Yeah!",
+      "ko": "조심해요, 잡으러 갈 테니까 두고 봐요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna stay here and finish this, I think.",
+      "ko": "난 남아서 이걸 마무리할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know if I can swim.",
+      "ko": "내 수영 실력도 모르고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Okay. Have fun.",
+      "ko": "- 그래요 - 재밌게 놀아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on!",
+      "ko": "빨리 와요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ All the guys All around the world'll say it ♪",
+      "ko": "\"신비의 섬 쥘 베른\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me your hand.",
+      "ko": "내 손 잡아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, at least now we have some fresh water.",
+      "ko": "적어도 담수는 충분하겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, and food. -Perfect.",
+      "ko": "- 네, 먹을 것도요 - 완벽해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We could probably live here if we had to. -Yeah, we could.",
+      "ko": "- 여차하면 여기 살아도 되겠어요 - 네, 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe we shouldn't tell the others about this.",
+      "ko": "다른 사람들한텐 여길 비밀로 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you kidding or what?",
+      "ko": "그게 무슨 말이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just think it should be our little secret for now.",
+      "ko": "당분간은 둘만의 비밀로 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, yeah? Is that right? -Yeah.",
+      "ko": "- 그게 옳은 걸까요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And why is that?",
+      "ko": "이유가 뭐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, great minds and all that. -[chuckles] -Plus, you never know.",
+      "ko": "위대한 사람들은 같은 생각을 하죠 그리고 앞일도 모르잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, I see.",
+      "ko": "좋아요, 알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So it's the whole survival of the fittest kinda thing, huh?",
+      "ko": "지금 여기가 적자생존의 현장이라는 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I mean, you are pretty fit.",
+      "ko": "네, 그리고 당신은 매력적이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you. So are you.",
+      "ko": "고마워요, 당신도 마찬가지죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You think? -Yeah.",
+      "ko": "- 그렇게 생각해요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, darling. [chuckles]",
+      "ko": "알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough for one day.",
+      "ko": "오늘 진도는 여기까지면 충분해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "이리 와요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Hey! I said no.",
+      "ko": "이봐요, 싫다고 했잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I said stop!",
+      "ko": "그만해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Let go of me!",
+      "ko": "이거 놔요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just playing around.",
+      "ko": "그냥 장난친 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop it! -Geez! What?",
+      "ko": "- 그만해요! - 세상에"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Come on, guys! Come on!",
+      "ko": "- 뭘요? - 다들 들어와요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] Guys, come on!",
+      "ko": "이리 와요, 빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Taylor] No. Not funny!",
+      "ko": "그래요, 전부 다요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Taylor squeals] -[Donovan] This is great!",
+      "ko": "기분 최고야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] This is awesome!",
+      "ko": "완전 끝내주네요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cooper yells] Shark! Shark! -What?",
+      "ko": "- 상어다, 상어예요! - 뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[panting] What? -[Cooper] Shark!",
+      "ko": "- 뭐야? - 상어다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Moses] Blair! -[Donovan] Oh, shit!",
+      "ko": "- 블레어! - 제기랄!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Hayden] What? Guys, get out! -[Taylor] Help! Somebody, help! Help!",
+      "ko": "네? 누가 도와줘요! - 빨리 나가요! - 살려 줘요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Taylor] Blair! -[Donovan] Where'd he-- Where?",
+      "ko": "- 블레어! - 어디에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Taylor] Help!",
+      "ko": "블레어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God!",
+      "ko": "맙소사!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] Help me!",
+      "ko": "살려 줘요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Please! Help! -[Blair] What?",
+      "ko": "- 제발 도와줘요! - 뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Help her, she's panicking!",
+      "ko": "도와줘요, 겁에 질렸어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Blair] Help! -[Cooper] No!",
+      "ko": "- 도와줘요! - 안 돼요! - 나와요! - 조심해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "ko": "- 어서 나와요! - 이봐요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on! I need a hand! -Hey! Help her!",
+      "ko": "- 빨리 좀 도와줘요! - 갈게요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help!",
+      "ko": "도와줘요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Taylor] Help! -[Hayden] What happened?",
+      "ko": "- 살려 줘요! - 어떻게 된 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Donovan!",
+      "ko": "도너번!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Please! -[Taylor] Donovan!",
+      "ko": "- 어디로 갔지? - 도너번!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fuck! -[Cooper] Hey, come back to the beach!",
+      "ko": "- 젠장! - 해변으로 와요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Hayden] Mason! Mason! -[coughs]",
+      "ko": "메이슨!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was that?",
+      "ko": "저게 뭐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] Mason!",
+      "ko": "메이슨!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to get him!",
+      "ko": "우리가 구해야 해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd he go?!",
+      "ko": "- 안 돼요 - 어디 갔죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] No, hey. Mason, are you okay?",
+      "ko": "잠깐만요 메이슨, 괜찮아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Donovan!",
+      "ko": "도너번!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cooper] Cover her up. -[Hayden] Moses!",
+      "ko": "- 부축해요 - 모지스!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] Where did those come from?",
+      "ko": "대체 어디서 온 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was it? What was it?",
+      "ko": "- 그게 뭐예요? - 무슨 일이죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] What happened?",
+      "ko": "어떻게 된 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Taylor] Did you see anything?",
+      "ko": "뭔지 봤어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Taylor] Anything?",
+      "ko": "아무것도요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] You okay? What the fuck happened?",
+      "ko": "괜찮아요? 망할 무슨 일이죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] Blair, come on.",
+      "ko": "블레어, 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Where's Donovan? Where is he?",
+      "ko": "도너번은 어디 있나요? 어디로 갔죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come.",
+      "ko": "어서 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you need help?",
+      "ko": "도와줄까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ko": "괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. Look what we found.",
+      "ko": "여러분, 우리가 찾은 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's up?",
+      "ko": "왜 그래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brody] Why's everybody so quiet?",
+      "ko": "왜 다들 조용하죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A guy died.",
+      "ko": "한 명이 죽었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Out there. -Who died?",
+      "ko": "- 바다에서요 - 누가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The guy you were with.",
+      "ko": "그쪽과 있던 남자요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The guy with the long hair.",
+      "ko": "머리가 긴 남자요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He went out swimming, so we all joined him,",
+      "ko": "수영한다길래 우리도 합류했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know, just for some fun.",
+      "ko": "그렇게 재밌게 놀다가"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He got attacked. -Attacked by what?",
+      "ko": "- 공격당했어요 - 뭐에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A shark or a fucking who knows what.",
+      "ko": "상어인지 망할 뭔지 아무도 모르죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something.",
+      "ko": "어쨌든"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] Doesn't matter, the guy's dead.",
+      "ko": "상관없어요, 그 사람은 죽었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Almost got Blair, too.",
+      "ko": "블레어도 아슬아슬했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right.",
+      "ko": "그랬죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd you get all that stuff?",
+      "ko": "그건 다 어디서 났어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That bitch find it?",
+      "ko": "그년이 찾았나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know,",
+      "ko": "저기요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chase isn't a bitch, she's just--",
+      "ko": "체이스는 그년이 아니라..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, come on.",
+      "ko": "이러지 마요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She just happens to find all that survival gear?",
+      "ko": "그 여자가 생존 도구들을 우연히 찾았다고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you talking about?",
+      "ko": "무슨 소리예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all know what I'm talking about.",
+      "ko": "무슨 뜻인지 다 알잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She just starts digging around in the sand, where we all woke up?",
+      "ko": "우리가 깨어난 지점의 모래를 파고 다녔겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Oh, look, here's a shell.\"",
+      "ko": "'여기 소라껍데기가 있어'"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Oh, cool. Here's a first aid kit.\"",
+      "ko": "'잘됐군, 이건 구급상자야'"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Shit doesn't just happen. -So what are you saying?",
+      "ko": "- 우연일 리 없어요 - 무슨 뜻이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That shit doesn't just happen.",
+      "ko": "절대로 우연일 리가 없다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's off with her.",
+      "ko": "수상한 여자예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is she, by the way?",
+      "ko": "지금 어디 있는데요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Uh, I don't know. Um... -[KC] Hmm?",
+      "ko": "모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We split up, looking for stuff,",
+      "ko": "따로 찾으러 다녔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "like food and whatever. I thought she'd be back here before me.",
+      "ko": "먹을거리 같은 거요 먼저 와 있을 줄 알았죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what, why don't we move down there, behind the rocks?",
+      "ko": "우리 저기 있는 바위 뒤로 옮기는 거 어때요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's less wind, and we can build a real fire.",
+      "ko": "바람이 덜 불어서 불을 피우기 수월하겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "The smoke can be a signal to people.",
+      "ko": "연기가 나면 눈에 띄기 쉬울 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Like a boat or a plane or something. -Who?",
+      "ko": "- 배나 비행기에요 - 누구한테요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you kidding? Seriously?",
+      "ko": "진짜 장난하는 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you grab this stuff, and we'll all go.",
+      "ko": "물건 챙겨서 다 같이 가죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, let's go.",
+      "ko": "어서 갑시다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go!",
+      "ko": "서둘러요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair scoffs] Why? Who said he's the leader?",
+      "ko": "왜죠? 저 사람이 리더예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] Come on, guys.",
+      "ko": "다 같이 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] Gotta get to some shelter.",
+      "ko": "쉴 곳을 찾아야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Moses, right? Moses? -Yeah.",
+      "ko": "모지스? - 맞죠? 모지스 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "You collect the coconuts, all right?",
+      "ko": "코코넛을 모아요, 알았죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put those together, and...",
+      "ko": "한곳에 모아 두고..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cooper. -Cooper.",
+      "ko": "- 쿠퍼요 - 쿠퍼"
+    }
+  },
+  {
+    "translation": {
+      "en": "You seem pretty good with the hatchet. Maybe we can use that to...",
+      "ko": "손도끼를 잘 다루니까 그 실력을 이용해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know, pull these apart.",
+      "ko": "장작을 패도록 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You two, if you guys carry on collecting the firewood...",
+      "ko": "거기 있는 둘이 땔감을 가져오면 되겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just-- I think it's better if we work together as a team.",
+      "ko": "힘을 모으는 게 좋겠어요 - 팀으로요 - 그래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Food.",
+      "ko": "먹을거리예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you fucking ever touch me again!",
+      "ko": "다시는 나한테 손대지 마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You hear me? Don't you fucking ever-- -[Brody groans]",
+      "ko": "들었어? 빌어먹을, 다신..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You bastard! [panting] -Hey!",
+      "ko": "- 나쁜 자식! - 이봐요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't you ever touch me again, or anybody here, do you hear me?",
+      "ko": "여기 있는 누구도 다신 건들지 마 알았어? 아니면 죽여 버린다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or I'll fucking kill you!",
+      "ko": "알았어? 아니면 죽여 버린다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're fucking crazy.",
+      "ko": "- 제정신이 아니군요 - 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let go of me. [panting] Did you tell 'em about the waterfall?",
+      "ko": "놔 봐요 사람들한테 폭포 얘기했어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cooper] What waterfall? -All the things that we found? Did you?",
+      "ko": "- 무슨 폭포요? - 우리가 찾아낸 것들은? 말했어? 얘기 들었어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he tell you?",
+      "ko": "말했어? 얘기 들었어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I figured you wouldn't.",
+      "ko": "입 다물 줄 알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fresh water.",
+      "ko": "담수가 흐르는"
+    }
+  },
+  {
+    "translation": {
+      "en": "A place to live.",
+      "ko": "살기 좋은 곳을"
+    }
+  },
+  {
+    "translation": {
+      "en": "But he wanted to call it our little secret.",
+      "ko": "둘만의 비밀로 삼자고 했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least that's what he said before he attacked me.",
+      "ko": "날 덮치기 전에 그렇게 말했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Attacked you? -[Chase] Yes, attacked me, you liar!",
+      "ko": "- 당신을 덮쳤다고요? - 그래, 거짓말쟁이"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow.",
+      "ko": "우와"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's the one who came on to me.",
+      "ko": "오히려 나한테 추근댔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You kissed me! -You fucking--",
+      "ko": "내게 키스했잖아요! 이런 망할..."
+    }
+  },
+  {
+    "translation": {
+      "en": "By the way, Donovan's dead.",
+      "ko": "그건 그렇고 도너번이 죽었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So maybe you should think about what's important here.",
+      "ko": "여기서 뭐가 중요한지 생각해 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He died in the ocean.",
+      "ko": "바다에서 죽었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A shark.",
+      "ko": "상어였죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Think about it.",
+      "ko": "제발 생각해 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If someone attacked you,",
+      "ko": "누가 당신을 덮쳤다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "would you stop by and pick fruit for everyone straight after?",
+      "ko": "그 일 직후에 모두를 위해 과일을 줍겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or would you, uh,",
+      "ko": "아니면"
+    }
+  },
+  {
+    "translation": {
+      "en": "go straight back to wherever and do something about it?",
+      "ko": "곧장 돌아와서 조치를 하겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brody] What would you do? Hmm?",
+      "ko": "어떨 거 같아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Oh! \"Hey, got some bananas and mangoes,",
+      "ko": "'여러분, 바나나와 망고를 가져왔어요'"
+    }
+  },
+  {
+    "translation": {
+      "en": "and by the way, this guy over here, he attacked me.\"",
+      "ko": "'그건 그렇고 저 사람이 아까 날 덮쳤죠'"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I mean, that's insane talk! -You fucking attacked me!",
+      "ko": "- 말도 안 되는 소리죠 - 망할 네가 덮쳤잖아!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't touch me! Any of you!",
+      "ko": "날 건드리지 마요, 누구도요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leave me the fuck alone!",
+      "ko": "망할, 혼자 놔둬요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] Can we stop fighting?",
+      "ko": "그만 싸우면 안 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Moses] What happened out there?",
+      "ko": "무슨 일이 있었던 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing. We kissed, that's it.",
+      "ko": "아무것도 아니에요 키스한 게 전부죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You okay? -Fine.",
+      "ko": "- 괜찮아요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm fine.",
+      "ko": "난 괜찮다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Truth is...",
+      "ko": "진실은"
+    }
+  },
+  {
+    "translation": {
+      "en": "she's fucking nuts.",
+      "ko": "저년이 미쳤다는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, you okay, man?",
+      "ko": "괜찮아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] This is crazy, right? All this?",
+      "ko": "이건 말도 안 돼요 모든 게 다요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. I have a bad feeling about this.",
+      "ko": "모르겠어요 아무래도 느낌이 안 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need a minute.",
+      "ko": "잠시만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Please...",
+      "ko": "제발"
+    }
+  },
+  {
+    "translation": {
+      "en": "I beg you.",
+      "ko": "부탁이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] Oh, fuck.",
+      "ko": "빌어먹을!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Holy shit!",
+      "ko": "맙소사!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you hear me?",
+      "ko": "내 말 들려요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Donovan] Help me.",
+      "ko": "도와줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[whispering] Oh, my God. -Help me.",
+      "ko": "- 세상에 - 살려 줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] Help.",
+      "ko": "도와줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "ko": "여기예요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help.",
+      "ko": "살려 줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Okay.",
+      "ko": "알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Can you hear me? Hey.",
+      "ko": "내 말 들려요? 이봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with us, okay?",
+      "ko": "정신 차려요, 알았죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's Donovan!",
+      "ko": "도너번이에요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Donovan, can you hear me?",
+      "ko": "- 도너번, 들려요? - 젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stay with us, all right? -Shit! That's unreal!",
+      "ko": "- 정신 차려요 - 말도 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God.",
+      "ko": "세상에"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Is he alive? -Yeah.",
+      "ko": "- 살아 있어요? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "He just grabbed me. Come on. Can you hear me?",
+      "ko": "날 붙잡았어요, 서둘러요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cooper] The shark tore him up good.",
+      "ko": "- 들려요? - 상어가 제대로 공격했군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, we need to get the first aid kit. Somebody needs to go now--",
+      "ko": "구급상자가 필요해요 - 누가 빨리 갔다와요 - 장난해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Are you kidding me?",
+      "ko": "- 누가 빨리 갔다와요 - 장난해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It probably has Spider-Man Band-Aids. That's not gonna do anything.",
+      "ko": "스파이더맨 반창고나 있겠죠 쓸모없을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here, I'll help you with his leg.",
+      "ko": "내가 다리를 잡을게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Donovan wails in pain] -[Hayden] I'll get the kit. -Put on a tourniquet. -[Chase] Let me help you.",
+      "ko": "- 구급상자를 가져오죠 - 지혈대를 댈게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't that the guy that pushed you in front of the shark?",
+      "ko": "- 다리를 잡을게요 - 이자가 당신을 - 상어한테 밀었죠? - 상관없어요, 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Doesn't matter. Okay. -[belt snaps]",
+      "ko": "- 상어한테 밀었죠? - 상관없어요, 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screams in pain] -What do we do? -I don't know what to do. -We need to get him back.",
+      "ko": "- 어떻게 해야 할지 모르겠어요 - 당장 옮겨야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so I need everybody to get underneath him.",
+      "ko": "다 같이 도너번을 받쳐 들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Please, someone else can-- Taylor, can you come over here, please?",
+      "ko": "부탁할게요, 누가... 테일러, 이쪽으로 올래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Get him back to the fire so he can stay warm.",
+      "ko": "불가로 옮겨서 - 체온을 유지해야 해요 - 심호흡해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] Take a deep breath.",
+      "ko": "- 체온을 유지해야 해요 - 심호흡해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so I'm gonna tell you when to lift him.",
+      "ko": "좋아요 내가 말하면 들어 올려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We need to keep the wound raised. -[Cooper] Okay.",
+      "ko": "- 상처 부위를 높이 둬야 해요 - 알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, one...",
+      "ko": "- 좋아요 - 하나"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two... Lift him really, really slowly and steadily, okay?",
+      "ko": "둘, 아주 천천히 들어 올려요 흔들리지 않게요, 알았죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] And... three!",
+      "ko": "그리고 셋!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Blair] Okay. -[all straining]",
+      "ko": "네, 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Blair] It's okay. It's okay. It's not long now.",
+      "ko": "괜찮아요, 걱정 마요 잠깐이면 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Guys, fucking move it!",
+      "ko": "서둘러요 다들 빨리 움직여요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I came to apologize.",
+      "ko": "사과하러 왔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "ko": "미안해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "For what, exactly?",
+      "ko": "정확히 뭐가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For what you did or lying about it?",
+      "ko": "당신의 행동과 거짓말 중에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, you know, it was...",
+      "ko": "그러니까 일반적인"
+    }
+  },
+  {
+    "translation": {
+      "en": "more of a general type of thing.",
+      "ko": "사과라고 생각하면 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, it doesn't matter, but people are gonna...",
+      "ko": "난 상관없지만 사람들이..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Things are gonna get a lot worse out here before they get any better.",
+      "ko": "상황이 나아지기 전에 훨씬 악화될 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're smart, I know you can see that.",
+      "ko": "똑똑하니까 알잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't even know what's going on.",
+      "ko": "상황을 잘 모르나 본데"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't have a clue how we woke up here.",
+      "ko": "어쩌다 여기서 깨어났는지 아무도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just think that people need to...",
+      "ko": "그러니까 너무 늦기 전에"
+    }
+  },
+  {
+    "translation": {
+      "en": "end up on the right side with each other before it's too late.",
+      "ko": "서로 옳은 자리에 서야 한다고 생각해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before things start to go down or fall apart.",
+      "ko": "상황이 나빠져서 결딴나기 전에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see.",
+      "ko": "알겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, that's all I wanted to say.",
+      "ko": "그 얘기를 하고 싶었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, you just want me to forget the fact that you just jumped on me,",
+      "ko": "그러니까 잊으라는 거죠? 당신이 내게 달려들어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "held me down, and all that?",
+      "ko": "제압한 행동 모두요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why? Because it's-- it's gonna get worse for me?",
+      "ko": "그러면 내 상황이 악화되기 때문인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much worse for me is it gonna get? I'm just curious.",
+      "ko": "지금보다 얼마나 더 나빠질까요? 그게 궁금하군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look...",
+      "ko": "이봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "the rest of them, they, uh...",
+      "ko": "나머지 사람들이"
+    }
+  },
+  {
+    "translation": {
+      "en": "they wanna have a meeting.",
+      "ko": "회의를 하자고 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So I told them that I'd come over here and tell you.",
+      "ko": "그래서 내가 당신한테 전달하겠다고 했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hope you can join us.",
+      "ko": "회의에 오면 좋겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We'll see. -I hope so.",
+      "ko": "- 생각해 보죠 - 참석해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could use your vote.",
+      "ko": "당신 표가 필요해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My vote?",
+      "ko": "내 표요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I got a couple ideas.",
+      "ko": "몇 가지 아이디어가 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's all. Um...",
+      "ko": "그래서죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sure the folks are gonna wanna put things to a vote at some point.",
+      "ko": "사람들은 결국 표결로 결정하자고 할 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't hold your breath.",
+      "ko": "기대도 하지 마요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I don't need you.",
+      "ko": "당신 표는 필요 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know that, right? I was just being nice.",
+      "ko": "알아 둬요 그냥 호의를 베푼 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And they're also kinda worried about that, um...",
+      "ko": "그리고 사람들이 그 걱정도 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "yeah, that hatchet and knife.",
+      "ko": "그 손도끼와 칼 말이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you tell them that I'm holding it",
+      "ko": "이렇게 전해요, 망할 당신이"
+    }
+  },
+  {
+    "translation": {
+      "en": "just in case you try to rape me again, you fucker?",
+      "ko": "또 강간할까 봐 갖고 있다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just the messenger.",
+      "ko": "난 전달자에 불과하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we all know what happens to him, don't we?",
+      "ko": "전달자는 화풀이 대상에 불과하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckling] Oh, and by the way,",
+      "ko": "그리고 덧붙여 말하자면"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wasn't trying to rape you.",
+      "ko": "당신을 강간하려던 게 아니에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You weren't? Really?",
+      "ko": "- 그래요? 진짜요? - 그런 건 성립 안 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no such thing like that in a place like this.",
+      "ko": "- 그래요? 진짜요? - 그런 건 성립 안 하죠 이런 곳에서는요"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's just sex and no sex.",
+      "ko": "했느냐 안 했느냐 뿐이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We didn't have any sex.",
+      "ko": "우린 안 했잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brody] That's all I'm saying.",
+      "ko": "내 말은 그거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know it's a risk, but I think it's a risk worth taking.",
+      "ko": "위험하긴 하지만 그걸 감수할 가치가 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Especially because we got someone who's injured.",
+      "ko": "특히 우리한테는 부상자가 있으니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think we should move him.",
+      "ko": "환자를 옮기면 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry I'm late.",
+      "ko": "늦어서 미안해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't know whether I should be here or not, but then I figured, hey,",
+      "ko": "올지 말지 고민하다 결정을 내렸죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "you guys are all that I have, so, let this big council meeting begin.",
+      "ko": "나한텐 당신들뿐이니까요 그러니까 회의를 시작하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brody] I'm glad you could join.",
+      "ko": "와 줘서 기뻐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're here.",
+      "ko": "우린 여기 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't know why and we don't know how, but it's real.",
+      "ko": "이유는 물론 과정도 모르지만 이건 현실이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can get sunburned or killed by shit in the water.",
+      "ko": "햇볕 화상을 입거나 바닷속의 망할 놈에게 먹힐 수도 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we're gonna get hungry and thirsty.",
+      "ko": "그리고 허기와 갈증이 밀려들 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All I'm proposing is that we all take a vote",
+      "ko": "그래서 표결을 제안하고 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "to move off the beach to a little spot inland,",
+      "ko": "해변을 떠나서 내륙으로 가는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "where we have fresh water,",
+      "ko": "담수가 있는"
+    }
+  },
+  {
+    "translation": {
+      "en": "shelter, and we're protected.",
+      "ko": "몸을 지킬 쉼터로요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's all.",
+      "ko": "그 말이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And where no one knows where we're at.",
+      "ko": "그럼 아무도 우리 위치를 모르겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[mouthing] Oh, my God.",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody knows anyway.",
+      "ko": "어쨌든 아무도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody's coming.",
+      "ko": "누가 올 리도 없죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Face facts. We're out here on our own.",
+      "ko": "인정해요 여기엔 우리밖에 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He doesn't know that.",
+      "ko": "누가 모른다고 했나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to have hope, right?",
+      "ko": "희망을 가져야 해요, 그렇죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna die out here,",
+      "ko": "이러다 죽을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "without any shelter, out in the open.",
+      "ko": "몸을 피할 데도 없이 트인 곳에 있다가는요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Weather, animals, infection.",
+      "ko": "날씨나 동물의 공격 감염으로 말이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll tell you what, I promise you this,",
+      "ko": "이거 하나는 장담할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "we haven't seen half the shit this island's gonna throw at us.",
+      "ko": "우린 이 섬의 쓴맛을 반도 못 봤어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a fact. We have to be ready.",
+      "ko": "사실이죠 우린 준비를 해야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, we do.",
+      "ko": "네, 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But on the beach.",
+      "ko": "해변에서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chuckles] Wow. -We need to keep this fire going,",
+      "ko": "- 와 - 불을 꺼뜨리지 말고"
+    }
+  },
+  {
+    "translation": {
+      "en": "take turns searching for food, getting water,",
+      "ko": "교대로 음식과 물을 찾아야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "building a hut or two,",
+      "ko": "오두막도 한두 채 짓고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we survive.",
+      "ko": "살아남아야 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what I think.",
+      "ko": "- 내 생각이에요 - 아니면 여기서 벗어나거나요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Or we try to get out of here. -What are you gonna use for a boat?",
+      "ko": "- 내 생각이에요 - 아니면 여기서 벗어나거나요 배를 사용하려고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "First aid kit, or...",
+      "ko": "아니면 구급상자나"
+    }
+  },
+  {
+    "translation": {
+      "en": "maybe that cute little knife you got in your belt?",
+      "ko": "벨트에 찬 작은 칼을 쓰게요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's funny, KC.",
+      "ko": "재밌네요, KC"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you try listening for once?",
+      "ko": "말을 제대로 들어요 한 번이라도"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you have a piece of info that we don't have?",
+      "ko": "우리가 모르는 정보를 아나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why the hell would you say, \"Get outta here\"?",
+      "ko": "왜 여기서 벗어나자는 이야기를 하죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brody] Hmm? How?",
+      "ko": "어떻게요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, look.",
+      "ko": "잘 들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you guys know these two here?",
+      "ko": "여기 있는 두 명 알죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] This guy over here and this girl?",
+      "ko": "이 남자와 여자 말이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Taylor?",
+      "ko": "테일러?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Moses?",
+      "ko": "모지스?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Mason and that's Hayden.",
+      "ko": "이쪽은 메이슨과 헤이든이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw them earlier,",
+      "ko": "아까 둘을 봤는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "moving along the beach, in an odd way,",
+      "ko": "바닷가를 따라 걸으며 이상하게도"
+    }
+  },
+  {
+    "translation": {
+      "en": "like if they were counting steps or something.",
+      "ko": "발걸음을 세는 거 같았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-There's more to it, wasn't there? -Probably dumb, just forget it.",
+      "ko": "- 왜 그랬는지 말해 봐요 - 별거 아니니 그냥 잊어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] Just go, please.",
+      "ko": "말해요, 부탁이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] It was a pattern.",
+      "ko": "패턴이 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was the number of steps...",
+      "ko": "우리가 있던 자리 사이의"
+    }
+  },
+  {
+    "translation": {
+      "en": "between each of us.",
+      "ko": "발걸음 수죠 그걸 알아냈어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what we noticed. They were equidistant, all of them.",
+      "ko": "발걸음 수죠 그걸 알아냈어요 간격이 같아요, 전부 다요"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I kept finding things buried in the sand,",
+      "ko": "내가 모래에 묻힌 물건을 찾을 때도"
+    }
+  },
+  {
+    "translation": {
+      "en": "first there was one, and then there was another.",
+      "ko": "하나가 나오고 또 다른 게 나왔으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, the rest I guessed,",
+      "ko": "아마 나머지도"
+    }
+  },
+  {
+    "translation": {
+      "en": "but they were all there.",
+      "ko": "각자 자리에 있을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was 39 steps between each of us,",
+      "ko": "모든 자리의 간격은 39걸음이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "without fail.",
+      "ko": "오차가 없죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thirty-nine of my steps.",
+      "ko": "내 보폭 기준으로 39걸음요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tried to be as even as possible",
+      "ko": "최대한 일정하게 걸었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "because it's not an exact unit of measurement, but...",
+      "ko": "발걸음 수가 정확한 측정 단위는 아니지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "it's all that I had.",
+      "ko": "다른 방법이 없으니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't that a movie or something? 39 Steps?",
+      "ko": "비슷한 영화 제목 있죠? '39 계단'요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That probably doesn't have anything to do with this.",
+      "ko": "아마 영화와는 무관할 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who knows? All right?",
+      "ko": "하지만 누가 알겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "But that's the point here.",
+      "ko": "어쨌든 핵심은 이거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to be open to what's around us.",
+      "ko": "우리는 모든 걸 공유해야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try to remember things of our lives",
+      "ko": "살기 위해 기억해 내야 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "that would help us figure out what the hell all this means.",
+      "ko": "상황을 파악하는데 도움이 되도록 말이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thirty-nine steps,",
+      "ko": "39걸음"
+    }
+  },
+  {
+    "translation": {
+      "en": "that's all.",
+      "ko": "그게 전부예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing more.",
+      "ko": "그 이상은 아니죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't know that yet.",
+      "ko": "아직 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It could be something, it could be nothing,",
+      "ko": "아무것도 아닐지 뭔가 있을지는요"
+    }
+  },
+  {
+    "translation": {
+      "en": "but it's a start.",
+      "ko": "이제 시작이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "We calculated the number of steps we had",
+      "ko": "우리가 직접 센 발걸음 수에"
+    }
+  },
+  {
+    "translation": {
+      "en": "times the number of people that existed here.",
+      "ko": "여기 있던 사람 수를 곱한 다음"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we followed that number.",
+      "ko": "그 발걸음 수만큼 가 봤어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, I'm lost.",
+      "ko": "- 무슨 말인지 모르겠어요 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, since when did this become a math problem?",
+      "ko": "언제부터 이게 수학 문제가 됐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a guy dying over there.",
+      "ko": "저기서 사람이 죽어가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can we please, please take a vote?",
+      "ko": "제발 표결에 부치면 안 될까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you guys just listen?",
+      "ko": "그냥 좀 들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, um...",
+      "ko": "그러니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "so... not counting the ocean,",
+      "ko": "우선 바다는 제외할게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "since it would be impossible to go out there and calculate steps",
+      "ko": "바다에서 발걸음을 세는 건 불가능하니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "in a credible way while swimming and--",
+      "ko": "수영하는 방법을 빼면요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And not counting the shark. -Right,",
+      "ko": "- 게다가 상어도 있죠 - 맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and not counting the shark,",
+      "ko": "그리고 상어도 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "we began taking a series of random samplings",
+      "ko": "우리는 무작위로 보폭 샘플을 수집했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "in terms of jungle and also in both directions on the beach,",
+      "ko": "정글은 물론 해변 양쪽을 다니면서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "allowing for a size differential",
+      "ko": "크기 차이는 감안했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "based on the biggest and smallest of us,",
+      "ko": "우리 중 최장신과 최단신을 기준으로요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and... bingo.",
+      "ko": "그리고... 빙고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Meaning what?",
+      "ko": "무슨 뜻이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Meaning, we found something.",
+      "ko": "우리가 뭔가를 찾았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mason] ...two, three...",
+      "ko": "둘, 셋..."
+    }
+  },
+  {
+    "translation": {
+      "en": "...five, six...",
+      "ko": "다섯..."
+    }
+  },
+  {
+    "translation": {
+      "en": "eight. I just want to be sure.",
+      "ko": "여덟, 확실히 하고 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] I'm counting, too.",
+      "ko": "나도 셀게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Twelve, 13, 14, 15, 16, 17, 18...",
+      "ko": "12, 13, 14, 15, 16, 17, 18..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] I really don't know if it was a good idea to leave him behind.",
+      "ko": "환자를 혼자 둬도 괜찮을지 모르겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[KC] He won't make it anyway.",
+      "ko": "어쨌든 못 버틸 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hayden] This is it.",
+      "ko": "이거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was down this beach earlier, and I didn't even see it.",
+      "ko": "저번에 여기 왔을 때는 보지도 못했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, not that I was looking for it, but there it is, in plain English.",
+      "ko": "이걸 찾은 건 아니었지만요 여기 있네요, 영어로 쓰여 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so it's a sign.",
+      "ko": "표지판이네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, it's a sign that's exactly the same amount of steps",
+      "ko": "네, 표지판이 있죠 정확히 여기서 깨어난 사람들의"
+    }
+  },
+  {
+    "translation": {
+      "en": "as it is from the people that woke up on this island.",
+      "ko": "발걸음 수만큼 떨어진 곳에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It says, \"Find your way back.\"",
+      "ko": "돌아가는 길을 찾으래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yep. Right there.",
+      "ko": "네, 그렇게 쓰여 있네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, we can read.",
+      "ko": "우리도 읽을 수 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, this is actually bad news,",
+      "ko": "사실 이건 나쁜 소식이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause whoever made this sign is gone,",
+      "ko": "표지판을 만든 이가 사라졌으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "so they either figured something out or...",
+      "ko": "그 사람들은 돌아가는 길을 찾았거나..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or they're dead.",
+      "ko": "죽었겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "맞아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not like it's magic. It's not even math.",
+      "ko": "이건 마법이 아니에요 수학도 아니죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "They just walked down the beach and found it.",
+      "ko": "그냥 해변을 걷다가 찾은 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If they hadn't, someone else would've.",
+      "ko": "둘이 아니었대도 누군가 발견했겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, it's cool, it's just not-- not a grocery store or ice cream.",
+      "ko": "괜찮아요, 식료품 가게나 아이스크림 가게는 아니지만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're hungry, and it's not even a map that tells us where we are.",
+      "ko": "우린 배고프고 그건 이곳 위치를 알려 주는 지도도 아니죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you know that that's not what this is?",
+      "ko": "별게 아니라고 어떻게 확신하죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, honestly, how do you know? -It's not. Look, it's a sign.",
+      "ko": "- 솔직히요, 어떻게 알죠? - 봐요, 그냥 표지판이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chase] This is our first clue.",
+      "ko": "이건 우리의 첫 번째 단서예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the point here, people!",
+      "ko": "그게 핵심이에요, 여러분"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's-- It's something. I know it is.",
+      "ko": "이건 중요한 단서죠, 확실해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll tell you something.",
+      "ko": "한마디만 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm going back.",
+      "ko": "난 돌아갈래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll join you.",
+      "ko": "같이 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should go check on Donovan.",
+      "ko": "도너번 상태를 확인하러 가야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on!",
+      "ko": "이러지 마요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does it say \"find your way home\"?",
+      "ko": "집에 가는 길이 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "It says \"back.\" Back somewhere.",
+      "ko": "돌아가는 길을 찾으라고 쓰여 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I just don't know where \"where\" is. -[Hayden] Who knows?",
+      "ko": "- 어디로 돌아가는 길이죠? - 누가 알겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe they're right. It means nothing.",
+      "ko": "사람들 말대로 아무것도 아닌가 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mason] But the numbers are correct.",
+      "ko": "하지만 숫자는 정확해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But so what?",
+      "ko": "그래서요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It could just be a sign.",
+      "ko": "그냥 표지판일지도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "An actual sign, left here by someone a long time ago",
+      "ko": "진짜 표지판이요 오래전에 누가 남겨둔"
+    }
+  },
+  {
+    "translation": {
+      "en": "about something that means nothing.",
+      "ko": "아무 뜻 없는 표지판요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mason] Do you think the numbers are just all chance?",
+      "ko": "우연히 숫자가 일치할까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ko": "나도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really don't know.",
+      "ko": "진짜로 모르겠어요"
+    }
+  }
+]

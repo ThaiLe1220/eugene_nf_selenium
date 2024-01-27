@@ -1,0 +1,5444 @@
+[
+  {
+    "translation": {
+      "en": "What did you eat?",
+      "th": "คุณกินอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You had rations for two weeks.",
+      "th": "คุณมีอาหารพอแค่สองสัปดาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were inside for nearly four months.",
+      "th": "แต่อยู่ในนั้นเกือบสี่เดือน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember eating.",
+      "th": "ฉันจำไม่ได้ว่ากิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long did you think you were inside?",
+      "th": "คุณคิดว่าตัวเองอยู่ในนั้นนานแค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Days.",
+      "th": "หลายวันค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe weeks.",
+      "th": "อาจจะหลายสัปดาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened to Josie Radek?",
+      "th": "เกิดอะไรขึ้นกับโจซี่ แรเดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know. -What about Sheppard?",
+      "th": "- ฉันไม่รู้ - แล้วเชปเพิร์ดล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thorensen?",
+      "th": "ทอเรนเซนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead.",
+      "th": "ตายแล้วค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress?",
+      "th": "เวนเทรสล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ฉันไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then what do you know?",
+      "th": "แล้วคุณรู้อะไรบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] This is a cell.",
+      "th": "นี่คือเซลล์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like all cells, it is born from an existing cell.",
+      "th": "มันเหมือนกับทุกๆ เซลล์ คือเกิดขึ้นจากเซลล์ที่มีอยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "And by extension,",
+      "th": "เมื่อคิดต่อไปแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "all cells were ultimately born from one cell.",
+      "th": "ที่สุดแล้วทุกเซลล์ก็เกิดจากเพียงเซลล์เดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "A single organism alone on planet Earth,",
+      "th": "สิ่งมีชีวิตหนึ่งเดียวเพียงลำพังบนโลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "perhaps alone in the universe.",
+      "th": "อาจจะเพียงลำพังในจักรวาลด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "About four billion years ago...",
+      "th": "เมื่อประมาณสี่พันล้านปีก่อน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "one became two, two became four.",
+      "th": "หนึ่งกลายเป็นสอง สองกลายเป็นสี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then eight, 16, 32.",
+      "th": "เป็นแปด 16 32"
+    }
+  },
+  {
+    "translation": {
+      "en": "The rhythm of the dividing pair...",
+      "th": "จังหวะของคู่ที่แบ่งตัว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "which becomes the structure of every microbe,",
+      "th": "ซึ่งกลายมาเป็นโครงสร้างของจุลชีพทุกตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "blade of grass, sea creature, land creature...",
+      "th": "หญ้าทุกใบ สัตว์ทะเล สัตว์บกทุกตัว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and human.",
+      "th": "และมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "The structure of everything that lives...",
+      "th": "โครงสร้างของทุกสิ่งที่มีชีวิต..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and everything that dies.",
+      "th": "และทุกสิ่งที่ตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "As students of medicine, as the doctors of tomorrow,",
+      "th": "ในฐานะนักศึกษาแพทย์ ในฐานะแพทย์ในอนาคต"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is where you come in.",
+      "th": "คุณจะเข้ามามีบทบาทตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The cell we're looking at is from a tumor.",
+      "th": "เซลล์ที่เราดูอยู่มาจากเนื้องอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Female patient, early 30s, taken from the cervix.",
+      "th": "ผู้ป่วยหญิง วัย 30 ต้นๆ เก็บตัวอย่างจากปากมดลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over the course of the next term,",
+      "th": "ตลอดเทอมหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "we will be closely examining cancer cells in vitro",
+      "th": "เราจะศึกษาเซลล์มะเร็งในหลอดแก้ว อย่างละเอียด"
+    }
+  },
+  {
+    "translation": {
+      "en": "and discussing autophagic activity.",
+      "th": "และถกประเด็นการกินตัวเองของเซลล์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Professor? -[woman] Hey, Katie.",
+      "th": "- อาจารย์คะ - ว่าไง เคธี"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Katie] I read the John Sulston paper last night.",
+      "th": "หนูอ่านงานของจอห์น ซัลสตันเมื่อคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I still feel like I'm not working hard enough.",
+      "th": "หนูรู้สึกว่าหนูยังพยายามไม่พอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm behind the other students.",
+      "th": "หนูตามหลังคนอื่นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They find everything easier. -[woman] You aren't, and they don't.",
+      "th": "- ทุกคนไปเร็วกว่าหนู - ไม่หรอก คนอื่นไม่ได้เก่งกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay? -Lena!",
+      "th": "- โอเคนะ - ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dan.",
+      "th": "แดน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dan] I've been looking for you at lunch, but you never seem to be around.",
+      "th": "ผมมองหาคุณตอนพักเที่ยง แต่คุณเหมือนไม่เคยอยู่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been catching up on some writing.",
+      "th": "ฉันไล่เขียนงานอยู่น่ะค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All work and no play, it sounds... not healthy.",
+      "th": "ทำแต่งานไม่มีเรื่องเล่น มัน...ไม่ดีต่อสุขภาพนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanted to ask,",
+      "th": "ผมอยากถามน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-do you have plans Saturday? -[clicks tongue]",
+      "th": "ว่าคุณวางแผนอะไรไว้มั้ยวันเสาร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah and I have a few people over.",
+      "th": "แซราห์กับผมเชิญคนมาบ้าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "A garden party while the weather holds.",
+      "th": "จัดปาร์ตี้ในสวนตอนอากาศยังดีอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I do have plans.",
+      "th": "ที่จริงฉันมีแผนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it'll be fun.",
+      "th": "ผมว่าน่าจะสนุกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Dan, I really appreciate it, but I'm going to paint our bedr--",
+      "th": "ขอบคุณค่ะ แดน ขอบคุณจริงๆ แต่ฉันจะทาสีห้องนอนของ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "The bedroom.",
+      "th": "ห้องนอนน่ะค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been a year, Lena.",
+      "th": "หนึ่งปีแล้วนะ ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're allowed to come to a barbecue. It is not a betrayal",
+      "th": "คุณมางานบาร์บีคิวได้ มันไม่ใช่การทรยศ หรือเหยียบย่ำความทรงจำเขาหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "or an insult to his memory.",
+      "th": "มันไม่ใช่การทรยศ หรือเหยียบย่ำความทรงจำเขาหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna paint the bedroom.",
+      "th": "ฉันจะทาสีห้องนอนค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ You'll see something certain ♪ -Oh, God.",
+      "th": "โอ๊ยตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Who lingers ♪ -Oh, my God. I thought you were gone. ♪ Saying she is lost ♪",
+      "th": "ฉันนึกว่าคุณตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane?",
+      "th": "เคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one knew anything about your unit.",
+      "th": "ไม่มีใครรู้เรื่องหน่วยคุณเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I contacted everyone.",
+      "th": "ฉันติดต่อทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everyone I could.",
+      "th": "ทุกคนที่ติดต่อได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The other partners knew just as little as me.",
+      "th": "คู่ของคนอื่นๆ ก็รู้น้อยพอกับฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it covert?",
+      "th": "เป็นงานลับเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mm... Maybe.",
+      "th": "อาจใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that mean, \"maybe\"?",
+      "th": "หมายความว่าไงคะ \"อาจใช่\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, yeah, it was covert. Yeah, I think so.",
+      "th": "ก็ได้ ใช่ ปฏิบัติการลับ ใช่ ผมว่างั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pakistan again?",
+      "th": "ปากีสถานอีกเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I-- I don't know where it was, or...",
+      "th": "ผม... ผมไม่รู้ว่าที่ไหน หรือ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what it was.",
+      "th": "มันคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "How is that possible? [stammers] Was it warm?",
+      "th": "จะเป็นไปได้ยังไงคะ มัน... มันร้อนมั้ยคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was there snow?",
+      "th": "มีหิมะตกมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did the people there speak Portuguese, or Swahili, or Pashto?",
+      "th": "คนที่นั่นพูดภาษาโปรตุเกส หรือสวาฮิลี หรือพัชโต"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long have you been back?",
+      "th": "กลับมานานแค่ไหนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ผมไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "How'd you get back? What base did you fly into?",
+      "th": "คุณกลับมายังไงคะ บินเข้ามาที่ฐานไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know. -Your unit, did they come back with you?",
+      "th": "ผมไม่รู้ คนที่เหลือในหน่วยล่ะ กลับมาด้วยกันมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be able to tell me something.",
+      "th": "คุณต้องบอกอะไรฉันได้บ้างสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You vanished off the face of the earth for 12 months.",
+      "th": "คุณหายตกขอบโลกไปตั้ง 12 เดือน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I deserve a better explanation than no explanation.",
+      "th": "ฉันควรได้คำอธิบาย ไม่ใช่ไม่อธิบายเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does it matter?",
+      "th": "สำคัญด้วยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Kane...",
+      "th": "เคนคะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "how did you get home?",
+      "th": "คุณกลับบ้านมาได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was outside.",
+      "th": "ผมอยู่ข้างนอกนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Outside the house?",
+      "th": "นอกบ้านเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "เปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I was outside the room.",
+      "th": "เปล่า ผมอยู่นอกห้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The room with the bed.",
+      "th": "ห้องที่มีเตียง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The door was open, and...",
+      "th": "ประตูเปิดอยู่ แล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw you.",
+      "th": "ผมก็เห็นคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I recognized you.",
+      "th": "ผมจำคุณได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your face.",
+      "th": "หน้าคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't feel very well.",
+      "th": "ผมรู้สึกไม่ค่อยดีเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby. -[coughing] -I'm right here with you.",
+      "th": "อยู่กับฉันนะคะที่รัก ฉันอยู่ตรงนี้กับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Male, 31, hemorrhage, in seizure.",
+      "th": "ผู้ป่วยชาย อายุ 31 ตกเลือด มีอาการชัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby. I love you.",
+      "th": "อยู่กับฉันนะคะ ฉันรักคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baby, look at me. Can you do something?!",
+      "th": "ที่รัก มองฉันสิ คุณทำอะไรได้มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] You call for a police escort?",
+      "th": "คุณโทรขอตำรวจนำทางเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] Hey, easy, easy!",
+      "th": "เฮ้ย เย็นไว้!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Out of the truck, now!",
+      "th": "ลงจากรถเดี๋ยวนี้!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[men shouting] -[Lena] What are you doing?",
+      "th": "คุณทำอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Out! -[paramedic] Don't shoot!",
+      "th": "- ลงรถ! - อย่ายิงนะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Out! Move!",
+      "th": "ออกไป! ไป!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out, out, out!",
+      "th": "ไปๆๆ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "th": "เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] What are you doing? You can't move him!",
+      "th": "คุณทำอะไรน่ะ เคลื่อนย้ายเขาไม่ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go! Let him go!",
+      "th": "ปล่อยเขานะ! ปล่อยสิ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go!",
+      "th": "ปล่อยเขา!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be feeling dreadful.",
+      "th": "คุณคงรู้สึกแย่อยู่สินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a hangover from the sedative you were given.",
+      "th": "เป็นอาการตกค้าง จากยาระงับประสาทที่ได้รับน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, sit down.",
+      "th": "มานั่งสิคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "th": "คุณเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Dr. Ventress.",
+      "th": "ฉันชื่อ ดร. เวนเทรส"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a psychologist.",
+      "th": "เป็นนักจิตวิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why am I talking to a psychologist?",
+      "th": "ทำไมฉันต้องคุยกับนักจิตวิทยาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Am I in a psychiatric hospital?",
+      "th": "ฉันอยู่โรงพยาบาลจิตเวชเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -[Lena] Then what?",
+      "th": "- เปล่าค่ะ - งั้นอะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where am I?",
+      "th": "ฉันอยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's my husband?",
+      "th": "สามีฉันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You served in the military for seven years.",
+      "th": "คุณเคยทำงานในกองทัพมาเจ็ดปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a professor from Johns Hopkins.",
+      "th": "ฉันเป็นศาสตราจารย์ที่จอห์น ฮอปกินส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to know what the fuck I'm doing here.",
+      "th": "ฉันอยากรู้ว่าฉันมาทำบ้าอะไรที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your research area is the genetically programmed life cycle of a cell.",
+      "th": "สาขางานวิจัยคุณคือ การตัดแต่งวงจรชีวิตทางพันธุกรรมของเซลล์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is my husband?",
+      "th": "สามีฉันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'd like to talk about Sergeant Kane.",
+      "th": "ค่ะ ฉันก็อยากคุยเรื่องจ่าเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "When did he arrive back home?",
+      "th": "เขากลับบ้านมาตั้งแต่เมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I want to see a lawyer. -You're not gonna be able to.",
+      "th": "- ฉันอยากพบทนาย - คุณพบไม่ได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he explain how he got back?",
+      "th": "เขาอธิบายมั้ยว่ากลับมาได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -Did he contact you at any point",
+      "th": "- ไม่ - เขาติดต่อคุณตอนไหนบ้างมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "while he was away?",
+      "th": "ระหว่างเขาไม่อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] What did he tell you about his mission when he returned?",
+      "th": "เขาบอกคุณว่ายังไงเรื่องภารกิจ ตอนเขากลับมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nothing. -What about before he left?",
+      "th": "- ไม่บอกเลย - แล้วก่อนไปล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he ever mention where he was going, what he was doing?",
+      "th": "เขาเคยพูดมั้ยว่าจะไปที่ไหน ทำอะไรอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "He never said, I never asked.",
+      "th": "เขาไม่เคยพูด ฉันก็ไม่เคยถาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you made regular requests for information from his unit CO.",
+      "th": "แต่คุณร้องขอข้อมูล จากผู้บังคับการหน่วยเขาประจำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Until six months ago, and then you stopped.",
+      "th": "จนถึงหกเดือนก่อน แล้วคุณก็หยุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why was that? Thought he was dead?",
+      "th": "ทำไมล่ะคะ คิดว่าเขาตายแล้วงั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time to move on?",
+      "th": "ได้เวลาเดินหน้าต่อแล้วใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not easy to move on.",
+      "th": "การเดินหน้าต่อไม่ง่ายเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't.",
+      "th": "ฉันเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done answering questions. It's your turn.",
+      "th": "ฉันตอบคำถามมาพอแล้ว ตาคุณบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your husband's here.",
+      "th": "สามีคุณอยู่ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's extremely ill.",
+      "th": "เขาป่วยหนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-In what way? -[Ventress] Multiple organ failure.",
+      "th": "ยังไง อวัยวะล้มเหลวหลายระบบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Massive internal bleeding.",
+      "th": "เลือดตกในอย่างรุนแรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have been exposed to some sort of radiation,",
+      "th": "เขาต้องโดนรังสีอะไรสักอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "some kind of virus.",
+      "th": "ไวรัสอะไรสักชนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to tell me where he was, what he was doing.",
+      "th": "คุณต้องบอกฉันว่าเขาอยู่ที่ไหน เป็นยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could actually help him.",
+      "th": "ฉันอาจช่วยเขาได้จริงๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] A religious event.",
+      "th": "เหตุการณ์ทางศาสนา"
+    }
+  },
+  {
+    "translation": {
+      "en": "An extraterrestrial event.",
+      "th": "เหตุการณ์เกี่ยวกับต่างดาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "A higher dimension.",
+      "th": "มิติที่อยู่สูงขึ้นไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have many theories,",
+      "th": "เรามีทฤษฎีมากมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "few facts.",
+      "th": "แต่ข้อเท็จจริงน้อยนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "It started around three years ago.",
+      "th": "มันเริ่มขึ้นเมื่อราวๆ สามปีก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Blackwater National Park reported that a lighthouse was surrounded",
+      "th": "อุทยานแห่งชาติแบล็กวอเทอร์ รายงานว่าประภาคารแห่งหนึ่งถูกล้อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "by something they termed \"a shimmer.\"",
+      "th": "ด้วยสิ่งที่พวกเขาตั้งชื่อว่า \"ม่านรุ้ง\""
+    }
+  },
+  {
+    "translation": {
+      "en": "One of the wardens went in to investigate.",
+      "th": "เจ้าหน้าที่คนหนึ่งเข้าไปสำรวจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never returned.",
+      "th": "ไม่เคยกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "The event was classified.",
+      "th": "เหตุการณ์นี้ถูกปิดลับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Since then, we've approached by land, by sea,",
+      "th": "นับจากนั้นเราก็เข้าไปทางบก ทางทะเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "sent in drones, animals, and teams of people.",
+      "th": "ส่งทั้งโดรน สัตว์ ทีมบุคลากรเข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "But nothing comes back.",
+      "th": "แต่ไม่มีอะไรกลับออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the boundary's getting bigger. It's expanding.",
+      "th": "แล้วขอบเขตนั่นก็ใหญ่ขึ้น มันกำลังขยายตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "So far, it's eating into barely populated swampland,",
+      "th": "ที่ผ่านมามันกินพื้นที่ เข้าไปในที่ลุ่มน้ำร้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "which, you know, we evacuated under the pretext of a chemical spill,",
+      "th": "ซึ่งเราอพยพคนออก โดยอ้างเรื่องสารเคมีรั่วไหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "but... that won't last much longer.",
+      "th": "แต่... คงอยู่ได้อีกไม่นานนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "In a few months, the area will have grown to where we are right now.",
+      "th": "อีกไม่กี่เดือน พื้นที่จะขยายมาถึง จุดที่เราอยู่ตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we're talking cities...",
+      "th": "จากนั้นก็ว่ากันถึงเมือง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "states...",
+      "th": "รัฐ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and so on.",
+      "th": "ต่อไปเรื่อยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You said nothing comes back.",
+      "th": "คุณบอกว่าไม่มีอะไรกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "But something has.",
+      "th": "แต่บางอย่างกลับออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] He's dying.",
+      "th": "เขากำลังจะตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Yes.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to come to an agreement about what to do with you.",
+      "th": "เราต้องตกลงกันให้ได้ ว่าจะทำยังไงกับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not going to let me go home?",
+      "th": "คุณจะไม่ปล่อยฉันกลับบ้านสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you want? To go home?",
+      "th": "คุณต้องการแบบนั้นเหรอคะ กลับบ้าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "เปล่าค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be with him.",
+      "th": "ฉันอยากอยู่กับเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not talking to me.",
+      "th": "คุณไม่คุยกับฉันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry.",
+      "th": "โทษที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zoned out.",
+      "th": "ใจลอยไปหน่อยน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thinking about the next mission?",
+      "th": "คิดเรื่องภารกิจหน้าเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "เปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just looking at the moon.",
+      "th": "ผมแค่ดูพระจันทร์อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's always so weird seeing it like that in the daylight.",
+      "th": "รู้สึกแปลกตลอดเลย ที่เห็นมันแบบนั้นตอนกลางวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like God made a mistake.",
+      "th": "เหมือนพระเจ้าทรงพลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chuckles] -Left the hall lights on.",
+      "th": "เปิดไฟโถงทิ้งไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "God doesn't make mistakes. That's...",
+      "th": "พระเจ้าไม่ผิดพลาดหรอก เรื่องนั้น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "somewhat key to the whole \"being a god\" thing.",
+      "th": "ออกจะเป็นหัวใจ ของการเป็นพระเจ้าเลยละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pretty sure he does.",
+      "th": "ฉันแน่ใจว่ามีพลาดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know he's listening right now, don't you?",
+      "th": "คุณรู้ว่าท่านทรงฟังอยู่ ใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You take a cell,",
+      "th": "ถ้าเราเอาเซลล์มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "circumvent the Hayflick limit, you can prevent senescence.",
+      "th": "เลี่ยงขีดจำกัดเฮย์ฟลิก ก็จะป้องกันการเสื่อมตามอายุได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was about to make the exact same point.",
+      "th": "ผมกำลังจะพูดประเด็นเดียวกันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It means the cell doesn't grow old, it becomes immortal.",
+      "th": "มันแปลว่าเซลล์จะไม่แก่ขึ้น มันจะกลายเป็นอมตะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keeps dividing, doesn't die.",
+      "th": "แบ่งตัวไปเรื่อยๆ ไม่ตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "They say aging is a natural process, but it's actually a fault in our genes.",
+      "th": "เราเห็นการแก่เป็นเรื่องธรรมชาติ แต่ที่จริงแล้วเป็นข้อบกพร่องทางพันธุกรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I get really turned on when you patronize me. It's really hot.",
+      "th": "ผมมีอารมณ์นะ เวลาคุณทำตัวฉลาด เซ็กซี่ชะมัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Without it, I could keep looking like this forever.",
+      "th": "แต่ถึงไม่มี ฉันก็จะหน้าตาแบบนี้ตลอดไปนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, okay. -Well, that could constitute a mistake. -[laughs]",
+      "th": "เหรอ ก็ได้ คงเป็นเรื่องผิดพลาดจริงๆ ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You didn't tell me where you're heading this time.",
+      "th": "คุณไม่ได้บอกฉันว่าคราวนี้จะไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know there's something strange about this mission.",
+      "th": "ฉันรู้ว่ามีอะไรแปลกๆ เกี่ยวกับภารกิจนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "th": "ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silence around it is louder than usual.",
+      "th": "ความเงียบรอบนี้ มันมากกว่าปกติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kind of angling for a clue here.",
+      "th": "นี่แย็บๆ ขอคำใบ้อยู่นะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So...?",
+      "th": "ว่าไงคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll be under the same hemisphere.",
+      "th": "เราจะอยู่ซีกโลกเดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that tell me?",
+      "th": "แล้วยังไงต่อคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It tells you that if you step outside and you look up...",
+      "th": "แล้วก็ถ้าคุณออกไปข้างนอก แล้วมองขึ้นไป..."
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll be looking at the same stars.",
+      "th": "เราจะเห็นดาวกลุ่มเดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Holy fucking shit. -What?",
+      "th": "- โอ๊ย ให้ตายเหอะ - อะไรเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you kidding? -What?",
+      "th": "- ล้อเล่นหรือเปล่า - อะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that's what I do while you're away?",
+      "th": "คิดว่าฉันทำแบบนั้น ตอนคุณไม่อยู่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -You think I'm out in the garden,",
+      "th": "- อะไรนะ - คุณคิดว่าฉันออกไปในสวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "pining, looking up at the sky?",
+      "th": "โหยหาคุณ แล้วก็มองขึ้นฟ้าเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[scoffs] Shut up. All right. -Oh, to think my beloved Kane...",
+      "th": "- เงียบเถอะ พอแล้ว -โอ๊ย คิดสิ - ว่าเคนที่รักของฉัน... - พอที"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. Uh-huh. -...is looking at the selfsame moon.",
+      "th": "- ว่าเคนที่รักของฉัน... - พอที กำลังมองพระจันทร์ดวงเดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckling] Stop it.",
+      "th": "พอได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughing] Oh, my distant celestial friend...",
+      "th": "โอ เพื่อนบนฟ้าอันแสนไกลของฉัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No.",
+      "th": "อย่า อย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "...please care for my brave soldier.",
+      "th": "ช่วยดูแลทหารผู้กล้าหาญของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. You know what? You are disrespectful,",
+      "th": "ให้ตาย รู้อะไรมั้ย คุณน่ะขาดความเคารพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "seriously, not only to your former comrades in the armed forces,",
+      "th": "จริงๆ นะ ไม่ใช่แค่ต่อเพื่อนเก่าในกองทัพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-but also to the president. -You forgot the flag.",
+      "th": "- แต่ยังต่อประธานาธิบดีด้วย - คุณลืมธงชาติแน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I'm getting-- I'm getting to the motherfucking flag.",
+      "th": "อ๋อ ผมจะไปถึง... จะไปถึงเรื่องธงเวรนั่นแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my hero.",
+      "th": "แหม วีรบุรุษของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Screw you. -Okay.",
+      "th": "- จะเอาเหรอ - ได้เลยค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] She's all by herself. Don't you think we should make friends?",
+      "th": "เธออยู่คนเดียว ไม่คิดว่าเราควรผูกมิตรกันเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman 2] Well, obviously you should. -[woman] Yep, I'll do it.",
+      "th": "- อืม เห็นๆ ว่าควร - ได้ ฉันจัดการเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "th": "นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "th": "ว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Am I intruding? -No, not at all.",
+      "th": "- ฉันมากวนหรือเปล่า - เปล่า เปล่าเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cool. Phew. [chuckles]",
+      "th": "ดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I always see you here alone. It's...",
+      "th": "ดูเหมือนคุณจะอยู่คนเดียวตลอด ก็..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm guessing you probably feel weird or awkward.",
+      "th": "ฉันเดาว่าคุณคงรู้สึกแปลกหรือเก้อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhat, I guess.",
+      "th": "ก็มีบ้างมั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't. Seriously, don't.",
+      "th": "อย่าเลย พูดจริงนะ ไม่ต้องหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "The people here put themselves to sleep in the fetal position",
+      "th": "คนที่นี่น่ะขดตัวเป็นลูกบอลเวลานอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "making cooing noises.",
+      "th": "ทำเสียงกู่ในคอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's freaky, you know. [chuckles]",
+      "th": "มันน่าขนลุก รู้มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm Anya. -Lena.",
+      "th": "- ฉันอันย่า - ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nice to meet you. -You, too.",
+      "th": "- ดีใจที่ได้รู้จัก - ฉันด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, why don't you come and meet my crew?",
+      "th": "ทำไมคุณไม่มาเจอทีมฉันล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come make friends. Come on.",
+      "th": "มาผูกมิตรกัน มาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ladies, meet Lena.",
+      "th": "สาวๆ นี่ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena and woman] Hi nice to meet you.",
+      "th": "ไง ดีใจที่ได้รู้จักนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that's Cassie Sheppard, and Josie Radek.",
+      "th": "อืม นั่นแคสซี่ เชปเพิร์ด กับโจซี่ แรเดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Hi. Nice to meet you. -Hi.",
+      "th": "- ดีใจที่ได้รู้จักค่ะ - หวัดดีค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie] Do you want to have a seat? -Thank you.",
+      "th": "นั่งมั้ย ขอบคุณค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So, first day at the Southern Reach. -Yes.",
+      "th": "- งั้นนี่ก็เป็นวันแรกที่เซาเทิร์นรีช - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -You're welcome.",
+      "th": "- ขอบคุณ - ไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You all been here long?",
+      "th": "คุณอยู่นี่นานแล้วเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, yeah, right from the start.",
+      "th": "ใช่ ตั้งแต่ต้นเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a geomorphologist.",
+      "th": "ฉันเป็นนักธรณีสัณฐานวิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been testing the magnetic fields around the boundary,",
+      "th": "คอยทดสอบสนามแม่เหล็กรอบเขตนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "which is like using confetti to test a hurricane.",
+      "th": "ซึ่งก็เหมือนใช้กระดาษฝอย โปรยทดสอบเฮอริเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, and I've been here... ten months.",
+      "th": "ส่วนฉันอยู่นี่มาสิบเดือนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, ten months.",
+      "th": "โห สิบเดือนแล้วแฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Paramedic from Chicago.",
+      "th": "นักเวชกิจฉุกเฉินจากชิคาโก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tried to join an NGO, but my application got flagged,",
+      "th": "ฉันสมัครเข้าเอ็นจีโอ แต่ใบสมัครถูกหมายตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "so Southern Reach got me.",
+      "th": "เซาเทิร์นรีชเลยดึงฉันมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only two months. I'm a physicist.",
+      "th": "แค่สองเดือนเอง ฉันเป็นนักฟิสิกส์ เพิ่งเสร็จวิจัยหลังปริญญาเอกที่เคมบริดจ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I came straight from my Cambridge postdoc.",
+      "th": "ฉันเป็นนักฟิสิกส์ เพิ่งเสร็จวิจัยหลังปริญญาเอกที่เคมบริดจ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] She's very smart.",
+      "th": "เธอฉลาดมากๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your story, Lena?",
+      "th": "เรื่องคุณล่ะ ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, I'm from Johns Hopkins, biologist.",
+      "th": "ฉันมาจากจอห์น ฮอปกินส์ นักชีววิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, there you go. -Ha, biologist?",
+      "th": "- นั่นไง - นักชีววิทยาเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Told you she was smart. -[Anya] What?",
+      "th": "- บอกแล้วว่าเธอฉลาด - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had a bet on your profession, and Josie had biologist, of course.",
+      "th": "เราพนันว่าคุณอาชีพอะไร แล้วโจซี่เลือกนักชีววิทยา ใช่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I had law enforcement. -I had you as single.",
+      "th": "- ฉันเดาว่าผู้รักษากฎหมาย - ฉันว่าคุณโสด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. Do you have to hit on everyone, like all the time?",
+      "th": "ให้ตาย เธอต้องจีบทุกคน ตลอดเวลาเลยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck that. Under the circumstances,",
+      "th": "ช่างแม่งสิ สถานการณ์แบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I'm allowed to roll the dice a few more times. [chuckles]",
+      "th": "ฉันมีสิทธิ์ทอยเต๋าเสี่ยงรัก อีกสองสามตานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Under what circumstances?",
+      "th": "ในสถานการณ์แบบไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, yeah, um, crazy as it seems...",
+      "th": "คือว่า ถึงจะดูบ้าแค่ไหนนะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Crazy as it is.",
+      "th": "บ้าจริงต่างหากล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "...we are headed that way.",
+      "th": "เราก็กำลังจะไปทางนั้นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're going into the Shimmer? -Six days and counting.",
+      "th": "- พวกคุณจะเข้าไปในม่านรุ้งเหรอ - หกวัน นับถอยหลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You three? -Four.",
+      "th": "- คุณสามคนเหรอ - สี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress.",
+      "th": "เวนเทรสด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Dr. Ventress? -[Cassie] Mmm. Team leader.",
+      "th": "ดร. เวนเทรสเหรอ หัวหน้าทีม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All women. -Scientists.",
+      "th": "- หญิงล้วน - นักวิทยาศาสตร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "The previous teams have been largely military, so, yeah.",
+      "th": "ทีมก่อนๆ นี้ส่วนใหญ่เป็นทหาร เพราะงั้น... ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you think happened to them?",
+      "th": "คุณว่าเกิดอะไรกับพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, there are two theories of what went wrong in the Shimmer.",
+      "th": "อืม มีอยู่สองทฤษฎีนะ ว่าเกิดเหตุร้ายอะไรในม่านรุ้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, something kills them.",
+      "th": "หนึ่ง มีอะไรบางอย่างฆ่าพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two, they go crazy and kill each other.",
+      "th": "สอง พวกเขาเสียสติแล้วก็ฆ่ากันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] There was one military guy who made it out.",
+      "th": "มีทหารคนหนึ่งที่ออกมาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "A sergeant.",
+      "th": "เป็นจ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, but you heard about the state that he was in.",
+      "th": "แต่เธอก็ได้ยินว่าเขาอยู่ในสภาพไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispering] Kane...",
+      "th": "เคน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know why you went in.",
+      "th": "ฉันรู้ว่าคุณเข้าไปทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am so sorry.",
+      "th": "ฉันเสียใจจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I know what I have to do.",
+      "th": "แล้วฉันก็รู้ว่าต้องทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] So you didn't tell them about your connection to Sergeant Kane?",
+      "th": "งั้นคุณก็ไม่ได้บอกพวกเธอ เรื่องความสัมพันธ์ของคุณกับจ่าเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] I thought it would complicate things.",
+      "th": "ฉันว่ามันจะทำให้เรื่องยุ่งยาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "อะไรเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would it complicate?",
+      "th": "อะไรที่ทำให้ยุ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you going into the Shimmer?",
+      "th": "คุณจะเข้าไปในม่านรุ้งทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mission statement is to reach the supposed source of the Shimmer,",
+      "th": "ภารกิจนี้คือการไปให้ถึง สิ่งที่คาดว่าเป็นแหล่งกำเนิดของม่านรุ้ง คือประภาคารนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "the lighthouse, enter and acquire data, and return.",
+      "th": "สิ่งที่คาดว่าเป็นแหล่งกำเนิดของม่านรุ้ง คือประภาคารนั่น เข้าไป เก็บข้อมูล แล้วก็กลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think that that's your mission statement.",
+      "th": "แต่ฉันไม่คิดว่านั่นจะใช่ภารกิจของคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่ใช่หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been watching the phenomenon for a while now.",
+      "th": "ฉันดูปรากฏการณ์นี้มาสักพักแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I profile the volunteers.",
+      "th": "ฉันทำโปรไฟล์อาสาสมัคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I pick the teams.",
+      "th": "ฉันเลือกทีม"
+    }
+  },
+  {
+    "translation": {
+      "en": "They enter, I watch.",
+      "th": "พวกเขาเข้าไป ฉันก็คอยดู"
+    }
+  },
+  {
+    "translation": {
+      "en": "I watch it grow closer.",
+      "th": "ฉันดูมันใกล้เข้ามาเรื่อยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's only so long one can do that.",
+      "th": "เราทำแบบนั้นได้ไม่นานหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you need to know what's inside?",
+      "th": "แต่คุณต้องรู้ให้ได้ว่าอะไรอยู่ข้างใน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, I do.",
+      "th": "ใช่ ฉันต้องรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "So do I.",
+      "th": "ฉันก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "So that's the complication.",
+      "th": "งั้นนั่นก็คือเรื่องยุ่งที่ว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to come with us.",
+      "th": "คุณอยากมากับเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't do anything for him here.",
+      "th": "ฉันทำอะไรให้เขาไม่ได้ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Soldier-scientist.",
+      "th": "ทหารบวกนักวิทยาศาสตร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can fight.",
+      "th": "คุณต่อสู้เป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can learn.",
+      "th": "คุณเรียนรู้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can save him.",
+      "th": "คุณช่วยเขาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You requested to join the mission.",
+      "th": "คุณขอเข้าร่วมภารกิจนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew all other missions had failed",
+      "th": "คุณรู้ว่าภารกิจอื่นๆ ล้มเหลวหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the only survivor was barely surviving.",
+      "th": "แล้วผู้รอดชีวิตรายเดียว ก็เกือบไม่รอดอยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was a brave choice.",
+      "th": "ทางเลือกนั่นกล้าหาญนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him.",
+      "th": "ฉันติดค้างเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm only trying to understand what drove you.",
+      "th": "ผมแค่พยายามเข้าใจอยู่ว่า อะไรผลักดันคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him...",
+      "th": "ฉันติดค้างเขา..."
+    }
+  },
+  {
+    "translation": {
+      "en": "so I went in.",
+      "th": "ฉันก็เลยเข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] And then we get some real meals.",
+      "th": "แล้วเราจะหาอาหารจริงๆ กินกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Spaghetti. Here's Radek's vegetable crackers.",
+      "th": "สปาเก็ตตี นี่แครกเกอร์ผักของแรเดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, cornbread. That's not so bad.",
+      "th": "โห ขนมปังข้าวโพด ไม่เลวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you're finally awake.",
+      "th": "โอ๊ะ คุณตื่นสักที"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta give me a second. I'm a little disoriented.",
+      "th": "ต้องให้เวลาฉันแป๊บนะ ฉันงงๆ นิดหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Join the club.",
+      "th": "เป็นกันหมดแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't remember setting up camp, do you?",
+      "th": "คุณจำไม่ได้ใช่มั้ยว่าตั้งแคมป์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember anything... after we reached the tree line.",
+      "th": "ฉันจำอะไรไม่ได้เลย... หลังจากเรามาถึงแนวไม้"
+    }
+  },
+  {
+    "translation": {
+      "en": "None of us do.",
+      "th": "ไม่มีใครจำได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we did a food inventory.",
+      "th": "แล้วเราก็ทำบัญชีอาหารคงเหลือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "From the depletion, we've been out here for at least three or four days.",
+      "th": "ดูจากส่วนที่พร่องไป เหมือนว่าเราอยู่นี่ อย่างน้อยสามหรือสี่วันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's not possible.",
+      "th": "เป็นไปไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] That's what I said.",
+      "th": "ฉันก็พูดแบบนั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, I've been checking my comms and nav equipment.",
+      "th": "ทุกคน ฉันตรวจดูอุปกรณ์สื่อสาร กับนำทางแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "They boot up fine, no problem with the electronics,",
+      "th": "มันเปิดได้ปกติ ไม่มีปัญหาอิเล็กทรอนิกส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the camera is working,",
+      "th": "แล้วกล้องก็ทำงานได้อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "but anything that sends a signal out of the Shimmer... is down.",
+      "th": "แต่อะไรก็ตามที่จะส่งสัญญาณ ออกไปนอกม่านรุ้ง... ใช้ไม่ได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even though we've probably got about 20 satellites above us right now,",
+      "th": "ถึงเราอาจมีดาวเทียม 20 ตัว เหนือหัวเราตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and... check this out.",
+      "th": "แล้ว... ดูนี่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we've got no compass, no comms, no coordinates...",
+      "th": "งั้นเราก็ไม่มีเข็มทิศ ไม่มีอุปกรณ์สื่อสาร ไม่มีพิกัด..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and no landmarks.",
+      "th": "แล้วก็ไม่มีจุดหมายตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, we know we're in the state park.",
+      "th": "เอาละ เรารู้ว่าเราอยู่ในอุทยาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We head south, we hit the ocean,",
+      "th": "เราลงใต้ก็จะเจอทะเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "then we can just follow the shoreline until we hit the perimeter wall. Right?",
+      "th": "จากนั้นก็ตามชายฝั่งไปได้ จนเจอแนวกั้นเขต ถูกมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How do we know what's south? -Come on, Josie, you know this.",
+      "th": "- จะรู้ได้ไงว่าทางไหนทิศใต้ - ไม่เอาน่า เธอก็รู้วิธี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hour hand at the sun.",
+      "th": "หันเข็มชั่วโมงหาดวงอาทิตย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Split the difference between the hour hand and 12, south.",
+      "th": "กึ่งกลางระหว่างเข็มชั่วโมงกับเลข 12 คือทิศใต้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "th": "ดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're oriented.",
+      "th": "เรารู้ทิศละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We weren't really expecting the comms equipment to work, were we?",
+      "th": "เราไม่ได้หวังให้อุปกรณ์สื่อสาร ทำงานได้จริงหรอก ใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's been three years of expeditions and three years of radio silence.",
+      "th": "คือก็มีการสำรวจมาสามปีแล้วนะ แล้ววิทยุก็เงียบมาสามปีเต็ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pack up and get moving.",
+      "th": "เก็บของแล้วก็ไปกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've already lost a lot of the day.",
+      "th": "เราเสียเวลาเยอะแล้ววันนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Oh, I'm gonna check this out. Get us out of this damn swamp.",
+      "th": "ฉันจะตรวจดูเจ้านี่ เอาเราออกไปจากไอ้บึงเวรนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] All right. Let's check out the hut.",
+      "th": "ได้ ไปดูกระท่อมกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like someone's about to have a wedding.",
+      "th": "ดูเหมือนใครกำลังจะจัดงานแต่งเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "These are very strange.",
+      "th": "นี่มันแปลกชะมัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "th": "ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, they're all so different.",
+      "th": "อ๋อ ทุกดอกมันต่างกันมากเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "To look at them, you wouldn't say that they're the same species.",
+      "th": "ถ้าดูแล้วเราคงไม่บอกหรอก ว่ามันเป็นสปีชีส์เดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they're growing from the same branch structure...",
+      "th": "แต่มันงอกจากโครงสร้างกิ่งเดียวกัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "so it has to be the same species.",
+      "th": "เพราะงั้นก็ต้องเป็นสปีชีส์เดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the same plant.",
+      "th": "มันเป็นพืชต้นเดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like they're stuck in a continuous mutation.",
+      "th": "เหมือนมันค้างอยู่ใน การกลายพันธุ์อย่างต่อเนื่อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "A pathology?",
+      "th": "เป็นพยาธิสภาพเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Yeah, well...",
+      "th": "อืม ใช่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "you'd sure as hell call it a pathology if you saw this in a human.",
+      "th": "เราคงเรียกมันว่าพยาธิสภาพแน่ ถ้าเจอแบบนี้ในมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard! Mode of transportation.",
+      "th": "เชปเพิร์ด ได้วิธีเดินทางละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything interesting in there?",
+      "th": "มีอะไรน่าสนใจในนั้นมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. It's been long abandoned, maybe even before--",
+      "th": "ไม่ มันถูกทิ้งร้างมานาน อาจก่อนจะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek?",
+      "th": "แรเดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek!",
+      "th": "แรเดก!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[splashing] -Radek!",
+      "th": "แรเดก!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] It's got my bag!",
+      "th": "มันงับเป้ฉัน!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Radek!",
+      "th": "แรเดก!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Something's got my bag!",
+      "th": "มีอะไรงับเป้ฉันอยู่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[shrieks] Oh, no!",
+      "th": "ไม่นะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's got my bag!",
+      "th": "มันงับเป้ฉัน!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Help me with her! -[Anya] What's going on?",
+      "th": "- ช่วยฉันดึงเธอที! - เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Hey, grab my shoulder!",
+      "th": "นี่ เกาะไหล่ฉันไว้!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Get her. Come on.",
+      "th": "รับเธอไปที มาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] I got her.",
+      "th": "ได้ตัวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Okay? You got her?",
+      "th": "โอเคนะ รับเธอไว้แล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're good, you're good.",
+      "th": "ไม่เป็นไร ปลอดภัยแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Let's sit you down. Help me with her bag.",
+      "th": "นั่งก่อน ช่วยเอาเป้เธอออกที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, just breathe. It's okay. You're just fine.",
+      "th": "โอเค ค่อยๆ หายใจ โอเคแล้ว ไม่เป็นไรหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the hell happened? -Something in the water.",
+      "th": "- เกิดเรื่องบ้าอะไรขึ้น - มีบางอย่างอยู่ในน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get up, get up. Go. -[gasping]",
+      "th": "ลุกขึ้น ลุก ไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit! Get back.",
+      "th": "- ฉิบหายล่ะ! - ถอยไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Sheppard! Sheppard, watch out!",
+      "th": "เชปเพิร์ด! เชปเพิร์ด ระวัง!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gun clicks] -Holy fuck!",
+      "th": "ตายห่า!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's exactly the same as the flowers.",
+      "th": "เหมือนดอกไม้พวกนั้นเป๊ะเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at the teeth.",
+      "th": "ดูฟันนี่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Concentric rows.",
+      "th": "เรียงเป็นวงซ้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something here is making giant waves in the gene pool.",
+      "th": "บางอย่างเปลี่ยนแปลง พันธุกรรมของสิ่งมีชีวิตในนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sharks have teeth like that, don't they?",
+      "th": "ฉลามมีฟันแบบนั้นไม่ใช่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think it's a crossbreed?",
+      "th": "คุณว่ามันเป็นพันธุ์ผสมหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't crossbreed between different species.",
+      "th": "เราผสมพันธุ์ข้ามสปีชีส์ไม่ได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, this is getting heavy.",
+      "th": "ลีน่า มันชักหนักละนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mutations were subtle at first.",
+      "th": "ตอนแรกการกลายพันธุ์ก็แค่นิดหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "More extreme as we grew closer to the lighthouse.",
+      "th": "แต่ยิ่งเราเข้าใกล้ประภาคาร ก็ยิ่งรุนแรงขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corruptions of form.",
+      "th": "การบิดเบือนของรูปร่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Duplicates of form.",
+      "th": "การจำลองซ้ำของรูปร่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Duplicates?",
+      "th": "จำลองซ้ำงั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Echoes.",
+      "th": "เงาสะท้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it possible these were hallucinations?",
+      "th": "เป็นได้มั้ยว่าเรื่องพวกนี้เป็นภาพหลอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wondered that myself.",
+      "th": "ฉันก็เคยสงสัยแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they were shared among all of us.",
+      "th": "แต่พวกเราเห็นกันทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was dreamlike.",
+      "th": "มันเหมือนฝัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Nightmarish.",
+      "th": "เหมือนฝันร้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not always.",
+      "th": "ไม่เสมอไปหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sometimes it was beautiful.",
+      "th": "บางทีมันก็งดงาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] You hurt?",
+      "th": "คุณเจ็บเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just a bruise.",
+      "th": "แค่รอยช้ำน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[clicks tongue] Must have gotten that from the gator.",
+      "th": "คงได้จากจระเข้แน่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "จริงสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, where'd you learn to shoot?",
+      "th": "ตกลงคุณฝึกยิงปืนมาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was in the military before I was an academic.",
+      "th": "ฉันเคยเข้ากองทัพ ก่อนจะมาเป็นนักวิชาการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Marines?",
+      "th": "นาวิกโยธินเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Army. Seven years.",
+      "th": "กองทัพบก เจ็ดปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Feels like a lifetime ago now.",
+      "th": "รู้สึกเหมือนผ่านมาเป็นชาติแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "All other lives feel like a lifetime ago.",
+      "th": "ชีวิตแบบอื่นๆ ก็เหมือนผ่านมาเป็นชาติทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "We were kids, I was married.",
+      "th": "เราเคยเป็นเด็ก ฉันเคยแต่งงานมาก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which do you carry around your neck? A husband or a child?",
+      "th": "รูปใครที่คุณคล้องคอไว้ล่ะ สามีหรือลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "th": "สามี"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was in the army, too. That's...",
+      "th": "เขาก็เคยอยู่กองทัพเหมือนกัน เรา..."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how we met.",
+      "th": "เราเลยได้เจอกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Was\" in the army? He quit?",
+      "th": "\"เคย\" อยู่เหรอ ลาออกหรือไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "KIA.",
+      "th": "ตายในหน้าที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry to hear that.",
+      "th": "ฉันเสียใจด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guess there had to be something.",
+      "th": "ว่าแล้วคงต้องมีอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean?",
+      "th": "หมายความว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Volunteering for... this.",
+      "th": "การอาสามา... งานนี้น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not exactly something you do if your life is in... perfect harmony.",
+      "th": "มันไม่เชิงจะเป็นเรื่องที่เราทำ ถ้าชีวิตเรา... ราบรื่นดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all damaged goods here.",
+      "th": "เราทุกคนที่นี่มีตำหนิทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anya is sober...",
+      "th": "อันย่าเลิกยาแล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "therefore an addict.",
+      "th": "ก็คือเคยติดยาน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie wears long sleeves",
+      "th": "โจซี่ใส่เสื้อแขนยาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause she doesn't want you to see the scars on her forearms.",
+      "th": "เพราะไม่อยากให้เห็นแผลเป็นบนท้องแขน"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's tried to kill herself?",
+      "th": "เธอพยายามฆ่าตัวตายเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I think the opposite, trying to feel alive.",
+      "th": "เปล่า ฉันว่าตรงข้าม พยายามจะรู้สึกว่ามีชีวิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress?",
+      "th": "เวนเทรสล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. As far as anyone knows...",
+      "th": "อ๋อ เท่าที่ใครๆ รู้นะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "no friends, no family, no partner, no children.",
+      "th": "ไม่มีเพื่อน ไม่มีครอบครัว ไม่มีคู่รัก ไม่มีลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No concession in her at all.",
+      "th": "ไม่อ่อนให้อะไรสักนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You? -I also lost someone.",
+      "th": "คุณล่ะ ฉันเสียใครบางคนไปเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a husband, though, um...",
+      "th": "แต่ไม่ใช่สามีหรอก..."
+    }
+  },
+  {
+    "translation": {
+      "en": "A daughter. Leukemia.",
+      "th": "ลูกสาว เป็นลูคีเมีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "God, I'm sorry.",
+      "th": "ตายจริง เสียใจด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "In a way, it's two bereavements.",
+      "th": "ในแง่หนึ่งมันเป็นการสูญเสียสองคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "My... beautiful girl...",
+      "th": "ลูกสาวแสนสวยของฉัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the person I once was.",
+      "th": "กับคนที่ฉันเคยเป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Hey, hey!",
+      "th": "นี่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We got something here.",
+      "th": "เราเจออะไรนี่แน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This used to be the headquarters of the Southern Reach.",
+      "th": "ที่นี่เคยเป็นศูนย์บัญชาการ ของเซาเทิร์นรีช"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before the Shimmer swallowed it.",
+      "th": "ก่อนม่านรุ้งจะกลืนกินมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "More mutations.",
+      "th": "การกลายพันธุ์อีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're everywhere.",
+      "th": "มันอยู่ทุกที่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Malignant.",
+      "th": "เป็นภัยลุกลาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like tumors.",
+      "th": "เหมือนเนื้องอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that the old mess hall?",
+      "th": "นั่นใช่โรงอาหารเก่ามั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's billet there. Come on.",
+      "th": "ไปพักแรมที่นั่นกัน มาเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's beds and bags. You think people are here?",
+      "th": "มีเตียงกับเป้ คุณว่ามีคนอยู่นี่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were here.",
+      "th": "เคยอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'm gonna go with the past tense.",
+      "th": "ใช่ ฉันว่าใช้รูปอดีตถูกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "th": "แม่เจ้าโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit is heavy. Can't carry this.",
+      "th": "ไอ้เวรนี่หนักชะมัด แบกไปไม่ไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, what you got going on?",
+      "th": "ลีน่า เจออะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, check this out.",
+      "th": "ทุกคน มาดูนี่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Peyton, Mayer...",
+      "th": "\"เพย์ตัน เมเยอร์..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane, Shelley.\"",
+      "th": "เคน เชลลี\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Those were the soldiers on the last expedition.",
+      "th": "นั่นชื่อทหารที่มาสำรวจรอบสุดท้ายนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like they were using this room as their base of operations.",
+      "th": "ดูเหมือนพวกเขาใช้ห้องนี้ เป็นฐานปฏิบัติการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are some of the names crossed out?",
+      "th": "ทำไมบางชื่อโดนขีดฆ่าไปล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's not jump to conclusions.",
+      "th": "อย่าเพิ่งด่วนสรุปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know, maybe we should. -Yeah.",
+      "th": "- ไม่รู้สิ เราอาจควรสรุปก็ได้ - จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is a plan view of the base, right? -[Cassie] Yep. This is the mess hall.",
+      "th": "- นี่แผนผังฐานนี้ ใช่มั้ย - ใช่ นี่คือโรงอาหาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Building we're in? -[Cassie] Yep.",
+      "th": "- นั่นตึกที่เราอยู่เหรอ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think that the times by the names are a guard rota, so...",
+      "th": "ฉันว่าเวลาข้างชื่อนั่น คือการผลัดยาม เพราะงั้น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "if they were guarding the perimeter, we should.",
+      "th": "ถ้าพวกเขาวางยามรอบๆ เราก็ควรทำด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Copy that. -[Cassie] Yep.",
+      "th": "- รับทราบ - ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "This might be able to tell us something.",
+      "th": "นี่อาจบอกอะไรเราได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"For those that follow.\"",
+      "th": "\"สำหรับคนที่ตามมา\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that means us.",
+      "th": "ฉันว่านั่นหมายถึงเรานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Memory card.",
+      "th": "เมโมรีการ์ด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should be able to play this.",
+      "th": "ฉันควรเล่นมันได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] It's working.",
+      "th": "มันใช้การได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] All right?",
+      "th": "เอานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay? -Okay.",
+      "th": "- โอเคมั้ย - โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] Okay. Okay. Okay. Okay.",
+      "th": "โอเคๆๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Okay. Okay. -[Kane] Yeah?",
+      "th": "- โอเค - ได้ โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man's voice quavers] Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "th": "บ้าฉิบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is he doing?",
+      "th": "เขาทำอะไรอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Stop. Stop. Stop, stop, stop.",
+      "th": "หยุดๆๆๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] Hold him. Hold him down.",
+      "th": "จับเขา กดเขาไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "There. There.",
+      "th": "นั่นไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so we know what happened to the last group. They went insane.",
+      "th": "เอาละ เรารู้แล้วว่าเกิดอะไรขึ้น กับกลุ่มสุดท้าย เขาเสียสติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Was something alive inside that man. -No.",
+      "th": "มีสิ่งมีชีวิตบางอย่างในตัวชายคนนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That was a trick of the light. -[Cassie] What?",
+      "th": "- ไม่ นั่นมันแสงหลอกตา - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] I've been a paramedic for 10 years. I've scraped people off the road.",
+      "th": "ฉันอยู่หน่วยฉุกเฉินมาสิบปี ฉันแซะคนมาจากข้างถนน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You see some weird shit. That was a trick of the light.",
+      "th": "เราเห็นอะไรพิสดารมาเยอะ นั่นมันแสงหลอกตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie] His insides were moving. -[Anya] No, it was shock.",
+      "th": "- ข้างในตัวเขามันเคลื่อนไหว - ไม่ นั่นเพราะช็อก แรเดก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That was a shock response. -[Cassie] Watch it again.",
+      "th": "- นั่นมันการตอบสนองภาวะช็อก - ดูอีกทีสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] No, I'm not gonna watch it again!",
+      "th": "ไม่ ฉันไม่ดูซ้ำแม่งแล้ว!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] That was not intestines. It was a worm--",
+      "th": "นั่นไม่ใช่ไส้ - มันเหมือนหนอน ไม่ก็... - งั้นก็ดูเองสิ เชปเพิร์ด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Okay, then you watch it, Sheppard!",
+      "th": "- มันเหมือนหนอน ไม่ก็... - งั้นก็ดูเองสิ เชปเพิร์ด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Where are you going?",
+      "th": "คุณจะไปไหนน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where'd she go? -Just ahead.",
+      "th": "- เธอไปไหน - ข้างหน้านี่เอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "th": "อะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ไม่รู้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't want to stay here tonight. -We don't have a choice.",
+      "th": "- ฉันไม่อยากอยู่นี่คืนนี้ - เราไม่มีทางเลือก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie] Please. -Come on.",
+      "th": "- ขอเถอะ - มาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's too late in the day for us to move on.",
+      "th": "มันเย็นเกินกว่าเราจะย้ายไปไหนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Come on, let's go outside.",
+      "th": "มาเถอะ ไปข้างนอกกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, that's nice of you.",
+      "th": "คุณน่ารักจัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why aren't you here?",
+      "th": "ทำไมคุณไม่อยู่ตรงนี้ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta leave a day early.",
+      "th": "ผมต้องไปเร็วขึ้นวันหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "ว่าไงนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, today?",
+      "th": "เดี๋ยวนะ วันนี้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Right now. -Oh, shit.",
+      "th": "- ตอนนี้เลย - บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "But we had a whole day planned.",
+      "th": "แต่เราวางแผนกันไว้ทั้งวันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We were gonna drive to the country-- -No, we can't.",
+      "th": "- เราจะขับรถออกชนบท... - ผมไปไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We can't. -Can you at least...?",
+      "th": "- เราไปไม่ได้ - อย่างน้อยคุณจะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now means right now.",
+      "th": "ตอนนี้แปลว่าเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "th": "มีอะไรคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do...",
+      "th": "ผมน่ะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "love you...",
+      "th": "รักคุณจริงๆ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena.",
+      "th": "ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, too.",
+      "th": "ฉันก็รักคุณค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie, whispering] Hey.",
+      "th": "นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mystery unraveling?",
+      "th": "ขบปริศนาแตกหรือยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispering] Something's unraveling.",
+      "th": "อย่างอื่นแตกสิไม่ว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think you're doing okay.",
+      "th": "ฉันว่าคุณไม่เป็นไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's good Josie's getting some rest.",
+      "th": "โจซี่พักอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of a little sedative.",
+      "th": "ใช้ยาระงับประสาทช่วยนิดหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about you? Get some sleep?",
+      "th": "แล้วคุณล่ะ นอนหลับบ้างมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some.",
+      "th": "ก็หลับบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm at least as freaked as Josie.",
+      "th": "ฉันสติแตกไม่น้อยกว่าโจซี่หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just hiding it better.",
+      "th": "ฉันแค่ซ่อนเก่งกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should check on Ventress.",
+      "th": "ฉันควรไปดูเวนเทรส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yep.",
+      "th": "อืม"
+    }
+  },
+  {
+    "translation": {
+      "en": "What're you doing up? Not supposed to relieve me until 3:00.",
+      "th": "คุณตื่นมาทำไม รอบผลัดเวรคุณตีสามนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done sleeping for the night.",
+      "th": "ฉันนอนพอแล้วคืนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come look at this.",
+      "th": "มาดูนี่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, this is where we are...",
+      "th": "นี่จุดที่เราอยู่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's the lighthouse.",
+      "th": "แล้วนั่นก็ประภาคาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Southwest is Ville Perdu.",
+      "th": "ทางตะวันตกเฉียงใต้คือวิลล์เพอร์ดู"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a small community we evacuated two years ago.",
+      "th": "เป็นชุมชนเล็กๆ ที่เราอพยพออกไปเมื่อสองปีก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think we should head there tomorrow,",
+      "th": "ฉันว่าเราควรไปที่นั่นพรุ่งนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then head out for the coast the following morning.",
+      "th": "แล้วมุ่งออกชายฝั่งเช้าวันถัดไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "th": "ดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "th": "คุณไม่เป็นไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was gonna say, when...",
+      "th": "ฉันว่าจะพูดอยู่ ตอนที่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "you didn't tell the team about your connection to Kane,",
+      "th": "คุณไม่ได้บอกทีมเรื่อง ความสัมพันธ์ของคุณกับเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wasn't sure if that was a good idea.",
+      "th": "ฉันไม่แน่ใจว่านั่นเป็นความคิดที่ดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "But after seeing that footage...",
+      "th": "แต่หลังเห็นคลิปนั่นแล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure how they would have reacted to you.",
+      "th": "ฉันไม่แน่ใจว่า พวกเธอจะมีปฏิกิริยายังไงกับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why did my husband volunteer for a suicide mission?",
+      "th": "ทำไมสามีฉันอาสาทำภารกิจฆ่าตัวตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you think we're doing?",
+      "th": "คุณว่าเราทำแบบนั้นอยู่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Committing suicide? -You must have profiled him,",
+      "th": "- ฆ่าตัวตายน่ะ - คุณต้องทำโปรไฟล์เขาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must have assessed him.",
+      "th": "คุณต้องวิเคราะห์เขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have said something.",
+      "th": "เขาต้องพูดอะไรบางอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you're asking me as a psychologist.",
+      "th": "งั้นคุณก็ถามฉันในฐานะนักจิตวิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, as a psychologist...",
+      "th": "งั้นในฐานะนักจิตวิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd say you're confusing suicide with self-destruction.",
+      "th": "ฉันจะบอกว่าคุณสับสน ระหว่างการฆ่าตัวตายกับทำลายตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Almost none of us commit suicide...",
+      "th": "พวกเราแทบไม่มีใครฆ่าตัวตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "and almost all of us self-destruct.",
+      "th": "แต่เราเกือบทุกคนทำลายตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "In some way, in some part of our lives.",
+      "th": "ในทางใดสักทาง ในบางมุมของชีวิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "We drink, or we smoke.",
+      "th": "เราดื่มเหล้า ไม่ก็สูบบุหรี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "We destabilize the good job.",
+      "th": "เราทำลายความมั่นคงของงานดีๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or the happy marriage.",
+      "th": "หรือชีวิตสมรสที่เป็นสุข"
+    }
+  },
+  {
+    "translation": {
+      "en": "These aren't decisions, they're...",
+      "th": "นี่ไม่ใช่การตัดสินใจ มัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're impulses.",
+      "th": "มันเป็นแรงขับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "In fact, you're probably better equipped to explain this than I am.",
+      "th": "อันที่จริง... คุณอาจอธิบายเรื่องนี้ - ได้ดีกว่าฉัน - หมายความว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What does that mean? -[scoffs]",
+      "th": "- ได้ดีกว่าฉัน - หมายความว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a biologist.",
+      "th": "คุณเป็นนักชีววิทยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't self-destruction coded into us?",
+      "th": "การทำลายตัวเองถูกเข้ารหัสมา ในตัวเราไม่ใช่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programmed into each cell?",
+      "th": "ถูกโปรแกรมใส่เซลล์ทุกเซลล์"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was that?",
+      "th": "เสียงอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chambers round] -Don't know.",
+      "th": "ไม่รู้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie, wake up.",
+      "th": "โจซี่ ตื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wake up, Josie, come on. Wake up. Something's happening.",
+      "th": "ตื่นสิ โจซี่ ไม่เอาน่า เกิดเรื่องแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you see anything? -No.",
+      "th": "- เห็นอะไรมั้ย - ไม่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] What happened? I heard a noise.",
+      "th": "- เกิดอะไรขึ้น - ฉันได้ยินเสียง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Oh. -[Cassie] What?",
+      "th": "อะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's come through the fence.",
+      "th": "มีบางอย่างฝ่ารั้วมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Through the fence? -It's ripped open like a fucking zipper.",
+      "th": "- ฝ่ารั้วเหรอ - มันฉีกเหมือนซิปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Can't see. -Yeah, neither can I. -[rustling]",
+      "th": "- ฉันมองอะไรไม่เห็นเลย - ฉันก็ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "th": "- เชปเพิร์ด! - โอ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie screaming] -[Lena] Sheppard!",
+      "th": "เชปเพิร์ด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fuck! -What's going on?",
+      "th": "ระยำ! - เกิดอะไรขึ้น - เกิดอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard was next to me. Something took her.",
+      "th": "เชปเพิร์ดอยู่ข้างฉัน มีตัวอะไรลากเธอไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie continues screaming] -Oh, fuck! Oh, fuck! Sheppard!",
+      "th": "ตายห่า! ตายห่าละ! - เชปเพิร์ด! - ฉิบหาย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Oh, shit!",
+      "th": "- เชปเพิร์ด! - ฉิบหาย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Shepp...",
+      "th": "ฉิบหาย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "th": "เชปเพิร์ด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "th": "เชปเพิร์ด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to go back.",
+      "th": "เราต้องกลับไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We have to go back now. -[Anya] She's right.",
+      "th": "- เราต้องกลับตอนนี้เลย - เธอพูดถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Right? In what sense?",
+      "th": "ถูกเหรอ ในแง่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] We've been attacked twice.",
+      "th": "เราถูกโจมตีสองหนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[sighs] -[Anya] We lost one of our own.",
+      "th": "เราเสียคนไปคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have evidence the previous team went nuts and chopped each other up.",
+      "th": "เรามีหลักฐานว่าทีมก่อนนี้เป็นบ้า แล้วก็เชือดกันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really don't know how much more right she has to be.",
+      "th": "ฉันไม่รู้ว่าต้องพูดยังไง ให้ถูกกว่านี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "We haven't reached the lighthouse.",
+      "th": "เรายังไปไม่ถึงประภาคาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We still don't understand the cause or the nature of the Shimmer.",
+      "th": "เรายังไม่เข้าใจที่มา หรือธรรมชาติของม่านรุ้งเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have data, observations, photographs. She has hella footage.",
+      "th": "เรามีข้อมูล ข้อสังเกต รูปถ่าย เธอมีคลิปโคตรเด็ด"
+    }
+  },
+  {
+    "translation": {
+      "en": "All of which makes the phenomenon less explicable, not more.",
+      "th": "ทุกอย่างนั่นทำให้ปรากฏการณ์นี้ อธิบายได้ยากขึ้น ไม่ใช่ง่ายขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna get to the lighthouse,",
+      "th": "ฉันจะไปประภาคารนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'm fine going on my own.",
+      "th": "แล้วฉันไปเองก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just need to decide... whether you're coming with me or not.",
+      "th": "พวกคุณก็แค่ต้องตัดสินใจ... ว่าจะมากับฉันหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like she hasn't noticed that Sheppard is dead.",
+      "th": "เหมือนเธอไม่สังเกตด้วยซ้ำ ว่าเชปเพิร์ดตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's crazy.",
+      "th": "นังนั่นมันบ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's a crazy old bitch.",
+      "th": "เป็นอีแก่บ้าๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, and thanks for the fucking backup, Lena.",
+      "th": "ขอบใจโคตรๆ ที่ช่วยหนุนหลัง ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I didn't realize there were sides. -[Anya] Yeah.",
+      "th": "- ฉันไม่ยักรู้ว่ามีฝ่ายด้วย - มีสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, there are sides.",
+      "th": "ใช่ มีฝ่าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then I agree with you. We should go back.",
+      "th": "โอเค งั้นฉันก็เห็นด้วยกับคุณ เราควรกลับไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. Okay, great. There we go. Okay?",
+      "th": "ดี ยอดเลย ตกลงแล้วนะ โอเคมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So the three of us can-- -[Lena] Hold on a minute.",
+      "th": "- งั้นเราสามคนก็ไปได้... - เดี๋ยว ช้าก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go back, yes.",
+      "th": "เราควรกลับไปน่ะใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it took us, what, six days to get here?",
+      "th": "แต่เราใช้เวลาเท่าไรนะ หกวันเหรอ กว่าจะมาถึงนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the coast is two days away.",
+      "th": "ส่วนชายฝั่งน่ะอยู่ห่างไปสองวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And as Sheppard said...",
+      "th": "แล้วก็อย่างที่เชปเพิร์ดบอก..."
+    }
+  },
+  {
+    "translation": {
+      "en": "when we get to the coast, we can follow it until the perimeter wall.",
+      "th": "พอเราไปถึงชายฝั่ง เราก็แค่ ตามมันไปจนเจอแนวกั้นเขต"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're saying we get out by going deeper?",
+      "th": "คุณบอกให้เราออกไป โดยเข้าไปลึกขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, if you like, yeah. -\"Like\"?",
+      "th": "- ใช่ ถ้าคุณอยากว่างั้น - อยากเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I don't fucking \"like.\"",
+      "th": "ไม่ ไม่อยากเลยว่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't some bullshit tactic to get us to the lighthouse, is it?",
+      "th": "นี่ไม่ใช่กลยุทธ์ห่าเหวอะไร ที่จะเอาเราไปประภาคารใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is not about the lighthouse, okay?",
+      "th": "เรื่องนี้ไม่เกี่ยวกับประภาคาร โอเคมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that the coast is the best route out.",
+      "th": "ฉันเชื่อว่าชายฝั่ง เป็นทางออกที่ดีที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "th": "โอเคนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You lied to them.",
+      "th": "คุณโกหกพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know what going back meant.",
+      "th": "ฉันไม่รู้ว่าการย้อนกลับจะเป็นยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why it would be safer than going forward.",
+      "th": "ทำไมมันถึงจะปลอดภัยกว่าเดินหน้าต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You didn't know, but you made a decision to continue as if you did.",
+      "th": "คุณไม่รู้ แต่คุณตัดสินใจไปต่อ เหมือนว่าคุณรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress made the decision.",
+      "th": "เวนเทรสเป็นคนตัดสินใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Ventress had cancer. She was never coming back.",
+      "th": "เวนเทรสเป็นมะเร็ง เธอไม่เคยคิดกลับอยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew she was sick.",
+      "th": "คุณรู้ว่าเธอป่วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had guessed.",
+      "th": "ฉันเดาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you wanted to continue.",
+      "th": "แล้วคุณยังอยากเดินหน้าต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I did.",
+      "th": "ฉันอยาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "She could still be alive.",
+      "th": "เธออาจมีชีวิตอยู่ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's highly doubtful.",
+      "th": "ไม่น่าเป็นได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to know.",
+      "th": "เราจำเป็นต้องรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "th": "ไปสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine.",
+      "th": "ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming with you.",
+      "th": "ฉันจะไปกับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go alone.",
+      "th": "ฉันจะไปคนเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] Did you find her?",
+      "th": "คุณเจอเธอมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "เจอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's dead.",
+      "th": "เธอตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "th": "คุณโอเคมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine. Just... leave me the fuck alone.",
+      "th": "ไม่เป็นไร ก็แค่... ปล่อยฉันอยู่คนเดียวเหอะวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] We'll camp here tonight.",
+      "th": "เราจะตั้งแคมป์ที่นี่คืนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's another two hours' walk up the coast.",
+      "th": "ต้องเดินอีกสองชั่วโมงกว่าจะถึงชายฝั่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "They've grown this way.",
+      "th": "มันโตมาแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That doesn't make any sense.",
+      "th": "นั่นมันไม่สมเหตุสมผลเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it does.",
+      "th": "ฉันว่าสมเหตุสมผลนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "At first I thought the radio waves were blocked by the Shimmer,",
+      "th": "ทีแรกฉันนึกว่าคลื่นวิทยุถูกม่านรุ้งปิดกั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's why no one inside could communicate with base or GPS,",
+      "th": "และนั่นก็คือเหตุที่ไม่มีใครข้างใน ติดต่อกับฐานหรือจีพีเอสได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the light waves aren't blocked, they're refracted, and...",
+      "th": "แต่คลื่นแสงไม่ได้ถูกปิดกั้น มันหักเห แล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "...it's the same with the radios.",
+      "th": "วิทยุก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "The signals aren't gone.",
+      "th": "สัญญาณไม่ได้หายไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're scrambled.",
+      "th": "แค่ถูกรบกวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "That leaf in your hand...",
+      "th": "ใบไม้ในมือคุณนั่น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "know what you'd get if you sequenced it?",
+      "th": "รู้มั้ยว่าจะได้อะไร ถ้าหาลำดับเบสมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -Human Hox genes.",
+      "th": "- อะไรเหรอ - ยีนฮอกซ์ของมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hox? What is-- What's Hox mean?",
+      "th": "ฮอกซ์เหรอ อะไรนะ ฮอกซ์แปลว่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're the genes that define the body plan, the physical structure.",
+      "th": "มันเป็นยีนที่กำหนดผังร่างกาย โครงสร้างทางกายภาพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the plants have human body plan.",
+      "th": "แล้วพืชพวกนี้ก็มีผังแบบร่างมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arms attached to shoulders. Legs to hips.",
+      "th": "แขนต่อกับไหล่ ขากับสะโพก"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally not possible.",
+      "th": "มันไม่มีทางเป็นไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally what's happening.",
+      "th": "มันคือสิ่งที่เกิดขึ้นจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Shimmer is a prism, but it refracts everything.",
+      "th": "ม่านรุ้งเป็นปริซึม แต่มันหักเหทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not just light and radio waves.",
+      "th": "ไม่ใช่แค่แสงกับคลื่นวิทยุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Animal DNA, plant DNA...",
+      "th": "ดีเอ็นเอสัตว์ ดีเอ็นเอพืช..."
+    }
+  },
+  {
+    "translation": {
+      "en": "all DNA.",
+      "th": "ดีเอ็นเอทุกอย่าง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, \"all DNA\"?",
+      "th": "คืออะไร \"ดีเอ็นเอทุกอย่าง\""
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about our DNA.",
+      "th": "เธอพูดถึงดีเอ็นเอเราอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about us.",
+      "th": "เธอพูดเรื่องเราอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right... I guess this is a bedroom.",
+      "th": "เอาละ... นี่คงเป็นห้องนอนเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's secure doors and windows.",
+      "th": "กันประตูหน้าต่างให้แน่นหนาเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was a mistake.",
+      "th": "นี่เป็นเรื่องผิดพลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "You spend more time away from your husband than with him.",
+      "th": "คุณใช้เวลาอยู่ห่างจากสามี มากกว่าอยู่กับเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't talk to him about work, and he won't talk to you about his.",
+      "th": "คุณคุยกับเขาเรื่องงานไม่ได้ ส่วนเขาก็ไม่ยอมคุยเรื่องงานกับคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And there is a clear physical and intellectual connection between us.",
+      "th": "แต่มีสายสัมพันธ์ชัดเจนระหว่างเรา ทั้งทางกายภาพและทางปัญญา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Have I covered the bases? -You forgot your wife.",
+      "th": "ผมพูดครบหรือยัง - คุณลืมพูดถึงภรรยาคุณ - ผมรักภรรยาผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love my wife.",
+      "th": "- คุณลืมพูดถึงภรรยาคุณ - ผมรักภรรยาผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's blameless in this.",
+      "th": "เธอไม่ผิดเลยเรื่องนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Lena.",
+      "th": "ไม่เอาน่ะ ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's really going on here?",
+      "th": "นี่มันเรื่องอะไรกันแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that something may have happened to him?",
+      "th": "คุณคิดว่าอาจเกิดอะไรขึ้นกับเขาเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or you think he knows.",
+      "th": "หรือคุณคิดว่าเขารู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it, isn't it?",
+      "th": "นั่นแหละ ใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think somehow he's found out about our affair.",
+      "th": "คุณคิดว่าเขารู้เข้าทางไหนสักทาง ว่าเรามีอะไรกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Has he found out?",
+      "th": "เขารู้แล้วเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Yes.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should go.",
+      "th": "คุณควรไปซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, Lena, I-- -Dan...",
+      "th": "- ไม่ ลีน่า ผม... - แดน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not interested in talking... or in anything you have to say.",
+      "th": "ฉันไม่สนใจจะคุย... ไม่สนอะไรก็ตามที่คุณจะพูด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just get dressed and get out.",
+      "th": "แต่งตัวแล้วก็ออกไปซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, it's not me you hate, it's yourself.",
+      "th": "รู้มั้ย ที่คุณเกลียดไม่ใช่ผม แต่เป็นตัวคุณเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Dan, it's you, too.",
+      "th": "ไม่หรอก แดน คุณก็ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's never gonna happen again.",
+      "th": "มันจะไม่มีทางเกิดขึ้นอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You lying bitch!",
+      "th": "นังตอแหล!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's going on? -No.",
+      "th": "- เกิดอะไรขึ้น - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't get to ask that fucking question. You answer it!",
+      "th": "แกไม่มีสิทธิ์ถามคำถามห่านั่น แกตอบมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brother.",
+      "th": "พี่ชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boyfriend.",
+      "th": "แฟน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "th": "สามี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "th": "สามีสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Why didn't you tell us? -[speaks indistinctly]",
+      "th": "ทำไมแกไม่บอกเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You knew. Obviously. -[panting]",
+      "th": "แกก็รู้มาก่อน แหงละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Did you know? -[breath quavering]",
+      "th": "เธอรู้มาก่อนมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie sobs] -Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are two theories of what went wrong.",
+      "th": "มีอยู่สองทฤษฎี ว่าเกิดเรื่องอะไรในม่านรุ้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "One is that something in here killed them.",
+      "th": "หนึ่งคือมีอะไรในนี้ฆ่าคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two... is that they went crazy and they killed each other.",
+      "th": "สอง... คือพวกเขาเสียสติ แล้วก็ฆ่ากันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie nearly got killed by an alligator,",
+      "th": "โจซี่เกือบถูกจระเข้ฆ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "and Cass did get killed by a bear. [voice breaks]",
+      "th": "แล้วแคสก็ถูกหมีฆ่าเข้าจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, yes, theory one, it fits.",
+      "th": "งั้นก็ใช่ ทฤษฎีที่หนึ่งลงตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "But...",
+      "th": "แต่ว่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't actually see a bear.",
+      "th": "ฉันไม่ได้เห็นหมีจริงๆ นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And neither did Josie.",
+      "th": "โจซี่ก็ไม่เห็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] The only people who saw were Lena and Ventress.",
+      "th": "คนที่เห็นหมีมีแค่ลีน่ากับเวนเทรส"
+    }
+  },
+  {
+    "translation": {
+      "en": "So nothing's confirmed. Everything's on their word.",
+      "th": "เลยไม่มีอะไรยืนยันได้ ทุกอย่างขึ้นกับคำพูดของพวกมัน ทุกอย่างขึ้นกับคำพูดของลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everything's on Lena's word. -[speaks indistinctly]",
+      "th": "ทุกอย่างขึ้นกับคำพูดของพวกมัน ทุกอย่างขึ้นกับคำพูดของลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "And what we know now...",
+      "th": "แล้วเรื่องที่เรารู้ตอนนี้..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what we know,",
+      "th": "ที่เรารู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "is that Lena... is a liar.",
+      "th": "ก็คือลีน่า... เป็นคนโกหก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[speaks indistinctly] -Shut the fuck up!",
+      "th": "หุบปากสิวะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena... you're a liar.",
+      "th": "ลีน่า... แกเป็นคนโกหก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you kill Cass?",
+      "th": "แกฆ่าแคสหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you lose your shit?",
+      "th": "แกเกิดคลั่งขึ้นมามั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or do you think I've lost my shit and we're gonna fuck each other up?",
+      "th": "หรือแกคิดว่าฉันคลั่ง แล้วเราจะยำกันเองจนเละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's theory two.",
+      "th": "นั่นคือทฤษฎีสอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God.",
+      "th": "โอย"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I look at my hands...",
+      "th": "พอฉันดูมือตัวเอง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and my fingerprints...",
+      "th": "กับลายนิ้วมือตัวเอง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can see them moving.",
+      "th": "ฉันเห็นมันเคลื่อนไหวได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sobbing] I can't.",
+      "th": "ฉันไม่ไหวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I let you go,",
+      "th": "ถ้าฉันปล่อยพวกเธอไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you tie me to a chair and cut me open...",
+      "th": "แล้วเธอมัดฉันติดเก้าอี้ แล้วผ่าท้องฉัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are my insides gonna move like my fingerprints?",
+      "th": "เครื่องในฉันจะเคลื่อนไหว เหมือนลายนิ้วมือมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "But... I'm not the one tied to a chair.",
+      "th": "แต่... ฉันไม่ใช่คนที่โดนมัดติดเก้าอี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Ventress gasps] -You are.",
+      "th": "แกต่างหาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Help me!",
+      "th": "ช่วยด้วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Help me!",
+      "th": "ช่วยด้วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "th": "ช่วยด้วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Oh, Cass?",
+      "th": "โอ๊ย แคสเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You said she was dead. -[Lena speaks indistinctly]",
+      "th": "แกบอกว่าเธอตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Cass! Cass, I'm coming! -[grunting]",
+      "th": "แคส! แคส ฉันมาแล้ว!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's voice] Help me! Help me!",
+      "th": "ช่วยด้วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help!",
+      "th": "ช่วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't react.",
+      "th": "อย่าตอบสนอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's voice] Me!",
+      "th": "ด้วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's screaming voice] Help!",
+      "th": "ช่วย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No! [screams]",
+      "th": "ไม่นะ! ไม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing?",
+      "th": "คุณทำอะไรอยู่น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm leaving. -[Lena] Now?",
+      "th": "- ฉันจะไปแล้ว - ตอนนี้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's not even light yet. -I don't have time to wait.",
+      "th": "- ยังไม่สว่างด้วยซ้ำ - ฉันไม่มีเวลารอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are disintegrating.",
+      "th": "เรากำลังสลายตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies as fast as our minds. Can't you feel it?",
+      "th": "ทางร่างกาย เร็วพอกับจิตใจ คุณไม่รู้สึกเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like the onset of dementia.",
+      "th": "มันเหมือนโรคสมองเสื่อมระยะเริ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I don't reach the lighthouse soon...",
+      "th": "ถ้าฉันไม่ถึงประภาคารเร็วๆ นี้..."
+    }
+  },
+  {
+    "translation": {
+      "en": "the person that started this journey won't be the person that ends it.",
+      "th": "คนที่เริ่มการเดินทางนี่ จะไม่ใช่คนที่จบมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be the one that ends it.",
+      "th": "ฉันอยากเป็นคนจบมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go, Josie.",
+      "th": "เราควรไปได้แล้ว โจซี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long was your husband in the Shimmer?",
+      "th": "สามีคุณอยู่ในม่านรุ้งนานแค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's hard to say exactly.",
+      "th": "ยากจะบอกได้ชัดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Theoretically, as long as a year.",
+      "th": "ในทางทฤษฎีก็ถึงหนึ่งปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a long time to be inside and remain intact.",
+      "th": "มันนานนะสำหรับการอยู่ข้างในนี้ แบบยังครบถ้วนสมบูรณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not so sure he was intact.",
+      "th": "ฉันไม่แน่ใจนักว่าเขาสมบูรณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm right...",
+      "th": "ฉันพูดถูก..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-about the refractions... aren't I? -Yeah.",
+      "th": "- เรื่องการหักเห... ใช่มั้ย - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I checked my blood last night.",
+      "th": "ฉันตรวจเลือดตัวเองเมื่อคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's... in me.",
+      "th": "มัน... อยู่ในตัวฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will be in all of us.",
+      "th": "มันอยู่ในตัวเราทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was so strange hearing...",
+      "th": "แปลกชะมัดที่ได้ยิน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard's voice in the mouth of that creature last night.",
+      "th": "เสียงเชปเพิร์ด จากปากอสุรกายนั่นเมื่อคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think as she was dying, part of her mind became...",
+      "th": "ฉันว่าตอนเธอกำลังจะตาย จิตใจบางส่วนของเธอกลายเป็น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "part of the creature that was killing her.",
+      "th": "ส่วนหนึ่งของสัตว์ร้ายที่ฆ่าเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine dying frightened and in pain,",
+      "th": "ลองนึกภาพการตาย อย่างตื่นกลัวและเจ็บปวด"
+    }
+  },
+  {
+    "translation": {
+      "en": "and having that as the only part of you which survives.",
+      "th": "แล้วมีของแบบนั้น เป็นส่วนเดียวของเราที่เหลืออยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't like that at all.",
+      "th": "ฉันคงไม่ชอบมันเลยสักนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress wants to face it.",
+      "th": "เวนเทรสอยากเผชิญหน้ากับมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to fight it.",
+      "th": "คุณอยากต่อสู้มัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think I want either of those things.",
+      "th": "แต่ฉันไม่คิดว่าฉันอยากทำ อย่างใดอย่างหนึ่งนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie.",
+      "th": "โจซี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie.",
+      "th": "โจซี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie!",
+      "th": "โจซี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one, all gone, except you.",
+      "th": "ทีละคน จากไปหมด เว้นแต่คุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you explain that?",
+      "th": "คุณจะอธิบายยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it something I need to explain?",
+      "th": "นี่ใช่เรื่องที่ฉันต้องอธิบายเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Yes, you do.",
+      "th": "ใช่ คุณต้องทำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had to come back.",
+      "th": "ฉันต้องกลับมาให้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure any of them did.",
+      "th": "ฉันไม่แน่ใจว่า คนอื่นเป็นแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Stand by the stairway ♪",
+      "th": "(ประภาคาร)"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ You'll see something certain To tell you ♪",
+      "th": "(ประภาคาร) (ฮีลา เซลล์อมตะ)"
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Love isn't lying ♪ -Hey.",
+      "th": "นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "th": "ว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought I was a man.",
+      "th": "ผมเคยคิดว่าผมเป็นคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I had a life.",
+      "th": "ผมเคยมีชีวิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "People called me Kane.",
+      "th": "ใครๆ เรียกผมว่าเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now I'm not so sure.",
+      "th": "แต่ตอนนี้ผมไม่แน่ใจนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I wasn't Kane, what was I?",
+      "th": "ถ้าผมไม่ใช่เคน ผมเป็นตัวอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was I you?",
+      "th": "ผมคือคุณหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were you me?",
+      "th": "คุณคือผมมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "My flesh moves...",
+      "th": "เนื้อหนังผมเคลื่อนไหว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "like liquid.",
+      "th": "เหมือนของเหลว"
+    }
+  },
+  {
+    "translation": {
+      "en": "My mind is...",
+      "th": "ความคิดจิตใจผม..."
+    }
+  },
+  {
+    "translation": {
+      "en": "just cut loose.",
+      "th": "ขาดลอยออกไปดื้อๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it. [breath quavering]",
+      "th": "ผมทนไม่ไหวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it.",
+      "th": "ผมทนไม่ไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] I can't bear it.",
+      "th": "ทนไม่ไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ever seen a phosphorus grenade go off? They're kind of bright.",
+      "th": "เคยเห็นระเบิดฟอสฟอรัสระเบิดมั้ย มันสว่างอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shield your eyes.",
+      "th": "ปิดตาซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you ever get out of here, you find Lena.",
+      "th": "ถ้าคุณออกไปจากที่นี่ได้ คุณไปหาลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I will.",
+      "th": "ผมจะไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Five, four, three, two...",
+      "th": "ห้า สี่... สาม สอง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] No, no, no. No.",
+      "th": "ไม่ๆๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the last phase.",
+      "th": "มันเป็นขั้นสุดท้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Vanished into havoc.",
+      "th": "สูญไปในหายนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unfathomable mind...",
+      "th": "จิตใจที่หยั่งไม่ถึง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "...and now beacon.",
+      "th": "แล้วทีนี้ก็โคมสัญญาณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now sea.",
+      "th": "ทีนี้ก็ทะเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -Dr. Ventress?",
+      "th": "ดร. เวนเทรส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena.",
+      "th": "ลีน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "We spoke.",
+      "th": "เราเคยคุยกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was it we said?",
+      "th": "เราพูดกันว่าไงนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That I needed to know what was inside the lighthouse.",
+      "th": "ว่าฉันต้องรู้ให้ได้ ว่าอะไรอยู่ในประภาคาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "That moment's passed.",
+      "th": "เวลานั้นผ่านไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's inside me now.",
+      "th": "มันอยู่ในตัวฉันแล้วตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's... inside you?",
+      "th": "อะไร... อยู่ในตัวคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not like us.",
+      "th": "มันไม่เหมือนเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's unlike us.",
+      "th": "มันต่างจากเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know what it wants.",
+      "th": "ฉันไม่รู้ว่ามันต้องการอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or if it wants.",
+      "th": "หรือมันต้องการมั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it will grow...",
+      "th": "แต่มันจะขยายตัว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "until it encompasses everything.",
+      "th": "จนมันโอบล้อมทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies and our minds",
+      "th": "ร่างกายและจิตใจเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "will be fragmented into their smallest parts until...",
+      "th": "จะแตกเป็นชิ้นส่วนที่เล็กที่สุด จน... ไม่เหลือสักส่วนเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "not one part remains.",
+      "th": "จน... ไม่เหลือสักส่วนเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Annihilation.",
+      "th": "การทำลายล้างจนสิ้นสูญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So it was alien.",
+      "th": "งั้นมันก็มาจากต่างดาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you describe its form?",
+      "th": "คุณบรรยายรูปร่างมันได้มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่ได้ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it carbon-based or...?",
+      "th": "มันมีคาร์บอนเป็นธาตุหลัก หรือว่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ฉันไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did it want?",
+      "th": "มันต้องการอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think it wanted anything.",
+      "th": "ฉันไม่คิดว่ามันต้องการอะไรทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it... it attacked you.",
+      "th": "แต่มัน... มันจู่โจมคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It mirrored me.",
+      "th": "มันเลียนแบบฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I attacked it.",
+      "th": "ฉันจู่โจมมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure it even knew I was there.",
+      "th": "ฉันไม่แน่ใจว่ามันรู้ด้วยซ้ำว่าฉันอยู่นั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It came here for a reason.",
+      "th": "มันมาที่นี่โดยมีจุดประสงค์"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was mutating our environment, it was destroying everything.",
+      "th": "มันทำให้สิ่งแวดล้อมเรากลายพันธุ์ มันทำลายทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It wasn't destroying.",
+      "th": "มันไม่ได้ทำลาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was changing everything.",
+      "th": "มันกำลังเปลี่ยนทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was making something new.",
+      "th": "มันกำลังสร้างสิ่งใหม่ขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Making what?",
+      "th": "สร้างอะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ฉันไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "A team reached the lighthouse a few hours ago.",
+      "th": "มีทีมไปถึงประภาคารนั่น เมื่อสองสามชั่วโมงก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything is ash.",
+      "th": "ทุกอย่างเป็นเถ้าถ่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "If what you encountered was once alive...",
+      "th": "ถ้าสิ่งที่คุณเจอเคยมีชีวิตอยู่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "it seems it's now dead.",
+      "th": "ดูเหมือนตอนนี้มันจะตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now will you tell me what happened to my husband?",
+      "th": "ทีนี้คุณบอกได้หรือยัง ว่าเกิดอะไรกับสามีฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] When the Shimmer disappeared,",
+      "th": "พอม่านรุ้งหายไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "his blood pressure stabilized and his pulse rate started to rise.",
+      "th": "ความดันโลหิตเขาก็เสถียร แล้วชีพจรก็เริ่มสูงขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few hours later, he was not only awake,",
+      "th": "เมื่อสองสามชั่วโมงก่อน เขาไม่เพียงฟื้นขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was lucid.",
+      "th": "แต่ยังมีสติแจ่มชัดด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's still in isolation, obviously.",
+      "th": "แน่ละว่าเขายังถูกแยกตัวไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] So am I.",
+      "th": "ฉันก็ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You aren't Kane...",
+      "th": "คุณไม่ใช่เคน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are you?",
+      "th": "ใช่มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think so.",
+      "th": "ผมไม่คิดว่าใช่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you Lena?",
+      "th": "คุณใช่ลีน่ามั้ยล่ะ"
+    }
+  }
+]
