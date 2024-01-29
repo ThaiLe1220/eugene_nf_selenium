@@ -279,7 +279,7 @@ LANG_LIST = [
     ("German", "de"),
     ("Italian", "it"),
     ("Korean", "ko"),
-    ("Japanese", "jap"),
+    ("Japanese", "ja"),
     ("Chinese (Simplified)", "zh"),
     ("Portuguese", "pt"),
     ("Thai", "th"),

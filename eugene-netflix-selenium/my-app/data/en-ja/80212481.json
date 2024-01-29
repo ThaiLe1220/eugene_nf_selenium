@@ -1,0 +1,908 @@
+[
+  {
+    "translation": {
+      "en": "Mm, those acorns look so yummy!",
+      "ja": "あのドングリ おいしそう"
+    }
+  },
+  {
+    "translation": {
+      "en": "[shrieks] Acorns! Acorns!",
+      "ja": "ドングリが いっぱい"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ YooHoo to the rescue ♪",
+      "ja": "ユーフーしゅつどう！"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ We're on a mission, let's explore ♪",
+      "ja": "さあみんな あつまって"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Let's have some fun and so much more ♪",
+      "ja": "ぼうけんへ ひとっとび"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Travel the world and meet new friends ♪",
+      "ja": "ともだちとであう"
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Our journey never ends ♪ -♪ Let's go! ♪",
+      "ja": "たびはおわらない"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ YooHoo to the rescue ♪ ♪ YooHoo to the rescue ♪",
+      "ja": "ユーフーしゅつどう！ 　　ユーフーしゅつどう！"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Pammee, Lemmee, Roodee, and Chewoo ♪",
+      "ja": "ペミー レミー ルディ チュウ"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ And our captain ♪",
+      "ja": "そしてキャプテン"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ YooHoo! ♪",
+      "ja": "ユーフー！"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ YooHoo to the rescue ♪ ♪ YooHoo to the rescue ♪",
+      "ja": "ユーフーしゅつどう！ 　　　　みんなともだち"
+    }
+  },
+  {
+    "translation": {
+      "en": "[YooHoo] \"Pika's Pine Cone Collection.\"",
+      "ja": "ナキウサギと まつぼっくり"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's all that, Chewoo?",
+      "ja": "それ なに？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, is that a bag full of acorns?",
+      "ja": "ドングリをつめた ふくろ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. Yes, it is! It's all acorns!",
+      "ja": "そうなの ぜんぶ ドングリよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not going to eat all of them, are you?",
+      "ja": "１人で たべきれないでしょ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. I'm going to take them home. Maybe eat a few.",
+      "ja": "いえに もってくの ２～３こ たべるかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anyway, there are still a lot more acorns under the big tree. Can you help me?",
+      "ja": "木の下に まだあるから 手つだって"
+    }
+  },
+  {
+    "translation": {
+      "en": "With what?",
+      "ja": "なにを？"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the other acorns under the tree. Duh, I should really go pick them up.",
+      "ja": "もちろん もっと ドングリをひろうの"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you have so many already.",
+      "ja": "そんなに あるよ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, but, but, um... They will be wasted there.",
+      "ja": "そうだけど もったいないでしょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, everyone, look!",
+      "ja": "みんな あれを見て"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chewoo, those acorns will have to wait. We've got a mission!",
+      "ja": "ドングリは あとでね おしごとだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go!",
+      "ja": "いくわよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Destination confirmed.",
+      "ja": "いき先 かくにん"
+    }
+  },
+  {
+    "translation": {
+      "en": "It seems that a pika living in China is in trouble!",
+      "ja": "ナキウサギが こまってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "China, here we come. YooHoo to the rescue!",
+      "ja": "ちゅうごくだ ユーフーしゅつどう！"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's go! -Let's go!",
+      "ja": "しゅっぱつ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi! You're YooHoo and the crew, right? Welcome to China.",
+      "ja": "こんにちは　ユーフーたちね"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Tokee.",
+      "ja": "トキーよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hello, Tokee. -Hello, Tokee.",
+      "ja": "やあ トキー"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are those in your basket? They're so pretty!",
+      "ja": "それ なに？ すごくかわいい"
+    }
+  },
+  {
+    "translation": {
+      "en": "They are, aren't they? I collect pine cones.",
+      "ja": "でしょ？ これは まつぼっくりよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, Tokee, you called us for help, right? Well, how can we help you?",
+      "ja": "トキー どうして ぼくたちをよんだの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, yeah. Of course. Well, I guess we should go to my home first.",
+      "ja": "まず わたしのいえに いきましょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this your home, Tokee?",
+      "ja": "ここが きみのいえ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, this is it.",
+      "ja": "そうなの"
+    }
+  },
+  {
+    "translation": {
+      "en": "Since I'm the only pika living in this forest, no one has ever really come to my house. So, welcome!",
+      "ja": "森に なかまが いないから おきゃくさんは大かんげい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks! Your home looks small, but really cute.",
+      "ja": "ありがとう 小さくてステキないえね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, that's why I called you. It's so crowded here, so I need to move to a bigger place.",
+      "ja": "せますぎるから 大きないえに うつりたいの"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I have too much stuff. I can't carry everything on my own.",
+      "ja": "でも１人じゃ にもつをはこべない"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see. Well, we're here to help.",
+      "ja": "わかった　手つだうよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, please be careful and don't step on the cones. Thanks!",
+      "ja": "まつぼっくりを ふまないでね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Watch your step. It's pretty packed in here.",
+      "ja": "足もとに気をつけて"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Pammee] Whoa!",
+      "ja": "すごい"
+    }
+  },
+  {
+    "translation": {
+      "en": "So many!",
+      "ja": "山づみに なってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is all this, Tokee?",
+      "ja": "こんなに どうしたの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got these pine cones myself!",
+      "ja": "あつめたの"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, all of these?",
+      "ja": "１人で こんなに？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah! Nobody in this forest has this many pine cones!",
+      "ja": "森のだれより たくさん もってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why did you bring all these other pine cones, then? You already have so many.",
+      "ja": "なのに まつぼっくりを また ひろったの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they're all different. If you look closely, the cones are different colors and shapes.",
+      "ja": "よく見ると １つ１つ いろや かたちが ちがう"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh-oh! Watch out!",
+      "ja": "あっ　気をつけて"
+    }
+  },
+  {
+    "translation": {
+      "en": "[all] No!",
+      "ja": "あぶない！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Watch out!",
+      "ja": "たいへんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tokee, are you okay?",
+      "ja": "トキー ケガは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is everyone okay?",
+      "ja": "みんなは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "[all] Yes.",
+      "ja": "へいき"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, guys. But I barely touched the pine cones.",
+      "ja": "ごめん すこしあたった だけなのに"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "ja": "わかってる"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just that there were way too many pine cones on the pile.",
+      "ja": "たくさん つみ上がってたからだよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pine cones are fine. And some are really pretty.",
+      "ja": "まつぼっくりの せいじゃないわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just need a bigger place for them, Tokee.",
+      "ja": "ひっこせばいいのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Exactly. That's why I called you guys here.",
+      "ja": "そう　だから みんなをよんだの"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to move to a bigger house.",
+      "ja": "大きないえに うつるわ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, then. We'll help you, Tokee.",
+      "ja": "みんなで手つだうよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can count on us!",
+      "ja": "まかせて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Phew! I almost forgot to bring this one.",
+      "ja": "わすれるとこだった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, dear.",
+      "ja": "たいへん"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have more pine cones now.",
+      "ja": "また ふえちゃった"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's because Tokee picked up even more pine cones on the way here.",
+      "ja": "トキーが とちゅうで ひろうからだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This new place is not going to cut it.",
+      "ja": "ここでも せまいかも"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? Should I move to a new bigger place? Again?",
+      "ja": "もっと大きないえに うつる？"
+    }
+  },
+  {
+    "translation": {
+      "en": "No matter where you go, Tokee,",
+      "ja": "キリがないよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "your house will feel small if you keep collecting pine cones.",
+      "ja": "まつぼっくりが どんどん ふえてる"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. Then...",
+      "ja": "じゃあ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if we throw some away? Just a thought.",
+      "ja": "すこし すてたら どう？"
+    }
+  },
+  {
+    "translation": {
+      "en": "[both] No way!",
+      "ja": "ダメ！"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tokee, do you really need all these pine cones?",
+      "ja": "どうしても ぜんぶ いるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I don't exactly, absolutely, totally need them.",
+      "ja": "ぜんぶ いるわけじゃないけど"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. So, what do you want to do with them?",
+      "ja": "このまつぼっくりで なにをするの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I don't really do anything with them.",
+      "ja": "べつに なにもしないよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I happen to know that pine cones are not edible.",
+      "ja": "これは たべられないよね？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, yeah, but...",
+      "ja": "うん　そうだけど…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Chewoo] Stop, you guys.",
+      "ja": "みんな やめて"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tokee just likes collecting them. She likes to stare at them.",
+      "ja": "トキーは これをあつめて ながめるのよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And she likes to play with them.",
+      "ja": "これで あそべるしね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Play with them?",
+      "ja": "あそべるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, play with them, you know? You don't?",
+      "ja": "そう　もしかして しらなかった？"
+    }
+  },
+  {
+    "translation": {
+      "en": "How would you play with pine cones?",
+      "ja": "いったい どうやって？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would play with them with friends.",
+      "ja": "ともだちと あそぶ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Friends?",
+      "ja": "ともだち？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over here. There should be another pika living at the end of this road.",
+      "ja": "べつのナキウサギが この先に すんでる"
+    }
+  },
+  {
+    "translation": {
+      "en": "His name is Wing.",
+      "ja": "なまえはウィング"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hope he's around.",
+      "ja": "あえるといいね"
+    }
+  },
+  {
+    "translation": {
+      "en": "I bet it would be much more fun to share pine cones with friends.",
+      "ja": "ともだちに まつぼっくりをあげよう"
+    }
+  },
+  {
+    "translation": {
+      "en": "[all] Hello!",
+      "ja": "こんにちは"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi! Uh, what's going on? Who are you?",
+      "ja": "はじめまして きみたち だれ？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm YooHoo and this is my crew.",
+      "ja": "ぼくはユーフー"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our pika friend just moved close to here.",
+      "ja": "トキーっていう ともだちが―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Her name is Tokee and she lives at the end of that road.",
+      "ja": "ちかくに ひっこしてきたんだ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tokee? -Yes.",
+      "ja": "トキー？ その子が いえに あそびにきてほしいって"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's very nice. And she would love to invite you to her new house.",
+      "ja": "その子が いえに あそびにきてほしいって"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would you like to join us for dinner?",
+      "ja": "しょくじをしましょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've never had a friend come over to my house.",
+      "ja": "ともだちが きてくれる"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hope he likes me.",
+      "ja": "なかよく したい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course, Wing will. As long as you're kind to him, I guess.",
+      "ja": "やさしくすれば なかよしに なれるよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kind?",
+      "ja": "やさしく？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh... How do I do that?",
+      "ja": "どうすればいい？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, you greet him, ask him to sit, offer him something to eat?",
+      "ja": "あたたかく むかえて しょくじを出すの"
+    }
+  },
+  {
+    "translation": {
+      "en": "But where will Wing sit? There's really no space.",
+      "ja": "でもウィングが すわるばしょがない"
+    }
+  },
+  {
+    "translation": {
+      "en": "And nothing to eat.",
+      "ja": "たべものは？"
+    }
+  },
+  {
+    "translation": {
+      "en": "In that case... Should we throw some pine cones away?",
+      "ja": "まつぼっくりを すこし すてようかな"
+    }
+  },
+  {
+    "translation": {
+      "en": "[both] Really?",
+      "ja": "ほんと？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? Can you do that, Tokee?",
+      "ja": "そんなことが できるの？"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how you show you're a kind friend, right?",
+      "ja": "やさしく しなきゃ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That sounds exactly like something a kind friend would do.",
+      "ja": "あたらしい ともだちのために―"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make room for a new friend!",
+      "ja": "ばしょをあけましょ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi!",
+      "ja": "ようこそ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh-oh. It's so cool in here.",
+      "ja": "きれいな いえだね"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? Thanks for saying that.",
+      "ja": "そう？　ありがとう"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you set all these pine cones up? This is really awesome.",
+      "ja": "まつぼっくりを かざったの？　すごい"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks!",
+      "ja": "どうも"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've never seen one that...",
+      "ja": "はじめて見たよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks for inviting me over, Tokee.",
+      "ja": "きょうは ありがとう"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was fun, Wing.",
+      "ja": "たのしかった"
+    }
+  },
+  {
+    "translation": {
+      "en": "That was really fun!",
+      "ja": "すごくね"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, can I visit you again some time?",
+      "ja": "また あそびに きていい？"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course, you can.",
+      "ja": "もちろんよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, here. This is for you.",
+      "ja": "これ あなたにあげる"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you said this one is really special to you.",
+      "ja": "とくべつな まつぼっくりだよね？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I used to think only pine cones were special back when I didn't have any friends.",
+      "ja": "うん　でも ともだちが できたから―"
+    }
+  },
+  {
+    "translation": {
+      "en": "But now, I don't think that.",
+      "ja": "もう いいの"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're still special to me, but not as special as you are.",
+      "ja": "ともだちのほうが たいせつだもん"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Tokee. To new friends!",
+      "ja": "ありがとう ともだちのトキー"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tokee's house looks really clean.",
+      "ja": "いえが きれいになった"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, she won't have to move again.",
+      "ja": "ずっと あそこに すめる"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's true.",
+      "ja": "そうね"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, now... What would my dear friend Chewoo do with all her acorns?",
+      "ja": "それじゃ チュウは あのドングリをどうする？"
+    }
+  },
+  {
+    "translation": {
+      "en": "I, well... I'm not going to bring all the acorns home.",
+      "ja": "ぜんぶ いえに もってくのは やめる"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a great idea, Chewoo.",
+      "ja": "大さんせいだよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Speaking of home, let's go there, crew.",
+      "ja": "じゃ いえにかえろう"
+    }
+  },
+  {
+    "translation": {
+      "en": "[crew] Yeah, let's go home!",
+      "ja": "そうだね　かえろう"
+    }
+  },
+  {
+    "translation": {
+      "en": "[all] YooHoo's Journal!",
+      "ja": "ユーフー･ジャーナル"
+    }
+  },
+  {
+    "translation": {
+      "en": "We met two pikas today.",
+      "ja": "ナキウサギは―"
+    }
+  },
+  {
+    "translation": {
+      "en": "They are also known as crying rabbits because of the sound they make.",
+      "ja": "なくような音を出すから そう よばれる"
+    }
+  },
+  {
+    "translation": {
+      "en": "[YooHoo] These animals have small ears and short tails,",
+      "ja": "耳も しっぽも みじかいよ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and store food in caves or between rocks.",
+      "ja": "すあなにエサをかくす"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, the cute pikas are our friends, too!",
+      "ja": "ナキウサギは ともだち！"
+    }
+  }
+]
