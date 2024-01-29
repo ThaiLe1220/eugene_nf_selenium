@@ -4,14 +4,14 @@ import random
 
 # Define language translation and set the directory path for data files
 SOURCE_LANG = "en"
-TARGET_LANG = "vi"
+TARGET_LANG = "zh"
 DATA_DIRECTORY = f"../data/{SOURCE_LANG}-{TARGET_LANG}/"
 
 # List all JSON files in the specified data directory
 all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
 
 # Randomly select files to process, limited to NUM_FILE or the total number of files, whichever is smaller
-NUM_FILE = 200
+NUM_FILE = 240
 files = random.sample(all_files, min(NUM_FILE, len(all_files)))
 
 # Initialize lists to categorize translation pairs based on their length
@@ -81,12 +81,12 @@ TOTAL_ITEMS = (
 # Select a proportion of translation pairs from each category to form a diverse dataset
 all_data.extend(
     random.sample(
-        data_less_than_10, min(len(data_less_than_10), int(TOTAL_ITEMS * 0.08))
+        data_less_than_10, min(len(data_less_than_10), int(TOTAL_ITEMS * 0.06))
     )
 )
 all_data.extend(
     random.sample(
-        data_less_than_20, min(len(data_less_than_20), int(TOTAL_ITEMS * 0.1))
+        data_less_than_20, min(len(data_less_than_20), int(TOTAL_ITEMS * 0.08))
     )
 )
 all_data.extend(
@@ -101,7 +101,7 @@ all_data.extend(
 )
 all_data.extend(
     random.sample(
-        data_less_than_40, min(len(data_less_than_40), int(TOTAL_ITEMS * 0.2))
+        data_less_than_50, min(len(data_less_than_50), int(TOTAL_ITEMS * 0.24))
     )
 )
 all_data.extend(
