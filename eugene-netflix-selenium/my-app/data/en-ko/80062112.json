@@ -1,0 +1,836 @@
+[
+  {
+    "translation": {
+      "en": "[narrator] In a distant world’s time of need,",
+      "ko": "위험에 처한 머나먼 세계에"
+    }
+  },
+  {
+    "translation": {
+      "en": "an ancient prophecy summoned the Toa.",
+      "ko": "고대 예언에 의해 토아가 소환된다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six legendary heroes,",
+      "ko": "전설적인 여섯 영웅은"
+    }
+  },
+  {
+    "translation": {
+      "en": "each powered by the energy of the island’s elements.",
+      "ko": "각각 섬의 원소의 힘을 지니고 있었다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tahu, Toa of Fire.",
+      "ko": "불의 토아 타후"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, Toa of Ice.",
+      "ko": "얼음의 토아 코파카"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pohatu, Toa of Stone.",
+      "ko": "돌의 토아 포하투"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali, Toa of Water.",
+      "ko": "물의 토아 갈리"
+    }
+  },
+  {
+    "translation": {
+      "en": "Onua, Toa of Earth.",
+      "ko": "흙의 토아 오누아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lewa, Toa of the Jungle.",
+      "ko": "정글의 토아 레와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Much has happened, I know.",
+      "ko": "많은 일이 일어났지"
+    }
+  },
+  {
+    "translation": {
+      "en": "After so many thousands of years,",
+      "ko": "수천 년이 흐른 후에야"
+    }
+  },
+  {
+    "translation": {
+      "en": "your families have returned",
+      "ko": "가족들이 돌아오게 되었으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "to rebuild the Mask Makers’ City.",
+      "ko": "마스크 장인의 도시를 재건하려고 말야"
+    }
+  },
+  {
+    "translation": {
+      "en": "If must seem strange.",
+      "ko": "좀 이상할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have only known the region of the Jungle.",
+      "ko": "자네는 정글 구역밖에 모르고"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you, the regions of Stone and Ice and Water.",
+      "ko": "자네가 아는 곳은 돌 얼음, 물의 구역뿐이니"
+    }
+  },
+  {
+    "translation": {
+      "en": "But we are Okotans,",
+      "ko": "하지만 우린 오코토인이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "and once, this was the centre of our world.",
+      "ko": "이곳은 한때 세상의 중심이었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now we have returned.",
+      "ko": "그리고 이제 우린 돌아온 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I’m sure you have questions, but wait.",
+      "ko": "물론 궁금한 게 많겠지 하지만 기다리게"
+    }
+  },
+  {
+    "translation": {
+      "en": "First, let me tell you how we came to return to our city",
+      "ko": "먼저 우리가 어떻게 돌아오게 됐는지 말해주지"
+    }
+  },
+  {
+    "translation": {
+      "en": "and give you a taste of what may lay ahead.",
+      "ko": "그리고 앞으로 다가올 일들도"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sit.",
+      "ko": "앉지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once, this was a beautiful city.",
+      "ko": "한때 이곳은 아름다운 도시였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I like to think it will be again.",
+      "ko": "다시 그렇게 되리라 믿고 싶지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "But that will depend on more than your parents.",
+      "ko": "그건 우리의 힘만으로는 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will depend on six heroes, from another time and place!",
+      "ko": "다른 시공간에서 온 여섯 영웅과"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it will depend on if they can harness the elements that give our planet life.",
+      "ko": "우리 행성을 되살려 낼 그들의 엘리멘트에 달렸지"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know them from the regions where you live.",
+      "ko": "자네들이 살던 곳이니 아마 알 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire, Water, Jungle, Earth, Stone and Ice.",
+      "ko": "불, 물, 정글, 흙 돌 그리고 얼음"
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, they are just corners of our island,",
+      "ko": "자네들에겐 단지 섬의 일부일 뿐이겠지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but to the Toa, they are lifeblood.",
+      "ko": "토아에게 그것들은 생명 줄과 같다네"
+    }
+  },
+  {
+    "translation": {
+      "en": "But before there was trouble, there was peace.",
+      "ko": "그 일이 일어나기 전 이곳은 평화로웠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "And maybe that’s where we should begin.",
+      "ko": "거기서부터 시작하는 게 좋겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "More than a thousand years ago,",
+      "ko": "수천 년도 훨씬 이전에"
+    }
+  },
+  {
+    "translation": {
+      "en": "this was a peaceful and vibrant place.",
+      "ko": "이곳은 평화롭고 활기찬 곳이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
+      "ko": "섬의 두 수호자 에키무와 그의 동생 마쿠타는"
+    }
+  },
+  {
+    "translation": {
+      "en": "harnessed the power of the elements and forged them into masks.",
+      "ko": "엘리먼트의 힘을 이용해 마스크를 만들었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "But Makuta grew jealous of his brother and hungry for the power.",
+      "ko": "마쿠타는 형을 질투했고 힘을 가지고 싶었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "So unbeknownst to his brother, Ekimu,",
+      "ko": "그래서 형 에키무가 모르는 사이"
+    }
+  },
+  {
+    "translation": {
+      "en": "the jealous Makuta broke a sacred law",
+      "ko": "질투에 눈이 먼 마쿠타는 신성한 법을 어기고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and created a mask that combined the power of all the elements.",
+      "ko": "모든 엘리먼트의 힘을 결합한 마스크를 만들었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He called it the Mask of Ultimate Power.",
+      "ko": "바로 '막강한 힘의 마스크'"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, as the power of the mask surged through Makuta,",
+      "ko": "하지만 마스크의 힘이 마쿠타를 휘감았고"
+    }
+  },
+  {
+    "translation": {
+      "en": "he became dark and evil.",
+      "ko": "그는 어둠과 악에 잠식됐지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Knowing he had to act quickly, Ekimu took the sacred hammer",
+      "ko": "이 사실을 눈치챈 에키무는 신성한 망치로"
+    }
+  },
+  {
+    "translation": {
+      "en": "and knocked the mask from the face of his brother.",
+      "ko": "동생의 얼굴에서 마스크를 떼어놨어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu saved Okoto, but the cost was great.",
+      "ko": "에키무는 오코토를 구했지만 대가는 컸지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both Ekimu and Makuta were plunged into endless sleep.",
+      "ko": "에키무와 마쿠타는 영원한 잠에 빠져들게 됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our ancestors laid Ekimu to rest.",
+      "ko": "선조들은 에키무를 관에 눕혔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The masks, too powerful to be trusted to mortals,",
+      "ko": "그리고 힘없는 우리에겐 벅찬 존재였던 마스크는"
+    }
+  },
+  {
+    "translation": {
+      "en": "were hidden away forever.",
+      "ko": "영원히 모습을 감추었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And after Ekimu was sealed into a secret tomb,",
+      "ko": "비밀의 무덤에 에키무가 봉인된 이후"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Mask Makers’ City was abandoned.",
+      "ko": "마스크 장인의 도시는 버려지고 말았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Although Makuta lay buried deep beneath our island,",
+      "ko": "그러나 비록 마쿠타가 섬 깊은 곳에 묻혔지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "his spirit remained powerful.",
+      "ko": "그의 정신은 여전히 강력했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He summoned dark forces to find his Mask and awaken him.",
+      "ko": "암흑 세력을 시켜 마스크를 되찾아 깨어나려 했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Makuta’s minions managed to awaken him,",
+      "ko": "마쿠타의 하수인들이 그를 깨우기라도 한다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "our island would be plunged into darkness.",
+      "ko": "우리 섬은 어둠의 늪에 빠지게 될 거였네"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we, the protectors,",
+      "ko": "그래서 우리 수호자들은"
+    }
+  },
+  {
+    "translation": {
+      "en": "gathered and performed an ancient rite.",
+      "ko": "한데 모여 고대 의식을 치렀어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their legend was carved into the walls of our temples,",
+      "ko": "영웅의 전설은 사원 벽에 새겨져 있었고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and their names were kept alive in our rituals.",
+      "ko": "그들의 이름은 우리의 의식 속에 살아있었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "These were the Toa.",
+      "ko": "그들이 바로 토아라네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it would be up to them to save Okoto.",
+      "ko": "오코토의 운명은 그들 손에 달렸어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa of the Jungle, Lewa,",
+      "ko": "정글의 토아 레와는 빠른 발 놀림과 재치로 유명하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "was fast on his feet and quick witted,",
+      "ko": "레와는 빠른 발 놀림과 재치로 유명하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "like the Jungle that gave him his power.",
+      "ko": "그의 힘의 원천인 정글처럼"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was constantly changing, and the most playful of the group.",
+      "ko": "쉴 새 없이 움직이는 무리 중 최고의 익살꾼이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The brooding Pohatu was the most serious of the group.",
+      "ko": "점잖은 성격의 포하투는 무리 중 가장 진지하다네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And while the Toa of Stone was rarely happy,",
+      "ko": "그러나 이 돌의 토아가 한번 화났다 하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was fearless and powerful.",
+      "ko": "저돌적이고 강력해지지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, the Toa of Ice, was fearless and strong,",
+      "ko": "두려움을 모르는 얼음의 토아, 코파카"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he could be as inflexible and cold",
+      "ko": "그에게 힘을 주는 엘리멘트의 속성대로"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the element that gave him power.",
+      "ko": "완강하고 차가워"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali was as powerful as the others,",
+      "ko": "갈리 역시 강인한 존재지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but as resilient as the Water that was her element.",
+      "ko": "물의 속성만큼 유연한 게 특성이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silent, powerful Onua, the Toa of Earth,",
+      "ko": "조용하지만 강한 흙의 토아, 오누아"
+    }
+  },
+  {
+    "translation": {
+      "en": "would provide a foundation.",
+      "ko": "조용하지만 강한 흙의 토아, 오누아 그는 흙이 주는 속성처럼 기반을 마련하는 데 능해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like the Earth that gave him power,",
+      "ko": "그는 흙이 주는 속성처럼 기반을 마련하는 데 능해"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was immovable and enduring.",
+      "ko": "듬직하며 참을성도 많지"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was Tahu, the Toa of Fire,",
+      "ko": "그리고 불의 토아, 타후는"
+    }
+  },
+  {
+    "translation": {
+      "en": "who saw himself as a leader",
+      "ko": "자신을 우두머리로 여긴다네"
+    }
+  },
+  {
+    "translation": {
+      "en": "even before he knew there were others like him.",
+      "ko": "다른 토아가 있다는 걸 알기 이전부터"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of their Protectors,",
+      "ko": "각각의 수호자의 도움으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa found the Masks of Power.",
+      "ko": "토아는 힘의 마스크를 찾아냈어"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
+      "ko": "그들이 마스크를 쓴 순간 고대의 예언이 실현됐지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time,",
+      "ko": "그리고 난생처음으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa experienced the elemental power that each of them was born to wield.",
+      "ko": "토아는 각 엘리멘트가 지닌 위력을 경험하게 되었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa had power, but they needed the wisdom of Ekimu.",
+      "ko": "토아는 힘을 가졌지만 에키무의 지혜가 필요했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only he could guide them to their true destiny.",
+      "ko": "그만이 진정한 운명으로 이끌어줄 수 있었으니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa’s search for Ekimu brought them here,",
+      "ko": "토아는 에키무를 찾으러 바로 이곳"
+    }
+  },
+  {
+    "translation": {
+      "en": "to the Mask Makers’ City.",
+      "ko": "마스크 장인의 도시로 왔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But when they arrived, it didn’t look like it does now.",
+      "ko": "그러나 그들이 도착했을 때 이곳은 지금과는 달랐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, it was a dark place, overrun with evil creatures.",
+      "ko": "악의 무리로 뒤덮인 어둠의 도시였지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And around every corner lay a trap!",
+      "ko": "발길 닿는 곳마다 덫으로 가득했고"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time in a thousand years,",
+      "ko": "그리하여 수천 년 만에 처음으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "the footsteps of the living echoed through the Mask Makers’ City",
+      "ko": "수 세기간 버려졌던 마스크 장인의 도시에"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we abandoned so many centuries before.",
+      "ko": "살아있는 자들의 발소리가 울려 퍼졌어"
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one,",
+      "ko": "하나둘씩"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa vanquished the creatures Makuta had sent to stop them,",
+      "ko": "토아는 마쿠타가 보낸 수하들을 격파해나갔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "finally defeating the fearsome Skull Scorpions",
+      "ko": "그리곤 마침내 무시무시한 스컬 스콜피온까지 무찔러"
+    }
+  },
+  {
+    "translation": {
+      "en": "and reaching Ekimu’s tomb.",
+      "ko": "에키무의 무덤에 다다라서야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa realised that their history and our planet's were entwined.",
+      "ko": "자신들의 역사와 이 행성이 서로 얽혀있는 걸 깨달았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they looked upon the sleeping Mask Maker,",
+      "ko": "그리고 잠든 마스크 장인을 지켜보다가"
+    }
+  },
+  {
+    "translation": {
+      "en": "somehow, they knew how to awaken him.",
+      "ko": "결국 그를 깨우게 되었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six heroes had travelled far into the ancient city,",
+      "ko": "여섯 영웅은 먼 여행 끝에 고대 도시로 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeating many enemies.",
+      "ko": "많은 적을 물리쳤지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "But only by retrieving the Mask of Creation",
+      "ko": "창조의 마스크를 되찾아와야만"
+    }
+  },
+  {
+    "translation": {
+      "en": "would Ekimu stand a chance against his brother.",
+      "ko": "에키무가 동생과 맞설 수 있었네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makuta’s most powerful minions fought",
+      "ko": "마쿠타의 강력한 하수인들은"
+    }
+  },
+  {
+    "translation": {
+      "en": "to keep the Toa from the Mask Makers’ forge.",
+      "ko": "마스크 장인의 대장간을 지키기 위해 싸웠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the Toa were ready. Or so they thought.",
+      "ko": "하지만 토아는 자신감이 넘쳤고"
+    }
+  },
+  {
+    "translation": {
+      "en": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
+      "ko": "에키무의 마스크를 없애려는 스컬 그라인더를 찾았지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the creature was as cunning as he was powerful,",
+      "ko": "그는 강한 만큼이나 교활한 놈이었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, knowing the Toa would stop him from destroying the mask,",
+      "ko": "그가 마스크를 노리는 토아의 계획을 눈치채곤"
+    }
+  },
+  {
+    "translation": {
+      "en": "he put it on and felt its power surge through him.",
+      "ko": "마스크를 얼굴에 쓰자 그 힘이 온몸에 차올랐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Filled with the Mask Maker’s power,",
+      "ko": "마스크 장인의 힘을 지닌"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Skull Grinder knocked the masks from the faces of the Toa.",
+      "ko": "스컬 그라인더는 토아들의 마스크를 벗겨냈어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Without their masks, the heroes had lost their power.",
+      "ko": "마스크를 잃은 영웅들은 힘도 잃어버렸지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they knew they must fight on, even if victory seemed impossible.",
+      "ko": "하지만 이 불가능한 싸움을 멈출 수는 없었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The heroes fought bravely until they had nothing more to give.",
+      "ko": "영웅들은 마지막 순간까지 용감하게 싸웠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But their valiant effort gave Ekimu the time he needed.",
+      "ko": "그들의 용맹함은 에키무에게 시간을 벌어주었고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now wielding his ancient hammer, Ekimu took back the Mask of Creation",
+      "ko": "그는 신성한 망치를 휘둘러 창조의 마스크를 빼앗았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "and regained the power he once had.",
+      "ko": "그리고 원래의 힘을 되찾았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six Toa had done their duty,",
+      "ko": "여섯 토아는 에키무를 깨우고"
+    }
+  },
+  {
+    "translation": {
+      "en": "awakened Ekimu and retrieved the Mask of Creation.",
+      "ko": "창조의 마스크를 되찾아오는 임무를 완수하게 되었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "But evil was not defeated.",
+      "ko": "그러나 악의 무리는 물러서지 않았지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their true fate was still waiting, deep inside the darkness.",
+      "ko": "그들의 운명은 어둠 속 깊은 곳에서 때를 기다렸어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prophecy had brought the Toa to Okoto.",
+      "ko": "예언은 토아를 오코토로 불러들였고"
+    }
+  },
+  {
+    "translation": {
+      "en": "But what they’d experienced made them more than just heroes.",
+      "ko": "이곳에서의 경험으로 그들은 영웅 이상의 존재가 됐지"
+    }
+  },
+  {
+    "translation": {
+      "en": "They have become legends.",
+      "ko": "그야말로 전설이 된 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the challenges that lie ahead are huge,",
+      "ko": "하지만 그들 앞에 놓인 길은 매우 험하다네"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the future of our entire world is at stake.",
+      "ko": "전 세계의 운명은 바람 앞에 놓인 등불이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their journey beings anew.",
+      "ko": "그들의 여정은 다시 시작될 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "With their new armour and weapons, forged by the Mask Maker himself,",
+      "ko": "마스크 장인이 손수 만든 새 갑옷과 무기를 지니고 임무를 계속해 나갈 걸세"
+    }
+  },
+  {
+    "translation": {
+      "en": "the quest continues.",
+      "ko": "새 갑옷과 무기를 지니고 임무를 계속해 나갈 걸세"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the Toa begin the Search for One.",
+      "ko": "바로 하나가 되기 위한 여정이지"
+    }
+  }
+]

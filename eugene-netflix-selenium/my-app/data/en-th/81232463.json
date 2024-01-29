@@ -1,0 +1,6446 @@
+[
+  {
+    "translation": {
+      "en": "[clerk] Road trip?",
+      "th": "ไปเที่ยวเหรอคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] No, moving.",
+      "th": "ย้ายบ้านค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your card's been declined.",
+      "th": "บัตรรูดไม่ผ่านค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's try this one.",
+      "th": "ลองใบนี้ดู"
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] Jake, baby, please help me.",
+      "th": "เจ้ค ที่รัก ช่วยฉันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Come on.",
+      "th": "ฮึบไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, did I scare you?",
+      "th": "อ้าว แม่ทำให้กลัวเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Text me.",
+      "th": "ส่งข้อความมานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[girl] Yeah.",
+      "th": "ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye.",
+      "th": "บาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just so you know, you're ruining my life.",
+      "th": "แม่รู้ไว้นะ แม่กำลังทำลายชีวิตหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, thank you for sharing. Where's your uncle?",
+      "th": "ขอบคุณนะที่บอกให้รู้ น้าของลูกล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. The string I tied to him broke.",
+      "th": "ไม่รู้ ไม่ได้มัดขาไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chill with the smart mouth, okay?",
+      "th": "เพลาๆ ปากหน่อยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoo! Told you. Right on time. Y'all ready?",
+      "th": "บอกแล้วไง ตรงเวลาเป๊ะ พร้อมกันหรือยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Let's ride. Let's make some miles.",
+      "th": "ไปกันเถอะ ออกเดินทางได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What y'all waiting on? -Where you been?",
+      "th": "- รออะไรกันอยู่ล่ะ - หายไปไหนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just saying some last-minute goodbyes.",
+      "th": "ไปบอกลาคนรู้จักน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? 'Cause you smell like you've been smoking weed.",
+      "th": "จริงเหรอ แต่กลิ่นเหมือนไปดูดกัญชามานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? You tripping. That's my new body spray.",
+      "th": "บ้าเหรอ เพ้อเจ้อไปเรื่อย นี่น้ำหอมกลิ่นใหม่น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Turn out your pocket. -Hey!",
+      "th": "- ล้วงกระเป๋าให้ดูสิ - นี่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is this? TSA? Come on. I ain't getting on no plane.",
+      "th": "อะไรเนี่ย หน่วยความปลอดภัยขนส่งเหรอ น้อยๆ หน่อย นี่ไม่ได้ขึ้นเครื่องบินนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And body search is a violation of my basic human rights.",
+      "th": "อยู่ๆ จะมาค้นตัว นี่ละเมิดสิทธิมนุษยชนขั้นพื้นฐานนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie, you promised. No drugs and no weed for the entire trip.",
+      "th": "เรจจี้ นายสัญญาแล้ว ห้ามเล่นทั้งยาทั้งกัญชาตลอดทั้งทริป"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I intend to honor that pledge.",
+      "th": "ฉันรักษาคำพูดแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mmm-hmm. -I do.",
+      "th": "จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You better.",
+      "th": "ขอให้จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Entire trip?",
+      "th": "ทั้งทริปเลยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Entire.",
+      "th": "ทั้งทริปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Entire trip.",
+      "th": "ทั้งทริป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good thing the trip ain't started yet.",
+      "th": "ดีนะที่ทริปนี้ยังไม่เริ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] Boo!",
+      "th": "แฮ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cameron, the train's leaving the station in two minutes.",
+      "th": "คาเมรอน อีกสองนาทีล้อหมุนแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm not going. -I'm sorry to hear that.",
+      "th": "- ผมไม่ไป - แย่จังเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I guess you're moving in with the next family that lives here?",
+      "th": "จะอยู่ที่นี่กับครอบครัวอื่นที่จะย้ายเข้าเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if they don't like stinky-head boy smell?",
+      "th": "แล้วถ้าครอบครัวนั้นไม่ชอบเด็กดื้อล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll sleep in Dad's bed.",
+      "th": "ผมจะนอนเตียงพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're picking it up in 20 minutes.",
+      "th": "อีก 20 นาทีคนงานก็มายกไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever.",
+      "th": "ก็แล้วแต่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, little man. We got to go.",
+      "th": "ไม่เอาน่า หนุ่มน้อย เราต้องไปแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, Reg.",
+      "th": "โย่ น้าเรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey. -Come on, just give me a hit.",
+      "th": "- ไง - ขอหนูดูดด้วย เร็วๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now what kind of uncle shares a joint with his teenage niece?",
+      "th": "น้าที่ไหนเขาจะยื่นกัญชาให้หลานวัยรุ่นดูดล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The kind sitting right in front of me.",
+      "th": "น้าที่นั่งตรงหน้าหนูนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "One and done.",
+      "th": "ครั้งเดียวพอนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "th": "ขอบคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puff and pass.",
+      "th": "ดูดแล้วส่งมาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I assume you're bringing a back-up supply.",
+      "th": "น้าพกเสบียงไปด้วยใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] No, it's my last jay until we get to Houston.",
+      "th": "ไม่ นี่มวนสุดท้ายแล้ว จนกว่าจะถึงฮูสตัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Promised your mom.",
+      "th": "สัญญากับแม่เธอไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, being a man of your word?",
+      "th": "น้ารักษาคำพูดก็เป็นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't be giving me no attitude, okay? And don't be giving it to your mom.",
+      "th": "อย่ามาเปรี้ยวกับน้า อย่าไปเปรี้ยวกับแม่เขาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why? It's her fault we have to move.",
+      "th": "ทำไมล่ะ ที่เราต้องย้ายก็ความผิดแม่นั่นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nah. Nah. Listen, shit happens, Kelly.",
+      "th": "ไม่ใช่หรอก เรื่องร้ายๆ มันเกิดกันได้ เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ever since your dad died,",
+      "th": "ตั้งแต่พ่อเธอตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "your mom's been doing everything in her power to hold this family together.",
+      "th": "แม่เธอก็ทำสุดความสามารถ เพื่อประคับประคองครอบครัวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's paying for all this… It just got to be too much.",
+      "th": "แม่เขารับผิดชอบค่าใช้จ่ายทั้งหมด มันเกินกำลังเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing feels right without him.",
+      "th": "พอไม่มีพ่อแล้วรู้สึกโหวงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "th": "น้าเข้าใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Might not be there by your side ♪",
+      "th": "(เคลลี่ คาเมรอน)"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, Ma. -Hey, baby. How you doing?",
+      "th": "- ไงคะ แม่ - ไงจ๊ะลูก เป็นไงบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Y'all on the road yet? -No, not yet. Just, um…",
+      "th": "- เดินทางกันหรือยัง - ยังเลย กำลัง…"
+    }
+  },
+  {
+    "translation": {
+      "en": "taking one last look around the house before we go.",
+      "th": "ดูบ้านหลังนี้เป็นครั้งสุดท้ายน่ะค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How long's the drive? -Three days.",
+      "th": "- ต้องเดินทางกี่วันเนี่ย - สามวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I figured two nights on the road.",
+      "th": "ค้างคืนระหว่างทางสองวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be at your place, uh, probably by Friday.",
+      "th": "แล้วก็น่าจะไปถึงบ้านแม่ก่อนวันศุกร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Call me if you need anything.",
+      "th": "ถ้าขาดเหลืออะไรก็โทรมานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, I'll call you on the way. -Travel safe.",
+      "th": "- ค่ะ ระหว่างทางจะโทรหา - เดินทางปลอดภัยจ้ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mmm-hmm. -I love you.",
+      "th": "แม่รักลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, I love you too. -Bye, baby.",
+      "th": "- ค่ะ หนูก็รักแม่ - บายจ้ะ ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye.",
+      "th": "บายค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam, come on! Get your scrawny butt out here.",
+      "th": "แคม เร็วเข้า ก้าวขาเล็กๆ นั่นให้ไว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, we not stopping between here and Arizona.",
+      "th": "จากนี่ไปถึงแอริโซนา เราจะไม่หยุดพักนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So if you got to go, now is the time. -Mom, can we just leave?",
+      "th": "- ถ้าจะเข้าห้องน้ำ ให้เข้าตอนนี้ - ไปกันเลยเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, you know the drill. Come on, y'all. Come on.",
+      "th": "ไม่เอาน่า ลูกก็รู้ธรรมเนียม มาเร็ว ทุกคนเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bring it in, let's get together.",
+      "th": "มานี่ มารวมกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do we have to?",
+      "th": "ต้องทำด้วยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't act like family, I will leave you behind. Promise?",
+      "th": "- ให้ความร่วมมือหน่อย ไม่งั้นทิ้งไว้นี่นะ - จริงป่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "มาเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't. Don't. Don't.",
+      "th": "อย่าๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Heavenly Father…",
+      "th": "พระบิดาผู้สถิตในสวรรค์…"
+    }
+  },
+  {
+    "translation": {
+      "en": "please bless and protect us on our journey",
+      "th": "โปรดประทานพรและปกป้องเราในการเดินทาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "to our new life.",
+      "th": "สู่ชีวิตใหม่ของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "In your name, we pray. Amen.",
+      "th": "ขออธิษฐานในนามของพระองค์ อาเมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Amen. -Amen.",
+      "th": "- อาเมน - อาเมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Amen. Amen.",
+      "th": "อาเมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do we have to go?",
+      "th": "เราต้องไปด้วยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please tell Señor Cross we are grateful for his assistance.",
+      "th": "ฝากขอบคุณมิสเตอร์ครอสด้วยที่คอยช่วยเหลือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Cross will be happy to see this.",
+      "th": "พอมิสเตอร์ครอสได้เห็น ต้องดีใจแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "We take all the risk,",
+      "th": "เราเป็นคนเสี่ยงแท้ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Cross gets to keep all the profit. Seem fair to you?",
+      "th": "แต่มิสเตอร์ครอสได้กำไรไว้คนเดียว แกว่ายุติธรรมเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't like the arrangement, talk to Mr. Cross.",
+      "th": "ถ้าไม่ชอบข้อตกลงก็ไปคุยกับมิสเตอร์ครอสสิวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Otherwise, shut the fuck up, bro. [laughing]",
+      "th": "ไม่งั้นก็อยู่เงียบๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You do this and you're a dead man.",
+      "th": "ลองสิ แกได้เป็นศพแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Cross gonna--",
+      "th": "มิสเตอร์ครอสจะ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck Mr. Cross.",
+      "th": "ช่างหัวแม่งสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo.",
+      "th": "โย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Police? Where we at?",
+      "th": "อะไร ตำรวจเหรอ ถึงไหนแล้วเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are we there? -Mom, what's wrong?",
+      "th": "- ถึงแล้วเหรอ - มีอะไรเหรอแม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody has said a word in three and a half hours.",
+      "th": "สามชั่วโมงครึ่งที่ผ่านมา ไม่มีใครปริปากเลยสักคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, hell no.",
+      "th": "ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, and?",
+      "th": "ค่ะ แล้วยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I was hoping we could be like other families",
+      "th": "แม่อยากให้เราเป็นเหมือนครอบครัวอื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "and converse. You know, talk.",
+      "th": "คุยกัน แลกเปลี่ยน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[scoffs] No. -Why?",
+      "th": "- ไม่เอา - ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because that's what families do on car trips.",
+      "th": "เพราะครอบครัวที่ไหนก็ทำแบบนั้น เวลานั่งรถไปด้วยกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I know, right? It's crazy.",
+      "th": "แม่เข้าใจ ลูกไม่เก็ต"
+    }
+  },
+  {
+    "translation": {
+      "en": "But people joke, they sing songs. They…",
+      "th": "แต่คนอื่นเขาเล่นมุกกัน ร้องเพลงกัน เล่น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "play car games.",
+      "th": "เล่นเกมบนรถกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, that's what they do in the movies.",
+      "th": "ไม่ นั่นมันในหนัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, uh, Mom, I think you've mistaken this for 1983.",
+      "th": "ใช่ แม่เข้าใจผิดหรือเปล่า นี่ไม่ใช่ปี 1983 นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. Everybody put your phones away. I'm serious.",
+      "th": "เอาล่ะ ทุกคนวางโทรศัพท์ลง แม่เอาจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "God! Mom…",
+      "th": "แม่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really?",
+      "th": "เอาจริงดิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me explain. That phone?",
+      "th": "ขออธิบายหน่อยนะ โทรศัพท์นั่นน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a privilege, Kelly. Don't give me a reason to take it away.",
+      "th": "แม่ยอมให้ใช้เป็นการพิเศษนะ เคลลี่ อย่าหาเหตุผลให้แม่ริบคืนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine.",
+      "th": "ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's have a conv--",
+      "th": "ทีนี้เรามาคุย…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry. My bad.",
+      "th": "โทษที ไม่ตั้งใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who wants to go first?",
+      "th": "ใครอยากเริ่มก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, I'll start.",
+      "th": "โอเค ผมเริ่มก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "There you go, my man. All right, go, Cam.",
+      "th": "ต้องอย่างนั้น เริ่มเลย แคม"
+    }
+  },
+  {
+    "translation": {
+      "en": "My declarative statement is",
+      "th": "ผมขอออกแถลงการณ์ว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "moving to Texas sucks.",
+      "th": "การย้ายไปเท็กซัสห่วยแตก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] I agree. Look at that! End of conversation, right?",
+      "th": "เห็นด้วย ตามนั้น จบบทสนทนา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That's right. -[woman] You got that. Whatever.",
+      "th": "- ใช่แล้ว - ก็ได้ ตามสบาย เชิญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bunch of lightweights.",
+      "th": "มีแต่พวกอ่อนหัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know how many times I had to move growing up?",
+      "th": "รู้ไหมว่าตอนเป็นเด็กแม่ต้องย้ายบ้านกี่ครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cam, Kelly, Reggie] 27. -27 different military bases in 17 years.",
+      "th": "ยี่สิบเจ็ดครั้ง ใช่ ฐานทัพ 27 ฐาน ในระยะเวลา 17 ปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, Mom, we know.",
+      "th": "ค่ะ แม่ เรารู้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your dad was an army colonel. -[woman] But he was a great dad.",
+      "th": "- คุณตาเป็นผู้พันในกองทัพ - แต่ตาเขาเป็นพ่อที่ดีนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He taught us how to hunt, how to shoot, how to fight, and when not to.",
+      "th": "สอนให้พวกแม่ล่าสัตว์ ยิงปืน ต่อสู้ สอนว่าเมื่อไหร่ต้องไม่สู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "All facts.",
+      "th": "เรื่องจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Especially for you. -[Reggie chuckles]",
+      "th": "โดยเฉพาะกับนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, look. I know how you feel.",
+      "th": "ฟังนะ แม่เข้าใจว่าลูกรู้สึกยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whenever my dad asked us to move, I got angry too.",
+      "th": "เวลาตาบอกให้พวกแม่ย้าย แม่เองก็โกรธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Question is, do any Black people live in Houston",
+      "th": "คำถามคือ ที่ฮูสตันมีคนดำอยู่บ้างหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "or will it just be us?",
+      "th": "หรือว่าจะมีแค่เรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do any Black people live in Houston? What?",
+      "th": "ฮูสตันมีคนดำไหมเหรอ ถามอะไรอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't heard of Megan Thee Stallion? Yes, you have. I know you have.",
+      "th": "ไม่รู้จักเมแกน ธี สตัลเลียนเหรอ ต้องรู้จักสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How about Destiny's Child? -Who was they?",
+      "th": "- แล้วเดสทินี่ส์ไชลด์ล่ะ - ใครเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Willie D! -Scarface.",
+      "th": "- วิลลี่ดี - สการ์เฟซ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Scarface, see? Geto Boys.",
+      "th": "สการ์เฟซ ใช่ เกโต้บอยส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know them. -Come on.",
+      "th": "- ไม่เห็นรู้จักเลย - ไม่เอาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are those people?",
+      "th": "ที่ว่ามาน่ะใครเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You need to study hip-hop. Anyway… -Too young for that.",
+      "th": "- ศึกษาประวัติศาสตร์ฮิปฮิปบ้างสิ เอาเถอะ… - ยังเด็กไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are a lot of Black people in Houston.",
+      "th": "ที่ฮูสตัสมีคนดำอยู่เยอะมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa, hey. Wait, wait, wait. Sis, sis. Eyes ahead. Eyes ahead.",
+      "th": "โอ๊ะ ช้าๆ พี่สาว มองทางด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Slow down. Slow down.",
+      "th": "ช้าหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. What is this?",
+      "th": "นี่มันอะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Looks like a detour.",
+      "th": "เหมือนจะต้องอ้อมนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ah, what the hell is this? -[worker] Slow down, please.",
+      "th": "- นี่มันอะไรกัน - ช้าหน่อยครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Detour, next 85 miles.\"",
+      "th": "\"ทางอ้อม 136 กิโลเมตร\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[worker] Go over by the shoulder.",
+      "th": "ออกไหล่ทางไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is gonna cost us some time.",
+      "th": "แบบนี้เสียเวลาแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Knew I shoulda brought my weed.",
+      "th": "ว่าแล้วว่าน่าจะเอากัญชามา"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is some serious Area 51 shit out here.",
+      "th": "นี่ทางไปแอเรีย 51 หรือยังไงเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all know what happens next, right?",
+      "th": "รู้ใช่ไหมว่าจะเกิดอะไรขึ้นต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "The car's gonna stall out, then we'll get hit by a tractor beam,",
+      "th": "รถจะดับ แล้วจะมีลำแสงฉายครอบเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and lifted up in a UFO.",
+      "th": "แล้วเราก็ถูกดูดขึ้นยูเอฟโอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God.",
+      "th": "- พระเจ้า - ว่าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Next, we'll be strapped down on our stomachs",
+      "th": "ต่อไปเราจะถูกมัดคว่ำหน้าไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "with big-eyed aliens probing our ass.",
+      "th": "มีเอเลี่ยนตาโตส่องดูตูดเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They won't do that to you, Uncle Reggie. -Why not?",
+      "th": "- เอเลี่ยนไม่ทำกับน้าแบบนั้นหรอก - ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause the aliens only want to study intelligent life-forms.",
+      "th": "เพราะเอเลี่ยนอยากศึกษาแต่สิ่งมีชีวิตที่ฉลาดๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hear what I'm saying? -Ooh! Burn!",
+      "th": "- น้าเก็ตป่ะ - แสบเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? Because you're my nephew, I'll let that slide.",
+      "th": "เห็นว่าเป็นหลานหรอกนะ จะปล่อยไปสักครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren, he's too smart for his own good.",
+      "th": "เบรน ฉลาดนักมักเป็นภัยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you gonna do with this brain power? -Tell me about it.",
+      "th": "- หัวแหลมแบบนี้จะรับมือยังไงล่ะ - ฉันเจอมาเยอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Intelligence can be such a burden sometimes.",
+      "th": "บางทีความฉลาดก็เป็นพิษเป็นภัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Especially to the people around you. [Reggie] Wait, wait, wait.",
+      "th": "- โดยเฉพาะกับคนรอบข้าง - เดี๋ยวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this Throw Shade at Reggie Day? Y'all ganging up on me.",
+      "th": "นี่วันสามัคคีกันเผาน้าเรจจี้เหรอ นี่รวมหัวกันเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, sir. -Listen.",
+      "th": "- เปล่าครับ - ฟังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. No more Snickers for none of y'all.",
+      "th": "พอ น้าไม่ซื้อรองเท้าให้อีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey! -[Cam] I'm sorry!",
+      "th": "- น้า - ผมขอโทษ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Reggie] No. Hell nah. -[Kelly] Listen.",
+      "th": "- ไม่เอา ไม่ - ฟังก่อนสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -You know we love you. Okay?",
+      "th": "- ไม่ฟัง - น้าก็รู้ว่าเรารักน้า โอเคนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're our teddy bear. -Get off. Get off me.",
+      "th": "- น้าเป็นตุ๊กตาหมีของเรา - ไปให้พ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever. I just ain't lived up to my full potential yet.",
+      "th": "ช่างเถอะ นี่น้ายังไม่ได้ ใช้ชีวิตแบบเต็มพิกัดเฉยๆ หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "One day, I'm going to surprise every damn body.",
+      "th": "สักวัน น้าจะทำให้ทุกคนต้องประหลาดใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even myself.",
+      "th": "ให้น้าเองประหลาดใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[clerk] You get detoured off the interstate?",
+      "th": "ใช้ทางอ้อมขับข้ามรัฐเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[clerk] You intend to stop and stay around here?",
+      "th": "กะจะหยุดพักแถวนี้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why, is that a problem?",
+      "th": "ทำไม มีปัญหาอะไรเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, ma'am, not for me.",
+      "th": "เปล่าครับ ผมน่ะไม่มีหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, Mom, can I have a Red Bull? -No. We're leaving.",
+      "th": "- ซื้อเรดบูลได้ไหมคะ - ไม่ได้ ไปกันได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Why?",
+      "th": "อ้าว ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is the rush?",
+      "th": "ไม่เห็นต้องรีบเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom! How many dead bugs did I find on the windshield? Guess.",
+      "th": "ทายสิว่าผมเจอศพแมลงกี่ตัวที่กระจกหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh! Just… throw that away. Go get in the car right now.",
+      "th": "เอาไป… โยนทิ้งไป ขึ้นรถได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell?",
+      "th": "อะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitch!",
+      "th": "อีบ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Reggie, wake up. -[man 1] Open up, I'm right here.",
+      "th": "- เรจจี้ ตื่น - เปิดสิ ฉันอยู่นี่ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pull over. Come on, get out.",
+      "th": "จอดรถ เร็วเข้า ออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sis, what you do to piss the good old boys off, huh?",
+      "th": "พี่ ไปทำอะไรให้คนดีพวกนี้โกรธมาล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eyes forward, just ignore 'em.",
+      "th": "มองข้างหน้า ไม่ต้องไปสนใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "…like you can't see me. I'm right here.",
+      "th": "ทำท่าเหมือนมองไม่เห็น ฉันอยู่นี่ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What do they want? -I don't know.",
+      "th": "- พวกนั้นต้องการอะไร - แม่ไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Don't worry.",
+      "th": "ไม่ต้องห่วงหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] You're kidding me. -What the hell?",
+      "th": "- ล้อเล่นน่า - อะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's my fault, I'm sorry. -What are you talking about?",
+      "th": "- ความผิดหนูเอง หนูขอโทษ - ลูกพูดอะไรของลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were… They were hitting on me at the gas station and being nasty,",
+      "th": "ที่ปั๊มน้ำมัน พวกนั้นมาจีบหนู ทำท่าลามก"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I gave 'em the finger.",
+      "th": "หนูเลยยกนิ้วกลางให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Girl, are you stupid?",
+      "th": "โง่รึเปล่าเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would you do that? Didn't you see where we were?",
+      "th": "ทำแบบนั้นทำไม ไม่เห็นเหรอว่าเราอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Hey!",
+      "th": "เฮ่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] I swear to God…",
+      "th": "สาบานต่อพระเจ้า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're gone, it's fine.",
+      "th": "ไปแล้ว ไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kelly, don't you ever do that again.",
+      "th": "เคลลี่ อย่าทำแบบนั้นอีกเชียวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I know. -It's a different world out here.",
+      "th": "- รู้แล้ว - ที่นี่ไม่เหมือนที่ที่เราเคยอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, okay, I know.",
+      "th": "โอเค หนูรู้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry.",
+      "th": "ขอโทษค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, hell no.",
+      "th": "ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, what's going on?",
+      "th": "แม่ เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know, but we're not waiting to find out.",
+      "th": "ไม่รู้เหมือนกัน แต่เราไม่อยู่หาคำตอบหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Oh, they playing games.",
+      "th": "พวกมันอยากเล่นเกม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Move, damn it!",
+      "th": "หลบไปสิ บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, shit. Yeah, we in it now.",
+      "th": "เวรเอ๊ย ปัญหามาเยือนแล้วล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie, stay in the car.",
+      "th": "เรจจี้ อยู่ในรถนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, I won't stay in the car and let these lanky-ass white boys start shit.",
+      "th": "ฉันจะไม่นั่งเฉยๆ ปล่อยให้โย่งผิวขาวนี่หาเรื่องหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Please, let me handle it. -Hell no.",
+      "th": "- ขอร้องล่ะ ให้ฉันจัดการเอง - จะบ้าเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's not a lot I do well, but this, I do damn well.",
+      "th": "ฉันน่ะ เก่งแค่ไม่กี่เรื่องก็จริง แต่เรื่องนี้ฉันโคตรเก่งเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! You explode, then they react? Then what's gonna happen to my--",
+      "th": "อย่า นายระเบิดอารมณ์ พวกนั้นโต้กลับ แล้วจะเกิดอะไรขึ้นกับ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please. I can't take that risk.",
+      "th": "ขอล่ะ ฉันไม่อยากให้มันเป็นอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please.",
+      "th": "ขอร้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want me to call 911?",
+      "th": "ให้ผมโทรหาตำรวจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] No. No. Your mom is going to handle it.",
+      "th": "ไม่ต้อง แม่เขาจะจัดการเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please move your truck,",
+      "th": "ช่วยเอารถหลบไปที"
+    }
+  },
+  {
+    "translation": {
+      "en": "and let us go by.",
+      "th": "ให้เราผ่านไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You coulda killed us, lady.",
+      "th": "เมื่อกี้เธอเกือบฆ่าเราแน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You endangered our lives.",
+      "th": "ทำให้ชีวิตเราตกอยู่ในอันตราย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, hell no. -Reggie.",
+      "th": "- ไม่เอาด้วยล่ะ - น้าเรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, boys. You've had your fun.",
+      "th": "โอเค หนุ่มๆ สนุกกันพอแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now what do I have to do to get you to move that truck?",
+      "th": "ต้องให้ฉันทำยังไง ถึงจะยอมย้ายรถ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Apology'd be nice.",
+      "th": "ขอโทษกันหน่อยก็คงดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, fine.",
+      "th": "โอเค ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I apologize.",
+      "th": "ฉันขอโทษ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We good?",
+      "th": "หายกันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't just say it.",
+      "th": "พูดลอยๆ ได้ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got to mean it.",
+      "th": "ต้องขอโทษจากใจสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unless you want us to make your whole family apologize.",
+      "th": "หรืออยากให้เราบังคับให้ขอโทษทั้งครอบครัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't you come near my family. -Then say it like you mean it.",
+      "th": "- อย่าเข้าใกล้ครอบครัวฉันนะ - งั้นก็ขอโทษจากใจหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I apologize…",
+      "th": "ฉันขอโทษ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "for endangering your lives.",
+      "th": "ที่ทำให้ชีวิตพวกนายตกอยู่ในอันตราย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our white lives.",
+      "th": "ชีวิตเราคนผิวขาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your white-- -Louder.",
+      "th": "- ชีวิตคนผิว… - ดังๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I apologize…",
+      "th": "ฉันขอโทษ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "for endangering…",
+      "th": "ที่ทำอันตรายให้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "your white lives.",
+      "th": "ชีวิตพวกนายคนผิวขาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Apology accepted.",
+      "th": "ยกโทษให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] See how easy that was?",
+      "th": "เห็นไหม ของง่ายๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, lady, you know we was just fucking with you.",
+      "th": "เจ๊ เราก็แค่หยอกเล่นน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What, Reggie, you got something to say? You got a comment now that it's all over?",
+      "th": "เรจจี้ มีอะไรอยากพูดเหรอ มามีความคิดเห็นเอาตอนจบเรื่องนี่เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nah, I'm good.",
+      "th": "เปล่า ไม่มีอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anybody else?",
+      "th": "ใครอยากพูดอะไรไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Uh, Mom… -What?",
+      "th": "- แม่… - อะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can make it to Tucson by seven o'clock.",
+      "th": "ก่อนทุ่มนึง เราน่าจะถึงทูซอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tuscon?",
+      "th": "ทูซอนเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, it's two hours and ten minutes.",
+      "th": "ใช่ อีกสองชั่วโมงสิบนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll find us a motel.",
+      "th": "ผมจะหาที่พักให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cheapest one.",
+      "th": "เอาที่ที่ถูกสุดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We on a budget.",
+      "th": "เรามีงบจำกัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] You all right?",
+      "th": "แม่ไม่เป็นไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "แจ๋ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you know about this? -[Kelly] I like this song.",
+      "th": "- รู้จักเพลงนี้ไหม - หนูชอบเพลงนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom? -Mmm-hmm?",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those guys today, were they going to hurt us?",
+      "th": "พวกที่เราเจอวันนี้ เขาจะทำร้ายเราหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think so.",
+      "th": "แม่ว่าไม่หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were mean, stupid white boys",
+      "th": "ก็แค่เด็กผิวขาวโง่ๆ เถื่อนๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "doing what mean, stupid white boys do.",
+      "th": "ทำอะไรตามประสาเด็กผิวขาวโง่ๆ เถื่อนๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are we homeless people?",
+      "th": "เราเป็นคนไร้บ้านเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause technically, we don't have a home.",
+      "th": "ก็ตามหลักแล้ว เราไม่มีบ้าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Listen, little man.",
+      "th": "ฟังนะ หนุ่มน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not your job to worry about things like that.",
+      "th": "ลูกไม่มีหน้าที่มากังวลกับเรื่องแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's your job to be a kid and it's my job to be your mom,",
+      "th": "หน้าที่ของลูกคือเป็นเด็กคนหนึ่ง ส่วนแม่จะทำหน้าที่แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "and make sure that you and your sister are taken care of. Okay?",
+      "th": "ดูแลลูกกับพี่เขาเอง โอเคนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will we ever have a home again?",
+      "th": "เราจะมีบ้านกันอีกไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will.",
+      "th": "มีสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, you know, a house ain't a home.",
+      "th": "แต่นี่ บ้านน่ะ ไม่ใช่ผนังกับหลังคานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Home is us.",
+      "th": "พวกเรานี่แหละบ้าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, Kelly, Reggie, me.",
+      "th": "ลูก เคลลี่ เรจจี้ แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "As long as we're together, none of us are ever homeless.",
+      "th": "ตราบใดที่เราอยู่ด้วยกัน ก็ไม่มีใครไร้บ้านหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[voice breaking] I miss Dad.",
+      "th": "ผมคิดถึงพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, come here.",
+      "th": "มานี่สิจ๊ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. Come on.",
+      "th": "แม่เข้าใจ มานี่มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here, son.",
+      "th": "โอ๋ลูก โอ๋"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay, it's all right. I know. We all miss him too.",
+      "th": "ไม่เป็นไรนะ ไม่เป็นไร แม่เข้าใจ เราทุกคนก็คิดถึงพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's all right.",
+      "th": "ไม่เป็นไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I hate this. Can I just sleep in the car or something?",
+      "th": "หนูไม่ชอบ ขอไปนอนในรถไม่ได้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why? Look, this room is ugly and there's zero privacy.",
+      "th": "ทำไมล่ะ ห้องนี้อุบาทว์จะตาย ไม่เป็นส่วนตัวด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She wants to FaceTime Zac and be kissy. -Shut it, pipsqueak.",
+      "th": "- พี่เขาอยากเฟซไทม์จุ๊บๆ กับแซ็คน่ะ - หนวกหู ไอ้เปี๊ยก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom, she called me a pipsqueak. -Yeah, you are.",
+      "th": "- แม่ พี่เขาเรียกผมว่าไอ้เปี๊ยก - ก็เปี๊ยกจริงนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're, like, half the size you should be at your age.",
+      "th": "คนอายุเท่านายเขาโตกว่านี้ตั้งสองเท่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You too! -You're smaller than me!",
+      "th": "- พี่ก็เปี๊ยก - นายตัวเล็กกว่าฉันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, enough!",
+      "th": "เอ้า พอได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Chubby cheeks. -No, I'm not!",
+      "th": "- แก้มยุ้ยเอ๊ย - ไม่ยุ้ยสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all are getting on my last nerve.",
+      "th": "เส้นประสาทแม่จะแตกแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Family announcement.",
+      "th": "ประกาศในครอบครัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody, I mean, nobody go in that bathroom for at least two hours.",
+      "th": "ห้ามใครเข้าไปในห้องน้ำอย่างน้อยสองชั่วโมง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Probably smart to wear a hazmat suit too. Just a fair warning.",
+      "th": "ใส่ชุดป้องกันเข้าไปด้วยก็ดี เตือนแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Do I look lighter?",
+      "th": "น้าดูตัวบางลงไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? Everybody just get some sleep.",
+      "th": "เอางี้ นอนกันเถอะ ทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We got a long day ahead of us on the road tomorrow.",
+      "th": "พรุ่งนี้ยังต้องเดินทางอีกไกล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, like I'll sleep when Reggie starts snoring.",
+      "th": "น้าเรจจี้กรน ใครจะไปหลับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey! You know I don't snore. -And Kim Kardashian's butt is real.",
+      "th": "- นี่ น้าไม่กรนนะ - เหมือนบอกว่าก้นคิม คาร์ดาเชียนไม่ปลอม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uncle Reggie, on the Richter scale, you're an 8.5.",
+      "th": "น้าเรจจี้กรนดังแปดจุดห้าริกเตอร์ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know y'all are adopted, right? -What?",
+      "th": "- บอกให้นะ พ่อแม่เก็บพวกเธอมาเลี้ยง - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, enough. -[scoffs]",
+      "th": "โอเค พอได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get some sleep.",
+      "th": "นอนได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Good night. -G'night.",
+      "th": "- ราตรีสวัสดิ์ - ฝันดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You fools! -Oh, oh, oh!",
+      "th": "เจ้าบ๊อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] No. No! -[Brenda laughs]",
+      "th": "อย่านะ อย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, we throwing stuff? You want some too, sis?",
+      "th": "เล่นปาหมอนกันเหรอ เล่นด้วยไหมพี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "อะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't want none of this. You want some?",
+      "th": "ไม่เล่นด้วยเหรอ เล่นหน่อยน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, chill.",
+      "th": "ใจเย็นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] Shh! Uh-oh.",
+      "th": "โอ๊ะโอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, let's just go back to sleep.",
+      "th": "กลับเข้านอนกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cam] Okay. -We don't want to get kicked out.",
+      "th": "- โอเค - เดี๋ยวก็โดนไล่ออกจากห้องหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Here. -You gonna get it now.",
+      "th": "- เอ้า - เดี๋ยวได้เดือดร้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Boy, if you don't go to sleep… -Okay.",
+      "th": "- หนุ่มๆ ถ้าจะไม่นอน… - โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, what was that?",
+      "th": "แม่ เสียงอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That sounded like it came from next door.",
+      "th": "เหมือนจะดังมาจากข้างห้องนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell is going on? Somebody throwing a party or something?",
+      "th": "เกิดบ้าอะไรขึ้นเนี่ย มีใครจัดปาร์ตี้งั้นเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's four in the morning, Reg. -That's when the best parties get started.",
+      "th": "- นี่ตีสี่นะ - เวลานี้แหละปาร์ตี้กำลังสนุก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no, this sounds like a fight. -What?",
+      "th": "- ไม่ เหมือนเสียงทะเลาะกัน - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm calling the front office.",
+      "th": "ฉันจะโทรไปที่แผนกต้อนรับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That definitely ain't no party. -[Cam] I'm scared.",
+      "th": "- ไม่ใช่ปาร์ตี้แน่นอน - ผมกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not letting this go on.",
+      "th": "ฉันไม่ยอมหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -Mom, please don't go out there.",
+      "th": "- อะไรนะ - แม่ อย่าออกไปนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a ER nurse. For all we know, some woman is getting beat by a man.",
+      "th": "แม่เป็นพยาบาลห้องฉุกเฉิน อาจมีผู้หญิงกำลังโดนผู้ชายซ้อมอยู่ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You gonna get caught in the middle? -[muffled shouting]",
+      "th": "แล้วจะเข้าไปขวางเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom, no. -Sis…",
+      "th": "- แม่ อย่านะ - พี่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-The fuck? -[door opening next door]",
+      "th": "อะไรวะเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cam] Mom? -[gasps]",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom, who is that? -Shh!",
+      "th": "แม่ นั่นใครน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] Sounds like he's gone.",
+      "th": "เหมือนจะไปแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know a gunshot when I hear one. That was definitely a gunshot.",
+      "th": "ฉันรู้จักเสียงปืนดี เมื่อกี้เสียงปืนแน่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Somebody could be dead in there. -I better check.",
+      "th": "- อาจมีใครตายในห้องนั้นก็ได้ - ไปดูดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam, stay here.",
+      "th": "แคม อยู่นี่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But-- -[Kelly] Stay here.",
+      "th": "- แต่… - อยู่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "th": "ให้ตายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kelly, call 911. There's a man with a gunshot wound to the throat.",
+      "th": "เคลลี่ โทรหาตำรวจ มีคนถูกยิงเข้าที่คอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -Keep your brother in that room!",
+      "th": "- อะไรนะ - อย่าให้น้องออกมาจากห้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren, wait! Be careful.",
+      "th": "เบรน เดี๋ยว ระวังด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No time, he's gonna bleed out.",
+      "th": "ช้าไม่ได้ เขาจะเสียเลือดหมดตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir? Sir, I'm a nurse. My name is Brenda, I'm gonna help you.",
+      "th": "คุณคะ คุณ ฉันชื่อเบรนด้า เป็นพยาบาล ฉันจะช่วยคุณเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay. It's okay.",
+      "th": "ไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reg, go to the bathroom, get me some more towels.",
+      "th": "เรจ ไปที่ห้องน้ำ เอาผ้าขนหนูมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now!",
+      "th": "เร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just stay calm.",
+      "th": "ใจเย็นๆ ไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've called 911. Help is on the way. I'll take care of you.",
+      "th": "ฉันโทรหาตำรวจแล้ว กำลังมีคนมาช่วย ฉันจะดูแลคุณเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hurry up, Reggie! Just hold on. -[gasping]",
+      "th": "เร็วเข้า เรจจี้ แข็งใจไว้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, just hang on. Hang on. Hang on!",
+      "th": "เอาล่ะ แข็งใจไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, you're going to be okay.",
+      "th": "คุณคะ คุณจะต้องไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me. Stay with me.",
+      "th": "อย่าหลับนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at me! Look at me, sir. Come on. Hang on!",
+      "th": "มองฉันนี่ คุณ มองฉัน แข็งใจไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jake, please.",
+      "th": "เจ้ค ขอร้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please help me through this.",
+      "th": "ช่วยฉันผ่านเรื่องนี้ไปที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sniffles] I need you.",
+      "th": "ฉันต้องการคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer] Captain Hammers, sir.",
+      "th": "ผู้กองแฮมเมอร์ส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Son.",
+      "th": "ไอ้หนุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "We haven't touched anything. We waited for you.",
+      "th": "ไม่มีใครแตะต้องอะไรครับ เรารอผู้กองอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then,",
+      "th": "ดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "let's see what we got.",
+      "th": "ไหนไปดูกันหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer] The witnesses next door reported a fight.",
+      "th": "พยานห้องข้างๆ บอกว่ามีการต่อสู้กัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harvey Ruck. Enforcer and bagman for Mr. Cross.",
+      "th": "ฮาร์วี่ย์ รัค ลูกน้องกับเด็กเดินของของมิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "An informant of mine says that Ruck and his partner Pepe Ochoa",
+      "th": "สายผมบอกว่ารัคกับคู่หู เปเป้โอชัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "were supposed to deliver a payoff to Mr. Cross from the Sinaloa Cartel.",
+      "th": "ต้องเอาเงินจากแก๊งค้ายาซีนาโลอา ไปส่งให้มิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like Ruck went independent, canceled Pepe's ticket.",
+      "th": "ดูเหมือนรัคจะแยกวง ปิดฝาโลงให้เปเป้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Took off with the loot.",
+      "th": "แล้วก็หนีไปพร้อมเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think the cartel caught him? We didn't find any money.",
+      "th": "เป็นไปได้ไหมว่าพวกแก๊งตามมาจัดการเขา เราไม่เห็นเงินที่ไหนเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hammers] Reasonable assumption, or Cross did it.",
+      "th": "เป็นข้อสันนิษฐานที่สมเหตุสมผล หรือไม่ก็ครอสเป็นคนทำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Man's had his hand in every dirty deal",
+      "th": "เกิดเรื่องสกปรกขึ้นที่ไหนในแถบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "that ever went down in this part of the world.",
+      "th": "ก็หมอนั่นมีเอี่ยวทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been chasing that slippery son of a bitch for years.",
+      "th": "ฉันตามล่าไอ้ปลาไหลนั่นมาหลายปีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll bring him down.",
+      "th": "ฉันจะจัดการมันให้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just a matter of time.",
+      "th": "อีกไม่นานหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Used a nine millimeter.",
+      "th": "กระสุนเก้ามิลลิเมตร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to talk to the folks staying next door.",
+      "th": "ฉันอยากคุยกับแขกห้องข้างๆ หน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice family of four. I let them go, sir.",
+      "th": "ครอบครัวน่ารักๆ มีกันสี่คน ผมปล่อยไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let 'em go?",
+      "th": "ปล่อยไปเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir, just before you arrived. But I got their statements.",
+      "th": "ครับ ก่อนผู้กองจะมาถึง ได้คำให้การมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Son…",
+      "th": "ไอ้หนุ่ม…"
+    }
+  },
+  {
+    "translation": {
+      "en": "…how many murders have you investigated?",
+      "th": "นายเคยสืบสวนคดีฆาตกรรมมากี่คดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "One.",
+      "th": "หนึ่งครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If that family can ID the killer's voice,",
+      "th": "ถ้าครอบครัวนั้นจำเสียงฆาตกรได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "then they are in danger.",
+      "th": "งั้นพวกเขาก็ตกอยู่ในอันตราย"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you'll have four more murders on your conscience.",
+      "th": "แล้วนายจะได้เห็นคดีฆาตกรรมอีกสี่ศพแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to talk to that family.",
+      "th": "ฉันต้องคุยกับครอบครัวนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] How come Reggie gets to drive and I don't?",
+      "th": "ทำไมน้าเรจจี้ได้ขับ แต่หนูไม่ได้ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because you only have a learner's permit for California.",
+      "th": "เพราะลูกมีใบอนุญาตหัดขับของแคลิฟอร์เนีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie probably doesn't even have a license.",
+      "th": "น้าเรจจี้ไม่น่ามีใบขับขี่ด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Hold… Hold… Hold on. I got plenty of licenses.",
+      "th": "อะไรนะ เดี๋ยวๆ น้ามีตั้งหลายใบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] Plenty? -Okay?",
+      "th": "- หลายใบเหรอ - เก็ตนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are they valid? -Yes. I don't know what you talking about.",
+      "th": "- ยังไม่หมดอายุใช่ไหม - ยัง เธอก็พูดไปเรื่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[phone ringing] -Hello.",
+      "th": "ก็มีเหตุผล - ฮัลโหล - เบรนด้า ฟรีแมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brenda Freeman?",
+      "th": "- ฮัลโหล - เบรนด้า ฟรีแมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] Yes, who's this?",
+      "th": "ใช่ นั่นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mrs. Freeman, I'm Capt. JD Hammers of the Arizona State Troopers.",
+      "th": "คุณฟรีแมน ผมร้อยเอกเจดี แฮมเมอร์ส์ จากกองกำลังพลรัฐแอริโซนา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm in command of the homicide investigation",
+      "th": "ผมเป็นหัวหน้าฝ่ายสืบสวนคดีฆาตกรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "at the Sunset Motel.",
+      "th": "ที่โมเต็ลซันเซ็ต"
+    }
+  },
+  {
+    "translation": {
+      "en": "It appears I missed you by a minute. I need you to come back.",
+      "th": "ดูเหมือนว่าเราจะคลาดกัน ผมอยากให้คุณย้อนกลับมาหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, Captain.",
+      "th": "ขอโทษด้วยค่ะ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just want to get my family as far away from that motel as possible.",
+      "th": "ฉันอยากพาครอบครัวไปให้ไกลจากโมเต็ลนั่นที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't blame you, Mrs. Freeman.",
+      "th": "ผมไม่โทษคุณหรอก คุณฟรีแมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a gruesome thing you witnessed.",
+      "th": "สิ่งที่คุณได้เห็นก็สยดสยองไม่เบา"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you pull over, I'll meet you somewhere.",
+      "th": "ถ้าคุณพอแวะจอดได้ ผมจะไปหาคุณเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to ask you some follow-up questions.",
+      "th": "ผมมีคำถามเพิ่มเติมหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told your officers everything.",
+      "th": "ฉันบอกเจ้าหน้าที่ของคุณไปหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, ma'am. But--",
+      "th": "ครับ คุณผู้หญิง แต่ว่า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, Captain… [softly] …I can't talk right now.",
+      "th": "ผู้กองคะ ตอนนี้ฉันไม่สะดวกคุย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have your number. I promise I'll call you as soon as I can talk.",
+      "th": "ฉันมีเบอร์คุณแล้ว เอาไว้คุยได้แล้วฉันจะรีบโทรหา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ma'am, you don't-- Ma'am! -Have a good day.",
+      "th": "- คุณครับ คุณไม่… คุณครับ - โชคดีค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got a bad feeling about this.",
+      "th": "สังหรณ์ไม่ดีเอาซะเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, what was that about?",
+      "th": "แม่ มีเรื่องอะไรเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're… We're not going back, are we?",
+      "th": "เราจะไม่กลับไปใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell no.",
+      "th": "ไม่มีทาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, absolutely not.",
+      "th": "ไม่ ไม่กลับไปแน่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hello. -[distorted voice] Hello.",
+      "th": "- สวัสดีค่ะ - สวัสดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who is this?",
+      "th": "นี่ใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We know what you did.",
+      "th": "เรารู้ว่าเธอทำอะไรไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "We know what you took.",
+      "th": "เรารู้ว่าเธอเอาอะไรไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I think you got the wrong number. -Don't hang up, Brenda.",
+      "th": "- โทรผิดแล้วมั้ง - อย่าเพิ่งวาง เบรนด้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How do you know my name? -Boss man wants his money, Brenda.",
+      "th": "- รู้จักชื่อฉันได้ยังไง - หัวหน้าเราอยากได้เงินคืน เบรนด้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me? What money?",
+      "th": "ทานโทษ เงินอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You took his money and he wants it back.",
+      "th": "เธอเอาเงินเขาไป และเขาอยากได้คืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know what you talking about. Don't call me back anymore.",
+      "th": "ฉันไม่รู้ว่าคุณพูดเรื่องอะไร อย่าโทรมาอีกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What was that? -Some weird voice.",
+      "th": "- มีอะไรเหรอ - ไม่รู้สิ เสียงแปลกๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Talking about how I took her money. Probably trying to scam me.",
+      "th": "บอกว่าฉันเอาเงินเขาไป น่าจะมิจฉาชีพล่ะมั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] I ain't got nothing for 'em to scam.",
+      "th": "ไม่มีเงินให้หลอกหรอกย่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] I mean, think about it, double-quarter-pound burger.",
+      "th": "ลองคิดดูนะ เบอร์เกอร์หนักสองส่วนสี่ปอนด์"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's half a pound, right?",
+      "th": "ก็คือครึ่งปอนด์ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "How come they ain't got the guts to call it a half-pounder?",
+      "th": "แล้วทำไมไม่เรียกว่าครึ่งปอนด์ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because it's bad marketing.",
+      "th": "การตลาดไม่ได้เรื่องเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[clicks tongue] No.",
+      "th": "ไม่เอา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, this asshole again.",
+      "th": "ยัยนี่อีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't answer it.",
+      "th": "ไม่ต้องรับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's wrong? -Nothing's wrong.",
+      "th": "- เป็นอะไรไป - เปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I know that look, little brother. -What look?",
+      "th": "- ฉันรู้จักสายตาแบบนั้น - แบบไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's going on with you. You get twitchy and darty.",
+      "th": "มีเรื่องอะไรสักอย่าง เพราะนายลุกลี้ลุกลนยังไงชอบกล"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My eyes ain't darty. -You darty right now.",
+      "th": "- ใครลุกลี้ลุกลน - ก็นายตอนนี้นี่ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like when you got a secret or you about to tell a lie. What's up?",
+      "th": "เหมือนมีความลับหรือกำลังจะโกหก มีอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "th": "โธ่เอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. All right. All right.",
+      "th": "ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was going to surprise you once we got to Houston.",
+      "th": "กะว่าจะเซอร์ไพรส์ที่ฮูสตัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "All my life, everybody say I'm the family fuck-up, right?",
+      "th": "ทั้งชีวิตฉัน ใครๆ ก็บอกว่า ฉันเป็นตัวฉิบหายของบ้านใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No comment. -This time, Reggie ain't the problem.",
+      "th": "- ไม่ขอออกความเห็น - ครั้งนี้ เรจจี้ไม่ใช่ตัวฉิบหาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie's the solution.",
+      "th": "เรจจี้คือพระมาโปรด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd this come from?",
+      "th": "ไปเอามาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Lord is our savior, fell out the sky right into our laps.",
+      "th": "พระเจ้าประทานมาให้ หล่นลงมาบนตักเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Peep what's inside.",
+      "th": "ลองแง้มดูสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the-- -The dead dude.",
+      "th": "- นี่มัน… - ไอ้คนที่เป็นศพน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He stashed it under the bathroom sink.",
+      "th": "เขาซ่อนไว้ใต้อ่างล้างหน้าในห้องน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gotta be drug money, right? I figured this dude is deader than shit.",
+      "th": "ต้องเป็นเงินที่มาจากการค้ายาแน่ ไหนๆ หมอนั่นก็ซี้แหงแก๋ไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "He can't use this money, but I know a needy family who can.",
+      "th": "เอาเงินไปใช้ก็ไม่ได้ แต่ทางนี้มีครอบครัวอาภัพ ที่พอจะเอาไปใช้ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you lost your damn mind?",
+      "th": "เสียสติไปแล้วเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren, the dude was dead. I mean, like his heart had stopped.",
+      "th": "เบรน หมอนั่นตายไปแล้ว ตายแบบหัวใจหยุดเต้นน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a nurse! I know what a dead dude is.",
+      "th": "ฉันเป็นพยาบาล ฉันรู้ว่าตายแปลว่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You thought you were just gonna take this, and make our lives better?",
+      "th": "คิดจะเอาเงินนี่มาทำให้ชีวิตเราดีขึ้นงี้เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This money could save our lives. -It can end our lives!",
+      "th": "- เงินนี่ช่วยชีวิตเราไว้ได้ - หรือจบชีวิตเราก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren, just say thank you. Stop looking on the dark side.",
+      "th": "พูดขอบคุณก็พอ เลิกมองแง่ร้ายสักที"
+    }
+  },
+  {
+    "translation": {
+      "en": "We could turn around and go back to Los Angeles right now. Save the house and everything.",
+      "th": "เรากลับไปลอสแอนเจลิสกันตอนนี้เลยก็ได้ เคลียร์หนี้บ้านกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You stole money from a crime scene, Reg.",
+      "th": "นายขโมยเงินมาจากที่เกิดเหตุฆาตกรรมนะ เรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The voice on the phone, he killed that man for this money.",
+      "th": "คนที่อยู่ปลายสายฆ่าหมอนั่นก็เพื่อเงินนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And?",
+      "th": "แล้วไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And their boss knows we have it. He knows who we are!",
+      "th": "และหัวหน้ามันรู้ว่าเงินอยู่ที่เรา มันรู้ว่าเราเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren, you overreacting.",
+      "th": "เบรน ตีโพยตีพายเกินเรื่อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "He ain't coming back for this.",
+      "th": "เขาไม่กลับมาตามหาเงินหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if he does? Huh? You gonna turn into some street gangster?",
+      "th": "แล้วถ้ามาล่ะ หา นี่จะผันตัวไปเป็นเด็กแก๊งเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Instead of the assistant manager at Chick-fil-A?",
+      "th": "ไม่เป็นผู้ช่วยผู้จัดการร้านชิคฟิลาแล้วเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, that's an elite position. Okay? I had to work my way up to that.",
+      "th": "นี่ นั่นเป็นตำแหน่งระดับสูงนะ ฉันต้องทำงานแทบตายกว่าจะได้ขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know how many drug tests I had to pass? That hurt.",
+      "th": "รู้บ้างหรือเปล่าว่า ต้องตรวจหายาเสพติดกี่ครั้ง มันเจ็บนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, we gotta call the police. -What?",
+      "th": "- โอเค เราจะโทรหาตำรวจ - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. You call the police, they'll arrest the whole damn family.",
+      "th": "ถ้าโทรหาตำรวจ พวกเขาได้จับเราทั้งบ้านสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They'll say we the ones that murdered him to rip his shit off.",
+      "th": "เดี๋ยวก็หาว่าเราฆ่าหมอนั่นแล้วชิงเงินมาหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are not criminals.",
+      "th": "เราไม่ใช่อาชญากร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] We the next best thing.",
+      "th": "ไม่ใช่ก็ใกล้เคียง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We Black.",
+      "th": "เราเป็นคนดำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to risk the lives of those two kids?",
+      "th": "อยากเอาชีวิตเด็กสองคนนี้ไปเสี่ยงเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here she is.",
+      "th": "โทรมาอีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bren, don't answer! -No, Reggie.",
+      "th": "- ไม่ต้องรับ - อย่า เรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't pick it up. -Get… Reggie, get… get off!",
+      "th": "- อย่ารับนะ - เรจจี้ ปล่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have your money. We want to give it back.",
+      "th": "เงินคุณอยู่กับเรา เราอยากส่งคืนให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are you?",
+      "th": "ตอนนี้อยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not gonna tell you that.",
+      "th": "ใครจะไปบอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Worried about your family? You should be.",
+      "th": "ห่วงครอบครัวงั้นเหรอ ก็ควรอยู่หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, you'll get your money back, but it'll be on my terms, okay?",
+      "th": "นี่ คุณจะได้เงินคืน แต่ต้องเป็นไปตามเงื่อนไขเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll call you back.",
+      "th": "ไว้ฉันจะโทรกลับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought about what you said.",
+      "th": "ฉันคิดเรื่องที่เธอพูดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right. You have every right to be angry.",
+      "th": "เธอพูดถูก เธอมีสิทธิ์ที่จะโกรธเต็มที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's just keep half the money.",
+      "th": "เราแบ่งเงินไว้ครึ่งนึงแล้วกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] Yeah, in the very next room.",
+      "th": "ใช่ ห้องข้างกันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, Zac, he was murdered. I mean, there was blood everywhere.",
+      "th": "ใช่ แซ็ค เขาถูกฆ่า เลือดสาดเต็มไปหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[distorted voice] This is our game, Brenda. You don't make the rules. Mr. Cross does.",
+      "th": "นี่เกมของเรา เบรนด้า เธอไม่ใช่คนตั้งกฎ มิสเตอร์ครอสต่างหาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "The bag is in room 33 at the Center Star Inn.",
+      "th": "กระเป๋าอยู่ในห้อง 33 ที่เซนเตอร์สตาร์ อินน์"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's in the closet on the top shelf.",
+      "th": "ในตู้เสื้อผ้า ชั้นบน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not hearing me.",
+      "th": "เธอไม่ฟังที่ฉันพูด"
+    }
+  },
+  {
+    "translation": {
+      "en": "The key will be under the mat outside the door.",
+      "th": "กุญแจอยู่ใต้พรมหน้าประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get your money.",
+      "th": "มาเอาเงินของคุณไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go.",
+      "th": "ไปกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, let's hurry up back on the road to nowhere.",
+      "th": "ใช่ รีบไปกันต่อ บนถนนที่ไปไม่ถึงไหนสักที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, what were you doing?",
+      "th": "แม่ ไปทำอะไรมาน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was getting some tourist brochures. Check it out.",
+      "th": "ไปหยิบแผ่นพับที่ท่องเที่ยวน่ะ ดูสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're not tourists.",
+      "th": "เราไม่ใช่นักท่องเที่ยวนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're seeing a whole new part of the country.",
+      "th": "เราอยู่ในสถานที่ใหม่กันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe we should take advantage of it. You know, soak up some culture.",
+      "th": "ก็ต้องคว้าโอกาสไว้สิ ดื่มด่ำกับวัฒนธรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seriously? This place has culture?",
+      "th": "จริงเหรอ ที่นี่มีวัฒนธรรมด้วยเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, after last night, I just think we all need to relax and breathe a little.",
+      "th": "ฟังนะ หลังจากเรื่องเมื่อคืน แม่ว่าเราต้องผ่อนคลายและปรับลมหายใจหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Feel like normal people again.",
+      "th": "จะได้รู้สึกเป็นปกติอีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ain't nothing normal about this place.",
+      "th": "ที่นี่ไม่เห็นมีอะไรปกติสักอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[quietly] Shut your ass up.",
+      "th": "หุบปากไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[announcer] Howdy, folks. Welcome to Old Bravo.",
+      "th": "สวัสดีทุกท่าน ขอต้อนรับสู่โอลด์ บราโว่"
+    }
+  },
+  {
+    "translation": {
+      "en": "The town where the Wild West never dies!",
+      "th": "เมืองที่ความเถื่อนแดนตะวันตกไม่มีวันตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughing] -Get him!",
+      "th": "เอาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no! You got me.",
+      "th": "ไม่นะ พลาดท่าซะแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on in.",
+      "th": "เชิญก่อนค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Dork. -No, I'm not.",
+      "th": "- เพี้ยนชะมัด - เปล่าสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're in jail. -What?",
+      "th": "- นายติดคุก - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -No.",
+      "th": "- ใช่ - ไม่ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're in jail. -Oh.",
+      "th": "นายอยู่ฝั่งคุกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Brenda, you my big sister, I love you.",
+      "th": "เบรนด้า เธอเป็นพี่สาวฉัน ฉันรักเธอนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you definitely just messed up the best thing that ever happened to us.",
+      "th": "แต่เธอปัดโอกาสทองของเราทิ้งไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "That money would've got rid of all our problems.",
+      "th": "เงินนั่นช่วยแก้ปัญหาทุกอย่างให้เราได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "All money is not good money, Reg.",
+      "th": "เงินพวกนั้นไม่ใช่เงินสะอาด เรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever. That's Jake talking.",
+      "th": "เอาเหอะ พูดจาเหมือนเจ้ค"
+    }
+  },
+  {
+    "translation": {
+      "en": "You damn right that's Jake talking. You gonna bring up my dead husband?",
+      "th": "ใช่ ฉันพูดเหมือนเจ้ค จะขุดคนตายขึ้นมาอ้างทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? Why not?",
+      "th": "เธอนี่… ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jake was a hero, Jake was a god, 'cause Jake always did what was right.",
+      "th": "เจ้คเป็นฮีโร่ เป็นพระเจ้า ทำแต่สิ่งที่ถูกต้องเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And remind me what good it did Jake",
+      "th": "ไหนเตือนความจำหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "when he needed chemo and radiation, didn't have the money for it.",
+      "th": "ตอนที่เขาต้องคีโมกับฉายรังสีแล้วไม่มีเงิน ความดีมันช่วยยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got the money!",
+      "th": "ฉันก็หาเงินมาให้เขาไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got the money by getting yourself so far in debt you lost your house.",
+      "th": "เธอกู้เงินมาจนเป็นหนี้หัวโต จนเสียบ้านไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let your own kids down!",
+      "th": "ทำให้ลูกๆ ผิดหวัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You a asshole, you know that? -Yeah, I know it.",
+      "th": "- นายนี่มันเส็งเคร็งนะ รู้ไหม - เออ ฉันรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've known it my whole life.",
+      "th": "รู้มาตลอดชีวิตนั่นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause people constantly reminding me.",
+      "th": "ก็มีแต่คนคอยพูดกรอกหูอยู่ตลอด"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what? Maybe I am just an assistant manager at Chick-fil-A.",
+      "th": "ฉันอาจเป็นแค่ผู้ช่วยผู้จัดการร้านชิคฟิลา"
+    }
+  },
+  {
+    "translation": {
+      "en": "That don't mean I don't have my own dreams too.",
+      "th": "แต่ก็ไม่ได้แปลว่าฉันไม่มีความฝันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You killed those dreams.",
+      "th": "เธอดับฝันฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just trying to make things better.",
+      "th": "ฉันก็แค่อยากทำให้อะไรๆ ดีขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's all I was doing.",
+      "th": "ก็แค่นั้นเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You all I got, sis.",
+      "th": "ฉันมีแค่เธอนะ ยัยพี่สาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you and those kids.",
+      "th": "ฉันรักเธอกับเด็กสองคนนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know that.",
+      "th": "รู้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wasn't trying to hurt nobody.",
+      "th": "ฉันไม่ได้คิดจะทำร้ายใครเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, Reg.",
+      "th": "ฉันรู้ เรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I loved Jake too.",
+      "th": "ฉันก็รักเจ้คเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "th": "ฉันรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seems like every day the man upstairs is testing us.",
+      "th": "ดูเหมือนคนบนนั้นจะทดสอบเราทุกวันเลยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is really peaceful. -Yeah.",
+      "th": "- ที่นี่รู้สึกสงบจัง - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta use the restroom.",
+      "th": "ผมต้องเข้าห้องน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, Reg, go with him.",
+      "th": "เรจ ไปกับเขาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, I'm not a little kid anymore.",
+      "th": "ผมไม่ใช่เด็กแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Come straight back.",
+      "th": "โอเค รีบกลับมานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Okay.",
+      "th": "ได้ฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hurry up.",
+      "th": "เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[announcer] Hey, folks. You hear that?",
+      "th": "ไง ทุกคน ได้ยินไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's high noon.",
+      "th": "ตอนนี้เป็นเวลาเที่ยงตรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And there's a duel happening. Come on down!",
+      "th": "การดวลกำลังจะเริ่มแล้ว รีบมาทางนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Feels kind of real. -Who you got?",
+      "th": "- รู้สึกเหมือนจริงเลย - คิดว่าใครชนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My man right there. -Yep.",
+      "th": "- สิงห์ฝั่งนั้นน่ะสิ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "มีอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[distorted voice] Last person who took Mr. Cross for a fool is dead.",
+      "th": "คนสุดท้ายที่คิดว่ามิสเตอร์ครอสเป็นไอ้หน้าโง่ ตอนนี้เป็นศพไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "We want our money.",
+      "th": "เราอยากได้เงินคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "The money is there. It's in the room.",
+      "th": "เงินก็อยู่นั่นไง อยู่ในห้องน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then go get it.",
+      "th": "งั้นก็ไปเอามาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not going back there.",
+      "th": "ฉันไม่กลับไปที่นั่นหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have something of his, Brenda.",
+      "th": "เธอเอาของของเขาไป เบรนด้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And now Mr. Cross has something of yours. -[muffled screaming]",
+      "th": "และตอนนี้มิสเตอร์ครอสก็เอาของของเธอมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bren?",
+      "th": "เบรน"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's here. Cross is here. Go find Cameron. Bring him straight to the car.",
+      "th": "ครอสอยู่ที่นี่ ไปตามคาเมรอน พาเขาไปที่รถ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on, we gotta go. -Whoa!",
+      "th": "มาเถอะ เราต้องไปกันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What is wrong? -Don't ask questions, just do as I say.",
+      "th": "- มีอะไรคะ - ไม่ต้องถาม ทำตามที่บอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam! Cam, you in there, little buddy? Come on.",
+      "th": "แคม อยู่ในนั้นไหม หนุ่มน้อย ตอบที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, little man, let's boogie. We gotta roll.",
+      "th": "หนุ่มน้อย เร็วเข้า เราต้องไปกันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "My bad.",
+      "th": "โทษที"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "th": "ขอโทษนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You drop this?",
+      "th": "ทำตกหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit!",
+      "th": "แย่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam!",
+      "th": "แคม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam! Cam?",
+      "th": "แคม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you gonna tell me what's going on? -Just Just get in the car right now.",
+      "th": "- บอกหนูทีได้ไหมว่าเกิดอะไรขึ้น - รีบขึ้นรถไปก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, I'm in. Now what?",
+      "th": "โอเค ถึงรถแล้ว ยังไงต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[low voice] Hello, Brenda.",
+      "th": "สวัสดี เบรนด้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Mr. Cross.",
+      "th": "นี่มิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's with me.",
+      "th": "เขาอยู่กับฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, just don't hurt him, okay?",
+      "th": "ขอร้อง อย่าทำร้ายเขานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cross] Call the police, or fuck with me again,",
+      "th": "ถ้าโทรหาตำรวจ หรือคิดจะลองดีกับฉันอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'll grab your daughter next.",
+      "th": "ฉันจะจับลูกสาวเธอมาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, for the love of God, just don't do this.",
+      "th": "ขอล่ะ เห็นแก่พระเจ้า อย่าทำแบบนี้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have two hours to retrieve my money.",
+      "th": "เธอมีเวลาสองชั่วโมง ไปเอาเงินฉันมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then bring it back to Old Bravo and call me.",
+      "th": "เอากลับมาที่โอลด์ บราโว่ แล้วโทรหาฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or your son is dead.",
+      "th": "ไม่งั้นลูกเธอตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mama! Mama!",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sobs] Help!",
+      "th": "ช่วยด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cam? -Swear to God, if he hurts that boy…",
+      "th": "- แคม - สาบานได้ ถ้าเขาทำร้ายแคม…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta get back to that motel and get the money.",
+      "th": "ฉันต้องไปเอาเงินที่โมเต็ลนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, what's happening? Where's Cam?",
+      "th": "เกิดอะไรขึ้น แล้วแคมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cam has been abducted. -Abducted?",
+      "th": "- แคมถูกลักพาตัวไป - ถูกลักพาตัวเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie will explain it to you but right now I gotta go.",
+      "th": "น้าเรจจี้จะอธิบายให้ฟัง แต่แม่ต้องไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go where? Where are you going?",
+      "th": "แม่จะไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got to get Cam, but I need to leave you here.",
+      "th": "แม่จะไปพาแคมมา แต่แม่ต้องทิ้งลูกไว้ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No, no, no! He's my brother, I'm coming with you.",
+      "th": "ไม่เอา เขาเป็นน้องหนู หนูไปด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me. I cannot worry about you and your brother and do this.",
+      "th": "แม่ไม่อยากพะวงกับทั้งลูกทั้งน้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just wait for me, I'll call you.",
+      "th": "รอแม่ที่นี่ แม่จะโทรหา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom! Mom! Don't.",
+      "th": "แม่ ไม่เอานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom, wait, please. -[engine starts]",
+      "th": "แม่ อย่าเพิ่งไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no. Come on. -Mom!",
+      "th": "- มานี่มา - แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got you. I got you.",
+      "th": "อยู่กับน้านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! -Kelly, trust her.",
+      "th": "- แม่ - เคลลี่ เชื่อใจแม่เขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom!",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] I'm sorry, baby.",
+      "th": "แม่ขอโทษนะ ลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom!",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! -[car honking]",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on, move! -[honking]",
+      "th": "เร็วสิ หลบไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You better not hurt my baby.",
+      "th": "อย่าทำอะไรลูกฉันเชียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "In pursuit of a speeding Chevy Suburban. Headed westbound, east of Old Bravo town.",
+      "th": "กำลังไล่ตามรถเชฟวี่ ซับเออร์เบิน มุ่งตะวันตก อยู่ฝั่งตะวันออกของโอลด์ บราโว่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Capt. Hammers, we got a hit on your plate request",
+      "th": "ผู้กองแฮมเมอร์ส์ เจอรถป้ายทะเบียนที่ผู้กองบอกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "coming out of Old Bravo. Driver is a female, Black.",
+      "th": "ออกมาจากโอลด์ บราโว่ คนขับเป็นผู้หญิงผิวสี"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is State Trooper Captain Hammers. She's a witness.",
+      "th": "นี่ผู้กองแฮมเมอร์ส์ นั่นพยาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the cartel or Cross spot you, they'll kill her. Fall back.",
+      "th": "ถ้าแก๊งค้ายาหรือครอสเจอนาย พวกมันจะฆ่าเขา ถอยก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not pursue.",
+      "th": "เลิกตาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I repeat, do not pursue.",
+      "th": "ขอย้ำ เลิกตาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Don't worry\"?",
+      "th": "\"ไม่ต้องห่วง\" เหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[crying] The last three months of my life have felt like a bad nightmare",
+      "th": "อย่างน้อยก็สามเดือนนะ ที่หนูรู้สึกเหมือนอยู่ในฝันร้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "that just keeps getting worse.",
+      "th": "ที่มันมีแต่แย่ขึ้นเรื่อยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "th": "น้าเข้าใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can still feel him, Reggie.",
+      "th": "หนูยังรู้สึกถึงพ่ออยู่เลย น้าเรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like Daddy isn't dead, you know?",
+      "th": "เหมือนว่าพ่อยังไม่ตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can hear his voice and I can see his face.",
+      "th": "หนูได้ยินเสียงพ่อ มองเห็นหน้าพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I don't… And I don't want to let that go.",
+      "th": "และหนูไม่อยากให้พ่อหายไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sobbing] I don't want to lose him.",
+      "th": "หนูไม่อยากเสียพ่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your dad is always going to be with you. You hear me?",
+      "th": "พ่อจะอยู่กับเธอเสมอนั่นแหละ ได้ยินไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Trust that.",
+      "th": "เชื่อมั่นเข้าไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And your mom's going to get Cam back. I promise.",
+      "th": "ส่วนแม่เขากำลังไปพาแคมกลับมา น้าสัญญา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie, come on. Please tell me what's going on.",
+      "th": "เถอะนะ บอกหนูทีว่าเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I messed up, Kelly.",
+      "th": "น้าทำพลาด เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I messed up big-time.",
+      "th": "ทำพลาดมหันต์เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "หา"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Okay.",
+      "th": "หา โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Breathe. Breathe. Breathe. Breathe.",
+      "th": "หายใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "th": "นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "th": "นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! No!",
+      "th": "หยุดนะ ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! Stop! Stop!",
+      "th": "หยุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No, please! Wait, please!",
+      "th": "ไม่นะ ไม่ ขอร้อง รอก่อน ได้โปรด"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop!",
+      "th": "หยุดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see you.",
+      "th": "ฉันเห็นหล่อนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thieving bitch.",
+      "th": "อีขี้ขโมย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop!",
+      "th": "หยุดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop that car!",
+      "th": "หยุดรถ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see you! Where you going?",
+      "th": "ฉันเห็นหล่อนนะ จะไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My bag! Give it back. -[woman screams]",
+      "th": "กระเป๋าฉัน เอาคืนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kiss my ass!",
+      "th": "ไม่คืนโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me back my bag, you little thief!",
+      "th": "เอากระเป๋าฉันคืนมา อีหัวขโมย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Yo!",
+      "th": "โย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drop the bat.",
+      "th": "วางไม้นั่นลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa. Just… Just… put that down.",
+      "th": "คุณ… วางปืนลงเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut the hell up.",
+      "th": "หุบปากไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll blow your ass back to Africa.",
+      "th": "เดี๋ยวพ่อยิงให้กระเด็นกลับแอฟริกา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mace!",
+      "th": "เมซ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mace] Holy shit.",
+      "th": "ให้ตายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do we got here?",
+      "th": "มีแขกมาจากไหนเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This woman here, she stole my property, but I got it back now.",
+      "th": "ผู้หญิงคนนี้ขโมยทรัพย์สินของฉันไป แต่ฉันเอาคืนมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "So I'll just go get my car and go now. I don't want any trouble.",
+      "th": "งั้นก็ ฉันจะขึ้นรถแล้วไปจากที่นี่ ฉันไม่อยากมีปัญหา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, that's too bad.",
+      "th": "งั้นก็แย่หน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "It looks like you got it.",
+      "th": "เพราะปัญหาอยู่นี่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, I don't have time for this.",
+      "th": "ฟังนะ ฉันไม่มีเวลา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, show me what's in the bag.",
+      "th": "นี่ ขอดูของในกระเป๋าหน่อยสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] No.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm leaving.",
+      "th": "ฉันไปล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would you look at that?",
+      "th": "ดูนั่นสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, pick up.",
+      "th": "แม่ รับสายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Brenda, please leave it at the tone.",
+      "th": "นี่เบรนด้า ฝากข้อความไว้หลังเสียงสัญญาณนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[voice wavering] Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
+      "th": "แม่ เราอยู่ที่ร้านลัคกี้ 13 ออกจากโอลด์ บราโว่มานิดเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you please call me?",
+      "th": "แม่โทรหาหนูที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie just told me everything and I'm really scared.",
+      "th": "น้าเรจจี้บอกหนูทุกอย่างแล้ว หนูกลัวมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Begging your pardon.",
+      "th": "ขอโทษที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would you be the Freemans?",
+      "th": "ใช่ครอบครัวฟรีแมนรึเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain Hammers of the Arizona State Troopers.",
+      "th": "ร้อยเอกแฮมเมอร์ส์ กองกำลังพลรัฐแอริโซนา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm looking into the homicide",
+      "th": "กำลังตามสืบคดีฆาตกรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "that took place last night at the Sunset Motel.",
+      "th": "ที่เกิดขึ้นเมื่อคืนนี้ ที่โมเต็ลซันเซ็ต"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't spot y'all at Old Bravo so I figured you'd be here.",
+      "th": "ผมไม่เห็นพวกคุณที่โอลด์ บราโว่ เลยคิดว่าน่าจะอยู่ที่นี่กัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no place else to eat for miles.",
+      "th": "เพราะแถบนี้ก็มีที่กินแค่ที่นี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sir, we already talked to the police. -I know.",
+      "th": "- ผู้กอง เราคุยกับตำรวจไปแล้ว - ผมรู้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mind if I join you?",
+      "th": "ขอนั่งด้วยได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Darling, bring me a big old glass of iced tea, extra sweet, lots of ice.",
+      "th": "คนสวย ขอชาเย็นแก้วใหญ่ๆ เพิ่มน้ำตาล ใส่น้ำแข็งเยอะๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thanks. -Sure, Captain.",
+      "th": "- ขอบคุณ - ได้ค่ะ ผู้กอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And, uh…",
+      "th": "งั้น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "you'd be Kelly.",
+      "th": "นี่เคลลี่สินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you'd be the uncle.",
+      "th": "ส่วนนี่ก็น้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reginald Beaumont.",
+      "th": "เรจินัลด์ โบมอนต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. Which accounts for two of you.",
+      "th": "เจอตัวแล้วสอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, as to your mom and brother,",
+      "th": "ส่วนแม่กับน้องชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "your mom was last seen driving south of here like a bat out of hell.",
+      "th": "มีคนเห็นแม่เธอขับรถออกไปจากที่นี่ ทางทิศใต้ รีบเหมือนนรกแตก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's your brother Cam?",
+      "th": "แล้วคนน้องที่ชื่อแคมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, he was with her, sir.",
+      "th": "น้องอยู่กับแม่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Probably didn't see him because he's little for his age.",
+      "th": "คุณคงไม่เห็น เพราะเขาตัวเล็ก ถึงจะอายุเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[waitress] Super sweet. -Thank you.",
+      "th": "- หวานสุดๆ - ขอบใจนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, how about we cut the bullshit?",
+      "th": "เราเลิกพูดอ้อมค้อมกันดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a fortune in missing drug money.",
+      "th": "มีเงินจากแก๊งค้ายาก้อนโตหายไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if your mom's got it, she's in a whole world of danger.",
+      "th": "ถ้ามันอยู่กับแม่เธอ งั้นเขาก็อยู่ในเงื้อมมือมัจจุราช"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because it either belongs to the Sinaloa Cartel,",
+      "th": "เพราะมันเป็นของแก๊งค้ายาซีนาโลอา"
+    }
+  },
+  {
+    "translation": {
+      "en": "or a Mr. Cross,",
+      "th": "ไม่ก็ของมิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "a man who's the most dangerous criminal in the Southwest.",
+      "th": "อาชญากรที่อันตรายที่สุดในเซาท์เวสต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's murdered at least 50 people.",
+      "th": "ฆ่าคนไปแล้วอย่างน้อยก็ห้าสิบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to see your mom and brother alive again?",
+      "th": "ยังอยากเห็นแม่กับน้องแบบเป็นๆ อยู่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need to tell me where they are.",
+      "th": "งั้นก็บอกมาเถอะว่าพวกเขาอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or don't.",
+      "th": "ถ้าไม่งั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's their funeral.",
+      "th": "ก็เตรียมจัดงานศพได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[breathes deeply] Reggie.",
+      "th": "น้าเรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir! Sir, wait.",
+      "th": "คุณตำรวจ เดี๋ยวก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] My brother's been kidnapped. Can you please help us?",
+      "th": "น้องฉันถูกลักพาตัวไป คุณช่วยเราได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was Mr. Cross.",
+      "th": "ฝีมือมิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please.",
+      "th": "ขอร้องล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Not so fast, bitch. -[Brenda groans]",
+      "th": "อย่าได้ใจนัก อีนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Best place to lie low is my ranch.",
+      "th": "ที่ที่เหมาะจะหลบภัยที่สุดคือฟาร์มของฉันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom should have called us by now.",
+      "th": "ป่านนี้แม่น่าจะโทรมาได้แล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? What's wrong?",
+      "th": "ทำไมคะ มีอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "SUV's been trailing us for the last five miles.",
+      "th": "รถเอสยูวีคันนั้นตามเรามาได้แปดกิโลแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I slow down, he slows down.",
+      "th": "พอฉันช้า เขาก็ช้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I speed up, he speeds up.",
+      "th": "พอฉันเร็ว เขาก็เร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think it's Mr. Cross?",
+      "th": "คิดว่านั่นคือมิสเตอร์ครอสเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think he'd get his hands dirty like this.",
+      "th": "ฉันว่าเขาไม่มาทำแบบนี้ให้มือเปื้อนหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Might be one of his goons.",
+      "th": "อาจเป็นลูกน้องเขาคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's not take any chances.",
+      "th": "อย่าเสี่ยงจะดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I'm gonna ask you both to duck down in your seats.",
+      "th": "แต่ต้องขอให้ทั้งสองคนหมอบลงหน่อยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[uncocks gun] -You can come up for air.",
+      "th": "ขึ้นมาสูดอากาศได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry to scare you like that, but I had to be sure.",
+      "th": "ขอโทษที่ทำให้กลัวนะ แต่ต้องเช็คให้ชัวร์น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that dude is gonna try and smoke my sister and nephew?",
+      "th": "คิดว่าหมอนั่นจะฆ่าพี่กับหลานผมไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not gonna let that happen.",
+      "th": "ผมไม่ยอมหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] No! Let me go.",
+      "th": "อย่านะ ปล่อยฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, Mace! Look who's all woke up.",
+      "th": "โย่ เมซ ดูสิว่าใครตื่นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Look who's here.",
+      "th": "ดูสิว่าใครมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Big Mama wants some action too.",
+      "th": "บิ๊กมาม่าก็อยากสนุกด้วยคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Brenda] Get off of me! -Well…",
+      "th": "- ปล่อยฉันนะ - ไหน…"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know what they say?",
+      "th": "รู้จักสุภาษิตแถวนี้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once you go white, you ain't ever walking right. [laughing]",
+      "th": "พอโดนของขาวแล้วเดินเป๋ไปยาวๆ แน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, you-- -Fuck, get off of me!",
+      "th": "- เชี่ย แก… - ไปให้พ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let me go. -Bitch broke my nose.",
+      "th": "- ปล่อยฉันนะ - อีนี่ทำฉันจมูกหัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me go or I'll snap her scrawny red neck.",
+      "th": "ปล่อยฉัน ไม่งั้นฉันจะเด็ดคออีเด็กชั้นต่ำนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do it. That's one less slut.",
+      "th": "เอาสิ โลกจะได้มีกะหรี่น้อยลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mace] Get the money!",
+      "th": "เอาเงินมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] Get away from that!",
+      "th": "ไปให้พ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me back my bag.",
+      "th": "เอากระเป๋าฉันคืนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't going nowhere.",
+      "th": "ไม่ไหนไม่รอดหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Brenda] No! No! Please. Please. -[man] Get the bag!",
+      "th": "- อย่า ขอร้องล่ะ - เอากระเป๋ามา"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "อย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Son of a--",
+      "th": "ไอ้แม่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Here you go, Mace. -[Brenda] That's my bag.",
+      "th": "- รับไป เมซ - นั่นกระเป๋าฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Easy now.",
+      "th": "ใจเย็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need that money to get my son back.",
+      "th": "ฉันต้องเอาเงินนั่นไปไถ่ตัวลูกชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't give two shits about your son.",
+      "th": "ใครเขาสนลูกหล่อนวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, fuck her! Yeah, she won't use that gun.",
+      "th": "เออ เอาแม่งเลย มันไม่กล้าใช้ปืนนั่นหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God!",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mace, bitch shot off my leg!",
+      "th": "เมซ อีนี่มันยิงขาฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I missed! I was aiming for your balls.",
+      "th": "พลาดไป กะจะยิงไอ้ที่ห้อยๆ อยู่แท้ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got one more shot in this gun. Who wants it?",
+      "th": "ฉันยังมีอีกนัด ไหนใครอยากกิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't shoot us all.",
+      "th": "เธอยิงเราทุกคนไม่หมดหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I won't have to.",
+      "th": "ก็ไม่เห็นต้องยิงหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "The money in that bag belongs to Mr. Cross.",
+      "th": "เงินในกระเป๋านั่นเป็นของมิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "You heard of him?",
+      "th": "ได้ยินแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wonder what he would do if he finds out who stole his money.",
+      "th": "เขาจะทำยังไงนะ ถ้ารู้ว่าใครขโมยเงินเขาไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put the fucking money back in the bag.",
+      "th": "เอาเงินมาใส่กระเป๋าคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go on, do it.",
+      "th": "เร็วเข้า ทำสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Brenda] All of it. -[Mace] Get it in!",
+      "th": "- ทั้งหมดเลย - เอาใส่เข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hurry up! -[man] Do what he says.",
+      "th": "- เร็วเข้า - ทำตามที่เขาบอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mace] Jesus Christ.",
+      "th": "ให้ตายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look.",
+      "th": "ฟังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "There ain't no reason to tell him about all this, huh?",
+      "th": "ไม่เห็นจำเป็นต้องไปบอกให้เขารู้เลยนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No harm, no foul. Right?",
+      "th": "ไม่มีใครตายสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll think about that when I'm driving away.",
+      "th": "เอาไว้ฉันค่อยคิดตอนขับรถไปจากที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hammers] If Mr. Cross or any of his friends decide to show up,",
+      "th": "ถ้ามิสเตอร์ครอสกับลูกน้องมันโผล่มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "my wife Val is as handy with a gun as I am.",
+      "th": "วาลเมียฉันก็เก่งปืนพอๆ กับฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Whoa. Whoa. Whoa.",
+      "th": "เย็นไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry about him. He's friendly.",
+      "th": "ไม่เป็นไร ตัวนี้เป็นมิตร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I do not like dogs. -Even the teeny-weeny ones freak him out.",
+      "th": "- ไม่ชอบหมาน่ะ - ขนาดตัวเล็กๆ ยังทำเขากลัวเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, it's the teeny-weeny ones that have the sharpest bite.",
+      "th": "ตัวเล็กๆ นั่นแหละที่ฟันแหลมคมที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "th": "ไปๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hello, woman. [laughs] -Hello, man.",
+      "th": "- สวัสดี คุณผู้หญิง - สวัสดี คุณผู้ชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Kelly Freeman and her uncle Reggie. They're from California.",
+      "th": "นี่เคลลี่ ฟรีแมน กับน้าเรจจี้ จากแคลิฟอร์เนีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ma'am. -Well, how do you do? Nice to meet you.",
+      "th": "- คุณนาย - เป็นยังไงกันบ้าง ดีใจที่ได้เจอนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hello, Kelly. -Hi. Are you hungry, child?",
+      "th": "ไงจ๊ะ เคลลี่ หิวหรือเปล่า แม่หนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no, thank you. We're good.",
+      "th": "ไม่ค่ะ ขอบคุณค่ะ เราไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie, Kelly, lend me a hand, please.",
+      "th": "เรจจี้ เคลลี่ ช่วยฉันหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had to give him a shot to put him out, so he might be groggy.",
+      "th": "ฉันต้องฉีดยาให้เขาสลบไปน่ะ ตอนนี้ก็น่าจะยังมึนๆ อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cam struggling] -Oh, fuck no!",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "See? Boy's safe and sound.",
+      "th": "เห็นไหม ตาหนูยังอยู่ดี ปลอดภัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cam. -You dead, motherfucker.",
+      "th": "- แคม - แกตายแน่ ไอ้เวร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope. Alive and kicking.",
+      "th": "ไม่ตายและยังปึ๋งปั๋งดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boss man.",
+      "th": "หัวหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You and your surprises.",
+      "th": "ชอบเซอร์ไพรส์คนจริงๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. I couldn't resist.",
+      "th": "นั่นสิ อดใจไม่ไหวน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, where's my money?",
+      "th": "เอ้า เงินฉันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] Mom, uh, we are at Lucky 13 restaurant, right outside of Old Bravo, okay?",
+      "th": "แม่ เราอยู่ที่ร้านลัคกี้ 13 ออกจากโอลด์ บราโว่มานิดเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you please call me?",
+      "th": "แม่โทรหาหนูที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie just told me everything and I'm really scared.",
+      "th": "น้าเรจจี้บอกหนูทุกอย่างแล้ว หนูกลัวมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where… Where's my family?",
+      "th": "ครอบครัวฉันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "ไม่เอาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, baby, pick up the phone. Pick it up. Pick it up, Kelly. Pick it up.",
+      "th": "รับสิ ลูก รับโทรศัพท์ รับสายสิ เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's her.",
+      "th": "นั่นเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, she's probably calling to say she's got the money and is on her way.",
+      "th": "น่าจะโทรมาบอกว่าได้เงินมาแล้ว กำลังมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have had one hell of a 24 hours, JD.",
+      "th": "เป็น 24 ชั่วโมงที่เหนื่อยใช่เล่นเลยนะ เจดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] My own damn fault.",
+      "th": "ความผิดผมเองแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I underestimated Harvey Ruck.",
+      "th": "ประเมินไอ้ฮาร์วี่ย์ รัคต่ำไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "He didn't know I put a tracker on his car,",
+      "th": "มันไม่รู้ว่าผมติดเครื่องติดตามไว้ที่รถ"
+    }
+  },
+  {
+    "translation": {
+      "en": "so he wasn't hard to find.",
+      "th": "ก็เลยตามหาตัวไม่ยาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Son of a bitch was feeling brave.",
+      "th": "ไอ้ลูกหมานั่นเกิดกล้าขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had no other choice.",
+      "th": "ผมก็เลยไม่มีทางเลือก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Problem was, I had to clear out before I could find the money.",
+      "th": "ปัญหาคือผมต้องรีบไป ไม่ทันได้ค้นหาเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Figured I'd get it when I came back in my official capacity.",
+      "th": "คิดว่าเดี๋ยวค่อยมาเอา ตอนที่ใส่เครื่องแบบกลับเข้าไปก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "But now we'll get our money back from Mrs. Freeman.",
+      "th": "แต่เราก็จะได้เงินมาจากคุณฟรีแมนแล้วล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We will, you will.",
+      "th": "เราได้แน่ คุณได้แน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a good man.",
+      "th": "คุณเป็นคนดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "My good man.",
+      "th": "คนดีของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Love you to death.",
+      "th": "รักตายเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me, nothing bad is gonna happen.",
+      "th": "ฟังนะ จะไม่มีเรื่องร้ายเกิดขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will not let anything bad happen to y'all.",
+      "th": "น้าจะไม่ปล่อยให้เกิดอะไรขึ้นกับพวกเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once your mom gets here with the money, they'll let us go.",
+      "th": "พอแม่เธอมาถึง พวกมันจะปล่อยเราไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "I promise. You hear me?",
+      "th": "น้าสัญญา ได้ยินไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's my family?",
+      "th": "ครอบครัวฉันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[distorted voice] We're sending you a family portrait.",
+      "th": "เรากำลังส่งรูปครอบครัวไปให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cross] Don't be late.",
+      "th": "อย่ามาสายล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or the throat cutting starts without you.",
+      "th": "ไม่งั้นไม่ทันดูปาดคอนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] Oh, shit.",
+      "th": "ให้ตายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the trap for Mom, and he's using us as bait.",
+      "th": "นี่เป็นกับดักที่ใช้ล่อแม่ มันใช้เราเป็นเหยื่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to find a way out of here.",
+      "th": "เราต้องหาทางออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, how? This place looks like Jigsaw's basement.",
+      "th": "เหรอ ยังไงล่ะ ห้องนี่อย่างกับหนังเกมตัดต่อตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about that?",
+      "th": "แล้วทางนั้นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God!",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] But it's rusted shut. -Here, Kelly.",
+      "th": "- แน่นเหมือนสนิมเกาะ - เอ้า เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, but what if they hear us upstairs? -[Reggie] They won't.",
+      "th": "- ถ้าพวกมันได้ยินล่ะ - ไม่ได้ยินหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is housebreaking 101. Cam, hand me one of those rags over there.",
+      "th": "วิชาบุกรุกบ้านคนขั้นพื้นฐาน แคม ส่งผ้าขี้ริ้วตรงนั้นมาสักผืนสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. Wrap the rag around the end of the broom.",
+      "th": "ดี เอาผ้าพันไว้รอบปลายไม้กวาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, take the end of it, gently press it up against the glass,",
+      "th": "เอาล่ะ เอาปลายด้านนั้นกดเข้ากับกระจกเบาๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "directly in the middle, then give it a fast punch.",
+      "th": "ตรงกลางเลยนะ แล้วกระแทกแบบเร็วๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just pop it.",
+      "th": "เอาให้แตก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[nervously] Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go ahead. Go ahead. -Can you give me a lift?",
+      "th": "- ไปเลย - ช่วยดันตัวที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God!",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[groans] It bit me.",
+      "th": "มันกัดฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut the hell up, Cujo, before I whoop your ass!",
+      "th": "หุบปาก ไอ้หมาบ้า เดี๋ยวพ่อเตะให้หางจุดตูด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Here. -[Hammers whistles] Here, boy!",
+      "th": "- นี่ๆ - มานี่ ไอ้หนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Steady. Steady. Steady.",
+      "th": "นิ่งไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's coming. He's coming.",
+      "th": "เขามาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[groans] -Sorry, sorry! Here.",
+      "th": "โทษที ขอโทษ นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] Come on!",
+      "th": "ติดสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn!",
+      "th": "บ้าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "th": "ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Should have warned you about my alarm dog.",
+      "th": "น่าจะเตือนเรื่องหมาเฝ้ายามไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got some good news though. Your mama's almost here.",
+      "th": "แต่ว่ามีข่าวดีนะ แม่เธอใกล้จะมาถึงแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all need to come back upstairs.",
+      "th": "พวกเธอกลับขึ้นไปข้างบนเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry you got caught in the crossfire, but soon as I get my money,",
+      "th": "แย่หน่อยนะที่ต้องมาโดนหางเลขไปด้วย แต่ทันทีที่ฉันได้เงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "you're free to go.",
+      "th": "พวกเธอก็ไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just gonna let us go on our merry way? -That's right.",
+      "th": "- จะปล่อยเราไปดีๆ งั้นเหรอ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You a goddamn liar.",
+      "th": "ไอ้แก่ตอแหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did you say?",
+      "th": "ว่าไงนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You heard me, cracker.",
+      "th": "ได้ยินแล้วนี่ ไอ้ขี้ยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can take this country, \"aw, shucks,\" fake Southern hospitality bullshit,",
+      "th": "เอาท่าทีคนบ้านนอกขี้อายกับน้ำใจทางใต้ปลอมๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and shove it right up your tight cowboy ass.",
+      "th": "ยัดปากคาวบอยของแกไปเลยไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "I ain't gonna let you hurt these kids.",
+      "th": "ฉันไม่ยอมให้แกทำอะไรเด็กพวกนี้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gonna need to learn some respect, boy.",
+      "th": "รู้จักเคารพคนอื่นเขาบ้างสิ ไอ้หนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Perfect.",
+      "th": "เยี่ยม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screams] -Clorox, motherfucker!",
+      "th": "กินน้ำยาฟอกขาวซะ ไอ้เวร"
+    }
+  },
+  {
+    "translation": {
+      "en": "JD! JD!",
+      "th": "เจดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kelly!",
+      "th": "เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn, I thought she was a nice old lady.",
+      "th": "ให้ตายสิ นึกว่าจะเป็นคุณยายใจดีซะอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie!",
+      "th": "น้าเรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lose that knife.",
+      "th": "ทิ้งมีดซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I said lose that knife.",
+      "th": "บอกให้ทิ้งมีดไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, look at you, little man.",
+      "th": "มาดดีนะ หนุ่มน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't gonna shoot me.",
+      "th": "เธอไม่ยิงฉันหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right.",
+      "th": "ก็ถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "He won't. But I will.",
+      "th": "เขาไม่ยิงหรอก แต่ฉันยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drop the knife.",
+      "th": "วางมีดลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[voice wavering] We wasn't going to hurt you.",
+      "th": "เราไม่ได้จะทำร้ายพวกเธอสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitch,",
+      "th": "อีชั่ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "get your evil, Martha-Stewart-looking ass down them steps.",
+      "th": "ไม่ต้องมาทำหน้าเหมือนมาร์ธา สจ๊วต เดินลงไปบันไดไปซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now!",
+      "th": "เดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bitch, get your-- -[screams]",
+      "th": "อีบ้านี่ ลงไป…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Girl, give me this weapon. Get our phones. Let's get the fuck out of this psycho house.",
+      "th": "เอาปืนมาให้น้า ไปหยิบโทรศัพท์มา ออกจากบ้านคนบ้านี่กัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, little man.",
+      "th": "ขอบใจนะ หนุ่มน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please don't die.",
+      "th": "อย่าตายนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got you. I ain't going nowhere, okay? You hear me?",
+      "th": "ไม่ตายหรอก น้าไม่ไปไหนทั้งนั้นแหละ ได้ยินไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I promise. I ain't going nowhere.",
+      "th": "น้าสัญญา น้าจะไม่ไปไหนทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay? -Okay.",
+      "th": "- โอเคนะ - โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, let's get out of here. Come on, we got to find your mom.",
+      "th": "เอาล่ะ ออกไปจากที่นี่กันเถอะ เร็วเข้า ต้องไปตามหาแม่เขาอีกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-JD, they're getting away. -[Hammers groaning]",
+      "th": "เจดี พวกมันจะไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you okay? -The little shit poured bleach in my eyes.",
+      "th": "- คุณเป็นไรไหม - ไอ้ชั่วนั่นราดน้ำยาฟอกขาวใส่ตาฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you see?",
+      "th": "มองเห็นหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good enough to hit what I aim at.",
+      "th": "เห็นพอจะเล็งยิงได้แล้วกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[line ringing] -[Kelly] Mom, come on. Pick up please.",
+      "th": "แม่ เร็วเข้า รับสายสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please. Please, please, please.",
+      "th": "ขอร้องล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on. -[Brenda] Kelly!",
+      "th": "- เร็วเข้า - เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom? Mommy, where are you?",
+      "th": "แม่ แม่คะ แม่อยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I'm almost there, but my phone is dying.",
+      "th": "แม่ว่าแม่ใกล้ถึงแล้วนะ แต่แบตจะหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I can hear you but I can't see you.",
+      "th": "หนูว่าหนูได้ยินแม่นะ แต่มองไม่เห็นเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, where are you?",
+      "th": "แม่ แม่อยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[twigs snap] -Mom!",
+      "th": "แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cam! -Mom!",
+      "th": "- แคม - แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God!",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mama! -Oh, Kelly!",
+      "th": "- แม่ - เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, Cam, my baby.",
+      "th": "แคม ลูกแม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, Reggie, he kept us all safe.",
+      "th": "แม่ น้าเรจจี้ปกป้องเราทุกคนเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Reg.",
+      "th": "ขอบคุณนะ เรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you for my children.",
+      "th": "ขอบคุณแทนลูกๆ ฉันด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're all I got.",
+      "th": "ครอบครัวฉันก็มีแค่นี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You too, big sis.",
+      "th": "รวมเธอด้วย ยัยพี่สาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] Okay, Mom, listen to me.",
+      "th": "โอเค แม่ ฟังหนูนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Cross is an Arizona State Trooper. He's… He's the captain.",
+      "th": "มิสเตอร์ครอสคือคนในกองกำลังพลรัฐแอริโซนา ผู้กองคนนั้นน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -Capt. Hammers is Mr. Cross.",
+      "th": "- อะไรนะ - ผู้กองแฮมเมอร์ส์คือมิสเตอร์ครอส"
+    }
+  },
+  {
+    "translation": {
+      "en": "And he's corrupt and evil, and his crazy wife is just as bad.",
+      "th": "เขามันชั่วและทุจริต เมียบ้าๆ ของเขาก็ชั่วพอกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were gonna kill all of us.",
+      "th": "พวกเขาจะฆ่าเราทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's what? Where are they now? -Locked in the cellar.",
+      "th": "- ตอนนี้พวกเขาอยู่ที่ไหน - เราขังไว้ในห้องใต้ดิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, we better move.",
+      "th": "ไปกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, wait, wait! What about the money?",
+      "th": "เดี๋ยวก่อน แล้วเงินล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It stays to pay for our escape.",
+      "th": "ทิ้งไว้นี่แหละ เปิดทางหนี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, sis. Hammers, Cross, whatever his name is,",
+      "th": "ไม่เอาน่า พี่ ไอ้แฮมเมอร์ส์ ครอส หรือชื่ออะไรก็ช่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "he's not gonna honor that deal.",
+      "th": "มันไม่รักษาข้อตกลงหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know that.",
+      "th": "พี่เองก็รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It stays.",
+      "th": "ทิ้งไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me that's your final offer.",
+      "th": "บอกสิว่าตัดสินใจดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll put it where the schizophrenic asshole can't miss it.",
+      "th": "จะวางไว้ตรงที่ไอ้โรคจิตนั่นจะมองเห็นแล้วกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Let's go.",
+      "th": "เร็วเข้า ไปกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give me my shotgun. -Here.",
+      "th": "- เอาปืนลูกซองมา - เอ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "th": "ไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Val] Where are they?",
+      "th": "พวกมันอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hammers] Look.",
+      "th": "ดูสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They can't be far.",
+      "th": "น่าจะไปได้ไม่ไกล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look what we got.",
+      "th": "ดูสิอะไรเอ่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time to go hunting.",
+      "th": "ได้เวลาล่าแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] Don't start the car until I yell.",
+      "th": "อย่าสตาร์ทจนกว่าแม่จะตะโกนบอกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got this, Kelly. You got this.",
+      "th": "เธอทำได้ เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right. Let's get this baby started. -Okay, Kelly, go.",
+      "th": "- เอาล่ะ สตาร์ทเครื่องยนต์กันหน่อย - เคลลี่ เอาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on. -[Brenda] Come on, please.",
+      "th": "- ติดสิ - ติดสิ ขอร้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Reg, you're gonna have to fix this. -I'm on it.",
+      "th": "- เรจ นายต้องซ่อมให้ได้นะ - วางใจได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Val] Which way?",
+      "th": "ทางไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hammers] Don't know. Lost their tracks.",
+      "th": "ไม่รู้สิ รอยเท้าหายไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cam] I think it's the fan belt.",
+      "th": "ผมว่าสายพานขับพัดลมนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You a smart kid, you know that? -Thanks.",
+      "th": "- หลานเป็นเด็กที่ฉลาดนะเนี่ย - ขอบคุณฮะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Become a scientist when you grow up. Help change the world for the better.",
+      "th": "พอโตแล้วเป็นนักวิทยาศาสตร์นะ เปลี่ยนโลกเราให้ดีขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Make Uncle Reg proud. -I got you, Uncle Reg.",
+      "th": "- ทำให้น้าเรจภูมิใจ - ได้เลย น้าเรจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, move back.",
+      "th": "เอาล่ะ หลบสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, start the engine.",
+      "th": "โอเค สตาร์ทได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Okay, okay, okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes! -[Brenda] Yes!",
+      "th": "- เย่ - แจ๋ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brenda] There you go.",
+      "th": "ต้องงี้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes! -Yeah!",
+      "th": "- เยี่ยม - เย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We did it! -[all laughing]",
+      "th": "ทำได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got you.",
+      "th": "เจอตัวแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can we just keep driving until we get to Grandma's?",
+      "th": "ขับไปเรื่อยๆ จนถึงบ้านยายเลยได้ไหมคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Absolutely.",
+      "th": "ได้แน่นอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We only stopping for gas.",
+      "th": "แวะแค่เติมน้ำมันเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] I heard that.",
+      "th": "เห็นด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Amen.",
+      "th": "อาเมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, shit, we got company. -What?",
+      "th": "- แย่ละ มีแขกมาสมทบ - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold her steady.",
+      "th": "บังคับรถนิ่งๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drive!",
+      "th": "ไปเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get down! -I think I got their attention.",
+      "th": "- หมอบลง - คิดว่าดึงความสนใจได้แล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Brenda] Oh, my God! -Take this. It's us or them.",
+      "th": "- พระเจ้า - เอานี่ไป ไม่พวกมันก็พวกเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Mom. Focus and squeeze, like Grandpa taught you.",
+      "th": "เอาเลย แม่ ตั้งสมาธิแล้วลั่นไก อย่างที่ตาสอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nobody messes with my family.",
+      "th": "ใครก็ห้ามทำอะไรครอบครัวฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Hammers] We got a live one.",
+      "th": "ทางนั้นมีปืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn her! I can't see.",
+      "th": "ให้ตายสิ ฉันมองไม่เห็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes! -[Reggie] Did you get 'em?",
+      "th": "- เยี่ยม - จัดการได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[kids] Hell yeah. -Yeah, but keep driving. Don't slow down.",
+      "th": "- ได้แล้ว - ได้ แต่ขับต่อไป อย่าผ่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're back.",
+      "th": "พวกมันกลับมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cam] Oh, God!",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no! -No!",
+      "th": "- ไม่นะ - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Missed me, motherfucker! -[Brenda] Reggie, keep it steady.",
+      "th": "- พลาดไปนะ ไอ้ชั่ว - บังคับรถนิ่งๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Bren, be careful.",
+      "th": "เบรน ระวังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! -Oh, no!",
+      "th": "- แม่ - ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got you now.",
+      "th": "ทีนี้ก็เสร็จฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hang on, I got this.",
+      "th": "อดทนไว้ ปล่อยฉันเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] Be careful.",
+      "th": "ระวังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, get back! Get back!",
+      "th": "แม่ กลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look out!",
+      "th": "ระวัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! -Mom!",
+      "th": "- แม่ - แม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop the car! Reg, stop the car!",
+      "th": "หยุดรถ! น้าเรจ หยุดรถ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cam] Mom! -[Kelly] No!",
+      "th": "- แม่! - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is my game.",
+      "th": "นี่คือเกมของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You broke the rules.",
+      "th": "เธอทำผิดกฎ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bye-bye.",
+      "th": "บ๊ายบาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No.",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No! No!",
+      "th": "อย่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] Mom? -[Cam] Mama!",
+      "th": "ไม่นะ แม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly] Oh, my God.",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, enough. Enough! Enough!",
+      "th": "เอาล่ะ พอได้แล้ว พอสักที"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want me? Just take me.",
+      "th": "อยากได้ตัวฉันเหรอ เข้ามาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take me, okay, please?",
+      "th": "มาจับฉันไปสิ ขอล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please!",
+      "th": "ขอล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[engine starts] -[whimpers] No, Mom, no.",
+      "th": "แม่ ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like shooting fish in a barrel.",
+      "th": "เหมือนยิงปลาในไซ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Jump, kids! Get out, now! -[Kelly] Cam, go!",
+      "th": "- กระโดด เด็กๆ ลงจากรถเร็ว - แคม ไปเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "th": "ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I make my own rules.",
+      "th": "ฉันตั้งกฎเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Son of a bitch.",
+      "th": "ไอ้สารเลว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Kelly] Hey, Mom? -[Cam] Mom!",
+      "th": "- แม่คะ - แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, baby.",
+      "th": "ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're okay.",
+      "th": "ไม่เป็นไรแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's over now. It's over now.",
+      "th": "มันจบแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "th": "เอาล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This nightmare's over.",
+      "th": "ฝันร้ายจบลงแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got you.",
+      "th": "แม่อยู่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm never letting go.",
+      "th": "แม่จะไม่ปล่อยลูกไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Never. -Okay.",
+      "th": "- ไม่มีทาง - ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, bro.",
+      "th": "มาเร็ว ไอ้น้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You too.",
+      "th": "นายก็ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You too.",
+      "th": "นายด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know the drill.",
+      "th": "รู้วิธีปฏิบัตินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Reggie] Oh, thank God.",
+      "th": "ขอบคุณพระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Jake.",
+      "th": "ขอบคุณนะ เจ้ค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "th": "ขอบคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Reggie?",
+      "th": "เรจจี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drive this car and do not stop until you hit Texas.",
+      "th": "ขับรถไปและอย่าหยุดจนกว่าจะถึงเท็กซัสนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "th": "ขอบคุณครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all enjoy it.",
+      "th": "ตามสบายนะคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, uh, y'all ain't got to worry about the check. I got it covered.",
+      "th": "ฟังนะ ไม่ต้องห่วงเรื่องค่าอาหารนะ น้าจ่ายเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, y'all. Dig in.",
+      "th": "กินสิ ทุกคน หม่ำเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "And come up off this syrup, Kelly.",
+      "th": "อย่ายึดน้ำเชื่อมไว้คนเดียวสิ เคลลี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You paying?",
+      "th": "นายจ่ายเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, Bren. Give me the--",
+      "th": "ใช่ เบรน ส่งขวด…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me you didn't.",
+      "th": "อย่าบอกนะว่านาย…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't what?",
+      "th": "ฉันทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! I see your eyes darting. What did you do, Reggie?",
+      "th": "เห็นนะว่าล่อกแล่ก นายทำอะไรไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much?",
+      "th": "เท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough to give us a new start.",
+      "th": "มากพอที่จะเริ่มต้นใหม่น่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right, and there's more where that came from.",
+      "th": "ใช่จ้ะ ยังมีอีกเป็นปึก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kelly laughing] Oh, my gosh!",
+      "th": "ตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, you know, waffles, they taste best when you load 'em with lots of syrup.",
+      "th": "รู้ไหม วาฟเฟิลน่ะ จะอร่อยที่สุดเวลาใส่น้ำเชื่อมเยอะๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And butter. Got to have butter.",
+      "th": "กับเนย ต้องใส่เนยด้วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We gotta give that back.",
+      "th": "เราต้องเอาไปคืนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give it back to who?",
+      "th": "คืนให้ใครล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, yeah, Mom. Give it back to who?",
+      "th": "เดี๋ยว นั่นสิ แม่ คืนให้ใครเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can't exactly take out an ad.",
+      "th": "ประกาศตามหาเจ้าของก็ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, absolutely not.",
+      "th": "ไม่ ไม่ได้เด็ดขาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cam, Kelly, do not look at him like that. He is not a good role model.",
+      "th": "แคม เคลลี่ อย่ามองน้าเขาแบบนั้น น้าไม่ใช่แบบอย่างที่ดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me, I'm a great role model.",
+      "th": "ทานโทษ ฉันเป็นแบบอย่างที่ดีเหอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We gotta give this money back to…",
+      "th": "เราต้องเอาเงินนี่ไปคืนให้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "th": "ไม่รู้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somebody.",
+      "th": "ใครสักคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right?",
+      "th": "ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom, we're keeping it.",
+      "th": "แม่ เราจะเก็บมันไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Restitution.",
+      "th": "ชดใช้ค่าเสียหาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks to me like you've been outvoted, big sis.",
+      "th": "ฉันว่าเธอแพ้คะแนนเสียงนะ ยัยพี่สาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "So eat. Your food's getting cold.",
+      "th": "กินเถอะ อาหารจะเย็นหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cam] Yeah, come on, Mom.",
+      "th": "นั่นสิ เถอะนะ แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Join the family. -[Reggie] Mmm-hmm.",
+      "th": "ให้ความร่วมมือหน่อยสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "A celebration.",
+      "th": "ฉลองกันหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cam] Come on.",
+      "th": "น่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just a family celebration.",
+      "th": "ฉลองแค่ในครอบครัวนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pass the syrup.",
+      "th": "ส่งน้ำเชื่อมมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Thank God.",
+      "th": "ขอบคุณพระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's put this money away. We don't need no problems.",
+      "th": "เอาเงินไปเก็บดีๆ สิ เดี๋ยวก็เป็นเรื่องหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Texas ain't got nothing on Arizona.",
+      "th": "ที่เท็กซัสไม่เหมือนแอริโซนานะ"
+    }
+  }
+]

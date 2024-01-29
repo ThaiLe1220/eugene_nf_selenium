@@ -27,7 +27,7 @@ def delete_invalid_translation_files(lang_code):
                     lang_translation = item["translation"].get(lang_code)
                     if en == lang_translation or en == "" or lang_translation == "":
                         repetitive_count += 1
-                        if repetitive_count >= 65:
+                        if repetitive_count >= 50:
                             os.remove(file_path)
                             print(
                                 f"Deleted file due to repetitive translations: {filename}"
@@ -56,25 +56,24 @@ def clean_netflix_links(input_file, output_file):
 
     cleaned_links = []
 
-    with open(input_file, "r", encoding="utf-8") as file:
-        for link in file:
+    with open(input_file, "r", encoding="utf-8") as file_to_clean:
+        for link in file_to_clean:
             link = link.strip()
-            if link.startswith("https://www.netflix.com/watch/"):
-                movie_id = re.split(r"[^0-9]", link.split("/")[-1])[0]
-                cleaned_link = f"https://www.netflix.com/watch/{movie_id}"
-                cleaned_links.append(cleaned_link)
+            cleaned_links.append(link)
 
     sorted_links = sorted(cleaned_links, key=lambda x: int(x.split("/")[-1]))
     unique_sorted_links = sorted(set(link.strip() for link in sorted_links))
 
-    with open(output_file, "w", encoding="utf-8") as file:
+    with open(output_file, "w", encoding="utf-8") as cleaned_file:
         for link in unique_sorted_links:
-            file.write(link + "\n")
+            cleaned_file.write(link + "\n")
 
 
 def clean_text(text):
-    text = text.replace("\n", "")
+    text = text.replace("\n", " ")
     text = text.replace("\u200E", "")
+    text = text.replace("   ", " ")
+    text = text.replace("  ", " ")
 
     return text.strip()
 
@@ -101,11 +100,11 @@ def process_subtitle(td):
     return processed_subtitle
 
 
-def process_and_save_data(movies_id, source_lang, target_lang):
+def process_and_save_data(cur_id, source_lang, target_lang):
     """Processes HTML content to extract subtitle translations and saves them as JSON.
 
     Args:
-        movies_id (str): Identifier for the movie.
+        cur_id (str): Identifier for the movie.
         source_lang (str): Source language code.
         target_lang (str): Target language code.
 
@@ -113,13 +112,13 @@ def process_and_save_data(movies_id, source_lang, target_lang):
         ValueError: If no valid translations are found for the given movie ID.
     """
 
-    print(f" process_and_save_data() {movies_id} {source_lang}-{target_lang}")
-    file_path = f"../markup/{source_lang}-{target_lang}/{movies_id}.html"
+    print(f" process_and_save_data() {cur_id} {source_lang}-{target_lang}")
+    file_path = f"../markup/{source_lang}-{target_lang}/{cur_id}.html"
 
     try:
         # Read the HTML content from the specified file
-        with open(file_path, "r", encoding="utf-8") as f:
-            html_content = f.read()
+        with open(file_path, "r", encoding="utf-8") as html_file:
+            html_content = html_file.read()
 
         # Parse the HTML content using BeautifulSoup
         soup = BeautifulSoup(html_content, "html.parser")
@@ -151,7 +150,7 @@ def process_and_save_data(movies_id, source_lang, target_lang):
 
         # Raise an error if no valid translations are found
         if not translations:
-            raise ValueError(f"No valid translations found for {movies_id}")
+            raise ValueError(f"  No valid translations found for {cur_id}")
 
         # Create directory for saving data, if it doesn't exist
         dir_path = f"../data/{source_lang}-{target_lang}"
@@ -159,26 +158,14 @@ def process_and_save_data(movies_id, source_lang, target_lang):
 
         # Save the extracted translations to a JSON file
         with open(
-            f"../data/{source_lang}-{target_lang}/{movies_id}.json",
+            f"../data/{source_lang}-{target_lang}/{cur_id}.json",
             "w",
             encoding="utf-8",
         ) as f:
             json.dump(translations, f, indent=2, ensure_ascii=False)
             print(
-                f"The subtitle has been saved as ../data/{source_lang}-{target_lang}/{movies_id}.json"
+                f"  The subtitle has been saved as ../data/{source_lang}-{target_lang}/{cur_id}.json"
             )
-
-    # Handle file not found error
-    except FileNotFoundError:
-        print(f"File not found: {file_path}")
-
-        # Log the file not found error in a text file
-        with open(
-            f"../markup/{source_lang}-{target_lang}-invalid-html.txt",
-            "a",
-            encoding="utf-8",
-        ) as f:
-            f.write(f"https://www.netflix.com/watch/{movie_id}\n")
 
     # Handle other exceptions, specifically no valid translations
     except ValueError as e:
@@ -186,16 +173,28 @@ def process_and_save_data(movies_id, source_lang, target_lang):
 
         # Log the error in a text file
         with open(
-            f"../markup/{source_lang}-{target_lang}-invalid-html.txt",
+            f"../markup/{source_lang}-{target_lang}-no-translation.txt",
             "a",
             encoding="utf-8",
-        ) as f:
-            f.write(f"https://www.netflix.com/watch/{movie_id}\n")
+        ) as invalid_translation_file:
+            invalid_translation_file.write(f"https://www.netflix.com/watch/{cur_id}\n")
+
+    # Handle file not found error
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+
+        # Log the file not found error in a text file
+        with open(
+            f"../markup/{source_lang}-{target_lang}-no-html.txt",
+            "a",
+            encoding="utf-8",
+        ) as invalid_html_file:
+            invalid_html_file.write(f"https://www.netflix.com/watch/{cur_id}\n")
 
 
 # Initialize lists to store Netflix movie links and their corresponding IDs
 netflix_links = []
-movies_ids = []
+movie_ids = []
 
 # Read and process cleaned Netflix movie links
 with open("../source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
@@ -204,26 +203,42 @@ with open("../source/movies_links_cleaned.txt", "r", encoding="utf-8") as file:
         if line.startswith("https://www.netflix.com/watch/"):
             netflix_links.append(line)
             movie_id = line.split("/")[-1]
-            movies_ids.append(movie_id)
+            movie_ids.append(movie_id)
 
 
 # Define language pairs for processing
 LANG_PAIRS = [
     ("en", "vi"),
     ("en", "es"),
-    ("en", "zh"),
+    ("en", "de"),
     ("en", "fr"),
+    ("en", "it"),
     ("en", "ja"),
+    ("en", "ko"),
+    ("en", "zh"),
+    ("en", "th"),
 ]
 
 
-# Processing data for each language pair
 for source, target in LANG_PAIRS:
-    for i in range(0, 20):
+    for i in range(1000, 1100):
         print(f"Iteration {i}: ", end="")
-        if i < len(movies_ids):  # Prevent index out of range
-            process_and_save_data(movies_ids[i], source, target)
+        if i < len(movie_ids):  # Prevent index out of range
+            process_and_save_data(movie_ids[i], source, target)
 
     delete_invalid_translation_files(target)
-    invalid_html_directory = f"../markup/{source}-{target}-invalid-html.txt"
-    clean_netflix_links(invalid_html_directory, invalid_html_directory)
+
+    # Define the paths for the files
+    no_translation_file_path = f"../markup/{source}-{target}-no-translation.txt"
+    no_html_file_path = f"../markup/{source}-{target}-no-html.txt"
+
+    # Check if the file directory exists before calling `clean_netflix_links`
+    if os.path.exists(no_translation_file_path):
+        clean_netflix_links(no_translation_file_path, no_translation_file_path)
+    else:
+        print(f"Directory not found for {no_translation_file_path}")
+
+    if os.path.exists(no_html_file_path):
+        clean_netflix_links(no_html_file_path, no_html_file_path)
+    else:
+        print(f"Directory not found for {no_html_file_path}")

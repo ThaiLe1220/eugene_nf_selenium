@@ -38,13 +38,13 @@
   {
     "translation": {
       "en": "-[nurse 2] I'll get the bag. -[nurse 3] What's going on, Charlie?",
-      "fr": "- J'amène le chariot.- Qu'y a-t-il ?"
+      "fr": "- J'amène le chariot. - Qu'y a-t-il ?"
     }
   },
   {
     "translation": {
       "en": "[Charlie] I came in, he was seizing, he went into V-tach, and then he coded.",
-      "fr": "Il est devenu tachycardeet il a fait un arrêt cardiaque."
+      "fr": "Il est devenu tachycarde et il a fait un arrêt cardiaque."
     }
   },
   {
@@ -80,7 +80,7 @@
   {
     "translation": {
       "en": "[Charlie] I heard the alarm from the hall. I came in and saw he was seizing,",
-      "fr": "J'ai entendu l'alarme.Je suis arrivé, il convulsait."
+      "fr": "J'ai entendu l'alarme. Je suis arrivé, il convulsait."
     }
   },
   {
@@ -92,25 +92,25 @@
   {
     "translation": {
       "en": "and then he went asystolic.",
-      "fr": "- Puis en asystolie.- Massage."
+      "fr": "- Puis en asystolie. - Massage."
     }
   },
   {
     "translation": {
       "en": "-[nurse 2] Compressions. -[nurse 3] Watch out.",
-      "fr": "- Puis en asystolie.- Massage. Attention."
+      "fr": "- Puis en asystolie. - Massage. Attention."
     }
   },
   {
     "translation": {
       "en": "No epi yet. He's about a minute into compressions.",
-      "fr": "Pas d'adré.Une minute de massage cardiaque."
+      "fr": "Pas d'adré. Une minute de massage cardiaque."
     }
   },
   {
     "translation": {
       "en": "Okay. Let's get the epi started, please, and let's pause in a minute for a pulse check.",
-      "fr": "Préparez l'ampoule d'adré.Et prise de pouls dans une minute."
+      "fr": "Préparez l'ampoule d'adré. Et prise de pouls dans une minute."
     }
   },
   {
@@ -134,7 +134,7 @@
   {
     "translation": {
       "en": "-[nurse 3] 12, 13, 14, 15. -[nurse 2] Breath.",
-      "fr": "- … douze, 13, 14, 15.- Ventile."
+      "fr": "- … douze, 13, 14, 15. - Ventile."
     }
   },
   {
@@ -146,7 +146,7 @@
   {
     "translation": {
       "en": "-[nurse 2] Breath. -[nurse 3] Six, seven, eight, nine, ten…",
-      "fr": "- Ventile.- … cinq, 6, 7, 8, 9, 10, 11…"
+      "fr": "- Ventile. - … cinq, 6, 7, 8, 9, 10, 11…"
     }
   },
   {
@@ -164,25 +164,25 @@
   {
     "translation": {
       "en": "-Is that a shockable rhythm? -Yeah, it's shockable.",
-      "fr": "- Le rythme est choquable ?- Oui."
+      "fr": "- Le rythme est choquable ? - Oui."
     }
   },
   {
     "translation": {
       "en": "-Uh, let's charge 150 joules. -[nurse 3] Charging.",
-      "fr": "- Envoyez 150.- Ça charge."
+      "fr": "- Envoyez 150. - Ça charge."
     }
   },
   {
     "translation": {
       "en": "-[nurse 2] Breath. -[nurse 3] Ten, 11, 12, 13, 14, 15.",
-      "fr": "- Ventile.- Dix, 11, 12, 13, 14, 15."
+      "fr": "- Ventile. - Dix, 11, 12, 13, 14, 15."
     }
   },
   {
     "translation": {
       "en": "-[nurse 2] Quick compressions. -Come on.",
-      "fr": "- Massage rapide.- Allez."
+      "fr": "- Massage rapide. - Allez."
     }
   },
   {
@@ -194,7 +194,7 @@
   {
     "translation": {
       "en": "-Clear for the shock. -[nurse 2] You all clear? -Clear. -[defibrillation thumps]",
-      "fr": "- Préparation au choc.- Prêt."
+      "fr": "- Préparation au choc. - Prêt."
     }
   },
   {
@@ -212,7 +212,7 @@
   {
     "translation": {
       "en": "Breath. Hold.",
-      "fr": "- Ventile.- Attendez."
+      "fr": "- Ventile. - Attendez."
     }
   },
   {
@@ -224,19 +224,19 @@
   {
     "translation": {
       "en": "-[nurse 2] Good compressions. -[nurse 3] Breath, two, three, four.",
-      "fr": "- Massage rapide.- Ventile."
+      "fr": "- Massage rapide. - Ventile."
     }
   },
   {
     "translation": {
       "en": "-[nurse 2] Breath. -[nurse 3] 13, 14, 15.",
-      "fr": "- Ventile.- … treize, 14, 15."
+      "fr": "- Ventile. - … treize, 14, 15."
     }
   },
   {
     "translation": {
       "en": "-[nurse 2] Breath. -[doctor] Can I get an epi standing by?",
-      "fr": "- Ventile.- Adré, s'il vous plaît."
+      "fr": "- Ventile. - Adré, s'il vous plaît."
     }
   },
   {
@@ -248,19 +248,19 @@
   {
     "translation": {
       "en": "-[doctor] And charge. -[nurse 3] Ten, 11, 12, 13.",
-      "fr": "- Chargez.- … dix, 11, 12, 13."
+      "fr": "- Chargez. - … dix, 11, 12, 13."
     }
   },
   {
     "translation": {
       "en": "-[doctor] All right, let's pull back. -[nurse 2] All clear. All is clear.",
-      "fr": "- Arrêtez.- C'est bon. - Prêt.- Prêt."
+      "fr": "- Arrêtez. - C'est bon. - Prêt. - Prêt."
     }
   },
   {
     "translation": {
       "en": "-[doctor] All clear. -[beeping]",
-      "fr": "- Prêt.- Prêt."
+      "fr": "- Prêt. - Prêt."
     }
   },
   {
@@ -272,7 +272,7 @@
   {
     "translation": {
       "en": "-[nurse 3] Three, two, one… -[nurse 2] Breath.",
-      "fr": "- Trois, deux, un…- Ventile."
+      "fr": "- Trois, deux, un… - Ventile."
     }
   },
   {
@@ -308,7 +308,7 @@
   {
     "translation": {
       "en": "-Breath. -[beeping]",
-      "fr": "- Ventile.- Prêt."
+      "fr": "- Ventile. - Prêt."
     }
   },
   {
@@ -332,7 +332,7 @@
   {
     "translation": {
       "en": "-[nurse 3] I'm not getting anything. -[nurse 2] Breath.",
-      "fr": "- Rien.- Ventile."
+      "fr": "- Rien. - Ventile."
     }
   },
   {
@@ -344,7 +344,7 @@
   {
     "translation": {
       "en": "-[doctor] Fuck. -[nurse 3] Three, four, five…",
-      "fr": "- Putain.- … trois, quatre, cinq…"
+      "fr": "- Putain. - … trois, quatre, cinq…"
     }
   },
   {
@@ -362,7 +362,7 @@
   {
     "translation": {
       "en": "Mark the time of death. And let's call his wife.",
-      "fr": "Notez l'heure du décèset appelons sa femme."
+      "fr": "Notez l'heure du décès et appelons sa femme."
     }
   },
   {
@@ -374,7 +374,7 @@
   {
     "translation": {
       "en": "-How long have you two been married? -Three years.",
-      "fr": "- Vous êtes mariés depuis longtemps ?- Trois ans."
+      "fr": "- Vous êtes mariés depuis longtemps ? - Trois ans."
     }
   },
   {
@@ -410,7 +410,7 @@
   {
     "translation": {
       "en": "Sorry, she can't have any until tomorrow. She still might choke.",
-      "fr": "Pas avant demain,elle pourrait s'étouffer. Mais voilà."
+      "fr": "Pas avant demain, elle pourrait s'étouffer. Mais voilà."
     }
   },
   {
@@ -422,7 +422,7 @@
   {
     "translation": {
       "en": "-I have to go, but I'll be back. -No. No, you can't go.",
-      "fr": "- Je dois y aller, mais je reviendrai.- Reste."
+      "fr": "- Je dois y aller, mais je reviendrai. - Reste."
     }
   },
   {
@@ -434,7 +434,7 @@
   {
     "translation": {
       "en": "Hey, Sam, this chair reclines. You want a blanket and pillow?",
-      "fr": "Sam, ce fauteuil s'incline. Vous voulezune couverture et un oreiller ?"
+      "fr": "Sam, ce fauteuil s'incline. Vous voulez une couverture et un oreiller ?"
     }
   },
   {
@@ -452,7 +452,7 @@
   {
     "translation": {
       "en": "-I'll be right back. -Thanks.",
-      "fr": "- Je reviens.- Merci."
+      "fr": "- Je reviens. - Merci."
     }
   },
   {
@@ -464,7 +464,7 @@
   {
     "translation": {
       "en": "They don't know, but they want another set of labs at midnight.",
-      "fr": "Ils veulent faired'autres analyses à minuit."
+      "fr": "Ils veulent faire d'autres analyses à minuit."
     }
   },
   {
@@ -500,13 +500,13 @@
   {
     "translation": {
       "en": "An old man, yeah. He was exhausted, and it was 1:00 a.m.",
-      "fr": "Un homme âgé.Il était fatigué et il était tard."
+      "fr": "Un homme âgé. Il était fatigué et il était tard."
     }
   },
   {
     "translation": {
       "en": "We don't have the staff to run a hotel for relatives.",
-      "fr": "Nous ne sommes paséquipés pour faire hôtel."
+      "fr": "Nous ne sommes pas équipés pour faire hôtel."
     }
   },
   {
@@ -524,7 +524,7 @@
   {
     "translation": {
       "en": "I had to beg Linda Garran for extra staff.",
-      "fr": "J'ai dû supplier Linda Garranpour du personnel en plus."
+      "fr": "J'ai dû supplier Linda Garran pour du personnel en plus."
     }
   },
   {
@@ -536,13 +536,13 @@
   {
     "translation": {
       "en": "But I got nights some help, okay?",
-      "fr": "Mais j'ai trouvé du renfortpour les nuits."
+      "fr": "Mais j'ai trouvé du renfort pour les nuits."
     }
   },
   {
     "translation": {
       "en": "A new guy, tons of experience, great recommendations.",
-      "fr": "Un nouveau, avec de l'expérience,et chaudement recommandé."
+      "fr": "Un nouveau, avec de l'expérience, et chaudement recommandé."
     }
   },
   {
@@ -572,19 +572,19 @@
   {
     "translation": {
       "en": "All right, I'm just gonna turn you a little bit. Just put this arm down.",
-      "fr": "Bien. Je vais juste vous tourner un peu.Je pose votre bras ici."
+      "fr": "Bien. Je vais juste vous tourner un peu. Je pose votre bras ici."
     }
   },
   {
     "translation": {
       "en": "Hey, I ran into your sister when I started my shift.",
-      "fr": "J'ai croisé votre sœuren arrivant aujourd'hui."
+      "fr": "J'ai croisé votre sœur en arrivant aujourd'hui."
     }
   },
   {
     "translation": {
       "en": "She's so nice. Did you guys have a good time together?",
-      "fr": "Elle est vraiment super sympa.Vous avez passé un bon moment ?"
+      "fr": "Elle est vraiment super sympa. Vous avez passé un bon moment ?"
     }
   },
   {
@@ -614,13 +614,13 @@
   {
     "translation": {
       "en": "How was the fried chicken? Did you do the paper bag shake?",
-      "fr": "Et ce poulet ?Vous avez suivi la recette ?"
+      "fr": "Et ce poulet ? Vous avez suivi la recette ?"
     }
   },
   {
     "translation": {
       "en": "Yeah, I did the whole thing. Whatever Julia Child said, I did.",
-      "fr": "Oui, j'ai fait tout comme il fallait.Je n'ai sauté aucune étape."
+      "fr": "Oui, j'ai fait tout comme il fallait. Je n'ai sauté aucune étape."
     }
   },
   {
@@ -662,13 +662,13 @@
   {
     "translation": {
       "en": "-Okay, 20, 40… -Listen, you really don't have to do this.",
-      "fr": "- Voilà. Vingt, 40…- Ce n'est pas nécessaire."
+      "fr": "- Voilà. Vingt, 40… - Ce n'est pas nécessaire."
     }
   },
   {
     "translation": {
       "en": "-I don't need it all. -Six, seven… No, no, no. Eight, nine…",
-      "fr": "- Je n'ai pas…- … six, sept, huit, neuf…"
+      "fr": "- Je n'ai pas… - … six, sept, huit, neuf…"
     }
   },
   {
@@ -680,7 +680,7 @@
   {
     "translation": {
       "en": "-Thank you. I'm sorry too. -It's yours.",
-      "fr": "- Merci. Moi aussi.- C'est à vous."
+      "fr": "- Merci. Moi aussi. - C'est à vous."
     }
   },
   {
@@ -692,13 +692,13 @@
   {
     "translation": {
       "en": "I think we talked about Mr. Teddy not going to school before.",
-      "fr": "Je crois qu'on avait ditque M. Teddy n'allait pas à l'école."
+      "fr": "Je crois qu'on avait dit que M. Teddy n'allait pas à l'école."
     }
   },
   {
     "translation": {
       "en": "-[girl 2] Thanks, Mom. -Come here, Mr. Bag.",
-      "fr": "- Merci, maman.- Viens là, monsieur Sac."
+      "fr": "- Merci, maman. - Viens là, monsieur Sac."
     }
   },
   {
@@ -710,7 +710,7 @@
   {
     "translation": {
       "en": "-Bye. -[Amy] Have the best day. -[girl 1] Bye! -[Amy] Love you!",
-      "fr": "- Au revoir.- Au revoir. Je vous aime."
+      "fr": "- Au revoir. - Au revoir. Je vous aime."
     }
   },
   {
@@ -722,7 +722,7 @@
   {
     "translation": {
       "en": "-See you later. -Thanks.",
-      "fr": "- À plus tard.- Merci."
+      "fr": "- À plus tard. - Merci."
     }
   },
   {
@@ -752,7 +752,7 @@
   {
     "translation": {
       "en": "you're looking at a serious coronary incident within months,",
-      "fr": "vous pourriez faireun syndrome coronarien aigu"
+      "fr": "vous pourriez faire un syndrome coronarien aigu"
     }
   },
   {
@@ -764,7 +764,7 @@
   {
     "translation": {
       "en": "At the last appointment, you said that there were options.",
-      "fr": "Vous m'aviez ditque j'avais des options."
+      "fr": "Vous m'aviez dit que j'avais des options."
     }
   },
   {
@@ -776,7 +776,7 @@
   {
     "translation": {
       "en": "This is now about keeping your heart going long enough.",
-      "fr": "Maintenant, il faut justeque votre cœur s'accroche."
+      "fr": "Maintenant, il faut juste que votre cœur s'accroche."
     }
   },
   {
@@ -794,7 +794,7 @@
   {
     "translation": {
       "en": "And you'll have to stop working, take medical leave.",
-      "fr": "Vous allez devoir vous mettreen arrêt maladie."
+      "fr": "Vous allez devoir vous mettre en arrêt maladie."
     }
   },
   {
@@ -818,19 +818,19 @@
   {
     "translation": {
       "en": "Well, you're at high risk for a stroke. You should make them aware of the symptoms.",
-      "fr": "Vous risquez l'infarctus à tout moment.Parlez-leur des signes avant-coureurs."
+      "fr": "Vous risquez l'infarctus à tout moment. Parlez-leur des signes avant-coureurs."
     }
   },
   {
     "translation": {
       "en": "The early warning signs of an episode are breathlessness, pressure in the chest, feeling weak or faint.",
-      "fr": "Essoufflement, douleur à la poitrine,sensation de faiblesse ou évanouissement."
+      "fr": "Essoufflement, douleur à la poitrine, sensation de faiblesse ou évanouissement."
     }
   },
   {
     "translation": {
       "en": "You need to tell them in case something should happen at home. Okay?",
-      "fr": "Vous devez les prévenirau cas où ça vous arriverait chez vous."
+      "fr": "Vous devez les prévenir au cas où ça vous arriverait chez vous."
     }
   },
   {
@@ -854,13 +854,13 @@
   {
     "translation": {
       "en": "-So I see you're not covered? -Nope.",
-      "fr": "- Vous n'êtes pas assurée ?- Non."
+      "fr": "- Vous n'êtes pas assurée ? - Non."
     }
   },
   {
     "translation": {
       "en": "[receptionist] With the test and consultation, it'll be $980.",
-      "fr": "L'examen plus la consultation,ça vous fera 980 $."
+      "fr": "L'examen plus la consultation, ça vous fera 980 $."
     }
   },
   {
@@ -890,7 +890,7 @@
   {
     "translation": {
       "en": "-You the new guy? -Ah, yeah, Charlie.",
-      "fr": "- Tu es le nouveau ?- Oui, Charlie."
+      "fr": "- Tu es le nouveau ? - Oui, Charlie."
     }
   },
   {
@@ -902,19 +902,19 @@
   {
     "translation": {
       "en": "-Oh, hey, Amy. -Nice to meet you.",
-      "fr": "- Bonjour.- Enchantée."
+      "fr": "- Bonjour. - Enchantée."
     }
   },
   {
     "translation": {
       "en": "-Welcome. -Thank you.",
-      "fr": "- Bienvenue.- Merci."
+      "fr": "- Bienvenue. - Merci."
     }
   },
   {
     "translation": {
       "en": "-Did anyone give you the tour yet? -Uh, no, not yet.",
-      "fr": "- Quelqu'un t'a fait visiter ?- Pas encore."
+      "fr": "- Quelqu'un t'a fait visiter ? - Pas encore."
     }
   },
   {
@@ -992,19 +992,19 @@
   {
     "translation": {
       "en": "Take it out. One, two, three, four, five. Close the drawer.",
-      "fr": "Tu le sors. Un, deux, trois, quatre, cinq.Tu fermes le tiroir."
+      "fr": "Tu le sors. Un, deux, trois, quatre, cinq. Tu fermes le tiroir."
     }
   },
   {
     "translation": {
       "en": "-Got it? -Yeah.",
-      "fr": "- Pigé ?- Pigé."
+      "fr": "- Pigé ? - Pigé."
     }
   },
   {
     "translation": {
       "en": "Uh, they said you had a lot of experience. Where'd you work at before?",
-      "fr": "Il paraît que tu as de l'expérience.T'étais où ?"
+      "fr": "Il paraît que tu as de l'expérience. T'étais où ?"
     }
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "translation": {
       "en": "-Florians, Vance, Shawlands, St. Aloysius. -Shawlands.",
-      "fr": "- Florians, Vance, Shawlands…- Shawlands ?"
+      "fr": "- Florians, Vance, Shawlands… - Shawlands ?"
     }
   },
   {
@@ -1028,25 +1028,25 @@
   {
     "translation": {
       "en": "-Oh, yeah? -Lori.",
-      "fr": "- Ah ?- Lori."
+      "fr": "- Ah ? - Lori."
     }
   },
   {
     "translation": {
       "en": "-Lucas? -Yes.",
-      "fr": "- Lucas ?- Oui !"
+      "fr": "- Lucas ? - Oui !"
     }
   },
   {
     "translation": {
       "en": "Yeah, we worked together a lot. She's great. She's an amazing nurse.",
-      "fr": "On a pas mal bossé ensemble.Elle est géniale. Elle est douée."
+      "fr": "On a pas mal bossé ensemble. Elle est géniale. Elle est douée."
     }
   },
   {
     "translation": {
       "en": "I haven't talked to her forever. [chuckles] Do they still call her \"Pocket Rocket\"?",
-      "fr": "On s'est perdues de vue.On l'appelle toujours \"le bulldozer\" ?"
+      "fr": "On s'est perdues de vue. On l'appelle toujours \"le bulldozer\" ?"
     }
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "translation": {
       "en": "Do you know their first names? You guys, you don't put 'em on the doors here.",
-      "fr": "Tu as le prénom ?Vous ne les affichez pas, ici."
+      "fr": "Tu as le prénom ? Vous ne les affichez pas, ici."
     }
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "translation": {
       "en": "She presented to the ED with an adverse reaction to amoxicillin.",
-      "fr": "Elle a faitune mauvaise réaction à l'amoxicilline."
+      "fr": "Elle a fait une mauvaise réaction à l'amoxicilline."
     }
   },
   {
@@ -1118,13 +1118,13 @@
   {
     "translation": {
       "en": "so insurance is gonna try to screw them over if we give 'em a chance.",
-      "fr": "leur assurance va donc essayerde les rouler au maximum."
+      "fr": "leur assurance va donc essayer de les rouler au maximum."
     }
   },
   {
     "translation": {
       "en": "-So how's the skin? -Sloughing off at this point.",
-      "fr": "- Sa peau est comment ?- Desquamation."
+      "fr": "- Sa peau est comment ? - Desquamation."
     }
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "translation": {
       "en": "He's gonna be your nurse this evening, but, you know, I'm around if you need me.",
-      "fr": "Il sera votre infirmier ce soir,mais je suis aussi là, au besoin."
+      "fr": "Il sera votre infirmier ce soir, mais je suis aussi là, au besoin."
     }
   },
   {
@@ -1202,13 +1202,13 @@
   {
     "translation": {
       "en": "-So… -How you doing, Sam? Good? You let me know when you've had enough.",
-      "fr": "- Vous tenez le coup, Sam ?- Arrêtez-moi quand vous voulez."
+      "fr": "- Vous tenez le coup, Sam ? - Arrêtez-moi quand vous voulez."
     }
   },
   {
     "translation": {
       "en": "-Okay, is it burning? It burns? Okay. -I'll check in in a bit.",
-      "fr": "- Ça vous brûle ? D'accord.- Je reviendrai."
+      "fr": "- Ça vous brûle ? D'accord. - Je reviendrai."
     }
   },
   {
@@ -1220,43 +1220,43 @@
   {
     "translation": {
       "en": "So, um… tell me, I heard you had a rough couple of days. Yeah?",
-      "fr": "Il paraît que ça n'a pas étéune partie de plaisir ces derniers jours."
+      "fr": "Il paraît que ça n'a pas été une partie de plaisir ces derniers jours."
     }
   },
   {
     "translation": {
       "en": "Well, you guys just push on the button if you need anything.",
-      "fr": "Appuyez sur ce boutonsi vous avez besoin de moi."
+      "fr": "Appuyez sur ce bouton si vous avez besoin de moi."
     }
   },
   {
     "translation": {
       "en": "Anytime, I'm here. I'm your Amy for tonight.",
-      "fr": "À n'importe quel moment.Je suis votre Amy pour cette nuit."
+      "fr": "À n'importe quel moment. Je suis votre Amy pour cette nuit."
     }
   },
   {
     "translation": {
       "en": "Uh, so mine are all settled, so I was just gonna go to the cafeteria, grab some food.",
-      "fr": "Tout est bon de mon côté,je vais prendre un truc à la cafétéria."
+      "fr": "Tout est bon de mon côté, je vais prendre un truc à la cafétéria."
     }
   },
   {
     "translation": {
       "en": "-You want something? -Sorry. Cafeteria closes at 11:00.",
-      "fr": "- Tu veux quelque chose ?- Désolée. Ça ferme à 23 h."
+      "fr": "- Tu veux quelque chose ? - Désolée. Ça ferme à 23 h."
     }
   },
   {
     "translation": {
       "en": "-I should've told you that. -Oh shit. No problem. I'm not that hungry.",
-      "fr": "- J'aurais dû te le dire.- Zut. Pas grave. Je survivrai."
+      "fr": "- J'aurais dû te le dire. - Zut. Pas grave. Je survivrai."
     }
   },
   {
     "translation": {
       "en": "-Sorry. -No. I'll hit up the vending machines.",
-      "fr": "- Désolée.- Je vais voir au distributeur."
+      "fr": "- Désolée. - Je vais voir au distributeur."
     }
   },
   {
@@ -1268,25 +1268,25 @@
   {
     "translation": {
       "en": "I have a large questionable… [chuckles] …egg salad that I'd prefer to share.",
-      "fr": "J'ai une salade aux œufs un peu douteuseque je préférerais partager."
+      "fr": "J'ai une salade aux œufs un peu douteuse que je préférerais partager."
     }
   },
   {
     "translation": {
       "en": "-You know, safety in numbers. -I'm fine, thank you.",
-      "fr": "- Au cas où.- C'est bon, merci."
+      "fr": "- Au cas où. - C'est bon, merci."
     }
   },
   {
     "translation": {
       "en": "No, no. I'll bring it to the desk when I'm finished with Holly here.",
-      "fr": "J'insiste. Je l'apportedès que j'ai fini avec Holly."
+      "fr": "J'insiste. Je l'apporte dès que j'ai fini avec Holly."
     }
   },
   {
     "translation": {
       "en": "-You sure? -Yeah.",
-      "fr": "- T'es sûre ?- Sûre."
+      "fr": "- T'es sûre ? - Sûre."
     }
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "translation": {
       "en": "-Mm, you mean the soggy crackers? -That's what they are?",
-      "fr": "- Les crackers tout mous ?- C'est des crackers ?"
+      "fr": "- Les crackers tout mous ? - C'est des crackers ?"
     }
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "translation": {
       "en": "She comes from a long line of women who can't cook.",
-      "fr": "On n'est pas cuisinièresdans la famille."
+      "fr": "On n'est pas cuisinières dans la famille."
     }
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "translation": {
       "en": "I don't live with mine anymore though. Their mom moved, like, six hours away, so…",
-      "fr": "Je ne vis plus avec elles. Leur mèrea déménagé à six heures de route…"
+      "fr": "Je ne vis plus avec elles. Leur mère a déménagé à six heures de route…"
     }
   },
   {
@@ -1382,13 +1382,13 @@
   {
     "translation": {
       "en": "-Oh, he's-- -307.",
-      "fr": "- Il est…- La 307."
+      "fr": "- Il est… - La 307."
     }
   },
   {
     "translation": {
       "en": "Yep. Steven. I have about one minute before he pees.",
-      "fr": "Steven. J'ai une minuteavant qu'il ne fasse pipi."
+      "fr": "Steven. J'ai une minute avant qu'il ne fasse pipi."
     }
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "translation": {
       "en": "Hey, Steven. I'm Charlie. I'm afraid Amy's busy right now, so…",
-      "fr": "Bonsoir, Steven. Je suis Charlie.Amy est occupée, alors…"
+      "fr": "Bonsoir, Steven. Je suis Charlie. Amy est occupée, alors…"
     }
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "translation": {
       "en": "-[girl] I do! She's my friend, Jackie! -[Jackie] Nobody's gonna notice that.",
-      "fr": "- C'est ma copine, Jackie !- Ça ne se verra pas."
+      "fr": "- C'est ma copine, Jackie ! - Ça ne se verra pas."
     }
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "translation": {
       "en": "-Stop it! What's going on here? -You ruined my shoes!",
-      "fr": "- Arrête. Qu'y a-t-il ?- Mes chaussures !"
+      "fr": "- Arrête. Qu'y a-t-il ? - Mes chaussures !"
     }
   },
   {
@@ -1472,13 +1472,13 @@
   {
     "translation": {
       "en": "-Would you mind sitting with Maya? -No, you obviously didn't, Jackie!",
-      "fr": "- Vous pouvez aller voir Maya ?- C'est raté, Jackie."
+      "fr": "- Vous pouvez aller voir Maya ? - C'est raté, Jackie."
     }
   },
   {
     "translation": {
       "en": "-She's in the-- -That's okay.",
-      "fr": "- Elle est…- C'est bon."
+      "fr": "- Elle est… - C'est bon."
     }
   },
   {
@@ -1490,13 +1490,13 @@
   {
     "translation": {
       "en": "-She glued the bottom back on. -It's not a big deal, Alex.",
-      "fr": "- Elle a recollé les semelles.- Ce n'est rien."
+      "fr": "- Elle a recollé les semelles. - Ce n'est rien."
     }
   },
   {
     "translation": {
       "en": "-I can scrape it off. -You told her to.",
-      "fr": "- Ça s'enlève.- C'est ta faute."
+      "fr": "- Ça s'enlève. - C'est ta faute."
     }
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "translation": {
       "en": "-But it's on both shoes. -See? I can take it off.",
-      "fr": "- C'est sur les deux.- Regarde, ça part."
+      "fr": "- C'est sur les deux. - Regarde, ça part."
     }
   },
   {
@@ -1526,13 +1526,13 @@
   {
     "translation": {
       "en": "-Wait. Hey, hey, hey, hey! Listen. I know. -Stop--",
-      "fr": "- Attends. Écoute. Je sais.- Arrête…"
+      "fr": "- Attends. Écoute. Je sais. - Arrête…"
     }
   },
   {
     "translation": {
       "en": "I'm trying, okay? I know you don't have as much as your friends, but I'm try--",
-      "fr": "Je fais ce que je peux.Je sais que tes amies ont plus…"
+      "fr": "Je fais ce que je peux. Je sais que tes amies ont plus…"
     }
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "translation": {
       "en": "-I don't even get to have you. -I'm sorr…",
-      "fr": "- Même pas toi.- Je suis déso…"
+      "fr": "- Même pas toi. - Je suis déso…"
     }
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "translation": {
       "en": "Okay, well, I'll just sit here until you feel better, okay?",
-      "fr": "Je vais rester làjusqu'à ce que tu ailles mieux."
+      "fr": "Je vais rester là jusqu'à ce que tu ailles mieux."
     }
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "translation": {
       "en": "Blood blisters on… on my heart.",
-      "fr": "J'ai des bulles de sangsur les parois du cœur."
+      "fr": "J'ai des bulles de sang sur les parois du cœur."
     }
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "translation": {
       "en": "What about here? -Did you speak to a cardiologist? -No, please.",
-      "fr": "- Tu as vu un cardiologue d'ici ?- Non, s'il te plaît."
+      "fr": "- Tu as vu un cardiologue d'ici ? - Non, s'il te plaît."
     }
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "translation": {
       "en": "-I'll get fired. -Okay.",
-      "fr": "- Ils me vireraient.- Promis."
+      "fr": "- Ils me vireraient. - Promis."
     }
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "translation": {
       "en": "How much longer do you need to work here before you get your insurance?",
-      "fr": "T'as encore combien à fairepour avoir l'assurance ?"
+      "fr": "T'as encore combien à faire pour avoir l'assurance ?"
     }
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "translation": {
       "en": "-Something's wrong with the door. -Oh, it's this.",
-      "fr": "- La porte est bloquée.- Faut faire comme ça."
+      "fr": "- La porte est bloquée. - Faut faire comme ça."
     }
   },
   {
@@ -1700,7 +1700,7 @@
   {
     "translation": {
       "en": "-It's gonna be a long night. -Speaking of energy, how was the park?",
-      "fr": "- Ça va être dur.- Au fait, c'était bien au parc ?"
+      "fr": "- Ça va être dur. - Au fait, c'était bien au parc ?"
     }
   },
   {
@@ -1712,13 +1712,13 @@
   {
     "translation": {
       "en": "-Yeah. Moved it to next week. -Oh, that's hard.",
-      "fr": "- Désolée.- C'est reporté."
+      "fr": "- Désolée. - C'est reporté."
     }
   },
   {
     "translation": {
       "en": "Called just as I was about to pick up the girls.",
-      "fr": "J'allais récupérer les fillesquand je l'ai su."
+      "fr": "J'allais récupérer les filles quand je l'ai su."
     }
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "translation": {
       "en": "She had a family thing, so I said I'd do her handover.",
-      "fr": "Une histoire avec sa famille.Je la dépanne."
+      "fr": "Une histoire avec sa famille. Je la dépanne."
     }
   },
   {
@@ -1760,13 +1760,13 @@
   {
     "translation": {
       "en": "…expired right at shift change.",
-      "fr": "Décédée juste aprèsle changement d'équipe."
+      "fr": "Décédée juste après le changement d'équipe."
     }
   },
   {
     "translation": {
       "en": "-Ana? -[Viv] Yes. Mrs. Martinez.",
-      "fr": "- Ana ?- Oui. Mme Martínez."
+      "fr": "- Ana ? - Oui. Mme Martínez."
     }
   },
   {
@@ -1802,13 +1802,13 @@
   {
     "translation": {
       "en": "[Amy] How could they just leave her like this?",
-      "fr": "Comment ont-ils pula laisser comme ça ?"
+      "fr": "Comment ont-ils pu la laisser comme ça ?"
     }
   },
   {
     "translation": {
       "en": "My mom died in a hospital when I was a kid.",
-      "fr": "Ma mère est morteà l'hôpital quand j'étais petit."
+      "fr": "Ma mère est morte à l'hôpital quand j'étais petit."
     }
   },
   {
@@ -1838,19 +1838,19 @@
   {
     "translation": {
       "en": "She was, like, you know, half uncovered, naked… Total mess.",
-      "fr": "Elle était à moitié couverte, nue…C'était un vrai cauchemar."
+      "fr": "Elle était à moitié couverte, nue… C'était un vrai cauchemar."
     }
   },
   {
     "translation": {
       "en": "For the longest time, that was the memory. That was how I thought of her.",
-      "fr": "Pendant longtemps,ça a été mon souvenir d'elle."
+      "fr": "Pendant longtemps, ça a été mon souvenir d'elle."
     }
   },
   {
     "translation": {
       "en": "So, for me, this is the important part.",
-      "fr": "Alors pour moi, c'est ça,la partie la plus importante."
+      "fr": "Alors pour moi, c'est ça, la partie la plus importante."
     }
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "translation": {
       "en": "-You good? -Yeah, I got this.",
-      "fr": "- Tu t'en sortiras ?- Je gère."
+      "fr": "- Tu t'en sortiras ? - Je gère."
     }
   },
   {
@@ -1892,13 +1892,13 @@
   {
     "translation": {
       "en": "[man 2] All right, let me see. Suspicious death of Mrs. Martinez, Ana.",
-      "fr": "Voyons voir. Mort suspectede Mme Martínez, Ana."
+      "fr": "Voyons voir. Mort suspecte de Mme Martínez, Ana."
     }
   },
   {
     "translation": {
       "en": "Presented to the emergency room with adverse reaction to amoxicillin.",
-      "fr": "Arrivée aux urgencespour une réaction grave à l'amoxicilline."
+      "fr": "Arrivée aux urgences pour une réaction grave à l'amoxicilline."
     }
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "translation": {
       "en": "-They don't know what killed her? -No.",
-      "fr": "- Ils ne savent pas ce qui l'a tuée ?- Non."
+      "fr": "- Ils ne savent pas ce qui l'a tuée ? - Non."
     }
   },
   {
@@ -1952,25 +1952,25 @@
   {
     "translation": {
       "en": "[woman 2] Detectives, Braun, Baldwin, welcome. I'm Linda Garran, risk manager.",
-      "fr": "Inspecteurs Braun et Baldwin, bienvenue.Linda Garran, chargée des Risques."
+      "fr": "Inspecteurs Braun et Baldwin, bienvenue. Linda Garran, chargée des Risques."
     }
   },
   {
     "translation": {
       "en": "This is Duncan Beattie, attorney. Our board.",
-      "fr": "Voici Duncan Beattie, avocat.Notre conseil d'administration."
+      "fr": "Voici Duncan Beattie, avocat. Notre conseil d'administration."
     }
   },
   {
     "translation": {
       "en": "You two might know Malcolm Burrel from the City Council.",
-      "fr": "Vous connaissez peut-êtreMalcolm Burrel du conseil municipal."
+      "fr": "Vous connaissez peut-être Malcolm Burrel du conseil municipal."
     }
   },
   {
     "translation": {
       "en": "I am a huge supporter of the local force and the district attorney.",
-      "fr": "Je suis un partisande la police locale et du procureur."
+      "fr": "Je suis un partisan de la police locale et du procureur."
     }
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "translation": {
       "en": "Just that there's been a death. An unexplainable incident in which the patient expired.",
-      "fr": "- Juste qu'il y a eu un décès.- Un fait inexplicable résultant en décès."
+      "fr": "- Juste qu'il y a eu un décès. - Un fait inexplicable résultant en décès."
     }
   },
   {
@@ -2006,13 +2006,13 @@
   {
     "translation": {
       "en": "that this was an unusual adverse reaction to medications.",
-      "fr": "il s'agit d'une réaction indésirableinhabituelle aux médicaments."
+      "fr": "il s'agit d'une réaction indésirable inhabituelle aux médicaments."
     }
   },
   {
     "translation": {
       "en": "But we found absolutely nothing to suggest this was intentional.",
-      "fr": "Nous n'avons trouvé aucun élémentsuggérant un acte intentionnel."
+      "fr": "Nous n'avons trouvé aucun élément suggérant un acte intentionnel."
     }
   },
   {
@@ -2030,7 +2030,7 @@
   {
     "translation": {
       "en": "but the Department of Health dictates when we should reach out,",
-      "fr": "mais le ministère de la Santéla requiert, d'où votre présence."
+      "fr": "mais le ministère de la Santé la requiert, d'où votre présence."
     }
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "translation": {
       "en": "you can see the window in which patient 1 had abnormal laboratory results",
-      "fr": "vous pouvez constaterdes résultats anormaux d'analyse"
+      "fr": "vous pouvez constater des résultats anormaux d'analyse"
     }
   },
   {
@@ -2108,7 +2108,7 @@
   {
     "translation": {
       "en": "of the unusual circumstances around patient 1's expiration.",
-      "fr": "des circonstances inhabituellesentourant le décès de la patiente."
+      "fr": "des circonstances inhabituelles entourant le décès de la patiente."
     }
   },
   {
@@ -2126,13 +2126,13 @@
   {
     "translation": {
       "en": "Parkfield rightly sought legal counsel to make sure everything was done correctly.",
-      "fr": "Parkfield a souhaité s'assurerdu contexte juridique, à juste titre."
+      "fr": "Parkfield a souhaité s'assurer du contexte juridique, à juste titre."
     }
   },
   {
     "translation": {
       "en": "Okay, but Mrs. Martinez's body is where? How do we get it?",
-      "fr": "Comment peut-on récupérerle corps de Mme Martínez ?"
+      "fr": "Comment peut-on récupérer le corps de Mme Martínez ?"
     }
   },
   {
@@ -2168,25 +2168,25 @@
   {
     "translation": {
       "en": "Well, of course we'll need to interview all the staff that works in the ICU.",
-      "fr": "Nous allons devoir interrogertout le personnel des soins intensifs."
+      "fr": "Nous allons devoir interroger tout le personnel des soins intensifs."
     }
   },
   {
     "translation": {
       "en": "Make way, make way. I am an important person of the town.",
-      "fr": "Oyez, oyez. Je suisune personne notable de cette ville."
+      "fr": "Oyez, oyez. Je suis une personne notable de cette ville."
     }
   },
   {
     "translation": {
       "en": "In fact, I am the most important person of the town,",
-      "fr": "En fait, je suis la personnela plus importante de la ville,"
+      "fr": "En fait, je suis la personne la plus importante de la ville,"
     }
   },
   {
     "translation": {
       "en": "if not the most important person west of the Pecos.",
-      "fr": "ou même la personnela plus importante à l'ouest de Pecos."
+      "fr": "ou même la personne la plus importante à l'ouest de Pecos."
     }
   },
   {
@@ -2198,13 +2198,13 @@
   {
     "translation": {
       "en": "I am the mayor of Humdrum Falls. \"So, what do you do?\"",
-      "fr": "- Je suis maire de Humdrum Falls.- \"Qu'y faites-vous ?\""
+      "fr": "- Je suis maire de Humdrum Falls. - \"Qu'y faites-vous ?\""
     }
   },
   {
     "translation": {
       "en": "\"Do\"? I don't do anything. I'm the mayor.",
-      "fr": "\"Faire\" ? Je ne fais rien.Je suis le maire."
+      "fr": "\"Faire\" ? Je ne fais rien. Je suis le maire."
     }
   },
   {
@@ -2216,13 +2216,13 @@
   {
     "translation": {
       "en": "\"This may be just a one-horse town without the horse, but it's been invaded by aliens.\"",
-      "fr": "\"C'est un trou à rat sans rat,mais des extraterrestres l'ont envahi.\""
+      "fr": "\"C'est un trou à rat sans rat, mais des extraterrestres l'ont envahi.\""
     }
   },
   {
     "translation": {
       "en": "I'll have to look it up in my book of How to be Mayor.",
-      "fr": "Je vais chercherdans mon livre Comment être maire."
+      "fr": "Je vais chercher dans mon livre Comment être maire."
     }
   },
   {
@@ -2234,7 +2234,7 @@
   {
     "translation": {
       "en": "Two. You get driven around in a big car by your very own chauffeur.",
-      "fr": "Deux. On se fait conduiredans une grosse voiture par un chauffeur."
+      "fr": "Deux. On se fait conduire dans une grosse voiture par un chauffeur."
     }
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "translation": {
       "en": "-I'm never gonna get this part! -Don't get frustrated, honey.",
-      "fr": "- Je m'en rappellerai jamais.- Du calme."
+      "fr": "- Je m'en rappellerai jamais. - Du calme."
     }
   },
   {
@@ -2270,13 +2270,13 @@
   {
     "translation": {
       "en": "No, and the teacher said that I should wear a suit and have a mustache.",
-      "fr": "Et le prof veut que je metteun costume et une moustache."
+      "fr": "Et le prof veut que je mette un costume et une moustache."
     }
   },
   {
     "translation": {
       "en": "Dress like a man because I'm the mayor. He said a girl mayor would be weird.",
-      "fr": "Que je m'habille en homme,parce que sinon ce serait bizarre."
+      "fr": "Que je m'habille en homme, parce que sinon ce serait bizarre."
     }
   },
   {
@@ -2294,7 +2294,7 @@
   {
     "translation": {
       "en": "It's a play about an alien invasion, and the female mayor's the weird part?",
-      "fr": "Une maire, c'est plus bizarreque des extraterrestres ?"
+      "fr": "Une maire, c'est plus bizarre que des extraterrestres ?"
     }
   },
   {
@@ -2318,13 +2318,13 @@
   {
     "translation": {
       "en": "-Oh, sorry, kiddo. -[Jackie] Come on, sweetheart.",
-      "fr": "Désolée, ma puce. - Devine ce que j'ai.- Viens là."
+      "fr": "Désolée, ma puce. - Devine ce que j'ai. - Viens là."
     }
   },
   {
     "translation": {
       "en": "-Come here. -[Jackie] Guess what I brought you.",
-      "fr": "- Devine ce que j'ai.- Viens là. - Devine.- Des bonbons ?"
+      "fr": "- Devine ce que j'ai. - Viens là. - Devine. - Des bonbons ?"
     }
   },
   {
@@ -2342,13 +2342,13 @@
   {
     "translation": {
       "en": "I am the mayor of Humdrum Falls. I am the mayor of Humdrum Falls.",
-      "fr": "- Je suis le maire de Humdrum Falls.- Je suis le maire de Humdrum Falls."
+      "fr": "- Je suis le maire de Humdrum Falls. - Je suis le maire de Humdrum Falls."
     }
   },
   {
     "translation": {
       "en": "I am the mayor of Humdrum Falls. I am the mayor of Humdrum Falls. -I am the mayor of Humdrum Falls. -I am the mayor of Humdrum Falls.",
-      "fr": "- Je suis le maire de Humdrum Falls.- Je suis le maire de Humdrum Falls."
+      "fr": "- Je suis le maire de Humdrum Falls. - Je suis le maire de Humdrum Falls."
     }
   },
   {
@@ -2372,7 +2372,7 @@
   {
     "translation": {
       "en": "Oh, not yet. They say they need more time to compile all the relevant files.",
-      "fr": "Pas encore. Ils ont besoin de tempspour rassembler tous les dossiers."
+      "fr": "Pas encore. Ils ont besoin de temps pour rassembler tous les dossiers."
     }
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "translation": {
       "en": "One of the nurses had a criminal trespass charge over in Pennsylvania.",
-      "fr": "Un infirmier a une violationde domicile en Pennsylvanie."
+      "fr": "Un infirmier a une violation de domicile en Pennsylvanie."
     }
   },
   {
@@ -2438,19 +2438,19 @@
   {
     "translation": {
       "en": "-What district was it in Pennsylvania? -Palmer.",
-      "fr": "- Quel district en Pennsylvanie ?- Palmer."
+      "fr": "- Quel district en Pennsylvanie ? - Palmer."
     }
   },
   {
     "translation": {
       "en": "-Palmer Police Department. -Hello, ma'am.",
-      "fr": "- Police de Palmer.- Bonjour."
+      "fr": "- Police de Palmer. - Bonjour."
     }
   },
   {
     "translation": {
       "en": "I'm Detective Braun with Homicide in the Prosecutor's Office in New Jersey.",
-      "fr": "Inspecteur Braundu bureau du procureur du New Jersey."
+      "fr": "Inspecteur Braun du bureau du procureur du New Jersey."
     }
   },
   {
@@ -2468,19 +2468,19 @@
   {
     "translation": {
       "en": "-Do you have a name for me? -It's Charles Cullen.",
-      "fr": "- Vous avez un nom ?- Charles Cullen."
+      "fr": "- Vous avez un nom ? - Charles Cullen."
     }
   },
   {
     "translation": {
       "en": "-Oh, there's a Post-it note on the file. -There's a Post-it note on the file.",
-      "fr": "- Il y a un Post-it dans le dossier.- Il y a un Post-it."
+      "fr": "- Il y a un Post-it dans le dossier. - Il y a un Post-it."
     }
   },
   {
     "translation": {
       "en": "She's not sure if it's supposed to be there. Can you spell that?",
-      "fr": "Peut-être sans rapport.Ça s'épelle comment ?"
+      "fr": "Peut-être sans rapport. Ça s'épelle comment ?"
     }
   },
   {
@@ -2492,7 +2492,7 @@
   {
     "translation": {
       "en": "Digoxin? What is that? A medicine or something?",
-      "fr": "Qu'est-ce que c'est ?Un genre de médicament ?"
+      "fr": "Qu'est-ce que c'est ? Un genre de médicament ?"
     }
   },
   {
@@ -2516,7 +2516,7 @@
   {
     "translation": {
       "en": "Says he slashed a coworker's tires after they broke up.",
-      "fr": "il a crevé les pneusd'une collègue après leur rupture."
+      "fr": "il a crevé les pneus d'une collègue après leur rupture."
     }
   },
   {
@@ -2528,7 +2528,7 @@
   {
     "translation": {
       "en": "-What's that? -Yep, all charges. Charges were dropped?",
-      "fr": "- Pardon ? La plainte a été retirée ?- Exact."
+      "fr": "- Pardon ? La plainte a été retirée ? - Exact."
     }
   },
   {
@@ -2552,13 +2552,13 @@
   {
     "translation": {
       "en": "Parkfield waited almost two months to report it.",
-      "fr": "Parkfield attend deux moispour le signaler."
+      "fr": "Parkfield attend deux mois pour le signaler."
     }
   },
   {
     "translation": {
       "en": "Internal investigation you don't wanna share. Expensive lawyers.",
-      "fr": "Une enquête interne qui traîne.Une défense musclée."
+      "fr": "Une enquête interne qui traîne. Une défense musclée."
     }
   },
   {
@@ -2570,25 +2570,25 @@
   {
     "translation": {
       "en": "What possible reason could they have for covering up a death? Right? What are the motives?",
-      "fr": "Pourquoi couvrir un décès ?Quelles sont leurs motivations ?"
+      "fr": "Pourquoi couvrir un décès ? Quelles sont leurs motivations ?"
     }
   },
   {
     "translation": {
       "en": "It's a business. There's never a better motivation than money",
-      "fr": "C'est une entreprise. La meilleure des motivationspour eux, c'est l'argent."
+      "fr": "C'est une entreprise. La meilleure des motivations pour eux, c'est l'argent."
     }
   },
   {
     "translation": {
       "en": "when it comes to that shit, right?",
-      "fr": "La meilleure des motivationspour eux, c'est l'argent."
+      "fr": "La meilleure des motivations pour eux, c'est l'argent."
     }
   },
   {
     "translation": {
       "en": "Hello? You can keep eating.",
-      "fr": "Vous m'entendez ?Vous pouvez continuer à manger."
+      "fr": "Vous m'entendez ? Vous pouvez continuer à manger."
     }
   },
   {
@@ -2600,7 +2600,7 @@
   {
     "translation": {
       "en": "We just wanna make you aware of an event the hospital is looking into.",
-      "fr": "Nous nous intéressonsà un évènement survenu à l'hôpital."
+      "fr": "Nous nous intéressons à un évènement survenu à l'hôpital."
     }
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "translation": {
       "en": "are dealing with the incident and everything connected to it.",
-      "fr": "contrôlons la situationainsi que ses répercussions."
+      "fr": "contrôlons la situation ainsi que ses répercussions."
     }
   },
   {
@@ -2624,31 +2624,31 @@
   {
     "translation": {
       "en": "make everyone universally aware that the police are also involved.",
-      "fr": "afin de vous prévenirque la police est également sur l'affaire."
+      "fr": "afin de vous prévenir que la police est également sur l'affaire."
     }
   },
   {
     "translation": {
       "en": "-And that-- -What is this about?",
-      "fr": "- Et…- Quelle affaire ?"
+      "fr": "- Et… - Quelle affaire ?"
     }
   },
   {
     "translation": {
       "en": "Uh, there's been an issue with a patient's death in the ICU.",
-      "fr": "Un problème a fait surfacesuite à un décès aux soins intensifs."
+      "fr": "Un problème a fait surface suite à un décès aux soins intensifs."
     }
   },
   {
     "translation": {
       "en": "Was the death suspicious? I mean, if the police are investigating…",
-      "fr": "La mort était-elle suspecte ?Si la police enquête…"
+      "fr": "La mort était-elle suspecte ? Si la police enquête…"
     }
   },
   {
     "translation": {
       "en": "I wanna be clear. We are investigating with the assistance of the local police.",
-      "fr": "Je tiens à être claire.La police ne fait que nous assister."
+      "fr": "Je tiens à être claire. La police ne fait que nous assister."
     }
   },
   {
@@ -2660,7 +2660,7 @@
   {
     "translation": {
       "en": "[Garran] But due to the fact that outside investigation is involved,",
-      "fr": "Mais puisqu'une enquête externeest également en cours,"
+      "fr": "Mais puisqu'une enquête externe est également en cours,"
     }
   },
   {
@@ -2690,7 +2690,7 @@
   {
     "translation": {
       "en": "that I'll be discussing with each of you individually,",
-      "fr": "que je vais rencontrerchacun d'entre vous,"
+      "fr": "que je vais rencontrer chacun d'entre vous,"
     }
   },
   {
@@ -2708,13 +2708,13 @@
   {
     "translation": {
       "en": "patient confidentiality has to be an absolute priority.",
-      "fr": "la confidentialité des patientsdoit être une priorité absolue."
+      "fr": "la confidentialité des patients doit être une priorité absolue."
     }
   },
   {
     "translation": {
       "en": "Your individual contracts are very precise when it comes to this.",
-      "fr": "Vos contrats individuelssont très précis sur ce point."
+      "fr": "Vos contrats individuels sont très précis sur ce point."
     }
   },
   {
@@ -2738,7 +2738,7 @@
   {
     "translation": {
       "en": "[clears throat] So at the end of the day, Mr. Beattie and I are here for you.",
-      "fr": "Pour résumer, Me Beattieet moi-même sommes à vos côtés."
+      "fr": "Pour résumer, Me Beattie et moi-même sommes à vos côtés."
     }
   },
   {
@@ -2756,13 +2756,13 @@
   {
     "translation": {
       "en": "You have full access, but she's gotta be in the room.",
-      "fr": "Vous avez accès à tout,mais elle sera présente."
+      "fr": "Vous avez accès à tout, mais elle sera présente."
     }
   },
   {
     "translation": {
       "en": "No. Absolutely not. She can't be in there.",
-      "fr": "Hors de question.Sa présence est proscrite."
+      "fr": "Hors de question. Sa présence est proscrite."
     }
   },
   {
@@ -2780,7 +2780,7 @@
   {
     "translation": {
       "en": "We don't even know what happened. We don't even have a body.",
-      "fr": "On ne sait pas ce qui est arrivé.On n'a même pas de corps."
+      "fr": "On ne sait pas ce qui est arrivé. On n'a même pas de corps."
     }
   },
   {
@@ -2798,7 +2798,7 @@
   {
     "translation": {
       "en": "I understand them asking for it, but why did you give it to them?",
-      "fr": "Je comprends leurs demandes,mais pas votre consentement."
+      "fr": "Je comprends leurs demandes, mais pas votre consentement."
     }
   },
   {
@@ -2834,7 +2834,7 @@
   {
     "translation": {
       "en": "They're getting the documents together. It's done. They're sending it first thing.",
-      "fr": "Ils ont préparé les documents.Ils vont vous les envoyer."
+      "fr": "Ils ont préparé les documents. Ils vont vous les envoyer."
     }
   },
   {
@@ -2846,7 +2846,7 @@
   {
     "translation": {
       "en": "Why would Parkfield conduct an internal investigation,",
-      "fr": "Pourquoi Parkfieldmènerait une enquête interne,"
+      "fr": "Pourquoi Parkfield mènerait une enquête interne,"
     }
   },
   {
@@ -2858,7 +2858,7 @@
   {
     "translation": {
       "en": "then call us in and put her in the room if it was nothing?",
-      "fr": "nous contacterait et exigerait sa présencesi ce n'était rien ?"
+      "fr": "nous contacterait et exigerait sa présence si ce n'était rien ?"
     }
   },
   {
@@ -2900,19 +2900,19 @@
   {
     "translation": {
       "en": "-This is Officer Braun, Baldwin. -How you doin'?",
-      "fr": "- Inspecteurs Braun et Baldwin.- Bonjour."
+      "fr": "- Inspecteurs Braun et Baldwin. - Bonjour."
     }
   },
   {
     "translation": {
       "en": "-What is this about? -[Garran] Just some informal questions.",
-      "fr": "- De quoi s'agit-il ?- Rien de grave."
+      "fr": "- De quoi s'agit-il ? - Rien de grave."
     }
   },
   {
     "translation": {
       "en": "The officers are speaking to a number of staff in the ICU.",
-      "fr": "Ils interviewent justedes membres des soins intensifs."
+      "fr": "Ils interviewent juste des membres des soins intensifs."
     }
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "translation": {
       "en": "Do you recall anything odd about what happened to her?",
-      "fr": "Avez-vous notéquelque chose d'inhabituel dans son cas ?"
+      "fr": "Avez-vous noté quelque chose d'inhabituel dans son cas ?"
     }
   },
   {
@@ -2972,7 +2972,7 @@
   {
     "translation": {
       "en": "I don't mean to interrupt. Can I see you for a minute?",
-      "fr": "Pardon de vous déranger.Je peux vous parler ?"
+      "fr": "Pardon de vous déranger. Je peux vous parler ?"
     }
   },
   {
@@ -2984,7 +2984,7 @@
   {
     "translation": {
       "en": "This better be important. I wanted no interruptions.",
-      "fr": "C'est important, j'espère.Je ne voulais pas être dérangée."
+      "fr": "C'est important, j'espère. Je ne voulais pas être dérangée."
     }
   },
   {
@@ -3020,13 +3020,13 @@
   {
     "translation": {
       "en": "-That's weird. -What does that mean?",
-      "fr": "- Bizarre.- Comment ça ?"
+      "fr": "- Bizarre. - Comment ça ?"
     }
   },
   {
     "translation": {
       "en": "Uh, it means that the insulin in her system wasn't made in her body.",
-      "fr": "L'insuline présente dans son corpsne venait pas de son organisme."
+      "fr": "L'insuline présente dans son corps ne venait pas de son organisme."
     }
   },
   {
@@ -3044,13 +3044,13 @@
   {
     "translation": {
       "en": "Well, it's not on the list, and, you know, she's, uh… not diabetic,",
-      "fr": "Ce n'est pas sur la liste,et elle n'est pas diabétique,"
+      "fr": "Ce n'est pas sur la liste, et elle n'est pas diabétique,"
     }
   },
   {
     "translation": {
       "en": "so the insulin would've been a double medication error,",
-      "fr": "ça indiqueraitune double erreur thérapeutique,"
+      "fr": "ça indiquerait une double erreur thérapeutique,"
     }
   },
   {
@@ -3092,19 +3092,19 @@
   {
     "translation": {
       "en": "Can you tell us anything about your coworkers?",
-      "fr": "Pourriez-vousnous parler de vos collègues ?"
+      "fr": "Pourriez-vous nous parler de vos collègues ?"
     }
   },
   {
     "translation": {
       "en": "You don't mind if she answers a question about a colleague, do you, Ms. Garran?",
-      "fr": "Vous n'avez pas d'objectionsà cette question ?"
+      "fr": "Vous n'avez pas d'objections à cette question ?"
     }
   },
   {
     "translation": {
       "en": "-Of course not. -[Braun] Good",
-      "fr": "- Aucune.- Parfait."
+      "fr": "- Aucune. - Parfait."
     }
   },
   {
@@ -3134,13 +3134,13 @@
   {
     "translation": {
       "en": "I mean, Ana died on the day shift. Charlie and I both work nights.",
-      "fr": "Ana est morte pendant la journée.Nous sommes de nuit."
+      "fr": "Ana est morte pendant la journée. Nous sommes de nuit."
     }
   },
   {
     "translation": {
       "en": "We have no reasons to suspect it was anything other than an accident.",
-      "fr": "Nous n'avons aucune raison de penserque ce n'était pas un accident."
+      "fr": "Nous n'avons aucune raison de penser que ce n'était pas un accident."
     }
   },
   {
@@ -3158,13 +3158,13 @@
   {
     "translation": {
       "en": "We work every shift together, and he's a very good nurse.",
-      "fr": "Je le vois tous les jours,il est excellent dans son travail."
+      "fr": "Je le vois tous les jours, il est excellent dans son travail."
     }
   },
   {
     "translation": {
       "en": "He wouldn't have made a mistake like that. Thank you, Amy.",
-      "fr": "- Il n'aurait pas fait une telle erreur.- Merci."
+      "fr": "- Il n'aurait pas fait une telle erreur. - Merci."
     }
   },
   {
@@ -3176,7 +3176,7 @@
   {
     "translation": {
       "en": "Well, we don't need you to review it. We'll just take it as it is.",
-      "fr": "Pas besoin de la finaliser.On la prendra en l'état."
+      "fr": "Pas besoin de la finaliser. On la prendra en l'état."
     }
   },
   {
@@ -3188,7 +3188,7 @@
   {
     "translation": {
       "en": "But I hope you can deduce that, um… it's been a tough seven weeks.",
-      "fr": "Vous devez comprendreque ces sept dernières semaines ont été difficiles."
+      "fr": "Vous devez comprendre que ces sept dernières semaines ont été difficiles."
     }
   },
   {
@@ -3212,7 +3212,7 @@
   {
     "translation": {
       "en": "Recovering from gallbladder surgery on Thursday. There was no complications.",
-      "fr": "A été opéré de la vésicule biliaire jeudi.Aucune complication."
+      "fr": "A été opéré de la vésicule biliaire jeudi. Aucune complication."
     }
   },
   {
@@ -3230,13 +3230,13 @@
   {
     "translation": {
       "en": "-Everybody clear. -[doctor 3] Clear.",
-      "fr": "- Poussez-vous.- C'est bon."
+      "fr": "- Poussez-vous. - C'est bon."
     }
   },
   {
     "translation": {
       "en": "[doctor 2] Deliver the shock. Shock.",
-      "fr": "- Oxygène.- Électrochoc."
+      "fr": "- Oxygène. - Électrochoc."
     }
   },
   {
@@ -3248,7 +3248,7 @@
   {
     "translation": {
       "en": "[doctor 4] One and two and three and four and five and six…",
-      "fr": "Un et deux et troiset quatre et cinq et six…"
+      "fr": "Un et deux et trois et quatre et cinq et six…"
     }
   },
   {
@@ -3266,7 +3266,7 @@
   {
     "translation": {
       "en": "-[doctor 3] I got nothing. -[doctor 2] Persistent V-fib. Resume compressions.",
-      "fr": "- Rien.- Toujours en fibrillation. Massage."
+      "fr": "- Rien. - Toujours en fibrillation. Massage."
     }
   },
   {
@@ -3302,7 +3302,7 @@
   {
     "translation": {
       "en": "-[doctor 3] Twenty. -[doctor 1] Keep your compressions.",
-      "fr": "- Vingt.- Continuez le massage."
+      "fr": "- Vingt. - Continuez le massage."
     }
   },
   {
@@ -3320,7 +3320,7 @@
   {
     "translation": {
       "en": "Swap in, five, four, three, two…",
-      "fr": "Remplacez-moidans cinq, quatre, trois, deux…"
+      "fr": "Remplacez-moi dans cinq, quatre, trois, deux…"
     }
   },
   {
@@ -3350,13 +3350,13 @@
   {
     "translation": {
       "en": "[doctor 2] Four and five and six and seven",
-      "fr": "… quatre et cinq et sixet sept et huit et neuf, dix,"
+      "fr": "… quatre et cinq et six et sept et huit et neuf, dix,"
     }
   },
   {
     "translation": {
       "en": "and eight and nine, ten, 11, 12, 13, 14, 15.",
-      "fr": "… quatre et cinq et sixet sept et huit et neuf, dix, onze, 12, 13, 14, 15."
+      "fr": "… quatre et cinq et six et sept et huit et neuf, dix, onze, 12, 13, 14, 15."
     }
   },
   {
@@ -3398,7 +3398,7 @@
   {
     "translation": {
       "en": "So if you cancel a request late enough, it opens anyway.",
-      "fr": "Si tu annules au dernier moment,le tiroir s'ouvre quand même."
+      "fr": "Si tu annules au dernier moment, le tiroir s'ouvre quand même."
     }
   },
   {
@@ -3410,7 +3410,7 @@
   {
     "translation": {
       "en": "Amy, stop. Now, please don't worry. I'm gonna help you get through this.",
-      "fr": "Arrête. Ne t'inquiète pas.Je vais t'aider à t'en sortir."
+      "fr": "Arrête. Ne t'inquiète pas. Je vais t'aider à t'en sortir."
     }
   },
   {
@@ -3428,13 +3428,13 @@
   {
     "translation": {
       "en": "just in case something happens and I'm not there.",
-      "fr": "au cas où ça arriveraitquand je ne suis pas là."
+      "fr": "au cas où ça arriverait quand je ne suis pas là."
     }
   },
   {
     "translation": {
       "en": "They don't have anyone but me. I can't leave them.",
-      "fr": "Elles n'ont que moi.Je ne peux pas les abandonner."
+      "fr": "Elles n'ont que moi. Je ne peux pas les abandonner."
     }
   },
   {
@@ -3446,19 +3446,19 @@
   {
     "translation": {
       "en": "That's not happening. It's… What is it? Two months?",
-      "fr": "Ça n'arrivera pas.Il reste quoi ? Deux mois ?"
+      "fr": "Ça n'arrivera pas. Il reste quoi ? Deux mois ?"
     }
   },
   {
     "translation": {
       "en": "Okay, so I'm gonna help you do this.",
-      "fr": "Tu vas te faire opérer.Tu seras là pour tes filles."
+      "fr": "Tu vas te faire opérer. Tu seras là pour tes filles."
     }
   },
   {
     "translation": {
       "en": "Get your surgery, be with your girls. That's what's happening.",
-      "fr": "Tu vas te faire opérer.Tu seras là pour tes filles. C'est tout."
+      "fr": "Tu vas te faire opérer. Tu seras là pour tes filles. C'est tout."
     }
   },
   {
@@ -3470,7 +3470,7 @@
   {
     "translation": {
       "en": "[Amy] I know it sounds scary, but… it really isn't.",
-      "fr": "Je sais que ça a l'air effrayant,mais ce ne l'est pas."
+      "fr": "Je sais que ça a l'air effrayant, mais ce ne l'est pas."
     }
   },
   {
@@ -3506,7 +3506,7 @@
   {
     "translation": {
       "en": "they're too big, and they just got a little thin.",
-      "fr": "Ils sont trop groset ils sont un peu fins."
+      "fr": "Ils sont trop gros et ils sont un peu fins."
     }
   },
   {
@@ -3518,19 +3518,19 @@
   {
     "translation": {
       "en": "I have doctors taking care of me, and I'm gonna feel normal soon.",
-      "fr": "J'ai des médecins qui s'occupent de moi,et tout va redevenir normal très vite."
+      "fr": "J'ai des médecins qui s'occupent de moi, et tout va redevenir normal très vite."
     }
   },
   {
     "translation": {
       "en": "But your mom's gonna need our help, Alex.",
-      "fr": "Mais ta mèreva avoir besoin de notre aide."
+      "fr": "Mais ta mère va avoir besoin de notre aide."
     }
   },
   {
     "translation": {
       "en": "If she were to fall or, um, you know, start speaking funny,",
-      "fr": "Si elle tombeou si elle se met à parler bizarrement,"
+      "fr": "Si elle tombe ou si elle se met à parler bizarrement,"
     }
   },
   {
@@ -3542,7 +3542,7 @@
   {
     "translation": {
       "en": "then you just… you put Maya in front of the TV, you call 911, and then you call me.",
-      "fr": "tu mets Maya devant la télé,tu appelles l'hôpital et tu m'appelles."
+      "fr": "tu mets Maya devant la télé, tu appelles l'hôpital et tu m'appelles."
     }
   },
   {
@@ -3578,7 +3578,7 @@
   {
     "translation": {
       "en": "[man 1] Sure. Give me a second while I pull up his records.",
-      "fr": "Donnez-moi une seconde.Je recherche son dossier."
+      "fr": "Donnez-moi une seconde. Je recherche son dossier."
     }
   },
   {
@@ -3590,7 +3590,7 @@
   {
     "translation": {
       "en": "[man 1] Okay, I just need to check something with my boss.",
-      "fr": "Je dois vérifier quelque choseavec mon chef."
+      "fr": "Je dois vérifier quelque chose avec mon chef."
     }
   },
   {
@@ -3608,43 +3608,43 @@
   {
     "translation": {
       "en": "Hello. Detective Braun here. Uh, who am I talking to?",
-      "fr": "Bonjour. Inspecteur Braun.Qui est à l'appareil ?"
+      "fr": "Bonjour. Inspecteur Braun. Qui est à l'appareil ?"
     }
   },
   {
     "translation": {
       "en": "Mark Rossi. Attorney for St. Aloysius Hospital Group.",
-      "fr": "Mark Rossi.Avocat de l'hôpital Saint-Aloysius."
+      "fr": "Mark Rossi. Avocat de l'hôpital Saint-Aloysius."
     }
   },
   {
     "translation": {
       "en": "Mr. Rossi, hi. I'm hoping you can help me out.",
-      "fr": "Me Rossi, bonjour.J'espère que vous pourrez m'aider."
+      "fr": "Me Rossi, bonjour. J'espère que vous pourrez m'aider."
     }
   },
   {
     "translation": {
       "en": "I'm looking for some information on one of your former employees from back in '96, Charles Cullen.",
-      "fr": "Je cherche des informations sur l'unde vos anciens employés, Charles Cullen."
+      "fr": "Je cherche des informations sur l'un de vos anciens employés, Charles Cullen."
     }
   },
   {
     "translation": {
       "en": "Our employee data is treated with strict confidentiality.",
-      "fr": "Les données de nos employéssont strictement confidentielles."
+      "fr": "Les données de nos employés sont strictement confidentielles."
     }
   },
   {
     "translation": {
       "en": "I'm just looking to confirm his dates of employment, not much more than that.",
-      "fr": "Je cherche juste à confirmersa date d'embauche."
+      "fr": "Je cherche juste à confirmer sa date d'embauche."
     }
   },
   {
     "translation": {
       "en": "We'd be happy to release any relevant information as soon as we see your subpoena.",
-      "fr": "Nous serons ravis de vous aideraprès avoir vu une commission rogatoire."
+      "fr": "Nous serons ravis de vous aider après avoir vu une commission rogatoire."
     }
   },
   {
@@ -3668,7 +3668,7 @@
   {
     "translation": {
       "en": "Whenever they hear his name, no one wants to say anything.",
-      "fr": "Dès qu'ils entendent son nom,les portes se ferment."
+      "fr": "Dès qu'ils entendent son nom, les portes se ferment."
     }
   },
   {
@@ -3698,7 +3698,7 @@
   {
     "translation": {
       "en": "-Need a hand with the boxes? -No, it's just this.",
-      "fr": "- Il y a beaucoup de boîtes ?- Il n'y a que ça."
+      "fr": "- Il y a beaucoup de boîtes ? - Il n'y a que ça."
     }
   },
   {
@@ -3710,7 +3710,7 @@
   {
     "translation": {
       "en": "-Ms. Garran. -Detective Baldwin.",
-      "fr": "- Madame Garran.- Inspecteur Baldwin."
+      "fr": "- Madame Garran. - Inspecteur Baldwin."
     }
   },
   {
@@ -3752,13 +3752,13 @@
   {
     "translation": {
       "en": "Uh, so you've got all of the, um, drug withdrawals for all of the nurses on this?",
-      "fr": "Vous avez la listede tous les retraits de médicaments."
+      "fr": "Vous avez la liste de tous les retraits de médicaments."
     }
   },
   {
     "translation": {
       "en": "That's correct.",
-      "fr": "- Correct ?- Correct."
+      "fr": "- Correct ? - Correct."
     }
   },
   {
@@ -3770,19 +3770,19 @@
   {
     "translation": {
       "en": "because this one only has a short window around Ana's expiration.",
-      "fr": "celle-ci ne couvrequ'une très courte période."
+      "fr": "celle-ci ne couvre qu'une très courte période."
     }
   },
   {
     "translation": {
       "en": "I'm told it only stores the information for four weeks.",
-      "fr": "Les informations ne sont gardéesque pendant quatre semaines."
+      "fr": "Les informations ne sont gardées que pendant quatre semaines."
     }
   },
   {
     "translation": {
       "en": "Well, you must have gotten a copy during the internal investigation, right?",
-      "fr": "Vous avez dû en extraire une copiedurant votre enquête interne."
+      "fr": "Vous avez dû en extraire une copie durant votre enquête interne."
     }
   },
   {
@@ -3794,7 +3794,7 @@
   {
     "translation": {
       "en": "I mean, I can check, but, uh… everything we had was sent to you.",
-      "fr": "Je peux vérifier,mais nous vous avons tout envoyé."
+      "fr": "Je peux vérifier, mais nous vous avons tout envoyé."
     }
   },
   {
@@ -3806,7 +3806,7 @@
   {
     "translation": {
       "en": "so pages one to eight gotta be around here somewhere.",
-      "fr": "Les pages un à huitdoivent bien être quelque part."
+      "fr": "Les pages un à huit doivent bien être quelque part."
     }
   },
   {
@@ -3818,19 +3818,19 @@
   {
     "translation": {
       "en": "Nurse Garran, it's looking a lot like you're withholding some evidence here.",
-      "fr": "Cela ressembleà une dissimulation de preuves."
+      "fr": "Cela ressemble à une dissimulation de preuves."
     }
   },
   {
     "translation": {
       "en": "-I'm not sure I follow-- -Six pages. Where's the rest of it?",
-      "fr": "- Je ne vois pas…- Six pages. Où est le reste ?"
+      "fr": "- Je ne vois pas… - Six pages. Où est le reste ?"
     }
   },
   {
     "translation": {
       "en": "I'm sorry. I… I have another meeting, and I can't shift it--",
-      "fr": "Je suis désolée.J'ai un autre rendez-vous qui m'attend…"
+      "fr": "Je suis désolée. J'ai un autre rendez-vous qui m'attend…"
     }
   },
   {
@@ -3854,7 +3854,7 @@
   {
     "translation": {
       "en": "-Excuse me-- -Sit the fuck down!",
-      "fr": "- Excusez-moi…- Asseyez-vous, bordel !"
+      "fr": "- Excusez-moi… - Asseyez-vous, bordel !"
     }
   },
   {
@@ -3884,13 +3884,13 @@
   {
     "translation": {
       "en": "-It's okay. -[man] Thank you.",
-      "fr": "- Ce n'est rien.- Merci."
+      "fr": "- Ce n'est rien. - Merci."
     }
   },
   {
     "translation": {
       "en": "-[Amy] What's her name? -Vanessa.",
-      "fr": "- Comment s'appelle-t-elle ?- Vanessa."
+      "fr": "- Comment s'appelle-t-elle ? - Vanessa."
     }
   },
   {
@@ -3950,7 +3950,7 @@
   {
     "translation": {
       "en": "It means pizza's arrived. Do you want a slice?",
-      "fr": "Notre pizza est arrivée.Vous en voulez ?"
+      "fr": "Notre pizza est arrivée. Vous en voulez ?"
     }
   },
   {
@@ -3968,19 +3968,19 @@
   {
     "translation": {
       "en": "Unfortunately, though, you're gonna have to say no to pizza.",
-      "fr": "Malheureusement,dans votre cas, ça va devoir se refuser."
+      "fr": "Malheureusement, dans votre cas, ça va devoir se refuser."
     }
   },
   {
     "translation": {
       "en": "But you are healing nicely, and will be holding Vanessa in no time.",
-      "fr": "Mais tout va bien et vous pourrez bientôttenir Vanessa dans vos bras."
+      "fr": "Mais tout va bien et vous pourrez bientôt tenir Vanessa dans vos bras."
     }
   },
   {
     "translation": {
       "en": "She told me to go fuck myself 15 times on the phone.",
-      "fr": "Elle m'a dit d'aller me faire foutre15 fois au téléphone."
+      "fr": "Elle m'a dit d'aller me faire foutre 15 fois au téléphone."
     }
   },
   {
@@ -4004,13 +4004,13 @@
   {
     "translation": {
       "en": "So now, to try and stop me from seeing the girls,",
-      "fr": "Son nouveau trucpour m'empêcher de voir les filles,"
+      "fr": "Son nouveau truc pour m'empêcher de voir les filles,"
     }
   },
   {
     "translation": {
       "en": "she has made up a story about me being mean to her dog.",
-      "fr": "c'est de raconterque j'ai été méchant avec son chien."
+      "fr": "c'est de raconter que j'ai été méchant avec son chien."
     }
   },
   {
@@ -4022,7 +4022,7 @@
   {
     "translation": {
       "en": "Honestly, the whole thing would be hilarious if it wasn't true.",
-      "fr": "Honnêtement, ce serait tordantsi ce n'était pas vrai."
+      "fr": "Honnêtement, ce serait tordant si ce n'était pas vrai."
     }
   },
   {
@@ -4082,7 +4082,7 @@
   {
     "translation": {
       "en": "-Wanna get your jacket? -Yeah. -Love you. -Love you.",
-      "fr": "- Tu prends ta veste ? Je t'aime.- Je t'aime."
+      "fr": "- Tu prends ta veste ? Je t'aime. - Je t'aime."
     }
   },
   {
@@ -4094,19 +4094,19 @@
   {
     "translation": {
       "en": "Yeah, there was a list of all the medications that were in Ana Martinez's system.",
-      "fr": "Il y a une liste de tous les médicamentsprésents dans l'organisme d'Ana Martínez."
+      "fr": "Il y a une liste de tous les médicaments présents dans l'organisme d'Ana Martínez."
     }
   },
   {
     "translation": {
       "en": "-Insulin? -Yeah, and another one.",
-      "fr": "- De l'insuline ?- Oui, et devine quoi d'autre."
+      "fr": "- De l'insuline ? - Oui, et devine quoi d'autre."
     }
   },
   {
     "translation": {
       "en": "Get this. Digoxin.",
-      "fr": "- De l'insuline ?- Oui, et devine quoi d'autre. De la digoxine."
+      "fr": "- De l'insuline ? - Oui, et devine quoi d'autre. De la digoxine."
     }
   },
   {
@@ -4118,25 +4118,25 @@
   {
     "translation": {
       "en": "-Are you serious? -Shit.",
-      "fr": "- Sérieusement ?- Merde."
+      "fr": "- Sérieusement ? - Merde."
     }
   },
   {
     "translation": {
       "en": "Screaming at her. Malcolm Burrel from City Council just called.",
-      "fr": "Vous lui avez crié dessus ?Burrel, du conseil municipal, a appelé."
+      "fr": "Vous lui avez crié dessus ? Burrel, du conseil municipal, a appelé."
     }
   },
   {
     "translation": {
       "en": "Danny will be happy to apologize to Mrs. Garran.",
-      "fr": "Danny sera ravi de s'excuserauprès de Mme Garran."
+      "fr": "Danny sera ravi de s'excuser auprès de Mme Garran."
     }
   },
   {
     "translation": {
       "en": "Well, too late. You've both been banned from the hospital property.",
-      "fr": "Trop tard. L'accès à l'hôpitalvous est interdit à tous les deux."
+      "fr": "Trop tard. L'accès à l'hôpital vous est interdit à tous les deux."
     }
   },
   {
@@ -4148,13 +4148,13 @@
   {
     "translation": {
       "en": "Can't ban us from the scene of a crime that we're investigating.",
-      "fr": "C'est la scène du crimesur lequel on enquête."
+      "fr": "C'est la scène du crime sur lequel on enquête."
     }
   },
   {
     "translation": {
       "en": "-[man] What crime? -[Baldwin] Homicide.",
-      "fr": "- Quel crime ?- Homicide."
+      "fr": "- Quel crime ? - Homicide."
     }
   },
   {
@@ -4166,13 +4166,13 @@
   {
     "translation": {
       "en": "The files and an interview with a nurse who was certain that the victim was given insulin.",
-      "fr": "Les dossiers et l'infirmière qui a attestéque la victime avait reçu de l'insuline."
+      "fr": "Les dossiers et l'infirmière qui a attesté que la victime avait reçu de l'insuline."
     }
   },
   {
     "translation": {
       "en": "Victim, what victim? Ana Martinez.",
-      "fr": "- Quelle victime ?- Ana Martínez."
+      "fr": "- Quelle victime ? - Ana Martínez."
     }
   },
   {
@@ -4184,7 +4184,7 @@
   {
     "translation": {
       "en": "No body, no autopsy. You know how this works.",
-      "fr": "Pas de corps, pas d'autopsie.Vous connaissez la chanson."
+      "fr": "Pas de corps, pas d'autopsie. Vous connaissez la chanson."
     }
   },
   {
@@ -4196,13 +4196,13 @@
   {
     "translation": {
       "en": "[Amy] Hey, Kelly. Tom called to check on you.",
-      "fr": "Coucou, Kelly.Tom a demandé de vos nouvelles."
+      "fr": "Coucou, Kelly. Tom a demandé de vos nouvelles."
     }
   },
   {
     "translation": {
       "en": "I cannot get over how cute that little Vanessa is.",
-      "fr": "Cette petite Vanessaest vraiment trop mignonne."
+      "fr": "Cette petite Vanessa est vraiment trop mignonne."
     }
   },
   {
@@ -4274,13 +4274,13 @@
   {
     "translation": {
       "en": "-Hey, Tom, it's Amy from the hospital. -Hi, Amy. What's going on?",
-      "fr": "- Tom, c'est Amy de l'hôpital.- Bonsoir. Que se passe-t-il ?"
+      "fr": "- Tom, c'est Amy de l'hôpital. - Bonsoir. Que se passe-t-il ?"
     }
   },
   {
     "translation": {
       "en": "I really think that you should come in. There's been a change overnight.",
-      "fr": "Vous devriez venir.Son état s'est dégradé soudainement."
+      "fr": "Vous devriez venir. Son état s'est dégradé soudainement."
     }
   },
   {
@@ -4304,7 +4304,7 @@
   {
     "translation": {
       "en": "-Jack's been pushing on his call button-- -Oh my God.",
-      "fr": "- Jack appelle constamment, mais j'ai…- C'est pas vrai."
+      "fr": "- Jack appelle constamment, mais j'ai… - C'est pas vrai."
     }
   },
   {
@@ -4412,7 +4412,7 @@
   {
     "translation": {
       "en": "-How well do you know him? -Really well.",
-      "fr": "- Vous le connaissez bien ?- Oui."
+      "fr": "- Vous le connaissez bien ? - Oui."
     }
   },
   {
@@ -4442,13 +4442,13 @@
   {
     "translation": {
       "en": "No. If something had happened, he wouldn't have been able to get a job.",
-      "fr": "Il ne serait pas icis'il avait commis une faute."
+      "fr": "Il ne serait pas ici s'il avait commis une faute."
     }
   },
   {
     "translation": {
       "en": "-The hospital would have done something. -You'd think so.",
-      "fr": "- L'hôpital aurait agi.- Logiquement, oui."
+      "fr": "- L'hôpital aurait agi. - Logiquement, oui."
     }
   },
   {
@@ -4472,7 +4472,7 @@
   {
     "translation": {
       "en": "Hey, honey. Yeah, I'll be in in a second. Just wait inside, okay?",
-      "fr": "J'arrive dans une seconde.Attends-moi à l'intérieur, tu veux bien ?"
+      "fr": "J'arrive dans une seconde. Attends-moi à l'intérieur, tu veux bien ?"
     }
   },
   {
@@ -4484,7 +4484,7 @@
   {
     "translation": {
       "en": "[softly] Guys, I can't talk right now. My kid's here. Like…",
-      "fr": "Je ne peux pas, là.Mes filles sont là. Je…"
+      "fr": "Je ne peux pas, là. Mes filles sont là. Je…"
     }
   },
   {
@@ -4496,7 +4496,7 @@
   {
     "translation": {
       "en": "Give me a call. Maybe he's not who you think.",
-      "fr": "Appelez-moi. Il n'est peut-être pascelui que vous croyez."
+      "fr": "Appelez-moi. Il n'est peut-être pas celui que vous croyez."
     }
   },
   {
@@ -4520,7 +4520,7 @@
   {
     "translation": {
       "en": "-No? -I'm fine.",
-      "fr": "- Non ?- Ça va."
+      "fr": "- Non ? - Ça va."
     }
   },
   {
@@ -4556,43 +4556,43 @@
   {
     "translation": {
       "en": "-Really? -Yes! You look great.",
-      "fr": "- Vraiment ?- Vraiment ! Tu es superbe."
+      "fr": "- Vraiment ? - Vraiment ! Tu es superbe."
     }
   },
   {
     "translation": {
       "en": "-Thank you. -You're welcome.",
-      "fr": "- Merci.- Je t'en prie."
+      "fr": "- Merci. - Je t'en prie."
     }
   },
   {
     "translation": {
       "en": "-I feel exhausted. -[server] Hi there! You ready to order?",
-      "fr": "- Je me sens épuisée.- Vous désirez ?"
+      "fr": "- Je me sens épuisée. - Vous désirez ?"
     }
   },
   {
     "translation": {
       "en": "-Oh, I'll have a cheese omelet. -Okay.",
-      "fr": "- Une omelette au fromage.- Très bien."
+      "fr": "- Une omelette au fromage. - Très bien."
     }
   },
   {
     "translation": {
       "en": "-And what pairs best with that? -Chardonnay.",
-      "fr": "- Et ça se boit avec quoi ?- Du chardonnay."
+      "fr": "- Et ça se boit avec quoi ? - Du chardonnay."
     }
   },
   {
     "translation": {
       "en": "Oh. A large cold glass of dry chardonnay.",
-      "fr": "Un grand verrede chardonnay sec bien frais."
+      "fr": "Un grand verre de chardonnay sec bien frais."
     }
   },
   {
     "translation": {
       "en": "-Okay. -I'll have the same. -Thanks. -Coming right up.",
-      "fr": "- Je prendrai la même chose. Merci.- Bien."
+      "fr": "- Je prendrai la même chose. Merci. - Bien."
     }
   },
   {
@@ -4610,7 +4610,7 @@
   {
     "translation": {
       "en": "-What? -Twelve years?",
-      "fr": "- Quoi ?- Douze ans ?"
+      "fr": "- Quoi ? - Douze ans ?"
     }
   },
   {
@@ -4622,7 +4622,7 @@
   {
     "translation": {
       "en": "-I'm getting old. -[server] Here we go.",
-      "fr": "- Je vieillis.- Voilà."
+      "fr": "- Je vieillis. - Voilà."
     }
   },
   {
@@ -4646,13 +4646,13 @@
   {
     "translation": {
       "en": "-Oh shit. -I mean, it's not a big deal.",
-      "fr": "- Merde.- Ce n'est pas grave."
+      "fr": "- Merde. - Ce n'est pas grave."
     }
   },
   {
     "translation": {
       "en": "It was a long time ago, and we share custody of the dogs.",
-      "fr": "C'était il y a longtemps,et on partage la garde des chiens."
+      "fr": "C'était il y a longtemps, et on partage la garde des chiens."
     }
   },
   {
@@ -4670,7 +4670,7 @@
   {
     "translation": {
       "en": "Just, you know, I wanted to… I wanted to ask you… It's… It's a little weird.",
-      "fr": "Je voulais te demander un truc.C'est un peu bizarre."
+      "fr": "Je voulais te demander un truc. C'est un peu bizarre."
     }
   },
   {
@@ -4682,7 +4682,7 @@
   {
     "translation": {
       "en": "But, um… do you remember working with someone named Charlie Cullen?",
-      "fr": "Tu te souviens avoir travailléavec un certain Charlie Cullen ?"
+      "fr": "Tu te souviens avoir travaillé avec un certain Charlie Cullen ?"
     }
   },
   {
@@ -4706,7 +4706,7 @@
   {
     "translation": {
       "en": "That he was responsible for a death. That he OD'd someone.",
-      "fr": "On dit qu'il avait causé un décès.Qu'il avait provoqué une overdose."
+      "fr": "On dit qu'il avait causé un décès. Qu'il avait provoqué une overdose."
     }
   },
   {
@@ -4718,7 +4718,7 @@
   {
     "translation": {
       "en": "They found insulin in the dead guy's saline bag.",
-      "fr": "Il y avait de l'insulinedans la perf de sérum physio."
+      "fr": "Il y avait de l'insuline dans la perf de sérum physio."
     }
   },
   {
@@ -4754,7 +4754,7 @@
   {
     "translation": {
       "en": "But we used to get codes every night. Sometimes two or three.",
-      "fr": "Mais on avait des arrêtstoutes les nuits. Plusieurs."
+      "fr": "Mais on avait des arrêts toutes les nuits. Plusieurs."
     }
   },
   {
@@ -4802,7 +4802,7 @@
   {
     "translation": {
       "en": "I checked on the girls. Jackie's with them.",
-      "fr": "J'ai vu pour les filles.Jackie est avec elles."
+      "fr": "J'ai vu pour les filles. Jackie est avec elles."
     }
   },
   {
@@ -4856,7 +4856,7 @@
   {
     "translation": {
       "en": "Uh, don't worry. Your last pressure looked pretty good.",
-      "fr": "Ne t'en fais pas.Ta tension est bonne."
+      "fr": "Ne t'en fais pas. Ta tension est bonne."
     }
   },
   {
@@ -4868,7 +4868,7 @@
   {
     "translation": {
       "en": "I saw the labs, and your troponin's high, but it's trending down.",
-      "fr": "J'ai vu tes bilans, ta troponineest élevée, mais elle descend."
+      "fr": "J'ai vu tes bilans, ta troponine est élevée, mais elle descend."
     }
   },
   {
@@ -4880,43 +4880,43 @@
   {
     "translation": {
       "en": "You're lucky. Could've been a lot worse.",
-      "fr": "Tu es chanceuse.Ça aurait pu être pire."
+      "fr": "Tu es chanceuse. Ça aurait pu être pire."
     }
   },
   {
     "translation": {
       "en": "-I wanna go home. -I know.",
-      "fr": "- Je veux rentrer chez moi.- Je sais."
+      "fr": "- Je veux rentrer chez moi. - Je sais."
     }
   },
   {
     "translation": {
       "en": "-Okay. -[woman] Hey. Saw her heart rate blip up. -You awake? -[Charlie] Yeah--",
-      "fr": "J'ai vu de l'activité.Vous êtes réveillée ?"
+      "fr": "J'ai vu de l'activité. Vous êtes réveillée ?"
     }
   },
   {
     "translation": {
       "en": "Bring me a discharge form.",
-      "fr": "Je veux sortir. Ce n'est pas prudent.Elle devrait rester cette nuit."
+      "fr": "Je veux sortir. Ce n'est pas prudent. Elle devrait rester cette nuit."
     }
   },
   {
     "translation": {
       "en": "Hey. I don't think that's a good idea. She should stay overnight.",
-      "fr": "Ce n'est pas prudent.Elle devrait rester cette nuit."
+      "fr": "Ce n'est pas prudent. Elle devrait rester cette nuit."
     }
   },
   {
     "translation": {
       "en": "-Yeah, we got this. -I wanna leave AMA.",
-      "fr": "On va gérer. - Sortie contre avis médical.- Sûre ?"
+      "fr": "On va gérer. - Sortie contre avis médical. - Sûre ?"
     }
   },
   {
     "translation": {
       "en": "-You sure? -[beeping rapidly]",
-      "fr": "- Sortie contre avis médical.- Sûre ?"
+      "fr": "- Sortie contre avis médical. - Sûre ?"
     }
   },
   {
@@ -4952,19 +4952,19 @@
   {
     "translation": {
       "en": "I'm happy to sleep on the couch. I can…",
-      "fr": "Ça ne me dérange pasde dormir sur le canapé."
+      "fr": "Ça ne me dérange pas de dormir sur le canapé."
     }
   },
   {
     "translation": {
       "en": "-I can take the girls to school. -I don't wanna scare them.",
-      "fr": "- Je peux emmener les filles à l'école.- Ça les affolerait."
+      "fr": "- Je peux emmener les filles à l'école. - Ça les affolerait."
     }
   },
   {
     "translation": {
       "en": "Nothing's gonna happen. I just… I just need to sleep.",
-      "fr": "Tout ira bien.J'ai juste besoin de dormir."
+      "fr": "Tout ira bien. J'ai juste besoin de dormir."
     }
   },
   {
@@ -5066,13 +5066,13 @@
   {
     "translation": {
       "en": "and because it enters the bloodstream slowly,",
-      "fr": "Et comme elle pénètrelentement dans le sang,"
+      "fr": "Et comme elle pénètre lentement dans le sang,"
     }
   },
   {
     "translation": {
       "en": "it could take hours or even, you know, a day to kill someone.",
-      "fr": "ça peut prendre jusqu'à un jourpour tuer quelqu'un."
+      "fr": "ça peut prendre jusqu'à un jour pour tuer quelqu'un."
     }
   },
   {
@@ -5084,7 +5084,7 @@
   {
     "translation": {
       "en": "Could he put something other than insulin inside those bags?",
-      "fr": "Pourrait-il y mettreautre chose que de l'insuline ?"
+      "fr": "Pourrait-il y mettre autre chose que de l'insuline ?"
     }
   },
   {
@@ -5120,7 +5120,7 @@
   {
     "translation": {
       "en": "[Baldwin] Do you mind taking a look at what we got here from Parkfield?",
-      "fr": "Pourriez-vous jeter un œilà ce qu'on a reçu de Parkfield ?"
+      "fr": "Pourriez-vous jeter un œil à ce qu'on a reçu de Parkfield ?"
     }
   },
   {
@@ -5132,7 +5132,7 @@
   {
     "translation": {
       "en": "That's it. That's all we have. That's all they gave us.",
-      "fr": "C'est tout ce qu'on a.C'est ce qu'ils nous ont donné."
+      "fr": "C'est tout ce qu'on a. C'est ce qu'ils nous ont donné."
     }
   },
   {
@@ -5156,31 +5156,31 @@
   {
     "translation": {
       "en": "It keeps the information for as long as it was installed. It's…",
-      "fr": "Les rapports sont stockéstant que le programme est installé…"
+      "fr": "Les rapports sont stockés tant que le programme est installé…"
     }
   },
   {
     "translation": {
       "en": "I'll pull Charlie's PYXIS report from the machine in my ward,",
-      "fr": "Je vais récupérer le rapportde Charlie dans mon service."
+      "fr": "Je vais récupérer le rapport de Charlie dans mon service."
     }
   },
   {
     "translation": {
       "en": "and we'll use that to prove that he withdrew insulin",
-      "fr": "On s'en servira pour prouverqu'il a sorti de l'insuline"
+      "fr": "On s'en servira pour prouver qu'il a sorti de l'insuline"
     }
   },
   {
     "translation": {
       "en": "and digoxin when Ana died.",
-      "fr": "et de la digoxineà la mort d'Ana."
+      "fr": "et de la digoxine à la mort d'Ana."
     }
   },
   {
     "translation": {
       "en": "Yeah, see, the problem is that Ana Martinez was cremated,",
-      "fr": "Le problème,c'est qu'elle a été incinérée,"
+      "fr": "Le problème, c'est qu'elle a été incinérée,"
     }
   },
   {
@@ -5198,19 +5198,19 @@
   {
     "translation": {
       "en": "[Baldwin] As you know, we got permission from Kelly Anderson's husband to dig up her body for examination.",
-      "fr": "Le mari de Kelly Andersonnous a autorisés à déterrer le corps."
+      "fr": "Le mari de Kelly Anderson nous a autorisés à déterrer le corps."
     }
   },
   {
     "translation": {
       "en": "From the autopsy, we know that a combination of insulin and digoxin",
-      "fr": "L'autopsie révèle des tracesd'insuline et de digoxine"
+      "fr": "L'autopsie révèle des traces d'insuline et de digoxine"
     }
   },
   {
     "translation": {
       "en": "were in Kelly's system and led to her death in the early hours of the 15th.",
-      "fr": "qui ont conduit à sa mortaux premières heures du 15."
+      "fr": "qui ont conduit à sa mort aux premières heures du 15."
     }
   },
   {
@@ -5222,7 +5222,7 @@
   {
     "translation": {
       "en": "you see that Charlie took out insulin and digoxin from the PYXIS.",
-      "fr": "on sait que Charlie a sortide l'insuline et de la digoxine du Pyxis."
+      "fr": "on sait que Charlie a sorti de l'insuline et de la digoxine du Pyxis."
     }
   },
   {
@@ -5240,7 +5240,7 @@
   {
     "translation": {
       "en": "so that is the insulin taking effect.",
-      "fr": "C'est l'insulinequi commence à faire effet."
+      "fr": "C'est l'insuline qui commence à faire effet."
     }
   },
   {
@@ -5258,7 +5258,7 @@
   {
     "translation": {
       "en": "So he was holding two murder weapons. 3:57 is the time of death.",
-      "fr": "Il avait deux armes en sa possession.Elle est morte à 3h57."
+      "fr": "Il avait deux armes en sa possession. Elle est morte à 3h57."
     }
   },
   {
@@ -5276,7 +5276,7 @@
   {
     "translation": {
       "en": "With this PYXIS, it says cancellations, not withdrawals.",
-      "fr": "Le rapport indique des annulations,pas des retraits."
+      "fr": "Le rapport indique des annulations, pas des retraits."
     }
   },
   {
@@ -5288,7 +5288,7 @@
   {
     "translation": {
       "en": "So when you cancel at the last minute, the drawer opens,",
-      "fr": "Si on annule au dernier moment,le tiroir s'ouvre,"
+      "fr": "Si on annule au dernier moment, le tiroir s'ouvre,"
     }
   },
   {
@@ -5318,7 +5318,7 @@
   {
     "translation": {
       "en": "Okay, but not according to this. This makes it look like he never got 'em.",
-      "fr": "Mais pas d'après ce rapport.Il indique qu'il ne les a pas retirés."
+      "fr": "Mais pas d'après ce rapport. Il indique qu'il ne les a pas retirés."
     }
   },
   {
@@ -5348,7 +5348,7 @@
   {
     "translation": {
       "en": "It's just cancellations. There's nothing nefarious.",
-      "fr": "Ce ne sont que des annulations,il n'y a rien d'illégal."
+      "fr": "Ce ne sont que des annulations, il n'y a rien d'illégal."
     }
   },
   {
@@ -5372,19 +5372,19 @@
   {
     "translation": {
       "en": "Look. They're not followed up with a correct order.",
-      "fr": "Elles ne sont pas suiviesde retraits rectificatifs."
+      "fr": "Elles ne sont pas suivies de retraits rectificatifs."
     }
   },
   {
     "translation": {
       "en": "He's had repeated orders of vec and digoxin.",
-      "fr": "C'est plein de demandesde curare et de digoxine."
+      "fr": "C'est plein de demandes de curare et de digoxine."
     }
   },
   {
     "translation": {
       "en": "I mean, it's really-- It just screams wrong. It's…",
-      "fr": "Il y a un truc louche.C'est vraiment criant."
+      "fr": "Il y a un truc louche. C'est vraiment criant."
     }
   },
   {
@@ -5396,7 +5396,7 @@
   {
     "translation": {
       "en": "Come on, guys. Linda Garran used to be a nurse.",
-      "fr": "Soyez sérieux.Linda Garran est une ancienne infirmière."
+      "fr": "Soyez sérieux. Linda Garran est une ancienne infirmière."
     }
   },
   {
@@ -5426,13 +5426,13 @@
   {
     "translation": {
       "en": "Uh… We've come across something troubling.",
-      "fr": "Nous avons détectéquelque chose de troublant."
+      "fr": "Nous avons détecté quelque chose de troublant."
     }
   },
   {
     "translation": {
       "en": "What hospital were you employed at before you took the position here?",
-      "fr": "Dans quel hôpital travailliez-vousavant de prendre ce poste ?"
+      "fr": "Dans quel hôpital travailliez-vous avant de prendre ce poste ?"
     }
   },
   {
@@ -5450,19 +5450,19 @@
   {
     "translation": {
       "en": "I'm not sure. Is there an issue from St. Elizabeth's?",
-      "fr": "Je ne suis pas sûr.Y a-t-il un souci avec eux ?"
+      "fr": "Je ne suis pas sûr. Y a-t-il un souci avec eux ?"
     }
   },
   {
     "translation": {
       "en": "'Cause I was targeted by some coworkers. I don't know. Maybe they're at it again.",
-      "fr": "Certains collègues m'avaient calomnié.Peut-être qu'ils recommencent…"
+      "fr": "Certains collègues m'avaient calomnié. Peut-être qu'ils recommencent…"
     }
   },
   {
     "translation": {
       "en": "What we're concerned with are the dates you listed on your application.",
-      "fr": "Nous nous interrogeonssur vos dates d'emploi."
+      "fr": "Nous nous interrogeons sur vos dates d'emploi."
     }
   },
   {
@@ -5486,7 +5486,7 @@
   {
     "translation": {
       "en": "Those dates are incorrect, Mr. Cullen.",
-      "fr": "Ces dates sont fausses,monsieur Cullen."
+      "fr": "Ces dates sont fausses, monsieur Cullen."
     }
   },
   {
@@ -5498,7 +5498,7 @@
   {
     "translation": {
       "en": "so these discrepancies on your application form",
-      "fr": "Ces incohérencessur votre formulaire de candidature"
+      "fr": "Ces incohérences sur votre formulaire de candidature"
     }
   },
   {
@@ -5516,7 +5516,7 @@
   {
     "translation": {
       "en": "Wait, so you're firing me for writing the wrong dates on my application?",
-      "fr": "Vous me virezparce que je me suis trompé de mois ?"
+      "fr": "Vous me virez parce que je me suis trompé de mois ?"
     }
   },
   {
@@ -5552,7 +5552,7 @@
   {
     "translation": {
       "en": "I just got news from Parkfield. They've dealt with the Cullen issue.",
-      "fr": "Parkfield vient d'appeler.Ils ont réglé le problème avec Cullen."
+      "fr": "Parkfield vient d'appeler. Ils ont réglé le problème avec Cullen."
     }
   },
   {
@@ -5564,7 +5564,7 @@
   {
     "translation": {
       "en": "-What? -So they're just gonna let him go?",
-      "fr": "- Quoi ?- Ils le laissent s'en tirer ?"
+      "fr": "- Quoi ? - Ils le laissent s'en tirer ?"
     }
   },
   {
@@ -5576,7 +5576,7 @@
   {
     "translation": {
       "en": "That they fired him because they found some discrepancy in his paperwork.",
-      "fr": "Une erreur de datessur son formulaire d'embauche."
+      "fr": "Une erreur de dates sur son formulaire d'embauche."
     }
   },
   {
@@ -5588,13 +5588,13 @@
   {
     "translation": {
       "en": "Wait, you don't think that this could make him more dangerous, do you?",
-      "fr": "Vous ne pensez pas que ça vale rendre encore plus dangereux, si ?"
+      "fr": "Vous ne pensez pas que ça va le rendre encore plus dangereux, si ?"
     }
   },
   {
     "translation": {
       "en": "At least he can't be anywhere near patients.",
-      "fr": "Au moins,il n'a plus accès à des patients."
+      "fr": "Au moins, il n'a plus accès à des patients."
     }
   },
   {
@@ -5618,7 +5618,7 @@
   {
     "translation": {
       "en": "They all say the same thing. They cover up their own liabilities.",
-      "fr": "Ils disent tous la même chose.Ils se couvrent."
+      "fr": "Ils disent tous la même chose. Ils se couvrent."
     }
   },
   {
@@ -5630,7 +5630,7 @@
   {
     "translation": {
       "en": "He's gonna get a new job at another hospital, and it's all gonna continue.",
-      "fr": "Il trouvera un nouvel hôpital,et le cycle continuera."
+      "fr": "Il trouvera un nouvel hôpital, et le cycle continuera."
     }
   },
   {
@@ -5684,7 +5684,7 @@
   {
     "translation": {
       "en": "-[Alex] I don't have the script. -Oh my God.",
-      "fr": "- Je l'ai pas.- Trop bon."
+      "fr": "- Je l'ai pas. - Trop bon."
     }
   },
   {
@@ -5732,7 +5732,7 @@
   {
     "translation": {
       "en": "I told her she could go home. It was just gonna be us tonight.",
-      "fr": "Je lui ai dit de rentrer.On est entre nous ce soir."
+      "fr": "Je lui ai dit de rentrer. On est entre nous ce soir."
     }
   },
   {
@@ -5744,25 +5744,25 @@
   {
     "translation": {
       "en": "-We did. -[Alex] Charlie cooked.",
-      "fr": "- C'est vrai.- Charlie a cuisiné."
+      "fr": "- C'est vrai. - Charlie a cuisiné."
     }
   },
   {
     "translation": {
       "en": "-I helped. -[Alex] No, you didn't.",
-      "fr": "- J'ai aidé.- Pas du tout."
+      "fr": "- J'ai aidé. - Pas du tout."
     }
   },
   {
     "translation": {
       "en": "-[Maya] Yes, I did! -No, you didn't.",
-      "fr": "- Si.- Non."
+      "fr": "- Si. - Non."
     }
   },
   {
     "translation": {
       "en": "-Yes, I did! -Alex, we all cooked.",
-      "fr": "- Si !- On a tous cuisiné."
+      "fr": "- Si ! - On a tous cuisiné."
     }
   },
   {
@@ -5780,7 +5780,7 @@
   {
     "translation": {
       "en": "-We're making something special. -It's his mom's recipe.",
-      "fr": "- C'est un plat spécial.- C'est la recette de sa mère."
+      "fr": "- C'est un plat spécial. - C'est la recette de sa mère."
     }
   },
   {
@@ -5792,7 +5792,7 @@
   {
     "translation": {
       "en": "Sit, relax. Enjoy the \"Mayor of Humdrum Falls.\"",
-      "fr": "Assieds-toi, détends-toi.Et profite de la pièce de théâtre."
+      "fr": "Assieds-toi, détends-toi. Et profite de la pièce de théâtre."
     }
   },
   {
@@ -5810,7 +5810,7 @@
   {
     "translation": {
       "en": "-Why? -'Cause I'm asking you to. Come here.",
-      "fr": "- Pourquoi ?- Parce que je vous le demande."
+      "fr": "- Pourquoi ? - Parce que je vous le demande."
     }
   },
   {
@@ -5876,7 +5876,7 @@
   {
     "translation": {
       "en": "They fired me because I wrote the wrong dates on my application form apparently.",
-      "fr": "Parce que je me suis trompé dans les datessur mon formulaire de candidature."
+      "fr": "Parce que je me suis trompé dans les dates sur mon formulaire de candidature."
     }
   },
   {
@@ -5900,19 +5900,19 @@
   {
     "translation": {
       "en": "I took this job because I wanted to be close to my kids.",
-      "fr": "C'était juste pour êtreplus près de mes enfants."
+      "fr": "C'était juste pour être plus près de mes enfants."
     }
   },
   {
     "translation": {
       "en": "Then when I get here, she won't even let me see them,",
-      "fr": "Alors, je viens ici,et elle ne me laisse même pas les voir."
+      "fr": "Alors, je viens ici, et elle ne me laisse même pas les voir."
     }
   },
   {
     "translation": {
       "en": "and then she starts making up this insane stuff about poisoning the dog,",
-      "fr": "Et elle invente toute cette histoirecomme quoi j'aurais empoisonné le chien,"
+      "fr": "Et elle invente toute cette histoire comme quoi j'aurais empoisonné le chien,"
     }
   },
   {
@@ -5936,7 +5936,7 @@
   {
     "translation": {
       "en": "-At this point. -You know that's not true.",
-      "fr": "- Tout bien réfléchi.- Tu sais que c'est faux."
+      "fr": "- Tout bien réfléchi. - Tu sais que c'est faux."
     }
   },
   {
@@ -6026,7 +6026,7 @@
   {
     "translation": {
       "en": "But what I think would be really helpful to me is, um…",
-      "fr": "Mais je penseque ce qui m'aiderait vraiment,"
+      "fr": "Mais je pense que ce qui m'aiderait vraiment,"
     }
   },
   {
@@ -6050,13 +6050,13 @@
   {
     "translation": {
       "en": "because I know that this has been a day from hell for you.",
-      "fr": "parce que je saisque tu as passé une sale journée."
+      "fr": "parce que je sais que tu as passé une sale journée."
     }
   },
   {
     "translation": {
       "en": "I mean, Charlie, honestly, you've had the year from hell. [chuckles]",
-      "fr": "On peut même direque tu as passé une sale année."
+      "fr": "On peut même dire que tu as passé une sale année."
     }
   },
   {
@@ -6110,7 +6110,7 @@
   {
     "translation": {
       "en": "-Okay. -I'm glad I can help.",
-      "fr": "- D'accord.- Je suis content de pouvoir aider."
+      "fr": "- D'accord. - Je suis content de pouvoir aider."
     }
   },
   {
@@ -6146,7 +6146,7 @@
   {
     "translation": {
       "en": "it made me realize everything's gonna be okay.",
-      "fr": "Ça m'a fait réaliserque tout ira bien."
+      "fr": "Ça m'a fait réaliser que tout ira bien."
     }
   },
   {
@@ -6188,13 +6188,13 @@
   {
     "translation": {
       "en": "-I was, um-- -You okay?",
-      "fr": "- Je…- Ça va ?"
+      "fr": "- Je… - Ça va ?"
     }
   },
   {
     "translation": {
       "en": "[sighs] You know, I wanna apologize for being so weird yesterday.",
-      "fr": "Je voulais m'excuserpour ma conduite bizarre."
+      "fr": "Je voulais m'excuser pour ma conduite bizarre."
     }
   },
   {
@@ -6206,7 +6206,7 @@
   {
     "translation": {
       "en": "-No. Stop. -Sorry.",
-      "fr": "- Arrête.- Désolée."
+      "fr": "- Arrête. - Désolée."
     }
   },
   {
@@ -6230,7 +6230,7 @@
   {
     "translation": {
       "en": "I think… You know, I think that you… Like, both of you needed that.",
-      "fr": "Je crois que tu…Vous en aviez besoin toutes les deux."
+      "fr": "Je crois que tu… Vous en aviez besoin toutes les deux."
     }
   },
   {
@@ -6248,7 +6248,7 @@
   {
     "translation": {
       "en": "Charlie, it bothers me so much that you're not gonna be there.",
-      "fr": "Je suis vraiment tristede savoir que tu ne seras pas là-bas."
+      "fr": "Je suis vraiment triste de savoir que tu ne seras pas là-bas."
     }
   },
   {
@@ -6302,13 +6302,13 @@
   {
     "translation": {
       "en": "But I have to go to work now, so I'll find a place.",
-      "fr": "Je dois aller travailler, là… Je choisirai un restoet je t'enverrai un texto."
+      "fr": "Je dois aller travailler, là… Je choisirai un resto et je t'enverrai un texto."
     }
   },
   {
     "translation": {
       "en": "-Just text me -I'll… I'll… I'll send you the details.",
-      "fr": "Je choisirai un restoet je t'enverrai un texto."
+      "fr": "Je choisirai un resto et je t'enverrai un texto."
     }
   },
   {
@@ -6320,13 +6320,13 @@
   {
     "translation": {
       "en": "-Say hi to Sandra for me. -Oh, I will.",
-      "fr": "- Salue Sandra.- Promis."
+      "fr": "- Salue Sandra. - Promis."
     }
   },
   {
     "translation": {
       "en": "-Okay. Bye. -Bye.",
-      "fr": "- Salut.- Salut."
+      "fr": "- Salut. - Salut."
     }
   },
   {
@@ -6338,7 +6338,7 @@
   {
     "translation": {
       "en": "Great job. So you remember what we talked about?",
-      "fr": "Beau travail.Vous vous rappelez ce qu'on a dit ?"
+      "fr": "Beau travail. Vous vous rappelez ce qu'on a dit ?"
     }
   },
   {
@@ -6416,7 +6416,7 @@
   {
     "translation": {
       "en": "-You okay? -Yeah.",
-      "fr": "- Tu vas bien ?- Oui."
+      "fr": "- Tu vas bien ? - Oui."
     }
   },
   {
@@ -6440,7 +6440,7 @@
   {
     "translation": {
       "en": "-Uh, I'll get an iced tea, please. -[server] Iced tea.",
-      "fr": "- Un thé glacé, s'il vous plaît.- Un thé glacé."
+      "fr": "- Un thé glacé, s'il vous plaît. - Un thé glacé."
     }
   },
   {
@@ -6458,25 +6458,25 @@
   {
     "translation": {
       "en": "I'm starting a new job tonight. Hoping these will make a good impression.",
-      "fr": "Je commence un nouveau travail ce soir.J'espère faire bonne impression."
+      "fr": "Je commence un nouveau travail ce soir. J'espère faire bonne impression."
     }
   },
   {
     "translation": {
       "en": "-Where? -Elmsworth.",
-      "fr": "- Où ça ?- À Elmsworth."
+      "fr": "- Où ça ? - À Elmsworth."
     }
   },
   {
     "translation": {
       "en": "-You're starting at Elmsworth tonight? -Yeah. Tonight, yeah.",
-      "fr": "- Tu commences à Elmsworth ?- Ce soir."
+      "fr": "- Tu commences à Elmsworth ? - Ce soir."
     }
   },
   {
     "translation": {
       "en": "Got all my stuff in the car, ready for a new start.",
-      "fr": "J'ai mes affaires dans la voiture.C'est un nouveau départ."
+      "fr": "J'ai mes affaires dans la voiture. C'est un nouveau départ."
     }
   },
   {
@@ -6518,7 +6518,7 @@
   {
     "translation": {
       "en": "-[server] Thank you. -They're really good.",
-      "fr": "- Merci.- Très bien."
+      "fr": "- Merci. - Très bien."
     }
   },
   {
@@ -6560,7 +6560,7 @@
   {
     "translation": {
       "en": "And, like, the worst part is that everyone is just, you know, talking shit about you all the time.",
-      "fr": "Le pire, c'est que tout le monderaconte constamment des horreurs sur toi."
+      "fr": "Le pire, c'est que tout le monde raconte constamment des horreurs sur toi."
     }
   },
   {
@@ -6572,13 +6572,13 @@
   {
     "translation": {
       "en": "It makes me mad 'cause you're not there to defend yourself, and so…",
-      "fr": "Ça m'énerve parce que tu n'es pas làpour te défendre."
+      "fr": "Ça m'énerve parce que tu n'es pas là pour te défendre."
     }
   },
   {
     "translation": {
       "en": "You know, I'm going to town on everyone, and Sandra, she--",
-      "fr": "Alors, je m'accrocheavec tout le monde et Sandra…"
+      "fr": "Alors, je m'accroche avec tout le monde et Sandra…"
     }
   },
   {
@@ -6614,7 +6614,7 @@
   {
     "translation": {
       "en": "Is it because what they're saying's true?",
-      "fr": "Est-ce que c'estparce que les rumeurs disent vrai ?"
+      "fr": "Est-ce que c'est parce que les rumeurs disent vrai ?"
     }
   },
   {
@@ -6656,7 +6656,7 @@
   {
     "translation": {
       "en": "I was thinking… I don't know, I was thinking that maybe you and Maya and Alex and then me and my girls,",
-      "fr": "Je me disais que toi,Maya et Alex, et moi et mes filles,"
+      "fr": "Je me disais que toi, Maya et Alex, et moi et mes filles,"
     }
   },
   {
@@ -6686,7 +6686,7 @@
   {
     "translation": {
       "en": "I'm starting a new job. Can't be late, so…",
-      "fr": "Je ne veux pas être en retardà mon nouveau travail."
+      "fr": "Je ne veux pas être en retard à mon nouveau travail."
     }
   },
   {
@@ -6716,7 +6716,7 @@
   {
     "translation": {
       "en": "Where's Elmsworth? Amy, where's Elmsworth Hospital?",
-      "fr": "Où est Elmsworth ?Où est l'hôpital Elmsworth ?"
+      "fr": "Où est Elmsworth ? Où est l'hôpital Elmsworth ?"
     }
   },
   {
@@ -6752,7 +6752,7 @@
   {
     "translation": {
       "en": "-All right. -Bring him in.",
-      "fr": "- Bien.- Ils vont nous l'amener."
+      "fr": "- Bien. - Ils vont nous l'amener."
     }
   },
   {
@@ -6818,7 +6818,7 @@
   {
     "translation": {
       "en": "My name is Detective Sergeant Tim Braun. With me is Detective Dan Baldwin.",
-      "fr": "Je suis le capitaine Braun.Avec moi, l'inspecteur Baldwin."
+      "fr": "Je suis le capitaine Braun. Avec moi, l'inspecteur Baldwin."
     }
   },
   {
@@ -6836,13 +6836,13 @@
   {
     "translation": {
       "en": "We're in the Major Crimes interview room with Mr. Charles Cullen.",
-      "fr": "Lieu : salle d'interrogatoireavec M. Cullen."
+      "fr": "Lieu : salle d'interrogatoire avec M. Cullen."
     }
   },
   {
     "translation": {
       "en": "Mr. Cullen, for the record, could you please state your full name?",
-      "fr": "M. Cullen,veuillez décliner votre identité."
+      "fr": "M. Cullen, veuillez décliner votre identité."
     }
   },
   {
@@ -6896,7 +6896,7 @@
   {
     "translation": {
       "en": "How many IV bags have you polluted at Parkfield Memorial Hospital?",
-      "fr": "Combien de poches de sérum physiologiqueavez-vous trafiquées à Parkfield ?"
+      "fr": "Combien de poches de sérum physiologique avez-vous trafiquées à Parkfield ?"
     }
   },
   {
@@ -6920,13 +6920,13 @@
   {
     "translation": {
       "en": "I can't. I'm not meant to talk about patients without the hospital lawyers.",
-      "fr": "Je ne peux pas parler des patientssans les avocats de l'hôpital."
+      "fr": "Je ne peux pas parler des patients sans les avocats de l'hôpital."
     }
   },
   {
     "translation": {
       "en": "You don't work there anymore. You can say whatever you want.",
-      "fr": "Vous n'y travaillez plus.Vous pouvez parler."
+      "fr": "Vous n'y travaillez plus. Vous pouvez parler."
     }
   },
   {
@@ -6980,7 +6980,7 @@
   {
     "translation": {
       "en": "You know, the… the saline-bag stuff,",
-      "fr": "Le truc avec les pochesde sérum physiologique…"
+      "fr": "Le truc avec les poches de sérum physiologique…"
     }
   },
   {
@@ -7052,13 +7052,13 @@
   {
     "translation": {
       "en": "Mm… I can't. -[Braun] Come on, Charlie. -I can't.",
-      "fr": "- Je ne peux pas.- Allez."
+      "fr": "- Je ne peux pas. - Allez."
     }
   },
   {
     "translation": {
       "en": "[Braun] You can. You gotta do this. I know you can.",
-      "fr": "Vous le devez.Vous pouvez le faire. Je le sais."
+      "fr": "Vous le devez. Vous pouvez le faire. Je le sais."
     }
   },
   {
@@ -7070,7 +7070,7 @@
   {
     "translation": {
       "en": "-Charlie. -I can't. -I can't. -Charlie, you can.",
-      "fr": "- Je ne peux pas.- Vous le pouvez."
+      "fr": "- Je ne peux pas. - Vous le pouvez."
     }
   },
   {
@@ -7088,25 +7088,25 @@
   {
     "translation": {
       "en": "[Baldwin] We've seen your Cerner, we've seen your PYXIS,",
-      "fr": "On a votre historique,votre Pyxis, vos commandes."
+      "fr": "On a votre historique, votre Pyxis, vos commandes."
     }
   },
   {
     "translation": {
       "en": "we've seen your orders, we've seen the cancellations.",
-      "fr": "On a votre historique,votre Pyxis, vos commandes. On a vu les annulations,on sait pour le bug."
+      "fr": "On a votre historique, votre Pyxis, vos commandes. On a vu les annulations, on sait pour le bug."
     }
   },
   {
     "translation": {
       "en": "We know all about it.",
-      "fr": "On a vu les annulations,on sait pour le bug."
+      "fr": "On a vu les annulations, on sait pour le bug."
     }
   },
   {
     "translation": {
       "en": "We know how you poisoned the bags in the storeroom,",
-      "fr": "On saitque vous avez empoisonné les poches"
+      "fr": "On sait que vous avez empoisonné les poches"
     }
   },
   {
@@ -7118,7 +7118,7 @@
   {
     "translation": {
       "en": "You know what? I don't think you picked Kelly, did you?",
-      "fr": "Je penseque vous n'aviez pas choisi Kelly."
+      "fr": "Je pense que vous n'aviez pas choisi Kelly."
     }
   },
   {
@@ -7148,7 +7148,7 @@
   {
     "translation": {
       "en": "-[Braun] You can, Charlie. Yes, you can. -I can't.",
-      "fr": "- Vous le pouvez.- Je ne peux pas."
+      "fr": "- Vous le pouvez. - Je ne peux pas."
     }
   },
   {
@@ -7292,7 +7292,7 @@
   {
     "translation": {
       "en": "Look, you're freezing. Here. I'm just gonna put this over your shoulders.",
-      "fr": "Tu es gelé. Tiens.Je vais te mettre ça sur les épaules."
+      "fr": "Tu es gelé. Tiens. Je vais te mettre ça sur les épaules."
     }
   },
   {
@@ -7328,7 +7328,7 @@
   {
     "translation": {
       "en": "Forget what you did for me, and…",
-      "fr": "Ça m'a fait oublierce que tu avais fait pour moi…"
+      "fr": "Ça m'a fait oublier ce que tu avais fait pour moi…"
     }
   },
   {
@@ -7346,7 +7346,7 @@
   {
     "translation": {
       "en": "Not how you, who is so kind and generous…",
-      "fr": "Comment quelqu'un comme toi,qui es si gentil et généreux,"
+      "fr": "Comment quelqu'un comme toi, qui es si gentil et généreux,"
     }
   },
   {
@@ -7472,13 +7472,13 @@
   {
     "translation": {
       "en": "-Jack Ivins? -Yeah. Jack.",
-      "fr": "- Jack Ivins ?- Oui. Jack."
+      "fr": "- Jack Ivins ? - Oui. Jack."
     }
   },
   {
     "translation": {
       "en": "And then there… there was a… There was a… a man at my last hospital,",
-      "fr": "Et il y a eu un hommeà mon hôpital d'avant."
+      "fr": "Et il y a eu un homme à mon hôpital d'avant."
     }
   },
   {

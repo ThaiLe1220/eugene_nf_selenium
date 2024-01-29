@@ -1,0 +1,6410 @@
+[
+  {
+    "translation": {
+      "en": "[CJ] You sure no one's around?",
+      "th": "แน่ใจว่าไม่มีใครอยู่แถวนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] This is perfect. No witnesses.",
+      "th": "แบบนี้เยี่ยมเลย ไม่มีพยานรู้เห็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Okay, tap into the feed.",
+      "th": "เอาล่ะ จัดการข้อมูลล่าสุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Cool.",
+      "th": "เยี่ยม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. This is temporal relocation test number 103.",
+      "th": "เอาล่ะ นี่คือการทดสอบ การเดินทางข้ามเวลาหมายเลย 103"
+    }
+  },
+  {
+    "translation": {
+      "en": "The date is June 27th, 2019,",
+      "th": "วันที่คือ 27 มิถุนายน 2019"
+    }
+  },
+  {
+    "translation": {
+      "en": "and this is our third test on our Temporal Relocation Pack Mark Ones",
+      "th": "และนี่คือการทดสอบเครื่องเดินทางข้ามเวลา แพ็กมาร์กวันครั้งที่สาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "or, as I like to call them, TRPs.",
+      "th": "หรือที่ฉันชอบเรียกว่า ทีอาร์พี"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the finalized TRP Mark One.",
+      "th": "นี่คือเครื่องทีอาร์พีมาร์กวัน ที่เสร็จสมบูรณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have officially finished the time sequence calibrations",
+      "th": "เราทำอุปกรณ์เทียบมาตรฐานการจัดลำดับเวลา ได้สำเร็จอย่างเป็นทางการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "for the core of the TRP, which is located here.",
+      "th": "เพื่อเป็นส่วนสำคัญของทีอาร์พี ซึ่งติดตั้งอยู่ตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "In this canister, there is a solution of protons.",
+      "th": "ในกระบอกนี้มีโปรตอนเหลว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The canister is attached to a rotor circuit",
+      "th": "กระบอกนี้ติดกับวงจรไฟฟ้าแบบหมุน"
+    }
+  },
+  {
+    "translation": {
+      "en": "that generates the protons to the speed of light,",
+      "th": "ซึ่งจะผลิตโปรตอนให้เป็นอัตราความเร็วแสง"
+    }
+  },
+  {
+    "translation": {
+      "en": "which will then create a quantum foam and open up a wormhole.",
+      "th": "ที่จะสร้างควอนตัมโฟมและเปิดรูหนอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once the wormhole opens,",
+      "th": "ทันทีที่รูหนอนเปิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "the protons and the energy generated will break down our molecular structure,",
+      "th": "โปรตอนและพลังงานที่ผลิตออกมา จะสลายโครงสร้างทางโมเลกุลของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "so we can pass through the wormhole,",
+      "th": "เราก็จะผ่านช่องรูหนอนได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "so we can get to our time destination",
+      "th": "ไปถึงปลายทางของกาลเวลาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "with our molecular structure fully reconstructed.",
+      "th": "พร้อมกับโครงสร้างทางโมเลกุลของเรา ที่สร้างขึ้นมาใหม่อย่างสมบูรณ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hopefully! -It will!",
+      "th": "- หวังไว้นะ ! - ใช่แน่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Make it zoom in.",
+      "th": "เอาล่ะ ขยายภาพให้ใหญ่ขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is where we'll put in our time coordinates",
+      "th": "ตรงนี้คือส่วนที่เราใส่พิกัดเวลา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and where we'll monitor the stability of the wormhole.",
+      "th": "และส่วนที่เราจะเฝ้าสังเกต ความเสถียรของช่องรูหนอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our TRPs only harness enough power to go back one full day into the past,",
+      "th": "ทีอาร์พีของเราใช้พลังงานเพียงพอ ที่จะไปกลับอดีตกาลได้หนึ่งวันเต็มเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "so we'll go back to yesterday, 4:26 p.m., June 26th, 2019.",
+      "th": "ดังนั้นเราจะย้อนกลับไปเมื่อวานเวลา 16.26 วันที่ 26 มิถุนายน 2019"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right. Ready? -Yeah.",
+      "th": "- เอาล่ะ พร้อมหรือยัง - พร้อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cool. Cool, cool, cool, cool. -[TRPs power up]",
+      "th": "เจ๋งๆ ๆ ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, boy. All right.",
+      "th": "โอ้ ว้าว เอาล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ten... nine... eight...",
+      "th": "สิบ... เก้า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, and we don't measure time by our concept of time.",
+      "th": "- แปด... - อุ๊ย แล้วเราก็ไม่กะประมาณเวลา... - ด้วยเวลาตามแนวความคิดของเรา - เจ็ด..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-We measure it by the-- -CJ!",
+      "th": "- เรากะประมาณเวลาด้วย... - ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Sorry.",
+      "th": "เอาล่ะ โทษที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Five...",
+      "th": "ห้า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "four...",
+      "th": "สี่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "three...",
+      "th": "สาม..."
+    }
+  },
+  {
+    "translation": {
+      "en": "two...",
+      "th": "สอง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "energize! This isn't Star Trek.",
+      "th": "- เดินเครื่อง ! - นี่ไม่ใช่สตาร์เทรกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut the fuck up.",
+      "th": "หุบปากซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Whoa! I think it's working. -Oh!",
+      "th": "ฉันคิดว่ามันกำลังทำงานนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit!",
+      "th": "เวรเอ๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, that went well.",
+      "th": "เอ่อ ก็เป็นไปด้วยดีนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian, what the f--",
+      "th": "เซบาสเตียน อะไรวะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ No, no no ♪ ♪ You don't love me And I know now ♪",
+      "th": "(ย้อนเวลายื้อชีวิต)"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ No, no, no ♪",
+      "th": "(เดอะบรองซ์ โรงเรียนมัธยมปลาย ด้านวิทยาศาสตร์ก่อตั้งขึ้นในปี 1918)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, have a great summer",
+      "th": "เอาล่ะ ขอให้สนุกในฤดูร้อนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, uh, don't forget the science expo starts July 5th...",
+      "th": "และอย่าลืมนิทรรศการวิทยาศาสตร์ เริ่มวันที่ห้า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Go to the beach. Coney Island.",
+      "th": "ไปชายหาด เกาะโคนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Lockhart.",
+      "th": "อาจารย์ล็อกฮาร์ตคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Miss Walker, you wanted to talk about the science expo?",
+      "th": "คุณวอลเกอร์ คุณต้องการคุยเรื่อง นิทรรศการวิทยาศาสตร์หรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I wanted to talk to you about our end-of-the-year presentation.",
+      "th": "ที่จริงฉันต้องการคุยเรื่อง สิ่งที่นำเสนอตอนสิ้นปีค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about it?",
+      "th": "เกี่ยวกับอะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We wanted to use the presentation for the expo.",
+      "th": "เราต้องการใช้สิ่งที่นำเสนอ ในนิทรรศการค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "B+?",
+      "th": "บีบวกหรือเปล่าคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mr. Lockhart] B+ is not the end of the world.",
+      "th": "(โรโบทิกส์: ห้องทดลองการเริ่มปฏิบัติการ) บีบวกไม่ใช่จุดจบของโลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] B+ is not good for judges, though, either.",
+      "th": "และบีบวกก็ไม่ดีสำหรับผู้ตัดสินเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mr. Lockhart] I think you need to reach a little higher.",
+      "th": "ฉันว่าเธอจำเป็นต้องไปให้ถึง ระดับสูงอีกนิดนะ คลอเดตต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Reach a little higher?",
+      "th": "ไปให้ถึงระดับที่สูงขึ้นงั้นหรือคะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gave Eduardo an A+ for his stupid circuit boards.",
+      "th": "แต่อาจารย์ให้เอบวก กับเอ็ดวอโดที่ทำแผงวงจรไฟฟ้างี่เง่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our calculations indicated the behavior",
+      "th": "ขณะที่การคำนวณของเรา แสดงให้เห็นการกระทำ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "of an electronically neutral point mass that--",
+      "th": "ของมวลจุดสะเทิ้นในแบบอิเล็กตรอน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me ask you a question. Why are you participating in the expo?",
+      "th": "ให้ผมถามคุณสักคำถามนะ คุณจะเข้าร่วมนิทรรศการทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Full ride to MIT. Hello!",
+      "th": "ทุนการศึกษาเข้าเอ็ม.ไอ.ที.แบบครบถ้วน ฮัลโหล !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, and Bash wants to go to Morehouse, scholarships...",
+      "th": "อ้อ ส่วนแบชจะเข้ามอร์เฮาส์ ทุนการศึกษา..."
+    }
+  },
+  {
+    "translation": {
+      "en": "You and Mr. Thomas are the smartest kids in this school.",
+      "th": "คุณกับคุณโทมัสเป็นเด็กที่ฉลาดสุด ในโรงเรียนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't tell anybody I said that.",
+      "th": "- ขอบคุณค่ะ - อย่าบอกใครว่าผมพูดอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you're missing the big picture.",
+      "th": "แต่คุณขาดข้อเท็จจริงที่สำคัญตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "If time travel were possible,",
+      "th": "ถ้าการเดินทางข้ามเวลาเป็นไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "it would be the greatest ethical and philosophical conundrum",
+      "th": "มันคงจะเป็นปัญหาทางหลักปรัชญา และหลักจริยธรรมที่ยิ่งใหญ่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "of the modern age.",
+      "th": "ในยุคปัจจุบัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you had that kind of power...",
+      "th": "ถ้าคุณมีพลังงานประเภทนั้น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what would you do?",
+      "th": "คุณจะทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would you change?",
+      "th": "คุณจะเปลี่ยนอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] CJ, hey. Uh,",
+      "th": "ซีเจ เฮ้ เอ่อ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are you still tight about the presentation?",
+      "th": "เธอยังยุ่งอยู่กับสิ่งที่นำเสนอหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on. We'll kill 'em next year. -[Mr. Lockhart] Thank you, Mr. Thomas.",
+      "th": "เร็วเข้า เราจะกลับมาที่นี่อีก ขอบคุณ คุณโทมัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, if you guys wanna work on your college applications,",
+      "th": "ถ้าพวกคุณต้องการจะทำเรื่อง การสมัครเข้าวิทยาลัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm here for you. That's more important right now.",
+      "th": "ผมอยู่ที่นี่เพื่อคุณนะ เรื่องนั้นสำคัญมากตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cool. -Cool.",
+      "th": "- ครับ - ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, oh, and guys,",
+      "th": "เออ นี่ พวกคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "guys...",
+      "th": "พวกคุณ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever it is you took from the lab,",
+      "th": "อะไรก็ตามที่หยิบจากห้องทดลอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "just bring it back in one piece.",
+      "th": "เอากลับมาคืนที่เดิมด้วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Mr. Lockhart] Have a great summer. -You too.",
+      "th": "- ขอให้สนุกในฤดูร้อนนะ - อาจารย์ด้วยครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time travel.",
+      "th": "การเดินทางข้ามเวลา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Great Scott.",
+      "th": "ให้ตายสิ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Nice going, genius. We just made Mr. Lockhart an accomplice.",
+      "th": "เป็นไปด้วยดี อัจฉริยะ เราเพิ่งทำให้อาจารย์ล็อกฮาร์ตเป็นผู้มีส่วนร่วม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Messing with-- -Where y'all think y'all going?",
+      "th": "ฉันสับ... - พวกเธอคิดจะไปไหนกัน - บ้าเอ๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus!",
+      "th": "- พวกเธอคิดจะไปไหนกัน - บ้าเอ๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ooh, I see you two went shopping in the lab! Ooh.",
+      "th": "ฉันเห็นพวกเธอสองคนไปเลือกหยิบของ ที่ห้องทดลอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You decided whether you're coming down to Puerto Rico with me?",
+      "th": "นี่ นายตัดสินใจหรือยัง เพื่อน ว่าจะไปเปอร์โตริโกกับฉันเมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "My abuela's church is goin' for the hurricane relief effort.",
+      "th": "โบสถ์ของย่าของฉันจะไปที่นั่น เพื่อการลงแรงบรรเทาทุกข์พายุเฮอริเคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'd be dope if you came. It's in August.",
+      "th": "ฉันจะดีใจมาก ถ้านายไปได้ เพื่อน จะไปเดือนสิงหาคม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. All right. I'll ask my grandma if I can make it. All right?",
+      "th": "- เออ เอาล่ะ จะถามย่าของฉัน ว่าไปได้ไหม - ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, you can come down, too, if you want.",
+      "th": "รู้ไหม เธอก็ไปด้วยได้นะ ถ้าเธอต้องการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's just upset with me because I can't fit her in my schedule for a date.",
+      "th": "เธออารมณ์เสียกับฉันนิดหน่อย เพราะลงวันนัดเดตในตารางเวลาให้เธอไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, what can I say? I'm popular with the shorties!",
+      "th": "รู้ไหม ฉันจะพูดอะไร ฉันดังในหมู่สาวเตี้ยน่ารักโว้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] You're the last person I'd go on a date with. You can trust that.",
+      "th": "นายจะเป็นคนสุดท้าย ที่ฉันจะออกเดตด้วย เชื่อเรื่องนั้นได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whatever.",
+      "th": "อะไรก็ช่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa! Whoa, whoa, whoa!",
+      "th": "นี่ เดี๋ยวๆ ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, y'all gonna tell me what the equipment's for?",
+      "th": "พวกเธอจะบอกฉันไหม ว่าอุปกรณ์นั้นไว้ทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Oh, okay!",
+      "th": "ก็ได้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll just turn back around, get Mr. Lockhart.",
+      "th": "ฉันก็จะกลับมาแถวนี้ ไปหาอาจารย์ล็อกฮาร์ต"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, I swear to God, don't fuck with me.",
+      "th": "นี่ ฉันสาบานต่อพระเจ้า อย่ามากวนฉันนะ เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, I was just joking! Chill! Chill!",
+      "th": "นี่ ฉันแค่ล้อเล่น ใจเย็น ใจเย็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Get your stupid-ass friend.",
+      "th": "ไปหาเพื่อนโง่เง่าของนายซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? What'd I do?",
+      "th": "อะไรเนี่ย ฉันจะทำอะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Hey up there I'm on my way up ♪",
+      "th": "(อีส แฟลตบุช บรุกลิน)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, hit me up later if y'all do something, huh?",
+      "th": "นี่ ติดต่อฉันมานะ ถ้าพวกเธอทำบางอย่างนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Bastian, let me know about Puerto Rico.",
+      "th": "บาสเตียน บอกให้ฉันรู้เรื่องเปอร์โตริโกด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We need you down there. -You bet, man.",
+      "th": "- เราต้องการให้นายไปที่นั่น - ไ้ด้เลย เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "So tired of him.",
+      "th": "ฉันเบื่อเขามากเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, Eduardo's a good guy. I think he likes you.",
+      "th": "ฉันจะบอกว่าเอ็ดวอโดเป็นคนดี ฉันคิดว่าเขาชอบเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think? If he makes another pass at me, I'm finna throw up.",
+      "th": "นายคิดว่า ถ้าเขาแตะฉันอีก ฉันจะอ้วกไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I cannot wait to get to the crib. -Hey, Carlito.",
+      "th": "ฉันแทบอดใจรอไปถึงบ้านเล็กไม่ไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit is heavy.",
+      "th": "- เฮ้ คาร์ลิโต - อุปกรณ์นี้หนักอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Carlito, what is up? -You want me to carry it some?",
+      "th": "- คาร์ลิโตเป็นไงบ้าง - นายต้องการให้ฉันถือบ้างไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[siren wails] -Oh! Now that we're almost home, you wanna help?",
+      "th": "ตอนนี้เกือบจะถึงบ้านแล้ว เธอต้องการช่วยหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You would like to help? No, I'm good.",
+      "th": "เธออยากจะช่วยหรือ ไม่ ฉันไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, boy. -I'm fine.",
+      "th": "- ให้ตายเถอะ - ผมไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. I'll get the slushies.",
+      "th": "เอาล่ะ ฉันจะเอาน้ำปั่นสลัชชี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What flavor do you want? -Red.",
+      "th": "- นายจะเอารสอะไร - แดง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[CJ] That's a color. -It's still a flavor!",
+      "th": "- นั่นเป็นสี - มันก็เป็นรสด้วยนี่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't see a red label, so your ass is getting blue raspberry.",
+      "th": "ฉันไม่เห็นป้ายสีแดงเลย งั้นนายก็เอาราสเบอร์รี่สีน้ำเงินละกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Pshh. Red.",
+      "th": "นี่ ! สีแดง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jared] Didn't I tell you not to come in here?",
+      "th": "- ฉันไม่ได้บอกนายไม่ให้เข้ามาที่นี่หรือไง - เฮ้ย นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Jared] It's gonna cost you. -Hey, asshole!",
+      "th": "- มันจะทำให้นายต้องจ่าย - เฮ้ย ไอ้ทึ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's in the bag? -Nothing's in the bag.",
+      "th": "- อะไรอยู่ในกระเป๋า - ไม่มีอะไรในกระเป๋า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Jared] What's in the bag, yo? -Yo, dickhead, step off!",
+      "th": "- อะไรอยู่ในกระเป๋า - ไอ้ทึ่ม ออกไปนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course you'd be hanging with this herb.",
+      "th": "แน่ละ เธออยากจะใช้เวลากับไอ้เบื๊อกนี่ละสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck you, Jared! I do not know what I saw in you.",
+      "th": "ไอ้เวร เจเรด ! ฉันไม่รู้ว่าเห็นอะไรในตัวนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She ain't even on your level. -[Jared scoffs]",
+      "th": "เธอไม่อยู่ในระดับของคุณเลยด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Inappropriate.",
+      "th": "ไม่เหมาะสม"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? You used to be all about this dick.",
+      "th": "อะไรกัน เธอก็เคยสนใจไอ้จู๋นี้นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm too tired of you lying on me!",
+      "th": "ฉันเซ็งมากที่นายให้ร้ายฉัน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get off me! -You asshole!",
+      "th": "- อะไรวะ อย่าตีนะ - ไอ้ทึ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] CJ, stop!",
+      "th": "- ซีเจ ! - นายน่ารำคาญฉิบหายเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boy, you telling people I'm not a virgin, huh?",
+      "th": "- ซีเจ หยุด ! - ฉันยังบริสุทธิ์อยู่โว๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-CJ, stop! -You asshole!",
+      "th": "- ซีเจ หยุด !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Someone's gonna call the cops! -Get off me!",
+      "th": "- คาร์ลิโตจะเรียกตำรวจแล้ว - อย่าตีฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just 'cause you a girl, don't mean-- -Don't mean what, lil' nigga?",
+      "th": "- เพราะเธอเป็นผู้หญิง ไม่ได้หมายความว่า... - ไม่ได้หมายความว่าอะไร ไอ้นิโกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "What it don't mean? What you was about to say?",
+      "th": "มันไม่ได้หมายความว่าอะไร นายจะพูดอะไร นายแน่ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bro, why you not talking? What it don't mean?",
+      "th": "ไอ้น้อง ทำไมไม่พูด มันไม่ได้หมายความว่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, baby! Let's go. -Get the fuck outta here.",
+      "th": "นี่ ที่รัก - ไปกันเถอะ - เอาไอ้เวรออกจากที่นี่ซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a bitch ass!",
+      "th": "ไอ้พวกขี้ขลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'll smack the shit out you, nigga.",
+      "th": "เออ ฉันจะป่าขี้ใส่หน้านาย ไอ้นิโกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette.",
+      "th": "คลอเดตต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette!",
+      "th": "คลอเดตต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I come out of work, I see some dude 'bout to swing on you.",
+      "th": "ฉันออกมาจากที่ทำงาน เห็นเพื่อนบางคนจะต่อยเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then what? My black ass would've been arrested.",
+      "th": "แล้วอะไร คนผิวดำของฉันน่าจะโดนรวบตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't need you always playin' big brother.",
+      "th": "เอาล่ะ ฉันไม่ต้องการให้นาย ทำตัวเป็นพี่ชายตลอดเวลานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aight. I'm the only big brother you got.",
+      "th": "เอาเถอะ แต่ฉันก็เป็นพี่ชายคนเดียวที่เธอมี"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, too, Bash.",
+      "th": "นายก็เหมือนกัน แบช"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Should've thrown a slushy in his face. -Know what?",
+      "th": "- น่าจะปาน้ำปั่นใส่หน้าเขา - รู้อะไรไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done arguing with you, yo. You figure out what to tell Mom",
+      "th": "ฉันเลิกเถียงกับเธอละ เธอคิดดูว่าจะบอกอะไรแม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "when she see you out here acting like a hood rat.",
+      "th": "ตอนแม่เห็นเธออยู่ที่นี่ ทำท่าทางเหมือนอีตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Relax. I'm not no hood rat.",
+      "th": "เอาล่ะ พอเถอะ ฉันไม่ใช่อีตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what you look like to me.",
+      "th": "นั่นคือสิ่งที่เธอดูเหมือนสำหรับฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Every time somebody says something to you, you're just ready to go off.",
+      "th": "ทุกครั้งที่มีบางคนพูดบางอย่างกับเธอ - เธอก็พร้อมที่จะผลุนผลันไป - ไม่ ฉันเปล่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I'm not.",
+      "th": "- เธอก็พร้อมที่จะผลุนผลันไป - ไม่ ฉันเปล่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Well, you do-- -All right, shut up, Sebastian.",
+      "th": "- เอ่อ เธอทำนะ... - เอาล่ะ หุบปาก เซบาสเตียน นายเป็นอีตัวห่วยแตก แคลวิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, you're the fucking hood rat, Calvin.",
+      "th": "หุบปาก เซบาสเตียน นายเป็นอีตัวห่วยแตก แคลวิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're the one Mama has to worry about, not me.",
+      "th": "นายเป็นคนที่แม่ต้องห่วง ไม่ใช่ฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[scoffs] You know what? -Guys.",
+      "th": "- รู้อะไรไหม - พวกคุณ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "You got a control problem, CJ. You need to deal with that shit.",
+      "th": "เธอมีปัญหากับการควบคุม - เธอต้องจัดการเรื่องนั้น - ฉันมีปัญหาการควบคุมหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need to deal with your control problem.",
+      "th": "ต้องจัดการกับปัญหาการควบคุมของเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Always trying to control me. -We're not the same age.",
+      "th": "- นายมักจะพยายามควบคุมฉัน - เราไม่ได้มีอายุเท่ากัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my God! You are three years older than me.",
+      "th": "- ให้ตายเถอะ นายแก่กว่าสามปี - เรื่องนี้บ้าบอสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[cop shouts] Hello! Hey!",
+      "th": "- เอาล่ะ พอเถอะ - ฮัลโหล เฮ้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're good? You're a little loud here. -Yeah. Everything's fine, officer.",
+      "th": "- มีอะไรกัน พวกคุณเสียงดังหน่อยนะ - ไม่มี ทุกอย่างราบรื่นครับ เจ้าหน้าที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo! Fair warning, I'm recording! I'll send this shit viral!",
+      "th": "นี่ เตือนก่อนนะ ผมกำลังบันทึกภาพ ! ผมจะส่งเรื่องนี้ต่อๆ กันในเน็ต"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] All right. Uh, nothing's wrong, officers.",
+      "th": "เอาล่ะ ไม่ได้เกิดอะไรขึ้นค่ะ เจ้าหน้าที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I was just talking to my brother. -I'm not asking you.",
+      "th": "- ฉันกำลังคุยกับพี่ - เออ ผมไม่ได้ถามคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm asking him.",
+      "th": "ผมกำลังถามเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you deaf? We good. Like my kid sister just said--",
+      "th": "หูหนวกหรือไง - เราไม่มีปัญหา เหมือนที่น้องผมบอก... - ดูบัตรประชาชนสิ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's see some IDs!",
+      "th": "- เราไม่มีปัญหา เหมือนที่น้องผมบอก... - ดูบัตรประชาชนสิ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You can't just come over here... -Now!",
+      "th": "- คุณแค่มาตรงนี... - เดี๋ยวนี้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-...asking for fucking IDs. -Starting with you!",
+      "th": "- แล้วขอบัตรประชาชนไม่ได้ - เริ่มกับนาย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you ask Francis Pierre for his ID before you shot him?",
+      "th": "คุณขอบัตรประชาชนของฟรานซิส ปิแอรร์ ก่อนที่จะยิงเขาไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right. Still rolling.",
+      "th": "ถูกต้อง ยังถ่ายอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Babylon! Move away from them, Babylon! Ya bun a fyah!",
+      "th": "ไอ้ตำรวจ ไปให้พ้นจากพวกเขา ไอ้ตำรวจ ! แกทำไฟไหม้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all picked the wrong day! Get away from them, Babylon!",
+      "th": "พวกแกเลือกวันผิด ไปให้พ้นจากพวกเขา ไอ้ตำรวจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We gotta go. We got something on East 38.",
+      "th": "เราต้องไปละ เรามีอย่างอื่นด้านอีส 38"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I deal with no police brutality.",
+      "th": "เพื่อน ฉันรับมือได้ โดยไม่โดนตำรวจทารุณ แค่ชกหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, punching in the face, and kicking them on the ground and ting.",
+      "th": "เพื่อน ฉันรับมือได้ โดยไม่โดนตำรวจทารุณ แค่ชกหน้า แล้วก็เตะพวกมันกองกับพื้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ya bun a fyah! -All right. Get out of here.",
+      "th": "- แกทำให้ไฟไหม้ ! - เอาล่ะ เอาล่ะ ออกไปจากที่นี่ซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Ya's a fool, you know! -[siren wailing in the distance]",
+      "th": "พวกแกโง่ รู้ไหม !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "th": "เป็นอะไรหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm fine.",
+      "th": "ไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You have a cut right there. -I said I'm fine!",
+      "th": "- เธอมีบาดแผลตรงนั้น - ฉันบอกว่าฉันไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] I am so sorry.",
+      "th": "ฉันขอโทษจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stupid-ass Jared, lying on me?",
+      "th": "ไอ้เจเรดงี่เง่าให้ร้ายฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Saying that he was my first?",
+      "th": "ที่พูดว่าเขาเป็นคนแรกของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I would never. Not with him.",
+      "th": "เปล่า ฉันไม่เคยอยู่กับเขาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, he got the jump on me. [exhales]",
+      "th": "รู้ไหม เขาโชคดีที่ไปเสียก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause had I seen him, I would've been... [grunts]",
+      "th": "เพราะถ้าฉันเห็นเขา ฉันคงจะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mm! Ooh, no doubt!",
+      "th": "คงจริง !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I had to keep clean or whatever. -For real.",
+      "th": "- ฉันต้องรักษาความสะอาดหรืออะไรก็ตาม - จริงอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, but seriously, thanks for what you did back there at the store. You have my back.",
+      "th": "ไม่ แต่พูดจริงๆ นะ ขอบใจสิ่งที่เธอทำตอนนั้น ที่ร้านน่ะ เธอปกป้องฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Always.",
+      "th": "ตลอดแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, unpack this shit. We got a lot to do before the expo.",
+      "th": "ตอนนี้แกะของพวกนี้ซะ เราต้องทำเยอะก่อนนิทรรศการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right. Mm. Okay.",
+      "th": "เธอพูดถูก เธอพูดถูก โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gonna be a long-ass week.",
+      "th": "มันจะเป็นสัปดาห์ที่แย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, boy. Hey, CJ. What's the business?",
+      "th": "เฮ้ ไอ้หนู เฮ้ ซีเจ เรื่องอะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, Grandpa. -Hey, Mr. Thomas.",
+      "th": "- เฮ้ ปู่ - เฮ้ คุณโทมัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Glad you got home. Need help with the lawn today.",
+      "th": "ดีใจที่แกถึงบ้านละ ต้องการความช่วยเหลือในสนามหญ้าวันนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. We just got back here, um.",
+      "th": "ครับ เราเพิ่งกลับมาถึงที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have a lot of work to do. Expo's next week.",
+      "th": "เรามีงานต้องทำเยอะเลย มีนิทรรศการสัปดาห์หน้าครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So we're on a really tight deadline. -[Grandpa] Hello, hello.",
+      "th": "- เรามีเส้นตายที่กระชันจริงๆ - นี่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You guys just can't be hanging around the garage like this all the time.",
+      "th": "พวกเธอใช้เวลาอยู่แถวโรงรถ แบบนี้ตลอดเวลาไม่ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not healthy for your brain, you know.",
+      "th": "มันไม่ดีสุขภาพสมองของพวกเธอ รู้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Yeah, we know. We've been working on this for a year.",
+      "th": "ครับ เรารู้ เราทำงานนี้มาประมาณเกือบปีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We'll just give it a bit more time-- -[Grandpa] Listen...",
+      "th": "- เราแค่ให้เวลากับมันเพิ่มนิดหน่อย... - ฟังนะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll get us into college. There'll be scholarships!",
+      "th": "ฟังนะ มันจะทำให้เราเข้าวิทยาลัย จะมีทุนการศึกษา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Scholarships? Really? -[Sebastian] Yes.",
+      "th": "- ทุนการศึกษาหรือ จริงหรือ - ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, I like that. I do!",
+      "th": "ตอนนี้ฉันชอบเรื่องนั้น จริงๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or is it that you two just like being together alone too much, eh?",
+      "th": "หรือพวกเธอชอบอยู่ด้วยกันลำพังมากๆ หรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, Sebastian.",
+      "th": "ฟังนะ เซบาสเตียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Expo's next week, right? -Yeah.",
+      "th": "นิทรรศการมีสัปดาห์หน้าใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, you have enough time to finish whatever it is that you're doing.",
+      "th": "- ครับ - เออ แกมีเวลาพอควรที่จะทำ... อะไรก็ตามที่แกทำอยู่ให้เสร็จ หลังจากนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "After that, you're going to get yourself a proper summer job, right?",
+      "th": "อะไรก็ตามที่แกทำอยู่ให้เสร็จ หลังจากนั้น แกก็จะหางานในฤดูร้อนที่เหมาะสม ให้ตัวเองใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't have you in this garage all summer, boy.",
+      "th": "แกจะอยู่ในโรงรถตลอดฤดูร้อนไม่ได้นะ ไอ้หนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make sense? One week, story done.",
+      "th": "เข้าใจไหม หนึ่งสัปดาห์ จบเรื่องนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is that? What is that you do, boy? You suck your teeth?",
+      "th": "อะไรน่ะ นั่นแกทำอะไรน่ะ ไอ้หนู แกดูดฟันใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nothing. -Eh?",
+      "th": "เปล่าครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unless you want to get a hole in your teeth, eh?",
+      "th": "ไม่งั้นแกก็ต้องการทำให้ฟันมีรู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, when we get this up and running, we gon' be out of here.",
+      "th": "ฟังนะ ตอนเราทำเครื่องนี้ใช้  การได้แล้ว เราจะออกจากที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "MIT, Stanford, Morehouse, Spelman,",
+      "th": "เอ็ม.ไอ.ที สแตนฟอร์ด มอร์เฮ้าส์ สเปลแมน"
+    }
+  },
+  {
+    "translation": {
+      "en": "all begging for us to come to their schools.",
+      "th": "ทุกสถาบันจะขอเราไปโรงเรียนของพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Right? Okay. -Right.",
+      "th": "- ถูกไหม โอเค - ถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just gotta put in this work.",
+      "th": "แค่ต้องทุ่มเทในงานชิ้นนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what it is. It's the tubing.",
+      "th": "นั่นคือปัญหา มันคือท่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I mean, it looks like the force of the protons were just too much.",
+      "th": "อือ คือดูเหมือนแรงดันของโปรตอน มากเกินไปนั่นเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Told you those extra supplies would come in handy.",
+      "th": "ใช่ จะบอกให้นะ อุปกรณ์เสริมพวกนั้น จะกลายเป็นประโยชน์"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "th": "เอาล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can I help you?",
+      "th": "จะให้ฉันช่วยอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "We heard y'all got the juice.",
+      "th": "เราได้ยินว่าพวกคุณมีน้ำผลไม้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What kind of juice?",
+      "th": "น้ำผลไม้แบบไหนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Orange juice? -With or without the pulp?",
+      "th": "- น้ำส้มมีไหม - มีหรือไม่มีเนื้อล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-With the pulp. -Who sent you?",
+      "th": "- มีเนื้องั้นหรือ - ใครส่งคุณมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your boy Eduardo sent me. -And Kimberly sent me.",
+      "th": "- คนของคุณ เอ็ดวอโดส่งผมมา - คิมเบอร์ลี่ส่งฉันมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Aight. Bet.",
+      "th": "เอาล่ะ ได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy and girl together] Damn!",
+      "th": "- ว้าว ! - เรามีแผ่นป้องกันหน้าจอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We got your screen protectors, your lemon drops, your jolly chargers,",
+      "th": "- ว้าว ! - เรามีแผ่นป้องกันหน้าจอ หยดน้ำมะนาว เครื่องชาร์จสดใส"
+    }
+  },
+  {
+    "translation": {
+      "en": "your sweet tooth headsets, your hover-selfies--",
+      "th": "ชุดหูฟังหวานหู เซลฟี่บินร่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just came to get a new battery for my phone, ma!",
+      "th": "ผมแค่มาเอาแบตเตอรี่อันใหม่ สำหรับโทรศัพท์ของผม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, and I'm just here to pick up my auntie's laptop.",
+      "th": "เออ ส่วนฉันก็มาที่นี่ เพื่อรับแล็ปท็อปของป้าเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Then why didn't y'all just say that? -Y'all gotta speak up.",
+      "th": "- แล้วทำไมไม่พูดแบบนั้นล่ะ - พวกคุณต้องพูดออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] All right. Tell her we completely refurbished it.",
+      "th": "เอาล่ะ บอกเธอว่าเราขัดเงาให้มันดูใหม่เรียบร้อยแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The RAM's been boosted to a 16 gigabyte DDR3,",
+      "th": "เพิ่มแร็มเป็น 16 กิกาไบต์ ดีดีอาร์สาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we took out the optical drive, and we replaced it with these new SSDs...",
+      "th": "เราเอาช่องใส่แผ่นซีดีออก แล้วเอาช่องเอสเอสดีตัวใหม่ใส่ให้แทน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, tell her it works like a 2015.",
+      "th": "บอกเธอว่ามันทำงานเหมือนเครื่องปี 2015"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[CJ] Three times as fast. -Word.",
+      "th": "- เร็วเป็นสามเท่า - ได้สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We rocks with Kim.",
+      "th": "เราชอบคิม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Family discount.",
+      "th": "ส่วนลดของครอบครัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "For real?",
+      "th": "จริงหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey!",
+      "th": "เย้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] I'm family, too, right?",
+      "th": "ผมเป็นครอบครัวด้วยใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[reporter] On the heels of three nights of protests mostly peaceful,",
+      "th": "ติดตามอย่างใกล้ชิดหลังจากสามคืน ในการประท้วงอย่างสันติเป็นส่วนใหญ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "the community is still outraged over the slaying of 17-year-old Francis Pierre.",
+      "th": "ชุมชนยังคงเดือดดาลต่อการสังหารโหด ฟรานซิส ปีแอรร์วัย 17 ปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Residents continue to gather here on Church Avenue",
+      "th": "ผู้พักอาศัยร่วมตัวกันต่อที่นี่ บนถนนเชิร์ชเอเวนิว เรียกร้องการเปลี่ยนแปลงและความเป็นธรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "demanding change and justice for Francis Pierre and his family.",
+      "th": "ผู้พักอาศัยร่วมตัวกันต่อที่นี่ บนถนนเชิร์ชเอเวนิว เรียกร้องการเปลี่ยนแปลงและความเป็นธรรม ให้กับฟรานซิส ปีแอรร์และครอบครัวของเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[people chant] Whose street? Our street!",
+      "th": "- ถนนของใคร - ถนนของเรา !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whose street? Our street!",
+      "th": "- ถนนของใคร - ถนนของเรา !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Protesters say that those regularly targeted",
+      "th": "ผู้ประท้วงกล่าวว่าพวกที่เป็นเป้าหมาย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "by police harassment and violence",
+      "th": "การคุกคามทางเพศและการทารุนของตำรวจ เป็นประจำคือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "are overwhelmingly the city's poor and minority communities.",
+      "th": "การคุกคามทางเพศและการทารุนของตำรวจ เป็นประจำคือ ชุมชนกลุ่มน้อยและชุมชนยากจนที่ล้นเมือง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They pledge... -Hmm. It's a shame how they shot that boy.",
+      "th": "น่าเสียดายที่พวกเขายิงเด็กคนนั้นอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit is sad. They really don't care about us.",
+      "th": "เรื่องนี้น่าเศร้า พวกเขาไม่ใส่ใจเราเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Watch your mouth.",
+      "th": "ระวังปากหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew him, too.",
+      "th": "แม่รู้จักเขาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good kid.",
+      "th": "เด็กดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette Josephine, cutting it kinda close, ain't you?",
+      "th": "คลอเดตต์ โจเซฟีน เผื่อเวลาน้อยไปใช่ไหมลูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You missed dinner,",
+      "th": "ลูกมาไม่ทันมื้อเย็นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the pile of dishes are waiting on you. It's still your night.",
+      "th": "แต่จานเป็นกองยังรอลูกอยู่นะ มันยังเป็นเวรของลูกจ้ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no. Not you, Mom. No, not you. I just gotta...",
+      "th": "อุ๊ย ไม่ ไม่ใช่แม่  ไม่ ไม่ใช่แม่ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta put my stuff down.",
+      "th": "หนูจะ หนูจะวางของค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, Kimberly. -Hey, CJ.",
+      "th": "- เฮ้ คิมเบอร์ลี่ - เฮ้ ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks for the upgrade on my laptop, sweetie.",
+      "th": "ขอบใจที่อัปเกรดแล็ปท็อปของฉันนะ น้องรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No problem.",
+      "th": "ไม่มีปัญหา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me help my little sis with this.",
+      "th": "ให้ฉันช่วยน้องสาวทำเรื่องนี้เถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Damn. I know you mad about earlier, aight?",
+      "th": "เอาล่ะ ให้ตายสิ ฉันรู้ว่าเธอโกรธเรื่องก่อนหน้านี้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "But... I was just looking out for you.",
+      "th": "แต่ฉันแค่ออกไปมองหาเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aight? I'm not trying to, like, say you can't handle yourself",
+      "th": "เข้าใจไหม ฉันไม่ได้พยายามจะพูดว่า เธอจัดการตัวเองไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "or come off all misogyny and shit either.",
+      "th": "หรือเกิดอาการเกลียดผู้หญิงทุกคน แล้วก็อะไรทำนองนั้นด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Misogyny\" is a noun defined as the hatred of,",
+      "th": "\"อาการเกลียดผู้หญิง\" คือคำนาม นิยามเหมือนการเกลียด"
+    }
+  },
+  {
+    "translation": {
+      "en": "or contempt for, or prejudice against women,",
+      "th": "หรือการรังเกียจ หรือการมีอคติต่อผู้หญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "while \"misogynistic\" is the correct adjective",
+      "th": "ขณะที่ \"เกลียดผู้หญิง\" เป็นคุณศัพท์ที่ถูกต้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "you're looking for to describe you",
+      "th": "นายมองหาฉันเพื่ออธิบายว่า นาย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "as someone who professes misogyny.",
+      "th": "เป็นคนที่ยอมรับอาการเกลียดผู้หญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Misogynistic.",
+      "th": "ว่าเกลียดผู้หญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm mad you really explained that though.",
+      "th": "ฉันโกรธเธอจริงๆ ที่อธิบายเรื่องนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like you just went mad hog for no reason.",
+      "th": "อย่างเธอก็แค่ทำอะไรเกินเหตุแบบไร้เหตุผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a little tired of people telling me how I should act.",
+      "th": "ฉันเบื่อนิดหน่อย ที่ผู้คนบอกฉันว่าควรทำตัวยังไงน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, maybe if you listened more, you would act right.",
+      "th": "ซีเจ บางทีถ้าเธอฟังมากขึ้น เธอก็จะทำตัวถูกต้องนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Calm down, aight? What I'm... All I'm trying to say is,",
+      "th": "ใจเย็นนะ เอ่อ สิ่งที่ฉันพยายามจะบอกคือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "you gotta learn to control that temper of yours, CJ.",
+      "th": "เธอจะต้องเรียนรู้ที่จะควบคุมอารมณ์นั้น ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I wonder where I get it from.",
+      "th": "เอ ฉันสงสัยว่าฉันเอามันมาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo... -[giggles]",
+      "th": "เออ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, I'm just trying to look out for you",
+      "th": "นี่ ฉันพยายามจะมองหาเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and make sure you ain't messing nothing up for yourself.",
+      "th": "ให้มั่นใจว่า เธอจะไม่ทำอะไรให้ตัวเองเสียหาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aight?",
+      "th": "เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn, what was dude saying anyway?",
+      "th": "แล้วเพื่อนพูดอะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was just talking shit.",
+      "th": "เขาก็พูดไร้สาระ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, man, I told you, these dudes around here...",
+      "th": "ฟังนะ น้อง ฉันจะบอกให้ พวกเพื่อนละแวกนี้..."
+    }
+  },
+  {
+    "translation": {
+      "en": "they can't do nothing for you. Aight?",
+      "th": "ทำอะไรให้เธอไม่ได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You going places, CJ, and since Pops is gone,",
+      "th": "เข้าใจไหม เธอน่าจะประสบความสำเร็จ ซีเจ และตั้งแต่พ่อตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta make sure that you get there.",
+      "th": "ฉันจะต้องทำให้มั่นใจว่าเธอจะบรรลุความสำเร็จ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You could go somewhere, too.",
+      "th": "นายก็ประสบความสำเร็จได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We could go together.",
+      "th": "เราไปด้วยกันได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get back focus. Take your SATs, start applying to colleges.",
+      "th": "กลับไปตั้งใจทำ สอบเอสเอที แล้วก็เริ่มสมัครเข้าวิทยาลัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, we could do big things!",
+      "th": "รู้ไหม เราจะประสบความสำเร็จที่ยิ่งใหญ่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two Walkers, about to... [whispers] ...explode!",
+      "th": "วอลเกอร์สองคนจะปะทุ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aight. It do sound better than washing dishes",
+      "th": "เอาล่ะ มันฟังดูดีกว่าการล้างจาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "at the Texas BBQ, all right. I ain't gonna hold you.",
+      "th": "ที่เท็กซัสบาร์บีคิวจริงๆ ฉันจะไม่รั้งเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -Word.",
+      "th": "- อือ - หรือ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn, I hate it when you smart, man.",
+      "th": "ฉันเกลียดตอนที่เธอฉลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's scary, but you inspire me.",
+      "th": "มันน่ากลัว แต่เธอก็บันดาลใจฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, are you gonna let me hold dad's dog tags, or...",
+      "th": "แล้วเธอจะให้ฉันห้อยป้ายสุนัขของพ่อไหม หรือ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dog tags? I ain't even remember I had these on. You're talking about these?",
+      "th": "ป้ายสุนัข ฉันจำไม่ได้ด้วยซ้ำว่า ฉันห้อยพวกนี้ เธอพูดถึงพวกนี้หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughs] Yes. -Oh, no. Yeah.",
+      "th": "- ใช่ - อุ๊ย ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You only get these over my dead body.",
+      "th": "เธอจะได้พวกนี้จากศพของฉันเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, come on! -What happened to the medal he gave you?",
+      "th": "- ไม่เอาน่า ! - ไม่ เธอจะ... เกิดอะไรขึ้นกับเหรียญรางวัลที่พ่อให้เธอล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's upstairs, but I can't wear that every day. It might fall off.",
+      "th": "อยู่ข้างบน แต่ฉันใส่อันนั้นทุกวันไม่ได้ มันอาจร่วง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just miss him, yo.",
+      "th": "ฉันแค่คิดถึงพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. I miss him, too, you know.",
+      "th": "เออ ฉันก็คิดถึงพ่อเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mom] Thinking about Dad?",
+      "th": "คิดถึงพ่อหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay? Hmm?",
+      "th": "เป็นยังไงบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I haven't checked in in a while.",
+      "th": "แม่ได้เข้ามาดูสักพักละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm, uh, fine. I'm okay.",
+      "th": "หนูสบายดี หนูไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, babe.",
+      "th": "แม่รู้ ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here.",
+      "th": "มานี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're just like him, you know that?",
+      "th": "หนูก็เหมือนพ่อ รู้เรื่องนั้นไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You and you brother, but...",
+      "th": "ทั้งหนูกับพี่ชายของหนู แต่ลูกเอ๋ย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Boy, I never met anybody as stubborn as your daddy till I met you.",
+      "th": "ทั้งหนูกับพี่ชายของหนู แต่ลูกเอ๋ย... แม่ไม่เคยพบใครที่ดื้อเหมือนพ่อ จนกระทั่งพบหนูนี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get some rest. Love you. -Love you, too.",
+      "th": "- ไปนอนเถอะ รักหนูนะ - รักแม่เหมือนกันค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, are you going to sleep?",
+      "th": "แม่จะนอนหรือยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm probably gonna stay up for a little while. Catch up on my show.",
+      "th": "อาจจะยัง ยังไม่นอนอีกสักพัก จะติดตามรายการของแม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Waiting up on Calvin?",
+      "th": "รอแคลวินหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who told you to be so smart, huh?",
+      "th": "ใครบอกให้ลูกฉลาดมากอย่างนี้เนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. This is temporal relocation test number 104.",
+      "th": "เอาล่ะ นี่คือการทดลอง การเดินทางข้ามเวลาหมายเลย 104"
+    }
+  },
+  {
+    "translation": {
+      "en": "The date is June 29th, 2019,",
+      "th": "วันที่คือ 29 มิถุนายน 2019"
+    }
+  },
+  {
+    "translation": {
+      "en": "and this is our fourth test on our Temporal Relocation Pack Mark Ones.",
+      "th": "และนี่คือการทดลองครั้งที่สี่ กับเครื่องเดินทางข้ามเวลา แพ็กมาร์กวันส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "If this works, we will time-travel back one day into the past.",
+      "th": "ถ้ามันใช้การได้ เราจะท่องเวลากลับไปในอดีตหนึ่งวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "During our jump back, we have agreed not to make any major changes",
+      "th": "ระหว่างที่เรากระโดดกลับไป เราได้ตกลงว่าจะไม่เปลี่ยนแปลงเรื่องสำคัญใดๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "as to not break the time-space continuum,",
+      "th": "ที่เกี่ยวกับการทำลาย ภาวะต่อเนื่องของกาล-อวกาศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "possibly altering the future in ways we could never imagine.",
+      "th": "ที่อาจเปลี่ยนอนาคตในรูปแบบ ที่พวกเราไม่มีวันนึกฝันได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[breathes deeply] Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ten...",
+      "th": "สิบ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "nine... eight... seven...",
+      "th": "เก้า แปด เจ็ด..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-six... -[rumbling]",
+      "th": "หก..."
+    }
+  },
+  {
+    "translation": {
+      "en": "five... four...",
+      "th": "ห้า สี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "three... two...",
+      "th": "สาม สอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the f--",
+      "th": "อะไรวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sebastian, did you change the voltage? -No!",
+      "th": "เซบาสเตียน นายใช้โปรตอน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Wait.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Check the time coordinates. Oh, God.",
+      "th": "เอาล่ะ ตรวจสอบพิกัดเวลาสิ โอ้ พระเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "มาเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at this beautiful street that I saw yesterday.",
+      "th": "ดูถนนที่สวยงาม - ที่เราเห็นเมื่อวานสิ - ฉันรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look, that wasn't there. Oh, Kim! Kim! -Kim!",
+      "th": "- เดี๋ยวนะ อันนั้นไม่อยู่ตรงนั้นเมื่อ..อุ๊ย คิม - คิม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you know what today's date is? -What?",
+      "th": "- คุณรู้ไหมว่าวันนี้เป็นวันที่เท่าไหร่ - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know the date of today?",
+      "th": "คุณรู้วันที่ของวันนี้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, I'm sending my niece Zora to get my laptop later today.",
+      "th": "ฟังนะ วันนี้ฉันจะส่งหลานสาวชื่อโซรา ไปเอาแล็ปท็อปของฉันทีหลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You both look crazy.",
+      "th": "พวกคุณดูแปลกๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aren't you too old to be playing with toys?",
+      "th": "พวกคุณไม่แก่เกินกว่าจะเล่นของเล่นหรือไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's today's date? June 28th.",
+      "th": "- วันนี้เป็นวันที่เท่าไหร่คะ - วันที่ 28 มิถุนายน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, my God! -Whoo!",
+      "th": "โอ้ พระเจ้า !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Somebody else, somebody else. Um, somebody else has to know the date.",
+      "th": "เอาล่ะ คนอื่นอีก คนอื่นอีก คนอื่นก็ต้องรู้วันที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, yeah, yeah. Excuse me. Miss, do you know what today's date is?",
+      "th": "เอ่อ คือ นี่ โทษนะคะ คุณ รู้ไหมวันนี้เป็นวันที่เท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, payday!",
+      "th": "ค่ะ วันรับค่าจ้าง !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wrong! It's June 28th! [laughs]",
+      "th": "ผิด มันเป็นวันที่ 28 มิถุนายน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right. Oh, oh! Excuse me, sir.",
+      "th": "ถูกตต้อง อุ๊ย โทษนะคะ คุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you know what the date is? -Fuck out of my face!",
+      "th": "- คุณรู้ไหมวันนี้เป็นวันที่เท่าไหร่ - ออกไปให้พ้นหน้าฉันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Wow. All right. -You're right.",
+      "th": "- ว้าว - คุณพูดถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You have a good day, sir. -We'll move on.",
+      "th": "- ขอให้เป็นวันที่ดีสำหรับคุณ โชคดีครับ - เราต้องไปต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sorry. Sorry. -Are you sure this idea is necessary?",
+      "th": "- ขอโทษนะ - อะไร - ระวังนะ ! - เธอแน่ใจนะว่าความคิดนี้จำเป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I mean, we agreed that-- -We agreed no major changes.",
+      "th": "- ฉันจะบอกว่าเราตกลงกันว่า... - เราตกลงกันว่าไม่มีการเปลี่ยนเรื่องสำคัญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is minor. I mean, itsy-bitsy. -I guess.",
+      "th": "- นี่เป็นเรื่องเล็ก คือขี้ปะติ๋วน่ะ - คงจะอย่างนั้นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ay, Jared!",
+      "th": "เฮ้ เจเรด !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Yo, CJ, I can't wait to get back to the crib. This shit--",
+      "th": "บ้า ไม่นะ ! นี่ ซีเจ ฉันแทบอดใจรอกลับไปบ้านเล็กไม่ไหว อุปกรณ์นี้..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're soaking wet. -What the hell happened to y'all?",
+      "th": "- เธอทำให้ฉันเปียก อะไรเนี่ย - เกิดบ้าอะไรขึ้นกับพวกเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What-- What are you doing?",
+      "th": "- ระวังนะ ! - นายกำลังทำอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is why I didn't wanna do this. We cannot be seen by our past selves.",
+      "th": "เป๊ะเลย เหตุผลที่ฉันไม่ต้องการทำแบบนี้ ในการทดสอบของเรา คือจะให้ตัวเราเองในอดีต เห็นพวกเราไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, what is good with you?",
+      "th": "นี่ เกิดอะไรขึ้นกับเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why you're always acting like a wiling bitch?",
+      "th": "ทำคุณมักจะทำตัวเหมือนอีนังงี่เง่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you call me? Asshole! -What the--",
+      "th": "นายเรียกฉันว่าอะไรน่ะ ไอ้ทึ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you call me? -CJ, stop!",
+      "th": "- เกิดอะไรขึ้นกับนาย - ซีเจ หยุด ! ซีเจ หยุดนะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] CJ! CJ, stop!",
+      "th": "ซีเจ ! ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] CJ, stop! [CJ] You asshole!",
+      "th": "- ซีเจ หยุด ! ซีเจ ! - ไอ้ทึ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jared] Get off of me.",
+      "th": "นี่ ใจเย็น !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Fuck you, Jared. CJ, stop!",
+      "th": "- มันเป็นเรื่องของนายหรือ - หยุดนะ เพื่อน หยุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just 'cause you're a girl, don't mean-- -What?",
+      "th": "- เพราะเธอเป็นผู้หญิง ไม่ได้หมายความว่า... - หมายความว่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That's my brother! What now, punk? -CJ, are you crazy?",
+      "th": "- เย่ นั่นไงพี่ชายของฉัน ! เอาไงที่นี้ ไอ้เลว - ซีเจ จะบ้าหรือไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We cannot be seen by ourselves in this timeline.",
+      "th": "เราจะถูกใครในลำดับเหตุการณ์นี้พบเห็นไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time-space continuum, CJ. Time-space continuum.",
+      "th": "สภาวะต่อเนื่องของกาล-อวกาศ ซีเจ มันเป็นสภาวะต่อเนื่องของกาล-อวกาศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "What you about to say?",
+      "th": "นายจะพูดอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got an idea. Come on.",
+      "th": "ฉันคิดออกละ มานี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What it don't mean? What you was about to say?",
+      "th": "มันไม่ได้หมายความว่าอะไร นายจะพูดอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[siren wailing] -Got you, mans.",
+      "th": "ไอ้ห่าเอ๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You swear you tough. -Yeah, got your stepfather, nigga.",
+      "th": "- เออ กลับไปหาพ่อเลี้ยงของนาย ไอ้นิโกร - สาบาน นายเจอดีแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Got your stepfather. -Bitch-ass.",
+      "th": "- ไปหาพ่อเลี้ยงนายซะ - ไอ้ขี้ขลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your mother. -Nah, your mother!",
+      "th": "แม่มึงสิ ไม่ แม่มึงนั่นแหละ - แม่มึง ! - แม่มึงสิ ไอ้ลูกแหง่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your mother! You soft! You know where I'm at.",
+      "th": "- แม่มึง ! - แม่มึงสิ ไอ้ลูกแหง่ - นายรู้ไหมว่าฉันอยู่ที่ไหน - ไอ้ทึ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Jared] What the... Crazy bitch! -[Sebastian] CJ!",
+      "th": "- อะไรวะ อีนังบ้า ! - ห่าเอ๊ย อย่า พอแล้ว ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jared] Come here!",
+      "th": "มานี่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'm on you now! [Sebastian] CJ!",
+      "th": "- นี่ ฉันตามเธอทันแล้วตอนนี้ - ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo. Whoa!",
+      "th": "- ซีเจ ! - อย่าเซ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Jared, yo, get off of me. -Watch out! Car! The car!",
+      "th": "- นาย ปล่อยฉันนะ ! - ระวัง ! รถ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[car door opens] -Is he...",
+      "th": "- เขาเป็น... - ไถลื่นไปกับพื้นเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] You all right? -[Jared groans] Ah, shit.",
+      "th": "- เกิดอะไรขึ้น - เป็นอะไรหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[girl] What happened? -Oh, fuck. Thank God.",
+      "th": "- เวร - ตายห่าละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh. CJ, what... Wait! -[alarm beeps]",
+      "th": "ซีเจ อะไร เดี๋ยว !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] The wormhole's about to close.",
+      "th": "- ช่องรูหนอนจะปิดละ - แต่มีเวลาแค่ 10 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] But it's only been 10 minutes. We can't jump here.",
+      "th": "- ช่องรูหนอนจะปิดละ - แต่มีเวลาแค่ 10 นาที เรากระโดดตรงนี้ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go! Go! There's too many people.",
+      "th": "ไปเถอะ ไปเถอะ ไป ! มีผู้คนมากเกินไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck is wrong with you? Put your fucking phone away!",
+      "th": "เกิดบ้าอะไรขึ้นกับพวกคุณ เอาโทรศัพท์ออกไปให้พ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian!",
+      "th": "เซบาสเตียน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're lucky your grandfather ain't home!",
+      "th": "แกโชดีนะที่ปู่ไม่อยู่บ้าน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, Grandma. We were, um... We were doing an experiment.",
+      "th": "ขอโทษครับ ย่า เราเอ่อ เราทำการทดลองอยู่ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What kind of experiment is this? To mash up me house?",
+      "th": "นี่เป็นการทดลองแบบไหน พังบ้านฉันหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This place is a mess, boy!",
+      "th": "บ้านนี้เละเทะแล้ว ไอ้หนู !"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna fix it right now.",
+      "th": "เราจะทำให้มันเข้าที่ทันที เราจะซ้อมมันเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian, if I hear one more explosion,",
+      "th": "เซบาสเตียน ถ้าฉันได้ยินการระเบิดอีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "that'll be the last time you do your experiments and ting",
+      "th": "นั่นจะเป็นครั้งสุดท้าย ที่แกจะทำการทดลองของแก"
+    }
+  },
+  {
+    "translation": {
+      "en": "in me house. You understand?",
+      "th": "ในบ้านของฉัน เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, Grandma.",
+      "th": "ครับ ย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "And how are you, young lady?",
+      "th": "แล้วเธอเป็นไงบ้าน แม่สาวน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm fine, thanks.",
+      "th": "สบายดี ขอบคุณค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. Now help Sebastian clean up this place!",
+      "th": "ดี ตอนนี้ก็ช่วยเซบาสเตียน ทำความสะอาดสถานที่นี่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sucks teeth] They gon' make me old.",
+      "th": "พวกแกจะทำให้ฉันแก่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I used to be young. They gon' make me so old.",
+      "th": "ฉันเคยเป็นสาว แล้วพวกแกก็ทำให้ฉันแก่มาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Yeah.",
+      "th": "ค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh-huh. Okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "th": "ขอบคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's at Kings County Hospital. He just broke his arm. He'll be fine.",
+      "th": "เขาอยู่ที่โรงพยาบาลคิงส์เค้าตี้ แค่แขนหัก เขาจะไม่เป็นไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got something to say, my guy, then say it.",
+      "th": "นายมีบางอย่างจะพูด เพื่อนรัก พูดมาเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We didn't invent time travel for you to get back at your ex-boyfriend.",
+      "th": "เราไม่ได้ประดิษฐ์เครื่องเดินทางข้ามเวลา ให้เธอแก้แค้นแฟนเก่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know that you're mad that Jared got hit by a car,",
+      "th": "ฉันรู้ว่าเธอโกรธที่เจเรดโดนรถชน"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I didn't intend for that to happen.",
+      "th": "แต่ฉันไม่ได้เจตนาให้เรื่องนั้นเกิดขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not about intentions.",
+      "th": "มันไม่เกี่ยวกับการเจตนา ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if he had been killed? Then what, huh?",
+      "th": "ถ้าเขาถูกฆ่าล่ะ จะเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's about controlling something we have no control over.",
+      "th": "มันเกี่ยวกับการควบคุมบางอย่าง เห็นได้ชัดว่าเราไม่มีการควบคุม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything great has the capacity to be good and bad.",
+      "th": "ความยิ่งใหญ่ของทุกสิ่ง มีศักยภาพที่จะดีและเลว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Think of Arthur Galston. -Science is bigger than us.",
+      "th": "- คิดถึงอาร์เทอร์ แกลสตันสิ - วิทยาศาสตร์ยิ่งใหญ่กว่าเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dude thought he was inventing a soybean enhancer.",
+      "th": "เธอคิดว่าเขาประดิษฐ์สิ่งที่ปรับปรุงคุณภาพ ต้นถั่วเหลือง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone else turned it into Agent Orange.",
+      "th": "แล้วคนอื่นก็เปลี่ยนมันเป็นฝนเหลืองสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you so serious? Lighten up for once.",
+      "th": "ทำไมนายเคร่งเครียดจัง เซบาสเตียน เบาลงสักครั้งนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We invented temporal relocation, CJ.",
+      "th": "เราประดิษฐ์เครื่องเดินทางข้ามเวลา ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Temporal relocation.",
+      "th": "เครื่องเดินทางข้ามเวลา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something Einstein spent his entire life trying to do.",
+      "th": "บางอย่างที่ไอน์สไตน์ใช้ทั้งชีวิตของเขา พยายามที่จะทำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, and when we win the expo,",
+      "th": "เมื่อเราชนะใน นิทรรศการ เราก็จะอยู่บน หน้าปกของนิตยสารเทคบรีฟส์ของนาซ่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll be on the cover of NASA Tech Briefs because of it,",
+      "th": "เมื่อเราชนะใน นิทรรศการ เราก็จะอยู่บน หน้าปกของนิตยสารเทคบรีฟส์ของนาซ่า... เพราะมัน แล้วปัญหาคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "so what's the problem?",
+      "th": "เพราะมัน แล้วปัญหาคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dominoes, motherfucker!",
+      "th": "โดมิโน แม่งเอ๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eh, boy! But what is this? You... you don't know how to play no dominoes!",
+      "th": "นี่ ไอ้หนุ่ม ! นี่อะไรน่ะ นายไม่รู้วิธีการเล่นโดมิโนนี่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you talking about? I just put my last piece down, son.",
+      "th": "คุณพูดอะไรน่ะ ผมเพิ่งวางชิ้นสุดท้ายลงไปนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It don't match, boy. [laughs]",
+      "th": "มันไม่ตรงกัน ไอ้หนุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boy, you don't know how to play no damn dominoes.",
+      "th": "ไอ้หนุ่ม นายไม่รู้วิธีการเล่นโดมิโนจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boy, move away from here! You gotta learn before you play.",
+      "th": "ไอ้หนุ่ม ออกไปจากตรงนี้ซะ ! นายต้องเรียนรู้ก่อนจะเล่นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all playing the old-head version of dominoes, you feel me?",
+      "th": "พวกคุณเล่นโดมิโนแบบรุ่นเก่าๆ น่ะ เข้าใจผมไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "In the new generation, when your last piece go down--",
+      "th": "ในรุ่นใหม่ เมื่อวางชิ้นสุดท้าย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bro, we gotta go, man. This lame-ass nigga Jared here, man.",
+      "th": "เราต้องไปละ เพื่อน ไอ้เจเรดน่าเบื่ออยู่ที่นี่ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's a trap. -Who?",
+      "th": "- มันเป็นกับดัก - ใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo. -This nigga.",
+      "th": "- นี่ - ไอ้นิโกรนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo, don't do that shit here, dude. -Watch out. Watch out.",
+      "th": "- อย่าทำเหลวไหลแบบนั้นที่นี่นะ เพื่อน - ระวังนะ ระวัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you doing here? -What you coming up to me for?",
+      "th": "- นายมาทำอะไรที่นี่ ไอ้น้อง - นายมาหาฉันแบบนั้นเพื่ออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Chill, bro. -What you doing here, bro?",
+      "th": "- นายมาทำอะไรที่นี่ ไอ้น้อง - นี่ นี่ ใจเย็น ใจเย็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jared] I'll lay your ass out right here. I wish you would do something.",
+      "th": "ฉันจะลากนายออกจากตรงนี้ - เออ ฉันก็อยากให้นายทำสักอย่าง - นายแกล้งน้องสาวของฉัน ไอ้น้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Calvin] You play with my sister, bro.",
+      "th": "- เออ ฉันก็อยากให้นายทำสักอย่าง - นายแกล้งน้องสาวของฉัน ไอ้น้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bullshit, nigga. You acting like you 'bout to do something, nigga.",
+      "th": "- ฉันจะกระทุ้งนาย ไอ้ขี้โม้ - ฉันจะผลักนาย - นายทำเหมือนจะทำบางอย่าง - นายก็ทำเหมือนนายแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You acting like you tough. -Hey, hey, hey!",
+      "th": "- นายทำเหมือนจะทำบางอย่าง - นายก็ทำเหมือนนายแน่ - นี่ๆ ๆ - ออกไปจากที่นี่ซะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Not today, boy! -Don't let me see you on the streets.",
+      "th": "- อย่าให้ฉันเจอนายบนถนนนะ - ไม่ใช่วันนี้ ไอ้หนุ่ม !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Watch your damn mouth! -Aight, aight.",
+      "th": "- ระวังปากระยำของนายนะ ! - ได้เลย ได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Aight, bro. -Bumbaclot!",
+      "th": "- ได้เลย ไอ้น้อง - คนสารเลว !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dennis] I thought you said you hit that shit already.",
+      "th": "ฉันคิดว่านายบอกว่า นายเผด็จศึกแล้วนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Calvin] Yeah, I did tap her. -[Dennis] Lying ass! Look at your face!",
+      "th": "- เออ ฉันแตะเธอจริงๆ - ไม่อยาเชื่อ ! ดูหน้านายสิ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't hit shit. You know she's gonna be there tonight, right?",
+      "th": "นายไม่ได้ทำห่าอะไรเลย นายรู้ว่าเธอจะอยู่ที่นั่นคืนนี้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sure you don't wanna change that story?",
+      "th": "- ไม่ต้องการเปลี่ยนเรื่องใช่ไหม - จริงหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aight. Damn, nigga, I ain't hit it yet. Imma hit it tonight though.",
+      "th": "เอาล่ะ ให้ตายเถอะ ฉันจะยังไม่ได้เผด็จศึก ฉันจะทำคืนนี้แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Goddamn. -You ain't gonna hit shit.",
+      "th": "- บ้าเอ๊ย - นายยังไม่ได้เผด็จศึก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, give me this. Let me show you how to properly slide into them DMs.",
+      "th": "- นี่ เอาอันนี้มาให้ฉัน ให้ฉันเอาให้ดู... - นี่ๆ - ให้ฉันเอาให้นายดูวิธีการที่จะ... - ฉันจะบอกอะไรเกี่ยวกับเรื่องการจับ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "What'd I tell you about grabbing a grown man's phone, nigga?",
+      "th": "- ให้ฉันเอาให้นายดูวิธีการที่จะ... - ฉันจะบอกอะไรเกี่ยวกับเรื่องการจับ... โทรศัพท์ของชายวัยแตกพานให้นะ ไอ้นิโกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the fuck out of here with that bullshit, man.",
+      "th": "เอาการร่วมรักจากตรงนี้ พร้อมกับเรื่องไร้สาระแบบนั้นน่ะ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before I smack that jean jacket bucket hat off your fucking head.",
+      "th": "ก่อนที่ฉันจะตบหมวกบักเก็ตทำจากผ้ายีนแจ็กเก็ต ออกจากหัวของนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Always talking shit. Get the fuck--",
+      "th": "เซ็งพูดพล่ามตลอด เอาการร่วมรักจากตรงนี้..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Out of the way!",
+      "th": "อย่าขวางทาง !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where the fuck them niggas going, man?",
+      "th": "พวกนิโกรจะไปตายห่าที่ไหนวะ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They slapped the shit out of my arm. -You know them niggas?",
+      "th": "- พวกเขาชนแขนฉัน - นายรู้จักนิโกรพวกนี้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fucking Keith, man. Nigga's always on some bullshit.",
+      "th": "ไอ้ห่าคืทไง ไอ้นิโกรสนใจเรื่องงี่เง่าเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold on. What the fuck is this?",
+      "th": "นี่ อะไรวะ ดูสิ นี่เป็นเรื่องห่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "NYPD, don't fucking move!",
+      "th": "เอ็นวายพีดี !  อย่าขยับ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where you two coming from?",
+      "th": "พวกคุณสองคนมาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[reporter] An unfortunate start to the 4th of July holiday.",
+      "th": "จุดเริ่มต้นของความโชคร้ายเกิดขึ้น วันหยุดที่ 4 กรกฎาคม ตอนเย็นวันพฤหัสบดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "On Thursday evening, Calvin Walker, a 19-year-old black teen,",
+      "th": "จุดเริ่มต้นของความโชคร้ายเกิดขึ้น วันหยุดที่ 4 กรกฎาคม ตอนเย็นวันพฤหัสบดี  แคลวิน วอลเกอร์ วัยรุ่นผิวดำอายุ 19 ปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "was allegedly shot and killed by an NYPD officer.",
+      "th": "ถูกกล่าวหาว่ายิงและฆ่าคน โดยเจ้าหน้าที่เอ็นวายพีดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "According to police, Walker was attempting to pull something",
+      "th": "ตามกองตำรวจกล่าว วอลเกอร์พยายามจะดึงบางอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "out of his pocket when he was shot.",
+      "th": "ออกจากกระเป๋าตอนเขาถูกยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "A woman who claimed to have a bird's eye view of the incident",
+      "th": "หญิงคนหนึ่งที่อ้างว่าเห็นเหตุการณ์จากมุมสูง"
+    }
+  },
+  {
+    "translation": {
+      "en": "said that Walker was unarmed.",
+      "th": "กล่าวว่าวอลเกอร์ไม่มีอาวุธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, all of this comes on the heels of the Francis Pierre shooting,",
+      "th": "ตอนนี้เหตุการณ์ทั้งหมดนี้เกิดขึ้นติดๆ หลังจากการยิงฟรานซิส ปีแอรร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and activists say this is yet another example of overzealous policing",
+      "th": "และนักปฏิบัติการหัวรุนแรงกล่าวว่านี่เป็น อีกตัวอย่างของการรักษากฎแบบออกนอกหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "and mistaken identity.",
+      "th": "และรูปพรรณสัณฐานที่ผิดพลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Walker and his friend, Dennis Owens, most likely mistaken for these two men,",
+      "th": "เป็นไปได้มากสุดที่วอลเกอร์และเพื่อนของเขา เดนนิส โอเวนส์จะถูกเข้าใจผิดกับชายสองคนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "who had just robbed a bodega a few blocks away.",
+      "th": "ที่เพิ่งปล้นร้านขายของชำ ที่อยู่ห่างไปสองสามช่วงตึก"
+    }
+  },
+  {
+    "translation": {
+      "en": "On Friday afternoon, after a vigil for Walker, violent protests erupted",
+      "th": "ในบ่ายวันศุกร์ หลังจากสวดภาวนาให้วอลเกอร์ ผู้ประท้วงหัวรุนแรงก็ทะลัก..."
+    }
+  },
+  {
+    "translation": {
+      "en": "in the Crown Heights neighborhood of Brooklyn.",
+      "th": "เข้าในคราวน์ไฮต์สย่านบรุ กลิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those arrested were charged with failing to obey the law",
+      "th": "พวกที่ถูกจับโดนข้อหาฝ่าฝืนกฎหมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "and illegally walking on a major roadway.",
+      "th": "และเดินบนถนนสายหลักอย่างผิดกฎหมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Those who did block traffic on Nostrand Avenue were chanting,",
+      "th": "พวกที่ปิดกั้นการจราจรบนถนนนอสแตรนด์เอเวนิว ก็เปล่งเสียง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Black Lives Matter.\"",
+      "th": "\"แบล็กไลฟส์แมตเทอร์\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[crowd chants on TV] People power! People power!",
+      "th": "- ประชาชน ! - อำนาจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "People power! People power!",
+      "th": "- ประชาชน ! - อำนาจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "People power! People power!",
+      "th": "- ประชาชน ! - อำนาจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "People power! People power!",
+      "th": "- ประชาชน ! - อำนาจ ! - ประชาชน ! - อำนาจ ! (แบล็กไลฟส์แมตเทอร์)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, baby, you should not be watching the news like that.",
+      "th": "ลูกรัก หนูไม่ควรดูข่าวแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will only upset you.",
+      "th": "มันจะทำให้หนูอารมณ์เสียเท่านั้นเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Let's get you out of this dress and get you to bed. Come on.",
+      "th": "ไม่เอาน่า เปลี่ยนเสื้อผ้าซะ แล้วก็เข้านอน เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You still have a brother, my love.",
+      "th": "หนูยังมีพี่ชาย ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian.",
+      "th": "เซบาสเตียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's your brother, too, you know?",
+      "th": "เขาเป็นพี่ชายของหนูเหมือนกัน รู้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[clicks tongue] Oh, baby.",
+      "th": "โธ่ ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I'm so sorry. I'm so sorry about all of this.",
+      "th": "แม่เสียใจ แม่เสียใจจริงๆ กับเรื่องทั้งหมดนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your father...",
+      "th": "พ่อของหนู..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and Calvin...",
+      "th": "และแคลวิน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "If I could go back and fix it, I would. But I can't, CJ.",
+      "th": "ถ้าแม่กลับไปแก้ไขได้ แม่ก็จะทำ แต่แม่ทำไม่ได้ ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We still have each other, though.",
+      "th": "แต่เรายังมีกันและกันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sorry, what did you say? -I said...",
+      "th": "- ขอโทษคะ แม่ว่าอะไรนะ - แม่บอกว่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "we still have each other.",
+      "th": "เรายังมีกันและกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "th": "เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get some rest.",
+      "th": "ไปพักผ่อนสักหน่อยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette Josephine Walker...",
+      "th": "คลอเดตต์ โจเซฟีน วอลเกอร์..."
+    }
+  },
+  {
+    "translation": {
+      "en": "we are here.",
+      "th": "เราอยู่ตรงนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"TRP Mark Two.\" You added another canister. Why?",
+      "th": "\"ทีอาร์พีมาร์กทู\" เธอเพิ่มอีกกระป๋อง ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because in this canister, we can now change the spin of electrons.",
+      "th": "เพราะในกระบอกนี้ เราเปลี่ยนการหมุนของอิเล็กตรอนได้ตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Change the spin?",
+      "th": "เปลี่ยนการหมุนงั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But then they'll become positrons.",
+      "th": "แต่พวกมันจะกลายเป็นโพซิตรอนส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if we introduce the new positrons to the protons in the original chamber...",
+      "th": "ถ้าเราแนะนำไพซิตรอนส์ใหม่ ให้โปรตอนในกระบอกเดิม..."
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll be anti-matter colliding with matter. Pure energy.",
+      "th": "มันจะเป็นปฏิสสาร การกระทบกับสสาร กลายเป็นพลังงานบริสุทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's good. -Yup.",
+      "th": "- ดีนะ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll give enough energy",
+      "th": "มันจะผลิตพลังงานที่พอเพียง"
+    }
+  },
+  {
+    "translation": {
+      "en": "so that it could power the machines",
+      "th": "ที่จะให้พลังงานเครื่องกลไก"
+    }
+  },
+  {
+    "translation": {
+      "en": "to two times faster than the speed of light.",
+      "th": "เร็วกว่าอัตราความเร็วแสงสองเท่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Holy shit, CJ. -Right?",
+      "th": "- โอ้แม่เจ้า ซีเจ - ถูกไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But... But, CJ...",
+      "th": "- แต่ซีเจ... - แบบนั้นจะขยาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "That could expand the amount of time that we go back.",
+      "th": "ปริมาณของเวลาที่เราจะกลับมาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "From a day to probably a week.",
+      "th": "จากหนึ่งวันก็อาจเป็นหนึ่งสัปดาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, the expo was the day after Calvin got shot.",
+      "th": "ซีเจ นิทรรศการจัดขึ้นในวัน หลังจากที่แคลวินถูกยิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We already missed it.",
+      "th": "เราพลาดมันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't care about the expo.",
+      "th": "ฉันไม่สนในเกี่ยวกับนิทรรศการละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can go back. We can fix it. We can save Calvin.",
+      "th": "เรากลับไปได้ เราจะแก้ไขมันได้ เราจะช่วยชีวิตแคลวินได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, CJ. No, we can't.",
+      "th": "ไม่ ซีเจ ไม่ เราทำไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "We go back and try something like this,",
+      "th": "ถ้าเรากลับไป พยายามทำบางอย่างแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "there could be bigger consequences than Jared's broken arm.",
+      "th": "อาจมีผลพวงใหญ่กว่าเจเรดแขนหักนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't care about stupid Jared. -It's not about him.",
+      "th": "- ฉันไม่สนใจเจเรดงี่เง่า - มันไม่เกี่ยวกับเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's about the unforeseen outcomes that we could never predict.",
+      "th": "มันเกี่ยวกับผลลัพธ์ที่คาดไม่ถึง ซึ่งเราทำนายไม่ได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "There could be real-life consequences for doing something like this.",
+      "th": "อาจเป็นผลพ่วงในชีวิตจริง ในการทำเรื่องบางอย่างแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you shitting me, Sebastian?",
+      "th": "นายล้อฉันเล่นใช่ไหม เซบาสเตียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look around you. Look at where we are.",
+      "th": "มองไปรอบตัวนายสิ ดูสิว่าเราอยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at my brother.",
+      "th": "ดูพี่ชายของฉันสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at my brother.",
+      "th": "ดูพี่ชายของฉันสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what?",
+      "th": "รู้อะไรไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you care? He wasn't your brother.",
+      "th": "นายจะใส่ใจอะไร ไม่ใช่พี่ชายของนายนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll do it myself. I'll pick up the stuff tomorrow.",
+      "th": "ฉันจะทำมันด้วยตัวเอง ฉันจะรับของพรุ่งนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Granny made it for us.",
+      "th": "ย่าทำมันให้พวกเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "My uncle sent me that flag from Guyana after my parents died.",
+      "th": "ลุงส่งธงนั่นมาจากกายอานาให้ฉัน หลังจากพ่อกับแม่ของฉันตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "He always says friends are like your chosen family.",
+      "th": "เขามักจะพูดว่าเพื่อน ก็เหมือนสมาชิกในครอบครัวที่ถูกเลือก"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no \"I.\" There's just \"we.\"",
+      "th": "ไม่มีคำว่า \"ฉัน\" มีแค่คำว่า \"เรา\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I loved Calvin, too, you know.",
+      "th": "ฉันก็รักแคลวินเหมือนกัน รู้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. I shouldn't have said that.",
+      "th": "ฉันรู้ ฉันไม่น่าพูดอย่างนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's okay. Don't worry about it. -No...",
+      "th": "- โอเค ไม่ต้องห่วงเรื่องนั้น - ไม่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not okay.",
+      "th": "ไม่โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really am sorry.",
+      "th": "ฉันเสียใจจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know.",
+      "th": "ฉันรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're my best friend.",
+      "th": "เธอเป็นเพื่อนสนิทของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, we cool?",
+      "th": "งั้นเราดีกันแล้วใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, we cool.",
+      "th": "ใช่ เราดีกันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, Black Man.",
+      "th": "ฉันรักนาย ชายผิวดำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, too, Black Woman.",
+      "th": "ฉันก็รักเ ธอ ผู้หญิงผิวดำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, look. These all say the same thing.",
+      "th": "เอาล่ะ ฟังนะ ทั้งหมดนี้พูดแบบเดียวกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Calvin was shot four days ago on July fourth.",
+      "th": "แคลวินถูกยิงเมื่อสี่วันก่อน ในวันที่ 4 กรกฎาคม"
+    }
+  },
+  {
+    "translation": {
+      "en": "The police encountered him and Dennis at 5:40,",
+      "th": "ตำรวจพบเขากับเดนนิสเวลา 17.40"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then Calvin's dead by 5:47.",
+      "th": "แล้วแคลวินก็ตายตอน 17.47 ดังนั้นถ้าเราแค่กลับไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "So if we just go back, get them out of there, he's saved.",
+      "th": "แล้วแคลวินก็ตายตอน 17.47 ดังนั้นถ้าเราแค่กลับไป เอาเขาออกจากที่นั่น เขาก็รอด"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll only have so many times to get this right.",
+      "th": "เราเพียงแค่มีเวลาเหลือเฟือ ที่จะทำเรื่องนี้ให้ถูกต้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, the machines will need to be re-calibrated after every jump.",
+      "th": "คือเครื่องกลไกจะต้องการปรับพิกัดใหม่ หลังจากกระโดดทุกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We can only go back once a day. -I know.",
+      "th": "- เราจะกลับมาได้เพียงวันละหน - ฉันรู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And based on our last jump, wormhole stability's",
+      "th": "ตามที่เรากระโดดครั้งล่าสุด ความเสถียรของช่องรูหนอน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "only going to last for ten minutes before it starts to collapse.",
+      "th": "จะอยู่ได้นาน 10 นาที ก่อนมันจะเริ่มพังทลาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "That gives us ten minutes to save Calvin.",
+      "th": "ซึ่งให้เวลาเราช่วยชีวิตแคลวิน 10 นาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything's gonna need to be damn near perfect.",
+      "th": "จะต้องสมบูรณ์แบบแทบทุกอย่างจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian, this has to work.",
+      "th": "เซบาสเตียน เรื่องนี้ต้องใช้ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Let's do this.",
+      "th": "โอเค ลงมือกันเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[rumbling] -[rattling]",
+      "th": "(สบู่ดำ ธงคาริบเบียน)"
+    }
+  },
+  {
+    "translation": {
+      "en": "[coughing] What in the blazes!",
+      "th": "อะไรวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, did it work? Are... Are we here?",
+      "th": "นี่ มันใช้การได้ไหม เราอยู่ที่นี่แล้วหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Our time coordinates say it did.",
+      "th": "(วันที่ 07/04/2019) - พิกัดเวลาบอกว่าใช่ - นี่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo! Yo, yo, why you make so much noise? What y'all deal wit?",
+      "th": "- พิกัดเวลาบอกว่าใช่ - นี่ ! นี่ๆ ทำไมทำเสียงดังจัง พวกคุณจัดการกับอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Sorry.",
+      "th": "ขอโทษค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't understand these children today, no.",
+      "th": "ฉันไม่เข้าใจเด็กๆ สมัยนี้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'd better not light another. You know these for the cookout later!",
+      "th": "แกไม่ควรจุดบุหรี่อีก รู้ไหมพวกนี้สำหรับกินข้าวนอกบ้านวันหลัง !"
+    }
+  },
+  {
+    "translation": {
+      "en": "We did it.",
+      "th": "เราทำได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, set your timer clocks. Ten minutes and counting.",
+      "th": "โอเค ปรับนาฬิการตั้งเวลา สิบนาทีและนับ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, come on.",
+      "th": "เออ เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Did you bring Calvin's funeral program? [CJ] Bet!",
+      "th": "- เธอเอากำหนดการงานศพของแคลวินมาไหม - เอามา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ooh. What?",
+      "th": "- อะ... - อะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit. Let's dip.",
+      "th": "เวร ไปกันเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all herbs wish.",
+      "th": "คิดจะขอร้องหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, we're sorry about your arm, but we really don't have time for this.",
+      "th": "ฟังนะ เราเสียใจมากับแขนของนาย แต่เราไม่มีเวลากับเรื่องนี้จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I bet your asses are sorry. And your brother ain't here now, is he?",
+      "th": "เออ ฉันเชื่อพวกแกเสียใจ และพี่ชายของเธอก็ไม่อยู่ที่นี่ตอนนี้ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "So look, we're gonna square up on all this and just figure--",
+      "th": "ฟังนะ เราจะคิดบัญชีกับเรื่องทั้งหมดนี้ และคิด..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on!",
+      "th": "เร็วเข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey! -Hey!",
+      "th": "สอง สาม สี่ ห้า หก เจ็ด..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, call me, call me! -I don't want you!",
+      "th": "- ขอโทษ มานี่ มานี่ ! - ระวังนะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Move! Move!",
+      "th": "ถอย ! ถอย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Tell your friends not to mash up everything, man.",
+      "th": "จะเดินผ่าน นี่ ! คุณไม่เอาทุกอย่างมามากมายใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go on! Now, man!",
+      "th": "เร็วเข้า !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo, yo, let me show you something. -Give me my shit back, man.",
+      "th": "- นี่ ให้ฉันเอาให้ดู - เอาเครื่องของฉันคืนมา เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out of the way!",
+      "th": "อย่าขวางทาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, where the fuck them niggas going?",
+      "th": "พวกนิโกรจะไปตายห่าที่ไหนวะ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know them niggas? -Fucking Keith always...",
+      "th": "- นายรู้จักนิโกรพวกนี้ไหม - ไอ้ห่าคีทสนใจเรื่อง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just fucking Keith, man. -You know them?",
+      "th": "- ก็ไอ้ห่าคีทไง เพื่อน - นายรู้จักพวกเขาไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nigga's always wiling, running around-- -Yo, what the fuck is this?",
+      "th": "- นิโกรมักจะล่อลวง วิ่งไปทั่ว... - นี่ นี่เป็นเรื่องห่าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gun fires] -No! -[alarm beeping] -We're too late.",
+      "th": "- ไม่ - เรามาช้าเกินไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, we're here. -We need to go back to the alleyway!",
+      "th": "- ไม่ เราอยู่ที่นี่แล้ว - เราต้องไปล่ะ กลับไปที่ตรอก !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're here! We're right-- -CJ, he's gone!",
+      "th": "- เราอยู่ตรงนี้ ! เราอยู่ตรง... - ซีเจ เขาตายแล้ว !"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's gone.",
+      "th": "เขาตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to go.",
+      "th": "เราจำเป็นต้องไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck! Stupid-ass Jared!",
+      "th": "ไอ้ห่า ! ไอ้เจเรดงี่เง่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "God! We-- The whole day wasted! God, we didn't even make it to Malcolm X!",
+      "th": "โธ่เอ๊ย เราเสียเวลาทั้งวัน ! โธ่เอ๊ย เราไปไม่ถึงถนนแมลคอล์มเอ็กซ์ด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, calm down. We have another chance.",
+      "th": "- ซีเจ ใจเย็น เรามีโอกาสอีกนะ - นายใจเย็นสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You calm down. Don't tell me to calm down!",
+      "th": "- อย่าบอกให้ฉันใจเย็น - เรามีโอกาสอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll get this right.",
+      "th": "เราจะทำเรื่องนี้ให้ถูกต้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on. -Get off me. I don't need a fucking hug.",
+      "th": "- มานี่ - ไปให้พ้น ฉันไม่ต้องการการกอดบ้าๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it.",
+      "th": "ใช่เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We stop the robbery.",
+      "th": "เราต้องหยุดขโมย"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the only way we can keep them from murdering Calvin.",
+      "th": "นั่นคือวิธีเดียว ที่เราจะกันตำรวจจากการฆ่าแคลวิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, those dudes were dangerous. Probably on some shit.",
+      "th": "ซีเจ ไอ้เบื๊อกพวกนั้นอันตรายนะ อาจติดยาก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want guns in either of our faces.",
+      "th": "ผมไม่ต้องการให้ปืนจ่อหน้าเราสองคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "To make sure the changes that we make are effective,",
+      "th": "เพื่อให้มั่นใจว่าการเปลี่ยนแปลงที่เราทำได้ผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "we have to visit as close as possible to the murder.",
+      "th": "เราต้องไปหาการฆาตกรรมให้ใกล้ที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "What y'all doing in here? Y'all working?",
+      "th": "พวกแกทำอะไรอยู่ที่นี่ ทำงานหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, Granny. Thanks for the snacks.",
+      "th": "ครับ ย่า ขอบคุณสำหรับขนม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is everything okay?",
+      "th": "ทุกอย่างราบรื่นไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -Yes ma'am. We're fine. Thank you.",
+      "th": "- ครับ - ค่ะ เราสบายดี ขอบคุณค่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, you need anything, I am here. Okay?",
+      "th": "ฟังนะ ถ้าหนูต้องการอะไร ฉันอยู่ที่นี่ เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You take good care of her.",
+      "th": "แกดูแลเธอให้ดีนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one said anything about having any guns in our faces.",
+      "th": "ไม่มีใครพูดอะไรเกี่ยวกับ การมีปืนจ่อหน้าเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Look...",
+      "th": "เอาล่ะ ฟังนะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Carlito's Bodega is here.",
+      "th": "ร้านขายของชำคาร์ลิโตอยู่ตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "According to the news, the robbery happens at 5:35,",
+      "th": "ตามข่าว การปล้นทรัพย์เกิดขึ้นตอน 17.35"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the 911 call comes in at 5:36.",
+      "th": "และมีการแจ้ง 911 เข้ามาตอน 15.36"
+    }
+  },
+  {
+    "translation": {
+      "en": "All we have to do is call the cops before the robbery happens. No robbery...",
+      "th": "สิ่งที่เราต้องทำคือการโทรแจ้งตำรวจ ก่อนการปล้นจะเกิดขึ้น ไม่มีการปล้น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Calvin's alive. -...Calvin's alive.",
+      "th": "- แคลวินก็จะมีชีวิตอยู่ - แคลวินก็จะมีชีวิตอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, but we need to do something about running into our past selves.",
+      "th": "โอเค แต่เราต้องทำบางอย่าง เกี่ยวกับการวิ่งไปเจอตัวเราเองในอดีต"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're good. We were at Bulletproof Comics that day, remember?",
+      "th": "เราปลอดภัย เราอยู่ที่บูลเล็ตพรูฟวันนั้น จำได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I mean, we just did our first attempt, right?",
+      "th": "ไม่ใช่ คือเราเพิ่งทำการพยายามครั้งแรก ถูกไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we're about to do another attempt, right, during the same time frame?",
+      "th": "แล้วเราจะทำการพยายามอีก ในช่วงกรอบเวลาเดียวกันใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so?",
+      "th": "โอเค แล้วไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our first-attempt selves still exist in the ten minutes we jumped from.",
+      "th": "งั้นตัวเราเองในการพยายามครั้งแรกก็ยังอยู่ ใน 10 นาที... ที่เราเพิ่งกระโดดกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we don't wanna bump into our first-attempt selves either. Yeah.",
+      "th": "แล้วเราก็ไม่ต้องการชนกับตัวเอง ในการพยายามครั้งแรกเหมือนกัน ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, we do not.",
+      "th": "ถูก เราไม่ต้องการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need something that can direct a lot of energy.",
+      "th": "เราต้องการบางอย่างที่ควบคุมพลังงานมากๆ ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not gonna like this, CJ.",
+      "th": "เธอจะไม่ชอบเรื่องนี้ ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are not going to like this.",
+      "th": "เธอจะไม่ชอบเรื่องนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Spanish] Sweetie, you are just too good to me.",
+      "th": "หลานรัก แกดีกับฉันมากเหลือเกิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Better? -Yes, it hurts less now.",
+      "th": "- ดีขึ้นไหม - อือ เจ็บน้อยลงละตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You sure? -Yes. I'm good, my love.",
+      "th": "- แน่ใจหรือ - อือ ฉันสบายละ หลานรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, the remote, where is it?",
+      "th": "เอ๊ะ รีโมท อยู่ไหนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right here.",
+      "th": "ตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "th": "ขอบใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, sit down.",
+      "th": "เดี๋ยว นั่งลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] That CJ, she's very pretty, no?",
+      "th": "ซีเจคนนั้น เธอน่ารักมากว่าไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eduardo laughs] Yeah.",
+      "th": "ครับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I'm really happy for you,",
+      "th": "นี่ ฉันดีใจกับแกด้วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I want you to be careful, because she looks like she's a little rough, no?",
+      "th": "แต่ฉันต้องการให้แกระวัง เพราะเธอดูเหมือนแก่นไปนิดว่าไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Spanish] Grandma, you have no idea.",
+      "th": "ย่าครับ... ย่าไม่รู้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn, bro, what took you so long?",
+      "th": "- เฮ้ย อะไรทำให้นายใช้เวลานานจัง - ต้องหยิบขนมมาฝากพวกนายบ้างไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Had to grab some snacks for y'all ungrateful asses.",
+      "th": "- เฮ้ย อะไรทำให้นายใช้เวลานานจัง - ต้องหยิบขนมมาฝากพวกนายบ้างไง ไอ้พวกไม่สำนึกบุญคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So...",
+      "th": "แล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what's this about?",
+      "th": "เรื่องนี้เกี่ยวกับอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all say you need some energy conduits?",
+      "th": "พวกนายบอกว่าต้องการท่อส่งพลังงานใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, yeah, we need something that can handle large amounts of energy.",
+      "th": "ใช่ เราต้องการบางอย่างที่จัดการ พลังงานจำนวนมากได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't y'all build a circuit board or something?",
+      "th": "ทำไมพวกนายไม่สร้าง แผงวงจรไฟฟ้าหรืออะไรทำนองนั้นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "For our specifications,",
+      "th": "สำหรับรายละเอียดการประดิษฐ์ของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "we need something with obscene energy capacity.",
+      "th": "เราต้องการบางอย่าง ที่มีปริมาณพลังงานแบบหยาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Obscene? -[Sebastian] Yeah.",
+      "th": "- หยาบงั้นหรือ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "How obscene?",
+      "th": "หยาบแบบไหนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Like... Uh... -[Eduardo] Like?",
+      "th": "อย่าง... อย่างอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like the quantum circuit boards you built for the end-of-the-year project.",
+      "th": "อย่างแผงวงจรไฟฟ้าควอนตัม ที่นายสร้างสำหรับโปรเจ็กปลายปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Nah! Nah! I'm sorry. That ain't happening, B.",
+      "th": "ไม่ๆ ฉันเสียใจนะ - เรื่องนั้นจะไม่เกิดขึ้น เพื่อน เสียใจด้วย - เพื่อน ฟังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo, listen to me. -Sorry!",
+      "th": "- เรื่องนั้นจะไม่เกิดขึ้น เพื่อน เสียใจด้วย - เพื่อน ฟังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't ask you if it wasn't important.",
+      "th": "ฉันจะไม่ขอนาย ถ้ามันไม่ใช่เรื่องสำคัญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is the only thing that's gonna work. -Really? And what's this for?",
+      "th": "- นี่เป็นสิ่งเดียวที่จะใช้การได้ - จริงหรือ เพื่ออะไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some new shit... that, uh, we can't talk about yet.",
+      "th": "ของใหม่ที่เราไม่สามารถพูดถึงได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, y'all need my shit to make your new shit,",
+      "th": "พวกนายต้องการของของฉัน ทำของใหม่ของพวกนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "but you can't tell me shit?",
+      "th": "แต่บอกอะไรฉันไม่ได้งั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, shit. That's pretty much it.",
+      "th": "ก็ของไง อะไรประมาณนั้นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -What?",
+      "th": "- ใช่ - อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nah! Nah! Sorry!",
+      "th": "ไม่ ! ไม่ ! เสียใจนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give us the quantum circuit board, and I'll go on a date with you.",
+      "th": "ให้แผงวงจรไฟฟ้าควอนตัมกับเรา แล้วฉันจะเดตกับนายหนึ่งวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes! I've been waiting on you since the fourth grade.",
+      "th": "เย้ ! ฉันรอเธอมาตั้งแต่เกรดสี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imma treat you like a princesa.",
+      "th": "ฉันจะปฏิบัติต่อเธอเหมือนเจ้าหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eduardo] Get your ass off my bed, please. Thank you very much.",
+      "th": "เอาก้นออกจากเตียงของฉันหน่อย ขอบคุณมาก ขอบคุณมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And turn that way, please. Thank you. Thank you very much.",
+      "th": "แล้วหันไปทางนั้นหน่อย ขอบคุณ ขอบคุณมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "th": "มานี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "So cool.",
+      "th": "เจ๋งมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I just wanna touch it. -[slaps]",
+      "th": "ฉันแค่ต้องการแตะมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] So, this is like giving the TRPs a lobotomy?",
+      "th": "แบบนี้เหมือนทำประสาทศัลยศาสตร์ ให้ทีอาร์พีใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Precisely.",
+      "th": "ถูกเผง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Theoretically, we won't encounter our previous time-traveling selves.",
+      "th": "ตามหลักเหตุผลเราจะไม่พบตัวเอง ในการย้อนเวลาคราวก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, those quantum boards should be able to route enough energy",
+      "th": "คือแผงวงจรไฟฟ้าควอนตัมพวกนี้ น่าจะส่งพลังงานได้เพียงพอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "from the gamma rays to splice time entirely,",
+      "th": "ตั้งแต่รังสีแกมม่าจนเชื่อมต่อเวลาทั้งหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "creating a virtual reset of our previous time jumps.",
+      "th": "สร้างการเปลี่ยนแปลง ในการกระโดดครั้งที่แล้วใหม่เกือบทั้งหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa, that's wild.",
+      "th": "โอ้ เยี่ยมจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, tomorrow?",
+      "th": "งั้นพรุ่งนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tomorrow.",
+      "th": "พรุ่งนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's get some rest.",
+      "th": "ไปพักกันหน่อยเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll get it right this time.",
+      "th": "เราจะทำถูกต้องครั้งนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, ma, did you eat yet?",
+      "th": "แม่คะ แม่กินข้าวหรือยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[reporter] On this, the third day of protests...",
+      "th": "เกี่ยวกับเรื่องนี้ วันที่สามของการประท้วง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm not hungry. -...in the killing of Calvin Walker,",
+      "th": "แม่ไม่หิว การฆาตกรรมแคลวิน วอลเกอร์..."
+    }
+  },
+  {
+    "translation": {
+      "en": "violence has once again erupted, as community and city leaders...",
+      "th": "ความรุนแรงได้ปะทุขึ้นมาอีกครั้ง เมื่อผู้นำชุมชนในเมือง..."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's not good, ma.",
+      "th": "แบบนั้นไม่ดีนะ แม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "...remain calm and peaceful.",
+      "th": "ยังคงใจเย็นและเงียบสงบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Storefronts and businesses in the area have scheduled a town hall this week--",
+      "th": "หน้าร้านและธุรกิจในย่านนั้น ทำกำหนดการกับศาลากลางจังหวัดแล้ว..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] ...tell me you've eaten that whole pie.",
+      "th": "บอกสิว่าคุณกินพายไปทั้งชิ้นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Uh... -[studio audience laughs]",
+      "th": "เปล่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] No wonder you haven't been in the gym since '93.",
+      "th": "แน่ใจว่าคุณไม่ได้ไปยิมมาตั้งแต่ปี 93"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look what you're putting in your body. -[man] Well, Tasha, Monique said--",
+      "th": "ดูสิ่งที่คุณกินเข้าไปในร่างกายคุณสิ เอ่อ โมนีกบอกว่า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] This isn't about Monique, Jay. She's working on herself.",
+      "th": "เรื่องนี้ไม่เกี่ยวกับโมนีก เธอทำงานด้วยตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you say the same? No!",
+      "th": "คุณพูดเหมือนเดิมได้ไหม ไม่ได้หรือ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Sorry, Tasha. -No more apologies, Jay.",
+      "th": "- โทษที - ไม่มีการอภัยอีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need help. And I'm the one to give it to you.",
+      "th": "คุณต้องการความช่วยเหลือ และฉันก็ให้ความช่วยเหลือกับคุณไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now say the mantra. -[man] No...",
+      "th": "- ทีนี้พูดกับครอบครัวมันทราสิ - ไม่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on! -[woman] Say it.",
+      "th": "- เร็วเข้า - พูดสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[rumbling] -[rattling]",
+      "th": "(สบู่ดำ ธงคาริบเบียน)"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the bla... What the blazes is going... [coughs]",
+      "th": "อะไรวะ เกิดอะไรขึ้นวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello? I want to report a robbery.",
+      "th": "สวัสดีคะ ฉันต้องการแจ้งความปล้นทรัพย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "What time is it?",
+      "th": "กี่โมงละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "5:30.",
+      "th": "17.30"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are they? I called them five minutes ago.",
+      "th": "พวกเขาอยู่ไหน ฉันโทรเรียกตั้งแต่ห้านาทีที่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] They take a minute sometimes.",
+      "th": "คือบางครั้งพวกเขาก็ใช้เวลาอยู่แถวนี้สักพัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I called before it even happened. How much head start do they need?",
+      "th": "ฉันโทรเรียกก่อนที่มันจะเกิดขึ้น พวกเขาต้องการให้บอกล่วงหน้านานแค่ไหนเนี่ย ฉันจะไปละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna go into a bodega we already know is gonna get robbed?",
+      "th": "ซีเจ เธอกำลังจะเข้าไปร้านขายของชำ ที่รู้อยู่แล้วว่าจะถูกปล้นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look around. The NYPD ain't coming.",
+      "th": "ดูรอบๆ สิ เอ็นวายพีดีไม่มานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can't waste this jump or any more time.",
+      "th": "เราเสียการกระโดดครั้งนี้ หรือเสียเวลาอีกไม่ได้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I... I know, CJ. -I'm just going in to warn Carlito, okay?",
+      "th": "- ฉันรู้ ซีเจ - ฉันจะเข้าไปเตือนคาร์ลิโต โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remember, the robbery doesn't happen until 5:35.",
+      "th": "จำได้ไหม การปล้นทรัพย์ไม่เกิดขึ้น จนกว่าจะ 17.35"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've five minutes to warn him and then get the fuck out. Shouldn't take me two.",
+      "th": "ฉันมีเวลาห้านาทีเตือนเขาและก็ออกมา ไม่น่าจะทำให้ฉันเสียเวลาถึงสองนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "-CJ! -Just wait for me.",
+      "th": "- ซีเจ - รอฉันก็พอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ!",
+      "th": "ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ!",
+      "th": "ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's wrong with you the other day?",
+      "th": "- เกิดอะไรขึ้นกับคุณเมื่อวันก่อน - เอ่อ คือ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Splashing people with slushies in my store!",
+      "th": "สาดน้ำปั่นสลัชชี่ในร้านของผมน่ะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "I really gotta tell you something. I won't tell your mother, but that's not cool.",
+      "th": "- ฉันแค่ต้องบอกคุณ... - นี่ ผมจะไม่บอกแม่ของคุณ แต่แบบนั้นแย่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta listen to me, okay? I don't wanna listen to you.",
+      "th": "- คุณแค่ต้องฟังฉัน โอเค - ไม่ ผมไม่ต้องการฟังคุณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[CJ] Carlito, please-- -CJ?",
+      "th": "- เอาล่ะ - คาร์ลิโต ขอร้อง... ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the fuck? -What are you doing here?",
+      "th": "- อะไรวะ ฉันบอกให้นาย... - เธอทำอะไรอยู่ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought we were meeting at Bulletproof. You said 5:30, right?",
+      "th": "ฉันคิดว่าเราพบกันที่บูลเล็ตพรูฟ เธอบอกว่า 17.30 ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, jeez! Okay, um, I... I... Just give me a minute.",
+      "th": "อุ๊ย ตายละ โอเค ขอเวลาแป๊บ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck are you looking at?",
+      "th": "แกมองอะไรวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nothing. -[scoffs]",
+      "th": "เปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Okay. [panting]",
+      "th": "บูลเล็ตพรูฟ โอเค โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, what are you doing?",
+      "th": "ซีเจ เธอกำลังทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just... Just go, okay? I'll meet you at the comic store.",
+      "th": "ไปก่อน โอเค ฉันจะเจอนายที่ร้านหนังสือการ์ตูน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're wearing TRPs. You doing it without me?",
+      "th": "เธอใส่เครื่องทีอาร์พี เธอจะทำเรื่องนี้โดยไม่มีฉันหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just go, please, Sebastian.",
+      "th": "ไปก่อนนะ เซบาสเตียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus! I'll tell you everything later. Okay? Just go!",
+      "th": "ให้ตายสิ ! ฉันจะบอกนายทุกอย่างทีหลัง เข้าใจไหม ไปก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't move! Stay right there! I know what you're up to, man.",
+      "th": "อย่าขยับ หยุดอยู่ตรงนั้น ! ฉันรู้ว่านายวางแผนอะไร เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I ain't up to-- -Stay right there.",
+      "th": "- นี่ พี่ชาย ฉันไม่ได้วางแผนอะไร - หยุดอยู่ตรงนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Put the gun down, bro! -Stay right there.",
+      "th": "- วางปืนลง พี่ชาย ! - ไม่ เพื่อน หยุดอยู่ตรงนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't move. -Put the motherfucking gun down right now!",
+      "th": "- อย่าขยับ - วางมือห่านั่นลงเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right. -Yeah.",
+      "th": "- เอาล่ะ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now what?",
+      "th": "ทีนี้ยังไงล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put that shit down. Now give us everything! Give us everything!",
+      "th": "วางปืนลงซะ ทีนี้ก็ให้เราทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hurry the fuck up.",
+      "th": "เร็วสิโว๊ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all should give us y'all shit, too!",
+      "th": "พวกแกก็ต้องเอาของพวกแกให้เราด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give us y'all shit, too, now hurry up! -All right.",
+      "th": "- เอาของพวกแกให้เราด้วย เร็วเข้า ! - ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now the shit on your arm and the bag, too!",
+      "th": "ทีนี้ก็ของบนแขนของแก แล้วก็ในกระเป๋าด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give me your fucking bag! -No.",
+      "th": "- เอากระเป๋าของแกให้ฉัน ! - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give me the bag! -No! I need this!",
+      "th": "- เอากระเป๋ามาให้ฉัน ! - ไม่ ฉันต้องการอันนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me the bag and the shit on your arm!",
+      "th": "- เอากระเป๋ากับของบนแขนของแกให้ฉัน - แกจะทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop! -I need this. Get off me.",
+      "th": "หยุดนะ ! อย่า ! แกกำลังทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[men] Move, move!",
+      "th": "ไป ! ไป !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] No! No!",
+      "th": "ไม่ ! ไม่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! Oh, God! No! No! Sebastian!",
+      "th": "ไม่ ! โอ้ พระเจ้า ! ไม่ ! ไม่ ! เซบาสเตียน เซบาสเตียน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Call 911, Carlito! -Okay!",
+      "th": "แจ้ง 911 คาร์ลิโต !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus! Sebastian! Sebastian!",
+      "th": "พระเจ้า ! เซบาสเตียน ! เซบาสเตียน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck! No! No! Sebastian, please!",
+      "th": "บ้าเอ๊ย ! ไม่ ! ไม่ ! เซบาสเตียน ขอร้องล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian!",
+      "th": "เซบาสเตียน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] Fuck! Fuck!",
+      "th": "บ้าเอ๊ย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian, I am so sorry.",
+      "th": "เซบาสเตียน ฉันขอโทษจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know. I'm sorry. Shit...",
+      "th": "ฉันไม่รู้ ฉันขอโทษ เวร..."
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ...",
+      "th": "ซีเจ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck! Fuck! You gotta wake up. Come on, Sebastian. You gotta wake up! Please!",
+      "th": "บ้า ! บ้า ! นายต้องตื่นขึ้นมา เร็วเข้า เซบาสเตียน นายต้องตื่นขึ้นมา ขอร้องล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, come on. Wake up! Wake up! Sebastian!",
+      "th": "ขอร้อง เร็วเข้า ตื่นขึ้นมา ตื่นขึ้นมา เซบาสเตียน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck! Shit! Come on, you gotta wake up! You gotta wake up! Come on, please.",
+      "th": "บ้าเอ๊ย ! เวร ! เร็วเข้า นายต้องตื่นขึ้นมา ! นายต้องตื่นขึ้นมา เร็วเข้า เซบาสเตียน ขอร้อง ขอร้อง ตื่นขึ้นมา !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, wake up!",
+      "th": "นายต้องตื่นขึ้นมา เร็วเข้า เซบาสเตียน ขอร้อง ขอร้อง ตื่นขึ้นมา !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. Oh, fuck. Okay, I gotta go. I'm... I'm sorry. I'm sorry. Okay.",
+      "th": "พระเจ้า บ้าเอ๊ย โอเค ฉันต้องไปละ ฉันขอโทษ โอเคนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I'm weary.",
+      "th": "ผมเหนื่อยใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm weary, saints, as I'm sure many of you are,",
+      "th": "ผมเหนื่อยใจครับ ท่านนักบุญ ผมแน่ใจว่าคุณหลายคนก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "because here I stand again before you,",
+      "th": "เพราะผมยืนต่อหน้าทุกคนอีกครั้งตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "first for Francis Pierre, and now for one of our most beloved,",
+      "th": "ครั้งแรกสำหรับฟรานซิส ปีแอรร์ และตอนนี้ก็หนึ่งในที่รักสุดของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sebastian Jefferson Thomas.",
+      "th": "เซบาสเตียน เจฟเฟอร์สัน โทมัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "A promising young man,",
+      "th": "ชายหนุ่มที่มีอนาคตสดใส"
+    }
+  },
+  {
+    "translation": {
+      "en": "only 16 years old.",
+      "th": "อายุเพียง 16 ปี นี่คือฤดูร้อน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "This was the summer before his senior year of high school,",
+      "th": "อายุเพียง 16 ปี นี่คือฤดูร้อน... ก่อนปีสุดท้ายในโรงเรียนมัธยม และเขา เขามีความฝัน ท่านนักบุญ มีแผน"
+    }
+  },
+  {
+    "translation": {
+      "en": "and he, he had dreams, saints. Plans.",
+      "th": "ก่อนปีสุดท้ายในโรงเรียนมัธยม และเขา เขามีความฝัน ท่านนักบุญ มีแผน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dreams that will now never be realized.",
+      "th": "ความฝันที่จะไม่มีวันสมปรารถนาในตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dreams of going to college and becoming a scientist.",
+      "th": "ความฝันที่จะไปวิทยาลัย และกลายเป็นนักวิทยาศาสตร์ แทนที่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Instead, we now all sit here mourning his loss,",
+      "th": "ความฝันที่จะไปวิทยาลัย และกลายเป็นนักวิทยาศาสตร์ แทนที่... เราทุกคนจะนั่งไว้อาลัย กับการสูญเสียของเขาตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "a young man in our community full of endless promise and potential,",
+      "th": "ชายหนุ่มในชุมชนของเราที่เต็มไปด้วย อนาคตที่สดใสและศักยภาพที่ไร้ขีดจำกัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "whose life been cut short.",
+      "th": "เขามีชีวิตสั้นกว่าที่คาดไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I have to admit",
+      "th": "และผมต้องยอมรับว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I, like so many of you out there,",
+      "th": "ผมก็เหมือนหลายท่านตรงนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "have to ask, \"Where is the justice?",
+      "th": "ต้องถามว่า \"ความยุติธรรมอยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is the justice for our sons, and our daughters, and our communities?",
+      "th": "ความยุติธรรมสำหรับลูกชาย ลูกสาว และชุมชนของเราอยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "When will it end, the grieving,",
+      "th": "เมื่อไหร่มันจะจบ ความโศกเศร้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "not just for Flatbush, but for the whole nation,",
+      "th": "ไม่เพียงเพื่อย่านแฟลตบุช แต่เพื่อทั้งประเทศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and all the black and brown communities within it?\"",
+      "th": "และชุมชนผิวน้ำตาลและดำทั้งหมดในประเทศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does the Lord require of you,",
+      "th": "สิ่งที่พระเจ้าทรงต้องการจากคุณจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "but to walk just, and to be mercy,",
+      "th": "แต่ต้องเดินอย่างเที่ยงธรรม และมีเมตตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and to love and live humbly by your God?",
+      "th": "รักและอาศัยอยู่อย่างนอบน้อมเคียงข้างพระเจ้า และความสงบสุข"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the peace, that which surpasses all understanding,",
+      "th": "รักและอาศัยอยู่อย่างนอบน้อมเคียงข้างพระเจ้า และความสงบสุข ที่จะส่งผ่านความเข้าใจของเขาเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "will guard your heart and your mind through Christ Jesus.",
+      "th": "ให้กับพระเจ้า หัวใจของท่าน และจิตใจของท่านผ่านทางพระเยซูคริสต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I remember God's promises.",
+      "th": "ผมจดจำคำสัญญาของพระเจ้าได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom? -In the living room.",
+      "th": "- แม่คะ - อยู่ในห้องนั่งเล่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened?",
+      "th": "เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gloria...",
+      "th": "กลอเรีย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "She at the Kings County Hospital.",
+      "th": "เธออยู่ที่โรงพยาบาลคิงส์เค้าตี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "They said it's a nervous breakdown.",
+      "th": "พวกเขาบอกว่ามันเป็นการเจ็บป่วยทางจิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "She can't stomach to see Sebastian gone, so...",
+      "th": "เธอทนไม่ได้ที่เห็นเซบาสเตียนจากไป ก็เลย.."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Grandpa sobbing] I don't know what's gonna happen.",
+      "th": "ผมไม่รู้ว่านะเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ.",
+      "th": "ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ!",
+      "th": "ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Claudette! I know you hear me talking. -What? I just wanna be left alone!",
+      "th": "- คลอเดตต์ ! ฉันรู้ว่าเธอได้ยินฉันพูด - อะไร ฉันต้องการอยู่คนเดียว !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Jesus! Why doesn't anyone-- -Do not play with me right now,",
+      "th": "- ให้ตายสิ ทำไมใครๆ ก็ไม่... - นี่ อย่ามาล้อเล่นกับฉันตอนนี้นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-and I'm dead-ass. We need to talk. -What? What?",
+      "th": "- ฉันจริงจัง เราจำเป็นต้องคุยกัน - อะไร อะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "This some sort of joke?",
+      "th": "นี่เป็นการล้อเล่นชนิดไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Calvin, where did you get that? -You know where the hell I got it from.",
+      "th": "- แคลวิน นายเอาแผ่นนั้นมาจากไหน - เธอก็รู้ ฉันเอามาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, explain to me what's going on.",
+      "th": "ทีนี้อธิบายให้ฉันฟังว่าเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause ain't nothing been right around here since Sebastian got murdered.",
+      "th": "เพราะแถวนี้ผิดปกติตั้งแต่เซบาสเตียนถูกฆ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was a better person than me,",
+      "th": "เขาเป็นคนดีกว่าฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "and damn sure was a better friend than you.",
+      "th": "และแน่ใจมากว่าเป็นเพื่อนที่ดีกว่าเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know... I've been feeling like this should've been me.",
+      "th": "รู้ไหม... ฉันรู้สึกเหมือนมันควรจะเป็นฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then I find this shit?",
+      "th": "แล้วฉันก็เจอแผ่นนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, you tell me, am I wrong?",
+      "th": "เธอบอกฉันสิว่า ฉันเข้าใจผิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't tell if I'm being punked,",
+      "th": "ฉันดูไม่ออกว่าถูกหลอกหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "or if I'm still trying to wake up from a dream right now.",
+      "th": "หรือฉันยังพยายามตื่นจากความฝัน เดี๋ยวนี้หรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time machines?",
+      "th": "เครื่องเดินทางข้ามเวลางั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think it's a good idea for you to do anything right now, CJ.",
+      "th": "ฉันไม่คิดว่ามันเป็นความคิดที่ดี สำหรับเธอที่จะทำอะไรตอนนี้นะ ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I know how to fix this now.",
+      "th": "แต่ฉันรู้ว่าจะแก้เรื่องนี้ยังไงตอนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I... I can handle it. -You know how to fix it?",
+      "th": "- ฉันจัดการมันได้ - เธอรู้ว่าจะแก้ยังไงงั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Explain to me exactly how.",
+      "th": "อธิบายให้ฉันฟังชัดๆ สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. I'm just...",
+      "th": "ฉันไม่รู้ ฉันแค่จะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imma jump back earlier or something.",
+      "th": "ฉันจะกระโดดกลับไปก่อนหน้านี้ หรืออะไรทำนองนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna... You're just gonna jump back earlier or something?",
+      "th": "เธอแค่จะโดดกลับไปก่อนหน้านี้ หรืออะไรทำนองนี้งั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette...",
+      "th": "คลอเดตต์..."
+    }
+  },
+  {
+    "translation": {
+      "en": "explain to me exactly how you're gonna fix this,",
+      "th": "อธิบายให้ฉันฟังชัดๆ ว่า เธอจะแก้เรื่องนี้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "or I swear to God, on Pops'... grave,",
+      "th": "หรือจะให้ฉันสาบานต่อพระเจ้า ต่อหลุมศพของพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm destroying all them little science experiments you got.",
+      "th": "ว่าฉันจะทำลายการทดลองวิทยาศาสต์เล็กๆ ที่เธอมีให้หมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Calvin, I can't explain it right now.",
+      "th": "แคลวิน ฉันอธิบายตอนนี้ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about this, getting shot by police officers?",
+      "th": "แล้วเรื่องนี้ล่ะ การโดนยิงโดยเจ้าหน้าที่ตำรวจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or better yet, getting both your asses killed by them damn thugs?",
+      "th": "หรือแบบนี้ดีกว่า การที่เธอทั้งสองคน ถูกผู้ร้ายระยำฆ่าตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes, but Sebastian didn't deserve this. -No, he didn't.",
+      "th": "- ใช่ แต่เซบาสเตียนไม่สมควรได้รับแบบนี้ - ใช่ เขาไม่สมควรได้รับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "None of us do.",
+      "th": "ไม่มีใครสมควรได้รับเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "He didn't, and none of us do.",
+      "th": "เขาไม่สมควรได้รับ และไม่มีใครในพวกเราเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I just need some help first, and then I could devise a plan.",
+      "th": "ฉันแค่ต้องการความช่วยเหลือก่อน แล้วถึงจะคิดแผนขึ้นใหม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then. I'm going with you.",
+      "th": "งั้นก็ได้ ฉันจะไปกับเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Calvin, have you been listening? There's only one working time machine.",
+      "th": "ไม่ แคลวิน นายฟังอยู่หรือเปล่า มีเครื่อง เดินทางข้ามเวลาที่ใช้การได้เครื่องเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "It has to be me. There's no other way.",
+      "th": "มันต้องเป็นฉัน ไม่มีทางอื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "What you need to get it back up and running, man?",
+      "th": "เธอต้องการอะไรให้มันกลับมาปฏิบัติการได้อีกล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not \"what.\" Who.",
+      "th": "ไม่ใช่ \"อะไร\" แต่เป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit!",
+      "th": "เวร !"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ?",
+      "th": "ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ!",
+      "th": "ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] CJ! Hey! How...",
+      "th": "ซีเจ ! นี่ ! เป็น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "How you doing? Um...",
+      "th": "เธอเป็นยังไงบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry about Sebastian.",
+      "th": "เสียใจกับเรื่องเซบาสเตียนด้วยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit was crazy. It hit me hard, too.",
+      "th": "เรื่องนี้ประหลาด มันสะเทือนใจฉันมากเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. That's actually why I'm here.",
+      "th": "ฉันรู้ ที่จริงนั่นคือเหตุผลที่ฉันอยู่ตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo. You... Whatever you need. You need someone to talk to or a shoulder to cry on.",
+      "th": "นี่ เธอ อะไรก็ตามที่เธอต้องการ เธอต้องการคุยกับใครสักคน หรือ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, we need your help, okay?",
+      "th": "- ต้องการไหล่ที่จะร้องไห้ - ไม่ใช่ ฉันต้องการความช่วยเหลือ โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get dressed and meet us outside in five minutes.",
+      "th": "แต่งตัวซะ แล้วเจอเราข้างนอกในห้านาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, it's mad late! My abuela ain't gonna let me...",
+      "th": "มันดึกมาก ! ย่าของฉันจะไม่ให้ฉัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait. \"We\"?",
+      "th": "เดี๋ยว \"เรา\" งั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your bro... You brought your brother to my house?",
+      "th": "พี่ของเธอ เธอเอาพี่ชายมาบ้านของฉันหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, and we ain't asking, all right? Five minutes, and bring your tools.",
+      "th": "ใช่ เราจะไม่ขอร้อง เข้าใจไหม ห้านาที เอาเครื่องมือมาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Temporal relocation? What... Time travel?",
+      "th": "การเดินทางข้ามเวลาหรือ การเดินทางข้ามเวลางั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Man, this is... This is stupid crazy! This is like...",
+      "th": "เพื่อน เรื่องนี้บ้าบอคอแตก นี่เหมือน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[stammers] This shit is...",
+      "th": "นี่เป็น เอ่อ เครื่องนี้เป็น..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, what's going on?",
+      "th": "นี่เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sucks teeth] Y'all gotta stop telling me to be quiet, man.",
+      "th": "พวกเธอเลิกบอกฉันให้เงียบนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[CJ] My TRP took a beating from the last two jumps.",
+      "th": "เครื่องทีอาร์พีเสียหาย จากการกระโดดสองครั้งสุดท้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can upgrade it, but I think it might fry the circuit board.",
+      "th": "ฉันพัฒนาให้มันดีขึ้นได้ แต่คิดว่า มันอาจไหม้แผงวงจรไฟฟ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you fix it?",
+      "th": "นายแก้ไขมันได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eduardo] Of course, I got you. Let me work my magic.",
+      "th": "แน่นอน ฉันเข้าใจเธอ ให้ฉันร่ายมนตร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "My quantum circuit boards, the genius creation that it is,",
+      "th": "แผงวงจรไฟฟ้าควอนตัม มันเป็นการประดิษฐ์ที่เป็นอัจฉริยะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "that y'all tried to repurpose without my full authorization,",
+      "th": "นี่ พวกเธอพยายามตั้งเป้าหมายใหม่ โดยปราศจากการอนุมัติที่สมบูรณ์ของฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "will create an individual time splice for CJ.",
+      "th": "ก็จะเกิดการเชื่อมต่อเวลาเฉพาะตัวสำหรับซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "All she has to do is attune the frequency",
+      "th": "สิ่งที่เธอต้องทำคือ การปรับความถี่ให้สอดคล้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "to the TRP Three to the TRP she previously used.",
+      "th": "กับทีอาร์พีสาม กับทีอาร์พีที่เธอใช้คราวก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "That time splice will allow her to reset that moment in time.",
+      "th": "การเชื่อมต่อเวลาแบบนั้นก็จะยอมให้เธอ เปลี่ยนแปลงเวลาในชั่วขณะนั้นใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "This would seamlessly allow her to access",
+      "th": "แบบนี้จะยอมให้เธอเข้าไปสู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "that moment without Sebastian ever knowing.",
+      "th": "ชั่วขณะนั้นอย่างแนบเนียน โดยปราศจากการรับรู้ของเซบาสเตียนตลอดไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You two then jump back to present day.",
+      "th": "แล้วเธอทั้งสองคนก็กระโดดกลับมายังวันปัจจุบัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Sebastian's alive!",
+      "th": "แล้วเซบาสเตียนก็มีชีวิตอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you sure about this, bro?",
+      "th": "นายแน่ใจเรื่องนี้นะ น้องชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hell, yeah! I mean, as much as you can theoretically guarantee anything",
+      "th": "แน่นอน ผมจะบอกว่ามากเท่าที่คุณสามารถ รับประกัน..."
+    }
+  },
+  {
+    "translation": {
+      "en": "that has yet to be proven.",
+      "th": "อะไรก็ได้ที่ยังไม่ได้รับการพิสูจน์ด้วยหลักการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the only way we can know for sure is if we actually do it.",
+      "th": "แต่ทางเดียวที่เราจะรู้ได้แน่ชัดคือ ถ้าเราทำมันได้จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Eduardo.",
+      "th": "ขอบใจนะ เอ็ดวอโด"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I almost feel bad for you.",
+      "th": "รู้ไหม ฉันเกือบจะรู้สึกแย่กับนายละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really? 'Cause I'm still here, boo, princesa,",
+      "th": "จริงหรือ เพราะผมยังอยู่ที่นี่นะ ที่รัก เจ้าหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-mamacita, bae-- -Yo, yo. Yo!",
+      "th": "- แม่ ยาหยี... - นีๆ ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You gotta go, bro. -It's okay. I'm cool.",
+      "th": "- เธอต้องไปละ น้อง ให้ฉัน... - ไม่เป็นไร ผมเจ๋ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give us some time alone. -I'm cool.",
+      "th": "- ให้เราอยู่ลำพังสักพักนะ นายต้อง... - ผมเจ๋ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta, like, really calm all that down.",
+      "th": "อย่างเพลาๆ เรื่องพวกนั้นลงหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You getting a little too comfortable. -That's cool. I'm cool.",
+      "th": "- นายสบายใจมากเกินไปหน่อยนะ - เรื่องนั้นเยี่ยม ผมเจ๋ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I'll never forget this, CJ.",
+      "th": "แต่ฉันจะไม่มีวันลืมเรื่องนี้นะ ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, you will. Remember, none of this happened?",
+      "th": "ลืมสิ นายจะลืม จำไว้ว่าไม่มีเรื่องนี้เกิดขึ้นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] So close...",
+      "th": "ปิดจังเลย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You good, though? You set?",
+      "th": "แล้วเป็นยังไงบ้าง พร้อมไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your rotor-gamma photon-circuit thingy's connected and all that?",
+      "th": "พวกวงจรไฟฟ้าโฟตอนแบบหมุนด้วยรังสีแกมม่า และอะไรพวกนั้นถูกเชื่อมต่อแล้วใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got your radio station tuned",
+      "th": "เธอปรับสถานีวิทยุของเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-to the right frequencies and shit, right? -Yes.",
+      "th": "- เข้ากับความถี่ที่เหมาะแล้วใช่ไหม - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Look, go back, tell Sebastian exactly what happened, aight?",
+      "th": "เอาล่ะ ฟังนะ เธอกลับมา ก็บอกสิ่งที่เกิดขึ้นกับเซบาสเตียนให้ชัดเจนนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try to get to us before we hit Malcolm X Court,",
+      "th": "เข้าใจไหม พยายามไปถึงเรา ก่อนเราไปถึงที่ถนนแมลคอล์มเอ็กซ์คอร์ตนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then bolt out of there. Do not stay there. I'm serious.",
+      "th": "แล้วก็รีบออกจากที่นั่น อย่าอยู่ที่นั่น ฉันจริงจังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay far away from Carlito's bodega and shit,",
+      "th": "อยู่ห่างจากร้านขายของชำคาร์ลิโต และอะไรทำนองนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-and if you see Jared and-- -Calvin.",
+      "th": "- แล้วถ้าเธอเจอเจเรดกับ... - แคลวิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -I know how to avoid Jared",
+      "th": "- อะไร - ฉันรู้ว่าจะหลีกเจเรดยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "now that I've ran into him.",
+      "th": "ตอนที่ฉันชนกับเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're just stalling.",
+      "th": "นายช้าไปหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hand them over. -[sighs]",
+      "th": "ส่งพวกนั้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're just loving this, aren't you? -Uh... No. Well, yes.",
+      "th": "- เธอรักอันนี้อยู่ใช่ไหม - ไม่ เอ่อ ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if there's any way to convince you and Dennis, these are it.",
+      "th": "แต่ถ้ามีทางไหนที่จะเกลี้ยงกล่อม นายกับเดนนิสได้ มันคือพวกนี้แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, yeah, yeah. -Every second counts.",
+      "th": "- เออๆ ๆ - ทุกวินาทีมีค่านะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take it.",
+      "th": "เอาไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, man, make sure you try your hardest to convince me, all right? But just...",
+      "th": "ฟังนะ ต้องแน่ใจว่าเธอพยายาม เกลี้ยกล่อมฉันสุดๆ เข้าใจไหม แต่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just be safe, Claudette.",
+      "th": "จงปลอดภัยนะ คลอเดตต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want nothing to happen to you.",
+      "th": "ฉันไม่ต้องการให้อะไรเกิดขึ้นกับเธอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll see you yesterday.",
+      "th": "ฉันจะเจอเธอในวันวาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Jamaican man] What the bla... What the blazes is going...",
+      "th": "อะไรวะ เกิดอะไรขึ้นวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo! What y'all deal wit? Why you gotta make so much damn noise and ting?",
+      "th": "นี่ ทำไมพวกแกเสียงดังจัง พวกแกจัดการกับอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where the hell is she?",
+      "th": "เธออยู่ที่ไหนวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What took you so long? -[giggles excitedly]",
+      "th": "อะไรทำให้เธอใช้เวลานาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, what are you... What's going on?",
+      "th": "ซีเจ เธอเป็นอะไร เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No time to explain. Come on. We gotta go. -What the fuck did you do?",
+      "th": "ไม่มีเวลาอธิบาย มาเร็ว เราต้องไปละ เธอทำบ้าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Domino! Domino on ya tail.",
+      "th": "โดมิโน ! โดมินโนอยู่ท้ายของนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is this? You don't know how to play no dominoes?",
+      "th": "อะไรเนี่ย นายไม่รู้วิธีเล่นโดมิโนหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughs] -[man] Hey, sonny.",
+      "th": "นี่ พ่อหนุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You all right? You look like you could use a drink.",
+      "th": "ไม่เป็นไรใช่ไหม นายดูเหมือนต้องการเครื่องดื่มสักหน่อยนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I'm good. I'm just... I don't know. I just feel a little off today, man.",
+      "th": "ไม่ครับ ผมไม่เป็นไร แค่เอ่อ ผมก็ไม่รู้ ผมแค่รู้สึกแปลกๆ วันนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need a drink.",
+      "th": "นายต้องดื่มละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo. We gotta go, dawg. This lame-ass nigga Jared here.",
+      "th": "นี่ เราต้องไปละ ไอ้เจเรดนิโกรน่าเบื่ออยู่ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's up? You 'bout to do something, nigga?",
+      "th": "- อะไรวะ - นายจะทำอะไรบางอย่างใช่ไหม ไอ้นิโกร"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's up? -Hey, hey, hey! -Get the fuck out of here.",
+      "th": "มีอะไรวะ ออกไปจากที่นี่ซะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You better not light another one. You know these are for the cookout later.",
+      "th": "แกไม่ควรจะจุดบุหรี่อีก รู้ไหม พวกนี้สำหรับกินข้าวนอกบ้านวันหลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where did you get that?",
+      "th": "เธอเอาอันนั้นมาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ, you're headed the wrong way! We need to go to Carlito's! Come on!",
+      "th": "ซีเจ เธอมุ่งไปผิดทางนะ เราต้องไปร้านคาร์ลิโต มานี่ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Watch where you're going!",
+      "th": "ระวังที่ที่พวกเธอจะไปด้วย !"
+    }
+  },
+  {
+    "translation": {
+      "en": "And y'all still look crazy.",
+      "th": "แล้วพวกเธอก็ดูบ้าบอด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dennis] She could definitely get it, huh?",
+      "th": "เธอพอใจนายแน่ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dennis] Look at her!",
+      "th": "ดูเธอสิ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yo, don't let that Jared dude get to you, son.",
+      "th": "นี่ อย่าปล่อยให้ไอ้เจเรด ทำให้นายหงุดหงิดนะ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. I ain't thinking about him, nigga. It's just... I don't know.",
+      "th": "เปล่า ฉันไม่ได้คิดถึงไอ้นิโกร มันแค่ เอ่อ ฉันก็ไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something about today is just off, bro.",
+      "th": "บางอย่างเกี่ยวกับวันนี้แปลกๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Dennis] Word. -[Calvin] Word.",
+      "th": "- อ้อ - มันแปลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Calvin! Calvin! Oh, my God! Thank God. Come on, we gotta get out of here.",
+      "th": "แคลวิน โอ้ พระเจ้า ขอบคุณพระเจ้า มานี่ เราต้องไป เราต้องออกจากที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's wrong with y'all? -What the fuck is y'all wearing?",
+      "th": "- เกิดอะไรขึ้นกับพวกเธอ - พวกเธอใส่บ้าอะไรเนี่ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Y'all like some Space Odyssey wannabes.",
+      "th": "พวกเธอดูเหมือนจอมจักรวาล ที่ต้องการอยู่ตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Dennis, shut up! Look. -[Sebastian] We have to get outta here. -[CJ] Shh. -[Sebastian] Come on!",
+      "th": "- เดนนิส หุบปาก ! ฟังนะ - เราต้องออกจากที่นี่ มาเร็ว !"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is this? Some sort of joke?",
+      "th": "อะไรเนี่ย ล้อเล่นหรืออะไรกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit supposed to be funny? It's a damn funeral program.",
+      "th": "เรื่องนี้ควรจะน่าขันหรือ มันเป็นกำหนดการงานศพ ไอ้แผ่นนี้มีหน้าของฉันด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit got my face on it, disappearing and shit.",
+      "th": "มันเป็นกำหนดการงานศพ ไอ้แผ่นนี้มีหน้าของฉันด้วย กำลังหายไปหรืออะไรทำนองนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. I'm sorry, but you gotta listen to us, okay?",
+      "th": "ฉันรู้ ฉันเสียใจ แต่นายต้องฟังฉันนะ โอเคไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can we go? The cops about to come. Come on!",
+      "th": "เราไปได้หรือยัง ตำรวจกำลังจะมา วินาทีไหนก็ได้ เร็วเข้า !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Why would the cops come here? -You're going to get killed!",
+      "th": "- ทำไมตำรวจจะมาที่นี่ - นายจะถูกฆ่า !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] CJ.",
+      "th": "ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Okay. Real funny. Very funny, very creative.",
+      "th": "เอาล่ะ เอาล่ะ ตลกสิ้นดี ฮามาก สร้างสรรค์จริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now y'all take that stupid shit y'all got on off!",
+      "th": "ตอนนี้พวกเธอหยิบกระดาษงี่เง่า ที่เอาขึ้นมาไปซะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Y'all look ridiculous! -Look, Carlito's bodega just got robbed.",
+      "th": "- พวกนายดูไร้สาระ ! - ฟังนะ ร้านขายของชำคาร์ลิโตจะโดนปล้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We gotta get out of here. -That's what I'm trying to tell you.",
+      "th": "- เราต้องออกจากตรงนี้ - นั่นคือสิ่งที่ฉันจะบอกนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Out of the way! -Where the fuck them niggas going, man?",
+      "th": "อย่าขวางทาง ! ไอ้พวกนิโกรพวกนี้จะไปตายห่าที่ไหนวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, remember these? You gave these to me. Remember what you said?",
+      "th": "เอาล่ะ จำเรื่องพวกนี้ได้ไหม นายให้พวกนี้กับฉัน นึกถึงสิ่งที่พูดสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Over my dead body\"? That's how I got these.",
+      "th": "\"จากศพของฉัน\" นั่นคือวิธีที่ฉันได้พวกนี้มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the fuck? You got my tags? -It's what I'm trying to tell you.",
+      "th": "- อะไรวะ เธอใส่สร้อยของฉันหรือ - นั่นคือสิ่งที่ฉันพยายามจะบอกนาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Something bad is-- -Look, stop!",
+      "th": "- เรื่องแย่บางอย่างคือ... - นี่ หยุด !"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right? I don't know when you snuck off and had copies made,",
+      "th": "เอาล่ะ ฉันไม่รู้ว่าเธอถอดไป แล้วเอาไปทำเลียนแบบเมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "but that shit is bootlegged, aight?",
+      "th": "แต่แผ่นโลหะนั้นเป็นของปลอม เข้าใจไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yo, fuck y'all. We out, bro. -Calvin! Jesus Christ!",
+      "th": "- พวกห่าเอ๊ย เราไปเถอะ เพื่อน - แคลวิน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-The fuck is wrong with you, bro? Move! -Stop!",
+      "th": "- เกิดห่าอะไรขึ้นวะ เพื่อน ไป ! - ให้ตายสิ ! แคลวิน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This cannot be fucking happening! -Yo, what's going on? What's going on?",
+      "th": "- เรื่องนี้เกิดขึ้นไม่ได้นะโว๊ย - นี่ เกิดอะไรขึ้น เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ. CJ, be calm.",
+      "th": "ซีเจ ซีเจ ใจเย็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "NYPD, where y'all coming from?",
+      "th": "เอ็นวายพีดี พวกคุณมาจากไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't touch your pockets. -Keep your mouth shut.",
+      "th": "- อย่าเอาอะไรออกจากกระเป๋ากางเกง - เธอปิดปากซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Officer, the ones you want-- -Keep your mouth shut!",
+      "th": "- เจ้าหน้าที่คะ คนที่พวกคุณต้องการอยู่ทางนั้น - ฉันเพิ่งบอกให้เธอปิดปากไง !"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm telling them what's going on!",
+      "th": "ฉันพยายามจะบอกพวกเขาว่าเกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's going on? -Stop talking! I'm serious.",
+      "th": "- หยุดพูดซะ ! ตอนนี้ฉันไม่ได้พูดเล่นนะ - เกิดอะไรขึ้นทีนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I need to see some IDs now. -[Calvin] What's the problem, officer?",
+      "th": "- เอาล่ะ ผมต้องการดูบัตรประชาชนเดี๋ยวนี้ - เดี๋ยวนะ มีปัญหาอะไร เจ้าหน้าที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I said IDs, now.",
+      "th": "ผมพูดว่าบัตรประชาชนเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What you need to see IDs for? -IDs, now!",
+      "th": "- คุณต้องการดูบัตรประชาชนเพื่ออะไร - บัตรประชาชนเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What, are you tough?",
+      "th": "อะไร นายแน่หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Calvin. -[officer] Now!",
+      "th": "- แคลวิน - เดี๋ยวนี้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boy, you'd better shit me an ID, quick.",
+      "th": "ไอ้หนุ่ม นายควรเอาบัตรประชาชน ให้ผมดูเร็วๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You think I'm playing? -[Dennis] Give it to him, dawg.",
+      "th": "- นายคิดว่าฉันล้อเล่นกับนายหรือไง - ก็ให้เขาไปสิ เพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Calvin] Bullshit, man. -[officer] Yeah, whatever. Stay put.",
+      "th": "- ไร้สาระ - เออ อะไรก็ช่าง อย่าขยับนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We got the right to know what's going on. -Everyone be quiet, okay?",
+      "th": "- เรามีสิทธิ์จะรู้ว่าเกิดอะไรขึ้น - ผมต้องการให้ทุกคนเงียบ โอเคนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If this got anything to do with Carlito's getting robbed, we didn't do it.",
+      "th": "เรื่องนี้เกี่ยวอะไรกับร้านขายของชำคาร์ลิโต โดดปล้นหรือเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I didn't mention that. -[CJ] Calvin, no. Stop.",
+      "th": "- ผมไม่ได้เอ่ยถึงเรื่องนั้น - แคลวิน ไม่ หยุด !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-On the ground! -He didn't do anything!",
+      "th": "- เขาไม่ได้ทำอะไร ! - หมอบลงกับพื้นเดี๋ยวนี้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get on the ground! On the ground, now!",
+      "th": "หมอบลงกับพื้น ! หมอบลงกับพื้น !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He didn't do anything! -Get on the ground!",
+      "th": "เดี๋ยวนี้ ! หมอบลงกับพื้น ! หมอบลงกับพื้น !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-On the ground! -[Sebastian] CJ, let's go!",
+      "th": "- หมอบลงกับพื้น ! - หยุด ! ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get the fuck down! -Sebastian!",
+      "th": "- หมอบลง ! - เซบาสเตียน ! - หมอบลง ! - ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[CJ] Sebastian! -[Sebastian grunts]",
+      "th": "- เซบาสเตียน ! - ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ! [grunts]",
+      "th": "ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer] Stop resisting!",
+      "th": "อย่าขัดขืน !"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[CJ] Sebastian! -[officer] Stay the fuck down!",
+      "th": "- เซบาสเตียน ! - หมอบเฉยๆ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Calvin] It's okay.",
+      "th": "โอเค"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll see you yesterday.",
+      "th": "ฉันจะเจอเธอในวันวาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] Why didn't we stick to the plan and stop the robbers at the bodega?",
+      "th": "ทำไมเราไม่ยึดตามแผนการ และหยุดโจรที่ร้านขายของชำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "th": "อะไรนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many times have you jumped back, CJ?",
+      "th": "เธอกระโดดกลับไปกี่ครั้ง ซีเจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not stupid! I... You're wearing different clothing.",
+      "th": "ฉันไม่โง่นะ เธอใส่ชุดไม่เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Claudette!",
+      "th": "คลอเดตต์ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got no right to hide shit from me.",
+      "th": "เธอไม่มีสิทธิ์จะปิดบังเรื่องนี้กับฉัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How many times have you jumped back? -Once.",
+      "th": "- เธอกระโดดกลับไปกี่ครั้งแล้ว - แค่ครั้งเดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just once? -Yes, just once, I'm serious.",
+      "th": "- ครั้งเดียวหรือ - ใช่แค่ครั้งเดียว จริงๆ นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "th": "ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had a surefire plan! And then you come a minute late,",
+      "th": "เรามีแผนการที่แน่นอน แล้วเธอก็มาสายหนึ่งนาที"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we don't go through with it. Why?",
+      "th": "แล้วเราก็ไม่ทำตามที่ตกลงกันไว้ ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why? I'm asking a question!",
+      "th": "ทำไม ฉันกำลังถามอยู่นะ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because you died, Sebastian.",
+      "th": "เพราะนายตาย เซบาสเตียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You died...",
+      "th": "นายตาย..."
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause the surefire plan fell through.",
+      "th": "เพราะแผนที่แน่นอนใช้การไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "But remember, now that I went back, it's like none of it happened.",
+      "th": "แต่จำไว้ ตอนที่ฉันกลับไป มันเหมือนไม่มีอะไรเกิดขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no, CJ. You just told me that I get murdered!",
+      "th": "ไม่ๆ ๆ ซีเจ เธอบอกฉันว่า ฉันโดนฆ่า !"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. It's because we didn't do it right.",
+      "th": "ฉันรู้ มันเป็นเพราะเราทำมันไม่ถูกต้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, CJ, that's it. We're not... We can't do this anymore.",
+      "th": "ไม่ ซีเจ พอแล้ว เราไม่ เราทำแบบนี้ไม่ได้อีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not willing to risk your life or my life ever again.",
+      "th": "ฉันจะไม่เต็มใจเสี่ยงชีวิตของเธอหรือของฉัน อีกตลอดไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're giving up?",
+      "th": "เธอจะล้มเลิกหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "On me?",
+      "th": "กับฉันหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "On Calvin?",
+      "th": "กับแคลวินหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought your friends were like your chosen family.",
+      "th": "ฉันคิดว่าเพื่อนของเธอก็เหมือน คนในครอบครัวที่เธอเลือกเสียอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are.",
+      "th": "เธอเป็นนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't afford to lose any more.",
+      "th": "ฉันไม่สามารถให้มีความสูญสียได้อีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sebastian] You coming?",
+      "th": "ตามมาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "th": "เออ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry.",
+      "th": "ขอโทษนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ! CJ! What the fuck are you doing?",
+      "th": "ซีเจ ! ซีเจ ! เธอทำบ้าอะไรวะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! Stop! CJ, don't do this!",
+      "th": "หยุด ! หยุด ! อย่าทำแบบนี้ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! CJ!",
+      "th": "หยุดนะ ! ซีเจ !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "th": "เอาล่ะ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Five...",
+      "th": "ห้า..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are the... Where are the keys to the garage?",
+      "th": "กุญแจเปิดโรงรถอยู่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "...four...",
+      "th": "สี่..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Grandpa] Boy, what is wrong with you?",
+      "th": "- กุญแจอยู่ไหน - ไอ้หนู !"
+    }
+  },
+  {
+    "translation": {
+      "en": "...three...",
+      "th": "สาม..."
+    }
+  },
+  {
+    "translation": {
+      "en": "CJ...",
+      "th": "- ซีเจ..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, Sebastian.",
+      "th": "ฉันรักเธอ เซบาสเตียน"
+    }
+  }
+]

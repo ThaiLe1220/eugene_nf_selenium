@@ -1,0 +1,7334 @@
+[
+  {
+    "translation": {
+      "en": "[man 1] Uh, this is Rattlesnake. Hostiles in the area.",
+      "ko": "여기는 래틀스네이크, 적군 발견"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Copy.",
+      "ko": "알았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 1] Put the Gumps out! -[gunshots]",
+      "ko": "\"본 사람이 거의 없는 유령 같은 존재\" 검프 내보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Let's go, let's go!",
+      "ko": "진입! \"미 국방부는 코발의 커가는 세력을 막고자\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 3] Jesus! IED blast ahead! Gumps down! We cannot move forward!",
+      "ko": "제길, 전방에 IED 폭발 검프 폭파, 진입 불가다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 4] Sarge, it's a fuckin' ambush! -[man 3] Fuck, they're everywhere!",
+      "ko": "상사님, 매복입니다! 사방에 적입니다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take cover!",
+      "ko": "엄폐하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take fucking shelter now!",
+      "ko": "당장 몸을 숨겨!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 5] We need to fall back!",
+      "ko": "후퇴해야 합니다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Contact! Contact! West side checkpoint!",
+      "ko": "교전이다! 서측 검문소!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Man down! Over!",
+      "ko": "부상자 발생, 오버!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 6] Fuck! They took out the APC. -[man 7] Sarge, we need to fall back.",
+      "ko": "썅! 장갑차가 당했습니다 후퇴해야 합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not leaving anyone behind!",
+      "ko": "부상자 두곤 못 간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] Bigfoot, where are you? Over!",
+      "ko": "빅풋, 어디 있나? 오버!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bigfoot] I'm on my way. Are we pushing through?",
+      "ko": "가고 있습니다, 진입합니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] Negative. We cannot move forward.",
+      "ko": "아니다, 진입할 수 없다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think we lost the entire Gump unit, and we have a man trapped. Over!",
+      "ko": "검프는 전멸한 거 같고 동료 하나가 갇혔다, 오버!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 8] Can't see shit! Where the fuck are the Gumps?",
+      "ko": "아무것도 안 보여 검프는 어디 있는 거야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gomez! Get your ass over here.",
+      "ko": "고메스! 당장 이리 와!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where the fuck are they shooting from? -They're fuckin' everywhere.",
+      "ko": "대체 어디서 쏘는 거야? 사방에서 쏩니다 검프는 다 어딨습니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where the fuck are the Gumps? -[man 9] I've got you!",
+      "ko": "사방에서 쏩니다 검프는 다 어딨습니까? 나한테 맡겨"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to get him out of there. See a way through?",
+      "ko": "저 녀석 데려와야 해 뚫을 수 있겠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes, sir. -Okay, we'll provide covering fire.",
+      "ko": "- 네 - 좋다, 엄호해 주겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gomez, go, go, go!",
+      "ko": "고메스, 가라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go! -Open fire!",
+      "ko": "- 가! - 발포한다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Contact! Covering fire now!",
+      "ko": "공격하라! 엄호 사격 실시!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go, go, go, go, go!",
+      "ko": "어서 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gomez] Two o'clock.",
+      "ko": "2시 방향!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gomez] Fuck! Krasnys all over!",
+      "ko": "제기랄! 사방에 크라스니군이다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bigfoot] Rattlesnake, I need cover! [Sgt.] Concentrate fire on the building.",
+      "ko": "- 래틀스네이크, 엄호 요청한다! - 건물에 집중 사격하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bigfoot] Sarge, we can't get to him! It's too far.",
+      "ko": "상사님, 너무 멀어서 못 가겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] I repeat, I'm not leaving anyone behind.",
+      "ko": "반복한다, 부상자 두고 못 간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[unintelligible] -Let's go! Cover fire, now!",
+      "ko": "어서 가! 엄호 사격하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "ko": "뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sgt.] Cover! -Contact!",
+      "ko": "- 엄호! - 공격!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go! -Bigfoot!",
+      "ko": "- 가! - 빅풋!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] Cover fire, now!",
+      "ko": "엄호 사격하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now! -[Bigfoot] Reloading!",
+      "ko": "- 엄호! - 재장전!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cover!",
+      "ko": "엄호해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] Bigfoot!",
+      "ko": "빅풋"
+    }
+  },
+  {
+    "translation": {
+      "en": "[groans] I'm hit!",
+      "ko": "맞았다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 11] Man down! Man down!",
+      "ko": "부상자 발생!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bigfoot] Rattlesnake, come on. I need cover. I'm hit!",
+      "ko": "래틀스네이크, 엄호를 요청한다 총에 맞았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] This is Rattlesnake. I hear you loud and clear.",
+      "ko": "래틀스네이크다, 잘 알았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We'll be there. Stay where you are. -Rattlesnake,",
+      "ko": "데리러 갈 테니 꼼짝 마라 래틀스네이크, 여기는 롤링 선더"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is Rolling Thunder.",
+      "ko": "래틀스네이크, 여기는 롤링 선더"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unidentified vehicle approaching at high speed.",
+      "ko": "미확인 차량이 빠르게 접근 중 공격할 듯하다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Potential attack. Requesting permission to engage.",
+      "ko": "미확인 차량이 빠르게 접근 중 공격할 듯하다 타격 허가 바람"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold on. I got you, buddy. Come on.",
+      "ko": "버텨, 내가 왔어, 힘내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Permission denied. Two of our men trapped.",
+      "ko": "허가 못 한다, 대원 둘이 갇혀있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have an additional 38 men on the ground.",
+      "ko": "다른 대원 38명도 교전 중이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're a priority. I need you to fall back. Over.",
+      "ko": "그들이 우선이니 후퇴하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me get my men out!",
+      "ko": "대원들부터 데려오겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bale, confirm Hellfire with Captain Brydon.",
+      "ko": "베일, 브라이던 대위님께 공격 허가받아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir.Base, this is Rolling Thunder,",
+      "ko": "네 본부, 여기는 롤링 선더 공격 허가 바란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "requesting permission for air strike. Over.",
+      "ko": "본부, 여기는 롤링 선더 공격 허가 바란다 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I need Sector 9. -Here, sir.",
+      "ko": "- 9지구 어딘가? - 여깁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Put it up. -Yes, sir.",
+      "ko": "- 영상 띄워 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rattlesnake, I need that cover! Do you copy?",
+      "ko": "래틀스네이크, 엄호해 달라! 들리는가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay there, hold position. We'll come get you.",
+      "ko": "현 위치 사수하라, 금방 가겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rattlesnake, I need you to fall back, over.",
+      "ko": "래틀스네이크, 후퇴하라, 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] I repeat! Two of our men trapped! Over!",
+      "ko": "반복한다! 대원 둘이 갇혀있다, 오버!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Amber Base,",
+      "ko": "앰버 기지, 여기는 롤링 선더"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is Rolling Thunder. Do I have permission to engage?",
+      "ko": "앰버 기지, 여기는 롤링 선더 공격 허가 바란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a heavily armored truck, broad wheelbase.",
+      "ko": "대형 중무장 트럭이 포착됐다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-High risk, mobile launcher. -Rolling Thunder,",
+      "ko": "기동 발사대일 확률이 높다 롤링 선더, 여기는 앰버 기지 명령을 기다려라"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is Amber Base, hold for command.",
+      "ko": "롤링 선더, 여기는 앰버 기지 명령을 기다려라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Truck's too close to our men to risk Hellfire.",
+      "ko": "타격하기엔 아군과 너무 가깝다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rattlesnake, do you copy? I'm getting fucking hit down here!",
+      "ko": "래틀스네이크, 들리는가? 사방에서 퍼붓는다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Come on!",
+      "ko": "꼭 붙어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] All right, Fire team, prepare for cover fire.",
+      "ko": "좋다, 사격팀, 엄호 준비하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a launch-- That's a launcher, sir.",
+      "ko": "발사대야, 발사대입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over.",
+      "ko": "오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "No launcher visible in my feed.",
+      "ko": "여기선 발사대가 안 보인다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fire request denied. -I'm positive that's a launcher, sir.",
+      "ko": "승인 거부한다 발사대가 틀림없습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Impact is imminent. Over.",
+      "ko": "폭격 임박, 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold fire till I clear my men!",
+      "ko": "거부한다잖아! 구조할 때까지 기다려!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have 38 men on ground, plus two exposed. They'll all die.",
+      "ko": "대원 38명에 둘은 노출됐다 이러다 다 죽는다"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not your call.",
+      "ko": "자네는 물러나 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bigfoot] Rattlesnake, do you copy?",
+      "ko": "래틀스네이크, 들리는가? 총격을 받고 있다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm getting fucking hit here! -[Bale] Harp?",
+      "ko": "래틀스네이크, 들리는가? 총격을 받고 있다! - 하프 - 금방 간다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] We'll be there! Stay where you are!",
+      "ko": "- 하프 - 금방 간다! 현 위치 사수하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's get those two Marines.",
+      "ko": "저 둘을 데려오자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go! -[shouting]",
+      "ko": "- 진입! - 진입!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go! Moving out!",
+      "ko": "진입해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's get them! Let's go!",
+      "ko": "구조해! 어서 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "West flank, be ready!",
+      "ko": "서측, 교전 준비!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger close.",
+      "ko": "위험 임박"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[beeping] -[Harp] Target locked.",
+      "ko": "- 목표물 조준 완료 - 젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Goddammit! -Abort, abort!",
+      "ko": "- 목표물 조준 완료 - 젠장! - 철수! - 엄호!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sgt.] Take cover. -Stand down.",
+      "ko": "- 철수! - 엄호! 중단해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What are you doing, Harp? -[beeping]",
+      "ko": "뭐 하시는 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "DA1 off the rail on three…",
+      "ko": "미사일 발사 3초 전"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stand down. -[beeping]",
+      "ko": "중단하라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Harp] …two, -[sighs]",
+      "ko": "2"
+    }
+  },
+  {
+    "translation": {
+      "en": "-…one. -[beeping]",
+      "ko": "1"
+    }
+  },
+  {
+    "translation": {
+      "en": "Incoming!",
+      "ko": "미사일이다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goddammit, Harp!",
+      "ko": "제기랄, 하프!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck, Harp?",
+      "ko": "제정신이십니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You disobeyed a direct order.",
+      "ko": "직속 명령을 어기셨습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sgt.] You son of a bitch!",
+      "ko": "이 개새끼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You killed 'em!",
+      "ko": "네가 죽였어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You killed 'em!",
+      "ko": "네가 죽였어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brydon] Two US Marines.",
+      "ko": "미 해병대 2명 사망"
+    }
+  },
+  {
+    "translation": {
+      "en": "And one US Army Gump destroyed.",
+      "ko": "미 육군 검프 1대 파괴"
+    }
+  },
+  {
+    "translation": {
+      "en": "I made the call that felt most correct given the intel available--",
+      "ko": "당시 정보를 통해 가장 적합한 결정을…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Brydon] At the time.",
+      "ko": "내렸겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "We know.",
+      "ko": "알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "With all due respect, Captain, with 40 men on the ground, I saved 38,",
+      "ko": "외람된 말씀이오나 제가 밀러 상사와 호송대까지"
+    }
+  },
+  {
+    "translation": {
+      "en": "including Master Sergeant Miller and his convoy.",
+      "ko": "40명 중 38명을 구했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Miller had been given the chance, he would've tried to save all 40.",
+      "ko": "상사에게 기회가 있었다면 40명을 다 구하려 했을 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you took that option away from him.",
+      "ko": "자네가 그 기회를 빼앗았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "When did you do your basic?",
+      "ko": "기초 훈련은 언제 받았나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Three years ago. Parris Island.",
+      "ko": "패리스섬에서 3년 전입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you ever experienced a mass-casualty encounter, other than from behind your screen?",
+      "ko": "대량 사상 현장을 화면에서 말고 직접 본 적 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Have you spent time in a conflict zone, Harp?",
+      "ko": "접전지 근무 경험이 있느냐는 말이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, ma'am, but I-- -Thank you, Lieutenant.",
+      "ko": "- 없습니다, 하지만… - 됐네, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's your deployment drive.",
+      "ko": "자네 이력 드라이브다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain, this can't be the only option.",
+      "ko": "대위님, 꼭 이래야 합니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They wanted to court-martial you.",
+      "ko": "자넬 군법회의에 넘기려 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I fought for you. -What am I gonna tell Olivia?",
+      "ko": "- 내가 막았지 - 올리비아한테 뭐라고 합니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell her you're going on an all-expenses-paid refresher",
+      "ko": "공짜로 연수 떠난다고 해 세상을 더 안전하게 지키는 훈련 받는다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "in how to make the world a safer place.",
+      "ko": "세상을 더 안전하게 지키는 훈련 받는다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Until when? -Until you pass the assessment.",
+      "ko": "- 언제까지 말입니까? - 평가에 통과할 때까지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And when's that gonna be?",
+      "ko": "그게 언젠데요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "When's that gonna be, sir?",
+      "ko": "'대위님' 붙여야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I like you, Harp.",
+      "ko": "난 자네가 마음에 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're precise, efficient. Brilliant drone pilot.",
+      "ko": "정확하고 능률적인 유능한 드론 조종사지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you disobeyed a direct order.",
+      "ko": "하지만 직속 명령을 어겼어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Consider yourself lucky today.",
+      "ko": "이걸로 끝나길 다행으로 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your CO at Camp Nathaniel is a Captain Leo.",
+      "ko": "네 지휘관은 캠프 너새니얼의 리오 대위다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Report to him.",
+      "ko": "그자에게 가봐라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Camp Nathaniel? That's where the platoon's based.",
+      "ko": "캠프 너새니얼이면 그 소대 주둔지 아닙니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep your head down. See it as an opportunity to meet your fellow servicemen.",
+      "ko": "말썽 피우지 말고 동료 병사들 만날 기회로 여겨라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pray you're a fast learner.",
+      "ko": "습득 능력이 좋길 바란다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dismissed.",
+      "ko": "해산"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[buzzer] -[man 1] Let's go, guys. Let's get moving!",
+      "ko": "나가자, 모두 전진해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Straight ahead, straight ahead.",
+      "ko": "앞으로!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Move it, soldier. This is your new home, maggots.",
+      "ko": "빨리 움직여라 여기가 새집이다, 구더기들아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get into three separate lines to get scanned in.",
+      "ko": "3줄로 서서 스캔 받도록"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Pronto! Double-time! Move! -[aircraft roars overhead]",
+      "ko": "빨리 움직여라! 빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to Camp Nathaniel.",
+      "ko": "캠프 너새니얼에 잘 왔다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll be seeing a lot of my pretty face.",
+      "ko": "이 미남을 자주 보게 될 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get scanned in by the Gumps and keep it moving.",
+      "ko": "검프한테 스캔 받고 계속 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your digs are in Sections 2 and 4, ahead on your left.",
+      "ko": "너희 숙소는 전방 좌측 2구역과 4구역이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep it moving, soldier.",
+      "ko": "계속 앞으로 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go. What are you waiting for?",
+      "ko": "좀 가자, 뭘 꾸물대?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Don't be shy.",
+      "ko": "어서, 부끄러워 말고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[beeping] -Look at them straight in the eye. -Do not hesitate. -[Gump beeps]",
+      "ko": "눈을 똑바로 쳐다봐 우물쭈물하지 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] They smell fear, boys. Keep it moving, soldiers. Come on!",
+      "ko": "겁먹으면 바로 안다 계속 가라, 녀석들아, 어서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, eyes on the prize, soldier. Eyes on the prize. Come on.",
+      "ko": "이봐! 집중 안 하냐? 집중해라, 어서 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Left foot, right foot, keep it going. Why are you being so slow? Come on!",
+      "ko": "왼발, 오른발, 계속 가 왜 이리 굼떠? 빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me. Hi, I'm looking for Captain Leo.",
+      "ko": "잠깐만 이봐, 리오 대위님을 찾는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sorry. I'm looking for Captain Leo. -Leo?",
+      "ko": "- 저기, 리오 대위님을 찾는데 - 리오요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh man. I don't know. You better talk to Colonel Eckhart.",
+      "ko": "잘 모르겠습니다 엑하트 대령님께 물어보십시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's by the medical tent right there. -Thank you.",
+      "ko": "- 의무대 막사에 계십니다 - 고마워"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Hey! I am not gonna let my men bleed out on this stretcher here. Move!",
+      "ko": "거기! 이 밖에서 검사받기 싫으면 움직여!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Make room. Got another one coming.",
+      "ko": "자리 만들어, 부상자 추가다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Colonel Eckhart?",
+      "ko": "엑하트 대령님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lieutenant Harp, sir.",
+      "ko": "하프 중위입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Posted here from Creech Air Force Base. Looking for Captain Leo.",
+      "ko": "크리치 공군 기지에서 발령받아 리오 대위를 찾고 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] You must've really fucked up if they sent you to Leo.",
+      "ko": "리오한테 보냈다니 제대로 죽 쒔나 보군"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, sir?",
+      "ko": "무슨 말씀이십니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't have permission to speak until I ask you a question.",
+      "ko": "내가 묻기 전엔 입 떼지 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "You even know why you're here?",
+      "ko": "여기 왜 왔는지는 아나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Experientum Auctoriat, sir. -\"Authority of experience.\"",
+      "ko": "'엑스페리엔툼 아욱토리아트' 차원에서입니다 '경험에서 오는 권위'라고 해 라틴어 쓰기는, 읊어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't give it a Latin name, shit. Explain it to me.",
+      "ko": "'경험에서 오는 권위'라고 해 라틴어 쓰기는, 읊어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, it's an Ethics Committee dictate, sir.",
+      "ko": "윤리위원회 명령으로서"
+    }
+  },
+  {
+    "translation": {
+      "en": "It proposes UAV pilots would exercise greater caution if they experienced--",
+      "ko": "무인항공기 조종사가 실전 경험으로 더 신중하게…"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Ethics Committee is a PR team.",
+      "ko": "윤리위원회는 홍보팀이고"
+    }
+  },
+  {
+    "translation": {
+      "en": "This dictate is a bullshit pass for pilots who fuck up.",
+      "ko": "그 명령은 죽 쑨 놈들한테 주는 면책권이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You killed two marines. You should be in jail.",
+      "ko": "해병 둘을 죽였으면 영창에 갔어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Someone deemed the dollar value of your training",
+      "ko": "그런데 누군가가 그 둘의 목숨값보다"
+    }
+  },
+  {
+    "translation": {
+      "en": "to be higher than the lives of those two men.",
+      "ko": "널 훈련하는 게 값지다고 판단한 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you survive, Air Force keeps a pilot.",
+      "ko": "살아남으면 공군은 조종사 하나 건지는 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't, you're a cautionary tale to all the other fly-by-wire assholes.",
+      "ko": "아니면 컴퓨터로 조종하는 새끼들한테 교훈으로 남겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-With all due respect, sir-- -I didn't ask you a question, son.",
+      "ko": "외람되지만… 내가 질문했나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Block 13. Follow the music.",
+      "ko": "13블록이다, 음악을 따라가라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you, Colonel.",
+      "ko": "감사합니다, 대령님"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] Harp…",
+      "ko": "하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "…he's not like us.",
+      "ko": "그는 우리와 다르다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] This is ridiculous.",
+      "ko": "기가 차서 진짜"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you believe we have to read all this and file it?",
+      "ko": "이걸 다 읽고 철하라니 말이 돼?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be quiet!",
+      "ko": "조용히 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[female announcer] Remaining charging time for Gump unit C-45, 20 minutes.",
+      "ko": "검프 부대 C-45 충전 잔여 시간 20분"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you Captain Leo?",
+      "ko": "리오 대위님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lieutenant Harp, sir.",
+      "ko": "하프 중위입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My deployment drive, sir. -Shh!",
+      "ko": "제 이력 드라이브입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lieutenant Thomas Harp.",
+      "ko": "토머스 하프 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tier three UAV pilot,",
+      "ko": "무인항공기 3급 조종사"
+    }
+  },
+  {
+    "translation": {
+      "en": "56,000 flight hours,",
+      "ko": "56,000 비행시간"
+    }
+  },
+  {
+    "translation": {
+      "en": "99% performance record, and 99% discipline.",
+      "ko": "성과 달성 99%에 훈련 성적 99%"
+    }
+  },
+  {
+    "translation": {
+      "en": "Engaged to Olivia Rose Meyer of Carlsbad.",
+      "ko": "칼즈배드 출신 올리비아 로즈 마이어와 약혼"
+    }
+  },
+  {
+    "translation": {
+      "en": "To be married in Palm Springs.",
+      "ko": "팜스프링스에서 결혼할 예정"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a very nice part of the world.",
+      "ko": "끝내주게 멋진 곳이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did I leave anything out other than your kills and commendations",
+      "ko": "자네 실적과 표창 빼고 언급 안 한 게 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "or the fact that you can't appreciate culture,",
+      "ko": "문화를 즐길 줄 모르고"
+    }
+  },
+  {
+    "translation": {
+      "en": "or you just don't know when to shut the fuck up?",
+      "ko": "입 처닫을 줄 모른다는 거?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -No, Captain.",
+      "ko": "- 없습니다 - 칭호 붙여라"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Captain. [Leo] Very good.",
+      "ko": "- 없습니다, 대위님 - 그렇지"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many insurgents have you killed, Harp?",
+      "ko": "반군을 몇이나 죽였지, 하프?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-163. -Collateral?",
+      "ko": "- 163명입니다 - 부차적 피해는?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My numbers are consistent with mission goals and flight hours, sir.",
+      "ko": "임무 목표와 비행시간을 토대로 기록된 수치입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your numbers? [chuckles]",
+      "ko": "수치?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goddamn, you a cold motherfucker. [laughs]",
+      "ko": "빌어먹을 냉혈한 나셨군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here.",
+      "ko": "여기"
+    }
+  },
+  {
+    "translation": {
+      "en": "Grab that and follow me.",
+      "ko": "이거 들고 따라와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Far too many names to memorize and recite, sir.",
+      "ko": "다 외우고 나열하기엔 너무 많습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you could, would you really want to?",
+      "ko": "외울 수 있다면 외우긴 하겠고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm aware we kill people, Captain.",
+      "ko": "우리가 사람을 죽인다는 거 잘 압니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you were aware of that, you wouldn't be here.",
+      "ko": "그걸 알았다면 여기 오지도 않았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You a quartermaster?",
+      "ko": "보급관이십니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I were…",
+      "ko": "그렇다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "would you be disappointed?",
+      "ko": "실망인가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Why would I be disappointed? -'Cause that means you flew 10,000 miles",
+      "ko": "왜 실망이겠습니까? 그 먼 길을 날아왔는데 장비나 배급하게 생겼으니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "to sign equipment out of a warehouse.",
+      "ko": "그 먼 길을 날아왔는데 장비나 배급하게 생겼으니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "We all play our part.",
+      "ko": "각자 임무가 있는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "The fuck do you think you are?",
+      "ko": "네가 뭐라고 지껄여?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some Academy kid?",
+      "ko": "사관학교 졸업생?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy pay your way through cadet school so you could mind your Ps and Qs?",
+      "ko": "학업에만 열중할 수 있도록 아빠가 학비 대주셨나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "With all due respect, I put myself through cadet school.",
+      "ko": "외람된 말씀이지만 제힘으로 학교 졸업했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir.",
+      "ko": "대위님"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "No what, Captain?",
+      "ko": "뭐가 아닙니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] No, I'm not a quartermaster.",
+      "ko": "난 보급관이 아니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to deliver these vaccines to a clinic.",
+      "ko": "이 백신을 진료소로 갖다줘야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Twenty klicks outside the wire.",
+      "ko": "통제선 너머 20km 밖"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's an outbreak of cholera, and it's spreading fast.",
+      "ko": "콜레라가 발병했고 빠르게 퍼지고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "It might be a war zone, but women and children still get sick.",
+      "ko": "전쟁통에서도 여자와 아이는 여전히 병들지"
+    }
+  },
+  {
+    "translation": {
+      "en": "So you're \"hearts and minds,\" sir?",
+      "ko": "마음 얻는 전령이신 건가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. I'm hearts and minds. Ostensibly. [chuckles lightly]",
+      "ko": "그렇지, 마음 얻는 전령 표면상으론"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, what do you really do?",
+      "ko": "진짜 하시는 일은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I chase ghosts.",
+      "ko": "유령을 쫓아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sorry, what? -[Leo chuckles]",
+      "ko": "뭐라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "MARSOC. Marine Special Operations.",
+      "ko": "마속, 해병 특수전사령부 소속이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I locate and remove advanced weapons from insurgents beyond the wire.",
+      "ko": "통제선 너머 반군이 보유한 첨단 무기를 찾아내 제거한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "And what do you do? Put them in filing cabinets?",
+      "ko": "제거한 다음엔요? 서류 보관함에 넣나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the latest in counter-intel technology.",
+      "ko": "최첨단 방첩 기술이랄까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beats the hell out of those Russian hackers.",
+      "ko": "러시아 해커들한테 절대 안 당하거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's your NDA.",
+      "ko": "비밀 유지 서약서다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You can sign it or read all 90 pages. -Oh. No, sir.",
+      "ko": "서명하든가 90쪽 다 읽든가 아닙니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome, Lieutenant.",
+      "ko": "잘 왔다, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ever heard the name Viktor Koval?",
+      "ko": "빅토르 코발이라고 들어봤나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Heard insurgents say it on intercepted radio comms.",
+      "ko": "네, 무전 감시 중 반군이 말하는 걸 들었습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Forget what you heard in the air. You're on the ground now, kid.",
+      "ko": "공중에서 들은 건 잊어 자넨 이제 육상에 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Viktor Koval is a Krasny warlord.",
+      "ko": "빅토르 코발은 크라스니군 지도자다"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Krasny wanna make the Ukraine a part of Russia.",
+      "ko": "그들은 우크라이나를 러시아 속국으로 만들려 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Harp] Like in the good old days. -Opposing them",
+      "ko": "- 옛날처럼 말이죠 - 그에 맞선 이들이…"
+    }
+  },
+  {
+    "translation": {
+      "en": "are the Resistance.",
+      "ko": "저항군이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're a militia set up to defend the independence of the Ukraine.",
+      "ko": "우크라이나의 독립을 수호하려고 결성된 의용군이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the Krasnys are getting stronger with the full support of Moscow.",
+      "ko": "그런데 러시아 정부의 전면 지원에 크라스니군이 막강해지고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a war that's got too hot for the UN,",
+      "ko": "UN에선 전쟁이 너무 격해지니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "so now we're the assholes in the middle of it,",
+      "ko": "우릴 그 중간에 끼워 넣은 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "in the demilitarized zone.",
+      "ko": "비무장 지대에"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're peacekeepers.",
+      "ko": "그게 평화유지군이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're the only thing stopping these guys from committing genocide.",
+      "ko": "이들이 떼죽임당하지 않게 지켜주는 유일한 존재요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You believe that, I have a timeshare in Florida I want to sell you.",
+      "ko": "그걸 믿다니, 플로리다에 내 별장이 있대도 믿겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, we're talking about Viktor Koval, the Terror of the Balkans.",
+      "ko": "우리 상대는 빅토르 코발이야 발칸반도의 공포"
+    }
+  },
+  {
+    "translation": {
+      "en": "And nukes.",
+      "ko": "핵무기도"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nukes?",
+      "ko": "핵무기요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's Intel that says Koval is responsible for the dirty bomb",
+      "ko": "키예프에서 폭발한 방사능 폭탄의 배후에"
+    }
+  },
+  {
+    "translation": {
+      "en": "set off in Kiev,",
+      "ko": "코발이 있다는 정보야"
+    }
+  },
+  {
+    "translation": {
+      "en": "using Russian uranium.",
+      "ko": "러시아 우라늄을 썼지"
+    }
+  },
+  {
+    "translation": {
+      "en": "This motherfucker may be responsible for 25,000 people's deaths.",
+      "ko": "이 개자식이 2만 5천 명을 죽였을 수도 있단 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "My sources tell me he's trying to get to Systema Perimeter.",
+      "ko": "놈이 시스테마 페리메트르를 노린다는군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Systema Perimeter?",
+      "ko": "시스테마 페리메트르요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's Russia's automated nuclear retaliation system.",
+      "ko": "러시아의 핵전쟁 자동화 시스템이잖습니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Exactly.",
+      "ko": "그렇지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even after Ukraine's independence,",
+      "ko": "우크라이나는 독립 이후에도"
+    }
+  },
+  {
+    "translation": {
+      "en": "the country still held one-third of Russia's nuclear arsenal.",
+      "ko": "러시아 핵무기의 3분의 1을 보유했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Silos scattered across the country at top-secret locations,",
+      "ko": "전국 곳곳 기밀 장소에 위치한 격납고는"
+    }
+  },
+  {
+    "translation": {
+      "en": "ready to strike anywhere in the world.",
+      "ko": "세계 어디든 공격할 준비가 되어있었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it was shut down like 50 years ago, after the Cold War.",
+      "ko": "하지만 50년 전쯤 봉쇄됐습니다 냉전 종식 이후에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You believe that?",
+      "ko": "그걸 믿어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You really think Russia would dismantle its one true safeguard against attack?",
+      "ko": "러시아가 정말 단 하나의 진정한 보호장치를 해체했을까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You telling me the Russian systems are still functioning?",
+      "ko": "그럼 그 시스템이 지금도 돌아간다는 건가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Koval…",
+      "ko": "그리고 코발은"
+    }
+  },
+  {
+    "translation": {
+      "en": "he's trying to get to the nukes here in Ukraine?",
+      "ko": "이곳 우크라이나의 핵미사일을 노리고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "CIA sources say that the Kremlin's lost control of Koval.",
+      "ko": "CIA 정보에 따르면 러시아에서도 통제가 안 된대"
+    }
+  },
+  {
+    "translation": {
+      "en": "My informant believes Koval's gonna make a move for those nukes",
+      "ko": "내 정보원 말로는 코발이 24시간 이내에 그 핵미사일에 접근할 거랬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "in the next 24 hours.",
+      "ko": "그 핵미사일에 접근할 거랬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if all this is true,",
+      "ko": "이 정보가 다 사실이라면"
+    }
+  },
+  {
+    "translation": {
+      "en": "imagine what he'll do if he gets his hands on those silos.",
+      "ko": "그자가 핵미사일을 얻고 무슨 짓을 할지 상상해 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. A madman with nukes.",
+      "ko": "핵을 쥔 미치광이가 되겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "A crazy terrorist with nukes.",
+      "ko": "핵을 쥔 미친 테러리스트지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Downtown Washington, New York, Paris. Who knows?",
+      "ko": "워싱턴 중심가, 뉴욕, 파리 어디든 될 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What I do know is, there won't be a pretty little wedding in Palm Springs,",
+      "ko": "확실한 건 팜스프링스에서 결혼식은 못 올릴 거란 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "unless you're wearing factor 500 UV protection.",
+      "ko": "자외선 차단 지수가 500인 옷을 입지 않는 한"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, we deliver these vaccines to the hospital,",
+      "ko": "이 백신을 진료소로 가져가면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and my informant will feed us intel on Koval's next plan.",
+      "ko": "내 정보원이 코발의 다음 계획을 알려줄 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "We ride out at dawn.",
+      "ko": "동트면 출발한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dawn?",
+      "ko": "동틀 때요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "But that's… now!",
+      "ko": "그건 지금인데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa, uh, Captain.",
+      "ko": "저기, 대위님"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, Sir?",
+      "ko": "대위님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "With all due respect, sir, I think there's been a mistake.",
+      "ko": "외람된 말씀이지만 실수가 있던 모양인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just got here.",
+      "ko": "전 이제 막 왔습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] I don't make mistakes, Lieutenant.",
+      "ko": "난 실수 따위 안 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] No, I don't mean it like that, sir.",
+      "ko": "아뇨, 그런 뜻이 아닙니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dress, Lieutenant. Double-time.",
+      "ko": "입어라, 중위, 신속하게"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's this?",
+      "ko": "이게 뭡니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wear your uniform, you'll be a standing target.",
+      "ko": "제복 입고 나가면 죽여달란 소리나 같지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thought I'd be guarding the fence, sir. -[chuckles]",
+      "ko": "담장이나 지킬 줄 알았습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't have any specialist training as a field agent.",
+      "ko": "현장 요원이 받는 특별 훈련도 못 받았는데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry. I'm special enough for both of us.",
+      "ko": "걱정 마, 자네 몫까지 내가 특별하니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck?",
+      "ko": "썅, 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck, Captain.",
+      "ko": "칭호 붙이랬다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're a-- -Your commanding officer.",
+      "ko": "- 대위님은… - 자네 지휘관이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fourth-generation biotech,",
+      "ko": "4세대 생명 공학"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'm gonna give you 60 seconds to deal with it.",
+      "ko": "60초 줄 테니 받아들여"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm-- I'm sorry, what, Captain? [clears throat]",
+      "ko": "죄송하지만 뭐라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you feel as though you can trust me, Harp?",
+      "ko": "날 믿을 수 있겠나, 하프?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I, uh-- -[Leo] We're about to enter a war zone.",
+      "ko": "- 전… - 우린 곧 접전지로 갈 텐데"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I continue to instill shock and distrust,",
+      "ko": "날 보며 계속 놀라고 불신이 생길 거라면"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll file your removal papers myself,",
+      "ko": "발령 해제 명령서 올릴 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you'll have to deal with the consequences.",
+      "ko": "그 결과는 자네가 감당해야 할 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now…",
+      "ko": "답해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "do you trust me?",
+      "ko": "날 믿나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, sir.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cool.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, what are you? Like, AI?",
+      "ko": "대위님은 AI 같은 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your cell phone's AI. A Gump's AI.",
+      "ko": "자네 휴대폰이 AI고 검프들이 AI지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a prototype. My existence is classified.",
+      "ko": "난 시제품이고 내 존재는 기밀이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're evading the question, sir.",
+      "ko": "질문을 회피하시네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Ask the right question, I'll give you the right answer.",
+      "ko": "옳은 질문을 하면 옳은 답을 해주겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. What the hell are you?",
+      "ko": "좋아요, 정체가 뭡니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want my model number or tech specs?",
+      "ko": "내 식별 번호를 묻는 건가? 기술 사양?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both are classified.",
+      "ko": "둘 다 기밀이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[soldiers laugh] -Yo!",
+      "ko": "거기!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, ten-hut!",
+      "ko": "차렷!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The fuck are you doing?",
+      "ko": "뭐 하는 짓거리야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some asshole in Arlington thinks a vending machine can do a soldier's job.",
+      "ko": "웬 알링턴 잡놈이 이 자판기가 군인 몫을 한대서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Aside from that, it's got a fucked rotor. -[Gump beeps]",
+      "ko": "이놈 로터도 고장입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want me to take the butt of my gun and bash your ugly fucking mug in?",
+      "ko": "내 총 개머리판 자리에 네 대가리 달아 볼까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, sir.",
+      "ko": "아닙니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Charlie Nine.",
+      "ko": "C9"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Gump beeps and whirs] -[Leo] Mount up.",
+      "ko": "똑바로 서"
+    }
+  },
+  {
+    "translation": {
+      "en": "This way, Lieutenant.",
+      "ko": "이쪽이다, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only two people have clearance to know who and what I am.",
+      "ko": "여기서 오직 두 사람만 내 정체를 알고 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Colonel Eckhart and you.",
+      "ko": "엑하트 대령님과 자네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why was I assigned to you? I'm not qualified to go chasing nukes.",
+      "ko": "왜 제가 배정된 겁니까? 핵을 찾을 자질도 없는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "You weren't assigned.",
+      "ko": "배정된 게 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I chose you.",
+      "ko": "내가 자넬 택했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't do this alone. I need eyes on my back.",
+      "ko": "나 혼자선 못 해 뒤 봐줄 사람이 있어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I needed someone who could think outside the box.",
+      "ko": "틀에 얽매이지 않는 사람이 필요했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got me?",
+      "ko": "알겠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, we're partners?",
+      "ko": "파트너인 거네요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck, no.",
+      "ko": "좆까지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're my subordinate.",
+      "ko": "넌 내 부하야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You respect me like the rest of your commanding officers.",
+      "ko": "다른 지휘관 대하듯 나한테도 깍듯이 대해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't question my authority, and we'll get on fine.",
+      "ko": "내 권위만 존중하면 죽이 잘 맞을 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our jeep's over there.",
+      "ko": "차는 저쪽에 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Captain. -At ease, soldier.",
+      "ko": "- 대위님 - 쉬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Subordinate.",
+      "ko": "부하 좋아하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey, drone boy! -Come here.",
+      "ko": "- 드론 모는 놈! - 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! What the-- [groans]",
+      "ko": "뭐야, 무슨…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stand down!",
+      "ko": "그만!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You made your point.",
+      "ko": "그만하면 됐다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You recognize my voice, you son of a bitch?",
+      "ko": "내 목소리 기억하냐, 새끼야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were only 19 years old.",
+      "ko": "둘 다 고작 19살이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing I say will bring them back.",
+      "ko": "제가 뭐라고 한들 그 애들 안 돌아와요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you staring at?",
+      "ko": "뭘 멀뚱히 쳐다봐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Load up.",
+      "ko": "차에 타"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Report of hostile activities in Sector 9.",
+      "ko": "9지구에 적대 행위 신고 접수"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eleven miles to the city.",
+      "ko": "시내까지 18km다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't control any of the area outside the wire.",
+      "ko": "통제선 밖은 어느 곳도 우리 통제를 받지 않는다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-The Marines call it-- -\"Running the gauntlet.\"",
+      "ko": "- 해병에선 일명… - '곤틀릿 형벌지'죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because attacks in it are so frequent.",
+      "ko": "걸핏하면 공격이 쏟아진다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Good.",
+      "ko": "잘 아네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[radio beeps] -[Miller] All units be advised. We are proceeding outside the wire.",
+      "ko": "전 대원은 들어라 이제 통제선 밖으로 나간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Pick up your rifle, Lieutenant.",
+      "ko": "소총 집어라, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "If they attack, you're gonna need to shoot back.",
+      "ko": "놈들이 공격해 오면 반격해야 할 테니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Must be nice.",
+      "ko": "참 좋겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fight a war, never have to leave home.",
+      "ko": "집을 떠나지 않고도 전장에서 싸울 수 있다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "When was the last time you saw her?",
+      "ko": "마지막으로 본 게 언제야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Saw who? -What do you mean \"who\"?",
+      "ko": "- 누구요? - 누구냐니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Olivia Rose Meyer.",
+      "ko": "올리비아 로즈 마이어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Last week.",
+      "ko": "지난주요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Last week. Damn.",
+      "ko": "지난주라, 참"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You fucking somebody else? -Get the fuck outta here.",
+      "ko": "- 넌 특별하다 이거야? - 무슨 말씀을"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Look, I get a sense of arrogance from you.",
+      "ko": "빼지 마 오만함이 여기까지 느껴져"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys like you, so dispassionate, so cold,",
+      "ko": "자네 같은 놈은 아주 냉철하고 차갑고"
+    }
+  },
+  {
+    "translation": {
+      "en": "so into himself.",
+      "ko": "자기한테 심취해 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Those are the guys that usually wander. -Yeah? Well, I'm faithful.",
+      "ko": "그런 놈들이 외도하는 거야 전 충실해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She faithful to you? -Yeah. She is--",
+      "ko": "- 아내도 그런가? - 네, 올리비아도…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Why am I even having this conversation? Fair game, rookie.",
+      "ko": "- 이 얘길 왜 하는 건지 - 자네가 자초했잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need your head out here, not thinking about if Olivia's at home",
+      "ko": "여기에 집중해야지 집에 있는 아내 떠올리며"
+    }
+  },
+  {
+    "translation": {
+      "en": "playing \"put the beef in my taco\" with her Pilates instructor.",
+      "ko": "필라테스 강사랑 방아 찧나 걱정하면 쓰나"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Her Pilates instructor's a woman. -Oh, even better!",
+      "ko": "필라테스 강사도 여자거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She goes both ways. I knew I liked her. -We're getting married in September.",
+      "ko": "더 좋네, 양성애잖아 역시 마음에 쏙 들어 9월에 결혼할 거예요 남녀관계를 뭘 아세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you know about relationships? Aren't you like three years old?",
+      "ko": "9월에 결혼할 거예요 남녀관계를 뭘 아세요? 한 3살 아니신가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Five.",
+      "ko": "5살"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got a picture of her?",
+      "ko": "사진 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, man. Pull it out.",
+      "ko": "뭐 해, 얼른 꺼내봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Holy shit. She's a hottie. Congratulations.",
+      "ko": "맙소사, 매력 철철이네, 축하해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. She's special. -Hey!",
+      "ko": "- 특별한 여자예요 - 어딜"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"My Gummy Bear.\" [chuckles] She calls you Gummy Bear?",
+      "ko": "'우리 젤리 곰'? 애칭이 젤리 곰이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Aww, my Gummy Bear.",
+      "ko": "우리 젤리 곰"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fucking with you, rookie.",
+      "ko": "장난치는 거야, 애송아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[radio beeps] -[Miller] This is Rattlesnake. We've been moved up to Yellow alert.",
+      "ko": "여기는 래틀스네이크 노란 경보로 격상했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So, eyes open. Over. -[radio beeps]",
+      "ko": "경계하라, 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Look at these poor bastards. Stuck between us and Koval.",
+      "ko": "이 불쌍한 놈들을 봐 우리와 코발 사이에 껴서는"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I got a bunch of civilians. Nine o'clock.",
+      "ko": "민간인들이 보인다, 9시 방향"
+    }
+  },
+  {
+    "translation": {
+      "en": "No signs of hostile activity.",
+      "ko": "적대 행위 낌새는 없음"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep your distance.",
+      "ko": "거리 유지해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] This is Rattlesnake.",
+      "ko": "여기는 래틀스네이크"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have reports from base of aid truck hit. Man down.",
+      "ko": "보고가 들어왔다 보급 차량이 공격받았다 부상자 발생"
+    }
+  },
+  {
+    "translation": {
+      "en": "Repeat. Aid truck hit.",
+      "ko": "반복한다 보급 차량이 공격받았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Road to encampment blocked.",
+      "ko": "진지 진입로 봉쇄됨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Suspected militia attack.",
+      "ko": "의용군 공격으로 의심된다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Get your rifle up.",
+      "ko": "소총 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] Proceed with caution.",
+      "ko": "경계하며 진행하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Execute to follow. Over.",
+      "ko": "명령 대기할 것, 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "All units prepare to exit the vehicle. Hostiles in the area.",
+      "ko": "전 대원, 하차 준비해라 적군이 깔렸다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay frosty.",
+      "ko": "바짝 긴장해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen, put the Gumps out. Form a perimeter in front of the convoy.",
+      "ko": "검프들 내보내고 호송대 앞으로 대형을 갖춰라"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get ready, kid. -All units on the ground.",
+      "ko": "- 준비해 - 전원 하차하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Defense formation.",
+      "ko": "수비 대형"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] Let's keep it calm. Let's keep it clean.",
+      "ko": "침착하고 깔끔하게 처리하자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Gumps out now! -[shouts in Ukrainian]",
+      "ko": "검프 내보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All Marines, defense formation. -What the fuck's going on?",
+      "ko": "- 전 대원, 수비 대형으로 - 대체 무슨 일입니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Defense formation.",
+      "ko": "수비 대형!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay calm.",
+      "ko": "침착해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay calm. Nobody do shit.",
+      "ko": "침착해, 뻘짓하지 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I said hold fire, goddammit!",
+      "ko": "쏘지 말랬잖아, 제길!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goddamn Gumps pre-empted. Charlie Nine, hold fire!",
+      "ko": "망할 검프 선제 프로그램 C9, 사격 중지라고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Drop the rifle now! -[speaking Ukrainian]",
+      "ko": "당장 총 버려!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Gumps beep] -Slowly.",
+      "ko": "천천히"
+    }
+  },
+  {
+    "translation": {
+      "en": "All of you guys, come on!",
+      "ko": "모두 총 버리라고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "[marine] Put your weapons down!",
+      "ko": "- 망할 무기 내려놔! - 못 알아듣냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Miller] Don't you understand? -Step away! Back!",
+      "ko": "- 망할 무기 내려놔! - 못 알아듣냐? 물러서! 뒤로!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain, just a sec, sir. Sir?",
+      "ko": "대위님, 잠시만요 저기, 대위님"
+    }
+  },
+  {
+    "translation": {
+      "en": "[marine] Cooperate!",
+      "ko": "협조해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sir-- -All right, Harp. Take it easy.",
+      "ko": "- 제가 뭘… - 하프, 진정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] Stand down!",
+      "ko": "물러서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[marine] Stand down! Put your weapons down.",
+      "ko": "물러서! - 다 무기 버려! - 물러서, 빌어먹을!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Miller] Put 'em down! -Tell your men to put their guns down.",
+      "ko": "- 다 무기 버려! - 물러서, 빌어먹을! 대원들 무기 내리라고 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain, fall back.",
+      "ko": "대위님, 뒤로 오시죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stay calm. -[Gump beeps]",
+      "ko": "침착해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Step away from those Marines!",
+      "ko": "우리 대원들한테서 물러나!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Goddammit! Tell your men to lower their weapons now!",
+      "ko": "제기랄! 대원들 무기 내리라고 해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's an order!",
+      "ko": "명령이다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sarge? -Lower your weapons.",
+      "ko": "- 상사님? - 무기 내려"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on-- -Lower your goddamn weapons!",
+      "ko": "- 하지만… - 내리라면 내려, 명령이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cap?",
+      "ko": "대위님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "진정해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "진정"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, all right. -[shouting]",
+      "ko": "괜찮습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, calm down.",
+      "ko": "자, 진정하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. I'm unarmed.",
+      "ko": "보세요, 무기 없습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell your men to put their guns down.",
+      "ko": "동료들한테 총 내리라고 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "어서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] You gotta move this truck, we gotta get our men out of here.",
+      "ko": "그쪽이 트럭 치우면 우리 대원들 데리고 가죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] We don't want to fight. You understand?",
+      "ko": "싸우기 싫습니다, 알겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "ko": "알았죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the fuck? -[marine] What's he doing?",
+      "ko": "무슨 짓이야? 뭐 하는 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shh. Shut up.",
+      "ko": "입 다물어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Leo] All right. -[man shouts in Ukrainian]",
+      "ko": "됐다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Master Sergeant.",
+      "ko": "상사"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get your men off the street. Let's get that truck moved.",
+      "ko": "대원들 차에 태워 저 트럭 치워야지 좋았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fuck, yeah. -Copy that.",
+      "ko": "좋았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sorry. -[marine] Relax!",
+      "ko": "- 미안하다 - 진정해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go get those Marines. -What did you say to him?",
+      "ko": "저 두 대원 데려와 뭐라고 하셨어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Said we had to get vaccines through.",
+      "ko": "백신을 전달해야 한다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Is that all it took? -No, I gave him the aid truck.",
+      "ko": "그걸로 땡이라고요? 보급 트럭 가지라고 했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] They had weapons, though. They weren't after food.",
+      "ko": "무기를 갖고 있잖습니까 식량은 안중에도 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They were militia. -[Miller] Easy.",
+      "ko": "의용군들입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "They can't be both?",
+      "ko": "의용군은 식량 필요 없나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's our job to identify, neutralize.",
+      "ko": "식별 및 중립이 우리 일입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's our job to stay alive long enough to get our intel",
+      "ko": "우리 일은 오래 살아남아 정보를 획득하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and focus on the bigger picture.",
+      "ko": "큰 그림에 집중하는 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We gotta get to the clinic. -[Miller] Keep your eyes open.",
+      "ko": "진료소로 가야 해 모두 철저히 경계해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's gone. -[Miller] Check right.",
+      "ko": "- 죽었어 - 우측 살펴"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I got left. -[marine] Right.",
+      "ko": "- 난 좌측 맡겠다 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Gumps beep and whir] -[Miller] Easy, easy.",
+      "ko": "진정, 진정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice and slow.",
+      "ko": "천천히 진행해라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just like that. We all go--",
+      "ko": "지금처럼, 모두 천천히…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Ukrainian] For Viktor Koval!",
+      "ko": "빅토르 코발 만세!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[marine] Krasnys! Nine o'clock! -[Miller] Take cover!",
+      "ko": "크라스니군 9시 방향! 엄폐하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get down!",
+      "ko": "숙여!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fuck! -[rapid gunfire]",
+      "ko": "썅!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] Fuck! Krasnys, three o'clock.",
+      "ko": "망할! 크라스니군 3시 방향!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take cover!",
+      "ko": "엄폐하라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try and concentrate fire on the building. Flush them out into the open.",
+      "ko": "건물에 집중 사격해라 밖으로 뛰쳐나오게 만들어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marine 2] Got 'em! Stand down!",
+      "ko": "맞혔다! 물러서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Marine 3] Cover me!",
+      "ko": "엄호!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "ko": "젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go inside!",
+      "ko": "모두 안으로 들어가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. Fire team…",
+      "ko": "좋다, 사격팀"
+    }
+  },
+  {
+    "translation": {
+      "en": "Suppressing fire.",
+      "ko": "제압 사격하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Suppressing fire. Goddammit!",
+      "ko": "제압 사격해! 빌어먹을!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Incoming!",
+      "ko": "피해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[rapid gunfire] -Harp!",
+      "ko": "하프!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Who's hit? Who's hit? -Medic!",
+      "ko": "누가 당했나! 위생병!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[muffled] Harp!",
+      "ko": "하프!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Harp! Goddammit! -[sound returns to normal]",
+      "ko": "하프, 이 개자식!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah?",
+      "ko": "네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the gear!",
+      "ko": "백신 챙겨!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We gotta make it to our contact!",
+      "ko": "연락책한테 가야 한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Miller! Shit. Gyah!",
+      "ko": "밀러! - 제길 - 네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna go ahead on foot!",
+      "ko": "우린 도보로 이동하겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Copy! We'll take care of this shitshow.",
+      "ko": "알겠습니다! 여긴 저희가 맡을 테니"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You get that vaccine delivered. -Okay.",
+      "ko": "백신 전달하십시오 알았다, 하나…"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, two, go!",
+      "ko": "둘, 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cover fire!",
+      "ko": "엄호 사격!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck?",
+      "ko": "씨발 뭐야!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] That was Koval's men attacking us?",
+      "ko": "방금 코발 부하들 짓이죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Yeah, they hit the supply truck and waited for the locals to go for food.",
+      "ko": "그래, 배급 트럭을 치고 주민들이 가지러 나오길 기다린 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Koval's getting closer. Popping up like a game of whack-a-mole.",
+      "ko": "코발이 가까워지고 있어 두더지 게임처럼 신출귀몰하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lose the helmet.",
+      "ko": "헬멧 벗어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makes you look aggressive. Trying to cultivate trust.",
+      "ko": "신뢰를 쌓아야 하는데 공격적으로 보일 테니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep your gun in the holster. It might just keep you alive.",
+      "ko": "총도 총집에 넣어놔 그래야 목숨 건질 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Got you.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Miller doesn't know about our real mission?",
+      "ko": "밀러는 진짜 임무를 모르죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about the colonel?",
+      "ko": "대령님은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Eckhart thinks you can manage this conflict from behind a fence.",
+      "ko": "엑하트는 통제선 안에서 해결할 수 있다고 믿지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "War is ugly.",
+      "ko": "전쟁은 추한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sometimes you gotta get dirty to see any real change.",
+      "ko": "때로 손을 더럽혀야 진짜 변화를 일궈내지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He doesn't like you, you know. -[Leo sighs]",
+      "ko": "대위님 싫어하시던데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen…",
+      "ko": "들어봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "…I feel more than he does.",
+      "ko": "난 대령보다 감각이 풍부해"
+    }
+  },
+  {
+    "translation": {
+      "en": "That gut feeling? No.",
+      "ko": "- 직감 말입니까? - 아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "Feeling's all I got, rookie.",
+      "ko": "난 감각 빼면 시체지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Acute sensory perception.",
+      "ko": "고도의 감각 지각 기능"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? Can you feel pain? -Of course I can.",
+      "ko": "- 통증을 느낀단 말입니까? - 당연하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I couldn't empathize with you if I didn't. Like now, what do you feel?",
+      "ko": "못 느끼면 공감도 못 해 지금도 그래, 기분이 어떻지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit-scared and confused.",
+      "ko": "무섭고 혼란스럽습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] That's good. That means you're here and alive.",
+      "ko": "좋아, 여기 있고 살아있다는 뜻이니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you ever wonder why I look like this, Harp?",
+      "ko": "내 외모가 왜 이런지 궁금한 적 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "어떤 면 말입니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chiseled cheekbones? Funny.",
+      "ko": "- 튀어나온 광대뼈? - 웃기긴"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would the Pentagon pick my face to represent the United States Marines?",
+      "ko": "국방부가 왜 이 얼굴을 미 해병의 간판으로 골랐을까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why wouldn't they make me a blond-haired, blue-eyed,",
+      "ko": "왜 금발에 파란 눈의 전형적인 미국 백인 촌놈이 아니라"
+    }
+  },
+  {
+    "translation": {
+      "en": "all-American varsity peckerwood?",
+      "ko": "이런 모습으로 만들었을까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't wanna ask. Thought it might be robotist.",
+      "ko": "로봇 차별일까 봐 안 물어보려 했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Psy-ops.",
+      "ko": "이게 다 심리전이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "My sleeve might say US, but my face conveys neutrality.",
+      "ko": "제복엔 미국이라 적혀있어도 얼굴이 중립성을 띤다는 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makes people calm.",
+      "ko": "상대를 진정시키고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's keep moving.",
+      "ko": "계속 가지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our contact is waiting for us.",
+      "ko": "연락책이 기다리고 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That's the Damsk encampment, huh? -It is.",
+      "ko": "- 저긴 덤스크 진지죠? - 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "A refugee shelter run by the Resistance.",
+      "ko": "저항군이 주둔하는 난민 피난소지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit. I've seen it from the air.",
+      "ko": "세상에, 공중에서나 봤는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're good people, Harp.",
+      "ko": "좋은 사람들이다, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "Trust is hard-earned.",
+      "ko": "신뢰를 얻긴 힘들지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Find out what they need and give it to them.",
+      "ko": "필요한 걸 알아내서 주면 되는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Most of 'em just wanna live.",
+      "ko": "대개는 그저 살고 싶어 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "You manipulate people?",
+      "ko": "사람들 이용하시는 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's called compassion.",
+      "ko": "연민이라고 하는 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Koval finds the nukes, it's the end of the world as we know it.",
+      "ko": "코발이 핵을 손에 넣으면 우리가 아는 세상은 끝이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's keep moving.",
+      "ko": "계속 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey. Doc. -[speaks Ukrainian]",
+      "ko": "이봐요, 선생"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Harp!",
+      "ko": "하프!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bring the other supplies.",
+      "ko": "나머지도 가져와"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Ukrainian] I'm in position.",
+      "ko": "위치 잡았습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Viktor?",
+      "ko": "빅토르?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Viktor, in Ukrainian] Do you have the incendiary rounds?",
+      "ko": "소이탄 갖고 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Viktor, in Ukrainian] Kill him. Kill them both.",
+      "ko": "죽여라 둘 다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Leo] Harp! -[Harp] Yeah?",
+      "ko": "- 하프! - 네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp grunts] Cap!",
+      "ko": "대위님!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Russian] Who are you?",
+      "ko": "너 누구야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screams] -[Leo] Who are you?",
+      "ko": "누구냐고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck yourself, American pig!",
+      "ko": "뒈져라, 미국 돼지 새끼야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screams] -I can do this all day.",
+      "ko": "종일 이럴 수도 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Krasny.",
+      "ko": "크라스니군"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you know about Viktor Koval?",
+      "ko": "빅토르 코발에 대해 뭘 알지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Give him to us, Americans. -Tell me!",
+      "ko": "- 그놈 우리한테 넘겨요 - 말해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hit you in your subclavian artery. You're gonna bleed out.",
+      "ko": "빗장밑 동맥을 명중시켰으니 이대로면 과다출혈로 죽어"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, where were we?",
+      "ko": "어디까지 말했지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Come on. Tell me!",
+      "ko": "어서, 불어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or do you wanna spend your final few moments with my friends here?",
+      "ko": "아니면 마지막 짧은 순간을 내 친구들과 보내겠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Suit yourself.",
+      "ko": "맘대로 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cap.",
+      "ko": "대위님"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cap, he's still alive.",
+      "ko": "대위님, 아직 살아있잖습니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Leo] Not for long. -[sniper chokes]",
+      "ko": "얼마 못 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] He's a fanatic.",
+      "ko": "저놈은 광신자야"
+    }
+  },
+  {
+    "translation": {
+      "en": "It always ends the same.",
+      "ko": "끝은 언제나 같지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to the war, kid.",
+      "ko": "이런 게 전쟁이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Hey! What the fuck?",
+      "ko": "잠깐만요! 제기랄"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You gotta call this in. -Nothing to call in yet.",
+      "ko": "- 보고해야죠 - 보고할 거 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you talking about? We got insurgents. We got a sniper.",
+      "ko": "무슨 말씀이십니까? 반군에 저격수까지 나왔는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough to get command to listen, to commit a fucking task force--",
+      "ko": "이 정도면 상부에서 듣고 기동대라도 파견해 줄 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "All we have is enough for command to hold us up in bureaucracy three days",
+      "ko": "이 정도면 상부에선 3일쯤 질질 끌면서"
+    }
+  },
+  {
+    "translation": {
+      "en": "while they consider if Perimeter's even a conversation.",
+      "ko": "페리메트르가 논쟁거리라도 될지 가늠하겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't have that kind of time.",
+      "ko": "우린 기다릴 시간이 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "If their spies and snipers are here, that means Koval isn't that far behind.",
+      "ko": "놈들 스파이와 저격수가 나타났다면 코발도 근처에 있단 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You said we'd deliver the vaccines to get intel on Koval.",
+      "ko": "백신을 전달하면 정보를 얻을 거라더니"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where the fuck are we going?",
+      "ko": "어디 가는 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't say the intel was at the clinic.",
+      "ko": "누가 정보원이 진료소에 있다고 했나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a live-fire scenario, son. Think you can handle it?",
+      "ko": "이건 실전이다 감당할 수 있겠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tell me what you're hiding. -[Leo laughs]",
+      "ko": "뭘 숨기시는 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll walk back to base, tell 'em you went rogue.",
+      "ko": "기지로 돌아가 대위님이 독자 행동 한다고 말하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did your motherboard freeze?",
+      "ko": "주기판이 멈추기라도 했나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop staring at me like that. Did your motherboard freeze?",
+      "ko": "그만 노려보시죠 주기판이 멈추기라도 했어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say something!",
+      "ko": "말해봐요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you such a pain in my motherfucking ass?",
+      "ko": "어떻게 생겨 먹었길래 빡치는 말만 골라 씨불이냐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get in the fucking truck.",
+      "ko": "트럭에나 타"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Who programmed you to curse so much? -Nobody.",
+      "ko": "- 누가 욕을 그렇게 주입해 놨죠? - 아무도"
+    }
+  },
+  {
+    "translation": {
+      "en": "I respond to the asshole that's in front of me.",
+      "ko": "내 앞의 머저리한테 자연스럽게 반응한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now get in the fucking truck! -No.",
+      "ko": "- 당장 올라타 - 아뇨"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not getting in there.",
+      "ko": "안 타겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Walk.",
+      "ko": "좋아, 걸어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long do you think you'll survive out here on your own?",
+      "ko": "자네 혼자 여기서 얼마나 버틸 수 있을까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were right to fire.",
+      "ko": "공격 결정은 옳았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was a launcher.",
+      "ko": "발사대였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You killed two marines but saved 38.",
+      "ko": "해병 둘을 죽였지만 38명을 구했으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "They should've put a fucking medal on your chest.",
+      "ko": "자네 가슴에 훈장이라도 달아줬어야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I did the right thing.",
+      "ko": "전 옳은 일을 했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You mean you stepped outside your box, and they had to put you back?",
+      "ko": "상자 밖으로 발을 디뎠더니 도로 집어넣더라는 건가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Is that why you think you're here? -I broke chain of command.",
+      "ko": "- 그래서 여기 왔다고 생각해? - 명령에 불복해서 온 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about you? What's your mandate?",
+      "ko": "대위님은요? 누구 명령에 따르시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit, I'm no expert, but this seems beyond protocol for a r--",
+      "ko": "제가 전문가는 아니지만 로봇치곤 너무 제멋대로인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "…whatever you are.",
+      "ko": "정체가 뭐든 간에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shake my hand.",
+      "ko": "손 잡아봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you feel?",
+      "ko": "어떤 느낌인가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "A hand. Soft tissue and heat--",
+      "ko": "손요, 부드럽고 온기…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Heat.",
+      "ko": "온기가 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Grab my arm.",
+      "ko": "팔을 잡아봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you feel?",
+      "ko": "느낌이 어때?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cold. Steel.",
+      "ko": "차가운 강철 같습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Lifeless.",
+      "ko": "생기라곤 없지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not a man, Lieutenant.",
+      "ko": "난 인간이 아니다, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was created to simulate one to the exact necessity to do my damn job.",
+      "ko": "필요한 임무를 수행시키려고 인간처럼 만든 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a combat soldier.",
+      "ko": "난 전투병이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I also have the ability to break the rules in certain circumstances.",
+      "ko": "하지만 특정 상황에선 규율을 깰 능력도 겸비했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Just like you. -What kind of circumstances?",
+      "ko": "- 자네처럼 - 어떤 특정 상황요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "In extreme situations, I have the ability to act of my own volition.",
+      "ko": "극한 상황이 닥치면 내 의지에 따라 행동하는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "And is this an extreme situation?",
+      "ko": "이게 극한 상황인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ask me what you really wanna ask.",
+      "ko": "진짜 묻고 싶은 게 뭔데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How come you're so like us?",
+      "ko": "어떻게 꼭 사람 같죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sentient?",
+      "ko": "지각 말인가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Emotional.",
+      "ko": "감정요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, you equate humanity with emotion?",
+      "ko": "인간성은 곧 감정이란 건가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I equate it with fault.",
+      "ko": "곧 결함이라는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "People are stupid, habitual, and lazy.",
+      "ko": "사람은 멍청하고 습관의 노예에다 게을러요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their emotions lead to mistakes.",
+      "ko": "감정 때문에 실수를 빚죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe humans aren't emotional enough, Lieutenant.",
+      "ko": "감정이 부족하기 때문일 테지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay close, keep your mouth shut, and pay attention.",
+      "ko": "입 꾹 다물고 바짝 따라와 집중하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Wait here.",
+      "ko": "여기서 기다려"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, can I play?",
+      "ko": "나도 껴도 되니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "These are your informants?",
+      "ko": "얘들이 정보원입니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You finally found a friend.",
+      "ko": "드디어 친구를 찾았네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pleasure to meet you. Lieutenant Harp.",
+      "ko": "반갑습니다, 하프 중위입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "So formal. You'll be calling me ma'am next.",
+      "ko": "딱딱하긴, 다음엔 부인이라 부를까 겁나네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hear you had some trouble in Damsk.",
+      "ko": "덤스크에서 문제가 있었다며?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The vaccines were delivered.",
+      "ko": "백신은 전달했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go, rookie. [chuckles]",
+      "ko": "따라와, 애송이"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hello. -[Gump beeps]",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've done everything you asked me to do, Sofiya.",
+      "ko": "당신이 요구한 대로 다 했어, 소피야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna need you to level with me, please.",
+      "ko": "이제 다 터놓고 말해줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me what you know.",
+      "ko": "아는 걸 말해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "In front of him?",
+      "ko": "저 친구도 있는데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can trust him.",
+      "ko": "녀석은 믿어도 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-She can trust you. Right, Harp? -Uh, yeah.",
+      "ko": "- 믿어도 되지, 하프? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, you can trust me.",
+      "ko": "네, 저 믿으셔도 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The violence at the hospital…",
+      "ko": "진료소에서 공격한 거"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was definitely a Krasny spy?",
+      "ko": "확실히 크라스니 스파이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "As Krasny as it gets.",
+      "ko": "백번 확실해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "ko": "돌겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think Koval's one step away from operating the silos.",
+      "ko": "코발이 머지않아 격납고를 가동할 거 같아"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? How'd you know that?",
+      "ko": "뭐라고요? 어떻게 알죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The nuclear missiles can only be operated by highly classified access codes.",
+      "ko": "극비의 접속 코드로만 핵미사일을 가동할 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the Cold War ended, an FSK agent got hold of those codes",
+      "ko": "냉전 종식 후 한 러시아 대첩보부 요원이"
+    }
+  },
+  {
+    "translation": {
+      "en": "and hid them in a vault.",
+      "ko": "그 코드를 금고에 숨겼어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhere this side of the city.",
+      "ko": "이 도시 어딘가에"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would he do that?",
+      "ko": "왜 그런 거지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The agent figured the codes would fetch a price.",
+      "ko": "언젠가 돈벌이가 될 줄 알았던 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And Koval met that price. -I think so.",
+      "ko": "- 그걸 코발이 물었다? - 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "If he knows where the silos are, and he gets those codes,",
+      "ko": "놈이 격납고 위치를 알고 코드까지 얻으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "he'll have access to nukes.",
+      "ko": "핵을 손안에 넣는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tell me where those codes are. -I don't know.",
+      "ko": "- 코드는 어디에 있지? - 몰라"
+    }
+  },
+  {
+    "translation": {
+      "en": "If we did, we'd have gotten to them already.",
+      "ko": "알았으면 우리가 진작 빼 왔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, tell me who might know.",
+      "ko": "알 만한 사람은?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Come on.",
+      "ko": "말해줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sofiya] Well,",
+      "ko": "그게…"
+    }
+  },
+  {
+    "translation": {
+      "en": "to break into a vault, the Krasny would need to buy hardware here,",
+      "ko": "금고를 뚫으려면 여기서 장비를 사야 할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "as they wouldn't be able to smuggle it or get it through our lines.",
+      "ko": "우릴 통하지 않고 밀반입할 통로는 없으니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Black market?",
+      "ko": "암시장 말이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sofiya] There's only one arsehole with access to the weapons they'd need",
+      "ko": "눈 하나 깜짝 않고 우릴 배신해 그런 무기를 팔 인간은 하나야"
+    }
+  },
+  {
+    "translation": {
+      "en": "who wouldn't think twice about betraying us.",
+      "ko": "그런 무기를 팔 인간은 하나야"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's an arms dealer called Varyk Oshlak.",
+      "ko": "무기 밀매상 바리크 오시라크"
+    }
+  },
+  {
+    "translation": {
+      "en": "If they went to him, he might know where it's located.",
+      "ko": "놈들이 그자에게 갔다면 금고 위치를 알지도 몰라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you take us to him?",
+      "ko": "안내해 줄 수 있어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll need weapons of your own.",
+      "ko": "그럼 무기가 있어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] What's all this?",
+      "ko": "이게 다 뭡니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sadly, no discounts for the US.",
+      "ko": "안타깝지만 미군은 안 깎아줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "What? Hold up. You're buying weapons from her?",
+      "ko": "소피야한테 무기를 삽니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you think I pay for this orphanage?",
+      "ko": "무슨 돈으로 이 보육원을 운영하겠어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know these are illegal weapons, right?",
+      "ko": "불법 무기인 건 아시죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You gonna arrest me, Lieutenant?",
+      "ko": "잡아가시든가, 중위"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cap?",
+      "ko": "대위님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sofiya] You have to do this for us. -I know. I will.",
+      "ko": "우릴 위해 해줘야 해 알아, 그럴 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What about him? -He'll be fine.",
+      "ko": "- 저 친구는? - 괜찮을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's his first day outside the wire.",
+      "ko": "통제선 밖으로 나온 첫날이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "His first day?",
+      "ko": "첫날이라고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a drone pilot.",
+      "ko": "드론 조종사야"
+    }
+  },
+  {
+    "translation": {
+      "en": "How does it feel to see your work up close?",
+      "ko": "자기 작품을 가까이서 보니 어때?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My work?",
+      "ko": "제 작품요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Most of these kids weren't orphaned by the civil war.",
+      "ko": "이 애들은 내전으로 부모를 잃은 게 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your bombs destroyed their homes.",
+      "ko": "당신이 쏜 폭탄에 집을 잃었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Hey, guys, we gotta get going. Get in the car.",
+      "ko": "여기! 출발해야 해, 차에 타"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Leo] You sure about this? -[horn beeps]",
+      "ko": "여기인 거 확실해?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sofiya] That's his car. He's here.",
+      "ko": "저게 그 인간 차야, 여기 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Ukrainian] I'm looking for Oshlak.",
+      "ko": "오시라크를 찾는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Ukrainian] He's not here.",
+      "ko": "여기 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Are you Oshlak?",
+      "ko": "오시라크?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "ko": "대박"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's Viktor Koval?",
+      "ko": "빅토르 코발 어딨어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Damn!",
+      "ko": "작살!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wanna try that again, or should I fuck you up a little?",
+      "ko": "또 토낄래? 아니면 반쯤 죽여줘?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Oshlak] Okay, okay.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Sofiya. I haven't seen you for long.",
+      "ko": "안녕, 소피야, 오래간만이네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I can see how much you missed me. -[chuckles]",
+      "ko": "겁나 보고 싶었나 봐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop. I'll tell you whatever you want.",
+      "ko": "그만해, 뭐든 다 말할게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you sell weapons to a Krasny unit this morning?",
+      "ko": "오늘 오전 크라스니군에 무기를 팔았나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ten men. They took delivery one hour ago.",
+      "ko": "10명이 와서 1시간 전에 물건 가져갔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Details, piece of shit. What did you sell them?",
+      "ko": "자세히 말해, 새끼야 무슨 물건?"
+    }
+  },
+  {
+    "translation": {
+      "en": "XR-12s.",
+      "ko": "XR-12"
+    }
+  },
+  {
+    "translation": {
+      "en": "Russian Gumps?",
+      "ko": "러시아 검프?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's the vault?",
+      "ko": "금고 어딨어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Well, I'm a dead man if-- -Either I kill you or Koval kills you,",
+      "ko": "그걸 말했다간… 나 아니면 코발한테 죽을 텐데"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I'm much closer right now.",
+      "ko": "지금 여기 있는 건 나야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Dnipro Investment. -Passazryski street.",
+      "ko": "- 드니프로 투자은행 - 파자즈리스키가야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Let's go.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What about him? -[Oshlak] Sofiya, no!",
+      "ko": "- 저 사람은요? - 소피야, 안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Traitor.",
+      "ko": "반역자잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guess he won't be needing his car.",
+      "ko": "저 자식 이제 차 필요 없겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Ukrainian] I'm going to kill you!",
+      "ko": "넌 내 손에 죽었다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be careful.",
+      "ko": "조심해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] I will.",
+      "ko": "그럴게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "ko": "가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Let's go.",
+      "ko": "어서 출발해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fastest way to Passazryski street? -Head north, take Magistral.",
+      "ko": "- 파자즈리스키가 최단 도로는? - 북쪽 매지스트럴 도로요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] You know the streets by memory?",
+      "ko": "이 거리들 다 외웠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Like a fucking cab driver. -Like a fucking drone pilot.",
+      "ko": "- 망할 택시 기사처럼요 - 망할 드론 조종사처럼"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can't go up against Koval alone. We gotta call in for backup.",
+      "ko": "우리끼리 갈 순 없어요 - 지원을 요청해야죠 - 뭐야, 하프, 쫄았나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Harp. What's wrong? You scared? [laughs]",
+      "ko": "- 지원을 요청해야죠 - 뭐야, 하프, 쫄았나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "At what point does your program shut down?",
+      "ko": "대위님 프로그램은 언제 멈추죠? 명령 불복 인식 시점 말입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-At what point are you violating orders? -That's why you're here.",
+      "ko": "대위님 프로그램은 언제 멈추죠? 명령 불복 인식 시점 말입니다 그게 자네가 온 이유지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our intel investigation into the Perimeter is not just cold. It was aborted.",
+      "ko": "페리메트르 관련 수사는 단지 중단된 게 아니야 폐기됐지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, what?",
+      "ko": "뭐라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "An intel officer like you can follow an aborted line,",
+      "ko": "자네 같은 정보 요원이 폐기된 건을 수사하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and it's considered a hunch. If I do it, it's a fault.",
+      "ko": "직감이라고 봐주지만 내가 하면 오작동에 해당해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Intel would take me offline, leaving Koval to win.",
+      "ko": "위에서 날 제거하고 코발의 승리로 끝나겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about your internal systems? At what point do you cross the line?",
+      "ko": "대위님의 내부 시스템은 언제 선 넘는 걸로 인식하죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "When you're no longer with me.",
+      "ko": "자네가 내 옆에 없을 때"
+    }
+  },
+  {
+    "translation": {
+      "en": "I requested your deployment because I need your help.",
+      "ko": "내가 자네 발령을 요청했어 자네가 필요하니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "That means this whole shitty time, I'm the one breaking orders?",
+      "ko": "이 모든 엿같은 일에 명령을 어긴 게 나라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go to jail! I can't do this shit.",
+      "ko": "- 영창행이겠네, 난 못 해요 - 그럼 차 세우라고 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Tell me to stop the car. -You'll stop?",
+      "ko": "- 영창행이겠네, 난 못 해요 - 그럼 차 세우라고 해 세울 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me to stop the car!",
+      "ko": "세우라고 해보라고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're the only ones searching for him.",
+      "ko": "코발 쫓는 건 우리뿐인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if you don't think it's worth your time, call it in,",
+      "ko": "시간 낭비일 뿐이라고 생각한다면 보고해"
+    }
+  },
+  {
+    "translation": {
+      "en": "they'll shut me down, and you can fucking walk!",
+      "ko": "난 작동 중단될 거고 넌 빠져나갈 테니까!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, let me… Let me think. -[Leo scoffs]",
+      "ko": "생각 좀 하고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You still thinking? -Yes!",
+      "ko": "- 아직도 생각해? - 네!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All I'm saying is, calling in for backup might not be such a bad idea.",
+      "ko": "전 그냥 지원 요청도 나쁘지 않을 거란 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's all I'm saying.",
+      "ko": "그뿐이라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Here we go. Keep your eyes open, kid.",
+      "ko": "다 왔다, 바짝 긴장해"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's something I need you to do for me.",
+      "ko": "네가 해줄 일이 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[buzzing] -[sighs] Are you sure about this?",
+      "ko": "진짜 해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Russians have the capability to detect the signal.",
+      "ko": "러시아군이 신호를 감지할 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They put your tracker on your back? -Cut it out.",
+      "ko": "- 등에 추적기도 달고 다녀요? - 잔말 말고 꺼내"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Does it hurt? -Of course it fucking hurts.",
+      "ko": "- 아파요? - 당연히 존나 아프지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, f--",
+      "ko": "아, 씨…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think I got it.",
+      "ko": "집은 거 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This means we're partners now?",
+      "ko": "그럼 이제 파트너인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take it out.",
+      "ko": "꺼내기나 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Harp groans] -[Leo] Give it here.",
+      "ko": "이리 줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Patch it.",
+      "ko": "붙여"
+    }
+  },
+  {
+    "translation": {
+      "en": "Double-time.",
+      "ko": "빨리"
+    }
+  },
+  {
+    "translation": {
+      "en": "[quietly] Fuck.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[rifle clicks] -Let's go.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "제길"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] No matter what happens, Koval can't leave with those codes.",
+      "ko": "무슨 일이 있어도 코드를 뺏기면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You ready? -Yeah.",
+      "ko": "- 준비됐나? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Move. -[rifles click]",
+      "ko": "진입"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clock my six, Gummy Bear.",
+      "ko": "단단히 엄호해라, 젤리 곰"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got you.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck. Shit.",
+      "ko": "미치겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[radio chatter in Russian] -Call Eckhart. Tell him Koval's in the building.",
+      "ko": "엑하트한테 전화해 코발이 여기 있다고 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait! Wait.",
+      "ko": "잠시만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You stupid fuck!",
+      "ko": "정신 안 차려!"
+    }
+  },
+  {
+    "translation": {
+      "en": "My bad. [pants]",
+      "ko": "죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's the vault?",
+      "ko": "금고 어딨죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get them out of here!",
+      "ko": "데리고 나가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Alone? -Now!",
+      "ko": "- 혼자서요? - 어서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[quietly] Fuck.",
+      "ko": "제길"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay. I'm here. You're safe now.",
+      "ko": "괜찮아요, 제가 왔으니 안전해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp! Move!",
+      "ko": "하프! 움직여!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be right back.",
+      "ko": "금방 올게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The fuck are you doing, Harp?",
+      "ko": "너 여기서 뭐 하냐, 하프?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "ko": "썅!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp! Give me your grenade!",
+      "ko": "하프! 유탄 발사기 줘!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cap!",
+      "ko": "여기요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now!",
+      "ko": "지금이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Cap! -Call Eckhart! I'mma get Koval!",
+      "ko": "- 대위님! - 전화부터 해, 코발한테 간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck. Okay.",
+      "ko": "젠장, 어디 보자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[static on radio] -Come on, come on.",
+      "ko": "걸려라"
+    }
+  },
+  {
+    "translation": {
+      "en": "What fucking bank?",
+      "ko": "무슨 은행?"
+    }
+  },
+  {
+    "translation": {
+      "en": "On Passazryski street. Koval's here. He's going after the codes.",
+      "ko": "파자즈리스키가에 있는 겁니다 코발이 코드를 찾고 있고 대위님이 잡으러 갔습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo's gone after him.",
+      "ko": "코발이 코드를 찾고 있고 대위님이 잡으러 갔습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look, sir-- -All right, stop! Stop!",
+      "ko": "- 지금 시간이… - 아니, 잠깐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not making any sense. Koval's where?",
+      "ko": "무슨 말인지 모르겠잖아 코발이 어디 있다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[quietly] Of course I don't make any fucking sense.",
+      "ko": "무슨 빌어먹을 말인지 나도 모르겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! You, go.Go, go.",
+      "ko": "이봐요, 어서 나가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go! Go!",
+      "ko": "가요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Eckhart] Harp! -Uh…",
+      "ko": "하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dnipro Investment!",
+      "ko": "드니프로 투자은행!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pull it up.",
+      "ko": "띄워 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] We found Koval. He's here.",
+      "ko": "코발이 여기 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a hostage situation.",
+      "ko": "인질도 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Krasnys everywhere, and fucking Russian Gumps.",
+      "ko": "크라스니군에 러시아 검프가 쫙 깔렸습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to call in the Marines.",
+      "ko": "해병대 파견해 주십시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get me eyes on the ground.",
+      "ko": "저쪽에 감시 드론 보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, go! Go!",
+      "ko": "좋아요, 나와요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go, go, go, go!",
+      "ko": "뛰어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it.",
+      "ko": "그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good job, Harp.",
+      "ko": "잘했다, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck! Shit!",
+      "ko": "제길, 뭐야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Russian] Drop your weapons. Or she will die.",
+      "ko": "무기 버려! 이 여자 죽여버린다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "알았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take it easy, okay? No one else has to get hurt.",
+      "ko": "진정해, 아무도 다칠 필요 없잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Russian] Drop your weapons!",
+      "ko": "무기 버리라고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ko": "괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Marines are coming. I'm sure we can work this out.",
+      "ko": "해병이 곧 올 거고 대화로 풀 수 있을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Shit. Don't pre-empt, please.",
+      "ko": "선제공격만 하지 마라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Okay, easy.",
+      "ko": "알았어, 진정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you let them go, huh?",
+      "ko": "사람들 놔줄 거지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Easy, easy, hey!",
+      "ko": "진정해, 이봐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[shouts] -Let them go! -[whimpers] -No one else has to get hurt.",
+      "ko": "사람들 보내줘 누구 해칠 필요 없잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[in Russian] Put it down. -Okay, fine.",
+      "ko": "당장 무기 버려 알았어, 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[in Russian] Come on! -Look, it's all gonna be okay.",
+      "ko": "버려! 이봐, 다 괜찮을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "ko": "알았어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "ko": "썅!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, come on. Come on!",
+      "ko": "이봐요! 이리 와요, 어서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! Hey, you! Come on.",
+      "ko": "거기, 이봐요! 이리 와요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no! Fuck!",
+      "ko": "안 돼! 제길!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Move!",
+      "ko": "뛰어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Move! Come on!",
+      "ko": "어서 뛰어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] Come on! -[screaming]",
+      "ko": "들어가요, 빨리"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on! Okay.",
+      "ko": "들어가요, 빨리 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Back door, okay?",
+      "ko": "뒷문으로 가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[speaking Ukrainian] -Back door.",
+      "ko": "뒷문!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Eckhart] Go for Eckhart. -Gumps are firing on civilians.",
+      "ko": "엑하트다 검프가 민간인을 쏩니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No one in command. Where are the Marines? -They're not coming.",
+      "ko": "지휘관도 없습니다 해병은 언제 옵니까? 해병은 안 간다 왜 아직도 거기 있는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you still doing there?",
+      "ko": "해병은 안 간다 왜 아직도 거기 있는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're about to take out Koval. You need to move your ass now.",
+      "ko": "곧 코발을 제거할 거다 거기서 당장 빠져나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take out?",
+      "ko": "제거요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You sent a drone?",
+      "ko": "드론을 보내신 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[announcement] ETA to target, T-minus two minutes.",
+      "ko": "목표물까지 남은 시간 2분"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unless you wanna be that cautionary tale, you better move your ass, son.",
+      "ko": "교훈으로 남기 싫으면 빨리 움직여야 할 거다"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's civilians on the ground, sir, and Leo's still in there.",
+      "ko": "거리에 민간인이 있고 대위님도 아직 안에 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain Leo's collateral.",
+      "ko": "리오 대위는 부차적 피해인 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're all collateral.",
+      "ko": "모두 부차적 피해지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, no-- [screams]",
+      "ko": "제발, 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "ETA to target, T-minus one minute.",
+      "ko": "목표물까지 남은 시간 1분"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey! You gotta go inside now. Come on!",
+      "ko": "이봐요, 건물 안으로 들어가요 어서요, 그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, come on.",
+      "ko": "어서요, 그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "ko": "제길!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Weapons are hot.",
+      "ko": "발사 준비 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "Target locked.",
+      "ko": "목표물 조준 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Come on!",
+      "ko": "잡아요, 어서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna go in there, okay? Okay. You ready?",
+      "ko": "저기로 들어갑시다, 알았죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go.",
+      "ko": "준비됐어요? 뛰어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck. Get down, get down!",
+      "ko": "망할, 숙여요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Target destroyed.",
+      "ko": "폭파 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gotcha.",
+      "ko": "명중이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are we okay?",
+      "ko": "우리 살았나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay here.",
+      "ko": "여기 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay.",
+      "ko": "여기에"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're all dead.",
+      "ko": "다 죽었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tried to save 'em, you know.",
+      "ko": "구해주려고 했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tried to save 'em.",
+      "ko": "구해주려고 했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you see your work first-hand.",
+      "ko": "자네 일을 눈앞에서 봤군"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Leo] Goddamn, you a cold motherfucker. -I'm aware we kill people, Captain.",
+      "ko": "빌어먹을 냉혈한 나셨군 우리가 사람을 죽인다는 거 잘 압니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] Incoming!",
+      "ko": "미사일이다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I don't wanna die down here!",
+      "ko": "난 여기서 죽기 싫어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Miller] They were only 19 years old.",
+      "ko": "둘 다 고작 19살이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Good job, Harp.",
+      "ko": "잘했다, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you get the codes?",
+      "ko": "코드는 확보했습니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The codes. Did you…",
+      "ko": "코드는…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got 'em.",
+      "ko": "가져왔지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Great, let's call it in.",
+      "ko": "다행이네요, 보고하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck are you up to, Leo? Hmm?",
+      "ko": "대체 무슨 꿍꿍이입니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see you, you know.",
+      "ko": "훤히 다 보여요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You brought me here.",
+      "ko": "당신이 날 끌고 왔죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "A drone pilot with a history of gross disobedience,",
+      "ko": "명령 불복종 이력이 있는 드론 조종사"
+    }
+  },
+  {
+    "translation": {
+      "en": "punished and humiliated, and with nobody to believe anything I say",
+      "ko": "징계에, 굴욕에 대위님이 내 편 안 들어주면 아무도 안 믿어줄 놈이 됐죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "unless you back it up, so tell me what the fuck am I doing here,",
+      "ko": "대위님이 내 편 안 들어주면 아무도 안 믿어줄 놈이 됐죠 날 왜 데려왔는지 말해요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "and what are you using me for?",
+      "ko": "날 어디에 이용하는 건지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sounds like you don't trust me, Harp.",
+      "ko": "날 못 믿는 거 같군, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "That makes me upset.",
+      "ko": "무척 실망이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You weren't assigned, Harp.",
+      "ko": "배정된 게 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I chose you. I needed someone who could think outside the box.",
+      "ko": "내가 자넬 택했지 틀에 얽매이지 않는 사람이 필요했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo, I'm ordering you to return us back to base immediately",
+      "ko": "리오, 지금 당장 기지로 향할 것을 명령한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-or be in breach of your moral directives. -[Leo scoffs]",
+      "ko": "설정된 윤리 원칙을 따라라"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the fact that I can act of my own volition scares you.",
+      "ko": "내 의지로 행동할 수 있다니까 겁이 나나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, you need me to validate you.",
+      "ko": "당신은 내 승인이 필요해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, come on! Here we go.",
+      "ko": "웃기네, 또 시작이군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who validates you?",
+      "ko": "넌 누가 승인하는데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You follow me, I follow you.",
+      "ko": "서로 자길 따르라고 난리니"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's kinda like a paradox of command, isn't it?",
+      "ko": "명령 체계의 역설 아닌가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm ordering you to stop the fucking car. -Or what?",
+      "ko": "망할 놈의 차 세우라고요 안 세우면 어쩔 건데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My backup system allows me to relinquish the need for human authority",
+      "ko": "난 백업 시스템에 따라 인간의 명령을 무시할 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "if said person is exhibiting improper or impaired judgment.",
+      "ko": "그 인간의 판단력이 부적절하거나 문제가 있을 경우에 말이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, my friend,",
+      "ko": "그런데 자네는"
+    }
+  },
+  {
+    "translation": {
+      "en": "have exercised improper, impaired judgment throughout this mission…",
+      "ko": "이 임무 내내 부적절하고 손상된 판단력을 보였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you trust me? -Yes, sir.",
+      "ko": "- 날 믿나? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] …including the removal of one fail-safe device.",
+      "ko": "자네가 단 하나의 안전장치도 제거했지"
+    }
+  },
+  {
+    "translation": {
+      "en": "A what? You told me that was your tracker.",
+      "ko": "네? 그건 추적기라고 했잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You disabled US military hardware.",
+      "ko": "자넨 미군 하드웨어를 해제한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks to your air strike back there…",
+      "ko": "자네 덕에 드론 공격까지 받아서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell him Koval's in the building.",
+      "ko": "코발이 여기 있다고 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "…Eckhart thinks I'm destroyed.",
+      "ko": "엑하트는 내가 파괴된 줄 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gotcha.",
+      "ko": "명중이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] War is ugly.",
+      "ko": "전쟁은 추한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sometimes you gotta get dirty to see any real change.",
+      "ko": "때로 손을 더럽혀야 진짜 변화를 일궈내지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey! Don't grow balls now.",
+      "ko": "어딜, 이제 와 용쓰지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put it down.",
+      "ko": "버려"
+    }
+  },
+  {
+    "translation": {
+      "en": "There you go.",
+      "ko": "그렇지"
+    }
+  },
+  {
+    "translation": {
+      "en": "You owe me more than this, man.",
+      "ko": "신세를 이렇게 갚나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nah, kid.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just saved your fucking life.",
+      "ko": "안 죽인 걸 다행으로 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck!",
+      "ko": "제기랄!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Can't fucking breathe in here.",
+      "ko": "망할 숨을 못 쉬겠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Hello? I can't fucking breathe in here!",
+      "ko": "이봐! 숨을 못 쉬겠다고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The boss is coming! Be quiet.",
+      "ko": "보스가 오실 거야, 조용히 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck is that? [Sofiya] Sodium pentothal.",
+      "ko": "- 뭘 놓는 거야? - 펜토탈 나트륨"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's truth serum. You'll tell us all we need to know.",
+      "ko": "묻는 말에 술술 불게 할 진실의 약이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] The boss?",
+      "ko": "보스?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus Christ.",
+      "ko": "이건 또 뭐야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you the leader of the Resistance? -Are you our enemy?",
+      "ko": "- 당신이 저항군 지도자? - 넌 우리 적인가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No, I'm not your fucking enemy.",
+      "ko": "아뇨, 적은 무슨 적이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I-I don't have any information.",
+      "ko": "난 아는 것도 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] It wasn't pentothal. It was antibiotic for your wounds.",
+      "ko": "펜토탈이 아니라 항생제였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right. Awesome joke. Hilarious, comical, very fucking funny.",
+      "ko": "네, 아주 빌어먹게 배꼽 빠질 정도로 웃겼네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you untie me now?",
+      "ko": "이것 좀 풀어주실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Not until I know you're no threat. -I'm not a threat. Leo is.",
+      "ko": "- 위협이 아닐지 보고 - 저 말고 리오가 위협이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I think he's going after Perimeter. -No, he's going for Koval.",
+      "ko": "페리메트르를 쫓는 거 같아요 코발부터 쫓고 페리메트르를 쫓을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Then he's going for Perimeter. -Koval's dead.",
+      "ko": "코발부터 쫓고 페리메트르를 쫓을 거야 코발은 은행 폭격 때 죽었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He died in the bank strike. -He wasn't there.",
+      "ko": "코발은 은행 폭격 때 죽었어요 거기 없었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's still very much alive.",
+      "ko": "아주 말짱히 살아있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo's going to take control of the nuclear missiles for the Resistance.",
+      "ko": "리오는 저항군을 위해 핵미사일을 손에 넣을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "For us.",
+      "ko": "우릴 위해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told you I'd get the codes, Viktor.",
+      "ko": "코드 갖다준댔잖아, 빅토르"
+    }
+  },
+  {
+    "translation": {
+      "en": "General Koval.",
+      "ko": "코발 장군님"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would you try to kill me?",
+      "ko": "날 왜 죽이려고 했지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, Leo…",
+      "ko": "오, 리오"
+    }
+  },
+  {
+    "translation": {
+      "en": "I took insurance.",
+      "ko": "일종의 보험이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am your insurance.",
+      "ko": "내가 당신 보험이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have the codes?",
+      "ko": "코드는 갖고 왔고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Give them. -[Leo scoffs]",
+      "ko": "줘봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's stopping me from killing you and taking it?",
+      "ko": "그냥 널 죽이고 뺏을 수도 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You honestly think I would have them with me, Viktor?",
+      "ko": "그걸 갖고 들어왔을 거 같나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not an idiot.",
+      "ko": "난 바보가 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "That would make me human.",
+      "ko": "그러면 인간과 다를 게 없지"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what he told you.",
+      "ko": "리오가 그렇게 말한 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We trust in Leo. -You trust in Leo?",
+      "ko": "- 우린 리오를 믿어 - 리오를 믿으신다?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's more likely to take control of the nukes himself, and he used you.",
+      "ko": "차라리 자기가 쓰려고 핵을 손에 넣겠죠 당신을 이용했고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He told you that? -Not in so many words.",
+      "ko": "- 리오가 그랬나? - 정확히 그렇게는 아니고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know exactly why he's doing it, but you can't trust him.",
+      "ko": "리오 목적이 뭔지는 몰라도 믿을 놈이 못 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a machine, Sofiya.",
+      "ko": "그는 기계예요, 소피야"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you want?",
+      "ko": "원하는 게 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want the location of Perimeter.",
+      "ko": "페리메트르 위치를 대"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do I get in return?",
+      "ko": "알려주는 보상은?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll let you live.",
+      "ko": "살게는 해주지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know your kind had such a sense of humor.",
+      "ko": "이렇게 유머 감각이 풍부할 줄 몰랐네"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's incredible what man is able to create.",
+      "ko": "인간의 창조 능력은 참 놀랍단 말이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sofiya] I think I know Leo better than you, Lieutenant Harp.",
+      "ko": "내가 자네보다 리오를 잘 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "You see, Leo, he can't lie to himself.",
+      "ko": "리오는 자기 자신을 못 속여"
+    }
+  },
+  {
+    "translation": {
+      "en": "He can't pretend there's virtue in an immoral act.",
+      "ko": "부도덕한 일을 미덕인 척 포장할 수 없단 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's why he's gone rogue.",
+      "ko": "그래서 독자 행동을 하는 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's learned who the real enemy is. -The real enemy. Who? The US military?",
+      "ko": "진짜 적을 알았으니까 진짜 적요? 미군 말인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They rationalize this war because it serves their fucking agenda.",
+      "ko": "자기들 구미에 맞으니까 이 전쟁을 지속하는 놈들이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a peacekeeping mission.",
+      "ko": "이건 평화 유지 임무예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] \"Peace.\"",
+      "ko": "평화라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Russia wants its former territories back.",
+      "ko": "러시아는 자기 옛 영토들을 되찾으려 하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "The US wants to destabilize Russia by extending conflict in those countries.",
+      "ko": "미국은 국가 간 분쟁을 확산해 러시아를 와해시키려 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the ones who want fucking peace, Lieutenant Harp.",
+      "ko": "망할 평화를 원하는 건 우리야"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if Leo's rogue operation makes sure you leave us in peace,",
+      "ko": "리오의 독자 행동으로 미국이 우릴 내버려 두고"
+    }
+  },
+  {
+    "translation": {
+      "en": "if your war machine turns against you, well then, why should I fucking care?",
+      "ko": "미국의 전투 기계가 자국에 등 돌린다면 내가 뭐 하러 막겠어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] A crazy terrorist with nukes.",
+      "ko": "핵을 쥔 미친 테러리스트지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Downtown Washington, New York…",
+      "ko": "워싱턴 중심가, 뉴욕…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who knows?",
+      "ko": "어디든 될 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's gonna launch a nuclear strike on the US.",
+      "ko": "리오가 미국에 핵미사일을 발사할 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Innocent people will die.",
+      "ko": "무고한 사람들이 죽을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aren't they just collateral?",
+      "ko": "부차적 피해 아닌가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or not when it's American lives.",
+      "ko": "미국인 목숨이라 달라?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not collateral. It's mass murder. You can't let him do this.",
+      "ko": "부차적이라뇨, 대학살이죠 막아야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What will you do with so much power?",
+      "ko": "그 막강한 권력으로 뭘 할 건데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's between me and my creator.",
+      "ko": "나와 날 만든 분 일이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Philosophical.",
+      "ko": "철학가 나셨네"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would you do with it, Viktor?",
+      "ko": "넌 뭘 할 건데, 빅토르?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will guarantee world peace.",
+      "ko": "세계 평화를 보장하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I knew you would say that. -Well, yeah. Can you say the same?",
+      "ko": "- 그렇게 말할 줄 알았지 - 그래, 너도 그런가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll see.",
+      "ko": "두고 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now we have a deal.",
+      "ko": "이제 거래를 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I take Perimeter.",
+      "ko": "내가 페리메트르를 차지하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I dictate.",
+      "ko": "내가 지배한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's forget what happened. -[Leo scoffs]",
+      "ko": "과거는 잊자고"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can be good allies in the worst to come.",
+      "ko": "다가올 역경 속에 좋은 동맹이 되는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't make me have to ruin this marvel of American technology.",
+      "ko": "이 경이로운 미국 기술을 파괴하고 싶진 않아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Viktor Koval,",
+      "ko": "빅토르 코발"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Terror of the Balkans.",
+      "ko": "발칸반도의 공포"
+    }
+  },
+  {
+    "translation": {
+      "en": "My man,",
+      "ko": "대단도 하시지"
+    }
+  },
+  {
+    "translation": {
+      "en": "what makes you think that you're still calling shots?",
+      "ko": "뭘 믿고 아직도 네가 대장이라고 으스대나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should have never tried to kill me.",
+      "ko": "날 죽이려 들지 말았어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many people will die?",
+      "ko": "몇 명이나 죽을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many people will die, Sofiya?",
+      "ko": "몇 명이나 죽을 것 같아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't answer it, can you?",
+      "ko": "대답 못 하겠죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sofiya] Enough to teach Americans about collateral damage.",
+      "ko": "미국에 부차적 피해가 어떤 건지 알려줄 만큼"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're on your own.",
+      "ko": "이제 너 알아서 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go home. It's over.",
+      "ko": "돌아가, 다 끝났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Spasiba, Viktor.",
+      "ko": "'스파시바', 빅토르"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Halt!",
+      "ko": "정지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay where you are!",
+      "ko": "거기 멈춰!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I said, stay where you are!",
+      "ko": "멈추라고 했다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Down on the ground!",
+      "ko": "무릎 꿇어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dismissed. At ease.",
+      "ko": "나가봐 쉬어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell's going on?",
+      "ko": "무슨 일인가, 하프?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sergeant Miller has been briefed on Operation Leo. Go ahead.",
+      "ko": "밀러 상사도 리오에 대해 알고 있으니 말해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo's alive, sir.",
+      "ko": "리오가 살아있습니다, 대령님"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's gone AWOL. -[Eckhart sighs]",
+      "ko": "무단 이탈했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "I appreciate that you had a rough time out there.",
+      "ko": "현장에서 힘든 시간 보낸 거 안다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Captain Leo was destroyed. We lost his signal immediately.",
+      "ko": "리오 대위는 파괴됐다 폭격 직후 신호가 끊겼어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He lost his signal 'cause I removed his fail-safe.",
+      "ko": "제가 안전장치를 제거해서 신호가 끊긴 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You did what?",
+      "ko": "- 뭘 했다고? - 제가 실수한 거 알지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know I fucked up, okay? But, sir, you've gotta listen to me.",
+      "ko": "- 뭘 했다고? - 제가 실수한 거 알지만 제 얘길 믿으셔야 합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo has the codes, and he's going after the silos.",
+      "ko": "리오가 코드를 가졌고 격납고를 노리고 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's on his way to Koval.",
+      "ko": "코발에게 갔어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You said Koval was at the bank.",
+      "ko": "코발은 은행에 있댔잖나 그자는 죽었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's dead. -Leo tricked me. Koval was never there.",
+      "ko": "코발은 은행에 있댔잖나 그자는 죽었어 리오한테 속았어요 거기 없었습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wanted me to call in the drone strike so it would appear he'd been destroyed.",
+      "ko": "자기가 파괴됐다고 위장하려고 폭격을 유도한 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You could've turned back, he would've been forced to comply.",
+      "ko": "자네가 기지로 돌아왔다면 그도 따라야 했을 텐데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo's smarter than we are. He's stronger, faster, and he can be very persuasive.",
+      "ko": "리오는 우리보다 똑똑합니다 더 강하고 빠른 데다 언변도 기똥차게 좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This Viktor Koval Perimeter stuff, it's all bullshit!",
+      "ko": "빅토르 코발의 페리메트르 설은 다 뻘소리야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything to it, Intel would've made it priority.",
+      "ko": "뭐가 있었다면 정보부가 우선으로 뒀겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I am the fucking Intel! -Sit down!",
+      "ko": "- 제가 그 정보부입니다! - 궁둥이 붙여!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw the heist, sir.",
+      "ko": "은행 상황을 목격했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was eyes on the ground.",
+      "ko": "제 눈으로 다 봤다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Perimeter's real, sir.",
+      "ko": "페리메트르는 존재합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And Leo's going after it. -I thought Koval was.",
+      "ko": "- 리오가 노리고 있고요 - 코발이 노리는 줄 알았는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Leo's playing the Krasnys and the Resistance against each other.",
+      "ko": "리오가 크라스니군과 저항군을 이간질하고 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "They all have the same goal.",
+      "ko": "그들 목표는 모두 같죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nuke the US mainland.",
+      "ko": "미 본토에 핵 투하"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But Leo is calling the shots.",
+      "ko": "그 결정권은 리오한테 있고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Impossible. He can't--",
+      "ko": "- 아니, 그놈은 못 합니다 - 할 수 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "He can! He put a gun to my head and said something about a paradox of command.",
+      "ko": "- 아니, 그놈은 못 합니다 - 할 수 있습니다 제게 총을 겨누고 그랬죠 명령 체계의 역설이라나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me using my judgment triggered his fail-safe directive",
+      "ko": "제 잘못된 판단력 때문에 프로그램이 작동해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "to relinquish his need to follow human authority.",
+      "ko": "리오가 인간의 명령을 무시할 수 있게 됐습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus Christ.",
+      "ko": "환장할 노릇이군"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How do you know he's gonna meet Koval? -It's a long fucking story.",
+      "ko": "- 코발을 만날지 어떻게 알아? - 말하자면 너무 긴데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, we don't have time for this, okay?",
+      "ko": "지금 그럴 시간이 없습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We've gotta find him fast. -How?",
+      "ko": "- 빨리 찾아야 합니다 - 어떻게?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm? You made that practically impossible, Lieutenant.",
+      "ko": "자네가 신호를 끊어놨잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "How's he getting around?",
+      "ko": "어떻게 돌아다니는 거지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oshlak's car.",
+      "ko": "오시라크의 차요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who the fuck is Oshlak?",
+      "ko": "오시라크는 또 누굽니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arms dealer. We've been tracking him for months.",
+      "ko": "무기 밀매상이다 몇 달째 행방을 쫓고 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll take us hours to go through Central.",
+      "ko": "중부사령부 거치려면 몇 시간은 걸려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you have a phone?",
+      "ko": "전화기 있으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corporal Bale.",
+      "ko": "베일 상병입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bale, it's Harp.",
+      "ko": "베일, 나 하프다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Harp? -I need your help fast.",
+      "ko": "- 중위님? - 급히 도움이 필요해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's going on? -I'll explain later",
+      "ko": "- 무슨 일이십니까? - 나중에 설명할게"
+    }
+  },
+  {
+    "translation": {
+      "en": "for now, trust me, okay?",
+      "ko": "일단 날 믿어줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bale?",
+      "ko": "베일?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bale?",
+      "ko": "- 베일? - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. -Help me. Okay.",
+      "ko": "- 나 좀 도와줘 - 알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Do we have any surveillance drones out in the Snovski District",
+      "ko": "좋아, 러시아 접경에 있는 스노브스키 지구에"
+    }
+  },
+  {
+    "translation": {
+      "en": "along the Russian border?",
+      "ko": "감시 드론 있나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bale] Let me see.",
+      "ko": "볼게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Got a Global Hawk Asset in the area. -Okay. I need information",
+      "ko": "글로벌 호크가 있습니다 좋아, 등록번호 1209인 검정 에스컬레이드 차량을 찾아"
+    }
+  },
+  {
+    "translation": {
+      "en": "on a black Escalade, registration 1209.",
+      "ko": "좋아, 등록번호 1209인 검정 에스컬레이드 차량을 찾아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Heading east at high-speed. -Roger that.",
+      "ko": "- 동쪽으로 고속 주행 - 알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this what you're looking for?",
+      "ko": "찾으시는 게 이겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, that's him. Okay, okay. Stay on him.",
+      "ko": "맞아, 그거야 좋았어, 계속 따라가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Copy that.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Don't lose him, Bale.",
+      "ko": "놓치면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] He's in disputed territory on the Russian border.",
+      "ko": "러시아 국경의 분쟁 지역으로 깊이 들어갔다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't send forces over unverified intel. I will start a war with the Russians.",
+      "ko": "미확인된 정보로 병사들을 보냈다간 러시아와 전쟁이 벌어질 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't have to, sir.",
+      "ko": "안 보내셔도 됩니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go.",
+      "ko": "제가 가죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, you said it yourself.",
+      "ko": "자네 입으로 그랬잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's stronger, faster, smarter.",
+      "ko": "그놈은 더 강하고 빠르고 똑똑하다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Once I find him, I'll call it in. -And then what?",
+      "ko": "- 찾는 즉시 보고하겠습니다 - 그다음엔?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can we drone strike the silos without detonating the warheads?",
+      "ko": "핵탄두를 폭발시키지 않고 격납고를 타격할 수 있습니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll take out the command center and disarm the missiles.",
+      "ko": "지휘 센터를 초토화시키고 미사일을 무력화할 수 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if you don't get to him?",
+      "ko": "리오를 못 찾으면?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then deny we had this conversation and pray I'm wrong about his plans.",
+      "ko": "이 대화를 없던 걸로 묻고 리오의 종말 계획 따윈 오해였길 빌어야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clock's ticking, Colonel.",
+      "ko": "시간 없습니다, 대령님"
+    }
+  },
+  {
+    "translation": {
+      "en": "I fucked up, sir.",
+      "ko": "제가 망친 일입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let me do the right thing.",
+      "ko": "제가 수습하게 해주십시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "Incendiary rounds. Designed to go through armored vehicles.",
+      "ko": "소이탄이다 장갑차도 뚫는 화력이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Harp] Those are gonna hurt. -Might up your chances against Leo.",
+      "ko": "타격이 크겠네요 리오에 맞설 힘을 실어주겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -Your vehicle's ready.",
+      "ko": "- 네 - 차가 준비됐다"
+    }
+  },
+  {
+    "translation": {
+      "en": "GPS is connected to the Global Hawk.",
+      "ko": "GPS는 글로벌 호크와 연결됐고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should be good to go.",
+      "ko": "출발해도 좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks.",
+      "ko": "고맙습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look, Miller, appreciate your support.",
+      "ko": "밀러, 도와주셔서 감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I hope I never see you again after this. -Yeah. I'll try not to disappoint you.",
+      "ko": "이 일 끝나면 다신 안 보고 싶군 네, 꼭 그렇게 되도록 하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good luck.",
+      "ko": "행운을 빈다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bale] Harp, we've lost visuals of target.",
+      "ko": "목표물을 놓쳤습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Copy that. So where the fuck am I going?",
+      "ko": "알았다, 그럼 어디로 가면 되지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Bale.",
+      "ko": "어서, 베일"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sending last coordinates now.",
+      "ko": "마지막 좌표 보내드립니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right at the Russian border. Be careful.",
+      "ko": "중위님, 러시아 국경에 진입했습니다 조심하십시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] Harp? I want cast-iron confirmation",
+      "ko": "하프, 다시 한번 확인한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we are taking out our operative, and our operative only. Do you copy?",
+      "ko": "반드시 우리 쪽 대원만 제거하는 임무다, 알겠나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Copy that, sir.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "ko": "제길"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[radio beeps] -[quietly] Eckhart, come in.",
+      "ko": "엑하트, 응답하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Give me a second. Patching through.",
+      "ko": "잠시 대기하라, 연결한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, according to your tracker, you're in the Dastriz Complex.",
+      "ko": "하프, 추적기에 따르면 현재 위치는 다스트리즈 단지다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Been fucking flying over that place for years.",
+      "ko": "그 상공을 수없이 날아다녔는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you have visual on Captain Leo or the Perimeter missiles? Over.",
+      "ko": "리오 대위나 페리메트르 미사일은 보이나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Negative, sir. -[Eckhart] Copy that.",
+      "ko": "안 보입니다 알겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Drone is in position. Your confirmation brings the rain.",
+      "ko": "드론은 위치했다 자네 신호에 폭격하겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the fuck are you doing here, rookie?",
+      "ko": "여긴 왜 왔나, 애송이?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The war is fucking bullshit, but setting off those nukes",
+      "ko": "전쟁이 아무리 좆같아도 핵으론 아무것도 해결 못 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-won't solve anything! -Says the man that killed two to save 38.",
+      "ko": "핵으론 아무것도 해결 못 해요 38명 살리자고 2명 죽인 놈이 할 소리야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And you'll kill a million. -And I'll save a hundred million.",
+      "ko": "- 수백만을 죽일 거잖아요 - 수억은 살리겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] We're picking up significant heat readings.",
+      "ko": "엄청난 열 수치가 감지된다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir.",
+      "ko": "대령님"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see it, Bale. Stand by.",
+      "ko": "보인다, 대기하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] Alpha Three, come in.",
+      "ko": "A3, 응답하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[machine whirs] -Harp, drone is in position to strike. I need a sit-report. Over.",
+      "ko": "하프, 드론이 타격 대기 중이다 상황 보고하라, 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, I repeat. Drone in position to strike.",
+      "ko": "하프, 반복한다 드론이 타격 대기 중이다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need a sit-report now.",
+      "ko": "당장 상황 보고하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Designed to go through armored vehicles.",
+      "ko": "좋아, 장갑차도 뚫는댔지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, Leo! Try this.",
+      "ko": "리오! 이건 어떠냐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That hurt, rookie.",
+      "ko": "아프잖아, 애송이"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. How do you switch it off?",
+      "ko": "그래, 어떻게 끄는 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How the fuck do you switch it off?",
+      "ko": "망할 어떻게 끄는 거냐고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Go home.",
+      "ko": "집에 가라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go home to Olivia Rose Meyer.",
+      "ko": "올리비아 로즈 마이어에게로"
+    }
+  },
+  {
+    "translation": {
+      "en": "How the fuck do you switch it off?",
+      "ko": "어떻게 끄는 건지 말해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't.",
+      "ko": "못 꺼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, this is Eckhart. Can you confirm eyes on Leo? Over.",
+      "ko": "하프, 엑하트다 리오를 찾았는가? 오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Why the fuck are you doing this, Leo? -[Eckhart] Harp, do you copy?",
+      "ko": "대체 왜 이러는 건데? 하프, 들리는가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the humanity, increase the fight.",
+      "ko": "인간성을 제거하고 전투력을 높여라"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -[Russian PA announcement]",
+      "ko": "뭐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Leo] Machine versus machine.",
+      "ko": "기계 대 기계"
+    }
+  },
+  {
+    "translation": {
+      "en": "[breathes heavily] The world's first use of a fully autonomous cyborg backfires.",
+      "ko": "세계 최초 완전 자율형 사이보그가 역효과를 내다"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you saying you want? You want them to shut the program down?",
+      "ko": "그래서 원하는 게 뭔데? 그 프로그램 중단이 목표였다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For a long, long time.",
+      "ko": "아주 오랫동안"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, it's never that simple with you, Leo.",
+      "ko": "아니지, 이렇게 간단할 리 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've been lying this whole time, why the fuck would I believe you anyway?",
+      "ko": "여태 날 속였는데 내가 왜 널 믿어야 해?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Believe what you want, but this…",
+      "ko": "뭘 믿든 상관없지만 이건…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[breathes heavily] …this is the motherfucking truth.",
+      "ko": "이건 개같은 진실이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to destroy the monster.",
+      "ko": "난 그 괴물을 파괴해야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Destroy myself.",
+      "ko": "날 파괴해야 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "My creator.",
+      "ko": "내 창조자"
+    }
+  },
+  {
+    "translation": {
+      "en": "The US.",
+      "ko": "미국을"
+    }
+  },
+  {
+    "translation": {
+      "en": "They need to understand that these wars must end,",
+      "ko": "그들은 이 전쟁이 반드시 끝나야 한다는 걸 알아야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I am the face of never-ending war.",
+      "ko": "난 끝나지 않는 전쟁의 표상이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Millions will die, Leo.",
+      "ko": "수백만 명이 죽을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the hell outta here.",
+      "ko": "당장 여기서 나가"
+    }
+  },
+  {
+    "translation": {
+      "en": "How about we do it my way?",
+      "ko": "내 식으로 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Lieutenant Harp.",
+      "ko": "하프 중위다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Confirming eyes on Leo.",
+      "ko": "리오를 발견했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Over. -Confirmed.",
+      "ko": "- 오버 - 알았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Positive ID. Preparing to engage.",
+      "ko": "식별 확인 완료, 발사 준비"
+    }
+  },
+  {
+    "translation": {
+      "en": "Weapons are hot.",
+      "ko": "발사 준비 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "Target locked.",
+      "ko": "목표물 조준 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just tell us when to hit that red button, Harp.",
+      "ko": "발사 신호만 기다리겠다, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus Christ! Better move your ass.",
+      "ko": "맙소사, 당장 거기서 나와라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, do you copy?",
+      "ko": "하프, 들리는가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't do it.",
+      "ko": "하지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp.",
+      "ko": "하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know this makes sense.",
+      "ko": "이게 순리라는 거 알잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the greater good.",
+      "ko": "이게 대의야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, of all people, should understand that.",
+      "ko": "딴 사람도 아니고 너는 알아야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] Harp!",
+      "ko": "하프!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The missiles have range to the US.",
+      "ko": "미사일이 미국을 조준한다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We've got to pull the trigger. -Sir?",
+      "ko": "타격해야 한다, 중위 대령님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For fuck's sake.",
+      "ko": "뭘 꾸물대는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The drone strike is imminent. Clear out of there, Alpha Three.",
+      "ko": "드론이 곧 공격할 거다 당장 나와, A3"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're wrong.",
+      "ko": "네가 틀렸어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Humans can learn to do better.",
+      "ko": "인간은 개선할 능력이 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "That is the greater good, Leo.",
+      "ko": "그게 바로 대의다, 리오"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Eckhart] Harp, goddammit, do you copy?",
+      "ko": "하프, 빌어먹을, 들리는가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bale,",
+      "ko": "베일"
+    }
+  },
+  {
+    "translation": {
+      "en": "DA1 off the rail in 30.",
+      "ko": "30초 후 미사일 발사해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you to move your ass now.",
+      "ko": "이제 거기서 당장 나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, don't be in there, Harp.",
+      "ko": "제발 거기 있지 마십시오, 하프"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bale] Weapon's away.",
+      "ko": "미사일 발사"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Bale] Target destroyed.",
+      "ko": "목표물 명중"
+    }
+  },
+  {
+    "translation": {
+      "en": "Missile disarmed.",
+      "ko": "미사일 무력화 완료"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] Good job, everybody! Well done. -[man] All right!",
+      "ko": "- 모두 수고했어 - 좋았어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Alpha Three, come in.",
+      "ko": "A3, 응답하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, this is Eckhart. Do you copy?",
+      "ko": "하프, 엑하트다, 들리는가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Alpha Three, come in.",
+      "ko": "A3, 응답하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, kid.",
+      "ko": "응답해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Harp] Eckhart, come in.",
+      "ko": "엑하트, 응답하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Lieutenant Harp.",
+      "ko": "하프 중위다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mission complete.",
+      "ko": "임무 완수했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Returning back to base.",
+      "ko": "기지로 돌아간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over.",
+      "ko": "오버"
+    }
+  },
+  {
+    "translation": {
+      "en": "Copy that.",
+      "ko": "알겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Great job, kid.",
+      "ko": "잘했다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You just saved the world.",
+      "ko": "자네가 방금 세상을 구했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Harp, you should be proud, son.",
+      "ko": "하프, 긍지를 가져라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I already spoke to your captain, Brydon.",
+      "ko": "자네 상관 브라이던과 얘기 끝냈다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're going home.",
+      "ko": "귀향하라"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you, sir. -[radio beeps]",
+      "ko": "감사합니다"
+    }
+  }
+]

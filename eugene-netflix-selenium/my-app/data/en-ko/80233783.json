@@ -1,0 +1,5816 @@
+[
+  {
+    "translation": {
+      "en": "[woman over radio] Attention all units, attention all units.",
+      "ko": "전 대원 주목"
+    }
+  },
+  {
+    "translation": {
+      "en": "Probable domestic disturbance with hostage situation.",
+      "ko": "가정 내 인질 대치 상황이 발생한 거 같다"
+    }
+  },
+  {
+    "translation": {
+      "en": "10-24, officer down.",
+      "ko": "10-24 코드 경관 한 명 피격"
+    }
+  },
+  {
+    "translation": {
+      "en": "Perp is a Caucasian male, no known priors.",
+      "ko": "용의자는 백인 남성으로 전과는 없다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Considered extremely dangerous. Proceed with caution.",
+      "ko": "위험한 상황이니 조심해서 접근할 것"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1 over radio] Unit 16. Suspect is Ray Hutchinson,",
+      "ko": "용의자 레이 허친슨, 38세 188cm의 백인 남성"
+    }
+  },
+  {
+    "translation": {
+      "en": "38, 6'2\", white male, medium build, ex-wife...",
+      "ko": "용의자 레이 허친슨, 38세 188cm의 백인 남성 전처와 두 자녀..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2 over radio] We've got three hostages, ex-wife and two kids.",
+      "ko": "인질은 전처와 두 자녀다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Situation is extremely unstable.",
+      "ko": "극히 불안정한 상황"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Suspect is wanted in connection with the murder of a police officer.",
+      "ko": "경관 한 명 살해 혐의도 있다"
+    }
+  },
+  {
+    "translation": {
+      "en": "He should be considered armed and dangerous.",
+      "ko": "무기 소지 추정"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ray over phone] I'm not coming out, you hear me? I'm not coming out.",
+      "ko": "난 안 나가, 알겠어? 안 나간다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want everyone gone. You, your men, snipers, everyone.",
+      "ko": "다 철수해 당신, 저격수 모두"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I don't see taillights in the next five minutes,",
+      "ko": "5분 안에 모두 떠나지 않으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "you're not gonna like what happens next.",
+      "ko": "그 뒷일은 나도 책임 못 져"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[line clicks] -Ray?",
+      "ko": "레이?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you get him back on the phone?",
+      "ko": "다시 연결할 수 없나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's done talking.",
+      "ko": "대화는 끝났어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do it. -Yes, sir.",
+      "ko": "시작해 알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[commander over radio] Gold Unit, this is HR1. Move to green.",
+      "ko": "골드 팀, 여긴 HR1 그린 코드로 변경"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ma'am, come with me.",
+      "ko": "부인, 이리 오시죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "FBI, show me your hands!",
+      "ko": "FBI다, 손 들어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hands!",
+      "ko": "손 들어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn around!",
+      "ko": "돌아서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "ko": "젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Got him clean, boss. -Ben, no.",
+      "ko": "맞힐 수 있어, 대장 벤, 안 돼 무기를 안 들었잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's not carrying.",
+      "ko": "벤, 안 돼 무기를 안 들었잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ray. Ray, look at me.",
+      "ko": "레이, 날 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[sobbing] -It's all over.",
+      "ko": "다 끝났소"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't want it to end like this.",
+      "ko": "이렇게 끝내고 싶진 않았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not supposed to end like this.",
+      "ko": "이렇게 끝낼 생각은 아니었다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put your son down and step away.",
+      "ko": "아들 내려놓고 나와요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sorry. -It's okay.",
+      "ko": "미안해요 괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. [exhales]",
+      "ko": "좋아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No! -[explosion]",
+      "ko": "안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[pilot] Command, this is Navy Alpha two-one-niner en route to Beaufort Naval Hospital.",
+      "ko": "여긴 해군 알파 219 뷰퍼트 해군 병원으로 가는 중"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman over PA] Dr. McCullen, Surgery, please.",
+      "ko": "\"미합중국 해군\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[nurse 1] Three, two, one, lift.",
+      "ko": "셋, 둘, 하나 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[nurse 2] He's ready for you, Lieutenant.",
+      "ko": "시작하시죠, 대위님"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna be okay.",
+      "ko": "괜찮을 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] From the Great Pyramid of Giza to the Tower of Babel,",
+      "ko": "기자의 피라미드부터 바벨탑에 이르기까지"
+    }
+  },
+  {
+    "translation": {
+      "en": "brick by brick and stone by stone,",
+      "ko": "벽돌과 돌을 하나씩 쌓을 때마다"
+    }
+  },
+  {
+    "translation": {
+      "en": "mankind has been consumed by one singular desire,",
+      "ko": "인류가 꿈꿔온 건 단 하나였죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "to touch the sky.",
+      "ko": "하늘까지 오르는 것!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman] Perhaps, finally, we've done it.",
+      "ko": "그 꿈이 이뤄진 거 같네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman 2] The brainchild of former tech magnate, Zhao Long Ji.",
+      "ko": "IT 기업인 출신 쟈오 롱 지가 창조한..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Visionary entrepreneur Zhao Long Ji...",
+      "ko": "선구적인 기업가 쟈오 롱 지가..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] Who has spared no expense creating this city in the sky,",
+      "ko": "하늘의 도시에 거액을 투자"
+    }
+  },
+  {
+    "translation": {
+      "en": "going so far as to build a 30-story vertical park at the building's center.",
+      "ko": "현재는 30층에 공원을 조성 중입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Pearl speaks to what we can achieve when we don't accept limitations.",
+      "ko": "'펄'은 한계에 도전한 결과죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman 3] This isn't just another building.",
+      "ko": "이건 그냥 건물이 아닙니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman 2] The tallest building on Earth.",
+      "ko": "지상에서 가장 높은 건축물이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] This high-tech high-rise generates all of its energy needs",
+      "ko": "이 최첨단 건물은 꼭대기 부분에 있는"
+    }
+  },
+  {
+    "translation": {
+      "en": "from a massive double helix wind turbine near its top.",
+      "ko": "대형 풍력 발전기로 전력을 자체 조달합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman] Dwarfing the Burj Khalifa and tripling the height",
+      "ko": "부르즈 칼리파보다 높고 엠파이어 스테이트 빌딩보단 세 배나 높죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "of the venerable Empire State Building.",
+      "ko": "엠파이어 스테이트 빌딩보단 세 배나 높죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[newsman] Over 3,000 feet. -[both] The Pearl.",
+      "ko": "914m 높이에..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman] The Pearl's lower half has delighted the public for six months.",
+      "ko": "하층 상업 공간은 6개월 전에 개장했고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman 4] Its residential upper half has yet to open its doors.",
+      "ko": "주거 층은 아직 오픈 전입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] Buildings shape our society.",
+      "ko": "건물은 우리의 삶을 바꾸죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Better buildings... -[newswoman] Better cities.",
+      "ko": "좋은 건물이 - 좋은 도시를 만듭니다 - 좋은 세상을 만들죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] A better world.",
+      "ko": "- 좋은 도시를 만듭니다 - 좋은 세상을 만들죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman 2] But it's the mysterious sphere that has the world buzzing.",
+      "ko": "세간의 관심을 끄는 건 원형 구조물 '스피어'입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] In a statement released today,",
+      "ko": "오늘 발표한 성명에서 이 미스터리한 억만장자는"
+    }
+  },
+  {
+    "translation": {
+      "en": "the secretive billionaire confirmed that despite rumors",
+      "ko": "오늘 발표한 성명에서 이 미스터리한 억만장자는 건물이 취약하다는 소문에도"
+    }
+  },
+  {
+    "translation": {
+      "en": "of an inability to fully insure a structure this size,",
+      "ko": "건물이 취약하다는 소문에도"
+    }
+  },
+  {
+    "translation": {
+      "en": "plans to open the building's upper half remain on track.",
+      "ko": "상층부를 예정대로 오픈하겠다고 밝히며..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[newswoman 3] He promises that the sphere will be the number one tourist attraction in the world, with views of Hong Kong...",
+      "ko": "스피어가 세계 최고의 명물이 될 것이라 장담했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "The screens go off, shoes go on. It's panda time.",
+      "ko": "TV 끄고 신발 신고! 판다 보러 가자!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's your dad? I need him to fix my phone before we go.",
+      "ko": "아빠 어딨어? 나가기 전에 내 휴대폰 고쳐줘야 하는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bathroom. -Okay.",
+      "ko": "화장실에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Georgia] He's talking to himself again.",
+      "ko": "또 혼자 중얼거려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, screw it. I'm just gonna high-five the guy.",
+      "ko": "됐어, 그냥 하이파이브나 하자"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "ko": "괜찮아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. -Yeah, just some leg stuff, you know. -Mmm.",
+      "ko": "응, 의족 끼우느라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, you look very handsome.",
+      "ko": "오늘 되게 잘생겼네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You think so? -Mmm-hmm.",
+      "ko": "그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does it look like I'm trying too hard?",
+      "ko": "너무 신경 썼나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, it looks respectful.",
+      "ko": "정중해 보이고 좋은데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe I lose the tie?",
+      "ko": "넥타이는 뺄까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, but you should learn to tie one. Come here.",
+      "ko": "아니, 근데 좀 이상하다 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can hear your gears turning.",
+      "ko": "복잡한 표정이네"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "ko": "왜 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just don't want to screw it up, you know.",
+      "ko": "망칠까 봐 걱정돼서"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not gonna screw it up.",
+      "ko": "잘할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. What if I missed something?",
+      "ko": "빼먹은 게 있으면 어쩌지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baby, there's no way you've missed something.",
+      "ko": "자기야 그런 걱정은 하지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've been preparing for this meeting for six months. I've never seen you work harder on anything.",
+      "ko": "6개월 전부터 정말 열심히 준비했잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're ready for this. You know this place better than the architect.",
+      "ko": "이젠 건축가보다 그 건물을 잘 알걸"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna do great.",
+      "ko": "잘할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "They flew you out here for a reason. They want to hear what you have to say.",
+      "ko": "홍콩까지 부른 건 그만큼 신뢰해서야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, hope so.",
+      "ko": "그러길 바라야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben stuck his neck out for me and then, you know,",
+      "ko": "벤이 신경 써줬는데..."
+    }
+  },
+  {
+    "translation": {
+      "en": "this could be a real game-changer for us.",
+      "ko": "우리한텐 일생의 기회고"
+    }
+  },
+  {
+    "translation": {
+      "en": "They give stuff like this to big companies. I work out of our garage.",
+      "ko": "이런 큰 용역을 우리 같은 구멍가게에 주다니"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, it's a good garage.",
+      "ko": "아주 좋은 구멍가게지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, look, just because you're a smaller company",
+      "ko": "작은 회사라 해도"
+    }
+  },
+  {
+    "translation": {
+      "en": "does not mean that you don't belong",
+      "ko": "회사는 회사야"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, for the record,",
+      "ko": "벤이 신경 써준 건"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben stuck his neck out for you because he's your friend",
+      "ko": "당신 친구이기 때문이고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's what friends do.",
+      "ko": "친구는 그런 거잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey. Look at me. Look at me.",
+      "ko": "여보, 날 봐 내 얼굴 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've got this.",
+      "ko": "당신은 할 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you.",
+      "ko": "사랑해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You better. -[both chuckle]",
+      "ko": "안 그러면 죽지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here.",
+      "ko": "이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "My phone isn't working.",
+      "ko": "내 휴대폰이 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughs] -Oh, so, was all the,",
+      "ko": "그래서 그랬구먼"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Hey, look at me, you've got this, you look so handsome,\"",
+      "ko": "'날 봐, 할 수 있어 되게 잘생겼네'"
+    }
+  },
+  {
+    "translation": {
+      "en": "just a way of buttering me up to fix your phone again?",
+      "ko": "휴대폰 고쳐달라고 아부한 거네"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a distinct possibility.",
+      "ko": "그랬을 수도 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Okay.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, well, what do I tell you to do any time something's wrong with your phone?",
+      "ko": "휴대폰이 고장 나면 어떻게 하랬지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Try turning it off and on again.",
+      "ko": "'껐다가 다시 켜라'"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Try turning it off and on again.",
+      "ko": "껐다가 다시 켜라"
+    }
+  },
+  {
+    "translation": {
+      "en": "90% of the time,",
+      "ko": "그럼 열에 아홉은 문제가 해결돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "you can fix a problem by turning it off and on again.",
+      "ko": "그럼 열에 아홉은 문제가 해결돼 껐다가 켜기만 해도"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, did you, uh, try turning it off and on again?",
+      "ko": "그래서 껐다가 켜봤어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nope. I like it better when you do it. It gives you a sense of accomplishment.",
+      "ko": "아니, 당신이 성취감을 느끼게 해주고 싶어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I see. So you're asking me to fix your phone for me?",
+      "ko": "그러니까 날 위해서 당신 휴대폰을 고쳐달라?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] You're welcome.",
+      "ko": "고맙지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put your coats in your bags.",
+      "ko": "가방에 코트 넣어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] All right, kids. You guys are gonna go see pandas.",
+      "ko": "가자, 너희는 판다 보러"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah gasps] Pandas. -Daddy's gonna go make that bacon.",
+      "ko": "아빤 돈 벌러!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[children laugh] -Let me ask you a question.",
+      "ko": "자, 질문 타임"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy loves who? -Me.",
+      "ko": "아빤 누굴 사랑하지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy loves who? -Me.",
+      "ko": "- 나요 - 누굴 사랑해?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy loves who? -[both] Me! Me!",
+      "ko": "- 나요 - 누굴 사랑해? - 나요, 나! - 나지, 나요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Can't hear you. Can't hear you. -[both] Me! Me!",
+      "ko": "안 들려"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Confidence. Not confident. -Me! Me!",
+      "ko": "자신 없는 목소린데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy loves who? -Me! Me!",
+      "ko": "- 아빤 누굴 사랑해? - 나라니까요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, okay, you know what? You're both right.",
+      "ko": "그래, 둘 다 맞아 왜냐면"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Because Daddy loves you both. -Aw...",
+      "ko": "그래, 둘 다 맞아 왜냐면 너희 둘 다 사랑하거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] I got to get a chant.",
+      "ko": "나도 사랑이 필요한데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You fixed it? -As always.",
+      "ko": "- 고쳤어? - 당연하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] You really do love me.",
+      "ko": "진짜 날 사랑하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Eh, kind of. -[laughs] Come here.",
+      "ko": "- 좀 그렇지 - 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gross.",
+      "ko": "웩!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-My brother. -Brother.",
+      "ko": "내 형제 형제, 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, Jesus Christ. -[laughs]",
+      "ko": "세상에"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah, you look beautiful.",
+      "ko": "더 예뻐지셨네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mmm, thank you. It's so good to see you.",
+      "ko": "고마워요 정말 반가워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come on. -Right? I know.",
+      "ko": "이게 누구야? - 많이 컸죠? - 얘들이 그 쌍둥이예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're kidding me. These are the twins?",
+      "ko": "- 많이 컸죠? - 얘들이 그 쌍둥이예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're so big now. What are you guys up to?",
+      "ko": "진짜 많이 컸네 오늘 뭐 할 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-We're going to see the pandas. -I heard.",
+      "ko": "- 판다 보러 갈 거예요 - 그렇다며?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This'll get you in to see the nighttime panda feeding.",
+      "ko": "이게 있으면 밤에 먹이 주는 거 볼 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[both laughing] Whoa... -After everybody's left.",
+      "ko": "손님들 다 나간 뒤에"
+    }
+  },
+  {
+    "translation": {
+      "en": "Very hard to come by.",
+      "ko": "구하기 힘든 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -But I know a lot of pandas, so.",
+      "ko": "감사합니다 내가 판다랑 좀 친해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[all laugh] -There you go.",
+      "ko": "내가 판다랑 좀 친해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some gear, just to look the part.",
+      "ko": "이거 입으면 걔들이 친구인 줄 알걸"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah] What do you guys say? -[both] Thank you.",
+      "ko": "- 인사해야지 - 감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get out of here, go have fun. I'll see you tonight, honey.",
+      "ko": "잘 갔다 와 이따 밤에 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good luck.",
+      "ko": "잘해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Love you. -See you guys.",
+      "ko": "사랑해 또 보자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah] Bye. -[Georgia] Bye.",
+      "ko": "- 갈게요 - 안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's up? Good to see you.",
+      "ko": "잘 지냈어? 반가워"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow.",
+      "ko": "와!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, look. Thanks for putting in a good word. I know my company's small",
+      "ko": "벤, 말 잘해줘서 고마워 우리처럼 작은 회사에는"
+    }
+  },
+  {
+    "translation": {
+      "en": "for something this size.",
+      "ko": "오기 힘든 기회인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "별소릴!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's nothing.",
+      "ko": "난 그냥"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just doing my job.",
+      "ko": "내 일을 한 거뿐이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're dying to open the upper half.",
+      "ko": "상층부를 오픈하려면"
+    }
+  },
+  {
+    "translation": {
+      "en": "And they needed somebody to check the math on their safety and security systems.",
+      "ko": "안전과 보안 진단을 해줄 전문가가 필요하잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Plus, you were cheaper than anyone else.",
+      "ko": "게다가 자넨 용역비도 싸고"
+    }
+  },
+  {
+    "translation": {
+      "en": "A lot cheaper. Like half.",
+      "ko": "많이 싸지, 반값이잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So subtle? -Yep. Solid titanium.",
+      "ko": "엄청나네 그래, 100% 티타늄이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nothing says, \"Welcome to my penthouse panic room\"",
+      "ko": "펜트하우스 패닉룸답게"
+    }
+  },
+  {
+    "translation": {
+      "en": "like 10 inches of military-grade super alloy.",
+      "ko": "25cm 두께의 군용 수준 초합금으로 지었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ready to meet Oz?",
+      "ko": "오즈의 마법사를 만나볼까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, I think so.",
+      "ko": "그러지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Wow.",
+      "ko": "와"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean... [exhales] I guess if you got to live somewhere...",
+      "ko": "아파트치곤 좀 럭셔리하네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right?",
+      "ko": "그렇지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] Mr. Sawyer.",
+      "ko": "소여 씨"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a pleasure to finally meet you.",
+      "ko": "반갑소 드디어 만났네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] You know, I...",
+      "ko": "저기 제가..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] I'm kidding.",
+      "ko": "웃자고 한 소리요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank God. My wife only taught me one phrase.",
+      "ko": "다행이네요 아내가 한 마디만 가르쳐줘서..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah, right? She's a Naval surgeon, isn't she?",
+      "ko": "세라 맞죠? 해군 외과 의사시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "She is. She also minored in language and East Asian studies",
+      "ko": "네, 부전공으로 동아시아 관련 공부도 했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-at Annapolis. -And your twins, Henry and Georgia.",
+      "ko": "네, 부전공으로 동아시아 관련 공부도 했죠 쌍둥이 이름은 헨리와 조지아고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know your stuff.",
+      "ko": "잘 아시네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are the very first family we have had in the residential section of The Pearl.",
+      "ko": "펄의 주거 층에 입주한 최초의 가족이거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought it might be a good test for us.",
+      "ko": "우리로선 시범 케이스죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, they absolutely love it.",
+      "ko": "다들 아주 좋아합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's their first visit to Hong Kong.",
+      "ko": "홍콩엔 처음 와보거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, here they are.",
+      "ko": "아, 저기 오네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow me to introduce my head of personal security,",
+      "ko": "소개하죠 경호실장인 아자니 오케케"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ajani Okeke, and Mr. Pierce",
+      "ko": "경호실장인 아자니 오케케"
+    }
+  },
+  {
+    "translation": {
+      "en": "from the Hawthorne-Stone Insurance Group.",
+      "ko": "그리고 호손 스톤 보험사의 피어스 씨예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A pleasure.",
+      "ko": "안녕하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Very nice to meet you, Mr. Sawyer. -Likewise.",
+      "ko": "- 반갑습니다, 소여 씨 - 저도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "After your independent third-party assessment is approved,",
+      "ko": "당신의 독자적인 제삼자 평가가 인정되면"
+    }
+  },
+  {
+    "translation": {
+      "en": "they will confirm full coverage of The Pearl,",
+      "ko": "펄의 보험 가입이 승인될 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "which I'm told will carry the most expensive premium for a single structure in underwriting history.",
+      "ko": "단일 건물로는 보험료가 역사상 최고 수준이라는군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, shall we begin?",
+      "ko": "그럼 시작할까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't wait.",
+      "ko": "그러죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] The Pearl's anti-fire measures",
+      "ko": "펄의 방화 시스템은"
+    }
+  },
+  {
+    "translation": {
+      "en": "employ a one-of-a-kind self-sealing ventilation system",
+      "ko": "독자적인 자체 봉쇄 환기 장치에"
+    }
+  },
+  {
+    "translation": {
+      "en": "and a robust sprinkler and CO2 array",
+      "ko": "순식간에 불을 끌 수 있는 첨단 스프링클러와"
+    }
+  },
+  {
+    "translation": {
+      "en": "which can put out a fire in a fraction of the time.",
+      "ko": "순식간에 불을 끌 수 있는 첨단 스프링클러와 CO2 분사 장치를 갖췄습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "All monitored by a control facility located over a mile away.",
+      "ko": "이 모든 게 2km 밖 제어 센터에서 모니터링되죠 \"외부 제어 센터 위치\""
+    }
+  },
+  {
+    "translation": {
+      "en": "You hired me to assess your safety and security systems",
+      "ko": "안전 및 보안 시스템을 철저히 분석해본 결과"
+    }
+  },
+  {
+    "translation": {
+      "en": "and after a complete analysis, I can say that it's the safest",
+      "ko": "안전 및 보안 시스템을 철저히 분석해본 결과 펄은 가장 안전한 초고층 건물이라고 단언합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "supertall structure in the world.",
+      "ko": "펄은 가장 안전한 초고층 건물이라고 단언합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's Fort Knox, a mile in the sky.",
+      "ko": "하늘의 요새인 셈이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once I inspect the security at the off-site facility,",
+      "ko": "외부 제어 센터의 안전 점검만 마치면"
+    }
+  },
+  {
+    "translation": {
+      "en": "my job will be done,",
+      "ko": "제 일은 끝납니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you can open the residential upper half.",
+      "ko": "그럼 위쪽 주거 층을 오픈하셔도 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "고맙소"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were the right man for the job.",
+      "ko": "역시 적임자시네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just like Ben said.",
+      "ko": "벤이 말한 대로 말이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "This tablet will give you administrative access",
+      "ko": "이 태블릿으로 펄의 방화 시스템 및"
+    }
+  },
+  {
+    "translation": {
+      "en": "to The Pearl's fire and safety control measures.",
+      "ko": "안전 제어 시스템에 접속할 수 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once linked to your biometric data,",
+      "ko": "당신의 생체 공학 데이터를 입력하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "you'll be the only one who can access it.",
+      "ko": "당신만 접속할 수 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben will take you to our off-site facility",
+      "ko": "벤이 외부 제어 센터로 안내할 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "so you can make sure everything checks out.",
+      "ko": "잘 확인해줘요 \"얼굴 연동 완료 윌 소여\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "감사합니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] If we hurry, there's still time.",
+      "ko": "서두르면 시간이 될 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Time for what?",
+      "ko": "무슨 시간요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For you to see it.",
+      "ko": "둘러 볼 시간요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Go. -Yeah.",
+      "ko": "- 가봐 - 알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the real pearl.",
+      "ko": "이게 진짜 '펄'이오"
+    }
+  },
+  {
+    "translation": {
+      "en": "Three hundred and seventeen motion-sensitive projection panels",
+      "ko": "이 317개의 동작 감지 프로젝터 덕에"
+    }
+  },
+  {
+    "translation": {
+      "en": "make this sphere the eighth wonder of the world.",
+      "ko": "펄이 세계 8번째 불가사의가 됐죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow.",
+      "ko": "와"
+    }
+  },
+  {
+    "translation": {
+      "en": "[echoing] It's incredible.",
+      "ko": "놀랍네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[echoing] I'm over there.",
+      "ko": "나 저기 있소"
+    }
+  },
+  {
+    "translation": {
+      "en": "In here, anything is possible.",
+      "ko": "이 안에선 모든 게 가능하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "The sphere is comprised of nearly 25,000 ultra high-definition panels",
+      "ko": "이 스피어는 2만 5천 개에 가까운 초고해상도 패널로 이뤄져 있고"
+    }
+  },
+  {
+    "translation": {
+      "en": "with embedded 8K micro cameras on both sides.",
+      "ko": "패널 양면엔 8k 짜리 마이크로 카메라가 박혀있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both sides? Why is that?",
+      "ko": "양면에요? 왜죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Welcome to heaven, Mr. Sawyer.",
+      "ko": "천국에 온 걸 환영해요 소여 씨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God. \"Welcome to heaven\"?",
+      "ko": "맙소사 천국에 온 걸 환영한다고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He really said that? -Yeah.",
+      "ko": "진짜 그랬어? 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But, like, cool or creepy? -Uh, little of both.",
+      "ko": "폼 나게? 아니면 닭살 돋게? 양쪽 다였지"
+    }
+  },
+  {
+    "translation": {
+      "en": "God, rich guys.",
+      "ko": "부자들이란 아무튼..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You work for them, though. -Eh.",
+      "ko": "그 사람 밑에서 일하잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ever miss it?",
+      "ko": "그리울 때 없나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The team?",
+      "ko": "우리 팀 말이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, sure.",
+      "ko": "그립지, 당연히"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, but things are a lot different now. I got a wife and kids,",
+      "ko": "하지만 이젠 처자식도 있고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I haven't touched a gun in 10 years.",
+      "ko": "총 안 만진 지도 10년이나 됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're kidding. -No.",
+      "ko": "- 정말? - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's that about?",
+      "ko": "이유가 뭐야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, after what happened...",
+      "ko": "그 일 이후로"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just kind of put my sword down, you know?",
+      "ko": "다시는 총기류에 손을 대지 않았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I laid it down,",
+      "ko": "앞으로 또다시"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'm just never gonna pick it up again.",
+      "ko": "총 잡는 일 없을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. He was unarmed.",
+      "ko": "잊어 그자는 총이 없었잖나"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, he was wearing a vest. There's no way you could've known that.",
+      "ko": "폭탄 조끼 입은 걸 누가 알았겠어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just bad luck, that's all.",
+      "ko": "그냥 운이 나빴을 뿐이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe.",
+      "ko": "그럴지도 모르지"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, the funny thing is, without that bad luck, I, uh...",
+      "ko": "근데 그날 운이 나빴던 덕에"
+    }
+  },
+  {
+    "translation": {
+      "en": "I never would've met Sarah.",
+      "ko": "세라를 만났잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I never would've had my kids.",
+      "ko": "아이들도 생겼고"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know who I'd be without my family.",
+      "ko": "지금 나한테 가족이 없다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'd be lost, and I'd be... -Me.",
+      "ko": "난 삶의 목적을 잃고... 나 같았겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, man, I'm sorry. I didn't mean it like that.",
+      "ko": "미안해 그런 뜻은 아니었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Relax. I'm kidding.",
+      "ko": "농담한 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, we're here. Come on.",
+      "ko": "다 왔군, 내리세"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] The kids are really excited about the nighttime feeding.",
+      "ko": "먹이 주는 거 본다고 애들이 신났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ben] Yeah, it's a blast. They'll be there all night.",
+      "ko": "재밌을 거야 밤새 본다고 할걸?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thanks for taking me to the off-site. -No worries.",
+      "ko": "길 안내해줘서 고맙네 별소릴"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, dinner's on you, of course.",
+      "ko": "대신 저녁 사"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's got my bag!",
+      "ko": "가방을 가져갔어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You all right? -Yeah.",
+      "ko": "- 괜찮아? - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, man. It's nasty.",
+      "ko": "이런 다쳤네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -Better get that cleaned up, huh?",
+      "ko": "소독해야겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Weird.",
+      "ko": "어떻게 된 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Ben] Well, this feels familiar. -[Will] Yeah. [laughs]",
+      "ko": "옛날 생각나네 그러게"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna need some stitches for that, though, man.",
+      "ko": "나중에 꿰매야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a nasty cut, bro.",
+      "ko": "꽤 찢어졌어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm gonna call Sarah. -Yeah.",
+      "ko": "세라한테 전화해야겠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that Zhao's tablet?",
+      "ko": "쟈오가 준 태블릿인가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I put it in my jacket before we left.",
+      "ko": "응, 나올 때 주머니에 넣었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How's that for luck, huh? -Yeah, man. Nice one.",
+      "ko": "운이 좋았지? 응, 잘했네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thought we were both gonna get fired for that.",
+      "ko": "둘 다 잘릴 뻔했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] I know.",
+      "ko": "알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've got it.",
+      "ko": "내가 해결할게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Hey. How were the pandas?",
+      "ko": "여보 판다 구경은 잘했어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[elevator bell chimes] -[automated voice] Floor 98. Well, we didn't really get to see them",
+      "ko": "- 98층입니다 - 보지도 못했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "because Henry ate a weird candy and started throwing up,",
+      "ko": "헨리가 이상한 사탕을 먹고 토해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "so we came back.",
+      "ko": "그냥 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is he okay? Did he have an attack?",
+      "ko": "지금은 괜찮아? 천식은 안 도졌어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, he's breathing fine. Just, you know, no pandas,",
+      "ko": "숨은 잘 쉬고 있어 판다를 못 봐서"
+    }
+  },
+  {
+    "translation": {
+      "en": "which sucks.",
+      "ko": "- 열 받았지 - 열 받아요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It sucks. -Don't say \"sucks,\" honey.",
+      "ko": "- 열 받았지 - 열 받아요! 넌 그런 말 쓰지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll take you there tomorrow, okay, if you're feeling better.",
+      "ko": "너 괜찮아지면 내일 가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'll see you soon. -Okay. Bye.",
+      "ko": "- 곧 들어갈게 - 응, 이따 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, sorry, miss. Building maintenance.",
+      "ko": "죄송합니다 시설과 직원인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "We thought this floor was empty.",
+      "ko": "이 층엔 사람이 없는 줄 알았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, yeah, me, too.",
+      "ko": "저희도요 무슨 일 있나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everything okay? -Everything's fine.",
+      "ko": "저희도요 무슨 일 있나요? 그런 건 아니고"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're just checking the phone lines.",
+      "ko": "전화선 좀 확인하려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know they were active yet.",
+      "ko": "전화는 아직 안 되잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, they will be when we finish with them.",
+      "ko": "이 작업만 끝내면 될 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, look at this precious little pair.",
+      "ko": "아이들이 정말 예쁘네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you having fun?",
+      "ko": "오늘 재밌었니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got the run of the castle on this floor.",
+      "ko": "이 층에선 맘대로 놀아도 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not too bad for a big strong knight",
+      "ko": "신나지? 천하무적의 흑기사와"
+    }
+  },
+  {
+    "translation": {
+      "en": "and a beautiful little princess.",
+      "ko": "아름다운 공주님?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a king.",
+      "ko": "전 왕인데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A thousand apologies, Your Majesty.",
+      "ko": "아이고, 죄송합니다 폐하"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, guys.",
+      "ko": "가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were supposed to be gone.",
+      "ko": "왜 아직 안 간 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I know. -Want me to clean that up?",
+      "ko": "그러게 제가 처리할까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. Leave it. -[door closes]",
+      "ko": "아냐, 놔둬"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll take care of itself.",
+      "ko": "곧 저절로 처리될 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's up? Where you going? -I got to go.",
+      "ko": "어디 가게? 가봐야겠어 헨리가 아파서 펄에 있대"
+    }
+  },
+  {
+    "translation": {
+      "en": "Henry's not feeling well. They went back to The Pearl.",
+      "ko": "가봐야겠어 헨리가 아파서 펄에 있대"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They went back to The Pearl? -Yeah.",
+      "ko": "- 펄에? - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right. I'll call you tonight. What a day, huh?",
+      "ko": "이따 전화할게, 피곤하지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not gonna make it in time.",
+      "ko": "가면 이미 늦을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "뭐?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why'd you take it out of the bag?",
+      "ko": "가방에서 왜 꺼냈나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should've just left it in the bag.",
+      "ko": "그냥 거기 넣어놓지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben, what are you talking about?",
+      "ko": "무슨 말이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me the tablet, Will.",
+      "ko": "태블릿 줘, 윌"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's going on? -What's going on?",
+      "ko": "- 왜 이래? - 왜 이러냐고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You screw up, you get a whole new life.",
+      "ko": "넌 사고를 치고도 새로운 삶을 찾았지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do I get? Hmm? Medical discharge?",
+      "ko": "새로운 삶을 찾았지만 난 의가사 제대 후 범죄자들 밑에서 일해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Working for thugs?",
+      "ko": "난 의가사 제대 후 범죄자들 밑에서 일해"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't know these people, Will.",
+      "ko": "넌 그들을 몰라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't have a choice,",
+      "ko": "이럴 수밖에 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause you messed it up.",
+      "ko": "네가 다 망쳐서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know you're hurting, brother,",
+      "ko": "힘든 거 알아, 형제"
+    }
+  },
+  {
+    "translation": {
+      "en": "but you don't want to do this.",
+      "ko": "하지만 이래선 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're not brothers.",
+      "ko": "우린 형제가 아니야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben. Stop! Stop!",
+      "ko": "벤 그만해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop!",
+      "ko": "그만해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here.",
+      "ko": "이리와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here, stay with me.",
+      "ko": "죽으면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's get you up. Come on, let's go. Sit up. There we go.",
+      "ko": "일으켜줄게 일어나봐, 자"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Ben groaning] -Let's get you over here.",
+      "ko": "여기 기대봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, here, stay with me.",
+      "ko": "정신 차려"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold this here. Hold it tight.",
+      "ko": "여길 꽉 누르고"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you to tell me what happened, okay?",
+      "ko": "무슨 일인지 말해봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right? I can help you if you tell me what happened.",
+      "ko": "사실대로 말하면 도와줄 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They weren't supposed to go back, Will.",
+      "ko": "그리 돌아가면 안 되는 거였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They weren't supposed to be there.",
+      "ko": "거기 있으면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who wasn't supposed to be there?",
+      "ko": "누가 말이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah and the kids.",
+      "ko": "세라와 아이들"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did you do?",
+      "ko": "무슨 짓을 한 거야? \"물이 닿으면 발화함\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Light a man's house on fire",
+      "ko": "누군가의 집에 불을 지르면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you find out what he truly loves.",
+      "ko": "가장 아끼는 게 뭔지 알 수 있지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom? What's going on? -[alarm wailing in distance]",
+      "ko": "엄마, 무슨 일이에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Anti-fire measures activated.",
+      "ko": "방화 시스템 작동 중"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. Let me go check.",
+      "ko": "글쎄... 확인해볼게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Shelter in place.",
+      "ko": "현 위치에서 대기하세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anti-fire measures activated.",
+      "ko": "\"96층 화재\" - 방화 시스템 작동 중 - 거기들 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay on the couch.",
+      "ko": "- 방화 시스템 작동 중 - 거기들 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Should we evacuate? -[alarm beeping]",
+      "ko": "대피해야 하는 거 아니에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Evacuate?",
+      "ko": "대피?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, take a helicopter.",
+      "ko": "네, 회장님 헬기로요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would we do that?",
+      "ko": "왜 그래야 하지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, the building's on fire.",
+      "ko": "이 건물에 불이 났잖습니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The building isn't on fire. The 96th floor is on fire.",
+      "ko": "이 건물이 아니라 96층에 난 거지"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're more than a hundred stories above that,",
+      "ko": "우린 그보다 100여 층 위에 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the anti-fire measures will keep it there.",
+      "ko": "방화 시스템이 불길을 잡아둘 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're perfectly safe here, I assure you.",
+      "ko": "여긴 100% 안전해 걱정하지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "What did you do?",
+      "ko": "무슨 짓을 한 거야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I set you up.",
+      "ko": "내가 자넬 엮은 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "They need the tablet.",
+      "ko": "그자들이 태블릿을 원해서..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Run.",
+      "ko": "달아나"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're coming, Will. They're gonna kill you.",
+      "ko": "지금 오고 있어 자넬 죽일 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's coming? Who?",
+      "ko": "누가 온다는 거야? 누가?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Run. -Ben?",
+      "ko": "- 달아나 - 벤?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ben?",
+      "ko": "벤?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Shit!",
+      "ko": "젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hello, Will.",
+      "ko": "안녕, 윌"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "ko": "고마워"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer speaking Cantonese] Freeze!",
+      "ko": "모두 꼼짝 마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go!",
+      "ko": "가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, what's up?",
+      "ko": "무슨 일입니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The fire's contained on the 96th.",
+      "ko": "96층에 불이 나서"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're evacuating the floors below the fire line.",
+      "ko": "그 아래층 사람들을 대피시키고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about the people above the 96th?",
+      "ko": "96층 위의 사람들은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The owner is in the penthouse on the 220th.",
+      "ko": "건물주는 220층 펜트하우스에 있는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the fire will never get there.",
+      "ko": "거기까진 안 번져요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The anti-fire measures have activated.",
+      "ko": "방화 시스템이 작동 중이고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about the people on other floors?",
+      "ko": "딴 층 사람들은요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no one else above the 96th.",
+      "ko": "96층 위로는 아무도 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's empty.",
+      "ko": "비었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Anti-fire measures activated.",
+      "ko": "방화 시스템 작동 중"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, guys, in the bathroom.",
+      "ko": "화장실 안으로 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Shelter in place. Come on.",
+      "ko": "- 현 위치에서 대기하세요 - 어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Come here, bud. -I'm fine, Mom. I don't need it.",
+      "ko": "이리 와 괜찮아요, 필요 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're fine now, honey, but we're about to go out there,",
+      "ko": "지금은 괜찮지만 밖에 나가면 연기가 꽉 차 있을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "and there's a lot of smoke and a lot of bad air,",
+      "ko": "밖에 나가면 연기가 꽉 차 있을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we don't want you to have an attack, okay?",
+      "ko": "천식 도지면 안 되잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia, dunk them all the way. Make sure they get completely wet,",
+      "ko": "조지아, 그거 푹 적시고"
+    }
+  },
+  {
+    "translation": {
+      "en": "-the hand towels, too. -Okay.",
+      "ko": "- 손수건도 적셔 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two quick inhales, please.",
+      "ko": "빨리 두 번 들이마셔"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom? Are we gonna die?",
+      "ko": "우리 죽는 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니, 우리 안 죽어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baby, we are not gonna die. We are gonna be just fine.",
+      "ko": "아니, 우리 안 죽어 아무 일 없을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I promise.",
+      "ko": "약속할게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Xia over radio] We're in position at the off-site control facility.",
+      "ko": "외부 제어 센터에 도착했습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do it.",
+      "ko": "시작해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[silenced gunshot] -[man grunts]",
+      "ko": "\"관계자 외 출입금지\""
+    }
+  },
+  {
+    "translation": {
+      "en": "There you are. Baby, there's a fire in the building.",
+      "ko": "이제야 연락이 되네 지금 건물에 불이 났어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. All right, look, I can't get to you.",
+      "ko": "알아 지금 못 올라가"
+    }
+  },
+  {
+    "translation": {
+      "en": "The police have the entire building locked down.",
+      "ko": "건물 전체가 봉쇄됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you to get out of there right now.",
+      "ko": "빨리 거기서 나와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go inside the hallway, there should be a logistics panel.",
+      "ko": "복도의 상황판을 찾아서"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you show it to me, I can tell you where it's safe to go.",
+      "ko": "나한테 보여주면 어디로 대피할지 알려줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the kids with you. I'm gonna stay on the phone.",
+      "ko": "다 같이 움직여 휴대폰 켜둘게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hand me those towels. Come on.",
+      "ko": "수건 줘 가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "[automated voice] Occupancy warning on floor 98.",
+      "ko": "98층에 움직임 감지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will Sawyer's family unlocked their apartment door an hour ago.",
+      "ko": "1시간 전에 윌 소여 가족이 스위트 문을 열었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're in the building. Send two men.",
+      "ko": "건물 안에 있군 두 명을 보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Use the manual override code on the elevators.",
+      "ko": "수동 제어로 승강기 작동시켜서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Bring them here. -Yes, sir.",
+      "ko": "이리 데려와 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "You two, go.",
+      "ko": "너희 둘, 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mr. Pierce] What? Listen, the fire isn't just gonna go out.",
+      "ko": "네? 불이 쉽게 안 꺼질 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to leave now.",
+      "ko": "- 지금 대피해야 해요 - 침입자 발생"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can only access nominal control.",
+      "ko": "기본 제어 시스템만 접속돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't lock out the on-site functions without the...",
+      "ko": "하지만 현장 시스템을 차단하려면…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Root access.",
+      "ko": "관리자 권한이 있어야지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're in.",
+      "ko": "접속됐어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The entire system has been compromised.",
+      "ko": "전체 시스템이 망가졌군"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm completely locked out.",
+      "ko": "접속이 완전히 차단됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, you're locked out? I thought that couldn't happen.",
+      "ko": "회장님이 차단되다니 그게 말이 돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Xia over radio] We have full control of the anti-fire systems.",
+      "ko": "방화 시스템을 완전히 장악했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seal all the fire doors from 95 to the ground.",
+      "ko": "방화문을 다 봉쇄해 95층부터 1층까지"
+    }
+  },
+  {
+    "translation": {
+      "en": "And disable all anti-fire measures from 96 to the top.",
+      "ko": "96층부터 꼭대기까진 방화 시스템을 해제하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will over phone] Everything's gonna be okay.",
+      "ko": "아무 일 없을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "The logistics panel should be to your left.",
+      "ko": "상황판은 왼쪽에 있을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah coughs] -Tell me what you see.",
+      "ko": "뭐가 보여?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, hon.",
+      "ko": "잠깐만"
+    }
+  },
+  {
+    "translation": {
+      "en": "All the floors above us are yellow.",
+      "ko": "우리 위층이 다 노란색이야 이게 무슨 뜻이지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What does that mean? -It means the entire fire system",
+      "ko": "우리 위층이 다 노란색이야 이게 무슨 뜻이지? 방화 시스템이 꺼졌다는 얘기야"
+    }
+  },
+  {
+    "translation": {
+      "en": "above you is offline.",
+      "ko": "방화 시스템이 꺼졌다는 얘기야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah, listen to me. The fire is not gonna stop.",
+      "ko": "세라, 잘 들어 불은 안 꺼질 거야 거길 나와서"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you to get out of there right now and go up.",
+      "ko": "불은 안 꺼질 거야 거길 나와서 위로 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go up, keep going up, don't stop, don't look back.",
+      "ko": "멈추지 말고 계속 가 돌아보지도 말고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha over radio] Now force the fire up.",
+      "ko": "불길을 위로 보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the elevator shaft air vents",
+      "ko": "승강기 환기구를 열어서"
+    }
+  },
+  {
+    "translation": {
+      "en": "and feed it with fresh oxygen.",
+      "ko": "신선한 공기를 들여보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let it burn.",
+      "ko": "활활 타게!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ladies and gentlemen,",
+      "ko": "신사 숙녀 여러분"
+    }
+  },
+  {
+    "translation": {
+      "en": "I give you a $6.5 billion chimney.",
+      "ko": "65억 달러짜리 굴뚝을 선물해드리죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[coughs] Mrs. Sawyer?",
+      "ko": "소여 부인"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're with the building security.",
+      "ko": "저희는 보안 요원입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come with us, please.",
+      "ko": "따라오시죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No! Get back! -[Sarah] Run!",
+      "ko": "- 피해요! - 물러서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No! No! -[crowd screams]",
+      "ko": "안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[speaking Cantonese] Oh, my God.",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ajani] What is your status? Report.",
+      "ko": "현재 상황은 어떤가? 보고해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you copy?",
+      "ko": "내 말 들리나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No one could survive that. They're gone.",
+      "ko": "이제 틀렸어요 죽은 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha] We're moving into position. You know what to do next.",
+      "ko": "위치로 이동한다 다음 작전은 알지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah] Go, hurry, up the stairs. -[Will] Sarah.",
+      "ko": "계단 위로 가! 세라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will Sawyer...",
+      "ko": "\"용의자 추적 중\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Hands up!",
+      "ko": "손 들어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please. You don't understand.",
+      "ko": "오해가 있나 본데"
+    }
+  },
+  {
+    "translation": {
+      "en": "My family's inside. Listen to me.",
+      "ko": "내 가족이 저 안에 있소 내 말 들어봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to get to them.",
+      "ko": "내가 구해야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn around!",
+      "ko": "뒤돌아서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now!",
+      "ko": "빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, you have full systems control from the tablet.",
+      "ko": "태블릿으로 모든 시스템을 통제하면"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's no facial recognition needed.",
+      "ko": "얼굴 인식이 필요 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "All other access points to The Pearl mainframe have been encrypted.",
+      "ko": "중앙 컴퓨터의 딴 접속 포인트엔 암호를 걸어놨어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The entire building now, it's locked out.",
+      "ko": "이제 건물 전체가 봉쇄된 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I used my own logarithmic base cipher to encrypt it,",
+      "ko": "내 로그 기반 암호로 잠가놔서"
+    }
+  },
+  {
+    "translation": {
+      "en": "so I am literally the only human on the planet Earth that can crack this.",
+      "ko": "이걸 풀 수 있는 건 지구상에 나 하나뿐이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, it's pretty smart, right?",
+      "ko": "되게 똑똑하지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not that smart.",
+      "ko": "별로"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ajani] If the fire continues to climb,",
+      "ko": "불길이 위로 계속 가면"
+    }
+  },
+  {
+    "translation": {
+      "en": "it will superheat the air around the helipad, making liftoff impossible.",
+      "ko": "헬기장이 너무 뜨거워져서 이륙이 힘들 수도 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our departure window is closing, sir.",
+      "ko": "이제 시간이 없습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hate to say it, but it is now or never.",
+      "ko": "죄송하지만 지금 아니면 힘들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Happy? You got to play the hero,",
+      "ko": "만족하세요? 영웅 놀이는 그만하고 이제 빨리 여길 뜨죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "it didn't work, it's time to go.",
+      "ko": "영웅 놀이는 그만하고 이제 빨리 여길 뜨죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] All right, Mr. Pierce. You'll get your wish.",
+      "ko": "좋아, 피어스 씨 당신 소원대로 하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Get the helo ready.",
+      "ko": "헬기 대기시켜"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prep the bird.",
+      "ko": "이륙 준비해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] What do we know about Sawyer?",
+      "ko": "소여에 대해 파악한 건?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Marine Corps, Bronze Star...",
+      "ko": "해병 때 무공 훈장"
+    }
+  },
+  {
+    "translation": {
+      "en": "FBI for six years, Hostage Rescue for eight.",
+      "ko": "FBI 6년 인질 구조팀 8년 복무"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wife, two kids.",
+      "ko": "가족은 아내와 자녀 둘"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's a combat surgeon.",
+      "ko": "아내는 군 외과의예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Three tours Afghanistan.",
+      "ko": "아프간에서 3회 복무했죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't have a location on them yet.",
+      "ko": "아직 소재 불명입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Will Sawyer was hired as a safety assessor.",
+      "ko": "윌 소여는 안전 자문관으로 고용돼 보안 프로토콜 접근권이 있었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "He had access to the security protocols.",
+      "ko": "보안 프로토콜 접근권이 있었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe he shut down the anti-fire measures.",
+      "ko": "그자가 방화 시스템을 닫았을지도 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do me a favor, go find Will Sawyer.",
+      "ko": "가서 윌 소여를 찾아와"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd like to ask him some questions.",
+      "ko": "물어볼 게 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Yes, sir.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sergeant Han?",
+      "ko": "한 경사?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir?",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never mind, I found him.",
+      "ko": "됐어, 찾았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Holy shit.",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Send a response team.",
+      "ko": "대응팀을 보내"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to talk to him.",
+      "ko": "얘기 좀 해보게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Yes, sir.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "The elevator is locked! Hurry!",
+      "ko": "승강기가 잠겼다! 서둘러!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell is he doing?",
+      "ko": "어쩌려는 걸까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's climbing above the fire line.",
+      "ko": "화재 지점 위로 올라가는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sir, I can't protect you if you don't tell me what's going on.",
+      "ko": "회장님 무슨 일인지 얘길 안 해주시면 제가 지켜드릴 수가 없습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't just a fire. It's a plot.",
+      "ko": "이건 누군가 꾸민 짓이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I can't say for sure. -I don't need facts.",
+      "ko": "나도 확실히는 몰라 팩트는 됐고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is your gut telling you? Who's behind this?",
+      "ko": "회장님 직감으로 배후가 누구 같나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kores Botha.",
+      "ko": "코레스 보타"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't understand.",
+      "ko": "이해가 안 되네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If a man like Botha wanted you dead, there are easier ways.",
+      "ko": "회장님을 해치려면 쉬운 방법도 있을 텐데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] He doesn't want me dead. At least not yet.",
+      "ko": "날 죽이려는 게 아니야 적어도 아직은..."
+    }
+  },
+  {
+    "translation": {
+      "en": "He wants this.",
+      "ko": "이걸 원하는 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "And lighting The Pearl on fire is the only way he can get it.",
+      "ko": "펄에 불을 내야 이걸 뺏을 수 있거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is there something I should know?",
+      "ko": "무슨 얘기 중이신가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. The helicopter is ready.",
+      "ko": "헬기가 준비됐네"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's trying to get inside.",
+      "ko": "안으로 들어가려는 거군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry, boys.",
+      "ko": "미안하오"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go, go, go!",
+      "ko": "들어가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't move!",
+      "ko": "꼼짝 마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hands up! -Okay. Don't shoot.",
+      "ko": "- 손 들어! - 알았소 쏘지 말아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[officer in Cantonese] Turn around!",
+      "ko": "돌아서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Turn around.",
+      "ko": "돌아서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Hold fire!",
+      "ko": "쏘지 마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's too hot!",
+      "ko": "너무 뜨거워!"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're losing altitude!",
+      "ko": "고도가 떨어진다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes!",
+      "ko": "그렇지!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Why would anyone want to get into a burning building?",
+      "ko": "왜 굳이 불길 속으로 들어가는 거죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Inspector... We have a last known location",
+      "ko": "반장님 윌 소여 가족의 최종 소재가 확인됐답니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "on Will Sawyer's family.",
+      "ko": "윌 소여 가족의 최종 소재가 확인됐답니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] Let me guess...",
+      "ko": "들을 것도 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're in the building.",
+      "ko": "건물 안에 있군"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah] This way. -[Henry coughing]",
+      "ko": "이쪽으로!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're doing great. Wait, hold on. Come here.",
+      "ko": "정말 잘하고 있어 잠깐만, 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Baby, we're gonna wet these again, okay? -Okay, Mommy.",
+      "ko": "- 이거 다시 적시자 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, baby. Calm down. Calm down.",
+      "ko": "헨리, 괜찮아 진정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, one second.",
+      "ko": "그래 잠깐만"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[metallic thumping] -What's that sound?",
+      "ko": "무슨 소리예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the fire, baby.",
+      "ko": "불이 타는 소리야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are we gonna go?",
+      "ko": "우리 어디로 가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "ko": "모르겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the bridge to the waterfall. We'll keep heading up.",
+      "ko": "인공 폭포까지 계속 올라가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Run! Go!",
+      "ko": "가자! 뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Up the stairs. Okay.",
+      "ko": "올라가, 계단으로! 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep going.",
+      "ko": "계속 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't stop.",
+      "ko": "멈추지 말고!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Helicopter is ready for departure.",
+      "ko": "이륙 준비됐습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[watch beeps] -[chiming]",
+      "ko": "\"문 열림\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait.",
+      "ko": "잠시만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "ko": "왜 그래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-That is not our pilot. -Botha.",
+      "ko": "우리 조종사가 아닙니다 보타"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ajani] Get down!",
+      "ko": "엎드리세요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go, go!",
+      "ko": "가요, 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Long time, Botha.",
+      "ko": "오랜만이군, 보타"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. Did you miss me?",
+      "ko": "그러게 내가 보고 싶었나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I see you met my associate.",
+      "ko": "내 동료와는 구면이지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Surprise, surprise.",
+      "ko": "놀랐겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why don't you just shoot me and take it?",
+      "ko": "그냥 날 쏘고 가져가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think I'm stupid, huh?",
+      "ko": "누굴 바보로 아나?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know I can't do that.",
+      "ko": "난 널 못 쏴 물건 못 가져가도"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause the men I work for will kill me",
+      "ko": "난 널 못 쏴 물건 못 가져가도 대장 손에 죽을 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "if I don't get it back for them.",
+      "ko": "대장 손에 죽을 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "You should've paid me and been done with it. But no.",
+      "ko": "나한테 돈 줬으면 좋았잖아 그거 알아?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clever boys like you always think you can be clever.",
+      "ko": "넌 네가 항상 똑똑한 줄 알지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "So how's this for clever?",
+      "ko": "네 꼴 좀 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna take you and your drive",
+      "ko": "난 널 데려갈 거야 네 드라이브와"
+    }
+  },
+  {
+    "translation": {
+      "en": "and your helicopter.",
+      "ko": "네 헬기도"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I'm going to make you watch as your building burns to ash",
+      "ko": "네 건물이 재가 되는 걸 실컷 구경하게 해줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "and there's nothing you can do about it.",
+      "ko": "네가 할 수 있는 건 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look out!",
+      "ko": "피해!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zhao!",
+      "ko": "쟈오!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zhao! Zhao!",
+      "ko": "쟈오!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "He sealed himself in the penthouse. Open the doors.",
+      "ko": "펜트하우스 안에 숨었다 문을 열어"
+    }
+  },
+  {
+    "translation": {
+      "en": "The penthouse floor has its own subroutine.",
+      "ko": "펜트하우스 층은 서브루틴이 달라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zhao must have isolated that system.",
+      "ko": "쟈오가 시스템을 차단했나 봐요 \"펜트하우스 접속 불가\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't open the doors with this tablet.",
+      "ko": "이 태블릿으론 문을 못 열어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait. It looks like Will Sawyer's in the building.",
+      "ko": "잠깐만요 윌 소여가 건물 안에 있나 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I've got a movement alert.",
+      "ko": "움직임이 감지됐어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's his family.",
+      "ko": "\"세라 소여\" 그 사람 가족이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're still alive.",
+      "ko": "아직 살아있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha] Zhao!",
+      "ko": "쟈오!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not gonna get in using force.",
+      "ko": "완력으론 못 들어가"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need someone who knows the system.",
+      "ko": "시스템을 아는 사람이 필요해"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I know just the man for the job.",
+      "ko": "내가 최고의 적임자를 알지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sawyer.",
+      "ko": "소여"
+    }
+  },
+  {
+    "translation": {
+      "en": "If anyone can get in, it's him.",
+      "ko": "들어갈 수 있는 건 그자뿐이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's in the building. Just need to find him.",
+      "ko": "건물 안에 있으니 찾기만 하면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't need to find him.",
+      "ko": "굳이 찾을 필요 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "We know what he wants.",
+      "ko": "그자가 원하는 게 뭔지 아니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you can't fix it with duct tape...",
+      "ko": "접착테이프로 안 고쳐지는 건"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you ain't using enough duct tape.",
+      "ko": "더 감으면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, you were on the 98th floor, east side stairwell.",
+      "ko": "\"관리자 모드 로그인\" 98층 동쪽 계단에 있었지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Means you would've had to go through the park.",
+      "ko": "\"100층 제이드 공원\" 그럼 공원을 통과했겠지"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll find you.",
+      "ko": "내가 찾아갈게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hang on. I'll find you.",
+      "ko": "기다려, 곧 갈게"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stay with me, baby. Okay? Okay. -[Henry coughing]",
+      "ko": "조금만 더 버텨 괜찮지? 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Almost there.",
+      "ko": "이제 다 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mrs. Sawyer.",
+      "ko": "소여 부인"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice to meet you.",
+      "ko": "만나서 반가워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got them. They're in the park.",
+      "ko": "공원에서 찾았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -Come on.",
+      "ko": "이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kids, too. -[Sarah] Do what he says. Okay?",
+      "ko": "- 너희도! - 하란 대로 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right. Listen to your mummy.",
+      "ko": "옳지, 엄마 말 들어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] It's okay, guys. Everything's gonna be okay.",
+      "ko": "얘들아, 괜찮아 아무 일 없을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just do exactly what I say.",
+      "ko": "엄마가 하라는 대로만 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Run! Run!",
+      "ko": "뛰어! 뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! -Come on!",
+      "ko": "- 엄마! - 빨리 와!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Come on.",
+      "ko": "이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just have to go up a little bit farther.",
+      "ko": "조금 더 멀리 가야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia!",
+      "ko": "조지아!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Henry!",
+      "ko": "헨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll find another way up.",
+      "ko": "딴 길을 찾아볼게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep going. Go all the way up to the waterfall.",
+      "ko": "폭포 쪽으로 계속 올라가"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go around to the other side.",
+      "ko": "난 반대편으로 갈게 위에서 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'll meet you there. [coughs] -Okay.",
+      "ko": "난 반대편으로 갈게 위에서 봐 알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Mr. Pierce] I'm not supposed to kill you,",
+      "ko": "널 죽이란 말은 없었지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I think your kids will be enough.",
+      "ko": "애들만으로도 충분할 거 같네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Sarah!",
+      "ko": "세라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you okay? -Yeah, I'm okay.",
+      "ko": "- 괜찮아? - 응, 괜찮아 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you get in the building?",
+      "ko": "어떻게 들어왔어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a long story. Where are the kids?",
+      "ko": "설명하자면 길어 애들은?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! Dad! -[Sarah] Oh, God, are you okay?",
+      "ko": "엄마, 아빠! 세상에, 괜찮니?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't move, all right? -Where's your sister?",
+      "ko": "- 움직이지 마 - 조지아는?"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's at the top of the park by the waterfall.",
+      "ko": "공원 위쪽 폭포 옆에 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dad!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honey, stay right there. -Daddy's coming for you. -Okay.",
+      "ko": "- 거기 있어, 아빠가 갈게! - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How do we get across the bridge? -[coughing]",
+      "ko": "다릴 어떻게 건너지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Let's figure this out.",
+      "ko": "방법을 찾아보자"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gonna be okay, baby.",
+      "ko": "괜찮을 거야, 헨리"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] Okay. -[bolt clatters]",
+      "ko": "됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "The bridge is unstable.",
+      "ko": "다리가 불안정해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-All right, we got to do this together. -Okay.",
+      "ko": "둘이 같이해야 해 알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I tell you to, walk it out, drop it, and go get him, okay?",
+      "ko": "내가 가라고 하면 이걸 내리고 앨 데려와"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. -All right.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you gonna do?",
+      "ko": "당신은 어쩌려고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna hold the bridge steady.",
+      "ko": "- 윌? - 난 다릴 잡고 있을게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] Hold on, baby.",
+      "ko": "기다려, 헨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. -Go!",
+      "ko": "- 가! - 알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] Okay, baby, here I come.",
+      "ko": "기다려, 엄마 갈게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here I come.",
+      "ko": "간다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I got you. I got you.",
+      "ko": "이제 됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. Come back, hurry!",
+      "ko": "이제 이리 와, 빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. That's it.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come back. Come on.",
+      "ko": "어서 와, 조심해서!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. As still as you can. -[board creaking]",
+      "ko": "가자, 최대한 움직이지 마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, we're almost there.",
+      "ko": "됐어, 거의 다 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "ko": "안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom!",
+      "ko": "엄마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[straining] You can do it. You can do it.",
+      "ko": "할 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it. Get up.",
+      "ko": "그래, 일어나"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't hold it anymore! Jump!",
+      "ko": "더는 못 버티겠어! 뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sarah panting] Oh, my God. -[Henry coughing]",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on. Will, what the hell is going on?",
+      "ko": "일어나 이게 다 무슨 일이야?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know, but I got to get you guys out of this building.",
+      "ko": "몰라, 일단 나가자 얘가 숨을 못 쉬네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Henry can't breathe. -I know.",
+      "ko": "응"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ko": "괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia, I'll be right there!",
+      "ko": "조지아, 금방 갈게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, Dad.",
+      "ko": "알았어요, 아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "됐어"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, these elevators operate on electromagnetic induction.",
+      "ko": "이 승강기는 전자기 유도 방식이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "When there's a fire,",
+      "ko": "불이 나면"
+    }
+  },
+  {
+    "translation": {
+      "en": "they're held in place by a fail-safe brake.",
+      "ko": "이중 안전장치가 승강기를 정지하지"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I cut this cable, you're gonna fall.",
+      "ko": "내가 이걸 자를 테니까 당신은 내려가"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? Will? -It's all right.",
+      "ko": "- 뭐? 윌! - 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just listen to me. You're gonna fall through the fire.",
+      "ko": "내 말 잘 들어 불길을 뚫고 내려가다가"
+    }
+  },
+  {
+    "translation": {
+      "en": "The magnets are gonna kick back on",
+      "ko": "화재 지점을 지나면"
+    }
+  },
+  {
+    "translation": {
+      "en": "once you pass the fire line.",
+      "ko": "자석이 작동할 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I need you to pull this handle in order to engage the braking system.",
+      "ko": "그때 이걸 당겨서 제어 장치를 작동시켜야 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's about 500 feet from here until the fire line.",
+      "ko": "화재 지점까진 여기서 150m쯤이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you to count to five and pull the handle.",
+      "ko": "5초 센 뒤에 당겨"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is crazy.",
+      "ko": "말도 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Trust me.",
+      "ko": "날 믿어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Okay.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Will] How you doing, buddy? -I'm scared.",
+      "ko": "괜찮니? 무서워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay to be scared.",
+      "ko": "무서운 게 당연해"
+    }
+  },
+  {
+    "translation": {
+      "en": "In order to be brave, we got to be a little scared.",
+      "ko": "좀 무서워야 용감해질 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right? Now, I need you to be brave right now.",
+      "ko": "지금은 용감해져야 해 할 수 있지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Can you do that for me? -Yeah.",
+      "ko": "지금은 용감해져야 해 할 수 있지? - 네 - 엄마 꽉 붙잡아라"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you to hold on to your mom.",
+      "ko": "- 네 - 엄마 꽉 붙잡아라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy loves who?",
+      "ko": "아빤 누굴 사랑하지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me.",
+      "ko": "나요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's right.",
+      "ko": "맞아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here. Okay.",
+      "ko": "이리 와 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, baby. We're gonna sit down.",
+      "ko": "자, 헨리 여기 앉자"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna brace ourselves, all right? Okay.",
+      "ko": "꽉 붙잡아야 해 알았지? 자"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you.",
+      "ko": "사랑해"
+    }
+  },
+  {
+    "translation": {
+      "en": "You better.",
+      "ko": "안 그러면 죽지"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] Count with me, baby. Five...",
+      "ko": "같이 세자 5"
+    }
+  },
+  {
+    "translation": {
+      "en": "[both] Four...",
+      "ko": "4"
+    }
+  },
+  {
+    "translation": {
+      "en": "Three...",
+      "ko": "3"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two, one!",
+      "ko": "2 1"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom!",
+      "ko": "엄마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Hey! -[gasps] Oh, God.",
+      "ko": "얘! 어떡해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, hey. It's okay.",
+      "ko": "얘, 얘야 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "ko": "괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're the good guys.",
+      "ko": "우린 좋은 사람들이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're safe. Come with us.",
+      "ko": "이제 안전해 우리랑 가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -[man] Found you.",
+      "ko": "찾았다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You little shit.",
+      "ko": "요 쥐새끼..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia! Come on.",
+      "ko": "조지아! 가자"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just the man I was looking for.",
+      "ko": "찾던 분이 여기 계셨네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your Majesty.",
+      "ko": "폐하"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hear your dad knows everything about this building.",
+      "ko": "네 아빠가 이 건물에 대해 빠삭하다며?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha] All I care about is what my business partner is holding behind those doors.",
+      "ko": "내 동업자가 저 안에 감춰둔 걸 찾아서"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're going to get it for me.",
+      "ko": "나한테 갖다 주면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Listen to me.",
+      "ko": "저 문은"
+    }
+  },
+  {
+    "translation": {
+      "en": "The only way those doors open is from the inside,",
+      "ko": "안에서만 열 수 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "or the fire alarm on this floor triggers it,",
+      "ko": "아니면 경보가 울려야 하는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "but that can't happen because you took the entire system offline.",
+      "ko": "네가 시스템을 꺼서 경보도 안 울려"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha] Is that so? Well, let me tell you something.",
+      "ko": "그래? 근데 말이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Every man has a weakness.",
+      "ko": "사람은 다 약점이 있고"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's easy to find.",
+      "ko": "그걸 쉽게 들켜"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once you know what he loves, you have it.",
+      "ko": "가장 사랑하는 게 약점이거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zhao, he loves this building.",
+      "ko": "쟈오는 이 건물을 사랑하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you, your weakness",
+      "ko": "네 약점은"
+    }
+  },
+  {
+    "translation": {
+      "en": "is your family.",
+      "ko": "가족이지"
+    }
+  },
+  {
+    "translation": {
+      "en": "So now we're going to find out how much you love your family, Will.",
+      "ko": "이제 확인해보자고 네가 가족을 얼마나 사랑하는지"
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me. Opening those doors from this floor can't be done.",
+      "ko": "이 층에서 저 문을 여는 건 불가능해"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything can be done",
+      "ko": "불가능한 일은 없어"
+    }
+  },
+  {
+    "translation": {
+      "en": "with the proper motivation.",
+      "ko": "마음이 간절하다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no. No, no... -Daddy!",
+      "ko": "- 안 돼! - 아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't hurt him! Stop!",
+      "ko": "우리 아빠 때리지 말아요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, cuzzie.",
+      "ko": "잘 들어, 친구"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're gonna bring Zhao and what he's holding behind those doors to me.",
+      "ko": "쟈오와 놈이 숨겨둔 걸 가져오지 않으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or I'm gonna throw your daughter off the fucking roof.",
+      "ko": "네 딸을 옥상에서 던져버릴 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "I hear it's like heaven up there.",
+      "ko": "저 위는 천국 같다며?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, no, no! Daddy! No! -No. Georgia! Georgia! No!",
+      "ko": "- 안 돼, 아빠! - 조지아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Botha] Straight to the roof, boys. We're not gonna wait around here to burn.",
+      "ko": "옥상으로 가자 여기서 타 죽을 순 없잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Georgia] No!",
+      "ko": "안 돼!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy! Let me go!",
+      "ko": "아빠! 이거 놔요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy, help me! -[shushing]",
+      "ko": "아빠, 도와줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia!",
+      "ko": "조지아!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman over TV] ...into the destruction of Zhao Long Ji's Pearl tower.",
+      "ko": "쟈오 롱 지의 펄 타워가 붕괴하고 있군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're getting reports of activity on the ground floor of the building.",
+      "ko": "1층 상황에 대한 소식이 들어오고 있습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're going to go live to Kowloon Plaza, where we may have some survivors",
+      "ko": "건물에서 나오는 생존자가 있는지"
+    }
+  },
+  {
+    "translation": {
+      "en": "coming out of the building.",
+      "ko": "카오룽 플라자를 연결해보죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's difficult to imagine how anyone could have survived",
+      "ko": "불길에 휩싸인 상층부에서"
+    }
+  },
+  {
+    "translation": {
+      "en": "the raging fire on the upper floors.",
+      "ko": "살아남긴 사실 불가능하죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Henry] My dad's inside. He saved us.",
+      "ko": "아빠가 우릴 구해줬어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He's still inside. -[reporter] Is there any other news?",
+      "ko": "아직 안에 있어요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's a good guy!",
+      "ko": "아빤 좋은 사람이에요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[newsman] It appears this may be the family of William Sawyer, the American security consultant...",
+      "ko": "미국인 안전 자문관 윌 소여의 가족 같네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's got to be a way to open these doors.",
+      "ko": "문을 열 방법이 분명히 있을 텐데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where did you put the subroutine panels that controls them?",
+      "ko": "서브루틴 패널을 어디다 숨긴 거요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where did you hide it, Zhao?",
+      "ko": "어디다 감춰놨소, 쟈오?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Behind the turbines?",
+      "ko": "발전기 뒤에?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, come on, man.",
+      "ko": "이런, 맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "ko": "젠장"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you get out of the building? Can you comment?",
+      "ko": "어떻게 건물에서 나오셨는지 말씀 좀..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sergeant Han] And you claim your husband isn't involved?",
+      "ko": "남편분은 무관하다는 건가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not a claim. He's not involved.",
+      "ko": "진짜 관련이 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How many of them did you say you saw?",
+      "ko": "몇 명을 봤다고 하셨죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "One in a suit, two others in coveralls.",
+      "ko": "한 명은 정장이었고 둘은 작업복을 입었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The one that I spoke to, he had an accent.",
+      "ko": "나랑 얘기한 사람은"
+    }
+  },
+  {
+    "translation": {
+      "en": "Scandinavian, I think.",
+      "ko": "스칸디나비아 억양인 것 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six-foot, white, muscular.",
+      "ko": "180cm쯤의 근육질 백인이었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "There. Top row. Second from the right.",
+      "ko": "저기 윗줄에 있네요 오른쪽에서 두 번째요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this the man you saw?",
+      "ko": "저자가 확실해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's him. Who is he?",
+      "ko": "맞아요, 누구죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kores Botha.",
+      "ko": "코레스 보타예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ex-military.",
+      "ko": "전직 군인인데"
+    }
+  },
+  {
+    "translation": {
+      "en": "Has a nasty crew with him, too.",
+      "ko": "부하들도 악질이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "High-end muscle for three different crime syndicates.",
+      "ko": "범죄 조직 세 군데에 고용된 청부업자죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Inspector...",
+      "ko": "반장님"
+    }
+  },
+  {
+    "translation": {
+      "en": "This doesn't pass the smell test.",
+      "ko": "뭔가 이상한데요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't Botha's M.O.",
+      "ko": "보타답지 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would he trap himself in the fire?",
+      "ko": "왜 일부러 불길 속에 갇혀요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And why would he cut off his only way out?",
+      "ko": "유일한 출구도 차단하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't make any sense.",
+      "ko": "말이 안 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cantonese] They're going to jump.",
+      "ko": "뛰어내릴 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Excuse me?",
+      "ko": "뭐라고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "One of them was carrying a container,",
+      "ko": "웬 박스를 갖고 있었는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "and it had a logo with wings on it, and the word \"Sirin.\"",
+      "ko": "날개 모양 로고가 찍혀있었어요 '시린'이라는 글자하고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look it up.",
+      "ko": "찾아봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is stupid.",
+      "ko": "미치겠군"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is The Pearl.",
+      "ko": "여기가 펄이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "A BASE jump from 1,000 meters up gives you roughly",
+      "ko": "1,000m 위에서 낙하하면 하강 반경이 2km쯤 되죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "about two kilometers descent distance.",
+      "ko": "하강 반경이 2km쯤 되죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, if you're right,",
+      "ko": "당신 말이 맞는다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "they will land somewhere within this circle.",
+      "ko": "이 정도 반경 안에 착륙할 겁니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhere open and flat, secluded.",
+      "ko": "탁 트이고 평평하고 외딴곳에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, they wouldn't go for Victoria Park. There's too many trees to get hung up on.",
+      "ko": "빅토리아 공원은 나무가 많으니까 안 될 거고"
+    }
+  },
+  {
+    "translation": {
+      "en": "South, they wouldn't clear the peak.",
+      "ko": "남쪽은 봉우리에 걸리고"
+    }
+  },
+  {
+    "translation": {
+      "en": "North, maybe,",
+      "ko": "북쪽이 가능성이 큰데 평지까진 멀어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "but it's a longer haul to an open spot.",
+      "ko": "가능성이 큰데 평지까진 멀어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about this? What's that?",
+      "ko": "여긴 뭐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's nothing. It's a construction site.",
+      "ko": "여긴 그냥 공사장이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bay Dredge.",
+      "ko": "베이 드레지예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't seriously be considering this.",
+      "ko": "진짜 여길 확인해보시게요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For all we know, she could be in on it.",
+      "ko": "저 여자도 한패일지 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think I would willingly trap my own children in a burning building?",
+      "ko": "한패라서 내 아이들을 불구덩이에 집어넣었다고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] I think you could be playing a role.",
+      "ko": "그게 당신 역할이었다면요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This could all be part of your husband's plan.",
+      "ko": "다 당신 남편의 계획일 수도 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take me there.",
+      "ko": "날 그리 데려다줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I am wrong and it's empty, then what have you lost?",
+      "ko": "가서 아니면 그만이지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if I am right, this might be your only chance",
+      "ko": "내 말이 맞으면 이 일의 범인을 잡을 기회를 놓치게 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "to catch the people responsible for this whole thing.",
+      "ko": "이 일의 범인을 잡을 기회를 놓치게 돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My family is in there.",
+      "ko": "내 가족이 저 안에 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please.",
+      "ko": "부탁이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] Oh, my God.",
+      "ko": "맙소사"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, baby. Come on.",
+      "ko": "힘내, 여보 힘내"
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] Two, three.",
+      "ko": "둘, 셋"
+    }
+  },
+  {
+    "translation": {
+      "en": "One, two, three.",
+      "ko": "하나 둘 셋"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, easy.",
+      "ko": "좋아, 긴장 풀고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just cut the wire, doors will open, climb back up there.",
+      "ko": "와이어를 자른 뒤 문 열고 올라가면 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit!",
+      "ko": "젠장!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, come on.",
+      "ko": "제발!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Does that look like someone with a plan to you?",
+      "ko": "저게 다 계획 같아요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now do you believe me?",
+      "ko": "이젠 내 말을 믿겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't move.",
+      "ko": "꼼짝 말아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're too close.",
+      "ko": "너무 가깝군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "뭐요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[groans] -We need to talk.",
+      "ko": "얘기 좀 해야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right, if we're gonna get out of here, you're gonna have to tell me the truth.",
+      "ko": "같이 여길 나가려면 진실을 알아야겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How does a man like that call you his business partner?",
+      "ko": "놈이 당신을 동업자라고 하던데"
+    }
+  },
+  {
+    "translation": {
+      "en": "His name is Kores Botha.",
+      "ko": "이름은 코레스 보타"
+    }
+  },
+  {
+    "translation": {
+      "en": "He handles extortion for three powerful crime syndicates.",
+      "ko": "세 군데 조직에 고용된 갈취 전문범이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And when I began construction on The Pearl, Botha came to me.",
+      "ko": "펄을 짓기 시작할 때 날 찾아왔죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "He said that if I didn't pay him, he'll cripple my labor force",
+      "ko": "돈을 안 주면 인부들 고용을 방해하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and keep me from ever completing this place.",
+      "ko": "펄을 완공 못 하게 하겠다더군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You paid him. -Yes.",
+      "ko": "- 그래서 줬군요 - 그랬죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "But what he didn't know was that I hid tracking software inside my wire transfer.",
+      "ko": "근데 송금할 때 추적용 소프트웨어를 깔아놨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "As Botha laundered my payments",
+      "ko": "놈이 해외 계좌로 돈세탁할 때"
+    }
+  },
+  {
+    "translation": {
+      "en": "through their offshore accounts,",
+      "ko": "\"계좌번호 추적 중\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I was able to trace every transaction,",
+      "ko": "난 이체 명세를 모두 추적했고"
+    }
+  },
+  {
+    "translation": {
+      "en": "giving me their bank accounts,",
+      "ko": "\"해독\" 놈들의 계좌, 이름 신원을 다 파악했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "their names, their identities.",
+      "ko": "놈들의 계좌, 이름 신원을 다 파악했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was my insurance policy.",
+      "ko": "\"외부 드라이브로 전송\" 그게 내 보험이었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Botha would never be able to extort money from me again.",
+      "ko": "내게서 다시는 돈을 못 빼앗게 됐고"
+    }
+  },
+  {
+    "translation": {
+      "en": "But when the syndicates found out that they were compromised,",
+      "ko": "정보가 누설된 걸 안 조직은 \"전송 완료\""
+    }
+  },
+  {
+    "translation": {
+      "en": "they threatened to destroy Botha if he didn't clean up his mess.",
+      "ko": "해결 안 하면 죽이겠다고 보타를 위협했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If he kills me, the copies I've made will be sent to the authorities.",
+      "ko": "놈이 날 죽이면 사본이 사법 당국에 전달돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if he gets his hands on this, the original,",
+      "ko": "하지만 이 원본을 손에 넣으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "he can reverse engineer my tracking software",
+      "ko": "내 추적 소프트웨어를 역설계해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "and hide the identities before anyone's the wiser.",
+      "ko": "자신들의 신원을 감쪽같이 숨길 수 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, he lit this entire building on fire",
+      "ko": "여기 불을 지르면"
+    }
+  },
+  {
+    "translation": {
+      "en": "knowing that you would take the most valuable thing in this world to you and run.",
+      "ko": "제일 중요한 걸 들고 피할 거로 생각했군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And his plan worked. -Not yet, it hasn't.",
+      "ko": "- 작전이 성공했고요 - 아직은 아니에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna give Botha what he came here for.",
+      "ko": "놈이 원하는 걸 줘요"
+    }
+  },
+  {
+    "translation": {
+      "en": "As soon as he has the drive, he'll kill us both.",
+      "ko": "드라이브를 손에 넣으면 우릴 죽일 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe.",
+      "ko": "아마도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But he has my daughter. And her life is what matters to me, not mine.",
+      "ko": "하지만 내 목숨보다 딸아이 목숨이 더 중요해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, I'm taking that drive to the roof.",
+      "ko": "그 드라이브를 옥상으로 가져가야겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You could either be attached to it or not.",
+      "ko": "당신도 같이 갈지 말지는"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's your choice, Zhao.",
+      "ko": "쟈오 당신한테 달렸어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "알겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, what's the plan?",
+      "ko": "어쩌려고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got any duct tape?",
+      "ko": "접착테이프 있어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy! -[Botha] Hey!",
+      "ko": "- 아빠! - 이봐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mr. Sawyer, see,",
+      "ko": "그것 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew you'd find a way.",
+      "ko": "방법이 있을 거랬잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have what's mine,",
+      "ko": "내 건 당신한테 있고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I have what's yours.",
+      "ko": "당신 건 나한테 있네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give me the drive.",
+      "ko": "그 드라이브 줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And bring Zhao. -No. My daughter first.",
+      "ko": "쟈오도 같이! 안 돼 내 딸부터 놔줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I can't let you do this. -Hey, what are you doing?",
+      "ko": "아무래도 안 되겠어요! 계획과 다르잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is not in the plan. -Turn around.",
+      "ko": "돌아서요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's got my daughter. Please, don't do this to me.",
+      "ko": "내 딸이 잡혀있어요 이러지 말아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] Turn around!",
+      "ko": "돌아서라니까!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want a parachute!",
+      "ko": "낙하산을 내놔!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need me alive.",
+      "ko": "내가 살아있어야 하잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-A parachute or you get nothing! -Give him your parachute.",
+      "ko": "낙하산 주든가 다 포기하든가! 네 거 줘"
+    }
+  },
+  {
+    "translation": {
+      "en": "Give him your parachute.",
+      "ko": "네 낙하산을 주라고"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] Bring it here.",
+      "ko": "이리 가져와!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop. Drop it there.",
+      "ko": "멈춰, 거기 내려놔"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come. Bring the drive.",
+      "ko": "이리와! 드라이브 줘!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here's what you want?",
+      "ko": "네가 원하는 거 여깄어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go get it.",
+      "ko": "가져가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Run!",
+      "ko": "뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Doors! Come on!",
+      "ko": "문으로 뛰어!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Georgia.",
+      "ko": "조지아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Georgia echoing] Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Inspector Wu] It looks like you were right.",
+      "ko": "당신 말이 맞는 거 같네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've got armed suspects up ahead.",
+      "ko": "저 위에 무장 용의자들이 있소"
+    }
+  },
+  {
+    "translation": {
+      "en": "[speaking Cantonese] Police!",
+      "ko": "경찰이다!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay down, don't leave the car.",
+      "ko": "바싹 숙이고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks. You almost had me convinced out there.",
+      "ko": "고맙소 아깐 속을 뻔했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go find your daughter.",
+      "ko": "딸 찾으러 가야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go, go, go!",
+      "ko": "가자, 가!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] Hey.",
+      "ko": "이봐!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Zhao] Go. Go get her.",
+      "ko": "어서 가서 딸을 구해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming back for you.",
+      "ko": "다시 오겠소"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn around.",
+      "ko": "돌아서"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn around now!",
+      "ko": "돌아서, 빨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You shoot me, I drop this",
+      "ko": "날 쏘면 이걸 던질 거야 얘도!"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the girl.",
+      "ko": "이걸 던질 거야 얘도!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Disarm now! -No, please!",
+      "ko": "- 무기를 버려, 빨리! - 안 돼요!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "You win.",
+      "ko": "네가 이겼어"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gonna be okay, honey.",
+      "ko": "괜찮을 거야, 조지아"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's gonna be okay.",
+      "ko": "괜찮을 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now toss me the drive.",
+      "ko": "드라이브 이리 던져!"
+    }
+  },
+  {
+    "translation": {
+      "en": "All right.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "But there's one thing you should know first.",
+      "ko": "근데 네가 모르는 게 하나 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "ko": "뭔데?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm behind you.",
+      "ko": "난 네 뒤에 있거든"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs heavily] I got you. I got you. I got you.",
+      "ko": "이제 됐어, 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy's got you. -[coughs]",
+      "ko": "아빠가 잡았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[tablet beeps] -[Inspector Wu] What's that?",
+      "ko": "그게 뭐예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know, she had it on her.",
+      "ko": "저 여자가 갖고 있던 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It looks like it controls the building.",
+      "ko": "이걸로 건물을 제어하나 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, let's wait for someone who knows what they're doing.",
+      "ko": "전문가가 올 때까지 기다리죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "My husband and daughter are in that building, it's on fire right now. I'm not gonna wait another damn second.",
+      "ko": "남편과 딸이 불길 속에 있어요 1초도 더 못 기다려요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[speaking Cantonese] Take her away.",
+      "ko": "끌고 가"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in English] Yes, sir.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come here. Stay down, stay low. I'm gonna find us a way out of here.",
+      "ko": "바싹 엎드려 있어 나가는 길을 찾아볼게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Georgia] Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing?",
+      "ko": "뭐 하는 거예요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm trying to bring the fire systems back online.",
+      "ko": "방화 시스템을 재가동하려고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it working?",
+      "ko": "돼요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] Not yet.",
+      "ko": "아직 안 돼요 \"보안\""
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy! -Come here, come here. Come here.",
+      "ko": "아빠! 이리 와"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "제발!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on.",
+      "ko": "\"보안 경고 해제\" 제발"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Georgia whimpers] -Daddy's got you.",
+      "ko": "아빠가 지켜줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Daddy's got you. Daddy's got you.",
+      "ko": "아빠가 지켜줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got you. Look at me. Look at me.",
+      "ko": "걱정하지 마 날 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Daddy loves who? -Me.",
+      "ko": "아빤 누굴 사랑해? - 나요 - 그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "Daddy loves you. Daddy loves you.",
+      "ko": "- 나요 - 그래 아빤 널 사랑해"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sorry. -No.",
+      "ko": "미안해 아니에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm so sorry.",
+      "ko": "정말 미안해"
+    }
+  },
+  {
+    "translation": {
+      "en": "It worked.",
+      "ko": "성공했네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "How the hell did you do that?",
+      "ko": "어떻게 한 겁니까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I rebooted the control systems for the entire building.",
+      "ko": "건물 전체의 제어 시스템을 재부팅 했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I turned it off and on again.",
+      "ko": "껐다가 다시 켰죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Will] Zhao! Zhao, let's go.",
+      "ko": "쟈오, 갑시다"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go. Come on.",
+      "ko": "갑시다, 일어나요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here.",
+      "ko": "받아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you gonna do now?",
+      "ko": "이제 어쩔 거요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rebuild.",
+      "ko": "다시 지어야죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sarah? -[reporter] One question...",
+      "ko": "세라"
+    }
+  },
+  {
+    "translation": {
+      "en": "Has anyone seen my wife?",
+      "ko": "누구 내 아내 못 봤소?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about my son?",
+      "ko": "내 아들 못 봤어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Henry!",
+      "ko": "헨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah!",
+      "ko": "세라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[distantly] Henry!",
+      "ko": "헨리!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah!",
+      "ko": "세라!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mom!",
+      "ko": "엄마!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dad!",
+      "ko": "아빠!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay? You okay? Are you hurt?",
+      "ko": "괜찮아? 다쳤어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, we're okay.",
+      "ko": "아니"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm okay, Dad.",
+      "ko": "나 괜찮아요, 아빠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sarah] We're fine. We're fine.",
+      "ko": "우리 괜찮아, 괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you.",
+      "ko": "사랑해"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, too.",
+      "ko": "나도 사랑해"
+    }
+  },
+  {
+    "translation": {
+      "en": "You really need a shower.",
+      "ko": "당신 샤워 좀 해야겠다"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yes, I do. -[laughs]",
+      "ko": "그래야겠네"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Let's go home. -Oh, yeah.",
+      "ko": "- 집에 가자 - 응"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Inspector Wu] Will Sawyer.",
+      "ko": "윌 소여 씨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice to finally meet you.",
+      "ko": "드디어 만나는군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've got quite a family there.",
+      "ko": "대단한 가족이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a lucky man.",
+      "ko": "내가 운이 좋거든요"
+    }
+  }
+]

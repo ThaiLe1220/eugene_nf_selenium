@@ -1,0 +1,926 @@
+[
+  {
+    "translation": {
+      "en": "[man 1] Only barbarians drink unmixed wine. Out of my way, bastard.",
+      "th": "มีแต่พวกป่าเถื่อนที่ดื่มเหล้าองุ่น ไม่เจือน้ำ ถอยไปไอ้ลูกชู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Self-control is of the essence.",
+      "th": "คนเราต้องรู้จักควบคุมอารมณ์บ้างสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much for ore today?",
+      "th": "วันนี้ให้ราคาแร่เท่าไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two drachmas for the lot of it.",
+      "th": "ทั้งถุงนี้ก็สองดรัคมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Two drachmas? That's it?",
+      "th": "สองดรัคมา แค่นั้นเองหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be grateful I do business with you at all.",
+      "th": "ดีใจเสียเถิดที่ข้ายอมซื้อขายกับเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did it go?",
+      "th": "เป็นอย่างไรบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] What about the rest of it?",
+      "th": "แล้วที่เหลือล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was lucky to get that.",
+      "th": "ได้เท่านี้ก็โชคดีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry.",
+      "th": "ไม่ต้องห่วง"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll figure something out.",
+      "th": "ไว้เราค่อยคิดหาทางกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "th": "เกิดอะไรขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You need not fear me.",
+      "th": "ไม่ต้องกลัวไปไย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I am Grand Archon Alexia.",
+      "th": "ข้าคือหัวหน้าผู้พิพากษาอเล็กเซีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm in pursuit of a demon. Have you seen anything pass?",
+      "th": "ข้ากำลังตามล่าดีม่อนอยู่ พวกเจ้าเห็นอะไรผ่านมาบ้างไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Demon? No. -Then get inside.",
+      "th": "- ดีม่อนหรือ ไม่นะ - เช่นนั้นก็กลับไปข้างในซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "These monsters know no mercy.",
+      "th": "ปีศาจพวกนี้ไร้ความปรานี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Old fool, what are you doing?",
+      "th": "ตาแก่โง่เอ๊ย ทำอะไรของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Breaking my leg. What's it look like? [groans]",
+      "th": "ขาข้าหักน่ะสิ เห็นเป็นอะไรเล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've drunk more than you've bled, you old goat.",
+      "th": "เลือดออกแค่นี้ไม่เท่ากับ น้ำเมาที่เจ้าดื่มหรอก ตาเฒ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "One of these days, you're gonna get yourself killed, Elias.",
+      "th": "ท่านได้ถูกฆ่าตายสักวันแน่ เอไลอัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go ahead without me.",
+      "th": "ปล่อยข้าไว้แล้วไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're old, not dead.",
+      "th": "ท่านแค่แก่ ไม่ได้ตายเสียหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to clean this.",
+      "th": "เราต้องล้างแผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Heron?",
+      "th": "เฮรอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you injured?",
+      "th": "เจ็บตรงไหนไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Get to safety.",
+      "th": "ไปหลบในที่ปลอดภัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Arrest this man.",
+      "th": "จับชายคนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The rumors are true.",
+      "th": "ข่าวลือเป็นเรื่องจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "An army from the east descends upon us.",
+      "th": "กองทัพจากตะวันออกจู่โจมเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "But this enemy is unlike anything we've ever seen before.",
+      "th": "แต่ศัตรูครั้งนี้ไม่เหมือนกับครั้งใด ที่เราเคยเจอมาก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're a cult of monsters many dare not speak of.",
+      "th": "พวกมันเป็นลัทธิปีศาจที่หลายคนไม่กล้าเอ่ยถึง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Monsters? -Did she say monsters?",
+      "th": "- ปีศาจหรือ - นางพูดว่าปีศาจหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Alexia] Only after I saw them did I finally believe.",
+      "th": "หลังจากที่ได้เห็นพวกมันกับตา ข้าถึงได้เชื่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now, so will you.",
+      "th": "และบัดนี้ พวกเจ้าก็จะได้เห็นเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let this test of fire reveal your true nature.",
+      "th": "นางจะเอาแท่งเหล็กนั่นไปทำอะไร ขอให้ฤทธิ์แห่งเพลิง จงเผยธาตุแท้ของเจ้าออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunting] No! No. Please, please!",
+      "th": "ไม่ ขอร้องล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no!",
+      "th": "อย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What are you doing? -May the gods have mercy.",
+      "th": "- อะไรกัน - ท่านจะทำอะไร ขอเหล่าเทพทรงเมตตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You will convert or die.",
+      "th": "เจ้าจะเปลี่ยนหรือตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "By the gods…",
+      "th": "พระเจ้าช่วย…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You and your cult have forsaken man and spilled innocent blood.",
+      "th": "เจ้ากับลัทธิเจ้าทิ้งความเป็นมนุษย์ และเข่นฆ่าผู้บริสุทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've forsaken nothing.",
+      "th": "พวกข้าไม่ได้ละทิ้งอะไรสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are the strong and you are the--",
+      "th": "พวกข้าคือผู้แข็งแกร่ง ส่วนพวกเจ้าก็เป็น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "How is this possible?",
+      "th": "เป็นไปได้อย่างไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "How can something like that live inside someone?",
+      "th": "มีอะไรแบบนั้นอยู่ในตัวคนได้อย่างไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "To understand demons…",
+      "th": "หากอยากเข้าใจพวกดีม่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must to back to the great war against the giants.",
+      "th": "เจ้าต้องย้อนกลับไปยังสมัย สงครามครั้งใหญ่กับพวกไจแอนต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Giants?",
+      "th": "ไจแอนต์หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the world was new…",
+      "th": "ตอนที่โลกเพิ่งอุบัติขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] …the gods, the masters of light,",
+      "th": "เหล่าเทพ จ้าวแห่งแสงสว่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeated the titans, the family of darkness.",
+      "th": "เอาชนะยักษ์ไททัน เผ่าพันธุ์แห่งความมืดมิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "But as the last titan fell,",
+      "th": "แต่ขณะที่ไททันตนสุดท้ายล้มลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "he swore a curse on the gods. And when his blood struck the sea…",
+      "th": "มันได้สาปแช่งเทพเจ้า และเมื่อโลหิตของมันกระเด็นลงสู่ทะเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "The giants were born.",
+      "th": "พวกไจแอนต์ก็ถือกำเนิดขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "These monsters were brought into the world for a single purpose.",
+      "th": "ปีศาจเหล่านี้เกิดมาเพื่อจุดประสงค์เดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "To destroy the realm of the gods.",
+      "th": "ทำลายโลกของเทพเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "The hellish war erupted, for the great Gigantomachy had begun.",
+      "th": "สงครามอันโหดร้ายอุบัติขึ้น การต่อสู้ระหว่างเทพและไจแอนต์ได้เริ่มขึ้นแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The gods swore to defeat the giants and rid them from the earth.",
+      "th": "เหล่าเทพสาบานว่าจะเอาชนะ และกำจัดพวกไจแอนต์ให้หมดไปจากโลกนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both gods and giants fell alike.",
+      "th": "ทั้งเทพและไจแอนต์ต่างล้มตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Still, neither side would relent,",
+      "th": "แต่ก็ไม่มีฝ่ายไหนยอมถอย"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the two factions battled on endlessly, incapable of conquering the other.",
+      "th": "ทั้งสองฝ่ายต่อสู้กันไม่รู้จบ โดยไม่อาจเอาชนะอีกฝ่ายได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Until one day,",
+      "th": "จนกระทั่งวันหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Zeus convinced two of the giants to take up arms with the gods.",
+      "th": "ซูสหว่านล้อมให้ไจแอนต์สองตน ร่วมมือกับเทพเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "And with this, reason and compromise were introduced to the world.",
+      "th": "ด้วยเหตุนี้ โลกจึงได้รู้จักกับ การใช้เหตุผลและการประนีประนอม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Soon, Zeus would lead one final attack.",
+      "th": "หลังจากนั้นมินาน ซูสก็ได้นำการโจมตีครั้งสุดท้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] Zeus ordered Hermes to gather their souls…",
+      "th": "ซูสสั่งให้เฮอร์มีส รวบรวมดวงวิญญาณของพวกไจแอนต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "while their remains were cast into the ocean,",
+      "th": "ขณะที่ซากศพถูกทิ้งลงมหาสมุทร"
+    }
+  },
+  {
+    "translation": {
+      "en": "to be forever swallowed… by the tides.",
+      "th": "ให้คลื่นซัดกลืนหายไปตลอดกาล"
+    }
+  },
+  {
+    "translation": {
+      "en": "The smithing god Hephaestus forged the grand automaton Talos",
+      "th": "เทพแห่งการตีเหล็ก เฮเฟสตัส สร้างหุ่นยักษ์ที่ชื่อว่าทาลอสขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "to stand guard over the cauldron,",
+      "th": "เพื่อเฝ้าหม้อหลอม"
+    }
+  },
+  {
+    "translation": {
+      "en": "forever sworn to keep it shut so that this evil would never return.",
+      "th": "สาบานว่าจะปิดมันไว้ตลอดไป เพื่อไม่ให้ความชั่วร้ายนี้กลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "What does this have to do with demons?",
+      "th": "แล้วมันเกี่ยวอะไรกับดีม่อนหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Patience, my young friend.",
+      "th": "อดทนฟังหน่อย พ่อหนุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "As the ages passed,",
+      "th": "เมื่อเวลาผ่านไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "a terrible squall rustled the ocean floor,",
+      "th": "ก็มีพายุครั้งใหญ่ทำให้พื้นมหาสมุทรปั่นป่วน"
+    }
+  },
+  {
+    "translation": {
+      "en": "casting a dead giant ashore.",
+      "th": "ซัดร่างที่ไร้วิญญาณ ของไจแอนต์ตนหนึ่งขึ้นมาบนฝั่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And as the fates would have it,",
+      "th": "แล้วโชคชะตาก็นำพา"
+    }
+  },
+  {
+    "translation": {
+      "en": "one of these dark vessels was discovered by a man.",
+      "th": "ให้ชายคนหนึ่งค้นพบร่างแห่งความมืดนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And though he did not know it, this evil began poisoning him.",
+      "th": "สิ่งชั่วร้ายนี้เริ่มทำให้เขาแปดเปื้อนโดยไม่รู้ตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "For to even touch a giant is to feel the abyss.",
+      "th": "เพราะเพียงแค่สัมผัสร่างกายของไจแอนต์ ก็ทำให้รู้สึกถึงห้วงอเวจีแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "And as the moth is drawn to the flame, so were others drawn to him.",
+      "th": "เขาดึงดูดผู้คน ไม่ต่างจากแมลงเม่าที่เข้าหากองไฟ"
+    }
+  },
+  {
+    "translation": {
+      "en": "These men ceased to pay tribute to the gods.",
+      "th": "คนเหล่านี้เลิกบูชาเทพเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Instead, they pledged their allegiance to the giants.",
+      "th": "แต่กลับไปสวามิภักดิ์ต่อพวกไจแอนต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "And soon, they began to eat of the giant.",
+      "th": "ไม่นาน พวกเขาก็เริ่มกินเนื้อไจแอนต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Through this black communion a new family of darkness arose.",
+      "th": "เผ่าพันธุ์ใหม่แห่งความมืดถือกำเนิด ผ่านพิธีมหาสนิทอันมืดมนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "They became demons.",
+      "th": "พวกเขากลายเป็นดีม่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Evil and wicked creatures hidden beneath a human veneer.",
+      "th": "สิ่งมีชีวิตชั่วร้ายที่แฝงกายในคราบมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why would the gods allow this?",
+      "th": "ทำไมเทพเจ้าถึงปล่อยให้มันเกิดขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because adversity is what makes man great.",
+      "th": "เพราะอุปสรรคคือสิ่งที่ทำให้มนุษย์ยิ่งใหญ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'd be weak and useless if the gods were always swooping in",
+      "th": "เราคงอ่อนแอและไร้น้ำยา หากเทพเจ้าเข้ามาแทรกแซง"
+    }
+  },
+  {
+    "translation": {
+      "en": "and solving our problems.",
+      "th": "และแก้ปัญหาให้เสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Huh, I almost forgot.",
+      "th": "จริงสิ ข้าเกือบลืม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please, accept this as a small token of my appreciation.",
+      "th": "รับไว้เถิด ถือว่าเป็นสินน้ำใจ เล็กๆ น้อยๆ จากข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "But it comes with one condition. You make us your wonderful stew.",
+      "th": "แต่มีเงื่อนไขหนึ่งข้อ ต้องตุ๋นแกงอันโอชะของเจ้าให้เรากิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] I don't know what we'd do without you.",
+      "th": "ถ้าขาดท่านไปเราคงแย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Must be from Hades. -Strange.",
+      "th": "- เฮดีสส่งมาแน่ๆ - แปลกนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-God help us all. -Gods help us all.",
+      "th": "- ทวยเทพโปรดช่วยเราด้วย - ทวยเทพโปรดช่วยเราด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your name?",
+      "th": "เจ้าชื่ออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, Heron.",
+      "th": "เฮรอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You fought bravely last night.",
+      "th": "เมื่อคืนเจ้าสู้ได้กล้าหาญมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And thanks to you, Heron, we found a map, one that describes a nearby encampment.",
+      "th": "แล้วก็เพราะเจ้า เฮรอน เราเจอแผนที่ ระบุถึงที่พักแรมบริเวณแถวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "One the demons will most certainly use to stage their attack.",
+      "th": "ที่พวกดีม่อนจะใช้เป็นจุดจู่โจมอย่างแน่นอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Join us. Help us take the fight to them.",
+      "th": "มากับเราสิ ช่วยเราบุกไปสู้กับพวกมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the best way to protect this polis.",
+      "th": "เป็นวิธีดีที่สุดที่จะปกป้องเมืองนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, my lady.",
+      "th": "ขออภัยนายหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Alexia.",
+      "th": "อเล็กเซีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry, Alexia, but these people have forsaken my mother and I.",
+      "th": "ขออภัย อเล็กเซีย แต่คนพวกนี้ทอดทิ้งข้ากับแม่ข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why should I fight for them?",
+      "th": "ทำไมข้าต้องสู้เพื่อพวกเขาด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Because all our fates hang in the balance.",
+      "th": "เพราะชะตากรรมของเราทุกคน กำลังแขวนอยู่บนเส้นด้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their fate, perhaps. But not mine.",
+      "th": "นั่นเป็นชะตากรรมของพวกเขา แต่ไม่ใช่ของข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "If what she says is true, we should go.",
+      "th": "ถ้าสิ่งที่นางพูดเป็นความจริง เราก็ควรไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't understand. We can't.",
+      "th": "เจ้าไม่เข้าใจ เราไปไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "th": "ทำไมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Heron, it'll be our death.",
+      "th": "เฮรอน ถ้าไปเราตายแน่"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you talking about?",
+      "th": "ท่านแม่พูดเรื่องอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're no bastard.",
+      "th": "เจ้าไม่ใช่ลูกไม่มีพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Your father-- -[man 2] There's the whore! I see her.",
+      "th": "- พ่อของเจ้า… - นังโสเภณีนั่น ข้าเห็นนางแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 3] That old slut. -[man 4] Over there.",
+      "th": "- อีแก่แพศยา - อยู่ตรงนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're here to test your whore mother.",
+      "th": "เรามาทดสอบนังแม่โสเภณีของแก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You touch her with that and I'll end you.",
+      "th": "ลองแตะต้องแม่ข้าสิ ข้าจะฆ่าให้หมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ever since she's turned up, a cloud has hung over us.",
+      "th": "ตั้งแต่นางโผล่มาก็มีเมฆดำลอยเหนือพวกเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's one of them.",
+      "th": "นางต้องเป็นพวกมันแน่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't kill all of us.",
+      "th": "แกฆ่าเราทั้งหมดไม่ได้หรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. Just some. Who's first?",
+      "th": "ก็ใช่ แค่บางคนก็พอ ใครจะลองดีก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's enough!",
+      "th": "พอได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Mom! Mom! -[horse neighs]",
+      "th": "ท่านแม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rough day.",
+      "th": "เป็นวันที่ไม่ดีเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would have helped, but there were only ten of them.",
+      "th": "ข้าก็อยากช่วยนะ แต่พวกมันมากันแค่สิบคนเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should have gone with them.",
+      "th": "ข้าน่าจะไปกับพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You won't be here forever.",
+      "th": "เจ้าจะไม่อยู่ที่นี่ตลอดไปหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Elias] Alexia's right. War is upon us. We must prepare.",
+      "th": "อเล็กเซียพูดถูก สงครามใกล้มาถึงแล้ว เราต้องเตรียมพร้อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Heron] How?",
+      "th": "อย่างไรล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Climb to the top of this mountain.",
+      "th": "ปีนขึ้นไปบนยอดเขาลูกนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "There, you will find a rose bush that stands out from the others.",
+      "th": "บนนั้นเจ้าจะเจอพุ่มกุหลาบ ที่สะดุดตากว่าพุ่มอื่นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you dig beneath it,",
+      "th": "หากเจ้าขุดลงไปข้างใต้"
+    }
+  },
+  {
+    "translation": {
+      "en": "you will find the adamantine ore we'll need",
+      "th": "ก็จะเจอแร่อะดาแมนทีนที่เราต้องการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "to make you a sword like no other.",
+      "th": "เพื่อนำไปตีดาบที่ไม่เหมือนดาบเล่มใดให้เจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "How did you find me…",
+      "th": "เจ้าหาข้าเจอได้อย่างไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ares?",
+      "th": "เอรีส"
+    }
+  },
+  {
+    "translation": {
+      "en": "You betray your own bidding, o king of kings.",
+      "th": "ท่านฝ่าฝืนคำสั่งของท่านเอง ราชาแห่งราชัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought we were not to intervene.",
+      "th": "ข้านึกว่าเราไม่ควรเข้าไปยุ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or does that not apply to you?",
+      "th": "หรือว่าท่านอยู่นอกเหนือคำสั่งนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I simply said we cannot fight for them.",
+      "th": "ข้าแค่พูดว่าเราสู้แทนมนุษย์ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And that I have not done.",
+      "th": "และข้าก็ยังไม่ได้ทำเช่นนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I see.",
+      "th": "เข้าใจแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll make that distinction clear to the others.",
+      "th": "ข้าจะไปแจ้งกับคนอื่นๆ ให้ชัดเจน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll do no such thing.",
+      "th": "ห้ามทำเช่นนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then allow me to help you. No.",
+      "th": "- เช่นนั้นให้ข้าช่วยท่านเถิด - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "If man is meant to inherit the earth, they must do so on their own accord.",
+      "th": "ถ้ามนุษย์เกิดมาเพื่อสืบทอดโลกนี้ พวกเขาก็ต้องทำด้วยตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then why do you come to this one's aid?",
+      "th": "แล้วทำไมท่านถึงช่วยเหลือชายคนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ares] Do you really think this bastard can lead them?",
+      "th": "คิดว่าเจ้าลูกไม่มีพ่อคนนี้ จะนำมวลมนุษย์ได้จริงหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do.",
+      "th": "ใช่แล้ว"
+    }
+  }
+]

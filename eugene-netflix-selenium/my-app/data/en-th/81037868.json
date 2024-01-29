@@ -1,0 +1,5846 @@
+[
+  {
+    "translation": {
+      "en": "[boy] ♪ There once was a lord ♪",
+      "th": "เคยมีท่านลอร์ดคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ In dark woods ♪",
+      "th": "ในป่ามืด"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Wearing a strange silver band ♪",
+      "th": "สวมเครื่องเงินประหลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Around his hand ♪",
+      "th": "อยู่รอบๆ มือของเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ The band was charmed With ore from stars ♪",
+      "th": "สร้อยข้อมือถูกประดับด้วยดวงดาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Bidding all monsters away ♪",
+      "th": "ปัดเป่าอสูรร้ายให้ออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Away ♪",
+      "th": "ออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ On that quiet eve ♪",
+      "th": "ในคืนที่เงียบงัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Among these trees ♪",
+      "th": "ท่ามกลางต้นไม้ใหญ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ A bandit slew the good lord ♪",
+      "th": "เหล่าโจรเข่นฆ่าท่านลอร์ดที่แสนดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Stealing that band ♪",
+      "th": "และขโมยสร้อยเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Off a dead man's hand ♪",
+      "th": "จากข้อมือของขุนนางผู้ล่วงลับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ For the bandit also feared ♪",
+      "th": "เพราะโจรก็กลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "th": "อสูรร้ายเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sugo, keep your eyes and ears open!",
+      "th": "ซูโก คอยเปิดหูเปิดตาเอาไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's frightening the girls.",
+      "th": "เพลงของเจ้าทำให้น้องๆ กลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Sugo] They wouldn't even be scared… -[grunts] …if you hadn't gotten lost.",
+      "th": "น้องๆ คงไม่ต้องกลัว ถ้าท่านพ่อไม่พาเราหลงทาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Really, Papa, you grew up in Kaedwen.",
+      "th": "จริงๆ นะ ท่านพ่อ ท่านโตที่เคดเวนแท้ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "King clearly dug new trails. [grunts]",
+      "th": "เห็นๆ อยู่ว่ากษัตริย์สั่งขุดเส้นทางใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "[girl] Is it true, Papa?",
+      "th": "จริงหรือ ท่านพ่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are bandits killing innocents along these trails?",
+      "th": "พวกโจรป่าดักฆ่าผู้บริสุทธิ์ตามเส้นทางพวกนี้หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Oh, pumpkin.",
+      "th": "ลูกรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are no bandits. [grunts]",
+      "th": "ไม่มีโจรป่าหรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No!",
+      "th": "ไม่นะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Sister! -[limbs squelching]",
+      "th": "น้องข้า!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Sugo] A witcher.",
+      "th": "วิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[witcher chuckles] Fancy look.",
+      "th": "ชุดแต่งกายแจ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must make a killing at druid festivals.",
+      "th": "น่าไปออกงานวัดของพวกผู้วิเศษ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't usually see your sorts around these parts.",
+      "th": "ปกติไม่ค่อยเห็นเผ่าพันธุ์เจ้าในแถบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Ha! I see. -[creature snarling]",
+      "th": "เข้าใจละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a trailblazer, flaunting the new fad.",
+      "th": "เจ้าเป็นผู้บุกเบิกด้านแฟชั่นนี่เอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Trendsetter, you.",
+      "th": "ชอบนำเทรนด์สินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[screeches] -Very bold! [grunts]",
+      "th": "ใจถึงดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whoa, there. People should get acquainted more, really.",
+      "th": "ช้าก่อน ทำความรู้จักกันให้มากกว่านี้ก่อนสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Converse, a little foreplay.",
+      "th": "คุยกันสักนิด เล้าโลมกันสักหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Especially when one's about to kill the other.",
+      "th": "โดยเฉพาะตอนที่คนหนึ่งกำลังจะฆ่าอีกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Though you leshens don't speak, so there's the rub.",
+      "th": "แต่เลเชินอย่างเจ้าพูดไม่ได้นี่สิ เราคงคุยกันลำบากแล้วละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Forest hobo or deadly, flapping swarm.",
+      "th": "จะเป็นอสูรพงไพร หรือจะเป็นฝูงค้างคาวกระพือปีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pick a look… [grunts]",
+      "th": "เลือกเอาสักอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "…and stick with it.",
+      "th": "อย่าเปลี่ยนไปเปลี่ยนมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Deadly, flapping swarm it is.",
+      "th": "ตกลงเป็นฝูงค้างคาวมฤตยูสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Away. It's not dead.",
+      "th": "ถอยไป มันยังไม่ตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "So kill it. You're a witcher.",
+      "th": "งั้นก็ฆ่ามันสิ ท่านเป็นวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are several ways to kill a leshen.",
+      "th": "เราฆ่าเลเชินได้หลายวิธี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Behead it, sacrifice a few of its furry pets,",
+      "th": "ตัดหัวมัน เชือดสัตว์เลี้ยงปุกปุยของมันสองสามตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "even a few old dryad spells will do.",
+      "th": "แม้แต่คาถาเก่าแก่ของนางไม้ก็ใช้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Which will you…",
+      "th": "ท่านจะใช้วิธีไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[leshen] Garean bhaedh aip me vhoelynath.",
+      "th": "กาเรเอน บาฮาเอดาเฮบเม วาโฮเอเลนาธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Garean bhaedh aip me vhoelynath.",
+      "th": "กาเรเอน บาฮาเอดาเฮบเม วาโฮเอเลนาธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Thought you said they don't speak?",
+      "th": "ไหนบอกว่ามันพูดไม่ได้ไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[hissing whisper] Garean bhaedh aip me vhoelynath.",
+      "th": "กาเรเอน บาฮาเอดาเฮบเม วาโฮเอเลนาธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They don't.",
+      "th": "มันพูดไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait!",
+      "th": "เดี๋ยวก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait. I'm noble blood.",
+      "th": "เดี๋ยว ข้ามีสายเลือดขุนนางนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't leave me here.",
+      "th": "ทิ้งข้าไว้ที่นี่ไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What am I to do?",
+      "th": "ไม่งั้นจะให้ข้าทำยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "He said, \"Practice your sad face,",
+      "th": "เขาพูดว่า \"ฝึกตีหน้าเศร้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and maybe a passerby will offer you a ride.\"",
+      "th": "อาจมีคนใจดีให้เจ้าร่วมเดินทางด้วย\""
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] And what of your sisters?",
+      "th": "แล้วพวกน้องสาวของเจ้าล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The witcher said to use my sad face on the alderman too.",
+      "th": "วิทเชอร์คนนั้นบอกให้ข้าตีหน้าเศร้า กับเทศมนตรีด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "So he'd spare some men to…",
+      "th": "เผื่อจะยอมแบ่งลูกน้องบางส่วน"
+    }
+  },
+  {
+    "translation": {
+      "en": "gather the bodies.",
+      "th": "ให้ไปเก็บชิ้นส่วนของศพ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dry eyes, child.",
+      "th": "เลิกร้องไห้นะ เด็กน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll see that your father and sisters are returned to you and laid to rest properly.",
+      "th": "ข้าจะจัดการให้พ่อกับน้องๆ ได้กลับมาหาเจ้า และได้รับการฝังอย่างเหมาะสม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Sugo's father was a treasured member of the Assembly",
+      "th": "พ่อของซูโกเป็นสมาชิกที่มีค่าของสภา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and a loyal subject to our king.",
+      "th": "และเป็นผู้จงรักภักดีต่อกษัตริย์เรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "My students and I resubmit our petition.",
+      "th": "ข้ากับสานุศิษย์ได้ส่งคำร้องอีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seize the witcher home of Kaer Morhen",
+      "th": "ยึดสำนักวิทเชอร์ที่เคียร์มอเรนห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and exile its occupants for crimes against Kaedwen's people.",
+      "th": "แล้วเนรเทศคนที่นั่น สำหรับอาชญากรรมที่กระทำต่อชาวเคดเวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "From what the boy told us, Your Highness,",
+      "th": "ฝ่าบาท จากคำบอกเล่าของเด็กคนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "the witcher slew the leshen that was terrorizing our forests.",
+      "th": "วิทเชอร์ผู้นั้นสังหารเลเชินที่คุกคามป่าของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lady Zerbst, since when have leshens prowled about Kaedwen,",
+      "th": "เลดี้เซิบส์ พวกเลเชินเคยเข้ามาป้วนเปี้ยน ในเคดเวนเมื่อไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "never mind with such hostility?",
+      "th": "ไม่ต้องพูดถึงการคุกคามระดับนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you're suggesting the witchers have been staging these forest attacks.",
+      "th": "ท่านจะบอกว่าพวกวิทเชอร์เป็นคนจัดฉาก การโจมตีในป่าสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So scandalous, Madam Gilcrest.",
+      "th": "อื้อฉาวเสียจริง มาดามกิลเครสท์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Monster species have dwindled under their swords.",
+      "th": "พวกวิทเชอร์ทำให้อสูรเผ่าต่างๆ จำนวนลดลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[murmuring] -They need coin.",
+      "th": "พวกเขาหิวเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some have turned to mercenary work, others criminality.",
+      "th": "บางคนไปเป็นทหารรับจ้าง บางคนก่ออาชญากรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "One even took a bounty on a cheating husband's head.",
+      "th": "คนหนึ่งรับงานล่าหัวสามีที่นอกใจภรรยา"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you have evidence to prove your conspiracy?",
+      "th": "แล้วท่านมีหลักฐาน สนับสนุนคำกล่าวหาของท่านงั้นรึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or are we to merely bank on your magical intuition?",
+      "th": "หรือเราแค่ต้องเชื่อสัญชาตญาณวิเศษของท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's their natures, my lady.",
+      "th": "มันเป็นธรรมชาติของพวกเขา ท่านหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers are the offspring of foul sorcery.",
+      "th": "พวกวิทเชอร์เป็นผลลัพธ์จากมนตร์ดำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Roaming our lands,",
+      "th": "เตร่ทั่วแว่นแคว้นของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "voting themselves the stalkers of evil,",
+      "th": "แต่งตั้งตัวเองเป็นผู้ไล่ล่าอสูรร้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "extorting coin from the gullible.",
+      "th": "รีดไถเงินจากพวกหัวอ่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Honest, simple peasants who ascribe all misfortune to spells and monsters.",
+      "th": "ตาสีตาสา ซื่อๆ เชื่อคนง่าย ที่คิดว่า เคราะห์ร้ายทั้งหลายเกิดจากคาถาและพวกอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mages create the witcher.",
+      "th": "ผู้วิเศษสร้างวิทเชอร์ขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then presume it's our duty to hold the bucket and mop up their brown mess.",
+      "th": "จากนั้นก็คิดเอาเองว่าเรา จะคอยตามล้างตามเช็ดความผิดพลาดให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm with Lady Zerbst on this one.",
+      "th": "ข้าเห็นด้วยกับเลดี้เซิบส์ในเรื่องนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The witchers remain at Kaer Morhen.",
+      "th": "เหล่าวิทเชอร์จะอยู่ที่เคียร์มอเรนห์ต่อได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least until such time as evidence is provided",
+      "th": "อย่างน้อยก็จนกว่าจะมีหลักฐาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "that supports your theory.",
+      "th": "ที่สนับสนุนสมมติฐานของท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "When a witcher inflicts pain,",
+      "th": "เมื่อวิทเชอร์สร้างความเจ็บปวดให้ผู้อื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "he experiences ecstasy.",
+      "th": "ตัวเขาเองจะเกิดความรู้สึกสุขสุดยอด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[hooded figure] The creature's words are Ellyon.",
+      "th": "คำพูดของอสูรตัวนั้นเป็นภาษาเอลีออน"
+    }
+  },
+  {
+    "translation": {
+      "en": "A dead elven dialect linked to darker times.",
+      "th": "ภาษาถิ่นที่ตายแล้วของเอลฟ์ซึ่งเชื่อมกับยุคทมิฬ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Few remember the ancient tongue. Fewer dare speak it.",
+      "th": "น้อยคนนักที่จะจำภาษาโบราณได้ คนที่กล้าพูดยิ่งมีน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "But how a leshen would know it",
+      "th": "แต่เลเชินรู้ภาษานี้ได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "or be afraid of some den--",
+      "th": "หรือกลัวรัง…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never said it was afraid.",
+      "th": "ข้าไม่ได้พูดว่ามันกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You speak Ellyon, don't you, Filavandrel?",
+      "th": "ท่านพูดภาษาเอลีออนได้ใช่ไหม ฟิลาแวนเดล"
+    }
+  },
+  {
+    "translation": {
+      "en": "You witchers are desperate for coin.",
+      "th": "วิทเชอร์อย่างเจ้าหิวเงินมากสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turning to elves for leads on work.",
+      "th": "ถึงกับต้องมาขอเบาะแสจากเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "These pleasures do not pay for themselves. What did the leshen say?",
+      "th": "ความสุขพวกนี้ต้องใช้เงิน เลเชินพูดว่ายังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Beware the den of my dead.\"",
+      "th": "\"จงระวังรังแห่งความตาย\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. Things you don't wish to hear in a bath.",
+      "th": "สิ่งที่เราไม่อยากได้ยินขณะกำลังแช่น้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you notice anything else unusual?",
+      "th": "สังเกตเห็นอะไรผิดปกติอีกไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was an energy in the woods.",
+      "th": "มีพลังงานบางอย่างในป่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some sort of magic, maybe.",
+      "th": "อาจจะเป็นเวทมนตร์สักอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Controlling the leshen, bewitching it.",
+      "th": "ที่ควบคุมหรือทำให้เลเชินตัวนั้นตกอยู่ในอำนาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your face?",
+      "th": "ทำไมทำหน้าแบบนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Over the last four summers,",
+      "th": "สี่คิมหันต์ที่ผ่านมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "girls have been disappearing from our ranks.",
+      "th": "ผู้หญิงพากันหายตัวไปจากหมู่ของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God, no elf drama.",
+      "th": "ให้ตาย ไม่เอาเรื่องน้ำเน่าของเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] The first we feared were deserting us after the last cleansing.",
+      "th": "กลุ่มแรกที่หาย เรานึกว่าพวกนางแค่ทิ้งเราไป หลังการฆ่าล้างบางเอลฟ์ครั้งสุดท้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-But the disappearances haven't stopped. -Tragic, really. Very terrible.",
+      "th": "แต่กลับมีคนหายอย่างไม่หยุดไม่หย่อน น่าเศร้า จริงๆ นะ เลวร้ายมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "One of the first to vanish was a young mage, Kitsu.",
+      "th": "หนึ่งในคนแรกๆ ที่หายไป เป็นผู้วิเศษอายุน้อย นามคิทซุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "She spoke Ellyon. We should return to these forests.",
+      "th": "นางพูดภาษาเอลีออน เราควรกลับไปสำรวจป่าพวกนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, I'm a monster hunter, Fil,",
+      "th": "คืองี้นะ ข้าเป็นนักล่าอสูร ฟิล"
+    }
+  },
+  {
+    "translation": {
+      "en": "not an elf wrangler, not even the murderous ones, but good luck.",
+      "th": "ไม่ใช่นักล่าเอลฟ์ แม้แต่เอลฟ์ที่ฆ่าคนก็ตาม โชคดีแล้วกันนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] A favor to a friend, then?",
+      "th": "งั้นถือว่ามีน้ำใจช่วยเพื่อนได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[witcher] Favors and friends don't pay bills.",
+      "th": "ทั้งน้ำใจ ทั้งเพื่อน ไม่ทำให้ได้เงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Quite the opposite.",
+      "th": "ตรงกันข้ามเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] You've really no shame.",
+      "th": "เจ้านี่หน้าไม่อายจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have a reputation and a healthy estimation of my talent's worth.",
+      "th": "ข้ามีชื่อเสียง และข้ารู้จักประมาณตัวว่าทำได้แค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "My apologies for trying to save you from a wasted winter at Kaer Morhen.",
+      "th": "ขอโทษที่พยายามช่วยไม่ให้เจ้า เสียเวลาช่วงฤดูหนาวที่เคียร์มอเรนห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Wasted?",
+      "th": "เสียเวลารึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, there's drinking, eating, sleeping.",
+      "th": "มีเหล้าให้ดื่ม มีอาหารให้กิน มีที่ให้นอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "All free.",
+      "th": "ไม่เสียเงินสักแดง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] And the training of another greedy gang of young witchers.",
+      "th": "แต่เจ้าต้องฝึกแก๊งเด็กวิทเชอร์ที่กำลังร้อนวิชา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I leave that to my peers.",
+      "th": "ข้าปล่อยให้เป็นธุระของเพื่อนๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine if you witchers labored for more than just thrill and coin.",
+      "th": "ลองนึกดูสิว่าถ้าวิทเชอร์ยอมทำเพื่อสิ่งอื่น ที่ไม่ใช่แค่ความตื่นเต้นกับเงินทอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine if you elves wielded your swords",
+      "th": "ลองนึกดูสิว่าถ้าพวกเอลฟ์เก่งเรื่องดาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-as well as you do guilt. -[cloak rustling]",
+      "th": "พอๆ กับที่เก่งเรื่องทำให้คนรู้สึกผิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Please! Get them!",
+      "th": "ได้โปรด เอามันออก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Vesemir, get over here!",
+      "th": "เวเซเมียร์ มาตรงนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman muttering incoherently] Where do… Hey! They must go!",
+      "th": "เอามันออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now they're nibbling. No! [giggles]",
+      "th": "มันกำลังแทะเล็มฉันแล้ว ไม่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Licking. Ooh! They're licking.",
+      "th": "มันเลีย มันกำลังเลีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[laughing] Oh! Tongues! -[men grunting]",
+      "th": "ลิ้นเยอะแยะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] No! Aah! -Vesemir!",
+      "th": "- ไม่ - เวเซเมียร์ ไม่นะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told you, double knots!",
+      "th": "ข้าบอกให้มัดสองทบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I did, Father. Just as you showed. -[woman wailing]",
+      "th": "ข้าทำแล้ว ท่านพ่อ เหมือนที่ท่านทำให้ดู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's see if the boy can handle fetching a wet cloth.",
+      "th": "ดูซิว่าเจ้าเด็กนี่จะไปหาผ้าเปียกมาได้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "A lesser man would sell your boy to another family.",
+      "th": "ถ้าข้าเลวกว่านี้ คงขายลูกเจ้าให้ครอบครัวอื่นไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Yes, sir.",
+      "th": "ขอรับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least my son proves a measure of your generous character.",
+      "th": "อย่างน้อยลูกข้าก็ช่วยให้เราได้เห็นว่า ท่านจิตใจดีมีเมตตาแค่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Head to the market. We will need blue gum to sedate our lady.",
+      "th": "ไปซื้อยูคาลิปตัสที่ตลาดมาทำให้นายหญิงสงบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman] No! -Try not to cock it up.",
+      "th": "- ไม่ - อย่าทำพลาดล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please stop! Please make it stop!",
+      "th": "หยุดที ทำให้มันหยุดที"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] No. -[woman] No!",
+      "th": "ไม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop fidgeting!",
+      "th": "เลิกดิ้นซะที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Poor Illyana. I didn't even have to take a shot.",
+      "th": "น่าสงสารอิลียาน่า ข้าไม่ต้องปาหิมะใส่เจ้าด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Moron! You could've killed me.",
+      "th": "เจ้าโง่ เจ้าเกือบฆ่าข้าแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here to bother me?",
+      "th": "มากวนข้าหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Lord insisted I look after you in the market.",
+      "th": "ท่านลอร์ดขอให้ข้ามาคุมเจ้าที่ตลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seemed rather pissed.",
+      "th": "เขาดูโมโหมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "We slave away all day long, getting shout at,",
+      "th": "เราทำงานเยี่ยงทาสทั้งวี่ทั้งวัน แถมโดนตะคอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the only coin we get is when we're sent to fetch them goods.",
+      "th": "แต่เรากลับได้เพียงเศษเงิน เวลาถูกใช้ไปซื้อของเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just be happy you have a roof over your head and your belly's not empty.",
+      "th": "จงดีใจซะเถอะที่มีหลังคาคุ้มหัว และมีอาหารให้กินอิ่มท้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Barely a roof, barely not empty. Just enough to keep us here breathing.",
+      "th": "หลังคาแทบไม่คุ้มหัว อาหารแทบไม่อิ่มท้อง แค่พอต่อลมหายใจเราได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[horse whines] -[Illyana] Fine.",
+      "th": "ก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's the world.",
+      "th": "โลกอยู่โน่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would you buy if you had all its coin?",
+      "th": "เจ้าจะซื้ออะไรถ้ามีเงินใช้ไม่อั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would get the hell out of this village and travel the continent.",
+      "th": "ข้าจะเผ่นไปจากหมู่บ้านแห่งนี้ และเดินทางไปทั่วมหาทวีป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Adventure? -Of course.",
+      "th": "- ผจญภัยเหรอ - แน่นอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Glory? -Oh, yes!",
+      "th": "- ชื่อเสียงเหรอ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Girls?",
+      "th": "สาวๆ ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd buy a gorgeous lake house.",
+      "th": "ข้าจะซื้อบ้านหลังงามริมทะเลสาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "My handsome husband and I would picnic and drink wine by the water",
+      "th": "ข้ากับสามีรูปงามจะไปปิกนิกกัน และจิบไวน์ริมน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "as our children played jacks nearby.",
+      "th": "ระหว่างที่ลูกๆ ของเราเล่นหมากเก็บ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know what we should do?",
+      "th": "รู้ไหมว่าเราควรทำอะไรกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We should take this coin and buy honey cake.",
+      "th": "เอาเงินนี่ไปซื้อเค้กน้ำผึ้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And how will our lady get her herbs?",
+      "th": "แล้วเราจะซื้อสมุนไพรให้นายหญิงได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop! Thief!",
+      "th": "หยุดนะ ขโมย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hey! -[child laughs]",
+      "th": "นี่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "This way!",
+      "th": "ทางนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh! -[woman] Stop him!",
+      "th": "หยุดเขาไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[growls] Nutcase.",
+      "th": "เจ้าบ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Save some for me!",
+      "th": "เหลือให้ข้ากินบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, it worked. [chuckles]",
+      "th": "เห็นไหม มันได้ผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew it would.",
+      "th": "ข้ารู้ว่ามันจะได้ผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] In Nilfgaard,",
+      "th": "ในนิล์ฟการ์ด"
+    }
+  },
+  {
+    "translation": {
+      "en": "they'd cut your thieving hands right off.",
+      "th": "พวกเขาจะตัดมือหัวขโมยทิ้งทันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make you wear 'em round your neck for weeks.",
+      "th": "แล้วบังคับให้เอามือห้อยคอเจ้าไว้นานหนึ่งสัปดาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Smart trick.",
+      "th": "ลูกไม้แพรวพราว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Odd loot.",
+      "th": "แต่ดันขโมยของแปลกๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who you got who's sick?",
+      "th": "ใครป่วยรึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd a girl find balls like that in an alley wi' a man like me?",
+      "th": "สาวน้อยไปเอาความกล้าจากไหน ทั้งที่อยู่ในตรอกกับผู้ชายอย่างข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I steal them from smelly cowards who try to bully young ladies.",
+      "th": "ข้าขโมยมาจากพวกตาขาวตัวเหม็นโฉ่ ที่พยายามรังแกผู้หญิงสาวๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "th": "ท่านเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "A humanitarian, whose well-meaning ears have heard of a local lady",
+      "th": "ผู้มีมนุษยธรรม ที่หูดีได้ยินว่าหญิงท้องถิ่นคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-lost to madness and fever… -[gags]",
+      "th": "กำลังคลุ้มคลั่งและมีไข้สูง"
+    }
+  },
+  {
+    "translation": {
+      "en": "…seeing horrors that aren't really there.",
+      "th": "มองเห็นภาพลวงตาน่าสะพรึงกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "That blue gum will certainly ease the affliction, but, uh…",
+      "th": "ยูคาลิปตัสจะช่วยบรรเทาอาการได้แน่ แต่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "a sword would kill it.",
+      "th": "ดาบจะฆ่ามัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Name's Deglan.",
+      "th": "ข้าชื่อเดกลัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you're gonna take me to your noblewoman.",
+      "th": "และเจ้าจะพาข้าไปหานายหญิงของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or I'm taking you two pests back to the market.",
+      "th": "ไม่อย่างนั้นข้าจะพาเด็กแสบอย่างพวกเจ้า กลับไปที่ตลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] A demon plagues this woman.",
+      "th": "ปีศาจเข้าสิงหญิงคนนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "A mahr.",
+      "th": "เรียกว่ามาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Puts you down with horrid delusions and feeds off your madness.",
+      "th": "ทำให้คนเห็นภาพหลอนน่ากลัว และดูดกินความบ้าคลั่งของคนคนนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Meteorite ore disrupts the demon's magic,",
+      "th": "แร่อุกกาบาตจะขัดขวางเวทมนตร์ของปีศาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "so it can be… removed.",
+      "th": "เพื่อเราจะได้ ขับมันออกมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out. Now. All of you.",
+      "th": "ออกไป เดี๋ยวนี้ ออกไปให้หมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd like to remain.",
+      "th": "ข้าอยากอยู่ต่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your boy's likely seen a monster or two in his time, no?",
+      "th": "ลูกของท่าน น่าจะเคยเห็นสัตว์ประหลาดมาบ้างแล้วเนอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oof! -[Deglan] I'll be casting the spell.",
+      "th": "ข้าจะร่ายคาถา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] -It's on you to catch the critter.",
+      "th": "เจ้ามีหน้าที่จับมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I thought a witcher slays monsters?",
+      "th": "แต่ข้านึกว่าวิทเชอร์ฆ่าสัตว์ประหลาดเสียอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] To slay a beast,",
+      "th": "การจะฆ่าอสูรได้นั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "you've first got to understand it.",
+      "th": "เจ้าต้องเข้าใจมันก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman groaning] -Study it.",
+      "th": "ศึกษามัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Find its weakness.",
+      "th": "หาจุดอ่อนของมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want this sucker alive and kicking.",
+      "th": "ข้าต้องการไอ้นี่ตัวเป็นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "If possible.",
+      "th": "ถ้าเป็นไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Steady, young fella.",
+      "th": "ยืนนิ่งๆ เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "And he asked to stay.",
+      "th": "ขออยู่ต่อเองแท้ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Never let 'em get in your head.",
+      "th": "อย่าให้มันหลอกเราได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Better dead than fled.",
+      "th": "ฆ่าให้ตายดีกว่าปล่อยให้หนีไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll always be another monster.",
+      "th": "จะมีสัตว์ประหลาดตัวอื่นอีกเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] Vesemir.",
+      "th": "เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fetch warm water.",
+      "th": "เอาน้ำอุ่นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "My head…",
+      "th": "หัวข้า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my head hurts wildly.",
+      "th": "ข้าปวดหัวหนักมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Nice weight, isn't it?",
+      "th": "หนักดีใช่ไหมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "How much you suppose the job cost that prick master of yours?",
+      "th": "เจ้าคิดว่าข้าได้เงิน จากเจ้านายเฮงซวยของเจ้าเท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fear and ignorance are good business.",
+      "th": "ความกลัวและความไม่รู้ดีต่อธุรกิจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "For your service, young fella.",
+      "th": "ค่าแรงของเจ้า เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take me with you.",
+      "th": "พาข้าไปด้วยสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not many boys seek to be witchers.",
+      "th": "มีเด็กไม่กี่คนที่อยากเป็นวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Even fewer seek a life of fetching bedpans and water.",
+      "th": "ยิ่งน้อยกว่านั้น ที่อยากไปหยิบกระโถนคนป่วยกับน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the girl?",
+      "th": "แล้วสาวคนนั้นล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your blue-eyed lass?",
+      "th": "สาวน้อยตาสีฟ้าของเจ้าน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You hesitated back with the mahr too.",
+      "th": "เจ้าลังเลตอนเจอมาห์ด้วยเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers do not hesitate.",
+      "th": "วิทเชอร์ไม่ลังเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop! -Are you going to enjoy the day?",
+      "th": "- หยุดนะ - วันนี้ไม่เล่นสนุกเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or are you still too shook from your daring night of monster-slaying?",
+      "th": "หรือยังสะเทือนขวัญ จากคืนที่เจ้าอาจหาญช่วยฆ่าอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was your first time, Vesemir.",
+      "th": "นั่นเป็นครั้งแรกของเจ้า เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Excuse me for wanting to be good at something other than serving.",
+      "th": "ขอโทษนะที่ข้าอยากทำอะไรสักอย่างได้ดี นอกจากเป็นเด็กรับใช้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I can see it now.",
+      "th": "อ้อ ข้ามองเห็นชัดเจน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You, adorned in battle armor,",
+      "th": "เจ้าสวมชุดเกราะออกรบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "steel and silver swords,",
+      "th": "ถือดาบเหล็กและดาบเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "saving the continent from kikamores, ghouls, and mad sorcerers.",
+      "th": "กอบกู้มหาทวีปจากผีกูลกับผู้วิเศษบ้าคลั่ง ของคิคามอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Evil would tremble.",
+      "th": "สิ่งชั่วร้ายจะกลัวจนตัวสั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stylish armor, by the way. -Imagine it however you like.",
+      "th": "- ต้องเป็นชุดเกราะเท่ๆ - แล้วแต่จะจินตนาการเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only way people like us survive is to dream of ourselves as something else.",
+      "th": "ทางเดียวที่คนอย่างเราจะอยู่รอดได้ ก็คือฝันว่าตัวเองเป็นอย่างอื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who knows? Perhaps someday I'll be a princess who commands the snow.",
+      "th": "ใครจะไปรู้ สักวันหนึ่ง ข้าอาจจะได้เป็นเจ้าหญิงที่ควบคุมหิมะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Vesemir, I was only jesting.",
+      "th": "เวเซเมียร์ ข้าแค่ล้อเล่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "You find our fates funny?",
+      "th": "เจ้าคิดว่าโชคชะตาของเราตลกหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why should I be meek and penniless like my father? Or you like your mother?",
+      "th": "ทำไมข้าต้องถ่อมตัวและยากจน เหมือนพ่อข้า หรือเจ้าเหมือนแม่เจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's got you so silly? -You wouldn't understand.",
+      "th": "- โมโหอะไรนักหนา - เจ้าไม่มีทางเข้าใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Vesemir, out there, we're nothing.",
+      "th": "เวเซเมียร์ ข้างนอกนั่น เราไม่มีค่าอะไรเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Less than nothing.",
+      "th": "ยิ่งกว่าไม่มีค่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least here, at the estate, we have station.",
+      "th": "อย่างน้อยที่คฤหาสน์นี่ เราก็มีสถานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And if I could take care of you?",
+      "th": "แล้วถ้าข้าดูแลเจ้าได้ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The coin that witcher made last night,",
+      "th": "เงินที่วิทเชอร์เอาให้ข้าดู"
+    }
+  },
+  {
+    "translation": {
+      "en": "you should've saw it.",
+      "th": "ข้าอยากให้เจ้าได้เห็นนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd get you your lake house, all your wine.",
+      "th": "ข้าจะซื้อบ้านริมทะเลสาบให้เจ้า ซื้อไวน์ให้เจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything and everything.",
+      "th": "ทุกอย่างที่เจ้าต้องการ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yours.",
+      "th": "จะเป็นของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "So trade my debt to a master I hate",
+      "th": "เปลี่ยนจากติดหนี้เจ้านายที่ข้าเกลียด"
+    }
+  },
+  {
+    "translation": {
+      "en": "with a debt to one that I love?",
+      "th": "มาเป็นติดหนี้คนที่ข้ารักแทนงั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, Illyana! Stay!",
+      "th": "เดี๋ยว อิลียาน่า อยู่ก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You stay.",
+      "th": "เจ้านั่นแหละอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lord Vesemir,",
+      "th": "ลอร์ดเวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "my new best friend.",
+      "th": "สหายสนิทคนใหม่ของข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Crossed a leshen on my way here.",
+      "th": "เจอเลเชินตัวหนึ่งระหว่างทาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we've heard.",
+      "th": "เราได้ยินแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Meanwhile, I barely made enough this year",
+      "th": "แล้วดูข้าสิ ปีนี้แทบหาเงินได้ไม่พอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "to score a night with a limp-pricked man-whore.",
+      "th": "จะเอากับโสเภณีชายที่นกเขาไม่ขันด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your woes break me, Luka.",
+      "th": "ทุกข์ของเจ้าทำข้าใจสลาย ลูก้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luka] Then we've got Sven here bringing back new recruits.",
+      "th": "ส่วนสเวนก็พาเด็กใหม่ๆ เข้ามาอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bad enough we're putting ourselves out of business",
+      "th": "แค่นี้เราก็แทบจะตกงานกันอยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "with every monster we kill.",
+      "th": "เพราะแย่งกันฆ่าสัตว์ประหลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now there'll be even more of us.",
+      "th": "แล้วตอนนี้ยังจะมีคนมาเพิ่มอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[grunts] Not my fault people make more kids than coin.",
+      "th": "ไม่ใช่ความผิดข้าที่คนทำลูกกันมากกว่าทำเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Also, short a man-whore?",
+      "th": "แล้วก็ ขาดแคลนโสเภณีชายเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Go fuck yourself.",
+      "th": "ไปเอากับตัวเองสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aren't you \"short\" everything?",
+      "th": "ส่วนเจ้า \"ขาดแคลน\" ความสูงเนอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Boys, monsters will fuck through the winter,",
+      "th": "หนุ่มๆ พวกสัตว์ประหลาดผสมพันธุ์กันช่วงฤดูหนาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "then come spring, there'll be jobs from here to Nazair.",
+      "th": "พอถึงฤดูใบไม้ผลิ เราจะมีงานทำจากที่นี่ไปจนถึงนาเซียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Until then, I say we perk up,",
+      "th": "จนกว่าจะถึงตอนนั้น เรามาหาความสุข"
+    }
+  },
+  {
+    "translation": {
+      "en": "drink up,",
+      "th": "ร่ำสุรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you two focus on breaking these brats into the world of witchering.",
+      "th": "แล้วเจ้าสองคนก็พยายามสั่งสอนเด็กพวกนี้ ให้รู้จักโลกของวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] \"Witchers are rogues without virtue.\"",
+      "th": "\"วิทเชอร์เป็นคนเถื่อนที่ไม่มีศีลธรรม"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"True diabolical creatures, fit only for killing.\"",
+      "th": "เป็นสิ่งมีชีวิตที่ชั่วร้ายอย่างแท้จริง ซึ่งเกิดมาเพื่อฆ่าเท่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"There is no place amidst honest men for them.\"",
+      "th": "ในโลกของคนซื่อสัตย์ ไม่มีที่สำหรับพวกเขา\""
+    }
+  },
+  {
+    "translation": {
+      "en": "My, my. How do you find this rubbish?",
+      "th": "ตายๆ ท่านคิดยังไงกับข้อความไร้สาระนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few of the boys spotted 'em posted about towns on their way back.",
+      "th": "เด็กๆ บางคนเห็นพวกเขากำลังติดประกาศนี้ ไปทั่วเมืองระหว่างเดินทางกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Tetra Gilcrest.\" Sounds like a botanist.",
+      "th": "\"เทตทรา กิลเครสท์\" ชื่อเหมือนนักพฤกษศาสตร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] A purist.",
+      "th": "พวกหัวโบราณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rambles about being a descendant of the first human mage.",
+      "th": "โม้ว่าเป็นผู้สืบทอดจากสายเลือดมนุษย์ ที่เป็นผู้วิเศษคนแรก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would it have vexed you to bury that lad's sisters?",
+      "th": "ช่วยฝังศพให้น้องสาวไอ้เด็กนั่น มันลำบากเจ้านักหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're feeding fodder to arses like Gilcrest.",
+      "th": "เจ้าเปิดช่องให้คนเฮงซวยอย่างกิลเครสท์ เล่นงานเราได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a wyvern tooth, not a basilisk.",
+      "th": "นั่นฟันมังกร ไม่ใช่บาซิลลิสค์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll mix and match as I please.",
+      "th": "ข้าจะเอามาปนกันยังไงก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Look.",
+      "th": "ฟังนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know me and children. -Get over it, young fella.",
+      "th": "- ท่านก็รู้ว่าข้าเข้ากับเด็กไม่ได้ - ทำใจซะเถอะ พ่อหนุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause you're teaching fencing to the recruits.",
+      "th": "เจ้าจะต้องสอนวิชาดาบให้เด็กใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Am I being punished? -I'm down two dozen witchers this winter.",
+      "th": "- นี่ข้าถูกลงโทษงั้นรึ - ฤดูหนาวปีนี้ข้าเสียวิทเชอร์ไปสองโหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wimps found employ in other more lucrative nonsense.",
+      "th": "พวกอ่อนแอก็ไปหางานบ้าบออย่างอื่น ที่ได้ค่าตอบแทนมากกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we'll all be slogging more weight.",
+      "th": "ดังนั้นเราทุกคนต้องทำงานกันหนักขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "A wonderful winter of abandoned little tragedies.",
+      "th": "หมดกันฤดูหนาวแสนวิเศษ ที่ไม่ต้องนึกถึงเรื่องเศร้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lovely.",
+      "th": "เยี่ยมเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Now, this leshen.",
+      "th": "เอาละ เลเชินตัวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell me you've considered the thing was bewitched.",
+      "th": "เจ้าว่าไอ้ตัวนี้โดนมนตร์สะกด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] I'm not a dullard.",
+      "th": "ข้าไม่โง่"
+    }
+  },
+  {
+    "translation": {
+      "en": "A croon could pull that feat.",
+      "th": "อาจเป็นการสะกดด้วยเสียงขับกล่อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "A higher vampire, definitely.",
+      "th": "แวมไพร์ระดับสูงแน่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or it could be a new breed of leshen.",
+      "th": "หรือไม่ก็เป็นเลเชินสายพันธุ์ใหม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, just elves airing their usual dirty trousers of victimhood.",
+      "th": "จริงๆ ก็แค่เอลฟ์สร้างภาพว่า ตัวเองเป็นเหยื่อเหมือนเดิม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan scoffs] Shame.",
+      "th": "น่าเสียดาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "A few new beasts would be… good for business.",
+      "th": "อสูรสายพันธุ์ใหม่ๆ จะดีต่อธุรกิจเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 1] Why'd the witcher not handle this?",
+      "th": "ทำไมวิทเชอร์ไม่จัดการเรื่องนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Lies and conspiracy. -[woman 1] Look away from the faces.",
+      "th": "โกหก วางแผนลวง อย่าไปมองใบหน้าพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman 2] I'd heard the leshen'd been killed.",
+      "th": "ข้าได้ยินมาว่าเลเชินถูกฆ่าไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] A whiff of basilisk breath could snuff out ten strong men.",
+      "th": "บาซิลลิสค์หายใจฟืดเดียว ก็ดมเจอบุรุษแกร่งกล้าถึงสิบคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Did you find the creature's body?",
+      "th": "ท่านหาร่างของสัตว์ประหลาดตัวนั้นเจอไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "A witcher would need proof to collect his coin.",
+      "th": "วิทเชอร์ต้องการหลักฐานเพื่อเอาไปแลกเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And yet…",
+      "th": "แต่ถึงอย่างนั้น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least help me persuade the king",
+      "th": "อย่างน้อยช่วยข้ากล่อมกษัตริย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "to send an envoy to Kaer Morhen to investigate, please.",
+      "th": "ให้ส่งตัวแทนไปสืบสวนที่เคียร์มอเรนห์ด้วยเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your acolytes have played to people's fears well enough.",
+      "th": "สาวกของท่านเล่นกับความกลัวของคนมาพอแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mere act of sending an envoy would indict the witchers,",
+      "th": "การส่งตัวแทนไปที่นั่น จะบอกเป็นนัยว่าเรากล่าวหาพวกวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "whatever the truth.",
+      "th": "ไม่ว่าความจริงคืออะไรก็ตาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you know what's involved in making a witcher?",
+      "th": "ท่านรู้ไหมกระบวนการสร้างวิทเชอร์ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "The horrors done to their recruits?",
+      "th": "พวกเด็กใหม่จะต้องเจอสิ่งน่ากลัวอะไรบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Boys no older than your orphans here. -[children laughing]",
+      "th": "พวกเด็กผู้ชายที่อายุไม่มากไปกว่าเด็กกำพร้าที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your late husband would've understood this.",
+      "th": "สามีที่เสียไปแล้วของท่านคงจะเข้าใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was an ardent admirer of Lord Zerbst.",
+      "th": "ข้าชื่นชมลอร์ดเซิบส์ยิ่งนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was open-minded.",
+      "th": "เขาเป็นคนใจกว้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Forward-thinking.",
+      "th": "มีหัวคิดก้าวหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Married you, after all.",
+      "th": "อย่างไรเสียเขาก็แต่งงานกับท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Careful, Tetra.",
+      "th": "ระวังคำพูดหน่อย เทตทรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or be quiet.",
+      "th": "ไม่ก็เงียบไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kaedwen's laws grant a widow her husband's seat at court.",
+      "th": "กฎหมายของเคดเวน อนุญาตให้แม่ม่ายได้ตำแหน่งในราชสำนักแทนสามี"
+    }
+  },
+  {
+    "translation": {
+      "en": "The laws say nothing about erasing what she once was.",
+      "th": "กฎหมายไม่ได้พูดถึงการลบอดีตของนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, how fortunate, my lady,",
+      "th": "โชคดีจังนะ ท่านหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "that few have wished to press the issue.",
+      "th": "ที่แทบไม่มีใครอยากร้องเรียนเรื่องนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You ain't fed us in days!",
+      "th": "ท่านไม่ให้อาหารเรามาหลายวันแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "We ain't given sleep, can barely stand up.",
+      "th": "เราไม่ได้นอน ยืนก็แทบไม่ไหว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you got us playing with swords?",
+      "th": "แล้วตอนนี้ท่านให้เราเล่นกับดาบงั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't wish to be here any more than you do.",
+      "th": "ข้าเองก็ไม่อยากอยู่ที่นี่พอๆ กับข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll hazard a guess.",
+      "th": "ให้เดานะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You all imagine there are better fates for you out there in the world.",
+      "th": "พวกเจ้าคิดว่าชีวิตที่ดีกว่านี้รอเจ้าอยู่ข้างนอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "But out there, you have nothing.",
+      "th": "แต่ข้างนอกนั่น เจ้าไม่มีอะไรเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "But here, we offer strength.",
+      "th": "แต่ที่นี่ เจ้าจะได้ความแกร่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[boy grunts] -Purpose.",
+      "th": "ได้จุดมุ่งหมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Respect.",
+      "th": "ได้ความนับถือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "A chance at surviving the very horrors waiting out there.",
+      "th": "โอกาสที่จะรอดชีวิต จากสิ่งเลวร้ายที่รออยู่ข้างนอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you don't want that, then this…",
+      "th": "ถ้าเจ้าไม่อยากได้สิ่งนั้น งั้นนี่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "is wasted on you.",
+      "th": "ก็เสียเปล่าไปกับเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] \"And if you don't want that,",
+      "th": "\"ถ้าเจ้าไม่อยากได้สิ่งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "then this is wasted on ya.\"",
+      "th": "งั้นนี่ก็เสียเปล่าไปกับเจ้า\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Ugh. That dorbel's full of shit.",
+      "th": "ไอ้ครูนั่นพูดไร้สาระชะมัด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Master Deglan's preparing us for the Path.",
+      "th": "ท่านเดกลันฝึกให้เรา พร้อมออกสู่หนทางแห่งวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Better hardship here than out there. -[door opens]",
+      "th": "ลำบากตอนนี้ดีกว่าไปลำบากข้างนอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, there's a freeze tonight.",
+      "th": "คืนนี้หนาวจะแย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shut up and steal what sleep you can.",
+      "th": "หุบปากแล้วนอนได้ก็นอน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, don't mind Tomas.",
+      "th": "อย่าไปถือสาโทมัสเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Law of Surprise.",
+      "th": "แทนคุณไร้เงื่อนไข"
+    }
+  },
+  {
+    "translation": {
+      "en": "Didn't know he belonged to the witchers till one came knocking.",
+      "th": "ไม่รู้ว่าตัวเองเป็นของวิทเชอร์ จนวิทเชอร์มาเคาะหน้าประตู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Law of Surprise?",
+      "th": "แทนคุณไร้เงื่อนไขเหรอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] Fancy name for when you can't pay a witcher. Give 'em your kid.",
+      "th": "คำหรูๆ เอาไว้เรียกเวลาที่ไม่มีเงินจ่ายวิทเชอร์ เลยต้องยกลูกให้แทน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Were you sold, or did you volunteer?",
+      "th": "เจ้าถูกขายหรืออาสามาเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[boy] Uh, my folks dumped me here. Like most.",
+      "th": "พ่อแม่เอาข้ามาทิ้งไว้ที่นี่ เหมือนพวกเราส่วนใหญ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who chooses to be in this pigsty?",
+      "th": "ใครจะเลือกมาอยู่ในเล้าหมูนี่เองล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Don't be so scared. -They're…",
+      "th": "อย่ากลัวไปเลย พวกเขา…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They're going to poison us. -Who?",
+      "th": "- พวกเขาจะวางยาพิษเรา - ใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] There are mages here.",
+      "th": "ที่นี่มีผู้วิเศษ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Old ones.",
+      "th": "เป็นผู้เฒ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Making witchers, they…",
+      "th": "การสร้างวิทเชอร์ พวกเขา…"
+    }
+  },
+  {
+    "translation": {
+      "en": "They'll kill us. Then bring us back, but…",
+      "th": "พวกเขาจะฆ่าเราก่อน แล้วค่อยนำเรากลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "we won't be normal.",
+      "th": "แต่เราจะไม่ใช่มนุษย์ปกติอีกต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They call it-- -The Trial of the Grasses. I know.",
+      "th": "- พวกเขาเรียกมันว่า… - พิธีกรรมการกลายพันธุ์ ข้ารู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I get scared too.",
+      "th": "ข้าเองก็กลัวเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I think, \"Soon, I'll be out on the Path,",
+      "th": "แต่พอคิดว่า \"เดี๋ยวข้าจะได้ออกไป สู่หนทางแห่งวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "stronger than most anyone, wanting for nothing.\"",
+      "th": "แข็งแกร่งกว่าแทบทุกคน ไม่ขาดเหลืออะไรอีก\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll never be scared again.",
+      "th": "ข้าก็ไม่กลัวอีกเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll come out the Trials better than normal, Tomas.",
+      "th": "เจ้าจะกลับออกมาจากพิธีกรรม ในสภาพที่ดีกว่าปกติ โทมัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "On my word.",
+      "th": "เชื่อข้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the… -[boy] It's Vesemir!",
+      "th": "- อะไรเนี่ย - นั่นเวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir groans] What's happened? Where are we?",
+      "th": "เกิดอะไรขึ้น เราอยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Quiet. My pa used to talk about this place.",
+      "th": "เงียบ พ่อข้าเคยพูดถึงที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the Red Swamp.",
+      "th": "มันคือหนองน้ำสีแดง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's cursed.",
+      "th": "มันต้องสาป"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's crawling with evil spirits and beasts.",
+      "th": "มันเต็มไปด้วยวิญญาณร้ายและเหล่าอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Griffins.",
+      "th": "กริฟฟิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is a test.",
+      "th": "นี่คือการทดสอบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like all the others.",
+      "th": "เหมือนการทดสอบอื่นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "On the Path, a witcher's first instinct is to survive.",
+      "th": "ในหนทางแห่งวิทเชอร์ สัญชาตญาณแรกคือต้องเอาตัวรอด"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's about wits, not swords.",
+      "th": "มันเป็นเรื่องของไหวพริบ ไม่ใช่ดาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We follow the moon until we're clear.",
+      "th": "เราจะตามพระจันทร์ไปจนกว่าจะออกสู่ที่โล่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "If there's a monster close, your medallion will--",
+      "th": "ถ้ามีสัตว์ประหลาดอยู่แถวนี้ เหรียญของเจ้าจะ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Wraiths! -[Vesemir] Keep calm!",
+      "th": "เจตภูต ใจเย็นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay together!",
+      "th": "เกาะกลุ่มกันไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "This way.",
+      "th": "ทางนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The medallions sometimes sense the bestiary.",
+      "th": "บางครั้งเหรียญก็สัมผัสได้ถึงห้องเก็บอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Especially when it's full. -[Vesemir] You're one of them.",
+      "th": "โดยเฉพาะเวลาที่มันเต็ม ท่านคือหนึ่งในนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mages Tomas mentioned who make witchers.",
+      "th": "ผู้วิเศษที่โทมัสพูดถึง คนที่สร้างวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't look ancient.",
+      "th": "ท่านดูไม่เหมือนผู้เฒ่าเท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, mages age quite slowly.",
+      "th": "ผู้เศษแก่ตัวค่อนข้างช้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers do too.",
+      "th": "วิทเชอร์ก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gives us both decades to hone our respective skills.",
+      "th": "เราทั้งคู่มีเวลาหลายสิบปี ในการฝึกฝนทักษะต่างๆ ของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Trials are only part -of my duty, though. -[snarling]",
+      "th": "การทดสอบเป็นเพียงส่วนหนึ่งของหน้าที่ข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't fear.",
+      "th": "ไม่ต้องกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's merely a side effect of its hybrid genes.",
+      "th": "มันเป็นแค่ผลข้างเคียงของยีนลูกผสม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Krallachs. [chuckles]",
+      "th": "ครอลักส์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've identified three different species in this specimen's makeup.",
+      "th": "ข้าตรวจพบสามสายพันธุ์ในตัวมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -It's a nasty little crossbreed.",
+      "th": "เป็นการผสมข้ามสายพันธุ์ที่น่าสยดสยอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Master Deglan said monsters can't mate with other species.",
+      "th": "ท่านเดกลันบอกว่าสัตว์ประหลาด ผสมพันธุ์กับสายพันธุ์อื่นไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "True. Though they can be engineered.",
+      "th": "จริง แต่เราดัดแปลงพันธุกรรมได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine an army of beasts",
+      "th": "ลองนึกภาพกองทัพอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "designed to wipe out the elves and the Old Races",
+      "th": "ที่ถูกออกแบบให้ฆ่าล้างเอลฟ์กับเผ่าพันธุ์เก่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "to secure land and food.",
+      "th": "เพื่อยึดดินแดนและอาหารสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The alchemy was…",
+      "th": "แต่การเล่นแร่แปรธาตุนี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "inelegant, though.",
+      "th": "ไม่ค่อยประณีตเท่าไหร่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Most crossbreeds died instantly.",
+      "th": "ลูกผสมส่วนใหญ่จะตายในทันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Mages made monsters,",
+      "th": "ผู้วิเศษสร้างสัตว์ประหลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "then made witchers to kill them?",
+      "th": "จากนั้นก็สร้างวิทเชอร์ให้ฆ่าพวกมันหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[mage] Today, my mages and I guard the secrets",
+      "th": "วันนี้ ข้ากับผู้วิเศษของข้าปกป้องความลับ"
+    }
+  },
+  {
+    "translation": {
+      "en": "to such mutagenic alchemy,",
+      "th": "การสร้างสัตว์กลายพันธุ์ด้วยวิธีเล่นแร่แปรธาตุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "preventing further abuse.",
+      "th": "เพื่อไม่ให้ใครนำไปปฏิบัติอีกต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm Reidrich, by the way.",
+      "th": "ข้าชื่อไรดริก"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Are you daft, Reidrich?",
+      "th": "เจ้าโง่รึไง ไรดริก"
+    }
+  },
+  {
+    "translation": {
+      "en": "A witcher deserves to understand its place in history.",
+      "th": "วิทเชอร์ควรได้เข้าใจ ประวัติศาสตร์ที่มาที่ไปของเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "A rider came while you were licking your wounds.",
+      "th": "ผู้ส่งสารแวะมาตอนที่เจ้ายังเลียแผลอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Left a letter for ya.",
+      "th": "ทิ้งจดหมายไว้ให้เจ้าฉบับหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you know that Tomas and the others would die in the swamp?",
+      "th": "ท่านรู้อยู่แล้วรึเปล่าว่า โทมัสกับคนอื่นๆ จะตายที่หนองน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a numbers game, young fella.",
+      "th": "ใครโชคดีก็รอด เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[faint growling] -[Vesemir] How many survive these Trials?",
+      "th": "มีผู้รอดจากการทดสอบเหล่านี้กี่คน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Depends. How many are witchers?",
+      "th": "เอาแน่เอานอนไม่ได้ โลกนี้มีวิทเชอร์กี่คนล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Letter's by your cot. Read it now, before I burn it.",
+      "th": "จดหมายอยู่ที่ข้างเตียงเจ้า ไปอ่านซะ ก่อนที่ข้าจะเก็บไปเผา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Illyana] \"Vesemir.\"",
+      "th": "\"เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Your thoughts are likely far from here, so I will be brief.\"",
+      "th": "เจ้าคงไม่มีกะจิตกะใจจะอ่าน ดังนั้นข้าจะรวบรัดให้สั้นๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Your father is dead.\"",
+      "th": "พ่อเจ้าตายแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Kaedwen took our village and he was killed while helping the lord and lady escape,",
+      "th": "เคดเวนบุกยึดหมู่บ้านของเรา เขาถูกฆ่า ระหว่างช่วยท่านลอร์ดกับนายหญิงให้หนีไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-both of whom were also slain.\" -[child yelling]",
+      "th": "แต่ทั้งคู่ก็ถูกฆ่าตายเหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[wailing] -\"Do not return home, Vesemir,",
+      "th": "อย่ากลับมาบ้าน เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "if this were ever that to you.\"",
+      "th": "ถ้าที่นี่ยังเป็นบ้านสำหรับเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I hope you have found warmth and comfort in this brittle world",
+      "th": "ข้าหวังว่าเจ้าจะได้พบ ความอบอุ่นสบายในโลกที่เปราะบางนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that the world is being kind to you, and most of all, fair.\"",
+      "th": "และโลกนี้อ่อนโยนต่อเจ้า และเหนือสิ่งอื่นใด ยุติธรรมต่อเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"For me, a noble family from Kaedwen has claimed me theirs.\"",
+      "th": "ตัวข้านั้น ตระกูลขุนนางจากเคดเวน มารับข้าไปอยู่ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"They are kinder masters.\"",
+      "th": "พวกเขาเป็นเจ้านายที่ใจดีกว่าคนเก่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"They let me paint and show me how to read words, as well as write a few.\"",
+      "th": "พวกเขาให้ข้าระบายสี และสอนให้อ่านเขียน"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I am well-fed and at peace.\"",
+      "th": "ข้ากินอิ่ม มีความสุขดี"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"There was little to miss in our burnt-out town,",
+      "th": "ไม่ค่อยมีอะไรให้คิดถึง ในหมู่บ้านที่ถูกเผาไปของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "and our snowball fights and alleyway desserts",
+      "th": "และการปาหิมะเล่น กินขนมเค้กในตรอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "are heavy memories I now happily lay to rest.\"",
+      "th": "ก็เป็นเพียงความทรงจำอันหนักอึ้ง ที่ข้ายินดีลืมไปเสีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[echoing] \"Find your rebirth, Vesemir,",
+      "th": "จงหาการเกิดใหม่ของเจ้าให้เจอ เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "free of past burdens and hurts.\"",
+      "th": "เป็นอิสระจากภาระและความเจ็บปวดในอดีต"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"And yes,",
+      "th": "และใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "free of me.\"",
+      "th": "เป็นอิสระจากข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"It is best that way.\"",
+      "th": "มันดีที่สุดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Live and love well.\"",
+      "th": "จงอยู่ดีและมีรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Illyana.\"",
+      "th": "อิลียาน่า\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Right. So, who wishes to ride and get blitzed somewhere nice and quiet?",
+      "th": "เอาละ ใครอยากขี่ม้าไปหาอะไรดื่ม ในที่เงียบๆ ดีๆ บ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] We stay and see who survives.",
+      "th": "เราจะอยู่ดูว่าใครรอดบ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] That could take days.",
+      "th": "อาจใช้เวลาหลายวัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll be Eskel, Lambert,",
+      "th": "จะมีเอสเกล แลมเบิร์ท"
+    }
+  },
+  {
+    "translation": {
+      "en": "maybe Remus.",
+      "th": "อาจจะรีมัส"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, can we please go get right properly drunk?",
+      "th": "เราไปเมาหัวราน้ำกันได้หรือยัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Luka] Oh, let them sulk.",
+      "th": "ปล่อยพวกเขานั่งเศร้าไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll drink.",
+      "th": "เราจะไปดื่มกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "The midwife almost fainted when I came for my payment.",
+      "th": "หมอตำแยแทบเป็นลมตอนข้ามารับค่าจ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman giggling] -I looked an awful terror, red and sticky,",
+      "th": "ข้าดูน่าสยดสยองมาก เลือดเหนียวๆ ท่วมตัวข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "but, you know, that's the job.",
+      "th": "เลือดเหนียวๆ ท่วมตัวข้า แต่งานก็คืองาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] And the striga? Was she cured?",
+      "th": "แล้วสตริกาตัวนั้นล่ะ นางหายเป็นปกติไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Yes. Yes, of course.",
+      "th": "หายสิ หาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We need more before the next tale.",
+      "th": "เราต้องไปเอามาเพิ่มก่อนจะเริ่มเรื่องต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, that midwife should've hired a better savior.",
+      "th": "รู้ไหม หมอตำแยคนนั้นน่าจะจ้างคนที่ดีกว่าเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "A man of virtue and honor.",
+      "th": "คนที่มีศีลธรรมและมีเกียรติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "A real man.",
+      "th": "ลูกผู้ชายตัวจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a mutant.",
+      "th": "ไม่ใช่พวกกลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are knights being schooled in striga curses now?",
+      "th": "อัศวินที่เรียนเกี่ยวกับสตริกาในโรงเรียน ด่าเป็นแล้วรึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where'd that lesson fit? Between learning curtsy and joust?",
+      "th": "คาบไหนล่ะ ระหว่างวิชาถอนสายบัว กับวิชาสู้บนหลังม้ารึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all here for a little drink and non-violent fun.",
+      "th": "เราต่างก็มาที่นี่เพื่อดื่มและสนุกกัน แบบไม่ใช้ความรุนแรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is this the \"your kind\" bit?",
+      "th": "เจ้าชอบ \"แบบนี้\" ใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You frighten these people.",
+      "th": "เจ้าทำให้คนพวกนี้หวาดกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "As you frightened that midwife you swindled.",
+      "th": "เหมือนอย่างที่เจ้าทำให้หมอตำแยที่เจ้ารีดไถกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Best you leave.",
+      "th": "ออกไปซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right now.",
+      "th": "เดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've seen knights try to do our job.",
+      "th": "ข้าเคยเห็นอัศวินพยายามทำงานของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tidy up monsters.",
+      "th": "กวาดล้างพวกสัตว์ประหลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cautionary tales, all of you.",
+      "th": "กลายเป็นนิทานเตือนใจไปหมดทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Especially the cute ones.",
+      "th": "โดยเฉพาะพวกที่หล่อๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The two witchers should be tried and executed. No questions asked.",
+      "th": "วิทเชอร์ทั้งสองควรถูกตัดสินโทษประหาร ไม่ต้องไต่สวนอะไรทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Silly me.",
+      "th": "ข้านี่โง่จัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Here I thought trials were all about questions.",
+      "th": "ข้านึกว่าการพิจารณาคดีเป็นเรื่องของการไต่สวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "These two killed two of your guard, Your Highness. You'd let that stand?",
+      "th": "สองคนนี้ฆ่าทหารยามสองคน ฝ่าบาท ท่านจะปล่อยไปหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Sire, the barkeep claims your knights instigated the altercation.",
+      "th": "ฝ่าบาท เจ้าของร้านเหล้าอ้างว่า พวกอัศวินเป็นฝ่ายยั่วยุก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "These witchers were defending themselves.",
+      "th": "วิทเชอร์สองคนนี้แค่ป้องกันตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "The people's faith in the monarchy already wavers due to the forest attacks.",
+      "th": "ความศรัทธาที่ประชาชนมีต่อสถาบันกษัตริย์ เริ่มสั่นคลอนเพราะเหตุโจมตีในป่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now they'll hear the crown waxed idly as two monsters shed knighted blood.",
+      "th": "ตอนนี้พวกเขาจะได้ยินว่ากษัตริย์ทำเชือนเฉย หลังปีศาจสองตนสังหารอัศวิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we should go to war with the witchers?",
+      "th": "แปลว่าเราควรทำสงครามกับวิทเชอร์หรือไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "If only so you can make them what you fear?",
+      "th": "พวกเขาจะได้กลายเป็นสิ่งที่ท่านกลัวสมใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They are deadly. On that, we agree, Tetra.",
+      "th": "พวกเขาอันตราย เราเห็นตรงกันเรื่องนั้น เทตทรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "And such a battle would flood Kaedwen red.",
+      "th": "การทำสงครามกับพวกเขา จะทำให้แผ่นดินเคดเวนนองเลือด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] The Assembly should remember the lady's seat here is honorary.",
+      "th": "สภาอย่าลืมว่า ที่นั่งของนางในห้องนี้เป็นเพียงการให้เกียรติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[attendants murmuring] -Yet it is still my chair.",
+      "th": "แต่ก็ยังเป็นที่นั่งของข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Earned by her body. Not by blood or title.",
+      "th": "แลกมาด้วยเรือนร่าง ไม่ใช่ด้วยสายเลือดหรือยศศักดิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[groans] Gods, quiet!",
+      "th": "ให้ตาย เงียบซะที"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll have my knights kill you both for the sake of my ears.",
+      "th": "ข้าจะให้อัศวินฆ่าเจ้าทั้งสองคน จะได้ไม่ระคายหูอีกต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra's right, actually, sire.",
+      "th": "เทตทราพูดถูก ฝ่าบาท"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your subjects expect action.",
+      "th": "ประชาชนคาดหวังให้ฝ่าบาททำอะไรสักอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "What if you act on two fronts with one move?",
+      "th": "หากฝ่าบาทแก้ไขสองเรื่องได้ในคราวเดียวล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clear out our forests while also avoiding war with the witchers?",
+      "th": "จัดการอสูรในป่า ในขณะเดียวกันก็หลีกเลี่ยงสงครามกับวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Guard? -[guard grunts]",
+      "th": "ยาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aye?",
+      "th": "ว่าไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you hear that?",
+      "th": "ได้ยินเสียงนั่นไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's like this pinging noise. -Hey!",
+      "th": "- เหมือนเสียงอะไรดังกริ๊งๆ - นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you eager for a beating, mutant?",
+      "th": "อยากโดนอัดรึไง ไอ้มนุษย์กลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd settle for a pot to piss in and some halfway decent bread, please.",
+      "th": "ข้าขอกระโถนฉี่กับขนมปังแบบไม่ต้องดีมากสักก้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. A bit generous, but…",
+      "th": "ใจดีนะ แต่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] No need to split this one.",
+      "th": "คราวนี้ไม่ต้องแบ่งใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not like when we were younger.",
+      "th": "ไม่เหมือนสมัยที่เรายังเด็ก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I knew witchers aged differently, but, well, look at you!",
+      "th": "ข้ารู้ว่าวิทเชอร์แก่ช้ากว่ามนุษย์ แต่ว่า ดูเจ้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Illyana!",
+      "th": "อิลียาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "No doubt you imagined me an old spinster by now, slaving away.",
+      "th": "เจ้าคงนึกว่าข้าเป็นยายแก่ทึนทึก เป็นทาสไปจนตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "That is if you ever imagine me at all.",
+      "th": "หมายถึงว่าถ้าข้านึกถึงข้าบ้างน่ะนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh… your letter.",
+      "th": "เจ้า… จดหมายของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You'd been sold to a new estate. -Yes.",
+      "th": "- เจ้าถูกขายให้คฤหาสน์อีกหลัง - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Zerbsts of Kaedwen.",
+      "th": "ตระกูลเซิบส์แห่งเคดเวน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were kind enough, but it…",
+      "th": "พวกเขาใจดีอยู่นะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "it was their son who was truly fond of me, despite my station.",
+      "th": "แต่ลูกชายของเขาต่างหากที่รักข้าจริง แม้ข้าจะมีสถานะต่ำต้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] It's been an age. Did you ever get that lake house?",
+      "th": "เราไม่เจอกันนาน ตกลงเจ้ามีบ้านริมทะเลสาบไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lake house? Oh, my, the lake house!",
+      "th": "บ้านริมทะเลสาบหรือ อ๋อ บ้านริมทะเลสาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No lake, no.",
+      "th": "ไม่มีทะเลสาบ ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "But a nice home.",
+      "th": "แต่ข้ามีบ้านที่น่าอยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turned it into an orphanage after my husband passed.",
+      "th": "ข้าเปลี่ยนมันให้กลายเป็นบ้านเด็กกำพร้า หลังจากสามีข้าเสีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had children too. Girls.",
+      "th": "เรามีลูกๆ ด้วยกันด้วย ลูกสาว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Horrors, all three of them.",
+      "th": "ซนมากทั้งสามคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "One just made me a grandmother. I begged her not to.",
+      "th": "คนหนึ่งทำให้ข้ากลายเป็นคุณยาย ทั้งที่ข้าขอร้องว่าอย่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] But they're stubborn little needlers.",
+      "th": "แต่พวกนางเป็นเจ้าตัวแสบที่หัวรั้นจริงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "They often remind me of you--",
+      "th": "ทำให้ข้านึกถึงเจ้าบ่อยๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, gods.",
+      "th": "ตายละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm… rambling.",
+      "th": "ข้าพล่ามไม่หยุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're bored.",
+      "th": "เจ้าคงเบื่อแย่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no. You're fine.",
+      "th": "ไม่ เจ้าไม่ได้พล่าม"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're good. Uh… this is unexpected, yes.",
+      "th": "เจ้าไม่น่าเบื่อ นี่เป็นเรื่องไม่นึกไม่ฝัน ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Little fresh. But, uh… also lovely.",
+      "th": "น่าแปลกใจ แต่ก็น่ายินดีมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've had such a full--",
+      "th": "เจ้ามีครอบครัว…"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wish to kill my already-dead husband and burn the orphanage to the ground.",
+      "th": "เจ้าอยากฆ่าสามีที่ตายไปแล้วของข้า และเผาบ้านเด็กกำพร้าให้ราบสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not the precise words I'd use.",
+      "th": "ข้าคงไม่ใช้คำพูดแบบนั้นตรงๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lord Zerbst was kind to me.",
+      "th": "ลอร์ดเซิบส์ดีต่อข้ามาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "By no means perfect, but…",
+      "th": "ไม่ได้สมบูรณ์แบบ แต่"
+    }
+  },
+  {
+    "translation": {
+      "en": "he's someone you miss very much when they depart.",
+      "th": "เขาเป็นคนแบบที่เราจะคิดถึงมากเมื่อจากไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "The tales I've heard of you, though.",
+      "th": "แต่เรื่องราวของเจ้าที่ข้าได้ยินเนี่ยสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The swashbuckling witcher for hire.",
+      "th": "วิทเชอร์ผู้กล้าหาญสำหรับจ้างวาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"The slayer Vesemir,",
+      "th": "\"มือสังหารเวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "priced only for the foulest of creatures.\"",
+      "th": "รับจัดการแต่สัตว์ประหลาดที่ชั่วร้ายที่สุด\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, not too long ago, you were stuffing my head full of those very notions.",
+      "th": "ไม่นานมานี้ เจ้าเป็นคนพูดใส่หัวข้าเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Years do work differently for you.",
+      "th": "เวลาของเจ้ากับข้าไม่เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] What's time, anyway?",
+      "th": "ว่าแต่เวลาคืออะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everything. -[door opens]",
+      "th": "ทุกสิ่งทุกอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The king is willing to grant you and your friend amnesty for your crimes.",
+      "th": "กษัตริย์เต็มใจจะอภัยโทษ ให้เจ้ากับสหายสำหรับความผิดที่เจ้าก่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you are reminded that I carry the duties",
+      "th": "ขอเตือนว่าข้าทำหน้าที่"
+    }
+  },
+  {
+    "translation": {
+      "en": "of my late husband, the noble Lord Zerbst, adviser to the throne.",
+      "th": "แทนสามีผู้ล่วงลับ ลอร์ดเซิบส์ผู้สูงศักดิ์ ที่ปรึกษาของกษัตริย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Every deal has a price.",
+      "th": "ทุกข้อตกลงมีราคาของมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kill whatever is murdering our people in the woods outside Ard Carraigh.",
+      "th": "ฆ่าอะไรก็ตามที่สังหารประชาชนของเรา ในป่านอกอาร์ดคาเรห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "And my colleague, Luka?",
+      "th": "แล้วลูก้า สหายร่วมงานข้าล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-He'll have my care. -Reasonable terms.",
+      "th": "เขาจะอยู่ในความดูแลของข้า เงื่อนไขสมเหตุสมผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll take a chaperone too.",
+      "th": "เจ้าเองจะมีผู้ติดตามเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "That, there, well…",
+      "th": "เรื่องนั้นน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "that's a problem.",
+      "th": "น่าจะเป็นปัญหา"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Path's quite perilous,",
+      "th": "หนทางแห่งวิทเชอร์นั้นอันตรายถึงชีวิต"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you are a lady, my lady.",
+      "th": "และท่านเป็นผู้หญิงนะ ท่านหญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Also, can't have a noble such as you",
+      "th": "แถมข้าไม่อาจให้ผู้สูงศักดิ์อย่างท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "seen slumming about with the mutant likes of me.",
+      "th": "เป็นที่พบเห็นว่าสุงสิงกับพวกกลายพันธุ์อย่างข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then you'll no doubt be pleased to hear that I am not your chaperone.",
+      "th": "งั้นเจ้าน่าจะดีใจที่ได้รู้ว่า ข้าไม่ใช่ผู้ติดตามของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have no intention of playing guide or nurse to you, witch.",
+      "th": "ข้าไม่คิดจะเป็นผู้นำทาง หรือผู้ดูแลเจ้าหรอกนะ แม่มด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't care who your great-great-whoever was.",
+      "th": "ข้าไม่สนว่าบรรพบุรุษของเจ้าเป็นใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "On my word,",
+      "th": "ข้าสัญญา"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will slay this beast.",
+      "th": "ข้าจะสังหารอสูรตัวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, Illyana.",
+      "th": "เพื่อเจ้า อิลียาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Might not be a monster at all, either.",
+      "th": "อาจไม่ใช่สัตว์ประหลาดด้วยซ้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The leshen that killed your man Carlisle was bewitched.",
+      "th": "เลเชินที่ฆ่าคนของเจ้าที่ชื่อคาร์ไลส์ ถูกมนตร์สะกด"
+    }
+  },
+  {
+    "translation": {
+      "en": "By an elf.",
+      "th": "โดยเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tetra groans] -\"Why an elf?\" Ah! Glad you asked.",
+      "th": "\"ทำไมถึงเป็นเอลฟ์\" ดีใจที่ถาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "See, another very old but very young-looking elf",
+      "th": "คืองี้ เอลฟ์แก่แต่หน้าละอ่อนมากตนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "asked me to help him to find a group of misplaced girls.",
+      "th": "ขอให้ข้าช่วยเขาตามหากลุ่มหญิงสาวที่หายตัวไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Point is, witchering is a business.",
+      "th": "ประเด็นคือวิทเชอร์ทำงานแลกเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to keep a brand.",
+      "th": "เราต้องรักษาชื่อ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can't score the big jobs if you're known for swatting nymphs and helping out elves.",
+      "th": "เราไม่มีทางได้งานใหญ่ ถ้ามีคนรู้ว่า เราตีนิมฟ์เหมือนตีแมลงวันกับช่วยเอลฟ์ฟรีๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't fire magic forbidden by upstanding mages?",
+      "th": "ผู้วิเศษที่ดีงามห้ามใช้มนตร์อัคคีไม่ใช่หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only insofar as there are very few mages blessed with the skill to control the flames.",
+      "th": "ตราบเท่าที่มีผู้วิเศษที่ควบคุมไฟได้ เพียงไม่กี่คน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chewing] Huh. You're very special, clearly.",
+      "th": "งั้นท่านก็พิเศษมากๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I must seem silly to you.",
+      "th": "ข้าคงดูโง่ในสายตาเจ้ามากสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But Chaos, it's…",
+      "th": "แต่พลังโกลาหล มัน…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, words fail description.",
+      "th": "หาคำบรรยายไม่ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers are connected to Chaos too.",
+      "th": "วิทเชอร์ก็เชื่อมโยงกับพลังโกลาหลเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only your connection is corrupted and corrosive.",
+      "th": "เพียงแต่ความเชื่อมโยงของเจ้านั้น เสื่อมทรามและกัดกร่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "And far less condemning.",
+      "th": "และน่าตำหนิน้อยกว่ามาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a story about a witcher who helped an ailing priest.",
+      "th": "มีเรื่องราวเกี่ยวกับวิทเชอร์ ที่ช่วยเหลือนักบวชป่วยคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The monster-slayer believed the sickness was, in fact, a curse,",
+      "th": "นักฆ่าอสูรเชื่อว่า ความเจ็บป่วยนั้นแท้จริงแล้วเป็นคำสาป"
+    }
+  },
+  {
+    "translation": {
+      "en": "and could be lifted by killing whoever placed it.",
+      "th": "และสามารถถอนคำสาปได้ ด้วยการฆ่าคนที่วางคำสาป"
+    }
+  },
+  {
+    "translation": {
+      "en": "The priest quickly fingered a local sorceress,",
+      "th": "นักบวชคนนั้นรีบกล่าวหา ผู้วิเศษในเมืองนั้นทันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "a stupid girl who always caused him trouble.",
+      "th": "เด็กสาวโง่ๆ ที่ก่อปัญหาให้เขาเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The witcher killed her, and was rightly paid in gems and jewels.",
+      "th": "วิทเชอร์ฆ่านาง แล้วก็ได้ค่าตอบแทนสมน้ำสมเนื้อ เป็นเพชรนิลจินดา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-The priest obviously got better. -He did.",
+      "th": "- นักบวชอาการดีขึ้นเลยสินะ - ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then a few days later,",
+      "th": "แล้วไม่กี่วันต่อมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "he found a beautiful gem amid his cook's belongings,",
+      "th": "เขาก็เจออัญมณีเม็ดงาม ปะปนกับข้าวของของพ่อครัวเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "identical to the one he'd given the clever witcher.",
+      "th": "เหมือนเม็ดที่ให้เจ้าวิทเชอร์หัวหมอไปเปี๊ยบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah. He had the cook poison the priest's meals. Cut him in on the take.",
+      "th": "วิทเชอร์สั่งให้พ่อครัวใส่ยาพิษ ในอาหารของนักบวช แล้วให้ส่วนแบ่งเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[exclaims] Smart con. Wish I'd thought of it.",
+      "th": "กลฉลาดมาก เสียดายที่ข้าคิดไม่ได้มาก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "As I said…",
+      "th": "ก็อย่างที่บอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "corrupted.",
+      "th": "เสื่อมทราม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ah, lovely.",
+      "th": "เยี่ยมไปเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You've led us in a circle. -No.",
+      "th": "- เจ้าให้เราเดินวนเป็นวงกลม - ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know these forests.",
+      "th": "ข้ารู้จักป่าแห่งนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hmm. So did Lord Carlisle.",
+      "th": "ลอร์ดคาร์ไลส์ก็เช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "At Aretuza, we used magic to cast pleasant illusions around unpleasant foods.",
+      "th": "ที่อาเรทูซ่า เราร่ายมนตร์มายาใส่อาหารแย่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Made food tastier,",
+      "th": "เพื่อให้อาหารรสชาติดีขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "yet the aftertaste of the illusion?",
+      "th": "แต่รสชาติหลังมนตร์เสื่อมแล้วน่ะหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitter.",
+      "th": "ขม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Chaos clear our hearts and minds. Let our eyes see right and true.",
+      "th": "พลังโกลาหลทำให้จิตและใจของเรากระจ่าง ทำให้เรามองเห็นสิ่งที่ถูกต้องและแท้จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lift the shroud that cloaks our mind. -Lift the shroud that cloaks our mind! -[booming]",
+      "th": "ขับไล่หมอกที่บดบังจิตของเราออกไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "That illusion was flawless.",
+      "th": "ภาพมายานั้นไร้ที่ติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The power needed to maintain such art…",
+      "th": "ต้องมีพลังกล้าแกร่งถึงจะคุมมายาระดับนี้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Could also bewitch a leshen.",
+      "th": "แล้วก็สะกดเลเชินได้ด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Garean bhaedh aip me vhoelynath.",
+      "th": "กาเรเอน บาฮาเอดาเฮบเม วาโฮเอเลนาธ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kitsu? -Friend of yours?",
+      "th": "คิทซุ เพื่อนเจ้าหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Friend of a friend.",
+      "th": "เพื่อนของเพื่อนน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Garean bhaedh aip me vhoelynath!",
+      "th": "กาเรเอน บาฮาเอดาเฮบเม วาโฮเอเลนาธ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes. I'll need to know what and where your den is if I'm to avoid it,",
+      "th": "ใช่ งั้นบอกมาก่อนสิว่า รังของเจ้าอยู่ที่ไหน ถ้าจะให้ข้าหลีกเลี่ยง"
+    }
+  },
+  {
+    "translation": {
+      "en": "especially since you're, you know,",
+      "th": "โดยเฉพาะในเมื่อเจ้าเล่นเข่นฆ่าทุกคนที่เข้าใกล้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-slaughtering people over it. -Witcher.",
+      "th": "โดยเฉพาะในเมื่อเจ้าเล่นเข่นฆ่าทุกคนที่เข้าใกล้ วิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I've never seen such a species of basilisk.",
+      "th": "ข้าไม่เคยเห็นบาซิลลิสค์สายพันธุ์นี้มาก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Another illusion? -We'll no doubt find out shortly.",
+      "th": "- ภาพมายาอีกหรือ - เดี๋ยวก็รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know. She has that effect on everyone.",
+      "th": "ข้ารู้ ใครๆ ก็ฆ่านางแบบเจ้านี่แหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But still, manners.",
+      "th": "แต่ยังไงก็ช่วยมีมารยาทหน่อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! [sobs]",
+      "th": "ไม่!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It was real. -Might have slightly underestimated you.",
+      "th": "- ไม่ใช่ภาพมายา - ข้าอาจจะประเมินเจ้าต่ำไปนิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Slightly.",
+      "th": "นิดนึง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kitsu, this needn't escalate.",
+      "th": "คิทซุ ไม่จำเป็นต้องทำให้เรื่องมันบานปลาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witcher!",
+      "th": "วิทเชอร์!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Her powers of illusion are unnatural.",
+      "th": "พลังภาพมายาของนางนั้นไม่ปกติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "First monster I ever encountered was a mahr.",
+      "th": "สัตว์ประหลาดตัวแรกที่ข้าเจอในชีวิตคือมาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Made a woman see nightmares that weren't really there. Illusions.",
+      "th": "ทำให้ผู้หญิงคนหนึ่งเห็นฝันร้าย ที่ไม่มีอยู่จริง เป็นภาพลวงตา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Kitsu's an elf. -Then why does she smell like a mahr?",
+      "th": "- คิทซุเป็นเอลฟ์ - งั้นทำไมนางมีกลิ่นเหมือนมาห์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] An elven school.",
+      "th": "โรงเรียนเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "They used to send their young here during high summer.",
+      "th": "พวกเขาเคยส่งเอลฟ์เด็กๆ มาที่นี่ ช่วงกลางฤดูร้อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before repurposing it as a garrison during your last cleansing spree.",
+      "th": "ก่อนจะเปลี่ยนให้กลายเป็นป้อมปราการ ช่วงการล้างบางครั้งสุดท้ายของพวกเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "No signs of blood.",
+      "th": "ไม่มีรอยเลือด"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can still smell her, though.",
+      "th": "แต่ข้ายังได้กลิ่นนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was here.",
+      "th": "นางเคยอยู่ที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just before our fight.",
+      "th": "ก่อนที่เราสู้กัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witcher!",
+      "th": "วิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do have a name, you know.",
+      "th": "ข้ามีชื่อนะ รู้ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was done to them?",
+      "th": "เกิดอะไรขึ้นกับพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] They're all elves.",
+      "th": "ทุกคนเป็นเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Girls.",
+      "th": "ผู้หญิง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Over here.",
+      "th": "ทางนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help.",
+      "th": "ช่วยด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gods, not another favor.",
+      "th": "ให้ตาย ติดหนี้บุญคุณอีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who's this one?",
+      "th": "นี่ใคร"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] My aforementioned friend. He was searching for those girls.",
+      "th": "เพื่อนที่ข้าเคยเล่าให้ฟัง เขามาตามหาผู้หญิงเหล่านั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I could've saved some, had you set aside your love of coin and helped.",
+      "th": "ข้าคงจะช่วยชีวิตพวกนางไว้ได้บ้าง หากเจ้าไม่โลภมากและยอมช่วยดีๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Kitsu's been kidnapping them. -Yes. Experimenting on the girls.",
+      "th": "คิทซุลักพาตัวพวกนางมา ใช่ ทำการทดลองกับพวกนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's using some strange alchemy to try to change them.",
+      "th": "นางใช้การเล่นแร่แปรธาตุแปลกประหลาด ในการพยายามเปลี่ยนพวกนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Change them to what?",
+      "th": "เปลี่ยนให้เป็นอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Into whatever she's become.",
+      "th": "ให้เป็นอะไรก็ตามที่นางเป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "I tracked her here, tried stopping her, but… Kitsu's power…",
+      "th": "ข้าแกะรอยนางมาถึงที่นี่ พยายามหยุดนาง แต่พลังของคิทซุนั้น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "And she just let you live?",
+      "th": "นางแค่ปล่อยให้ท่านมีชีวิตอยู่งั้นรึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I understand if that's a concept unfamiliar to your kind.",
+      "th": "ข้าเข้าใจว่านั่นเป็นแนวคิด ที่เผ่าพันธุ์ของท่านไม่คุ้ยเคย"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Kitsu was using sorcery to try and mutate those girls,",
+      "th": "หากคิทซุใช้วิชาเวท พยายามทำให้เด็กสาวพวกนี้กลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "who mutated her?",
+      "th": "ใครทำให้นางกลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Her genes were spliced with those of a mahr.",
+      "th": "ยีนของนางมีการตัดแต่งยีนของมาห์เข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "It explains her unnatural power.",
+      "th": "นี่อธิบายพลังที่ไม่ปกติของนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's a crossbreed.",
+      "th": "นางเป็นลูกผสม"
+    }
+  },
+  {
+    "translation": {
+      "en": "How is such a thing possible?",
+      "th": "เรื่องแบบนั้นเป็นไปได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The same way he was made.",
+      "th": "แบบเดียวกับที่เขาถูกสร้างขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mutagenic alchemy.",
+      "th": "ศาสตร์การสร้างสิ่งกลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Its secrets known only to mages at Kaer Morhen.",
+      "th": "เป็นศาสตร์ลับ ที่มีแต่ผู้วิเศษที่เคียร์มอเรนห์เท่านั้นที่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're behind all this.",
+      "th": "เจ้าอยู่เบื้องหลังเรื่องทั้งหมดนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's ridiculous.",
+      "th": "บ้าไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[grunts] -Hunting monsters for coin wasn't enough?",
+      "th": "แค่ล่าสัตว์ประหลาดเพื่อแลกเงินยังพออีกหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now you make them?",
+      "th": "ต้องสร้างขึ้นมาเองเลยหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers are struggling, yes, but…",
+      "th": "วิทเชอร์ปากกัดตีนถีบก็จริง แต่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Shame. A few new beasts would be… good for business.",
+      "th": "น่าเสียดาย อสูรสายพันธุ์ใหม่ๆ จะดีต่อธุรกิจเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] More monsters, more jobs, more coin.",
+      "th": "ยิ่งมีสัตว์ประหลาดมากเท่าไหร่ ก็ยิ่งมีงาน ยิ่งมีเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Another sharp con.",
+      "th": "หัวหมออีกแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I swear, Fil, I didn't-- -[rustling]",
+      "th": "สาบานได้ ฟิล ข้าไม่ได้…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Another monstrosity.",
+      "th": "อสุรกายอีกตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's still an elf.",
+      "th": "นางยังเป็นเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You saw what these creatures can do.",
+      "th": "เจ้าเห็นนี่ว่าเจ้าพวกนี้ทำอะไรได้บ้าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fil, if the girl has even half Kitsu's power,",
+      "th": "ฟิล ถ้าเด็กคนนี้มีพลังแบบคิทซุแม้แต่ครึ่งหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "she's dangerous.",
+      "th": "นางเป็นตัวอันตราย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Doesn't this witch say similar of you?",
+      "th": "แม่มดคนนี้ก็พูดอย่างเดียวกันเรื่องเจ้าไม่ใช่รึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I will take her back to my people. She will be raised as an elf.",
+      "th": "ข้าจะพานางกลับไปอยู่กับคนของข้า เราจะเลี้ยงนางให้เป็นเอลฟ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] Charitable.",
+      "th": "พ่อนักบุญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Though I imagine it won't be too long before you sic her on us.",
+      "th": "แต่ข้าคิดว่าอีกไม่นาน ท่านคงปล่อยนางให้มาโจมตีเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Filavandrel] You won.",
+      "th": "ท่านชนะไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You beat us.",
+      "th": "ท่านเอาชนะเราได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "At least allow us the indignity",
+      "th": "อย่างน้อยก็ให้เราเหลือศักดิ์ศรี"
+    }
+  },
+  {
+    "translation": {
+      "en": "of scavenging whatever's left of our kind, mutant or otherwise.",
+      "th": "ในการรวบรวมสิ่งที่เหลืออยู่ของเผ่าพันธุ์เราบ้าง ถึงจะกลายพันธุ์ก็ตาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "As a favor to a friend.",
+      "th": "ข้าขอในฐานะเพื่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the child and go. Now.",
+      "th": "พาเด็กไปซะ เดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have made a serious error.",
+      "th": "เจ้าทำผิดพลาดมหันต์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Should that girl ever harm a single soul, Fil--",
+      "th": "หากเด็กคนนี้ทำร้ายใครแม้แต่คนเดียว ฟิล…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I will slay her.",
+      "th": "ถึงตอนนั้นข้าจะฆ่านางเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Quietly welcome you and your sword.",
+      "th": "แล้วรอให้เจ้าเอาดาบมาฆ่าข้าอย่างเงียบๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I should've offered up some coin. Then you would've handled matters.",
+      "th": "ข้าน่าจะเสนอเงินให้เจ้า เจ้าจะได้จัดการเรื่องนี้ให้จบไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "It was not a question of price.",
+      "th": "มันไม่เกี่ยวกับเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, the witcher's found his morals?",
+      "th": "จู่ๆ วิทเชอร์ก็มีศีลธรรมขึ้นมางั้นหรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think you're so pure, Tetra? Not a blemish?",
+      "th": "เจ้าคิดว่าเจ้าบริสุทธิ์ผุดผ่องนักสินะ เทตทรา ไม่แปดเปื้อนเลยสินะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look outside. There's your morality.",
+      "th": "เปิดตาดูข้างนอกบ้าง นั่นไงละศีลธรรมของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rot and ruin all reeking of hate.",
+      "th": "ซากเน่าเหม็นผุพังที่ส่งกลิ่นความเกลียดชัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tend to that filth, and I'll tend to mine.",
+      "th": "ไปกำจัดความโสโครกนั่นเถอะ แล้วข้าจะกำจัดของข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Nothing good can come of this.",
+      "th": "ทำแบบนี้ไม่เกิดประโยชน์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Fear and ignorance are good business.",
+      "th": "ความกลัวและความไม่รู้ดีต่อธุรกิจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what Deglan said the first time we met.",
+      "th": "เดกลันเคยพูดเอาไว้ในครั้งแรกที่เราเจอกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now look.",
+      "th": "แล้วดูสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I need to know for certain.",
+      "th": "ข้าจำเป็นต้องรู้แน่ๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] I'd ask you to flee with me.",
+      "th": "ข้าอยากขอให้เจ้าหนีไปกับข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know what you have to do.",
+      "th": "แต่ข้ารู้ว่าเจ้าต้องทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I won't have you feeling as though you've abandoned me again.",
+      "th": "และข้าจะไม่ทำให้เจ้ารู้สึกราวกับว่า เจ้าทอดทิ้งข้าอีกครั้ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[growling] -[Tetra] I tried to stop him.",
+      "th": "ข้าพยายามห้ามเขาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[hisses] -But witchers, they never hesitate.",
+      "th": "แต่พวกวิทเชอร์ไม่เคยลังเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "[king] Madam Gilcrest has given proof.",
+      "th": "มาดามกิลเครสท์มอบหลักฐานแก่เรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "This one breeds monstrosities,",
+      "th": "เจ้านี่สร้างอสุรกาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "terrorizes my kingdom,",
+      "th": "คุกคามอาณาจักรของข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "and swindles the people.",
+      "th": "แล้วก็ต้มตุ๋นประชาชน"
+    }
+  },
+  {
+    "translation": {
+      "en": "What the hell are you talking about?",
+      "th": "ท่านพูดเรื่องบ้าอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sire, not all witchers were aware of these crossbreeds.",
+      "th": "ฝ่าบาท วิทเชอร์ไม่ได้รู้เห็น เรื่องลูกผสมพวกนี้กันทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lady Zerbst, you are testament to the perils",
+      "th": "เลดี้เซิบส์ ท่านคือหลักฐานของความพินาศ"
+    }
+  },
+  {
+    "translation": {
+      "en": "of trusting a servant.",
+      "th": "จากการไว้ใจคนรับใช้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your Highness--",
+      "th": "ฝ่าบาท…"
+    }
+  },
+  {
+    "translation": {
+      "en": "If it pleases, sire,",
+      "th": "หากฝ่าบาทไม่ว่ากระไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "might I ask where Madam Gilcrest is now?",
+      "th": "ข้าขอถามว่าตอนนี้มาดามกิลเครสท์อยู่ที่ไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Monsters were going extinct.",
+      "th": "สัตว์ประหลาดกำลังจะสูญพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had to protect our way of life.",
+      "th": "ข้าต้องปกป้องวิถีชีวิตของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Think of all the coin you stand to make, young fella.",
+      "th": "คิดถึงเงินทั้งหมดที่เจ้าจะหาได้สิ เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do not call me that. -Check your gratitude, boy.",
+      "th": "- อย่าเรียกข้าอย่างนั้น - สำนึกบุญคุณกันหน่อย เด็กน้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You came to me.",
+      "th": "เจ้ามาหาข้าเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could've shipped you right back to those bedpans.",
+      "th": "ข้าจะส่งเจ้ากลับไปเก็บกระโถนคนป่วยก็ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't pretend you didn't know exactly what you were doing",
+      "th": "อย่าทำเป็นไม่รู้ว่าท่านกำลังทำอะไร"
+    }
+  },
+  {
+    "translation": {
+      "en": "when you threw me those coins.",
+      "th": "ตอนที่โยนเศษเงินนั่นให้ข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew I would come.",
+      "th": "ท่านรู้ว่าข้าจะมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "We were created to kill creatures like these,",
+      "th": "เราถูกสร้างขึ้นมาให้ฆ่าสัตว์ประหลาดพวกนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "not to make them.",
+      "th": "ไม่ใช่สร้างพวกมัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I won't weep for doing what needed doing.",
+      "th": "ข้าจะไม่เสียใจที่ทำในสิ่งที่จำเป็นต้องทำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told you.",
+      "th": "บอกแล้วไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] A witcher never hesitates.",
+      "th": "วิทเชอร์ไม่เคยลังเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I know.",
+      "th": "ข้ารู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "What about with the elf? Did you give Kitsu a choice before you mutated her?",
+      "th": "แล้วเอลฟ์นั่นล่ะ ท่านได้ให้ทางเลือกแก่คิทซุไหม ก่อนที่จะทำให้นางกลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I thought we'd killed her.",
+      "th": "ไม่ เรานึกว่าเราฆ่านางไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "That mutation was unstable. Too much power.",
+      "th": "การกลายพันธุ์นั่นไม่เสถียร ทรงพลังมากเกินไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Clearly, her death was one of her clever little illusions.",
+      "th": "เห็นชัดว่านางใช้เวทมายาแสร้งทำเป็นตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] All of this to line our pockets.",
+      "th": "ทั้งหมดนี้ก็เพื่อเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were always too focused on the gold in your hand.",
+      "th": "เจ้ามัวแต่สนใจทองในมือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You never looked up to see who's paying you. See their eyes.",
+      "th": "ไม่เคยเงยหน้าขึ้นมองคนที่จ่ายเจ้า เห็นแววตาพวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "We terrify 'em.",
+      "th": "พวกเขากลัวเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "The only thing keeping men from hunting us",
+      "th": "สิ่งเดียวที่ทำให้มนุษย์ไม่ล่าเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "are the scarier beasts we keep away.",
+      "th": "ก็คือพวกอสูรที่น่ากลัวกว่าซึ่งเราคอยกันเอาไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Humans die quick, so they spend their lives fearing and hating.",
+      "th": "มนุษย์ตายเร็ว พวกเขาเลยใช้เวลาในชีวิต ไปกับความกลัวและความเกลียดชัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ask the dwarves or your elf friend.",
+      "th": "ถามพวกคนแคระหรือสหายเอลฟ์ของเจ้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Men will always need monsters.",
+      "th": "มนุษย์จะต้องการสัตว์ประหลาดเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now, so do we. -We're all orphans.",
+      "th": "ตอนนี้เราเองก็เช่นกัน เราทุกคนเป็นเด็กกำพร้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've always looked to you to protect us.",
+      "th": "เราหวังให้ท่านปกป้องเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to burn it to the ground… or I will.",
+      "th": "ท่านต้องเผาที่นี่ทั้งหมด ไม่งั้นข้าจะเผาเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want to fight you.",
+      "th": "ข้าไม่อยากสู้กับท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "We've got to protect ourselves, Vesemir.",
+      "th": "เราต้องปกป้องตัวเอง เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Got to protect you!",
+      "th": "ต้องปกป้องเจ้า!"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you two would like to stop trying to kill each other,",
+      "th": "ถ้าพวกเจ้าสองคนจะเลิกฆ่ากันเสียที"
+    }
+  },
+  {
+    "translation": {
+      "en": "we have a visitor.",
+      "th": "เรามีแขกมาเยือน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] She's coming.",
+      "th": "นางกำลังมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[mob clamoring] -[man] Away with all witchers!",
+      "th": "กำจัดพวกวิทเชอร์ให้หมด!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra wasted no time. Word spread quickly.",
+      "th": "เทตทราไม่ยอมเสียเวลาเลย ข่าวแพร่ออกไปอย่างรวดเร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not only of the crossbreeds, but of witchers protecting elves.",
+      "th": "ไม่เพียงแต่เรื่องลูกผสม ยังเรื่องที่วิทเชอร์ปกป้องเอลฟ์อีกด้วย"
+    }
+  },
+  {
+    "translation": {
+      "en": "And Luka?",
+      "th": "แล้วลูก้าล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is your two's doing.",
+      "th": "เป็นเพราะท่านทั้งสองคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were always gonna come, sooner or later.",
+      "th": "พวกมนุษย์กระสันจะมาอยู่แล้ว ไม่ช้าก็เร็ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Well, maybe there was a way for us to die the better men.",
+      "th": "หึ แต่เราตายอย่างมีเกียรติกว่านี้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "My mages and I are the ones who know the secrets to mutagenic alchemy.",
+      "th": "ข้ากับผู้วิเศษของข้าเท่านั้น ที่รู้ศาสตร์ลับแห่งการสร้างสิ่งกลายพันธุ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tetra will want our heads most.",
+      "th": "เทตทราจะต้องการหัวเรามากที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "If we die,",
+      "th": "ถ้าเราตาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "there can be no more witchers.",
+      "th": "จะไม่มีวิทเชอร์อีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Seal yourselves in your labs.",
+      "th": "ขังตัวเองไว้ในห้องทดลองของท่าน"
+    }
+  },
+  {
+    "translation": {
+      "en": "The rest of us will rally and end her little cult.",
+      "th": "พวกเราที่เหลือจะรวมตัวกันสู้ และจบลัทธิเล็กๆ ของนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Bitch won't see dawn.",
+      "th": "นังนี่จะไม่อยู่เห็นรุ่งสาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Underestimate Tetra and you'll be the one who's seen their last sunrise.",
+      "th": "หากท่านประมาทเทตทรา ท่านเองนั่นแหละที่จะไม่อยู่เห็นรุ่งสาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Perhaps she'll listen to reason.",
+      "th": "บางทีนางอาจจะฟังเหตุผล"
+    }
+  },
+  {
+    "translation": {
+      "en": "He may be a bastard… but Deglan is right.",
+      "th": "เขาอาจจะเลว แต่เดกลันพูดถูก"
+    }
+  },
+  {
+    "translation": {
+      "en": "This was inevitable.",
+      "th": "ยังไงเรื่องนี้ก็ต้องเกิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "th": "ทำไม"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Because you're different. -[mob yelling]",
+      "th": "เพราะเจ้าแตกต่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] And killing is easier than tolerating.",
+      "th": "และการฆ่ามันง่ายกว่าการต้องทน"
+    }
+  },
+  {
+    "translation": {
+      "en": "I want you as far away from this place as possible.",
+      "th": "ข้าอยากให้เจ้าไปจากที่นี่ให้ไกลที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "There are children here.",
+      "th": "ที่นี่มีเด็กๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-They've been trained. -Children, Vesemir.",
+      "th": "- พวกเขาฝึกมาแล้ว - เด็กๆ เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "As you were when he took you.",
+      "th": "เหมือนกับเจ้าตอนที่เขารับเจ้าเป็นศิษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll guide them to the cellar until the battle's won.",
+      "th": "ข้าจะนำพวกเขาลงไปห้องใต้ดิน จนกว่าเจ้าจะชนะศึก"
+    }
+  },
+  {
+    "translation": {
+      "en": "For once, I will decide my place.",
+      "th": "ขอสักครั้งในชีวิต ให้ข้าได้เลือกที่ของตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You've always had too much fire.",
+      "th": "เจ้ามีไฟในตัวมากเกินไปเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And beauty.",
+      "th": "และงดงาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please… I'm nearly 70.",
+      "th": "ขอละ ข้าอายุจะ 70 อยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "So am I.",
+      "th": "ข้าก็เหมือนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beautiful peaks. Too pure for war.",
+      "th": "ยอดเขาแสนงดงาม บริสุทธิ์เกินกว่าจะทำสงคราม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Scurry off and return with the body of the man you murdered, witch.",
+      "th": "รีบไสหัวไปซะ และคืนศพของชายที่เจ้าสังหาร นังแม่มด"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was executed in the name of those your homemade beasts butchered.",
+      "th": "เขาถูกประหารในนามของผู้คน ที่ถูกอสูรดัดแปลงของเจ้าฆ่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll be no more of them, Tetra.",
+      "th": "จะไม่มีการสร้างขึ้นมาอีกแล้ว เทตทรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Upon my word.",
+      "th": "ข้าสัญญา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, witchers are experts in price.",
+      "th": "พวกวิทเชอร์อย่างเจ้าเชี่ยวชาญเรื่องราคา"
+    }
+  },
+  {
+    "translation": {
+      "en": "What is the worth of your word, Vesemir?",
+      "th": "คำพูดของเจ้ามีค่าเท่าไหร่ เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some things…",
+      "th": "บางอย่าง"
+    }
+  },
+  {
+    "translation": {
+      "en": "are beyond cost.",
+      "th": "ก็ไม่อาจประเมินค่าได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you?",
+      "th": "แล้วท่านล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you give me your word?",
+      "th": "ท่านจะให้คำมั่นแก่ข้าด้วยไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "I give you nothing.",
+      "th": "ข้าจะไม่ให้อะไรทั้งนั้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Save the chance to fill the valleys of our pretty peaks with your corpses.",
+      "th": "ยกเว้นโอกาสที่จะสุมหุบเขางดงามของเรา ด้วยศพของพวกเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "We are an army of witchers.",
+      "th": "เราคือกองทัพวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You are human.",
+      "th": "พวกเจ้าคือมนุษย์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] Kitsu.",
+      "th": "คิทซุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] She was gutted to hear how you sacked her den,",
+      "th": "นางเสียใจที่ได้ยินว่าเจ้าปล้นรังของนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "destroyed her work, and murdered the girl, her only child.",
+      "th": "ทำลายผลงานของนาง และฆ่าเด็กสาว ลูกคนเดียวของนาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Monsters to fight monsters.",
+      "th": "ใช้อสูรสู้กับอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "How unlike your predecessors.",
+      "th": "ช่างแตกต่างจากบรรพบุรุษของเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] Rally! Rally!",
+      "th": "รวมพล! รวมพล!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Steel your nerves, lads. We charge!",
+      "th": "ตั้งสติให้ดี ทุกคน เราจะบุก"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Vesemir] Swords away. Swords away! -We haven't time to hesitate.",
+      "th": "- เก็บดาบก่อนๆ - เราไม่มีเวลามาลังเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just bloody trust me for once!",
+      "th": "แค่เชื่อข้าสักครั้งเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please!",
+      "th": "ขอร้อง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers, on me!",
+      "th": "วิทเชอร์ รอสัญญาณจากข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Now! -[low booming]",
+      "th": "เอาเลย!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lady Zerbst] Be calm. Be calm. -[low rumbling]",
+      "th": "ไม่ต้องกลัวนะ ไม่ต้องกลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're safe.",
+      "th": "พวกเจ้าปลอดภัย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Witchers must be wiped from the surface of this Earth,",
+      "th": "พวกวิทเชอร์จะต้องถูกกวาดล้างไปจากโลกนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and all traces strewn with salt and saltpeter.",
+      "th": "และร่องรอยทั้งหมด จะถูกกลบด้วยเกลือกับดินประสิว"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Deglan] She's going for Reidrich!",
+      "th": "มันจะไปเล่นงานไรดริก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Me and the others will hold the bridge. Use the drop to halve their numbers.",
+      "th": "ข้ากับคนอื่นๆ จะต้านไว้ที่สะพาน ทิ้งสะพานเพื่อลดจำนวนพวกมันลงครึ่งหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You two, stop her!",
+      "th": "พวกเจ้าสองคน หยุดนางให้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you forgive me long enough, young fella?",
+      "th": "เจ้าให้อภัยข้าได้นานพอไหม เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "If she gets Reidrich, it's the end of us.",
+      "th": "ถ้านางไปถึงตัวไรดริก พวกเราก็ถึงจุดจบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Find her!",
+      "th": "หานางให้เจอ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Stop her! -[screaming]",
+      "th": "หยุดนางให้ได้!"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's a hatch in the grain hold.",
+      "th": "มีประตูเล็กในยุ้งฉาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "It lets out on the back pathway.",
+      "th": "เปิดออกไปสู่เส้นทางด้านหลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you know this?",
+      "th": "เจ้ารู้ได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was trying to run away!",
+      "th": "เขาเคยพยายามจะหนีน่ะสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Run as far away as possible.",
+      "th": "หนีไปให้ไกลที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "All of you.",
+      "th": "พวกเจ้าทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rub the heel raw, to the bone, if you have to.",
+      "th": "วิ่งจนส้นเท้าแตก กระดูกโผล่ ถ้าจำเป็น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't stop.",
+      "th": "อย่าหยุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Lower your swords.",
+      "th": "ลดดาบลง"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is genocide, Tetra.",
+      "th": "นี่คือการฆ่าล้างเผ่าพันธุ์ เทตทรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "They bred those monsters because of you. There is no purity here.",
+      "th": "พวกเขาสร้างอสูรขึ้นมาก็เพราะเจ้า ประเทศนี้ไม่มีอะไรบริสุทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just fear and hatred.",
+      "th": "มีแต่ความกลัวและความเกลียดชัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough, please!",
+      "th": "พอได้แล้ว ได้โปรดเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "This servant betrays Kaedwen to the witchers.",
+      "th": "นังคนรับใช้ผู้นี้ทรยศเคดเวนไปสมคบกับวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let her join them.",
+      "th": "ให้ตายตกตามกันไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir yelling] Tetra!",
+      "th": "เทตทรา!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can drop your men before their blades drop an inch.",
+      "th": "ข้าฆ่าคนของเจ้าได้ก่อนที่พวกเขาจะทันขยับดาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[scoffs] Wishful thinking.",
+      "th": "ข้าฆ่าคนของเจ้าได้ก่อนที่พวกเขาจะทันขยับดาบ ฝันไปเถอะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you going to enjoy the day, or are you still too shook",
+      "th": "วันนี้ไม่เล่นสนุกเหรอ หรือยังสะเทือนขวัญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "from another daring night of monster-slaying?",
+      "th": "จากคืนที่เจ้าอาจหาญช่วยฆ่าอสูรอีกคืน"
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckles] Pardon me for wanting to be something other than a churlish knave.",
+      "th": "ขอโทษนะที่ข้าอยากเป็น มากกว่าแค่คนรับใช้บ้านนอก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at you, though.",
+      "th": "แต่ดูเจ้าสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a witcher.",
+      "th": "เจ้าเป็นถึงวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're rich!",
+      "th": "เจ้าร่ำรวย"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll lack for nothing,",
+      "th": "เราจะไม่ขาดเหลืออะไรเลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "and you'll take care of me, Vesemir.",
+      "th": "และเจ้าจะดูแลข้า เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Much like you said. True to your word.",
+      "th": "เหมือนที่เจ้าเคยบอก เจ้ารักษาสัญญา"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Look at me. -A lake house.",
+      "th": "มองข้าสิ บ้านริมทะเลสาบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wine. Food.",
+      "th": "ไวน์ อาหาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine the seas of coin we'd wade in.",
+      "th": "ลองนึกภาพตัวเราแหวกว่ายในกองเงินกองทอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "You never wanted that! You were always content.",
+      "th": "เจ้าไม่เคยต้องการอย่างนั้น เจ้าพอใจกับทุกอย่างเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no!",
+      "th": "ไม่นะ!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Forty tons of sheep's blood?",
+      "th": "เลือดแกะ 40 ตันรึ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That poor midwife!",
+      "th": "หมอตำแยที่น่าสงสารนั่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, oh, tell 'em about the time you swindled the Redanian priest.",
+      "th": "เล่าให้พวกเขาฟังสิ ตอนที่เจ้าหลอกเอาเงินจากนักบวชเรดาเนีย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Had him thinking he was cursed!",
+      "th": "ทำให้เขาคิดว่าเขาถูกสาป"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How much did you take that fool for? -You can't be here. We lost you.",
+      "th": "- เจ้าได้เงินจากไอ้โง่นั่นเท่าไหร่ - เจ้าอยู่ที่นี่ไม่ได้ เจ้าตายไปแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you prattling about?",
+      "th": "เจ้าพล่ามเรื่องอะไรน่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[cackles] Wake the barkeep, drain the barrels. Everyone drink!",
+      "th": "ปลุกบ๋อยขึ้นมา ดื่มเหล้าให้หมดถัง ทุกคนดื่ม!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a coin spared.",
+      "th": "ไม่ต้องจ่ายสักสตางค์เดียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Yeah! -[men cackling and cheering]",
+      "th": "เยี่ยม!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough! All of you!",
+      "th": "พอที! ทุกคนนั่นแหละ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop… stop cackling!",
+      "th": "เลิกหัวเราะกันเสียที"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir, come look.",
+      "th": "เวเซเมียร์ มาดูนี่สิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Be honest, now.",
+      "th": "บอกข้าตามตรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, don't just stand there. Say it.",
+      "th": "อย่ามัวยืนเฉย พูดมาสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You hate it, don't you?",
+      "th": "เจ้าไม่ชอบใช่ไหมล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Vesemir] I…",
+      "th": "ข้า…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just weighing whether you'd done my dashing looks justice.",
+      "th": "ข้ากำลังชั่งใจว่า เจ้าวาดข้าได้หล่อเหลาสมจริงไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughs] Oh, gods. You frightened me.",
+      "th": "ตายจริง เจ้าทำให้ข้ากลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Such a look in your eyes. So crestfallen and…",
+      "th": "สายตาของเจ้า ช่างหม่นหมองและ…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's perfect, Illyana.",
+      "th": "มันสมบูรณ์แบบ อิลียาน่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Flawless.",
+      "th": "ไร้ที่ติ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't dally. I'm thirsty.",
+      "th": "อย่ามัวชักช้า ข้าคอแห้งแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mama! Make Bojan stop!",
+      "th": "ท่านแม่ ห้ามโบยันที"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's run away with my jacks!",
+      "th": "เขาเอาหมากเก็บข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's wrong, Papa? You're making the sad face.",
+      "th": "เป็นอะไรไป ท่านพ่อ ท่านทำหน้าเศร้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no…",
+      "th": "ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is wrong.",
+      "th": "นี่ไม่ใช่ความจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Enough mind games, Kitsu. No more fantasies.",
+      "th": "เลิกป่วนจิตข้าได้แล้ว คิทซุ เลิกสร้างภาพมายาได้แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "But you swore you'd care for me, didn't you?",
+      "th": "แต่เจ้าสาบานว่าจะดูแลข้าไม่ใช่หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "That you'd protect me.",
+      "th": "สัญญาว่าจะปกป้องข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not real.",
+      "th": "เจ้าไม่ใช่ความจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Truth is no illusion. There's no escaping it.",
+      "th": "ความจริงหาใช่ภาพมายา ไม่มีทางหนีมันได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Get away from me!",
+      "th": "ไปให้พ้นจากข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "You left me here, darling.",
+      "th": "เจ้าทิ้งข้าไว้ที่นี่ ยอดรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stranded in hopes and dreams abandoned.",
+      "th": "ทิ้งข้าไว้กับความหวัง ทอดทิ้งฝันของตัวเอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now you're trying to leave me again.",
+      "th": "แล้วตอนนี้เจ้าพยายามจะทิ้งข้าไปอีก"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only this time, I won't be buried",
+      "th": "เพียงแต่ครั้งนี้ ข้าจะไม่จมอยู่ในเสื้อผ้าอาภรณ์ ราชสำนัก และยศฐาบรรดาศักดิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "-in dresses and courts and titles. -[thunder rumbling]",
+      "th": "ข้าจะไม่จมอยู่ในเสื้อผ้าอาภรณ์ ราชสำนัก และยศฐาบรรดาศักดิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be as you are. Lost and alone.",
+      "th": "ข้าจะเป็นเหมือนเจ้า หลงทางและเปล่าเปลี่ยว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Unloved!",
+      "th": "ไม่มีใครรัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Illyana. I love you.",
+      "th": "ไม่นะ อิลียาน่า ข้ารักเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Coin's your real lover.",
+      "th": "เจ้ารักเงินต่างหาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "More of her to pluck out there, isn't there?",
+      "th": "มีให้กอบโกยอีกมากใช่ไหม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop it.",
+      "th": "หยุดนะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can be whatever we imagine here, Vesemir.",
+      "th": "ณ ที่แห่งนี้เราเป็นอะไรก็ได้ ที่เราต้องการ เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can be rich.",
+      "th": "เรารวยได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Together. Here, time is nothing. -[thunder rumbling]",
+      "th": "ด้วยกัน ที่นี่ เวลาไม่สำคัญ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out there, I can save her.",
+      "th": "แต่ข้างนอกนั่น ข้าช่วยนางได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's worth more.",
+      "th": "นั่นมีค่ามากกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now, out of my head.",
+      "th": "ออกไปจากหัวข้าเดี๋ยวนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tetra] I know you never asked for this.",
+      "th": "ข้ารู้ว่าเจ้าไม่เคยอยากให้เป็นแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "You were only a child.",
+      "th": "ตอนนั้นเจ้ายังเด็ก"
+    }
+  },
+  {
+    "translation": {
+      "en": "How were you to know?",
+      "th": "เจ้าจะไปรู้ได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir!",
+      "th": "เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay back!",
+      "th": "ไปหลบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "You come at me with magic tricks?",
+      "th": "เจ้าโจมตีข้าด้วยเวทมนตร์หรือ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, no… [gasps]",
+      "th": "ไม่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No!",
+      "th": "ไม่นะ ไม่"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, no, no, no!",
+      "th": "ไม่ๆๆๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lady Zerbst] Vesemir.",
+      "th": "เวเซเมียร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "This…",
+      "th": "นี่…"
+    }
+  },
+  {
+    "translation": {
+      "en": "this isn't real.",
+      "th": "นี่มันไม่จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know much about witchers when I was young.",
+      "th": "สมัยเด็กๆ ข้าไม่รู้เกี่ยวกับวิทเชอร์มากนัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know you could smell better, hear better.",
+      "th": "ข้าไม่รู้ว่าเจ้าจมูกดีกว่า หูดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know that the witcher sensed me in the cupboard,",
+      "th": "ข้าไม่รู้ว่าวิทเชอร์สัมผัสได้ว่าข้าแอบอยู่ในตู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "trembling, barely breathing,",
+      "th": "ตัวสั่นเทา แทบไม่กล้าหายใจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "watching as he drove his sword through my mother.",
+      "th": "ได้แต่มองขณะที่เขาใช้ดาบแทงแม่ข้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silly sorceress who'd crossed a gullible priest.",
+      "th": "ผู้วิเศษโง่ๆ ที่มีเรื่องกับนักบวชหูเบา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Monsters to kill monsters.",
+      "th": "อสูรย่อมฆ่าอสูร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Aye…",
+      "th": "ใช่"
+    }
+  },
+  {
+    "translation": {
+      "en": "So…",
+      "th": "ดังนั้น…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take her and go.",
+      "th": "พานางไปซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sven? The others?",
+      "th": "สเวนล่ะ คนอื่นๆ ล่ะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead.",
+      "th": "ตายหมดแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "All my boys.",
+      "th": "ศิษย์ของข้าทุกคน"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Save you. -[Lady Zerbst] The young ones…",
+      "th": "ยกเว้นเจ้า พวกเด็กๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "-escaped. -[Vesemir chuckles]",
+      "th": "หนีไปได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep your strength.",
+      "th": "เก็บแรงไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're your boys now, young fella.",
+      "th": "พวกเขาเป็นศิษย์ของเจ้าแล้ว เจ้าหนู"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make 'em witchers.",
+      "th": "ทำให้พวกเขาเป็นวิทเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "Make 'em…",
+      "th": "ทำให้พวกเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "somethin' more.",
+      "th": "ยอดเยี่ยมกว่าเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "To better men.",
+      "th": "เป็นคนที่ดีกว่าเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "She didn't ask for this.",
+      "th": "นางไม่ได้อยากให้เป็นแบบนี้"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[ice cracking] -Where are we?",
+      "th": "เราอยู่ที่ไหนกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "Beautiful. [sighs]",
+      "th": "สวยมาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "It doesn't seem… real.",
+      "th": "ราวกับไม่ใช่ความจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do we even know where we're going? -[horse neighs]",
+      "th": "เรารู้หรือเปล่าเนี่ยว่ากำลังไปไหน"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is the last time I allow any of you to ever hesitate.",
+      "th": "นี่เป็นครั้งสุดท้ายที่ข้าจะอนุญาตให้เจ้าลังเล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Decide.",
+      "th": "ตัดสินใจซะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they hate us.",
+      "th": "แต่พวกเขาเกลียดเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "There'll always be another monster…",
+      "th": "จะมีสัตว์ประหลาดตัวอื่นอีกเสมอ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Geralt.",
+      "th": "เกรอลท์"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] ♪ There once was a lord ♪",
+      "th": "เคยมีท่านลอร์ดคนหนึ่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ In dark woods ♪",
+      "th": "ในป่ามืด"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Wearing a strange ♪",
+      "th": "สวมเครื่องเงิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Silver band ♪",
+      "th": "ประหลาด"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Around ♪",
+      "th": "อยู่รอบๆ"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ His hand ♪",
+      "th": "มือของเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ For the bandit also ♪",
+      "th": "เพราะโจรก็"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Feared ♪",
+      "th": "กลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "th": "อสูรร้ายเช่นกัน"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Monsters ♪",
+      "th": "คำบรรยายโดย ต้องตา สุธรรมรังษี"
+    }
+  }
+]

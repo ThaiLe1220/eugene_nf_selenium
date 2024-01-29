@@ -1,0 +1,854 @@
+[
+  {
+    "translation": {
+      "en": "[narrator] In a distant world’s time of need,",
+      "th": "บนโลกที่รกร้างห่างไกล"
+    }
+  },
+  {
+    "translation": {
+      "en": "an ancient prophecy summoned the Toa.",
+      "th": "ที่ซึ่งคำพยากรณ์โบราณได้อัญเชิญพวกโทอา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Six legendary heroes,",
+      "th": "หกผู้กล้าในตำนาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "each powered by the energy of the island’s elements.",
+      "th": "ซึ่งได้พละกำลังมาจากธาตุต่างๆบนเกาะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Tahu, Toa of Fire.",
+      "th": "ทาฮู โทอาแห่งไฟ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, Toa of Ice.",
+      "th": "โคพาก้า โทอาแห่งน้ำแข็ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pohatu, Toa of Stone.",
+      "th": "โพฮาตู โทอาแห่งหินผา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali, Toa of Water.",
+      "th": "กาลี โทอาแห่งน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Onua, Toa of Earth.",
+      "th": "โอนัว โทอาแห่งปฐพี"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lewa, Toa of the Jungle.",
+      "th": "ลีว่า โทอาแห่งพงไพร"
+    }
+  },
+  {
+    "translation": {
+      "en": "Much has happened, I know.",
+      "th": "ข้ารู้ว่าเกิดอะไรมากมาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "After so many thousands of years,",
+      "th": "หลังจากผ่านไปหลายพันปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "your families have returned",
+      "th": "ครอบครัวของพวกเจ้าได้กลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "to rebuild the Mask Makers’ City.",
+      "th": "ฟื้นฟูเมืองแห่งช่างทำหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "If must seem strange.",
+      "th": "มันต้องดูแปลกๆอยู่แล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have only known the region of the Jungle.",
+      "th": "เจ้ารู้จักแค่เพียงเขตผืนป่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you, the regions of Stone and Ice and Water.",
+      "th": "ส่วนพวกเจ้า ก็รู้แค่เขตหินผา น้ำแข็งและน้ำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But we are Okotans,",
+      "th": "แต่เราคือโอโกโต้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and once, this was the centre of our world.",
+      "th": "และที่นี่เคยเป็นศูนย์กลางของโลก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now we have returned.",
+      "th": "ตอนนี้เราได้กลับมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "I’m sure you have questions, but wait.",
+      "th": "พวกเจ้าคงมีคำถามข้องใจ แต่เดี๋ยวก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "First, let me tell you how we came to return to our city",
+      "th": "ข้าจะเล่าให้ฟังว่าเรากลับมายังเมืองนี้ได้ยังไง"
+    }
+  },
+  {
+    "translation": {
+      "en": "and give you a taste of what may lay ahead.",
+      "th": "ให้พวกเจ้ารู้ไว้ว่ามีอะไรรออยู่เบื้องหน้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sit.",
+      "th": "นั่งก่อนสิ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Once, this was a beautiful city.",
+      "th": "ครั้งหนึ่งเมืองนี้ช่างแสนงดงาม"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I like to think it will be again.",
+      "th": "และข้าก็อยากให้กลับมางดงามดังเดิม"
+    }
+  },
+  {
+    "translation": {
+      "en": "But that will depend on more than your parents.",
+      "th": "แต่จะเกิดขึ้นได้ ต้องมีมากกว่าพ่อแม่พวกเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "It will depend on six heroes, from another time and place!",
+      "th": "เมืองนี้ฝากไว้กับผู้กล้าทั้งหก จากต่างที่ต่างวาระ"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it will depend on if they can harness the elements that give our planet life.",
+      "th": "และอยู่ที่ว่าพวกเขาจะควบคุมพลังธาตุต่างๆ ที่ทำให้โลกเราดำรงอยู่ได้มั้ย"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know them from the regions where you live.",
+      "th": "เจ้าก็รู้ว่าพวกเขามาจากถิ่นที่อยู่ของพวกเจ้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fire, Water,",
+      "th": "นั่นคือไฟ น้ำ ป่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Jungle, Earth, Stone and Ice.",
+      "th": "นั่นคือไฟ น้ำ ป่า ดิน หินและน้ำแข็ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "For you, they are just corners of our island,",
+      "th": "สำหรับพวกเจ้า พวกเขาก็แค่อยู่ตามเกาะแก่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "but to the Toa, they are lifeblood.",
+      "th": "แต่สำหรับพวกโทอา พวกเขาเปรียบเหมือนเส้นเลือดใหญ่"
+    }
+  },
+  {
+    "translation": {
+      "en": "But before there was trouble, there was peace.",
+      "th": "แต่ก่อนที่นี่จะเกิดภัยพิบัติ ที่นี่แสนสงบสุข"
+    }
+  },
+  {
+    "translation": {
+      "en": "And maybe that’s where we should begin.",
+      "th": "งั้นเริ่มจากช่วงนั้นดีกว่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "More than a thousand years ago,",
+      "th": "นานนับหลายพันปีมาแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "this was a peaceful and vibrant place.",
+      "th": "ที่นี่คือดินแดนอันรื่นรมย์เงียบสงบ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our Island’s two protectors, Ekimu and his brother, Makuta,",
+      "th": "สองผู้ปกครองเกาะเรา เอคิมุกับมาคูต้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "harnessed the power of the elements and forged them into masks.",
+      "th": "ควบคุมพลังธาตุทั้งมวลและสร้างเป็นหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "But Makuta grew jealous of his brother and hungry for the power.",
+      "th": "แต่มาคูต้าเกิดอิจฉาพี่ชายตัวเอง และหิวกระหายอำนาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "So unbeknownst to his brother, Ekimu,",
+      "th": "เอคิมุ พี่ชายผู้ไม่รู้ระแคะระคาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "the jealous Makuta broke a sacred law",
+      "th": "มาคูต้า ผู้มีแต่ความอิจฉาทำผิดกฎอันศักดิ์สิทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and created a mask that combined the power of all the elements.",
+      "th": "และสร้างหน้ากากที่รวมพลังแห่งธาตุทั้งมวลไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "He called it the Mask of Ultimate Power.",
+      "th": "เขาเรียกมันว่าหน้ากากแห่งขุมพลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "But, as the power of the mask surged through Makuta,",
+      "th": "แต่พลังของหน้ากากแผ่ซ่านเข้ากายมาคูต้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "he became dark and evil.",
+      "th": "จนเขากลายเป็นปิศาจชั่วร้าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Knowing he had to act quickly, Ekimu took the sacred hammer",
+      "th": "เมื่อรู้ว่าต้องรีบจัดการ เอคิมุใช้ค้อนศักดิ์สิทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "and knocked the mask from the face of his brother.",
+      "th": "ทุบหน้ากากที่น้องเขาใส่อยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu saved Okoto, but the cost was great.",
+      "th": "เอคิมุช่วยเกาะโอโกโต้ไว้ได้ แต่กลับต้องสูญเสียครั้งใหญ่ ทั้งเอคิมุและมาคูต้าต่างหลับใหลชั่วกาล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Both Ekimu and Makuta were plunged into endless sleep.",
+      "th": "ทั้งเอคิมุและมาคูต้าต่างหลับใหลชั่วกาล"
+    }
+  },
+  {
+    "translation": {
+      "en": "Our ancestors laid Ekimu to rest.",
+      "th": "บรรพบุรุษของเราปล่อยให้เอคิมุได้หลับใหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "The masks, too powerful to be trusted to mortals,",
+      "th": "หน้ากากอันทรงพลังที่เชื่อกันว่า เป็นหน้ากากมรณะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "were hidden away forever.",
+      "th": "ถูกนำไปเก็บซ่อนไว้"
+    }
+  },
+  {
+    "translation": {
+      "en": "And after Ekimu was sealed into a secret tomb,",
+      "th": "หลังจากเอคิมุปิดตายหลุมศพศักดิ์สิทธิ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Mask Makers’ City was abandoned.",
+      "th": "เมืองแห่งช่างทำหน้ากากก็รกร้างว่างเปล่า"
+    }
+  },
+  {
+    "translation": {
+      "en": "Although Makuta lay buried deep beneath our island,",
+      "th": "แม้มาคูต้าจะถูกฝังลึกอยู่ใต้เกาะ"
+    }
+  },
+  {
+    "translation": {
+      "en": "his spirit remained powerful.",
+      "th": "แต่วิญญาณของเขายังทรงอำนาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "He summoned dark forces to find his Mask and awaken him.",
+      "th": "เขารวบรวมกองทัพเงา ให้ตามหาหน้ากากและปลุกเขาขึ้นมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "If Makuta’s minions managed to awaken him,",
+      "th": "ถ้าสมุนของมาคูต้าปลุกเขาขึ้นมาได้ เกาะของเราจะตกอยู่ในความมืดมิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "our island would be plunged into darkness.",
+      "th": "เกาะของเราจะตกอยู่ในความมืดมิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "So we, the protectors,",
+      "th": "ดังนั้นเราเหล่าผู้พิทักษ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "gathered and performed an ancient rite.",
+      "th": "จึงมารวมตัวกันทำพิธีโบราณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their legend was carved into the walls of our temples,",
+      "th": "มีการจารึกตำนานของพวกเขาไว้บนผนังวิหาร"
+    }
+  },
+  {
+    "translation": {
+      "en": "and their names were kept alive in our rituals.",
+      "th": "และมีการเอ่ยนามพวกเขาในพิธีเรื่อยมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "These were the Toa.",
+      "th": "พวกเขาก็คือโทอา"
+    }
+  },
+  {
+    "translation": {
+      "en": "And it would be up to them to save Okoto.",
+      "th": "จึงมีแต่พวกเขาที่ช่วยเกาะโอโกโต้ได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa of the Jungle, Lewa,",
+      "th": "ลีว่า โทอาแห่งพงไพร"
+    }
+  },
+  {
+    "translation": {
+      "en": "was fast on his feet and quick witted,",
+      "th": "ผู้ว่องไวปราดเปรียว"
+    }
+  },
+  {
+    "translation": {
+      "en": "like the Jungle that gave him his power.",
+      "th": "ดั่งผืนป่าที่มอบพลังให้กับเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was constantly changing, and the most playful of the group.",
+      "th": "เขาจะคอยเปลี่ยนแปลงอยู่เสมอ และขี้เล่นที่สุดในกลุ่ม"
+    }
+  },
+  {
+    "translation": {
+      "en": "The brooding Pohatu was the most serious of the group.",
+      "th": "โพฮาตู ผู้เคร่งขรึมจะเป็นคนจริงจังที่สุด"
+    }
+  },
+  {
+    "translation": {
+      "en": "And while the Toa of Stone was rarely happy,",
+      "th": "ขณะที่โทอาแห่งหินผาผู้เศร้าสร้อย"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was fearless and powerful.",
+      "th": "เขาช่างหาญกล้าและทรงพลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Kopaka, the Toa of Ice, was fearless and strong,",
+      "th": "โคพาก้า โทอาแห่งน้ำแข็ง ผู้กล้าหาญและแข็งแกร่ง"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he could be as inflexible and cold",
+      "th": "แต่ก็ดื้อรั้นและเย็นชา"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the element that gave him power.",
+      "th": "ตามพลังธาตุที่ได้มา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Gali was as powerful as the others,",
+      "th": "กาลีทรงพลังไม่ต่างจากคนอื่น"
+    }
+  },
+  {
+    "translation": {
+      "en": "but as resilient as the Water that was her element.",
+      "th": "แต่ก็คืนสภาพได้เหมือนน้ำ ตามธาตุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silent, powerful Onua, the Toa of Earth,",
+      "th": "โอนัว ผู้เงียบขรึมและทรงพลัง โทอาแห่งดิน"
+    }
+  },
+  {
+    "translation": {
+      "en": "would provide a foundation.",
+      "th": "จะวางรากฐานให้"
+    }
+  },
+  {
+    "translation": {
+      "en": "Like the Earth that gave him power,",
+      "th": "ดังธาตุดินที่มอบพลังให้เขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was immovable and enduring.",
+      "th": "เขาหนักแน่นและอดทน"
+    }
+  },
+  {
+    "translation": {
+      "en": "There was Tahu, the Toa of Fire,",
+      "th": "ทาฮู โทอาแห่งไฟ"
+    }
+  },
+  {
+    "translation": {
+      "en": "who saw himself as a leader",
+      "th": "ซึ่งคิดว่าตัวเองเป็นผู้นำ"
+    }
+  },
+  {
+    "translation": {
+      "en": "even before he knew there were others like him.",
+      "th": "ก่อนจะรู้ตัวว่ายังมีคนอื่นที่เหมือนเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of their Protectors,",
+      "th": "ด้วยความช่วยเหลือของเหล่าผู้พิทักษ์"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa found the Masks of Power.",
+      "th": "เหล่าโทอาพบหน้ากากแห่งพลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they put on the Masks of Power, an ancient prophecy was fulfilled.",
+      "th": "ขณะที่พวกเขาได้สวมหน้ากากแห่งพลัง คำพยากรณ์โบราณจึงเป็นจริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time,",
+      "th": "นับเป็นครั้งแรก"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa experienced the elemental power that each of them was born to wield.",
+      "th": "ที่เหล่าโทอาได้รับรู้ถึงพลังประจำธาตุ ที่ทุกคนได้มาครอบครอง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa had power, but they needed the wisdom of Ekimu.",
+      "th": "แม้เหล่าโทอาจะมีพลัง แต่ก็ต้องการมันสมองที่ปราดเปรื่องของเอคิมุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only he could guide them to their true destiny.",
+      "th": "มีเขาเท่านั้นที่จะนำทางพวกเขา ไปสู่ชะตากรรมที่แท้จริง"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa’s search for Ekimu brought them here,",
+      "th": "การค้นหาเอคิมุนำพาให้พวกโทอามาถึงที่นี่"
+    }
+  },
+  {
+    "translation": {
+      "en": "to the Mask Makers’ City.",
+      "th": "เมืองแห่งช่างทำหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "But when they arrived, it didn’t look like it does now.",
+      "th": "แต่พอพวกเขามาถึง ที่นั่นดูไม่เหมือนก่อนแล้ว"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, it was a dark place, overrun with evil creatures.",
+      "th": "ตอนนั้นที่นั่นมืดมิด มีแต่ครีเชอร์เพ่นพ่านเต็มไปหมด"
+    }
+  },
+  {
+    "translation": {
+      "en": "And around every corner lay a trap!",
+      "th": "ทุกหนแห่งเต็มไปด้วยกับดัก"
+    }
+  },
+  {
+    "translation": {
+      "en": "And for the first time in a thousand years,",
+      "th": "นับเป็นครั้งแรกในรอบพันปี"
+    }
+  },
+  {
+    "translation": {
+      "en": "the footsteps of the living echoed through the Mask Makers’ City",
+      "th": "ที่มีเสียงเดินดังกึกก้องไปทั่วเมืองช่างทำหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we abandoned so many centuries before.",
+      "th": "ที่เราละทิ้งไปหลายร้อยปีก่อน"
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one,",
+      "th": "เหล่าโทอาค่อยๆทยอยปราบครีเชอร์"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Toa vanquished the creatures Makuta had sent to stop them,",
+      "th": "เหล่าโทอาค่อยๆทยอยปราบครีเชอร์ ที่มาคูต้าส่งมาขวาง"
+    }
+  },
+  {
+    "translation": {
+      "en": "finally defeating the fearsome Skull Scorpions",
+      "th": "จนกำจัดแมงป่องหัวกะโหลกที่น่ากลัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "and reaching Ekimu’s tomb.",
+      "th": "และไปถึงยังหลุมศพของเอคิมุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Toa realised that their history and our planet's were entwined.",
+      "th": "พวกโทอาจึงได้รับรู้อดีตของตัวเอง และโลกที่บิดเบี้ยวของเรา"
+    }
+  },
+  {
+    "translation": {
+      "en": "As they looked upon the sleeping Mask Maker,",
+      "th": "ขณะที่พวกเขาก้มลงมองช่างทำหน้ากากที่หลับใหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "somehow, they knew how to awaken him.",
+      "th": "ดันเกิดรู้วิธีปลุกเขาฟื้นตื่นจากหลับใหล"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six heroes had travelled far into the ancient city,",
+      "th": "หกผู้กล้าเดินท่องดั้นด้นไปยังเมืองโบราณ"
+    }
+  },
+  {
+    "translation": {
+      "en": "defeating many enemies.",
+      "th": "ปราบศัตรูนับไม่ถ้วน"
+    }
+  },
+  {
+    "translation": {
+      "en": "But only by retrieving the Mask of Creation",
+      "th": "แต่แค่การรวบรวมหน้ากากแห่งการสร้างสรรค์"
+    }
+  },
+  {
+    "translation": {
+      "en": "would Ekimu stand a chance against his brother.",
+      "th": "จะทำให้เอคิมุได้ประจันหน้ากับน้องชาย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Makuta’s most powerful minions fought",
+      "th": "ยอดสมุนของมาคูต้าต้านทานไม่ให้พวกโทอา"
+    }
+  },
+  {
+    "translation": {
+      "en": "to keep the Toa from the Mask Makers’ forge.",
+      "th": "ไม่ให้เข้าใกล้โรงตีเหล็กของช่างทำหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the Toa were ready.",
+      "th": "แต่พวกโทอาก็พร้อม"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or so they thought.",
+      "th": "หรือแค่คิดไปเองก็ไม่รู้"
+    }
+  },
+  {
+    "translation": {
+      "en": "They caught the Skull Grinder before he could destroy Ekimu’s mask.",
+      "th": "พวกเขาจับจอมเฉือนหัวกะโหลกไว้ ก่อนจะทำลายหน้ากากของเอคิมุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the creature was as cunning as he was powerful,",
+      "th": "แต่ครีเชอร์ทั้งเหลี่ยมจัด ฝีมือเก่งกาจ"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, knowing the Toa would stop him from destroying the mask,",
+      "th": "และเพราะรู้ว่าพวกโทอาจจะหยุดเขาไว้ ไม่ให้ทำลายหน้ากาก"
+    }
+  },
+  {
+    "translation": {
+      "en": "he put it on and felt its power surge through him.",
+      "th": "เขาจึงสวมมันซะและรับพลังเข้าไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "Filled with the Mask Maker’s power,",
+      "th": "เมื่อพลังของช่างทำหน้ากากเข้าตัว"
+    }
+  },
+  {
+    "translation": {
+      "en": "the Skull Grinder knocked the masks from the faces of the Toa.",
+      "th": "จอมเฉือนหัวกะโหลกฟัน หน้ากากของพวกโทอาจนร่วง"
+    }
+  },
+  {
+    "translation": {
+      "en": "Without their masks, the heroes had lost their power.",
+      "th": "เมื่อไม่มีหน้ากาก ผู้กล้าจึงไร้พลัง"
+    }
+  },
+  {
+    "translation": {
+      "en": "But they knew they must fight on, even if victory seemed impossible.",
+      "th": "แต่ก็รู้ดีว่าต้องฝืนสู้ต่อ แม้แทบจะไม่มีทางชนะได้เลย"
+    }
+  },
+  {
+    "translation": {
+      "en": "The heroes fought bravely until they had nothing more to give.",
+      "th": "เหล่าผู้กล้าเข้าต่อสู้ถวายหัวจนหมดแรง"
+    }
+  },
+  {
+    "translation": {
+      "en": "But their valiant effort gave Ekimu the time he needed.",
+      "th": "แต่ความทุ่มเทของพวกเขาช่วยยื้อเวลาให้เอคิมุ"
+    }
+  },
+  {
+    "translation": {
+      "en": "Now wielding his ancient hammer,",
+      "th": "ค้อนโบราณได้อยู่ในกำมือเขา"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ekimu took back the Mask of Creation",
+      "th": "เอคิมุแย่งชิงหน้ากากแห่งการสร้างสรรค์มาได้"
+    }
+  },
+  {
+    "translation": {
+      "en": "and regained the power he once had.",
+      "th": "และฟื้นพลังกลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "The six Toa had done their duty,",
+      "th": "หกโทอาทำภารกิจลุล่วง"
+    }
+  },
+  {
+    "translation": {
+      "en": "awakened Ekimu and retrieved the Mask of Creation.",
+      "th": "โดยปลุกเอคิมุตื่นจากหลับใหล และชิงหน้ากากแห่งการสร้างสรรค์กลับมา"
+    }
+  },
+  {
+    "translation": {
+      "en": "But evil was not defeated.",
+      "th": "แต่ปิศาจร้ายไม่ยอมแพ้พ่าย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their true fate was still waiting, deep inside the darkness.",
+      "th": "โชคชะตาของพวกเขายังรออยู่ในความมืดมิด"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prophecy had brought the Toa to Okoto.",
+      "th": "คำพยากรณ์นำพาให้พวกโทอามายังเกาะโอโกโต้"
+    }
+  },
+  {
+    "translation": {
+      "en": "But what they’d experienced made them more than just heroes.",
+      "th": "แต่สิ่งที่ได้พบทำให้ทั้งหมดเป็นมากกว่าผู้กล้า"
+    }
+  },
+  {
+    "translation": {
+      "en": "They have become legends.",
+      "th": "พวกเขากลายเป็นตำนาน"
+    }
+  },
+  {
+    "translation": {
+      "en": "But the challenges that lie ahead are huge,",
+      "th": "แต่ความท้าทายครั้งสำคัญกำลังรออยู่"
+    }
+  },
+  {
+    "translation": {
+      "en": "and the future of our entire world is at stake.",
+      "th": "และอนาคตทั่วทั้งโลกกำลังตกอยู่ในอันตราย"
+    }
+  },
+  {
+    "translation": {
+      "en": "Their journey beings anew.",
+      "th": "การเดินทางของพวกเขาเพิ่งเริ่มต้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "With their new armour and weapons, forged by the Mask Maker himself,",
+      "th": "เมื่อได้เกราะและอาวุธชุดใหม่ ที่ช่างทำหน้ากากสร้างขึ้น"
+    }
+  },
+  {
+    "translation": {
+      "en": "the quest continues.",
+      "th": "การสำรวจยังคงดำเนินต่อไป"
+    }
+  },
+  {
+    "translation": {
+      "en": "as the Toa begin the Search for One.",
+      "th": "ขณะที่พวกโทอาเริ่มการค้นหาผู้ยิ่งใหญ่"
+    }
+  }
+]

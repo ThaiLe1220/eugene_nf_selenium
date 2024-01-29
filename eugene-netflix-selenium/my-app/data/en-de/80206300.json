@@ -1,0 +1,5336 @@
+[
+  {
+    "translation": {
+      "en": "What did you eat?",
+      "de": "Was haben Sie gegessen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You had rations for two weeks.",
+      "de": "Sie hatten Proviant für zwei Wochen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You were inside for nearly four months.",
+      "de": "Sie waren fast vier Monate da drin."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember eating.",
+      "de": "Ich erinnere mich nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "How long did you think you were inside?",
+      "de": "Wie lange waren Sie dort, denken Sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Days.",
+      "de": "Ein paar Tage."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe weeks.",
+      "de": "Vielleicht Wochen."
+    }
+  },
+  {
+    "translation": {
+      "en": "What happened to Josie Radek?",
+      "de": "Was ist Josie Radek zugestoßen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know. -What about Sheppard?",
+      "de": "-Ich weiß es nicht. -Und Sheppard?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dead.",
+      "de": "Tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "de": "Ich weiß es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then what do you know?",
+      "de": "Und was wissen Sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] This is a cell.",
+      "de": "Das ist eine Zelle."
+    }
+  },
+  {
+    "translation": {
+      "en": "Like all cells, it is born from an existing cell.",
+      "de": "Wie alle Zellen wird sie aus einer existierenden Zelle geboren."
+    }
+  },
+  {
+    "translation": {
+      "en": "And by extension,",
+      "de": "Infolgedessen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "all cells were ultimately born from one cell.",
+      "de": "...werden alle Zellen aus einer einzelnen Zelle geboren."
+    }
+  },
+  {
+    "translation": {
+      "en": "A single organism alone on planet Earth,",
+      "de": "Ein einzelner Organismus allein auf der Erde,"
+    }
+  },
+  {
+    "translation": {
+      "en": "perhaps alone in the universe.",
+      "de": "unter Umständen im Universum."
+    }
+  },
+  {
+    "translation": {
+      "en": "About four billion years ago...",
+      "de": "Vor etwa vier Milliarden Jahren..."
+    }
+  },
+  {
+    "translation": {
+      "en": "one became two, two became four.",
+      "de": "...wurde aus einer zwei, aus zwei wurden vier."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then eight, 16, 32.",
+      "de": "Dann acht, 16, 32."
+    }
+  },
+  {
+    "translation": {
+      "en": "The rhythm of the dividing pair...",
+      "de": "Der Rhythmus des sich teilenden Paars..."
+    }
+  },
+  {
+    "translation": {
+      "en": "which becomes the structure of every microbe,",
+      "de": "...das zur Struktur jeder Mikrobe wird,"
+    }
+  },
+  {
+    "translation": {
+      "en": "blade of grass, sea creature, land creature...",
+      "de": "jedes Grashalms, Meerestieres, Landtieres..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and human.",
+      "de": "...und Menschen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The structure of everything that lives...",
+      "de": "Die Struktur von allem Lebendigen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and everything that dies.",
+      "de": "...und allem Toten."
+    }
+  },
+  {
+    "translation": {
+      "en": "As students of medicine, as the doctors of tomorrow,",
+      "de": "Als Medizinstudenten, als zukünftige Ärzte,"
+    }
+  },
+  {
+    "translation": {
+      "en": "this is where you come in.",
+      "de": "kommen Sie nun ins Spiel."
+    }
+  },
+  {
+    "translation": {
+      "en": "The cell we're looking at is from a tumor.",
+      "de": "Diese Zelle ist eine Tumorzelle."
+    }
+  },
+  {
+    "translation": {
+      "en": "Female patient, early 30s, taken from the cervix.",
+      "de": "Sie stammt vom Gebärmutterhals einer Patientin, Anfang 30."
+    }
+  },
+  {
+    "translation": {
+      "en": "Over the course of the next term,",
+      "de": "In diesem Semester"
+    }
+  },
+  {
+    "translation": {
+      "en": "we will be closely examining cancer cells in vitro",
+      "de": "werden wir Krebszellen in vitro genau untersuchen"
+    }
+  },
+  {
+    "translation": {
+      "en": "and discussing autophagic activity.",
+      "de": "und die Autophagie-Aktivität besprechen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Professor? -[woman] Hey, Katie.",
+      "de": "-Professor? -Hey, Katie."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Katie] I read the John Sulston paper last night.",
+      "de": "Ich habe John Sulstons Arbeit gelesen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I still feel like I'm not working hard enough.",
+      "de": "Ich lerne trotzdem nicht genug."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm behind the other students.",
+      "de": "Ich hänge hinterher."
+    }
+  },
+  {
+    "translation": {
+      "en": "-They find everything easier. -[woman] You aren't, and they don't.",
+      "de": "-Allen fällt es leichter. -So ist das nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay? -Lena!",
+      "de": "-Ok? -Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dan] I've been looking for you at lunch, but you never seem to be around.",
+      "de": "Ich habe dich gesucht, aber du bist nie da."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been catching up on some writing.",
+      "de": "Ich bin am Schreiben."
+    }
+  },
+  {
+    "translation": {
+      "en": "All work and no play, it sounds... not healthy.",
+      "de": "Nur Arbeit, keine Freizeit. Das ist nicht gesund."
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanted to ask,",
+      "de": "Ich wollte dich fragen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-do you have plans Saturday? -[clicks tongue]",
+      "de": "Schon Pläne am Samstag?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sarah and I have a few people over.",
+      "de": "Sarah und ich laden einige Freunde ein."
+    }
+  },
+  {
+    "translation": {
+      "en": "A garden party while the weather holds.",
+      "de": "Eine Gartenparty, solange das Wetter hält."
+    }
+  },
+  {
+    "translation": {
+      "en": "Actually, I do have plans.",
+      "de": "Ich habe Pläne."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it'll be fun.",
+      "de": "Das wäre amüsant."
+    }
+  },
+  {
+    "translation": {
+      "en": "Thanks, Dan, I really appreciate it, but I'm going to paint our bedr--",
+      "de": "Danke. Das ist nett, aber ich streiche unser Schlaf..."
+    }
+  },
+  {
+    "translation": {
+      "en": "The bedroom.",
+      "de": "Das Schlafzimmer."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's been a year, Lena.",
+      "de": "Es ist ein Jahr her."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're allowed to come to a barbecue. It is not a betrayal",
+      "de": "Du kannst zu einer Party gehen. Damit verrätst oder beleidigst du nicht die Erinnerung an ihn."
+    }
+  },
+  {
+    "translation": {
+      "en": "or an insult to his memory.",
+      "de": "Damit verrätst oder beleidigst du nicht die Erinnerung an ihn."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna paint the bedroom.",
+      "de": "Ich streiche das Schlafzimmer."
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ You'll see something certain ♪ -Oh, God.",
+      "de": "Oh Gott."
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Confusion has its cost ♪ -Oh, my God. Oh, my God!",
+      "de": "Oh mein Gott."
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Who lingers ♪ -Oh, my God. I thought you were gone. ♪ Saying she is lost ♪",
+      "de": "Ich dachte, du wärst tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "No one knew anything about your unit.",
+      "de": "Keiner wusste von deiner Einheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "I contacted everyone.",
+      "de": "Ich kontaktierte jeden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Everyone I could.",
+      "de": "Jeden, den ich konnte."
+    }
+  },
+  {
+    "translation": {
+      "en": "The other partners knew just as little as me.",
+      "de": "Die anderen Partner wussten genauso wenig wie ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it covert?",
+      "de": "War es geheim?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mm... Maybe.",
+      "de": "Vielleicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that mean, \"maybe\"?",
+      "de": "Was bedeutet \"vielleicht\"?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, yeah, it was covert. Yeah, I think so.",
+      "de": "Ok, ja, es war geheim. Ich denke schon."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pakistan again?",
+      "de": "Wieder Pakistan?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I-- I don't know where it was, or...",
+      "de": "Ich weiß nicht, wo es war, oder..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what it was.",
+      "de": "...was es war."
+    }
+  },
+  {
+    "translation": {
+      "en": "How is that possible? [stammers] Was it warm?",
+      "de": "Wie ist das möglich? War... War es warm?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was there snow?",
+      "de": "Lag Schnee?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did the people there speak Portuguese, or Swahili, or Pashto?",
+      "de": "Sprach man Portugiesisch, Suaheli, Paschto?"
+    }
+  },
+  {
+    "translation": {
+      "en": "How long have you been back?",
+      "de": "Seit wann bist du zurück?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "de": "Ich weiß es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "How'd you get back? What base did you fly into?",
+      "de": "Wie kamst du her? Über welchen Stützpunkt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know. -Your unit, did they come back with you?",
+      "de": "Weiß nicht. Der Rest deiner Einheit, kamen sie mit dir?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be able to tell me something.",
+      "de": "Du musst mir doch etwas sagen können."
+    }
+  },
+  {
+    "translation": {
+      "en": "You vanished off the face of the earth for 12 months.",
+      "de": "Du warst 12 Monate vom Erdboden verschluckt."
+    }
+  },
+  {
+    "translation": {
+      "en": "I deserve a better explanation than no explanation.",
+      "de": "Ich verdiene eine bessere Erklärung."
+    }
+  },
+  {
+    "translation": {
+      "en": "Does it matter?",
+      "de": "Ist es wichtig?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Kane...",
+      "de": "Kane..."
+    }
+  },
+  {
+    "translation": {
+      "en": "how did you get home?",
+      "de": "...wie kamst du nach Hause?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was outside.",
+      "de": "Ich war draußen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Outside the house?",
+      "de": "Vorm Haus?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I was outside the room.",
+      "de": "Nein, vorm Zimmer."
+    }
+  },
+  {
+    "translation": {
+      "en": "The room with the bed.",
+      "de": "Das Zimmer mit dem Bett."
+    }
+  },
+  {
+    "translation": {
+      "en": "The door was open, and...",
+      "de": "Die Tür war offen und..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I saw you.",
+      "de": "Ich habe dich gesehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I recognized you.",
+      "de": "Ich habe dich erkannt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your face.",
+      "de": "Dein Gesicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't feel very well.",
+      "de": "Ich fühle mich nicht so gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby. -[coughing] -I'm right here with you.",
+      "de": "Bleib bei mir, Schatz. Ich bin bei dir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Male, 31, hemorrhage, in seizure.",
+      "de": "Männlich, 31, Blutung, Krampfanfall."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stay with me, baby. I love you.",
+      "de": "Bleib bei mir, Schatz. Ich liebe dich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Baby, look at me. Can you do something?!",
+      "de": "Schatz, schau mich an. Können Sie etwas tun?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] You call for a police escort?",
+      "de": "Wurde eine Polizeieskorte gerufen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] Hey, easy, easy!",
+      "de": "Hey, langsam."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Out of the truck, now!",
+      "de": "Sofort aus dem Wagen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[men shouting] -[Lena] What are you doing?",
+      "de": "Was machen Sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man 2] Out! -[paramedic] Don't shoot!",
+      "de": "-Raus da. -Nicht schießen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man 2] Out! Move!",
+      "de": "Raus! Bewegung!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Out, out, out!",
+      "de": "Raus!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What's going on?",
+      "de": "Was ist los?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[paramedic] What are you doing? You can't move him!",
+      "de": "Was tun Sie? Bewegen Sie ihn nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go! Let him go!",
+      "de": "Lassen Sie ihn los!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let him go!",
+      "de": "Lassen Sie ihn los!"
+    }
+  },
+  {
+    "translation": {
+      "en": "You must be feeling dreadful.",
+      "de": "Sie müssen sich furchtbar fühlen."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a hangover from the sedative you were given.",
+      "de": "Das ist der Kater vom Betäubungsmittel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, sit down.",
+      "de": "Setzen Sie sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are you?",
+      "de": "Wer sind Sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My name is Dr. Ventress.",
+      "de": "Mein Name ist Dr. Ventress."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a psychologist.",
+      "de": "Ich bin Psychologin."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why am I talking to a psychologist?",
+      "de": "Warum rede ich mit einer Psychologin?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Am I in a psychiatric hospital?",
+      "de": "Bin ich in der Psychiatrie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -[Lena] Then what?",
+      "de": "-Nein. -Wo sonst?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where am I?",
+      "de": "Wo bin ich?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where's my husband?",
+      "de": "Wo ist mein Mann?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You served in the military for seven years.",
+      "de": "Sie dienten sieben Jahre im Militär."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a professor from Johns Hopkins.",
+      "de": "Ich bin eine Professorin an der Johns Hopkins."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to know what the fuck I'm doing here.",
+      "de": "Warum zur Hölle bin ich hier?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your research area is the genetically programmed life cycle of a cell.",
+      "de": "Ihr Forschungsgebiet ist der genetisch programmierte Lebenslauf einer Zelle."
+    }
+  },
+  {
+    "translation": {
+      "en": "Where is my husband?",
+      "de": "Wo ist mein Mann?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'd like to talk about Sergeant Kane.",
+      "de": "Ja, ich möchte über Sergeant Kane sprechen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When did he arrive back home?",
+      "de": "Wann kam er zu Hause an?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I want to see a lawyer. -You're not gonna be able to.",
+      "de": "-Ich möchte einen Anwalt sprechen. -Das geht nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he explain how he got back?",
+      "de": "Sagte er, wie er zurückkam?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-No. -Did he contact you at any point",
+      "de": "-Nein. -Hatte er Sie kontaktiert,"
+    }
+  },
+  {
+    "translation": {
+      "en": "while he was away?",
+      "de": "während er weg war?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] What did he tell you about his mission when he returned?",
+      "de": "Was erzählte er von der Mission, als er zurückkam?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nothing. -What about before he left?",
+      "de": "-Nichts. -Und bevor er ging?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did he ever mention where he was going, what he was doing?",
+      "de": "Hat er je erwähnt, wohin er geht, was er tut?"
+    }
+  },
+  {
+    "translation": {
+      "en": "He never said, I never asked.",
+      "de": "Er sagte nichts, ich fragte nie."
+    }
+  },
+  {
+    "translation": {
+      "en": "But you made regular requests for information from his unit CO.",
+      "de": "Aber Sie verlangten stets Informationen von seiner Einheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "Until six months ago, and then you stopped.",
+      "de": "Vor sechs Monaten hörten Sie auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why was that? Thought he was dead?",
+      "de": "Warum? Dachten Sie, er sei tot?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Time to move on?",
+      "de": "Zeit, nach vorne zu blicken?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not easy to move on.",
+      "de": "Das ist nicht einfach."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't.",
+      "de": "Das tat ich nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done answering questions. It's your turn.",
+      "de": "Schluss mit der Fragerei. Jetzt sind Sie dran."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your husband's here.",
+      "de": "Ihr Mann ist hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "He's extremely ill.",
+      "de": "Er ist schwer krank."
+    }
+  },
+  {
+    "translation": {
+      "en": "-In what way? -[Ventress] Multiple organ failure.",
+      "de": "Inwiefern? Mehrfaches Organversagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Massive internal bleeding.",
+      "de": "Starke innere Blutungen."
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have been exposed to some sort of radiation,",
+      "de": "Er muss wohl Strahlung ausgesetzt gewesen sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "some kind of virus.",
+      "de": "Oder einem Virus."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to tell me where he was, what he was doing.",
+      "de": "Sagen Sie mir, wo er war, was er tat."
+    }
+  },
+  {
+    "translation": {
+      "en": "I could actually help him.",
+      "de": "Ich könnte ihm helfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] A religious event.",
+      "de": "Ein religiöses Ereignis."
+    }
+  },
+  {
+    "translation": {
+      "en": "An extraterrestrial event.",
+      "de": "Ein außerirdisches Ereignis."
+    }
+  },
+  {
+    "translation": {
+      "en": "A higher dimension.",
+      "de": "Eine höhere Dimension."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have many theories,",
+      "de": "Wir haben viele Theorien."
+    }
+  },
+  {
+    "translation": {
+      "en": "few facts.",
+      "de": "Wenige Fakten."
+    }
+  },
+  {
+    "translation": {
+      "en": "It started around three years ago.",
+      "de": "Es begann vor etwa drei Jahren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Blackwater National Park reported that a lighthouse was surrounded",
+      "de": "Der Blackwater National Park meldete, ein Leuchtturm wäre umgeben von etwas,"
+    }
+  },
+  {
+    "translation": {
+      "en": "by something they termed \"a shimmer.\"",
+      "de": "das sie als \"Schimmer\" bezeichneten."
+    }
+  },
+  {
+    "translation": {
+      "en": "One of the wardens went in to investigate.",
+      "de": "Einer der Wächter wollte es untersuchen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never returned.",
+      "de": "Er kam nie zurück."
+    }
+  },
+  {
+    "translation": {
+      "en": "The event was classified.",
+      "de": "Es wurde als geheim eingestuft."
+    }
+  },
+  {
+    "translation": {
+      "en": "Since then, we've approached by land, by sea,",
+      "de": "Seither näherten wir uns von Land, übers Meer,"
+    }
+  },
+  {
+    "translation": {
+      "en": "sent in drones, animals, and teams of people.",
+      "de": "schickten Drohnen, Tiere und Menschen."
+    }
+  },
+  {
+    "translation": {
+      "en": "But nothing comes back.",
+      "de": "Aber nichts kam zurück."
+    }
+  },
+  {
+    "translation": {
+      "en": "And the boundary's getting bigger. It's expanding.",
+      "de": "Die Grenze wird größer, es breitet sich aus."
+    }
+  },
+  {
+    "translation": {
+      "en": "So far, it's eating into barely populated swampland,",
+      "de": "Bisher frisst es nur kaum bewohntes Sumpfgebiet,"
+    }
+  },
+  {
+    "translation": {
+      "en": "which, you know, we evacuated under the pretext of a chemical spill,",
+      "de": "das wir unter dem Vorwand eines Chemieunfalls evakuierten."
+    }
+  },
+  {
+    "translation": {
+      "en": "but... that won't last much longer.",
+      "de": "Aber das wird nicht mehr länger gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "In a few months, the area will have grown to where we are right now.",
+      "de": "In wenigen Monaten wird es uns erreichen."
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we're talking cities...",
+      "de": "Dann reden wir von Städten..."
+    }
+  },
+  {
+    "translation": {
+      "en": "states...",
+      "de": "...Staaten..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and so on.",
+      "de": "...und so weiter."
+    }
+  },
+  {
+    "translation": {
+      "en": "You said nothing comes back.",
+      "de": "Sie sagten, nichts kommt zurück."
+    }
+  },
+  {
+    "translation": {
+      "en": "But something has.",
+      "de": "Aber etwas kam."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] He's dying.",
+      "de": "Er stirbt."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Yes.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to come to an agreement about what to do with you.",
+      "de": "Wir müssen uns mit Ihnen einigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not going to let me go home?",
+      "de": "Sie lassen mich nicht nach Hause?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you want? To go home?",
+      "de": "Das wollen Sie? Nach Hause?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be with him.",
+      "de": "Ich will bei ihm sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're not talking to me.",
+      "de": "Du redest nicht mit mir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorry.",
+      "de": "Tut mir leid."
+    }
+  },
+  {
+    "translation": {
+      "en": "Zoned out.",
+      "de": "Ich war am Nachdenken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Thinking about the next mission?",
+      "de": "Über die nächste Mission?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "I was just looking at the moon.",
+      "de": "Ich sah mir nur den Mond an."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's always so weird seeing it like that in the daylight.",
+      "de": "Es ist so seltsam, ihn bei Tageslicht zu sehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Like God made a mistake.",
+      "de": "Als ob Gott einen Fehler machte."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chuckles] -Left the hall lights on.",
+      "de": "Er ließ das Licht an."
+    }
+  },
+  {
+    "translation": {
+      "en": "God doesn't make mistakes. That's...",
+      "de": "Gott machte keine Fehler. Das ist..."
+    }
+  },
+  {
+    "translation": {
+      "en": "somewhat key to the whole \"being a god\" thing.",
+      "de": "...der Grundsatz des Gottseins."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pretty sure he does.",
+      "de": "Ich bin mir aber sicher."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know he's listening right now, don't you?",
+      "de": "Du weißt, er hört uns zu, ja?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You take a cell,",
+      "de": "Man nehme eine Zelle,"
+    }
+  },
+  {
+    "translation": {
+      "en": "circumvent the Hayflick limit, you can prevent senescence.",
+      "de": "umgehe die Hayflick-Grenze, verhindert die Seneszenz."
+    }
+  },
+  {
+    "translation": {
+      "en": "I was about to make the exact same point.",
+      "de": "Genau das wollte ich auch sagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "It means the cell doesn't grow old, it becomes immortal.",
+      "de": "Das heißt, die Zelle altert nicht, wird unsterblich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keeps dividing, doesn't die.",
+      "de": "Teilt sich weiter, stirbt nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "They say aging is a natural process, but it's actually a fault in our genes.",
+      "de": "Alterung sehen wir als normal an, dabei ist es ein Gendefekt."
+    }
+  },
+  {
+    "translation": {
+      "en": "I get really turned on when you patronize me. It's really hot.",
+      "de": "Es turnt mich an, wenn du so von oben herab redest."
+    }
+  },
+  {
+    "translation": {
+      "en": "Without it, I could keep looking like this forever.",
+      "de": "Ich könnte für immer so aussehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, okay. -Well, that could constitute a mistake. -[laughs]",
+      "de": "Ok, das könnte durchaus ein Fehler sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "You didn't tell me where you're heading this time.",
+      "de": "Du sagtest nicht, wo du diesmal hingehst."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know there's something strange about this mission.",
+      "de": "Ich weiß, etwas stimmt nicht mit dieser Mission."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "de": "Warum?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The silence around it is louder than usual.",
+      "de": "Das Schweigen ist lauter als sonst."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kind of angling for a clue here.",
+      "de": "Ich versuche, etwas aus dir rauszukriegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "So...?",
+      "de": "Also?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We'll be under the same hemisphere.",
+      "de": "Wir werden in derselben Hemisphäre sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "What does that tell me?",
+      "de": "Was sagt mir das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It tells you that if you step outside and you look up...",
+      "de": "Wenn du nach draußen gehst und nach oben siehst..."
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll be looking at the same stars.",
+      "de": "...sehen wir dieselben Sterne."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Holy fucking shit. -What?",
+      "de": "-Verdammte Scheiße. -Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Are you kidding? -What?",
+      "de": "-Machst du Witze? -Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that's what I do while you're away?",
+      "de": "Du denkst, das tue ich, wenn du weg bist?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -You think I'm out in the garden,",
+      "de": "-Was? -Du denkst, ich bin im Garten"
+    }
+  },
+  {
+    "translation": {
+      "en": "pining, looking up at the sky?",
+      "de": "und sehe schmachtend in den Himmel?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[scoffs] Shut up. All right. -Oh, to think my beloved Kane...",
+      "de": "-Klappe. Ok. -Dass -mein geliebter Kane... -Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay. Uh-huh. -...is looking at the selfsame moon.",
+      "de": "-mein geliebter Kane... -Ok. ...denselben Mond anschaut."
+    }
+  },
+  {
+    "translation": {
+      "en": "[chuckling] Stop it.",
+      "de": "Hör auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "[laughing] Oh, my distant celestial friend...",
+      "de": "Oh, mein entfernter, himmlischer Freund..."
+    }
+  },
+  {
+    "translation": {
+      "en": "No. No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "...please care for my brave soldier.",
+      "de": "...kümmere dich um meinen mutigen Soldaten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. You know what? You are disrespectful,",
+      "de": "Gott. Du bist respektlos."
+    }
+  },
+  {
+    "translation": {
+      "en": "seriously, not only to your former comrades in the armed forces,",
+      "de": "Ernsthaft. Gegenüber deinen ehemaligen Kameraden"
+    }
+  },
+  {
+    "translation": {
+      "en": "-but also to the president. -You forgot the flag.",
+      "de": "-und dem Präsidenten. -Und die Flagge?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, I'm getting-- I'm getting to the motherfucking flag.",
+      "de": "Ich komme noch zu der verdammten Flagge."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, my hero.",
+      "de": "Oh, mein Held."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Screw you. -Okay.",
+      "de": "-Jetzt bist du fällig. -Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "[woman] She's all by herself. Don't you think we should make friends?",
+      "de": "Sie ist ganz alleine. Sollen wir uns anfreunden?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[woman 2] Well, obviously you should. -[woman] Yep, I'll do it.",
+      "de": "-Klar, das solltest du. -Ja, das tue ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Am I intruding? -No, not at all.",
+      "de": "-Störe ich? -Überhaupt nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cool. Phew. [chuckles]",
+      "de": "Cool."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, I always see you here alone. It's...",
+      "de": "Es scheint, du bist immer alleine."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm guessing you probably feel weird or awkward.",
+      "de": "Du fühlst dich sicher komisch oder unwohl."
+    }
+  },
+  {
+    "translation": {
+      "en": "Somewhat, I guess.",
+      "de": "Irgendwie schon."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't. Seriously, don't.",
+      "de": "Brauchst du nicht. Ehrlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "The people here put themselves to sleep in the fetal position",
+      "de": "Die Leute hier schlafen in Fötusstellung ein"
+    }
+  },
+  {
+    "translation": {
+      "en": "making cooing noises.",
+      "de": "und gurren dabei."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's freaky, you know. [chuckles]",
+      "de": "Das ist abgedreht."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm Anya. -Lena.",
+      "de": "-Ich bin Anya. -Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Nice to meet you. -You, too.",
+      "de": "-Freut mich. -Mich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, why don't you come and meet my crew?",
+      "de": "Ich stelle dich meiner Crew vor."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come make friends. Come on.",
+      "de": "Komm, freunde dich an."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ladies, meet Lena.",
+      "de": "Meine Damen, das ist Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena and woman] Hi nice to meet you.",
+      "de": "-Hi. Freut mich. -Freut mich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, that's Cassie Sheppard, and Josie Radek.",
+      "de": "Ja, das ist Cassie Sheppard und Josie Radek."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Hi. Nice to meet you. -Hi.",
+      "de": "-Hi. Freut mich. -Hi."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie] Do you want to have a seat? -Thank you.",
+      "de": "Setz dich doch. Danke."
+    }
+  },
+  {
+    "translation": {
+      "en": "-So, first day at the Southern Reach. -Yes.",
+      "de": "-Also, erster Tag am Southern Reach. -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Thank you. -You're welcome.",
+      "de": "-Danke. -Gerne."
+    }
+  },
+  {
+    "translation": {
+      "en": "You all been here long?",
+      "de": "Seid ihr schon lange hier?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, yeah, right from the start.",
+      "de": "Ja, von Anfang an."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm a geomorphologist.",
+      "de": "Ich bin Geomorphologin."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been testing the magnetic fields around the boundary,",
+      "de": "Ich teste die Magnetfelder um die Grenze."
+    }
+  },
+  {
+    "translation": {
+      "en": "which is like using confetti to test a hurricane.",
+      "de": "Als ob man einen Hurrikan mit Konfetti testen würde."
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, and I've been here... ten months.",
+      "de": "Ich bin seit zehn Monaten hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, ten months.",
+      "de": "Wow, zehn Monate."
+    }
+  },
+  {
+    "translation": {
+      "en": "Paramedic from Chicago.",
+      "de": "Sanitäterin aus Chicago."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tried to join an NGO, but my application got flagged,",
+      "de": "Ich wollte zu einer NGO, wurde rausgezogen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "so Southern Reach got me.",
+      "de": "bin nun hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only two months. I'm a physicist.",
+      "de": "Erst zwei Monate. Ich bin Physikerin. Ich kam nach dem Post-Doc von Cambridge."
+    }
+  },
+  {
+    "translation": {
+      "en": "I came straight from my Cambridge postdoc.",
+      "de": "Ich bin Physikerin. Ich kam nach dem Post-Doc von Cambridge."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] She's very smart.",
+      "de": "Sie ist sehr schlau."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's your story, Lena?",
+      "de": "Was ist deine Story, Lena?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Uh, I'm from Johns Hopkins, biologist.",
+      "de": "Ich bin von der Johns Hopkins, Biologin."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Oh, there you go. -Ha, biologist?",
+      "de": "-Na also. -Biologin?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Told you she was smart. -[Anya] What?",
+      "de": "-Ich sagte, sie ist schlau. -Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We had a bet on your profession, and Josie had biologist, of course.",
+      "de": "Wir haben gewettet. Josie tippte auf Biologin."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I had law enforcement. -I had you as single.",
+      "de": "-Ich tippte auf Cop. -Ich auf ledig."
+    }
+  },
+  {
+    "translation": {
+      "en": "Jesus. Do you have to hit on everyone, like all the time?",
+      "de": "Mensch. Musst du immer jeden angraben?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fuck that. Under the circumstances, I think I'm allowed to roll the dice a few more times. [chuckles]",
+      "de": "Scheiß drauf. Unter den Umständen darf ich es wohl öfter probieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Under what circumstances?",
+      "de": "Unter welchen Umständen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, yeah, um, crazy as it seems...",
+      "de": "Na ja, so verrückt, wie es scheint..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Crazy as it is.",
+      "de": "So verrückt, wie es ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "...we are headed that way.",
+      "de": "...wir gehen da rein."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You're going into the Shimmer? -Six days and counting.",
+      "de": "-Ihr geht in den Schimmer? -In sechs Tagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You three? -Four.",
+      "de": "-Ihr drei? -Vier."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Dr. Ventress? -[Cassie] Mmm. Team leader.",
+      "de": "Dr. Ventress? Die Teamleiterin."
+    }
+  },
+  {
+    "translation": {
+      "en": "-All women. -Scientists.",
+      "de": "-Nur Frauen. -Wissenschaftlerinnen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The previous teams have been largely military, so, yeah.",
+      "de": "Die letzten Teams waren vom Militär... Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you think happened to them?",
+      "de": "Was geschah mit ihnen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, there are two theories of what went wrong in the Shimmer.",
+      "de": "Es gibt zwei Theorien darüber, was da drin schiefgelaufen ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "One, something kills them.",
+      "de": "Entweder tötete etwas sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Two, they go crazy and kill each other.",
+      "de": "Oder sie wurden verrückt und töteten sich gegenseitig."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] There was one military guy who made it out.",
+      "de": "Ein Typ vom Militär schaffte es raus."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "A sergeant.",
+      "de": "Sergeant."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, but you heard about the state that he was in.",
+      "de": "Aber du hörtest von seinem Zustand."
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispering] Kane...",
+      "de": "Kane..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know why you went in.",
+      "de": "Ich weiß, warum du reingingst."
+    }
+  },
+  {
+    "translation": {
+      "en": "I am so sorry.",
+      "de": "Es tut mir so leid."
+    }
+  },
+  {
+    "translation": {
+      "en": "And I know what I have to do.",
+      "de": "Ich weiß, was ich tun muss."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] So you didn't tell them about your connection to Sergeant Kane?",
+      "de": "Sie sagten ihnen nicht, wie Sie zu Sergeant Kane stehen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] I thought it would complicate things.",
+      "de": "Ich dachte, es verkompliziert alles."
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "de": "Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What would it complicate?",
+      "de": "Was verkompliziert es?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are you going into the Shimmer?",
+      "de": "Warum gehen Sie in den Schimmer?"
+    }
+  },
+  {
+    "translation": {
+      "en": "The mission statement is to reach the supposed source of the Shimmer,",
+      "de": "Das Missionsziel ist es, die Quelle des Schimmers zu erreichen. Den Leuchtturm,"
+    }
+  },
+  {
+    "translation": {
+      "en": "the lighthouse, enter and acquire data, and return.",
+      "de": "die Quelle des Schimmers zu erreichen. Den Leuchtturm, reingehen, Daten sammeln und zurückkommen."
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think that that's your mission statement.",
+      "de": "Ich glaube nicht, dass das Ihr Ziel ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "I've been watching the phenomenon for a while now.",
+      "de": "Ich sehe mir dieses Phänomen schon lange an."
+    }
+  },
+  {
+    "translation": {
+      "en": "I profile the volunteers.",
+      "de": "Ich erstelle Profile der Freiwilligen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I pick the teams.",
+      "de": "Ich stelle die Teams zusammen."
+    }
+  },
+  {
+    "translation": {
+      "en": "They enter, I watch.",
+      "de": "Sie gehen rein, ich sehe zu."
+    }
+  },
+  {
+    "translation": {
+      "en": "I watch it grow closer.",
+      "de": "Ich sehe, wie es näherkommt."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's only so long one can do that.",
+      "de": "Das kann man nicht unbegrenzt tun."
+    }
+  },
+  {
+    "translation": {
+      "en": "But you need to know what's inside?",
+      "de": "Sie müssen wissen, was dadrin ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes, I do.",
+      "de": "Ja, das muss ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "So do I.",
+      "de": "Ich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "So that's the complication.",
+      "de": "Das ist also die Komplikation."
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to come with us.",
+      "de": "Sie wollen mitkommen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't do anything for him here.",
+      "de": "Ich kann hier nichts für ihn tun."
+    }
+  },
+  {
+    "translation": {
+      "en": "Soldier-scientist.",
+      "de": "Soldatin und Wissenschaftlerin."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can fight.",
+      "de": "Sie können kämpfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can learn.",
+      "de": "Sie können lernen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can save him.",
+      "de": "Sie können ihn retten."
+    }
+  },
+  {
+    "translation": {
+      "en": "You requested to join the mission.",
+      "de": "Sie wollten sich anschließen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew all other missions had failed",
+      "de": "Alle vorherigen Missionen scheiterten."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the only survivor was barely surviving.",
+      "de": "Der einzige Überlebende überlebte gerade so."
+    }
+  },
+  {
+    "translation": {
+      "en": "That was a brave choice.",
+      "de": "Eine mutige Wahl."
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him.",
+      "de": "Das schuldete ich ihm."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm only trying to understand what drove you.",
+      "de": "Ich will verstehen, was Sie antrieb."
+    }
+  },
+  {
+    "translation": {
+      "en": "I owed him...",
+      "de": "Ich schuldete es ihm."
+    }
+  },
+  {
+    "translation": {
+      "en": "so I went in.",
+      "de": "Also ging ich rein."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] And then we get some real meals.",
+      "de": "...und was Richtiges essen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Spaghetti. Here's Radek's vegetable crackers.",
+      "de": "Spaghetti. Hier, Gemüsecracker."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wow, cornbread. That's not so bad.",
+      "de": "Wow, Maisbrot. Nicht schlecht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, you're finally awake.",
+      "de": "Oh, endlich wach."
+    }
+  },
+  {
+    "translation": {
+      "en": "You gotta give me a second. I'm a little disoriented.",
+      "de": "Gebt mir eine Minute. Ich bin etwas desorientiert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Join the club.",
+      "de": "Willkommen im Club."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't remember setting up camp, do you?",
+      "de": "Keine Erinnerung an den Camp-Aufbau, oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't remember anything... after we reached the tree line.",
+      "de": "Ich erinnere mich an nichts, nachdem wir die Waldgrenze erreichten."
+    }
+  },
+  {
+    "translation": {
+      "en": "None of us do.",
+      "de": "Keine von uns."
+    }
+  },
+  {
+    "translation": {
+      "en": "And we did a food inventory.",
+      "de": "Wir prüften den Lagerbestand."
+    }
+  },
+  {
+    "translation": {
+      "en": "From the depletion, we've been out here for at least three or four days.",
+      "de": "Danach zu urteilen, sind wir seit mindestens drei bis vier Tagen hier draußen."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's not possible.",
+      "de": "Unmöglich."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] That's what I said.",
+      "de": "Das sagte ich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, I've been checking my comms and nav equipment.",
+      "de": "Ich sah mir meine Kommunikationsausrüstung an."
+    }
+  },
+  {
+    "translation": {
+      "en": "They boot up fine, no problem with the electronics,",
+      "de": "Sie funktioniert, keine Elektronik-Probleme."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the camera is working,",
+      "de": "Die Kamera funktioniert auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "but anything that sends a signal out of the Shimmer... is down.",
+      "de": "Alles, was Signale aus dem Schimmer herausschickt, funktioniert nicht..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Even though we've probably got about 20 satellites above us right now,",
+      "de": "...obwohl über uns wohl etwa 20 Satelliten sind."
+    }
+  },
+  {
+    "translation": {
+      "en": "and... check this out.",
+      "de": "Und schaut euch das an."
+    }
+  },
+  {
+    "translation": {
+      "en": "So we've got no compass, no comms, no coordinates...",
+      "de": "Wir haben keinen Kompass, keine Kommunikation, keine Koordinaten."
+    }
+  },
+  {
+    "translation": {
+      "en": "and no landmarks.",
+      "de": "Keine Messpunkte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, we know we're in the state park.",
+      "de": "Wir wissen, wir sind im State Park."
+    }
+  },
+  {
+    "translation": {
+      "en": "We head south, we hit the ocean,",
+      "de": "Im Süden ist das Meer."
+    }
+  },
+  {
+    "translation": {
+      "en": "then we can just follow the shoreline until we hit the perimeter wall. Right?",
+      "de": "Also folgen wir der Küste bis zur Grenzwand. Oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-How do we know what's south? -Come on, Josie, you know this.",
+      "de": "-Woher wissen wir, wo Süden ist? -Du weißt das."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hour hand at the sun.",
+      "de": "Stundenzeiger zur Sonne."
+    }
+  },
+  {
+    "translation": {
+      "en": "Split the difference between the hour hand and 12, south.",
+      "de": "Die Differenz zur 12 teilen: Süden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "de": "Gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're oriented.",
+      "de": "Wir haben uns orientiert."
+    }
+  },
+  {
+    "translation": {
+      "en": "We weren't really expecting the comms equipment to work, were we?",
+      "de": "Wir erwarteten nicht, dass die Ausrüstung funktioniert, oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "There's been three years of expeditions and three years of radio silence.",
+      "de": "Drei Jahre lang forschen und drei Jahre lang Funkstille."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's pack up and get moving.",
+      "de": "Zusammenpacken und weiter."
+    }
+  },
+  {
+    "translation": {
+      "en": "We've already lost a lot of the day.",
+      "de": "Wir haben viel Zeit verloren."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Oh, I'm gonna check this out. Get us out of this damn swamp.",
+      "de": "Ich sehe nach. Könnte uns aus dem Sumpf bringen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] All right. Let's check out the hut.",
+      "de": "Ok. Schauen wir nach."
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like someone's about to have a wedding.",
+      "de": "Sieht aus, als würde jemand heiraten."
+    }
+  },
+  {
+    "translation": {
+      "en": "These are very strange.",
+      "de": "Die sind sehr seltsam."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why?",
+      "de": "Warum?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Well, they're all so different.",
+      "de": "Sie sind alle so verschieden."
+    }
+  },
+  {
+    "translation": {
+      "en": "To look at them, you wouldn't say that they're the same species.",
+      "de": "Man denkt nicht, sie seien dieselbe Spezies."
+    }
+  },
+  {
+    "translation": {
+      "en": "But they're growing from the same branch structure...",
+      "de": "Aber sie wachsen aus derselben Zweigstruktur."
+    }
+  },
+  {
+    "translation": {
+      "en": "so it has to be the same species.",
+      "de": "Also muss es dieselbe Spezies sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the same plant.",
+      "de": "Dieselbe Pflanze."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like they're stuck in a continuous mutation.",
+      "de": "Als steckten sie in einer Mutation fest."
+    }
+  },
+  {
+    "translation": {
+      "en": "A pathology?",
+      "de": "Eine Krankheit?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Yeah, well...",
+      "de": "Ja, na ja..."
+    }
+  },
+  {
+    "translation": {
+      "en": "you'd sure as hell call it a pathology if you saw this in a human.",
+      "de": "Sähe man das in einem Menschen, wäre es das."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard! Mode of transportation.",
+      "de": "Sheppard. Ein Transportmittel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Anything interesting in there?",
+      "de": "Irgendwas Interessantes?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No. It's been long abandoned, maybe even before--",
+      "de": "Nein, ist schon lange verlassen, wohl schon vor..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Radek! -[splashing] -Radek!",
+      "de": "Radek!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] It's got my bag!",
+      "de": "Es hat meine Tasche!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Radek!",
+      "de": "Radek!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[gasps] Something's got my bag!",
+      "de": "Etwas nahm meine Tasche!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[shrieks] Oh, no!",
+      "de": "Oh nein!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's got my bag!",
+      "de": "Es hat meine Tasche!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Help me with her! -[Anya] What's going on?",
+      "de": "-Hilf mir! -Was ist los?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Hey, grab my shoulder!",
+      "de": "Halt dich an meiner Schulter fest!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Get her. Come on.",
+      "de": "Holt sie. Los."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] I got her.",
+      "de": "Ich habe sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Okay? You got her?",
+      "de": "Ok? Hast du sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're good, you're good.",
+      "de": "Alles gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Let's sit you down. Help me with her bag.",
+      "de": "Setz dich. Hilf mir mit ihrer Tasche."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, just breathe. It's okay. You're just fine.",
+      "de": "Ok, atme. Ist schon ok, alles gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "-What the hell happened? -Something in the water.",
+      "de": "-Was ist passiert? -Da war was im Wasser."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Get up, get up. Go. -[gasping]",
+      "de": "Aufstehen. Geh."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit! Get back.",
+      "de": "-Oh, Scheiße! -Zurückbleiben."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Sheppard! Sheppard, watch out!",
+      "de": "Sheppard! Pass auf!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gun clicks] -Holy fuck!",
+      "de": "Heilige Scheiße!"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's exactly the same as the flowers.",
+      "de": "Genau wie bei den Blumen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at the teeth.",
+      "de": "Schaut, die Zähne."
+    }
+  },
+  {
+    "translation": {
+      "en": "Concentric rows.",
+      "de": "Konzentrische Reihen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Something here is making giant waves in the gene pool.",
+      "de": "Da rüttelt etwas gewaltig am Genpool."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sharks have teeth like that, don't they?",
+      "de": "Haie haben solche Zähne, ja?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you think it's a crossbreed?",
+      "de": "Ist es eine Kreuzung?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't crossbreed between different species.",
+      "de": "Zwischen unterschiedlichen Spezies geht das nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, this is getting heavy.",
+      "de": "Lena, das wird schwer."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mutations were subtle at first.",
+      "de": "Die Mutationen waren zunächst gering."
+    }
+  },
+  {
+    "translation": {
+      "en": "More extreme as we grew closer to the lighthouse.",
+      "de": "Je näher wir zum Leuchtturm kamen, desto extremer wurden sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Corruptions of form.",
+      "de": "Entstellte Formen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Duplicates of form.",
+      "de": "Duplikate von Formen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Duplicates?",
+      "de": "Duplikate?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Echoes.",
+      "de": "Echos."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it possible these were hallucinations?",
+      "de": "Waren es womöglich Halluzinationen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wondered that myself.",
+      "de": "Das fragte ich mich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "But they were shared among all of us.",
+      "de": "Aber uns ging es allen so."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was dreamlike.",
+      "de": "Wie in einem Traum."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Nightmarish.",
+      "de": "Wie ein Albtraum."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not always.",
+      "de": "Nicht immer."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sometimes it was beautiful.",
+      "de": "Manchmal war es wunderschön."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] You hurt?",
+      "de": "Bist du verletzt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's just a bruise.",
+      "de": "Nur ein blauer Fleck."
+    }
+  },
+  {
+    "translation": {
+      "en": "[clicks tongue] Must have gotten that from the gator.",
+      "de": "Wohl vom Alligator."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, where'd you learn to shoot?",
+      "de": "Wo hast du schießen gelernt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was in the military before I was an academic.",
+      "de": "Ich war vor meiner akademischen Laufbahn beim Militär."
+    }
+  },
+  {
+    "translation": {
+      "en": "Army. Seven years.",
+      "de": "Armee. Sieben Jahre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Feels like a lifetime ago now.",
+      "de": "Kommt mir vor, als wäre es ewig her."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "All other lives feel like a lifetime ago.",
+      "de": "Alle anderen Leben scheinen ewig her zu sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "We were kids, I was married.",
+      "de": "Wir waren Kinder, ich war verheiratet."
+    }
+  },
+  {
+    "translation": {
+      "en": "Which do you carry around your neck? A husband or a child?",
+      "de": "Wen trägst du in der Kette? Deinen Mann oder dein Kind?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "de": "Meinen Mann."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was in the army, too. That's...",
+      "de": "Er war ebenfalls in der Armee."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how we met.",
+      "de": "So lernten wir uns kennen."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Was\" in the army? He quit?",
+      "de": "\"War\" in der Armee?"
+    }
+  },
+  {
+    "translation": {
+      "en": "KIA.",
+      "de": "Er fiel im Einsatz."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry to hear that.",
+      "de": "Das tut mir leid."
+    }
+  },
+  {
+    "translation": {
+      "en": "Guess there had to be something.",
+      "de": "Ich dachte mir, da ist was."
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean?",
+      "de": "Was meinst du?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Volunteering for... this.",
+      "de": "Sich freiwillig zu melden... für das."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not exactly something you do if your life is in... perfect harmony.",
+      "de": "Das tut man nicht, wenn das Leben perfekt ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all damaged goods here.",
+      "de": "Wir sind alle angeschlagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Anya is sober...",
+      "de": "Anya ist trocken..."
+    }
+  },
+  {
+    "translation": {
+      "en": "therefore an addict.",
+      "de": "...also eine Süchtige."
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie wears long sleeves",
+      "de": "Josie trägt lange Ärmel,"
+    }
+  },
+  {
+    "translation": {
+      "en": "'cause she doesn't want you to see the scars on her forearms.",
+      "de": "damit man ihre Narben nicht sieht."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's tried to kill herself?",
+      "de": "Versuchter Selbstmord?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I think the opposite, trying to feel alive.",
+      "de": "Eher das Gegenteil. Sie wollte sich lebendig fühlen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah. As far as anyone knows...",
+      "de": "Ja. Soweit man weiß..."
+    }
+  },
+  {
+    "translation": {
+      "en": "no friends, no family, no partner, no children.",
+      "de": "...hat sie keine Freunde, keine Familie, keinen Partner, keine Kinder."
+    }
+  },
+  {
+    "translation": {
+      "en": "No concession in her at all.",
+      "de": "Keine Nachgiebigkeit."
+    }
+  },
+  {
+    "translation": {
+      "en": "-You? -I also lost someone.",
+      "de": "Und du? Ich verlor auch jemanden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not a husband, though, um...",
+      "de": "Jedoch keinen Ehemann..."
+    }
+  },
+  {
+    "translation": {
+      "en": "A daughter. Leukemia.",
+      "de": "...eine Tochter. Leukämie."
+    }
+  },
+  {
+    "translation": {
+      "en": "God, I'm sorry.",
+      "de": "Gott, tut mir leid."
+    }
+  },
+  {
+    "translation": {
+      "en": "In a way, it's two bereavements.",
+      "de": "Im Grunde sind es zwei Todesfälle."
+    }
+  },
+  {
+    "translation": {
+      "en": "My... beautiful girl...",
+      "de": "Meine... süße Tochter..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the person I once was.",
+      "de": "...und mein früheres Ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Hey, hey!",
+      "de": "Hey."
+    }
+  },
+  {
+    "translation": {
+      "en": "We got something here.",
+      "de": "Wir haben was gefunden."
+    }
+  },
+  {
+    "translation": {
+      "en": "This used to be the headquarters of the Southern Reach.",
+      "de": "Das alte Hauptquartier von Southern Reach."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before the Shimmer swallowed it.",
+      "de": "Bevor der Schimmer es verschluckte."
+    }
+  },
+  {
+    "translation": {
+      "en": "More mutations.",
+      "de": "Mehr Mutationen."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're everywhere.",
+      "de": "Sie sind überall."
+    }
+  },
+  {
+    "translation": {
+      "en": "Malignant.",
+      "de": "Bösartig."
+    }
+  },
+  {
+    "translation": {
+      "en": "Like tumors.",
+      "de": "Wie Tumore."
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that the old mess hall?",
+      "de": "Ist das die alte Kantine?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's billet there. Come on.",
+      "de": "Lasst uns dort lagern. Los."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's beds and bags. You think people are here?",
+      "de": "Da sind Betten und Taschen. Sind Leute hier?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were here.",
+      "de": "Sie waren hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, I'm gonna go with the past tense.",
+      "de": "Die Vergangenheitsform ist angebracht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Damn.",
+      "de": "Verdammt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, shit.",
+      "de": "Oh, Scheiße."
+    }
+  },
+  {
+    "translation": {
+      "en": "This shit is heavy. Can't carry this.",
+      "de": "Das ist schwer, kann ich nicht tragen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena, what you got going on?",
+      "de": "Lena, was ist los?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Guys, check this out.",
+      "de": "Seht euch das an."
+    }
+  },
+  {
+    "translation": {
+      "en": "Kane, Shelley.\"",
+      "de": "...Kane, Shelley.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Those were the soldiers on the last expedition.",
+      "de": "Die Soldaten der letzten Expedition."
+    }
+  },
+  {
+    "translation": {
+      "en": "Looks like they were using this room as their base of operations.",
+      "de": "Dieser Raum war wohl ihre Basis."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why are some of the names crossed out?",
+      "de": "Warum sind manche Namen durchgestrichen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's not jump to conclusions.",
+      "de": "Ziehen wir keine voreiligen Schlüsse."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't know, maybe we should. -Yeah.",
+      "de": "-Vielleicht sollten wir das. -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "-This is a plan view of the base, right? -[Cassie] Yep. This is the mess hall.",
+      "de": "-Das ist ein Plan von der Basis, ja? -Ja. Hier, die Kantine."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Building we're in? -[Cassie] Yep.",
+      "de": "-Wir sind dadrin? -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think that the times by the names are a guard rota, so...",
+      "de": "Die Zeiten bei den Namen sind wohl Wachablösungen."
+    }
+  },
+  {
+    "translation": {
+      "en": "if they were guarding the perimeter, we should.",
+      "de": "Wir sollten auch Wache stehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Copy that. -[Cassie] Yep.",
+      "de": "-Verstanden. -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "This might be able to tell us something.",
+      "de": "Das könnte uns etwas sagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"For those that follow.\"",
+      "de": "\"Für die, die nach uns kommen.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that means us.",
+      "de": "Das sind wohl wir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Memory card.",
+      "de": "Eine Speicherkarte."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should be able to play this.",
+      "de": "Das sollte ich abspielen können."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] It's working.",
+      "de": "Es funktioniert."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] All right?",
+      "de": "Ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay? -Okay.",
+      "de": "-Ok? -Ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] Okay. Okay. Okay. Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[man] Okay. Okay. -[Kane] Yeah?",
+      "de": "-Ok. -Ja. Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man's voice quavers] Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "Shit.",
+      "de": "Scheiße."
+    }
+  },
+  {
+    "translation": {
+      "en": "What is he doing?",
+      "de": "Was macht er?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Stop. Stop. Stop, stop, stop.",
+      "de": "Hör auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Kane] Hold him. Hold him down.",
+      "de": "Halt ihn fest."
+    }
+  },
+  {
+    "translation": {
+      "en": "There. There.",
+      "de": "Da."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, so we know what happened to the last group. They went insane.",
+      "de": "Wir wissen, was passierte, sie wurden verrückt."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Was something alive inside that man. -No.",
+      "de": "In dem Mann war etwas Lebendiges."
+    }
+  },
+  {
+    "translation": {
+      "en": "-That was a trick of the light. -[Cassie] What?",
+      "de": "-Das war eine Täuschung. -Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] I've been a paramedic for 10 years. I've scraped people off the road.",
+      "de": "Ich bin seit zehn Jahren Sanitäterin. Ich erlebte einiges."
+    }
+  },
+  {
+    "translation": {
+      "en": "You see some weird shit. That was a trick of the light.",
+      "de": "Man sieht krassen Scheiß. Das war eine optische Täuschung."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie] His insides were moving. -[Anya] No, it was shock.",
+      "de": "-Die Gedärme bewegten sich. -Das war der Schock."
+    }
+  },
+  {
+    "translation": {
+      "en": "-That was a shock response. -[Cassie] Watch it again.",
+      "de": "-Der Schock. -Schau es noch mal an."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] No, I'm not gonna watch it again!",
+      "de": "Das tue ich nicht, verdammt."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] That was not intestines. It was a worm--",
+      "de": "Das waren keine Gedärme. -Ein Wurm oder... -Schau du es an, Sheppard!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Okay, then you watch it, Sheppard!",
+      "de": "-Ein Wurm oder... -Schau du es an, Sheppard!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Where are you going?",
+      "de": "Wo gehst du hin?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Where'd she go? -Just ahead.",
+      "de": "-Wo ging sie hin? -Nur weiter."
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "de": "Was ist das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "de": "Keine Ahnung."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't want to stay here tonight. -We don't have a choice.",
+      "de": "-Ich will hier nicht übernachten. -Wir haben keine Wahl."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie] Please. -Come on.",
+      "de": "-Bitte. -Komm."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's too late in the day for us to move on.",
+      "de": "Es ist zu spät, weiterzuziehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Come on, let's go outside.",
+      "de": "Gehen wir nach draußen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, that's nice of you.",
+      "de": "Das ist lieb von dir."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why aren't you here?",
+      "de": "Warum bist du nicht hier?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I gotta leave a day early.",
+      "de": "Ich muss einen Tag früher los."
+    }
+  },
+  {
+    "translation": {
+      "en": "What?",
+      "de": "Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait, today?",
+      "de": "Moment, heute?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Right now. -Oh, shit.",
+      "de": "-Jetzt. -Oh, Scheiße."
+    }
+  },
+  {
+    "translation": {
+      "en": "But we had a whole day planned.",
+      "de": "Wir hatten den ganzen Tag verplant."
+    }
+  },
+  {
+    "translation": {
+      "en": "-We were gonna drive to the country-- -No, we can't.",
+      "de": "-Wir wollten aufs Land. -Ich kann nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "-We can't. -Can you at least...?",
+      "de": "-Geht nicht. -Kannst du wenigstens..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now means right now.",
+      "de": "Jetzt heißt sofort."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "What is it?",
+      "de": "Was ist?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I do...",
+      "de": "Ich..."
+    }
+  },
+  {
+    "translation": {
+      "en": "love you...",
+      "de": "...liebe dich..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena.",
+      "de": "...Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you, too.",
+      "de": "Ich liebe dich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie, whispering] Hey.",
+      "de": "Hey."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mystery unraveling?",
+      "de": "Löst du das Rätsel?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispering] Something's unraveling.",
+      "de": "Etwas in mir löst sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think you're doing okay.",
+      "de": "Du machst das gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's good Josie's getting some rest.",
+      "de": "Josie ruht sich aus."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "With the help of a little sedative.",
+      "de": "Mit Beruhigungsmitteln."
+    }
+  },
+  {
+    "translation": {
+      "en": "How about you? Get some sleep?",
+      "de": "Und du? Etwas geschlafen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Some.",
+      "de": "Etwas."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm at least as freaked as Josie.",
+      "de": "Ich war genauso erschrocken wie Josie."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just hiding it better.",
+      "de": "Ich verstecke es nur besser."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should check on Ventress.",
+      "de": "Ich sehe nach Ventress."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yep.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "What're you doing up? Not supposed to relieve me until 3:00.",
+      "de": "Warum schon wach? Sie lösen mich erst um 3 Uhr ab."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm done sleeping for the night.",
+      "de": "Ich habe genug geschlafen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come look at this.",
+      "de": "Sehen Sie mal."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, this is where we are...",
+      "de": "Ok, hier sind wir..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's the lighthouse.",
+      "de": "...da ist der Leuchtturm."
+    }
+  },
+  {
+    "translation": {
+      "en": "Southwest is Ville Perdu.",
+      "de": "Im Südwesten ist Ville Perdu."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a small community we evacuated two years ago.",
+      "de": "Ein kleiner Ort, den wir vor zwei Jahren evakuierten."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think we should head there tomorrow,",
+      "de": "Ich denke, wir sollten morgen dort hingehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "and then head out for the coast the following morning.",
+      "de": "Und dann Richtung Küste am Tag drauf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Good.",
+      "de": "Gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "de": "Alles ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I was gonna say, when...",
+      "de": "Ich wollte sagen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "you didn't tell the team about your connection to Kane,",
+      "de": "...dass es keine gute Idee ist,"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wasn't sure if that was a good idea.",
+      "de": "dem Team nichts von Kane zu erzählen."
+    }
+  },
+  {
+    "translation": {
+      "en": "But after seeing that footage...",
+      "de": "Aber nachdem ich die Aufnahmen sah..."
+    }
+  },
+  {
+    "translation": {
+      "en": "yeah.",
+      "de": "...ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure how they would have reacted to you.",
+      "de": "Wer weiß, wie sie auf Sie reagiert hätten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why did my husband volunteer for a suicide mission?",
+      "de": "Warum ging er freiwillig auf die Selbstmordmission?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that what you think we're doing?",
+      "de": "Sie denken, das tun wir?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Committing suicide? -You must have profiled him,",
+      "de": "-Selbstmord begehen? -Sie wählten ihn,"
+    }
+  },
+  {
+    "translation": {
+      "en": "you must have assessed him.",
+      "de": "beurteilten ihn."
+    }
+  },
+  {
+    "translation": {
+      "en": "He must have said something.",
+      "de": "Er muss etwas gesagt haben."
+    }
+  },
+  {
+    "translation": {
+      "en": "So you're asking me as a psychologist.",
+      "de": "Sie fragen mich das als Psychologin?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then, as a psychologist...",
+      "de": "Als Psychologin..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'd say you're confusing suicide with self-destruction.",
+      "de": "...sage ich, Sie verwechseln Selbstmord mit Selbstzerstörung."
+    }
+  },
+  {
+    "translation": {
+      "en": "Almost none of us commit suicide...",
+      "de": "Fast keiner von uns begeht Selbstmord."
+    }
+  },
+  {
+    "translation": {
+      "en": "and almost all of us self-destruct.",
+      "de": "Fast alle von uns begehen Selbstzerstörung."
+    }
+  },
+  {
+    "translation": {
+      "en": "In some way, in some part of our lives.",
+      "de": "Auf irgendeine Art in unserem Leben."
+    }
+  },
+  {
+    "translation": {
+      "en": "We drink, or we smoke.",
+      "de": "Wir trinken, wir rauchen."
+    }
+  },
+  {
+    "translation": {
+      "en": "We destabilize the good job.",
+      "de": "Wir destabilisieren den guten Job."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or the happy marriage.",
+      "de": "Oder eine glückliche Ehe."
+    }
+  },
+  {
+    "translation": {
+      "en": "These aren't decisions, they're...",
+      "de": "Das sind keine Entscheidungen."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're impulses.",
+      "de": "Das sind Impulse."
+    }
+  },
+  {
+    "translation": {
+      "en": "In fact, you're probably better equipped to explain this than I am.",
+      "de": "Sie sind sogar besser versiert darin, das zu erklären -als ich. -Was heißt das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What does that mean? -[scoffs]",
+      "de": "-als ich. -Was heißt das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're a biologist.",
+      "de": "Sie sind Biologin."
+    }
+  },
+  {
+    "translation": {
+      "en": "Isn't self-destruction coded into us?",
+      "de": "Ist Selbstzerstörung nicht in uns codiert?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programmed into each cell?",
+      "de": "In jede Zelle programmiert?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What was that?",
+      "de": "Was war das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[chambers round] -Don't know.",
+      "de": "Keine Ahnung."
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie, wake up.",
+      "de": "Josie, wach auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wake up, Josie, come on. Wake up. Something's happening.",
+      "de": "Josie, komm. Etwas geht vor sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you see anything? -No.",
+      "de": "-Sehen Sie etwas? -Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] What happened? I heard a noise.",
+      "de": "-Was war das? -Ich hörte etwas."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Lena] Oh. -[Cassie] What?",
+      "de": "Was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Something's come through the fence.",
+      "de": "Etwas kam durch den Zaun."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Through the fence? -It's ripped open like a fucking zipper.",
+      "de": "-Durch den Zaun? -Riss ihn auf, als wäre es nichts."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Can't see. -Yeah, neither can I. -[rustling]",
+      "de": "-Ich sehe nichts. -Ich auch nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard!",
+      "de": "-Sheppard! -Gott!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie screaming] -[Lena] Sheppard!",
+      "de": "Sheppard!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Fuck! -What's going on?",
+      "de": "Verdammt! -Was ist los? -Was war?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard was next to me. Something took her.",
+      "de": "Sie war neben mir, etwas schnappte sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Cassie continues screaming] -Oh, fuck! Oh, fuck! Sheppard!",
+      "de": "Oh, verdammt! -Sheppard! -Oh, Scheiße!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Oh, shit!",
+      "de": "-Sheppard! -Oh, Scheiße!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] Shepp...",
+      "de": "Oh, Scheiße."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have to go back.",
+      "de": "Wir müssen zurück."
+    }
+  },
+  {
+    "translation": {
+      "en": "-We have to go back now. -[Anya] She's right.",
+      "de": "-Sofort. -Sie hat recht."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] Right? In what sense?",
+      "de": "Inwiefern?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] We've been attacked twice.",
+      "de": "Es gab zwei Angriffe."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[sighs] -[Anya] We lost one of our own.",
+      "de": "Eine von uns ist weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have evidence the previous team went nuts and chopped each other up.",
+      "de": "Wir sahen, dass die Vorgänger sich gegenseitig aufschnitten."
+    }
+  },
+  {
+    "translation": {
+      "en": "I really don't know how much more right she has to be.",
+      "de": "Sie hat einfach recht."
+    }
+  },
+  {
+    "translation": {
+      "en": "We haven't reached the lighthouse.",
+      "de": "Wir sind nicht am Leuchtturm."
+    }
+  },
+  {
+    "translation": {
+      "en": "We still don't understand the cause or the nature of the Shimmer.",
+      "de": "Wir verstehen die Ursache des Schimmers noch nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "We have data, observations, photographs. She has hella footage.",
+      "de": "Wir haben Daten, Fotos. Die Aufnahmen."
+    }
+  },
+  {
+    "translation": {
+      "en": "All of which makes the phenomenon less explicable, not more.",
+      "de": "Das macht das Phänomen umso unerklärlicher."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna get to the lighthouse,",
+      "de": "Ich gehe zum Leuchtturm."
+    }
+  },
+  {
+    "translation": {
+      "en": "and I'm fine going on my own.",
+      "de": "Ich kann alleine gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You just need to decide... whether you're coming with me or not.",
+      "de": "Ihr müsst euch nur entscheiden, ob ihr mitkommt oder nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like she hasn't noticed that Sheppard is dead.",
+      "de": "Als bemerkte sie nicht, dass Sheppard tot ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's crazy.",
+      "de": "Sie ist verrückt."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's a crazy old bitch.",
+      "de": "Ein verrücktes, altes Miststück."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, and thanks for the fucking backup, Lena.",
+      "de": "Danke für deine Unterstützung, Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I didn't realize there were sides. -[Anya] Yeah.",
+      "de": "-Es gibt jetzt zwei Seiten? -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, there are sides.",
+      "de": "Ja, die gibt es."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, then I agree with you. We should go back.",
+      "de": "Dann stimme ich dir zu. Wir sollten zurückgehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. Okay, great. There we go. Okay?",
+      "de": "Gut. Ok, toll. Also bitte. Ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-So the three of us can-- -[Lena] Hold on a minute.",
+      "de": "-Wir drei können... -Moment. Warte."
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go back, yes.",
+      "de": "Wir sollten zurück, ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "But it took us, what, six days to get here?",
+      "de": "Wir brauchten sechs Tage, um herzukommen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "And the coast is two days away.",
+      "de": "Bis zur Küste sind es zwei Tage."
+    }
+  },
+  {
+    "translation": {
+      "en": "And as Sheppard said...",
+      "de": "Und wie Sheppard sagte..."
+    }
+  },
+  {
+    "translation": {
+      "en": "when we get to the coast, we can follow it until the perimeter wall.",
+      "de": "...können wir an der Küste entlang zur Grenzwand gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're saying we get out by going deeper?",
+      "de": "Wir kommen raus, je tiefer wir gehen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah, if you like, yeah. -\"Like\"?",
+      "de": "-Ja, wenn man so will. -Wollen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, I don't fucking \"like.\"",
+      "de": "Nein, ich will das nicht, verdammt."
+    }
+  },
+  {
+    "translation": {
+      "en": "This isn't some bullshit tactic to get us to the lighthouse, is it?",
+      "de": "Ist das eine Taktik, damit wir zum Leuchtturm gehen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is not about the lighthouse, okay?",
+      "de": "Es geht nicht um den Leuchtturm, ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I believe that the coast is the best route out.",
+      "de": "Die Küste ist der beste Ausweg."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "de": "Ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You lied to them.",
+      "de": "Sie haben gelogen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't know what going back meant.",
+      "de": "Ich wusste nicht, was zurückgehen bedeutete."
+    }
+  },
+  {
+    "translation": {
+      "en": "Why it would be safer than going forward.",
+      "de": "Warum es sicherer wäre als weiterzugehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] You didn't know, but you made a decision to continue as if you did.",
+      "de": "Aber Sie trafen eine Entscheidung, als ob Sie es wüssten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress made the decision.",
+      "de": "Ventress entschied das."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Ventress had cancer. She was never coming back.",
+      "de": "Ventress hatte Krebs, sie wollte nie zurück."
+    }
+  },
+  {
+    "translation": {
+      "en": "You knew she was sick.",
+      "de": "Sie wussten, sie war krank."
+    }
+  },
+  {
+    "translation": {
+      "en": "I had guessed.",
+      "de": "Ich erahnte es."
+    }
+  },
+  {
+    "translation": {
+      "en": "And you wanted to continue.",
+      "de": "Und Sie wollten weitermachen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Yes.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "I did.",
+      "de": "Das wollte ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "She could still be alive.",
+      "de": "Sie könnte noch leben."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's highly doubtful.",
+      "de": "Sehr unwahrscheinlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to know.",
+      "de": "Wir müssen es wissen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Go.",
+      "de": "Gehen Sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine.",
+      "de": "Gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm coming with you.",
+      "de": "Ich komme mit."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go alone.",
+      "de": "Ich gehe alleine."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Josie] Did you find her?",
+      "de": "Gefunden?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's dead.",
+      "de": "Sie ist tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "de": "Bist du ok?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fine. Just... leave me the fuck alone.",
+      "de": "Ja, lass mich verdammt noch mal in Ruhe."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Ventress] We'll camp here tonight.",
+      "de": "Wir lagern die Nacht hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's another two hours' walk up the coast.",
+      "de": "Noch zwei Stunden bis zur Küste."
+    }
+  },
+  {
+    "translation": {
+      "en": "They've grown this way.",
+      "de": "Sie wuchsen so."
+    }
+  },
+  {
+    "translation": {
+      "en": "That doesn't make any sense.",
+      "de": "Das ergibt keinen Sinn."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think it does.",
+      "de": "Doch."
+    }
+  },
+  {
+    "translation": {
+      "en": "At first I thought the radio waves were blocked by the Shimmer,",
+      "de": "Ich dachte, die Funkwellen wären vom Schimmer blockiert."
+    }
+  },
+  {
+    "translation": {
+      "en": "and that's why no one inside could communicate with base or GPS,",
+      "de": "Deshalb konnte keiner mit der Basis kommunizieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "but the light waves aren't blocked, they're refracted, and...",
+      "de": "Aber sie sind nicht blockiert, sondern werden gebrochen."
+    }
+  },
+  {
+    "translation": {
+      "en": "...it's the same with the radios.",
+      "de": "Genau wie mit dem Funk."
+    }
+  },
+  {
+    "translation": {
+      "en": "The signals aren't gone.",
+      "de": "Die Signale sind nicht weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "They're scrambled.",
+      "de": "Sie sind verschlüsselt."
+    }
+  },
+  {
+    "translation": {
+      "en": "That leaf in your hand...",
+      "de": "Das Blatt in deiner Hand..."
+    }
+  },
+  {
+    "translation": {
+      "en": "know what you'd get if you sequenced it?",
+      "de": "Was ergäbe eine Sequenzierung?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What? -Human Hox genes.",
+      "de": "-Was? -Ein menschliches Hox-Gen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Hox? What is-- What's Hox mean?",
+      "de": "Hox? Was ist das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "They're the genes that define the body plan, the physical structure.",
+      "de": "Die Gene, die die Körperstruktur definieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "And the plants have human body plan.",
+      "de": "Die Pflanzen haben einen menschlichen Bauplan."
+    }
+  },
+  {
+    "translation": {
+      "en": "Arms attached to shoulders. Legs to hips.",
+      "de": "Arme, Schultern. Beine, Hüften."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally not possible.",
+      "de": "Das ist geradezu unmöglich."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's literally what's happening.",
+      "de": "Das passiert aber tatsächlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Shimmer is a prism, but it refracts everything.",
+      "de": "Der Schimmer ist ein Prisma, aber es bricht alles."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not just light and radio waves.",
+      "de": "Nicht nur Licht und Funkwellen,"
+    }
+  },
+  {
+    "translation": {
+      "en": "Animal DNA, plant DNA...",
+      "de": "auch tierische und pflanzliche DNS."
+    }
+  },
+  {
+    "translation": {
+      "en": "all DNA.",
+      "de": "Alle DNS."
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you mean, \"all DNA\"?",
+      "de": "Was bedeutet alle DNS?"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about our DNA.",
+      "de": "Sie redet von unserer DNS."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's talking about us.",
+      "de": "Sie redet von uns."
+    }
+  },
+  {
+    "translation": {
+      "en": "All right... I guess this is a bedroom.",
+      "de": "Ok, das ist wohl das Schlafzimmer."
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's secure doors and windows.",
+      "de": "Sichern wir Türen und Fenster."
+    }
+  },
+  {
+    "translation": {
+      "en": "This was a mistake.",
+      "de": "Das war ein Fehler."
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "You spend more time away from your husband than with him.",
+      "de": "Du verbringst mehr Zeit ohne deinen Mann als mit ihm."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't talk to him about work, and he won't talk to you about his.",
+      "de": "Du kannst nichts von der Arbeit erzählen und er auch nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "And there is a clear physical and intellectual connection between us.",
+      "de": "Wir haben eine körperliche und geistige Verbindung."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Have I covered the bases? -You forgot your wife.",
+      "de": "Stimmt's? -Du hast deine Frau vergessen. -Ich liebe meine Frau."
+    }
+  },
+  {
+    "translation": {
+      "en": "I love my wife.",
+      "de": "-Du hast deine Frau vergessen. -Ich liebe meine Frau."
+    }
+  },
+  {
+    "translation": {
+      "en": "She's blameless in this.",
+      "de": "Sie trägt keine Schuld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on, Lena.",
+      "de": "Komm, Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's really going on here?",
+      "de": "Was ist hier wirklich los?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think that something may have happened to him?",
+      "de": "Denkst du, ihm ist etwas zugestoßen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or you think he knows.",
+      "de": "Denkst du, er weiß von uns?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's it, isn't it?",
+      "de": "Das ist es, oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You think somehow he's found out about our affair.",
+      "de": "Du denkst, er weiß von unserer Affäre."
+    }
+  },
+  {
+    "translation": {
+      "en": "Has he found out?",
+      "de": "Tut er das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] Yes.",
+      "de": "Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "You should go.",
+      "de": "Du solltest gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-No, Lena, I-- -Dan...",
+      "de": "-Nein, ich... -Dan..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not interested in talking... or in anything you have to say.",
+      "de": "Ich will nicht reden und nicht hören, was du zu sagen hast."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just get dressed and get out.",
+      "de": "Zieh dich an und geh."
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, it's not me you hate, it's yourself.",
+      "de": "Du hasst nicht mich, sondern dich."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, Dan, it's you, too.",
+      "de": "Nein, Dan, auch dich."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's never gonna happen again.",
+      "de": "Es wird nicht wieder passieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "You lying bitch!",
+      "de": "Verdammte Lügnerin!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-What's going on? -No.",
+      "de": "-Was ist los? -Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't get to ask that fucking question. You answer it!",
+      "de": "Keine verdammten Fragen. Antworte!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Brother.",
+      "de": "Bruder."
+    }
+  },
+  {
+    "translation": {
+      "en": "Boyfriend.",
+      "de": "Freund."
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "de": "Mann."
+    }
+  },
+  {
+    "translation": {
+      "en": "Husband.",
+      "de": "Mann."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Why didn't you tell us? -[speaks indistinctly]",
+      "de": "Warum sagtest du nichts?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You knew. Obviously. -[panting]",
+      "de": "Du wusstest es. Klar."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Did you know? -[breath quavering]",
+      "de": "Hast du es gewusst?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Josie sobs] -Okay.",
+      "de": "Ok."
+    }
+  },
+  {
+    "translation": {
+      "en": "There are two theories of what went wrong.",
+      "de": "Es gibt zwei Theorien, was schiefging."
+    }
+  },
+  {
+    "translation": {
+      "en": "One is that something in here killed them.",
+      "de": "Etwas hier tötete sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Two... is that they went crazy and they killed each other.",
+      "de": "Oder sie wurden verrückt und töteten sich gegenseitig."
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie nearly got killed by an alligator,",
+      "de": "Ein Alligator tötete Josie beinahe."
+    }
+  },
+  {
+    "translation": {
+      "en": "and Cass did get killed by a bear. [voice breaks]",
+      "de": "Und ein Bär tötete Cass."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, yes, theory one, it fits.",
+      "de": "Die erste Theorie passt also."
+    }
+  },
+  {
+    "translation": {
+      "en": "But...",
+      "de": "Aber..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't actually see a bear.",
+      "de": "Ich sah den Bären nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "And neither did Josie.",
+      "de": "Und Josie auch nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Anya] The only people who saw were Lena and Ventress.",
+      "de": "Nur Lena und Ventress sahen ihn."
+    }
+  },
+  {
+    "translation": {
+      "en": "So nothing's confirmed. Everything's on their word.",
+      "de": "Nichts ist bestätigt. Alles hängt von deren Wort ab, von Lenas Wort."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Everything's on Lena's word. -[speaks indistinctly]",
+      "de": "Alles hängt von deren Wort ab, von Lenas Wort."
+    }
+  },
+  {
+    "translation": {
+      "en": "And what we know now...",
+      "de": "Und was wir bisher wissen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "what we know,",
+      "de": "...was wir wissen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "is that Lena... is a liar.",
+      "de": "...ist, dass Lena eine Lügnerin ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[speaks indistinctly] -Shut the fuck up!",
+      "de": "Halt's Maul, verdammt!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lena... you're a liar.",
+      "de": "Lena. Du bist eine Lügnerin."
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you kill Cass?",
+      "de": "Tötetest du Cass?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Did you lose your shit?",
+      "de": "Bist du ausgetickt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Or do you think I've lost my shit and we're gonna fuck each other up?",
+      "de": "Oder bin ich ausgetickt, und jetzt machen wir uns fertig?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's theory two.",
+      "de": "Die zweite Theorie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, God.",
+      "de": "Oh Gott."
+    }
+  },
+  {
+    "translation": {
+      "en": "When I look at my hands...",
+      "de": "Wenn ich meine Hände ansehe..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and my fingerprints...",
+      "de": "...meine Fingerabdrücke..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can see them moving.",
+      "de": "Sie bewegen sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "[sobbing] I can't.",
+      "de": "Ich kann nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "If I let you go,",
+      "de": "Wenn ich euch gehen lasse..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and you tie me to a chair and cut me open...",
+      "de": "...und ihr mich fesselt und aufschneidet..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are my insides gonna move like my fingerprints?",
+      "de": "...werden sich meine Gedärme auch bewegen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "But... I'm not the one tied to a chair.",
+      "de": "Aber... ich bin nicht gefesselt."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Ventress gasps] -You are.",
+      "de": "Sondern ihr."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Help me!",
+      "de": "Hilf mir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Cassie] Help me!",
+      "de": "Hilf mir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help me!",
+      "de": "Hilf mir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[panting] Oh, Cass?",
+      "de": "Oh, Cass?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You said she was dead. -[Lena speaks indistinctly]",
+      "de": "Du sagtest, sie sei tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Anya] Cass! Cass, I'm coming! -[grunting]",
+      "de": "Cass! Cass, ich komme!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's voice] Help me! Help me!",
+      "de": "Hilf mir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Help!",
+      "de": "Hilfe!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't react.",
+      "de": "Nicht reagieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's voice] Me!",
+      "de": "...mir!"
+    }
+  },
+  {
+    "translation": {
+      "en": "[in Cassie's screaming voice] Help!",
+      "de": "Hilfe!"
+    }
+  },
+  {
+    "translation": {
+      "en": "No! No! [screams]",
+      "de": "Nein!"
+    }
+  },
+  {
+    "translation": {
+      "en": "What are you doing?",
+      "de": "Was machen Sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm leaving. -[Lena] Now?",
+      "de": "-Ich gehe. -Jetzt?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-It's not even light yet. -I don't have time to wait.",
+      "de": "-Es ist noch dunkel. -Ich kann nicht mehr warten."
+    }
+  },
+  {
+    "translation": {
+      "en": "We are disintegrating.",
+      "de": "Wir zerfallen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies as fast as our minds. Can't you feel it?",
+      "de": "Unser Körper wie unser Geist. Fühlen Sie es?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's like the onset of dementia.",
+      "de": "Wie der Beginn von Demenz."
+    }
+  },
+  {
+    "translation": {
+      "en": "If I don't reach the lighthouse soon...",
+      "de": "Erreiche ich den Leuchtturm nicht bald..."
+    }
+  },
+  {
+    "translation": {
+      "en": "the person that started this journey won't be the person that ends it.",
+      "de": "...wird diejenige, die die Reise begann, es nicht beenden."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to be the one that ends it.",
+      "de": "Ich will es beenden."
+    }
+  },
+  {
+    "translation": {
+      "en": "We should go, Josie.",
+      "de": "Wir sollten los, Josie."
+    }
+  },
+  {
+    "translation": {
+      "en": "How long was your husband in the Shimmer?",
+      "de": "Wie lange war dein Mann im Schimmer?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's hard to say exactly.",
+      "de": "Schwer zu sagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Theoretically, as long as a year.",
+      "de": "Theoretisch ein Jahr lang."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's a long time to be inside and remain intact.",
+      "de": "Eine lange Zeit dadrin, um intakt zu bleiben."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not so sure he was intact.",
+      "de": "Ich weiß nicht, ob er intakt war."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm right...",
+      "de": "Ich habe recht..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-about the refractions... aren't I? -Yeah.",
+      "de": "-...mit der Brechung, nicht wahr? -Ja."
+    }
+  },
+  {
+    "translation": {
+      "en": "I checked my blood last night.",
+      "de": "Ich untersuchte gestern mein Blut."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's... in me.",
+      "de": "Es ist... in mir."
+    }
+  },
+  {
+    "translation": {
+      "en": "It will be in all of us.",
+      "de": "Es wird in uns allen sein."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was so strange hearing...",
+      "de": "Es war so seltsam..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sheppard's voice in the mouth of that creature last night.",
+      "de": "...Sheppards Stimme in dieser Kreatur zu hören."
+    }
+  },
+  {
+    "translation": {
+      "en": "I think as she was dying, part of her mind became...",
+      "de": "Ich denke, als sie starb, wurde ein Teil ihres Geistes..."
+    }
+  },
+  {
+    "translation": {
+      "en": "part of the creature that was killing her.",
+      "de": "...ein Teil der Kreatur, die sie tötete."
+    }
+  },
+  {
+    "translation": {
+      "en": "Imagine dying frightened and in pain,",
+      "de": "Stell dir vor, voller Angst und Schmerz zu sterben."
+    }
+  },
+  {
+    "translation": {
+      "en": "and having that as the only part of you which survives.",
+      "de": "Und das ist der einzige Teil von dir, der überlebt."
+    }
+  },
+  {
+    "translation": {
+      "en": "I wouldn't like that at all.",
+      "de": "Das würde mir gar nicht gefallen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventress wants to face it.",
+      "de": "Ventress will dem entgegentreten."
+    }
+  },
+  {
+    "translation": {
+      "en": "You want to fight it.",
+      "de": "Du willst es bekämpfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "But I don't think I want either of those things.",
+      "de": "Ich will weder das eine noch das andere."
+    }
+  },
+  {
+    "translation": {
+      "en": "Josie!",
+      "de": "Josie."
+    }
+  },
+  {
+    "translation": {
+      "en": "One by one, all gone, except you.",
+      "de": "Eine nach der anderen, außer Ihnen."
+    }
+  },
+  {
+    "translation": {
+      "en": "How do you explain that?",
+      "de": "Wie erklären Sie das?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it something I need to explain?",
+      "de": "Muss ich das erklären?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] Yes, you do.",
+      "de": "Ja, das müssen Sie."
+    }
+  },
+  {
+    "translation": {
+      "en": "I had to come back.",
+      "de": "Ich musste zurückkommen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure any of them did.",
+      "de": "Ich weiß nicht, ob eine der anderen das tat."
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ Stand by the stairway ♪",
+      "de": "DER LEUCHTTURM"
+    }
+  },
+  {
+    "translation": {
+      "en": "♪ You'll see something certain To tell you ♪",
+      "de": "DER LEUCHTTURM DIE UNSTERBLICHKEIT DER HENRIETTA LACKS"
+    }
+  },
+  {
+    "translation": {
+      "en": "-♪ Love isn't lying ♪ -Hey.",
+      "de": "Hey."
+    }
+  },
+  {
+    "translation": {
+      "en": "I thought I was a man.",
+      "de": "Ich dachte, ich sei ein Mann."
+    }
+  },
+  {
+    "translation": {
+      "en": "[sighs] I had a life.",
+      "de": "Ich hätte ein Leben."
+    }
+  },
+  {
+    "translation": {
+      "en": "People called me Kane.",
+      "de": "Man nannte mich Kane."
+    }
+  },
+  {
+    "translation": {
+      "en": "And now I'm not so sure.",
+      "de": "Nun bin ich mir nicht sicher."
+    }
+  },
+  {
+    "translation": {
+      "en": "If I wasn't Kane, what was I?",
+      "de": "Wenn nicht Kane, was war ich dann?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was I you?",
+      "de": "War ich du?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Were you me?",
+      "de": "Warst du ich?"
+    }
+  },
+  {
+    "translation": {
+      "en": "My flesh moves...",
+      "de": "Mein Fleisch bewegt sich..."
+    }
+  },
+  {
+    "translation": {
+      "en": "like liquid.",
+      "de": "...als sei es flüssig."
+    }
+  },
+  {
+    "translation": {
+      "en": "My mind is...",
+      "de": "Mein Verstand..."
+    }
+  },
+  {
+    "translation": {
+      "en": "just cut loose.",
+      "de": "...löst sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it. [breath quavering]",
+      "de": "Ich ertrage es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't bear it.",
+      "de": "Ich ertrage es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] I can't bear it.",
+      "de": "Ertrage es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "You ever seen a phosphorus grenade go off? They're kind of bright.",
+      "de": "Je eine Phosphorgranate hochgehen gesehen? Ziemlich hell."
+    }
+  },
+  {
+    "translation": {
+      "en": "Shield your eyes.",
+      "de": "Schütze deine Augen."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you ever get out of here, you find Lena.",
+      "de": "Solltest du je hier rauskommen, finde Lena."
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] I will.",
+      "de": "Das werde ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "Five, four, three, two...",
+      "de": "Fünf, vier... ...drei, zwei..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[whispers] No, no, no. No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's the last phase.",
+      "de": "Das ist die letzte Phase."
+    }
+  },
+  {
+    "translation": {
+      "en": "Vanished into havoc.",
+      "de": "Im Chaos verschwunden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unfathomable mind...",
+      "de": "Unergründbarer Geist..."
+    }
+  },
+  {
+    "translation": {
+      "en": "...and now beacon.",
+      "de": "...und nun Leuchtturm."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now sea.",
+      "de": "Nun Meer."
+    }
+  },
+  {
+    "translation": {
+      "en": "-[gasps] -Dr. Ventress?",
+      "de": "Dr. Ventress?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We spoke.",
+      "de": "Wir redeten."
+    }
+  },
+  {
+    "translation": {
+      "en": "What was it we said?",
+      "de": "Über was redeten wir?"
+    }
+  },
+  {
+    "translation": {
+      "en": "That I needed to know what was inside the lighthouse.",
+      "de": "Darüber, dass ich wissen müsste, was im Leuchtturm ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "That moment's passed.",
+      "de": "Der Moment ist vorbei."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's inside me now.",
+      "de": "Es ist nun in mir."
+    }
+  },
+  {
+    "translation": {
+      "en": "What's... inside you?",
+      "de": "Was ist... in Ihnen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not like us.",
+      "de": "Es ist nicht wie wir."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's unlike us.",
+      "de": "Anders als wir."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know what it wants.",
+      "de": "Ich weiß nicht, was es will."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or if it wants.",
+      "de": "Oder ob es was will."
+    }
+  },
+  {
+    "translation": {
+      "en": "But it will grow...",
+      "de": "Aber es wird wachsen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "until it encompasses everything.",
+      "de": "...bis es alles umschließt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Our bodies and our minds",
+      "de": "Unser Körper und Geist werden in kleinste Teile zerlegt,"
+    }
+  },
+  {
+    "translation": {
+      "en": "will be fragmented into their smallest parts until...",
+      "de": "Unser Körper und Geist werden in kleinste Teile zerlegt, bis... nichts mehr übrig ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "not one part remains.",
+      "de": "bis... nichts mehr übrig ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "Annihilation.",
+      "de": "Auslöschung."
+    }
+  },
+  {
+    "translation": {
+      "en": "So it was alien.",
+      "de": "Also war es außerirdisch."
+    }
+  },
+  {
+    "translation": {
+      "en": "Can you describe its form?",
+      "de": "Können Sie seine Form beschreiben?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "Was it carbon-based or...?",
+      "de": "War es kohlenstoffbasiert?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "de": "Ich weiß es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "What did it want?",
+      "de": "Was wollte es?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think it wanted anything.",
+      "de": "Ich glaube, es wollte nichts."
+    }
+  },
+  {
+    "translation": {
+      "en": "But it... it attacked you.",
+      "de": "Aber... es griff Sie an."
+    }
+  },
+  {
+    "translation": {
+      "en": "It mirrored me.",
+      "de": "Es hat mich imitiert."
+    }
+  },
+  {
+    "translation": {
+      "en": "I attacked it.",
+      "de": "Ich griff es an."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not sure it even knew I was there.",
+      "de": "Keine Ahnung, ob es wusste, dass ich da war."
+    }
+  },
+  {
+    "translation": {
+      "en": "It came here for a reason.",
+      "de": "Es kam aus einem Grund hierher."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was mutating our environment, it was destroying everything.",
+      "de": "Es mutierte unsere Umgebung, es zerstörte alles."
+    }
+  },
+  {
+    "translation": {
+      "en": "It wasn't destroying.",
+      "de": "Es zerstörte nichts."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was changing everything.",
+      "de": "Es veränderte alles."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was making something new.",
+      "de": "Es kreierte etwas Neues."
+    }
+  },
+  {
+    "translation": {
+      "en": "Making what?",
+      "de": "Und was?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know.",
+      "de": "Ich weiß es nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "A team reached the lighthouse a few hours ago.",
+      "de": "Ein Team kam vor zwei Stunden am Leuchtturm an."
+    }
+  },
+  {
+    "translation": {
+      "en": "Everything is ash.",
+      "de": "Es ist alles Asche."
+    }
+  },
+  {
+    "translation": {
+      "en": "If what you encountered was once alive...",
+      "de": "Wenn das, auf was Sie stießen, einst lebendig war..."
+    }
+  },
+  {
+    "translation": {
+      "en": "it seems it's now dead.",
+      "de": "...ist es nun tot."
+    }
+  },
+  {
+    "translation": {
+      "en": "Now will you tell me what happened to my husband?",
+      "de": "Sagen Sie nun, was mit meinem Mann ist?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[man] When the Shimmer disappeared,",
+      "de": "Als der Schimmer verschwand,"
+    }
+  },
+  {
+    "translation": {
+      "en": "his blood pressure stabilized and his pulse rate started to rise.",
+      "de": "stabilisierte sich sein Blutdruck, und sein Puls erhöhte sich."
+    }
+  },
+  {
+    "translation": {
+      "en": "A few hours later, he was not only awake,",
+      "de": "Wenige Stunden später war er nicht nur wach,"
+    }
+  },
+  {
+    "translation": {
+      "en": "he was lucid.",
+      "de": "sondern hellwach."
+    }
+  },
+  {
+    "translation": {
+      "en": "He's still in isolation, obviously.",
+      "de": "Er ist natürlich noch in Isolation."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lena] So am I.",
+      "de": "Ich auch."
+    }
+  },
+  {
+    "translation": {
+      "en": "You aren't Kane...",
+      "de": "Du bist nicht Kane..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are you?",
+      "de": "...oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think so.",
+      "de": "Ich glaube nicht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you Lena?",
+      "de": "Bist du Lena?"
+    }
+  }
+]

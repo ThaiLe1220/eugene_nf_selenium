@@ -1,0 +1,2216 @@
+[
+  {
+    "translation": {
+      "en": "[Dr. Zitter] How are you doing?",
+      "ko": "괜찮으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know that's a stupid question.",
+      "ko": "바보 같았죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't think you're doing very well right now.",
+      "ko": "그냥 봐도 안 괜찮으신데"
+    }
+  },
+  {
+    "translation": {
+      "en": "But can you write for me so that we can talk a little bit,",
+      "ko": "얘기 나누게 글 쓰실 수 있겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "or do you not have the energy right now?",
+      "ko": "지금은 힘이 없으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you wanna write?",
+      "ko": "쓰고 싶으세요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Okay, I have a better idea. What's the first letter?",
+      "ko": "방법을 바꿔보죠 첫 글자가 뭐죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[doctor] T. -[Dr. Zitter] T.",
+      "ko": "- ‘T’ - ‘T’"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "아니에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Start one more time. Start one more time.",
+      "ko": "다시 한 번만요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, I'm sorry.",
+      "ko": "죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm sorry. I'm sorry.",
+      "ko": "정말 죄송해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Can we try with these letters, okay?",
+      "ko": "글자를 가리켜 보실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I.",
+      "ko": "‘I’"
+    }
+  },
+  {
+    "translation": {
+      "en": "N? No.",
+      "ko": "‘N’, 아니에요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm...",
+      "ko": "‘나는...’"
+    }
+  },
+  {
+    "translation": {
+      "en": "Say it again.",
+      "ko": "다시 말해보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it about the tube? Is this about the breathing tube?",
+      "ko": "관 얘기인가요? 호흡관이요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you want the breathing tube out? Do you want me to take it away?",
+      "ko": "호흡관을 뺄까요? 뺐으면 좋겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want it out? What if you die if I take it out?",
+      "ko": "뺄까요? 뺐다가 돌아가시면요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is Violeta calling from intensive care",
+      "ko": "하이랜드 병원 중환자실 소속"
+    }
+  },
+  {
+    "translation": {
+      "en": "at Highland Hospital in the ICU.",
+      "ko": "비올레타입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "14:19 was the time of death, yes.",
+      "ko": "사망 시각은 오후 2시 19분이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sixty-six-year-old gentleman, history of HIV.",
+      "ko": "66세 남성이고 HIV 보균자예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Past medical history of dementia, COPD.",
+      "ko": "치매와 만성 폐쇄성 폐 질환 병력이 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Probably substance abuse, cocaine and currently methadone.",
+      "ko": "과거에 코카인 남용이 의심되고 현재는 메타돈 투여 중입니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Who is this? Call the crash cart in.",
+      "ko": "누구죠? 장비 가져와요, 괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[doctor 1] Let's get an EKG-- -[doctor 2] EKG.",
+      "ko": "- 심전도 측정하죠 - 심전도 준비"
+    }
+  },
+  {
+    "translation": {
+      "en": "[doctor] I just think we should have the conversation",
+      "ko": "얘기 좀 해봅시다"
+    }
+  },
+  {
+    "translation": {
+      "en": "about, \"What did he really want?\" 'Cause if he didn't want even antibiotics,",
+      "ko": "환자가 뭘 원할까요? 항생제를 거부한다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "now we're putting a ventric in and then we're gonna obligate him to a shunt",
+      "ko": "뇌실조루술을 하고 관을 삽입해야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "if he makes it out of this.",
+      "ko": "성공한다면요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[nurse] Best case scenario for the guy is probably grim,",
+      "ko": "최선의 경우라도 예후가 좋지 않지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he's also 30 years old",
+      "ko": "환자는 겨우 30살이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we don't know how much of his decision-making",
+      "ko": "어떤 병증이 유발될지 모르는 상황에서"
+    }
+  },
+  {
+    "translation": {
+      "en": "is attributable to medical illness, it's impossible to state.",
+      "ko": "환자의 결정이 얼마나 의미가 있을지 모르겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So, I'm uncomfortable with making the decision now to let him die.",
+      "ko": "그냥 죽게 두는 건 맘이 편치 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Here's the reality.",
+      "ko": "현실은 이거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all gonna die, everyone standing in this room is gonna die one day",
+      "ko": "우린 모두 죽어요 여기 있는 모두가요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and it's good to have a little bit of a say in how.",
+      "ko": "죽는 방법 정도는 택할 수 있는 거잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, I know, the straps. I know, sweetheart.",
+      "ko": "그래, 끈 때문에 힘들지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's frustrating, I know. [softly] I know.",
+      "ko": "짜증 나지, 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon] It's all good. Okay, okay, okay. I know.",
+      "ko": "괜찮아, 그 맘 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "The reason the straps are on",
+      "ko": "아무거나 안 당기게 끈으로 묶은 거야"
+    }
+  },
+  {
+    "translation": {
+      "en": "is so that you don't pull anything out. It's to protect you.",
+      "ko": "아무거나 안 당기게 끈으로 묶은 거야 당신 다치지 않게 하려고"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay?",
+      "ko": "알았지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mmm-hmm.",
+      "ko": "“도나”"
+    }
+  },
+  {
+    "translation": {
+      "en": "I know it's hard to communicate, huh? Mmm-hmm.",
+      "ko": "말하기 힘들지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You want me to... you want me...",
+      "ko": "내가..."
+    }
+  },
+  {
+    "translation": {
+      "en": "you want me to help you get your legs out?",
+      "ko": "다리 빼게 해달라고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I... I can't, you know that.",
+      "ko": "그러면 안 되는 거 알잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "You wanna get up?",
+      "ko": "일어날래?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't get you up.",
+      "ko": "일어나면 안 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, if that's what you're trying to tell me, I understand.",
+      "ko": "그 얘기면 이해했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay? I know you want me to get you out.",
+      "ko": "알았지? 일으켜달라는 건 이해했어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay. All right.",
+      "ko": "괜찮아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would say that if her muscle strength doesn't improve...",
+      "ko": "환자분 근력이 나아지지 않으면..."
+    }
+  },
+  {
+    "translation": {
+      "en": "If her muscle strength improves, then, you know, -that eliminates a lot of problems for us. -All right.",
+      "ko": "근력이 회복되면 문제가 많이 해결돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if this represents a decline in the overall disease state...",
+      "ko": "하지만 전체적으로 병이 악화한다면..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Or... or just even stays the same.",
+      "ko": "지금 상태가 유지돼도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stays the same.",
+      "ko": "유지된다 하더라도요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then she will require some sort of machine to help her breathe.",
+      "ko": "숨 쉴 때 보조 기계가 필요할 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon stutters] Is there any other option,",
+      "ko": "다른 방법은 없나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "or is it really this ventilator system or that, are those the...",
+      "ko": "이 호흡 보조기랑 말씀하신 그거..."
+    }
+  },
+  {
+    "translation": {
+      "en": "are those the only two options?",
+      "ko": "그 2개뿐인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Bhargava] The tracheostomy is...",
+      "ko": "기관절개술이"
+    }
+  },
+  {
+    "translation": {
+      "en": "is really the main form of...",
+      "ko": "저희가 해드릴 수 있는"
+    }
+  },
+  {
+    "translation": {
+      "en": "of intervention we could offer,",
+      "ko": "최선이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "if she were willing to accept, you know, being attached to a machine.",
+      "ko": "최선이에요 환자분이 기계 부착에 동의하시면요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is that something that she would want for herself,",
+      "ko": "환자분이 그걸 원하실까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "that she would be open to?",
+      "ko": "받아들이실 수 있을까요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it just to...",
+      "ko": "그렇게 하면 “방문객”"
+    }
+  },
+  {
+    "translation": {
+      "en": "just to kinda keep her in limbo?",
+      "ko": "계속 이렇게 사나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Is it... I mean, that's...",
+      "ko": "그러니까..."
+    }
+  },
+  {
+    "translation": {
+      "en": "that's pretty much it?",
+      "ko": "그게 다인가요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're right, it's a form of limbo.",
+      "ko": "그렇다고 할 수 있죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon] I need ya to help me get beyond this.",
+      "ko": "절 좀 도와주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I have to be right for her.",
+      "ko": "아내를 위해 옳은 결정을 내릴 수 있게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll be right for you.",
+      "ko": "여보, 내가 옳은 결정을 내릴게"
+    }
+  },
+  {
+    "translation": {
+      "en": "So she showed up at the hospital",
+      "ko": "차를 타고 병원에 오셨는데..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-in the car and then-- -[doctor 1] No. She was in the car.",
+      "ko": "차를 타고 병원에 오셨는데... 차에서 못 내리셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "They were trying to bring her to the hospital and she arrested.",
+      "ko": "병원으로 옮기려는데 심장이 멎었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sixteen to 26 minutes from arrest to return of circulation.",
+      "ko": "심정지에서 회복까지 16분에서 26분 걸렸어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Sixteen to 26 minutes of down time.",
+      "ko": "심정지 기간이 16분에서 26분이군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[doctor 2] Mmm-hmm. -[doctor 1] Mmm-hmm.",
+      "ko": "“셀레나”"
+    }
+  },
+  {
+    "translation": {
+      "en": "Was that the family doing CPR in the car?",
+      "ko": "가족이 심폐소생술을 했나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[doctor 1] Yes. -Okay.",
+      "ko": "- 네 - 그렇군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You woke up in the morning and said, \"Mom, I'm taking you to hospital.\"",
+      "ko": "아침에 일어나서 어머니께 병원에 가자고 하셨다고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tama] She didn't want me to call the ambulance, 'cause she... thought about that $2,000.",
+      "ko": "구급차는 부르지 말라셨어요 2천 달러는 들 거라면서요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-You know, so... -[Dr. Zitter] Oh... she kinda was like-- [Dr. Zitter] So she finally said, \"I'm going in.\"",
+      "ko": "- 그래서... - 결국 병원에는 가겠다 하셨군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Not in the best financial situation. -Oh, sorry.",
+      "ko": "- 돈이 많지 않아서요 - 그랬군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeah, so then she jumps in my husband's car, we're driving off,",
+      "ko": "제 남편 차에 타고 가는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "and she said, \"Guys, hurry up,\" and then she went... [gags]",
+      "ko": "서두르라고 하시더니..."
+    }
+  },
+  {
+    "translation": {
+      "en": "And then we had to pull her out the car and start to do",
+      "ko": "차에서 끌어 내려서"
+    }
+  },
+  {
+    "translation": {
+      "en": "the resuscitation with the CPR. [Dr. Zitter] That must have been terrifying.",
+      "ko": "- 심폐소생술을 했어요 - 정말 놀라셨겠군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Oh, it was beyond terrifying.",
+      "ko": "그 이상이었죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I must say, that's impressive, and your mom's lucky.",
+      "ko": "정말 대단하네요 어머님이 운이 좋으셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And now where are we? Tell me what you understand.",
+      "ko": "어디까지 했죠? 아시는 걸 말씀해보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tama] They want big responses. -[Dr. Zitter] Yep.",
+      "ko": "- 큰 반응이 있는지 보라셔서 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tama] I'm checking for any response that I can get.",
+      "ko": "모든 반응을 확인하고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I first came in here, I could touch her hand,",
+      "ko": "처음 여기 왔을 땐 손을 만지든"
+    }
+  },
+  {
+    "translation": {
+      "en": "I could do anything, she wasn't gonna open her eyes.",
+      "ko": "뭘 하든 눈을 안 뜨셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Okay, now I come in, I touch her hand... -Yeah. her eyes went wide open.",
+      "ko": "이제 제가 손을 만지면 눈을 번쩍 뜨세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Selena? Can you squeeze my hand?",
+      "ko": "셀레나 씨? 제 손을 쥐어보실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Squeeze my hand.",
+      "ko": "손을 쥐어보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Squeeze my hand, honey.",
+      "ko": "꽉 쥐어보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "됐어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Would I like to see her really looking at me",
+      "ko": "절 바라보면서 지시를 따를 수 있었으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and kind of following commands?",
+      "ko": "좋겠죠?"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[Tama] Yes. Mmm-hmm. -Yes, I would.",
+      "ko": "- 네 - 저도 그래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Am I concerned a little bit still",
+      "ko": "하지만 그 이상으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "that maybe we won't get a whole lot more? I am.",
+      "ko": "회복되시진 않을 것 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "To me, the whole situation is miraculous in and of itself",
+      "ko": "지금 이 상황도 정말 기적 같아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -So I'm looking for another miracle.",
+      "ko": "기적이 또 일어나면 좋겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] You know, this is clearly a loving daughter who will do anything",
+      "ko": "따님이 어머니를 위해서라면 뭐든 하려고 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "for her mother, and she's really wrestling and struggling,",
+      "ko": "따님이 어머니를 위해서라면 뭐든 하려고 해요 하지만 정말 고민하고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and sometimes it's just too much for one person to make a decision like this",
+      "ko": "한 사람이 결정하기엔..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-on her own. -[brother 1] Yeah.",
+      "ko": "- 네 - 힘들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think you're very sensitive uncles, -and I think she's lucky. -Mmm-hmm.",
+      "ko": "세심한 삼촌들이 계신 게 참 다행이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 2] That's all she has, is her mother. She's an only child.",
+      "ko": "애 엄마가 유일한 가족이에요 외동딸이거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] I know. So it's really, really difficult.",
+      "ko": "- 알아요 - 그래서 어려워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 1] Is there any definitive test",
+      "ko": "검사로 확실하게"
+    }
+  },
+  {
+    "translation": {
+      "en": "-that will tell you that absolutely, -[Dr. Zitter] Mmm-hmm.",
+      "ko": "어떤 상황에서도"
+    }
+  },
+  {
+    "translation": {
+      "en": "positively, there is no way for her to recover under any circumstance?",
+      "ko": "셀레나가 회복할 수 없단 걸 확인할 수는 없나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] She won't wake up from this in a meaningful way, and I don't know",
+      "ko": "깨어나더라도 의미 있는 생활은 불가능해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "if that's been clearly stated to you, if you've heard that.",
+      "ko": "제가 확실히 말씀드렸는지 모르겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 1] That's my first time hearing that.",
+      "ko": "처음 들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Every day, people with very poor",
+      "ko": "신경학적으로 예후가 좋지 않은 환자가"
+    }
+  },
+  {
+    "translation": {
+      "en": "neurologic prognoses are attached permanently to machines,",
+      "ko": "평생 달고 살아야 하는 기계를 이식 받는 걸"
+    }
+  },
+  {
+    "translation": {
+      "en": "and, unfortunately, it's very hard,",
+      "ko": "거의 매일 보게 되는데 안타깝지만 감정적으로 아주 힘들어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "emotionally, for us physicians when we feel that we're taking a body and we're just...",
+      "ko": "저희 의사들도 인간성을 잃은 몸을"
+    }
+  },
+  {
+    "translation": {
+      "en": "we're keeping it alive when it's not really the person.",
+      "ko": "무작정 살려둔다는 느낌을 받거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 3] But God have proven to me,",
+      "ko": "하지만 신께서 제게 보여주셨어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "miracles are miracles, and we askin' him for one.",
+      "ko": "기적은 분명 존재한단 것을요 기적적으로 일어날지도 모르죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] Okay.",
+      "ko": "알겠습니다"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I had to make the decision for myself,",
+      "ko": "이게 내 몸이었다면"
+    }
+  },
+  {
+    "translation": {
+      "en": "take me off and if I breathe on my own, then that's fine, that's God's will.",
+      "ko": "기계를 떼고도 숨을 쉰다면 신의 뜻이라 믿고 살겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "If I don't breathe on my own, fine, -then that's God's will. -Mmm-hmm.",
+      "ko": "만약 숨을 못 쉬면 그것도 신의 뜻이고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 4] You know, 'cause I believe in prayer...",
+      "ko": "기도의 힘을 믿지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but I believe in nature taking its course, too.",
+      "ko": "- 네 - 자연의 섭리도 믿거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's tough. It's tough.",
+      "ko": "힘드네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would hate not to do the trache...",
+      "ko": "수술을 안 하는 건 싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[voice breaking] because that's my... my sister.",
+      "ko": "내 동생이니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "But I--",
+      "ko": "하지만..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mmm-mmm. It's too much for me.",
+      "ko": "견디기 힘드네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter, softly] I understand.",
+      "ko": "이해해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanna try everything I can.",
+      "ko": "할 수 있는 건 다 해보고 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sobbing] I just wanna try whatever, it doesn't make any difference.",
+      "ko": "소용이 없다고 해도 해보고 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Well, there are very few things that you can be 100% certain about.",
+      "ko": "100% 확신할 수 있는 일은 그리 많지 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And you risk hurting people if you're wrong.",
+      "ko": "제 생각이 틀렸다면 상처만 준 꼴이 되겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "My concern is if we continue to draw it out",
+      "ko": "제가 걱정하는 건 여러 조치를 통해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Hmm. -and we continue to do more and more things to her,",
+      "ko": "생명을 연장할수록 환자의 고통만"
+    }
+  },
+  {
+    "translation": {
+      "en": "-we're gonna cause more suffering -Sure.",
+      "ko": "- 늘어난다는 거예요 - 그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "without likely benefit.",
+      "ko": "좋은 점은 없고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] When I was a young attending,",
+      "ko": "젊은 인턴 시절에는"
+    }
+  },
+  {
+    "translation": {
+      "en": "I had been asked to go put a large catheter in someone's neck.",
+      "ko": "누군가 죽어갈 때면 목에 거대한 카테터를"
+    }
+  },
+  {
+    "translation": {
+      "en": "She was dying.",
+      "ko": "넣으라는 지시를 받았죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I went into lifesaving mode.",
+      "ko": "환자를 살리려고 했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right before we were getting ready, I look up and I see",
+      "ko": "카테터 준비를 마치고 막 실행하려는 찰나에"
+    }
+  },
+  {
+    "translation": {
+      "en": "this nurse in the doorway,",
+      "ko": "복도의 간호사와 눈이 마주치면"
+    }
+  },
+  {
+    "translation": {
+      "en": "and she looked at me, locking eyes with me and said,",
+      "ko": "이런 표정을 짓더군요"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Call the police. They're torturing a patient in the ICU.\"",
+      "ko": "‘경찰 불러요 환자를 고문하고 있어요’"
+    }
+  },
+  {
+    "translation": {
+      "en": "My heart dropped into my stomach, and I realized, \"Oh, my gosh, she's right.",
+      "ko": "가슴이 철렁했어요 ‘맞아, 그러네’"
+    }
+  },
+  {
+    "translation": {
+      "en": "What I'm doing right now is not gonna help her.",
+      "ko": "‘지금 이건 환자에게 도움이 되지 않아’"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's not gonna get rid of this disease that's killing her.\"",
+      "ko": "‘이런다고 병이 사라지지도 않잖아’"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I don't wanna do that anymore.",
+      "ko": "더는 하고 싶지 않았죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Living homeless, debilitated, -[Dr. Bhargava] Mmm-hmm. -failure to thrive-- -Mmm-hmm.",
+      "ko": "집에 못 가고 활동도 못 하고..."
+    }
+  },
+  {
+    "translation": {
+      "en": "He's been institutionalized for a long time now.",
+      "ko": "입원한 지 꽤 됐죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're just keeping a close eye on you",
+      "ko": "괜찮으신지"
+    }
+  },
+  {
+    "translation": {
+      "en": "-to make sure you're feelin' all right. -[patient] Okay.",
+      "ko": "계속 지켜볼게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Do you have any family members or anybody",
+      "ko": "가족이나"
+    }
+  },
+  {
+    "translation": {
+      "en": "that is part of your family?",
+      "ko": "아는 친척 있나요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No, that I know... [stutters]",
+      "ko": "제가 알..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Oh, I'm sorry?",
+      "ko": "네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not that I know of.",
+      "ko": "“제가 알기론 없어요”"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mmm. Well, we'll help take care of you then.",
+      "ko": "그럼 저희가 돌봐드릴게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[patient] Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "If we're gonna treat, the treatment is the ventriculostomy.",
+      "ko": "치료를 한다면 뇌실조루술뿐이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-And what would-- -So if you guys don't agree with that",
+      "ko": "저희 의견과 반대로"
+    }
+  },
+  {
+    "translation": {
+      "en": "and if you tell me, \"Nope, this guy would want everything done.",
+      "ko": "환자가 뭐든 해보고 싶어 하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "He'd want to live, even if he was vegetative on a ventilator for his life",
+      "ko": "평생 호흡기와 급식 관을 달고 살아야 한대도"
+    }
+  },
+  {
+    "translation": {
+      "en": "with a feeding tube,\" then the treatment is to put the ventric in.",
+      "ko": "살고 싶어 할 거로 생각하면 뇌실조루술을 하는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't feel that he is able to make those decisions,",
+      "ko": "환자 스스로는 결정을 내릴 힘이 없고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and I don't feel that we have someone who can really make them for him.",
+      "ko": "대신 내려줄 사람도 없어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't really know his prognosis.",
+      "ko": "예후가 어떨지 모르잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We don't know if he ever had capacity for decision making,",
+      "ko": "결정을 내릴 능력이 있는지 모르니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "so the ethics of this are murky.",
+      "ko": "윤리적으로 애매한 문제예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you like to make your own medical decisions,",
+      "ko": "치료에 관련해서 직접 결정하시겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "or do you like the doctors to make the decisions for you?",
+      "ko": "치료에 관련해서 직접 결정하시겠어요? 아니면 의사에게 맡기실래요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If we don't get clear, we're not gonna give him a chance to opt out,",
+      "ko": "확답을 받지 못하면 치료가 진행돼요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and we're just gonna do what we do with all of our patients,",
+      "ko": "다른 환자와 똑같이"
+    }
+  },
+  {
+    "translation": {
+      "en": "which is just plug them in and let them die on machine.",
+      "ko": "기계를 부착하고 죽도록 두는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "How would you feel if you... were not getting better on a breathing machine?",
+      "ko": "호흡기를 달고도 낫지 않으면 어쩌시겠어요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Then I don't wanna be on a breathing machine.",
+      "ko": "그럼 달기 싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I don't wanna suffer... -Okay.",
+      "ko": "- 기계를 달고... - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "with that machine.",
+      "ko": "고통스럽긴 싫어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I mean, it's his decision,",
+      "ko": "아버지 결정이시니까요"
+    }
+  },
+  {
+    "translation": {
+      "en": "but he know as well as I know...",
+      "ko": "저만큼 많이 생각하셨겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't wanna see him go,",
+      "ko": "보내드리고 싶지 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know, 'cause I haven't lost a parent yet, you know, so I wouldn't know how it feels.",
+      "ko": "부모님을 여읜 적이 없어서 어떤 느낌인지도 모르겠고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know, so...",
+      "ko": "그러니까..."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're wondering if maybe this is the point where we kind of need to stop,",
+      "ko": "이쯤에서 멈추고"
+    }
+  },
+  {
+    "translation": {
+      "en": "decide, and maybe have--",
+      "ko": "결정해야 하나 싶어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Put the tube in, kinda put you to sleep and have the machine help breathe for you.",
+      "ko": "관을 삽입하고 기계가 대신 숨을 쉬게 해야 하는지요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[muffled] How do you make that choice?",
+      "ko": "그런 걸 어떻게 결정해요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "For some people it's an easy choice, and for some people it's not.",
+      "ko": "누군가에겐 쉽고 누군가에겐 어려운 결정이죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm 38. -I know you're 38.",
+      "ko": "- 전 38살이에요 - 알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-A new grandma. -I know.",
+      "ko": "- 이번에 손주가 생겼고요 - 들었어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't wanna give my life away yet.",
+      "ko": "아직 죽고 싶지 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] I know.",
+      "ko": "알아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon] You look better today, you know that?",
+      "ko": "오늘은 좋아 보이네?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You look better. You look like you got a little bit of a fight in you today. Mmm-hmm.",
+      "ko": "괜찮아 보여 기운이 난 것 같네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Good. So yeah, that's right.",
+      "ko": "잘됐다, 좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll make you laugh as many times as I can.",
+      "ko": "최대한 많이 웃게 해줄게"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the deal.",
+      "ko": "약속이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "All good. All good.",
+      "ko": "좋아"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon whispering] Her... organs are failing.",
+      "ko": "장기가 약해지고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Right now, the only thing that's functioning is that ventilator.",
+      "ko": "지금 작동하는 건 저 호흡기뿐이에요"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's keeping her--",
+      "ko": "저게 없다면..."
+    }
+  },
+  {
+    "translation": {
+      "en": "'Cause she's got saliva, she can choke at any time.",
+      "ko": "침이 나오니까 언제 숨이 막힐지 몰라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's been throwing up.",
+      "ko": "계속 토했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "So that's all part of it, her muscles in her lungs are stopping.",
+      "ko": "폐의 근육이 멈추니까 그렇게 되는 거겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Hey, Donna?",
+      "ko": "도나 씨?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Um, we're gonna just step out.",
+      "ko": "저희는 잠깐 나갈게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna go talk to your family for a little bit...",
+      "ko": "가족분하고 잠깐 얘기 나눌게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and then we're gonna come back and talk with you, if you're up for it.",
+      "ko": "괜찮으시면 이따 얘기해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Zitter] Okay.",
+      "ko": "네"
+    }
+  },
+  {
+    "translation": {
+      "en": "Things that're happening in her body right now are all the kinds of things",
+      "ko": "지금 도나 씨를 보면"
+    }
+  },
+  {
+    "translation": {
+      "en": "that you would expect with end-stage myotonic dystrophy.",
+      "ko": "말기 근긴장성이영양증 증상이 전부 나타나고 있어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we are very concerned",
+      "ko": "다시는 스스로"
+    }
+  },
+  {
+    "translation": {
+      "en": "that... that we may not be able to get her breathing on her own again.",
+      "ko": "숨을 못 쉴 가능성이 아주 크다고 봐요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And what that means, looking forward, is... attachment to a breathing machine...",
+      "ko": "그러니 앞으로 호흡기를 달고"
+    }
+  },
+  {
+    "translation": {
+      "en": "in what's called a ventilator facility.",
+      "ko": "살게 될 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "The other approach is to say we're gonna take her off the breathing machine",
+      "ko": "다른 방법이 있다면 호흡기를 떼고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and hope that she lives for a long period of time.",
+      "ko": "다른 방법이 있다면 호흡기를 떼고 오래 살길 바라는 거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "It probably wouldn't be, I'm gonna guess more than a day or two.",
+      "ko": "아마 하루 이틀을 넘기지 못할 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maybe, you know, I've been surprised, sometimes it's longer...",
+      "ko": "가끔 깜짝 놀랄 정도로 더 오래 살기도 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "and really focus on her comfort and her calmness,",
+      "ko": "환자가 편안하고 차분하게"
+    }
+  },
+  {
+    "translation": {
+      "en": "and her being with her family and let her pass naturally.",
+      "ko": "가족과 시간을 보내면서 자연스레 가게 해주세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[sniffs] Knowing at some point you gotta get to that reality,",
+      "ko": "언젠간 이런 현실에 맞닥뜨릴 줄 알았죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know, but you can always put it off, and now it's here.",
+      "ko": "미루고 미뤄서 여기까지 왔네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't tell if she is alert enough",
+      "ko": "환자분도 이런 대화를 할 수 있을 정도로"
+    }
+  },
+  {
+    "translation": {
+      "en": "to have this conversation.",
+      "ko": "정신이 또렷할지 잘 모르겠네요"
+    }
+  },
+  {
+    "translation": {
+      "en": "When I talked to her this morning a little bit,",
+      "ko": "오늘 아침에 잠깐 얘기했는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't feel that she... was really understanding.",
+      "ko": "그다지 이해하시는 것 같지 않았어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[stutters] And that's-- At that point, if that's the way it is,",
+      "ko": "계속 그런 상태라면..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and if things don't... if she doesn't perk up and really become herself,",
+      "ko": "갑자기 일어나서 기운을 차리지 않는 이상"
+    }
+  },
+  {
+    "translation": {
+      "en": "that's when surrogate people have to step in and make those choices.",
+      "ko": "보호자들께서 결정을 내리셔야 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[voice breaking] I wanna make sure that she knows that--",
+      "ko": "아내가 이것만은 꼭 알아줬으면 좋겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "that we've explored all the options.",
+      "ko": "우리가 최선을 다했다는 거요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I told her I'd never let the doctors stop. -Mmm-hmm. -[sniffs]",
+      "ko": "치료를 중단하지 않겠다고 약속했거든요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I would never let 'em stop,",
+      "ko": "절대로 안 그럴 거라고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "but when I told 'em to stop, she had to trust me.",
+      "ko": "하지만 지금 치료를 중지하는 덴 이유가 있으니까..."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Bhargava] And I'm with you. I don't want her to suffer",
+      "ko": "동의해요 환자를 계속 고통스럽게"
+    }
+  },
+  {
+    "translation": {
+      "en": "or have anything prolonged or painful.",
+      "ko": "하고 싶진 않아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I just want them to make a decision with the best information available.",
+      "ko": "하지만 최대한의 정보를 숙지하고 그 후에 결정하게 했으면 해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I feel that as of right now, as of today,",
+      "ko": "현재로써는"
+    }
+  },
+  {
+    "translation": {
+      "en": "we haven't had, you know, an expert in her disorder",
+      "ko": "아직 전문가의 예후 판단을 못 들려줬잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "weigh in on what her prognosis might be.",
+      "ko": "아직 전문가의 예후 판단을 못 들려줬잖아요 제가 제일..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-My biggest-- But I was saying-- -My biggest fear is telling a family",
+      "ko": "제가 제일... 제가 제일 무서운 건"
+    }
+  },
+  {
+    "translation": {
+      "en": "that there's zero hope when maybe there is.",
+      "ko": "희망이 있을지도 모르는데 없다고 단언하는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I sat with that family for an hour and a half.",
+      "ko": "가족분하고 1시간 반 동안 얘기했어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Yeah. -And I pulled every little bit of information about her",
+      "ko": "환자에 관한 정보를 최대한 얻었는데"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Right. -and I found that she'd had conversations with her brother",
+      "ko": "환자분이 몇 번이나 이런 얘기를 했대요"
+    }
+  },
+  {
+    "translation": {
+      "en": "that she had initiated several times -Yeah. -about not wanting to be on a machine,",
+      "ko": "기계를 달고는 살고 싶지 않다고요"
+    }
+  },
+  {
+    "translation": {
+      "en": "not wanting to be kept alive on machines.",
+      "ko": "억지로 살긴 싫다고 했대요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Part of me is, like, death is so final that if we sort of...",
+      "ko": "어떻게 보면 죽으면 끝이니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "-I know. -If we make the decision not to go down that route...",
+      "ko": "그 길을 가지 않으면..."
+    }
+  },
+  {
+    "translation": {
+      "en": "I know, I know.",
+      "ko": "- 알아요 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "And frankly, we're not even making the decision, they are,",
+      "ko": "우리 결정이 아니고 보호자 결정이지만..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-but it is... -Well, that's what I'm trying to do,",
+      "ko": "그래서 그러려는..."
+    }
+  },
+  {
+    "translation": {
+      "en": "-guided by what we say. So... -I'm trying to put it on-- I just--",
+      "ko": "그래서 그러려는... 우리 말에 휘둘리잖아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't know. [stuttering] This is a conundrum for me, too.",
+      "ko": "저도 혼란스러워요 저한테도 어려운 문제예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hi, Mama. Mama?",
+      "ko": "안녕, 엄마"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mama, I know you're in there. Mama?",
+      "ko": "듣고 있는 거 알아요 엄마?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 1] Selena.",
+      "ko": "셀레나"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 2] Hey, sis.",
+      "ko": "내 동생"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "나 왔어"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey, sis.",
+      "ko": "오빠 왔다"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got your brothers here with you. We're here.",
+      "ko": "오빠들이 같이 있을게"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hey.",
+      "ko": "안녕"
+    }
+  },
+  {
+    "translation": {
+      "en": "Selena, this is what I'm seeing.",
+      "ko": "셀레나, 지금 봤어"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's the first time she's jumpin'.",
+      "ko": "처음으로 움직였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 2] I know you trying to say something, huh?",
+      "ko": "뭔가 말하고 싶구나"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 3] Yeah, that's all right. [brother 2] You trying to say somethin', ain't you?",
+      "ko": "- 괜찮아 - 할 말이 있는 거지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 3] Yes, Lord.",
+      "ko": "- 그래 - 셀레나 좀 봐"
+    }
+  },
+  {
+    "translation": {
+      "en": "Come on now, y'all, look at her. She opened her eyes and move 'em.",
+      "ko": "- 그래 - 셀레나 좀 봐 - 응 - 눈을 뜨고 움직였어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[brother 3] Yes, God. -Hey, sis.",
+      "ko": "- 그래 - 셀레나"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[brother 3] We love you, Selena. -[brother 2] Yes, we do.",
+      "ko": "- 사랑해, 셀레나 - 정말이야"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 3] We not gonna leave you by yourself.",
+      "ko": "혼자 두지 않을게"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 2] We got ya, baby girl.",
+      "ko": "우리가 옆에 있어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 4] We just ask that you touch her, Father God.",
+      "ko": "하느님, 조금만 셀레나를 돌봐주십시오"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know the doctors say one thing, Father God,",
+      "ko": "의사는 안 된다지만 하느님께서는 만병을 통치하시니"
+    }
+  },
+  {
+    "translation": {
+      "en": "but we know that you the doctor of doctors, Father God,",
+      "ko": "의사는 안 된다지만 하느님께서는 만병을 통치하시니 왕 중의 왕이신"
+    }
+  },
+  {
+    "translation": {
+      "en": "-and the Lord of Lords, Father God. -[brother 3] In Jesus' name.",
+      "ko": "왕 중의 왕이신 - 하느님 - 예수 이름으로"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brother 4] In Jesus' name, we pray this prayer. Amen.",
+      "ko": "기도드리나이다, 아멘"
+    }
+  },
+  {
+    "translation": {
+      "en": "[brothers] Amen.",
+      "ko": "아멘"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Tama] You know, even though my mom may be in this situation,",
+      "ko": "저희 엄마가 이런 상태이시긴 하지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "it would feel like murder to pull her life support.",
+      "ko": "보조기를 끊는 건 살인처럼 느껴져요"
+    }
+  },
+  {
+    "translation": {
+      "en": "That's what it would feel like to me.",
+      "ko": "저한테는 그래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "We're gonna support you through this. This is",
+      "ko": "계속 도와드릴게요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-very painful for you and your family. -Absolutely.",
+      "ko": "많이 힘드실 테니까요 그렇죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we're gonna, you know...",
+      "ko": "그리고..."
+    }
+  },
+  {
+    "translation": {
+      "en": "We're all, I mean, everyone hopes for a miracle,",
+      "ko": "우리 모두 기적을 바라죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm hoping for a miracle.",
+      "ko": "저도 그래요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I feel like, maybe as a doctor, being as smart and being as knowledgeable",
+      "ko": "선생님은 의사시니까 당연히 똑똑하실 테고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and being in-- inside of medical journals,",
+      "ko": "아는 것도 많으실 테고 논문도 쓰셨을 테니까"
+    }
+  },
+  {
+    "translation": {
+      "en": "you know, it... it can dwindle the optimism a little bit.",
+      "ko": "선생님께서 희망을 못 품으시는 건 이해해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm just trying to help you make a decision that's right for your mom,",
+      "ko": "어머님께 옳은 결정을 내리도록 도와드리는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Absolutely. -and that's why I want you to be able",
+      "ko": "- 그럼요 - 그러니 이 상황을"
+    }
+  },
+  {
+    "translation": {
+      "en": "to think through this as clearly as you can,",
+      "ko": "- 그럼요 - 그러니 이 상황을 잘 생각해보시길 바라요"
+    }
+  },
+  {
+    "translation": {
+      "en": "just thinking about what would my mom have said if the doctors were all saying,",
+      "ko": "못 깨어난단 말을 들으면 어머님께서 어떡하셨을지"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"We don't think she'll wake up.\"",
+      "ko": "생각해보세요"
+    }
+  },
+  {
+    "translation": {
+      "en": "My mom already made her decision, and that's how come her heart is still beating.",
+      "ko": "엄마는 이미 결정을 내리셨어요 아직 살아 계시는 게 증거죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "She can go at any time,",
+      "ko": "언제든 가실 수 있지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but she knows to stay here because she loves me.",
+      "ko": "절 사랑하셔서 아직 남아 계신 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-If I were to pull that life support -Okay. -there would be no me. -Okay.",
+      "ko": "저한테 결정을 내리라면 저는 반대하겠어요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "- 알겠어요 - 네"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon] Is that how?",
+      "ko": "어떻게 하냐고?"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Dr. Bhargava] How long?",
+      "ko": "'얼마나 오래' 같은데요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay, how long...",
+      "ko": "얼마나 오래..."
+    }
+  },
+  {
+    "translation": {
+      "en": "That that tube is gonna stay in.",
+      "ko": "관을 삽입하고 있냐고요?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I wish I could tell, ma'am.",
+      "ko": "말씀드리기 어려워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can't tell because, right now, you are breathing independently...",
+      "ko": "지금은 직접 숨을 쉬고 계시지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "but the machine is providing you some help right now.",
+      "ko": "기계가 보조해드리는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "I think the hard part here is just... we don't know how her body is gonna go.",
+      "ko": "언제 몸이 못 버틸지 모르니 말씀드리기 어려워요"
+    }
+  },
+  {
+    "translation": {
+      "en": "If this-- We could say for sure you can spend two months",
+      "ko": "기관절개술을 하고 급식 관을 삽입해서"
+    }
+  },
+  {
+    "translation": {
+      "en": "with a trache and a feeding tube and then you'll get better,",
+      "ko": "2달간 지내고 나면 상태가 호전된다고"
+    }
+  },
+  {
+    "translation": {
+      "en": "then most people would probably say, \"Sure, sign me up.\"",
+      "ko": "그렇게 말하면 대부분 좋다고 하시겠죠"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Exactly. -But if it's,",
+      "ko": "- 그렇겠죠 - 하지만"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"I'm gonna be going to this next step and I have no idea",
+      "ko": "다음 단계로 넘어가도 호전된다는 보증이 없으니"
+    }
+  },
+  {
+    "translation": {
+      "en": "-whether I'm ever gonna get off of it,\" -I know. -that's a harder decision to make. -[grunts softly]",
+      "ko": "결정하기 더 어려우실 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon] We know you wanna get out of these straps, right, sweetheart?",
+      "ko": "이 끈 풀고 싶지?"
+    }
+  },
+  {
+    "translation": {
+      "en": "We can all tell you've been strugglin'.",
+      "ko": "힘들어하는 거 알아"
+    }
+  },
+  {
+    "translation": {
+      "en": "So now we wanted to talk about where do we go from here?",
+      "ko": "이제부터 어떻게 할까?"
+    }
+  },
+  {
+    "translation": {
+      "en": "What do you wanna do? Okay?",
+      "ko": "어떻게 했으면 좋겠어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "If... if you can breathe on your own, they can take the tubes out.",
+      "ko": "직접 숨 쉴 수 있으면 관을 빼내 주겠대"
+    }
+  },
+  {
+    "translation": {
+      "en": "But if, for some reason, you can't breathe...",
+      "ko": "숨을 못 쉬겠으면"
+    }
+  },
+  {
+    "translation": {
+      "en": "then our options are do the trache... down into your throat...",
+      "ko": "기관절개술을 하고"
+    }
+  },
+  {
+    "translation": {
+      "en": "and that would hook you up to a machine.",
+      "ko": "기계를 달아야 한대"
+    }
+  },
+  {
+    "translation": {
+      "en": "And we don't know if that's what you want.",
+      "ko": "당신이 그러고 싶은지 모르겠어"
+    }
+  },
+  {
+    "translation": {
+      "en": "No? You don't want a feeding tube and the...",
+      "ko": "싫어? 급식 관이랑..."
+    }
+  },
+  {
+    "translation": {
+      "en": "and the tracheotomy?",
+      "ko": "기관절개술은 싫어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "ko": "싫어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No matter what.",
+      "ko": "무슨 일이 있어도?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "알았어"
+    }
+  },
+  {
+    "translation": {
+      "en": "[Gordon whispering] You did the right thing, okay?",
+      "ko": "옳은 결정이었어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm gonna do the right thing. Just trust me.",
+      "ko": "옳은 결정을 내린 거야 날 믿어"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Do you trust me? -Mmm.",
+      "ko": "나 믿어?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I trust you, okay?",
+      "ko": "난 당신을 믿어"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll take care of her.",
+      "ko": "우리 딸은 내가 돌볼게"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know that. That's my promise, right?",
+      "ko": "당신도 알지? 내가 약속했잖아"
+    }
+  },
+  {
+    "translation": {
+      "en": "I got her.",
+      "ko": "잘 돌볼게"
+    }
+  },
+  {
+    "translation": {
+      "en": "You don't worry about her. That's one thing you don't worry about.",
+      "ko": "그건 걱정하지 마 걱정 안 해도 돼"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay? I got her.",
+      "ko": "알았지? 내게 맡겨"
+    }
+  },
+  {
+    "translation": {
+      "en": "Okay.",
+      "ko": "그래"
+    }
+  },
+  {
+    "translation": {
+      "en": "And I'm so sorry that you're gonna be...",
+      "ko": "너만 두고 떠나서 미안해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[daughter sobbing] Don't. You have nothing to be sorry about, Mom. Stop.",
+      "ko": "아니에요, 왜 미안해해요 그러지 마요, 엄마"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can't-- You don't make these decisions, things happen. It's okay.",
+      "ko": "일부러 아픈 것도 아니잖아요, 괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "[patient sobs] No...",
+      "ko": "괜찮아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Things happen.",
+      "ko": "이런 일도 있는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Everybody loves you so much.",
+      "ko": "다들 엄마를 사랑해요"
+    }
+  },
+  {
+    "translation": {
+      "en": "You got so much love, so much prayers, Mom.",
+      "ko": "엄마를 위해 기도하는 사람이 많아요"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep fighting. Keep doin' it. Keep doin' what you doin'.",
+      "ko": "계속 버티세요 싸워서 이겨내는 거예요"
+    }
+  },
+  {
+    "translation": {
+      "en": "-[weakly] Tell everybody... -Hmm?",
+      "ko": "사람들한테..."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tell everybody... calm down.",
+      "ko": "진정하라고 해"
+    }
+  },
+  {
+    "translation": {
+      "en": "[daughter chuckles] \"Tell everybody to calm down.\"",
+      "ko": "다들 진정하시래요"
+    }
+  }
+]

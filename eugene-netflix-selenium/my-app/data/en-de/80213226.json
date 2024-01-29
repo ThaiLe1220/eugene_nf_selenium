@@ -1,0 +1,824 @@
+[
+  {
+    "translation": {
+      "en": "-[faint metal clatter] -[faint metal scraping]",
+      "de": "VERMISST POLIZEI KONTAKTIEREN"
+    }
+  },
+  {
+    "translation": {
+      "en": "He's okay.",
+      "de": "Es wird wieder."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rocket.",
+      "de": "Rakete."
+    }
+  },
+  {
+    "translation": {
+      "en": "Very good job!",
+      "de": "Sieht toll aus."
+    }
+  },
+  {
+    "translation": {
+      "en": "That's how... we'll get away.",
+      "de": "Auf diese Weise werden wir entkommen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Go find your mother.",
+      "de": "Such deine Mutter."
+    }
+  },
+  {
+    "translation": {
+      "en": "For the radio?",
+      "de": "Ist das für das Funkgerät?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Might help us boost the signal.",
+      "de": "Damit können wir das Signal vielleicht verstärken."
+    }
+  },
+  {
+    "translation": {
+      "en": "For you.",
+      "de": "Für dich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Thank you.",
+      "de": "Danke."
+    }
+  },
+  {
+    "translation": {
+      "en": "It'll be dark soon.",
+      "de": "Es wird bald dunkel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me--",
+      "de": "Hör mir zu…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Too loud.",
+      "de": "Zu laut."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dinner.",
+      "de": "Abendessen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[mouthing] I’m sorry.",
+      "de": "Es tut mir leid."
+    }
+  },
+  {
+    "translation": {
+      "en": "Beautiful.",
+      "de": "Wunderschön."
+    }
+  },
+  {
+    "translation": {
+      "en": "I didn't say anything.",
+      "de": "Ich hab nichts gesagt."
+    }
+  },
+  {
+    "translation": {
+      "en": "You cannot go down there!",
+      "de": "Du kannst da nicht runtergehen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Why not?",
+      "de": "Warum nicht?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You know why.",
+      "de": "Du weißt, warum."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'm not a child! I won't make a sound!",
+      "de": "Ich bin kein Kind! Ich mache kein Geräusch!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Just don't. Please.",
+      "de": "Lass es einfach."
+    }
+  },
+  {
+    "translation": {
+      "en": "This time, I took small amplifiers from the stereo.",
+      "de": "Diesmal konnte ich kleine Verstärker benutzen von der Stereoanlage."
+    }
+  },
+  {
+    "translation": {
+      "en": "It. Won't. Work.",
+      "de": "Es wird nicht funktionieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, this should increase the frequency to--",
+      "de": "Nein, das sollte die Frequenz erhöhen auf…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It. Never. Works!",
+      "de": "Das. Funktioniert. Nie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "But...",
+      "de": "Aber…"
+    }
+  },
+  {
+    "translation": {
+      "en": "we'll keep trying",
+      "de": "…wir versuchen es weiter,"
+    }
+  },
+  {
+    "translation": {
+      "en": "until it does.",
+      "de": "bis es funktioniert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop.",
+      "de": "Hör auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop.",
+      "de": "Hör auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just",
+      "de": "Hör"
+    }
+  },
+  {
+    "translation": {
+      "en": "stop.",
+      "de": "einfach auf."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remember, you need to divide.",
+      "de": "Denk dran, du musst dividieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Carry the three.",
+      "de": "Nimm die Drei mit."
+    }
+  },
+  {
+    "translation": {
+      "en": "Amazing!",
+      "de": "Fantastisch."
+    }
+  },
+  {
+    "translation": {
+      "en": "Time to go.",
+      "de": "Zeit zu gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "...please don't make me go...",
+      "de": "Ich will aber gar nicht gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll be fine.",
+      "de": "Dir wird nichts passieren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your father will always protect you. Always.",
+      "de": "Dein Vater wird dich immer beschützen. Immer."
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen to me...",
+      "de": "Hör mir zu…"
+    }
+  },
+  {
+    "translation": {
+      "en": "It's important that you learn these things.",
+      "de": "Es ist wichtig, dass du diese Dinge lernst."
+    }
+  },
+  {
+    "translation": {
+      "en": "He just wants you to be able to take care of yourself.",
+      "de": "Er will nur, dass du allein auf dich aufpassen kannst…"
+    }
+  },
+  {
+    "translation": {
+      "en": "...to take care of me.",
+      "de": "…und auch auf mich."
+    }
+  },
+  {
+    "translation": {
+      "en": "...when I'm old...",
+      "de": "Bald bin ich alt…"
+    }
+  },
+  {
+    "translation": {
+      "en": "...and grey...",
+      "de": "…und grau…"
+    }
+  },
+  {
+    "translation": {
+      "en": "...and I have no teeth...",
+      "de": "…und hab keine Zähne mehr…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry.",
+      "de": "Mach dir keine Sorgen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I don't want to go.",
+      "de": "Ich will nicht gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "There's nothing to be scared of.",
+      "de": "Du musst keine Angst haben."
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course there is.",
+      "de": "Doch, muss ich."
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll go.",
+      "de": "Ich gehe."
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you to stay here and help your mother.",
+      "de": "Du musst hierbleiben und deiner Mutter helfen."
+    }
+  },
+  {
+    "translation": {
+      "en": "I want to go.",
+      "de": "Ich will gehen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Just stay here.",
+      "de": "Du bleibst jetzt hier."
+    }
+  },
+  {
+    "translation": {
+      "en": "You'll be safe.",
+      "de": "Dir passiert nichts."
+    }
+  },
+  {
+    "translation": {
+      "en": "Next time.",
+      "de": "Nächstes Mal."
+    }
+  },
+  {
+    "translation": {
+      "en": "They'll hear you.",
+      "de": "Sie werden dich hören."
+    }
+  },
+  {
+    "translation": {
+      "en": "They'll hear you.",
+      "de": "Sie hören dich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Look at me.",
+      "de": "Sieh mich an."
+    }
+  },
+  {
+    "translation": {
+      "en": "Listen.",
+      "de": "Hör hin."
+    }
+  },
+  {
+    "translation": {
+      "en": "The river... is loud.",
+      "de": "Der Fluss… ist laut."
+    }
+  },
+  {
+    "translation": {
+      "en": "Small sounds... safe.",
+      "de": "Leise Geräusche: ungefährlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Big sounds... not safe.",
+      "de": "Laute Geräusche: gefährlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unless...",
+      "de": "Es sei denn…"
+    }
+  },
+  {
+    "translation": {
+      "en": "there's a sound nearby... that's louder.",
+      "de": "…da ist noch ein anderes Geräusch, das lauter ist"
+    }
+  },
+  {
+    "translation": {
+      "en": "You're safe.",
+      "de": "Dir passiert nichts."
+    }
+  },
+  {
+    "translation": {
+      "en": "I wanna show you something.",
+      "de": "Ich will dir was zeigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "[aloud] Hey,",
+      "de": "Hey,"
+    }
+  },
+  {
+    "translation": {
+      "en": "you're all right.",
+      "de": "es ist alles gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're all right.",
+      "de": "Es ist alles gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "I promise.",
+      "de": "Ich verspreche es."
+    }
+  },
+  {
+    "translation": {
+      "en": "[aloud] Why didn't you let her come?",
+      "de": "Warum durfte sie nicht mitkommen?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do you blame her",
+      "de": "Machst du ihr Vorwürfe"
+    }
+  },
+  {
+    "translation": {
+      "en": "for what happened?",
+      "de": "wegen dem, was passiert ist?"
+    }
+  },
+  {
+    "translation": {
+      "en": "No.",
+      "de": "Nein."
+    }
+  },
+  {
+    "translation": {
+      "en": "Because she blames herself.",
+      "de": "Denn sie macht sich Vorwürfe."
+    }
+  },
+  {
+    "translation": {
+      "en": "It was no one's fault.",
+      "de": "Niemand ist schuld daran."
+    }
+  },
+  {
+    "translation": {
+      "en": "You still love her, right?",
+      "de": "Du hast sie immer noch lieb, oder?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Of course, I do.",
+      "de": "Aber natürlich."
+    }
+  },
+  {
+    "translation": {
+      "en": "You should tell her.",
+      "de": "Das solltest du ihr sagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rocket.",
+      "de": "Rakete."
+    }
+  },
+  {
+    "translation": {
+      "en": "I need you... to make a sound... that's louder.",
+      "de": "Du musst ein Geräusch machen, das lauter ist."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your mother... needs your help.",
+      "de": "Deine Mutter braucht deine Hilfe."
+    }
+  },
+  {
+    "translation": {
+      "en": "You. Can.",
+      "de": "Du. Schaffst. Das."
+    }
+  },
+  {
+    "translation": {
+      "en": "[Lee whispering] Go, go, go.",
+      "de": "Los."
+    }
+  },
+  {
+    "translation": {
+      "en": "[aloud] It's okay. It's okay.",
+      "de": "Ist ja gut. Ist ja gut."
+    }
+  },
+  {
+    "translation": {
+      "en": "You're safe.",
+      "de": "Du bist in Sicherheit."
+    }
+  },
+  {
+    "translation": {
+      "en": "They can't hear us.",
+      "de": "Sie können uns nicht hören."
+    }
+  },
+  {
+    "translation": {
+      "en": "It worked.",
+      "de": "Es hat funktioniert."
+    }
+  },
+  {
+    "translation": {
+      "en": "You just need to rest now.",
+      "de": "Du musst dich ausruhen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are they?",
+      "de": "Wo sind sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Where are they?",
+      "de": "Wo sind sie?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I'll find them.",
+      "de": "Ich werde sie finden."
+    }
+  },
+  {
+    "translation": {
+      "en": "No, she was with me. She was with me, and...",
+      "de": "Nein, sie war bei mir. Sie war bei mir und…"
+    }
+  },
+  {
+    "translation": {
+      "en": "And then I had to go and do laundry, and...",
+      "de": "…dann musste ich die Wäsche machen und…"
+    }
+  },
+  {
+    "translation": {
+      "en": "He was with you. How did he...",
+      "de": "Er war bei dir. Wie hat er…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rockets.",
+      "de": "Raketen."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, he'd still be there.",
+      "de": "Dann ist er noch dort."
+    }
+  },
+  {
+    "translation": {
+      "en": "-I'm sure he is. -He knows to wait for you.",
+      "de": "-Bestimmt. -Er weiß, dass er auf dich warten muss."
+    }
+  },
+  {
+    "translation": {
+      "en": "And she is...",
+      "de": "Und sie ist…"
+    }
+  },
+  {
+    "translation": {
+      "en": "She's smart. She'll have found a place.",
+      "de": "Sie ist klug. Sie versteckt sich irgendwo."
+    }
+  },
+  {
+    "translation": {
+      "en": "They know what to do.",
+      "de": "Sie wissen, was sie tun müssen."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a boy.",
+      "de": "Es ist ein Junge."
+    }
+  },
+  {
+    "translation": {
+      "en": "It's a boy.",
+      "de": "Es ist ein Junge."
+    }
+  },
+  {
+    "translation": {
+      "en": "I could've carried him.",
+      "de": "Ich hätte ihn tragen können."
+    }
+  },
+  {
+    "translation": {
+      "en": "He was so heavy, wasn't he?",
+      "de": "Aber er war so schwer, nicht wahr?"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can still...",
+      "de": "Ich spüre immer noch…"
+    }
+  },
+  {
+    "translation": {
+      "en": "I can still feel the weight in my arms.",
+      "de": "Ich spüre immer noch sein Gewicht in meinen Armen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Small, but…",
+      "de": "Klein, aber…"
+    }
+  },
+  {
+    "translation": {
+      "en": "so heavy.",
+      "de": "…so schwer."
+    }
+  },
+  {
+    "translation": {
+      "en": "[softly] And my hands were free.",
+      "de": "Dabei hatte ich die Hände frei."
+    }
+  },
+  {
+    "translation": {
+      "en": "I was carrying the bag, but my hands were free.",
+      "de": "Ich trug den Rucksack, aber meine Hände waren frei."
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to stop.",
+      "de": "Du musst aufhören."
+    }
+  },
+  {
+    "translation": {
+      "en": "So, I could've carried him.",
+      "de": "Aber ich hätte ihn tragen können."
+    }
+  },
+  {
+    "translation": {
+      "en": "I should've carried him.",
+      "de": "Ich hätte ihn tragen sollen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are we...",
+      "de": "Was sind wir für Eltern…"
+    }
+  },
+  {
+    "translation": {
+      "en": "if we can't protect them?",
+      "de": "…wenn wir sie nicht beschützen können?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Who are we?",
+      "de": "Was sind wir für Eltern?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You have to protect them.",
+      "de": "Du musst sie beschützen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Promise me",
+      "de": "Versprich mir…"
+    }
+  },
+  {
+    "translation": {
+      "en": "you will protect them.",
+      "de": "…dass du sie beschützt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't worry... he'll come for us.",
+      "de": "Mach dir keine Sorgen, er wird uns holen."
+    }
+  },
+  {
+    "translation": {
+      "en": "We can't stay here.",
+      "de": "Wir können hier nicht bleiben."
+    }
+  },
+  {
+    "translation": {
+      "en": "We need to go.",
+      "de": "Wir müssen weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "He'll come for us.",
+      "de": "Er wird uns holen."
+    }
+  },
+  {
+    "translation": {
+      "en": "He will come for us.",
+      "de": "Er wird uns holen."
+    }
+  },
+  {
+    "translation": {
+      "en": "He'll come for you!",
+      "de": "Er wird dich holen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "He told me.",
+      "de": "Nein, das stimmt nicht. Er hat mir gesagt…"
+    }
+  },
+  {
+    "translation": {
+      "en": "Don't move.",
+      "de": "Nicht bewegen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stop.",
+      "de": "Hör auf!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Are you okay?",
+      "de": "Geht es dir gut?"
+    }
+  },
+  {
+    "translation": {
+      "en": "You okay?",
+      "de": "Geht's dir auch gut?"
+    }
+  },
+  {
+    "translation": {
+      "en": "Let's go to the truck.",
+      "de": "Los, steigt in den Truck."
+    }
+  },
+  {
+    "translation": {
+      "en": "[shouts] Dad!",
+      "de": "Dad!"
+    }
+  },
+  {
+    "translation": {
+      "en": "I love you.",
+      "de": "Ich hab dich lieb."
+    }
+  },
+  {
+    "translation": {
+      "en": "I have always loved you.",
+      "de": "Ich habe dich immer geliebt."
+    }
+  }
+]
