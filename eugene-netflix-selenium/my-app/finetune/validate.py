@@ -13,8 +13,8 @@ from transformers import (
 )
 
 
-def ori_translate(version, src_lan, tar_len):
-    model_name = "Helsinki-NLP/opus-mt-en-es"
+def ori_translate(src_lan, tar_lan):
+    model_name = "Helsinki-NLP/opus-mt-{src_lan}-{tar_lan}"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
@@ -28,7 +28,7 @@ def ori_translate(version, src_lan, tar_len):
         opus_mt_translation_txt.append(translation)
 
     with open(
-        f"./target/opus_mt_{src_lan}_{tar_len}_translation.txt",
+        f"./target/opus_mt_{src_lan}_{tar_lan}_translation.txt",
         "w",
         encoding="utf-8",
     ) as f:
@@ -36,8 +36,8 @@ def ori_translate(version, src_lan, tar_len):
             f.write(l + "\n")
 
 
-def finetune_translate(version, src_lan, tar_len):
-    finetuned_model_name = f"./target/{version}/opus-mt-en-es-finetuned-en-to-es"
+def finetune_translate(version, src_lan, tar_lan):
+    finetuned_model_name = f"./target/{version}/opus-mt-{src_lan}-{tar_lan}-finetuned-{src_lan}-to-{tar_lan}"
     tokenizer = MarianTokenizer.from_pretrained(finetuned_model_name)
     finetuned_model = MarianMTModel.from_pretrained(finetuned_model_name)
 
@@ -51,7 +51,7 @@ def finetune_translate(version, src_lan, tar_len):
         finetuned_opus_mt_translation_txt.append(translation)
 
     with open(
-        f"./target/{version}/finetuned_opus_mt_{src_lan}_{tar_len}_translation_{version}.txt",
+        f"./target/{version}/finetuned_opus_mt_{src_lan}_{tar_lan}_translation_{version}.txt",
         "w",
         encoding="utf-8",
     ) as f:
@@ -60,9 +60,9 @@ def finetune_translate(version, src_lan, tar_len):
 
 
 FILE_PATH = "original_english_text.txt"
-VERSION = "v1"
+VERSION = "v2"
 SOURCE_LANG = "en"
-TARGET_LANG = "es"
+TARGET_LANG = "vi"
 
 original_txt = []
 
@@ -71,5 +71,5 @@ with open(FILE_PATH, "r", encoding="utf-8") as file:
         original_txt.append(line.strip())
 
 
-# ori_translate(VERSION, SOURCE_LANG, TARGET_LANG)
+# ori_translate(SOURCE_LANG, TARGET_LANG)
 finetune_translate(VERSION, SOURCE_LANG, TARGET_LANG)

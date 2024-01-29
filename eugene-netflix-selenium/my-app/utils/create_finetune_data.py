@@ -4,7 +4,7 @@ import random
 
 # Define language translation and set the directory path for data files
 SOURCE_LANG = "en"
-TARGET_LANG = "vi"
+TARGET_LANG = "zh"
 DATA_DIRECTORY = f"../data/{SOURCE_LANG}-{TARGET_LANG}/"
 
 # List all JSON files in the specified data directory
@@ -20,10 +20,23 @@ data_less_than_20 = []
 data_less_than_30 = []
 data_less_than_40 = []
 data_less_than_50 = []
-data_50_or_more = []
+data_less_than_60 = []
+data_60_or_more = []
 
 # Initialize a list to hold all eligible translation pairs
 all_data = []
+
+
+def contains_control_characters(item):
+    # Define a set of characters you want to check for
+    check_chars = set("♪-‏")
+
+    # Check both SOURCE_LANG and TARGET_LANG text for any of the check_chars
+    return any(
+        char in item["translation"][SOURCE_LANG] + item["translation"][TARGET_LANG]
+        for char in check_chars
+    )
+
 
 # Process each file in the selected list
 for file_name in files:
@@ -33,12 +46,7 @@ for file_name in files:
         # Iterate over each translation pair in the file
         for item in translations:
             # Skip translation pairs with specific characters
-            if (
-                "♪" in item["translation"][SOURCE_LANG]
-                or "♪" in item["translation"][TARGET_LANG]
-                or "-" in item["translation"][SOURCE_LANG]
-                or "-" in item["translation"][TARGET_LANG]
-            ):
+            if contains_control_characters(item):
                 continue
 
             len_source = len(item["translation"][SOURCE_LANG])
@@ -52,8 +60,8 @@ for file_name in files:
             # Calculate the length difference ratio between source and target language
             length_diff_ratio = abs(len_source - len_target) / max_len
 
-            # Filter pairs where the length difference ratio is within an acceptable range (70%)
-            if length_diff_ratio <= 0.7:
+            # Filter pairs where the length difference ratio is within an acceptable range (80%)
+            if length_diff_ratio <= 0.8:
                 # Classify based on length criteria
                 if len_source < 10 and len_target < 10:
                     data_less_than_10.append(item)
@@ -65,8 +73,10 @@ for file_name in files:
                     data_less_than_40.append(item)
                 elif len_source < 50 and len_target < 50:
                     data_less_than_50.append(item)
+                elif len_source < 60 and len_target < 60:
+                    data_less_than_60.append(item)
                 else:
-                    data_50_or_more.append(item)
+                    data_60_or_more.append(item)
 
 # Calculate total number of translation pairs across all categories
 TOTAL_ITEMS = (
@@ -75,13 +85,14 @@ TOTAL_ITEMS = (
     + len(data_less_than_30)
     + len(data_less_than_40)
     + len(data_less_than_50)
-    + len(data_50_or_more)
+    + len(data_less_than_60)
+    + len(data_60_or_more)
 )
 
 # Select a proportion of translation pairs from each category to form a diverse dataset
 all_data.extend(
     random.sample(
-        data_less_than_10, min(len(data_less_than_10), int(TOTAL_ITEMS * 0.08))
+        data_less_than_10, min(len(data_less_than_10), int(TOTAL_ITEMS * 0.05))
     )
 )
 all_data.extend(
@@ -91,7 +102,7 @@ all_data.extend(
 )
 all_data.extend(
     random.sample(
-        data_less_than_30, min(len(data_less_than_30), int(TOTAL_ITEMS * 0.12))
+        data_less_than_30, min(len(data_less_than_30), int(TOTAL_ITEMS * 0.15))
     )
 )
 all_data.extend(
@@ -101,11 +112,16 @@ all_data.extend(
 )
 all_data.extend(
     random.sample(
-        data_less_than_40, min(len(data_less_than_40), int(TOTAL_ITEMS * 0.2))
+        data_less_than_50, min(len(data_less_than_50), int(TOTAL_ITEMS * 0.25))
     )
 )
 all_data.extend(
-    random.sample(data_50_or_more, min(len(data_50_or_more), int(TOTAL_ITEMS * 0.5)))
+    random.sample(
+        data_less_than_60, min(len(data_less_than_60), int(TOTAL_ITEMS * 0.3))
+    )
+)
+all_data.extend(
+    random.sample(data_60_or_more, min(len(data_60_or_more), int(TOTAL_ITEMS * 0.45)))
 )
 
 
