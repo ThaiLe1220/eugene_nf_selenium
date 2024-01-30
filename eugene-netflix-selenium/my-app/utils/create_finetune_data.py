@@ -4,30 +4,41 @@ import random
 
 # Define language translation and set the directory path for data files
 SOURCE_LANG = "en"
-TARGET_LANG = "zh"
+TARGET_LANG = "it"
 DATA_DIRECTORY = f"../data/{SOURCE_LANG}-{TARGET_LANG}/"
 
 # List all JSON files in the specified data directory
 all_files = [file for file in os.listdir(DATA_DIRECTORY) if file.endswith(".json")]
 
 # Randomly select files to process, limited to NUM_FILE or the total number of files, whichever is smaller
-NUM_FILE = 200
+NUM_FILE = 800
 files = random.sample(all_files, min(NUM_FILE, len(all_files)))
 
 # Initialize lists to categorize translation pairs based on their length
 data_less_than_10 = []
 data_less_than_20 = []
-data_less_than_30 = []
 data_less_than_40 = []
-data_less_than_50 = []
 data_less_than_60 = []
-data_60_or_more = []
+data_less_than_80 = []
+data_less_than_100 = []
+data_100_or_more = []
 
 # Initialize a list to hold all eligible translation pairs
 all_data = []
 
 
 def contains_control_characters(item):
+    """
+    Checks if the translation texts in both the source and target languages
+    contain any specified control characters.
+
+    Args:
+        item (dict): A dictionary representing a translation pair
+
+    Returns:
+        bool: True if any of the specified control characters are found
+        in either the source or target text, False otherwise.
+    """
     # Define a set of characters you want to check for
     check_chars = set("♪-‏")
 
@@ -38,6 +49,38 @@ def contains_control_characters(item):
     )
 
 
+def is_valid_translation(item):
+    """
+    Checks if a translation pair is valid by looking for specific anomalies.
+    """
+    src_text = item["translation"]["en"]
+    tar_text = item["translation"]["it"]
+
+    # Check if the first 20 characters of both translations are the same
+    if src_text[:15].replace(" ", "").strip() == tar_text[:15].replace(" ", "").strip():
+        return False
+
+    return True
+
+
+def swap_translation_languages(item):
+    """
+    Swaps the languages in the translation dictionary of the item.
+
+    Args:
+        item (dict): A dictionary containing the translation pair.
+
+    Returns:
+        dict: A new dictionary with swapped languages.
+    """
+    return {
+        "translation": {
+            TARGET_LANG: item["translation"][TARGET_LANG],
+            SOURCE_LANG: item["translation"][SOURCE_LANG],
+        }
+    }
+
+
 # Process each file in the selected list
 for file_name in files:
     with open(os.path.join(DATA_DIRECTORY, file_name), "r", encoding="utf-8") as file:
@@ -46,8 +89,10 @@ for file_name in files:
         # Iterate over each translation pair in the file
         for item in translations:
             # Skip translation pairs with specific characters
-            if contains_control_characters(item):
+            if contains_control_characters(item) or not is_valid_translation(item):
                 continue
+
+            item = swap_translation_languages(item)
 
             len_source = len(item["translation"][SOURCE_LANG])
             len_target = len(item["translation"][TARGET_LANG])
@@ -61,69 +106,56 @@ for file_name in files:
             length_diff_ratio = abs(len_source - len_target) / max_len
 
             # Filter pairs where the length difference ratio is within an acceptable range (80%)
-            if length_diff_ratio <= 0.8:
+            if length_diff_ratio <= 0.6:
                 # Classify based on length criteria
                 if len_source < 10 and len_target < 10:
                     data_less_than_10.append(item)
                 elif len_source < 20 and len_target < 20:
                     data_less_than_20.append(item)
-                elif len_source < 30 and len_target < 30:
-                    data_less_than_30.append(item)
                 elif len_source < 40 and len_target < 40:
                     data_less_than_40.append(item)
-                elif len_source < 50 and len_target < 50:
-                    data_less_than_50.append(item)
                 elif len_source < 60 and len_target < 60:
                     data_less_than_60.append(item)
+                elif len_source < 80 and len_target < 80:
+                    data_less_than_80.append(item)
+                elif len_source < 100 and len_target < 100:
+                    data_less_than_100.append(item)
                 else:
-                    data_60_or_more.append(item)
+                    data_100_or_more.append(item)
 
 # Calculate total number of translation pairs across all categories
-TOTAL_ITEMS = (
+TOTAL = (
     len(data_less_than_10)
     + len(data_less_than_20)
-    + len(data_less_than_30)
     + len(data_less_than_40)
-    + len(data_less_than_50)
     + len(data_less_than_60)
-    + len(data_60_or_more)
+    + len(data_less_than_80)
+    + len(data_less_than_100)
+    + len(data_100_or_more)
 )
 
 # Select a proportion of translation pairs from each category to form a diverse dataset
 all_data.extend(
-    random.sample(
-        data_less_than_10, min(len(data_less_than_10), int(TOTAL_ITEMS * 0.05))
-    )
+    random.sample(data_less_than_20, min(len(data_less_than_20), int(TOTAL * 0.01)))
 )
 all_data.extend(
-    random.sample(
-        data_less_than_20, min(len(data_less_than_20), int(TOTAL_ITEMS * 0.1))
-    )
+    random.sample(data_less_than_40, min(len(data_less_than_40), int(TOTAL * 0.01)))
 )
 all_data.extend(
-    random.sample(
-        data_less_than_30, min(len(data_less_than_30), int(TOTAL_ITEMS * 0.15))
-    )
+    random.sample(data_less_than_100, min(len(data_less_than_100), int(TOTAL * 1)))
 )
 all_data.extend(
-    random.sample(
-        data_less_than_40, min(len(data_less_than_40), int(TOTAL_ITEMS * 0.2))
-    )
+    random.sample(data_100_or_more, min(len(data_100_or_more), int(TOTAL * 1)))
 )
 all_data.extend(
-    random.sample(
-        data_less_than_50, min(len(data_less_than_50), int(TOTAL_ITEMS * 0.25))
-    )
+    random.sample(data_less_than_80, min(len(data_less_than_80), int(TOTAL * 1)))
 )
 all_data.extend(
-    random.sample(
-        data_less_than_60, min(len(data_less_than_60), int(TOTAL_ITEMS * 0.3))
-    )
+    random.sample(data_less_than_60, min(len(data_less_than_60), int(TOTAL * 0.02)))
 )
 all_data.extend(
-    random.sample(data_60_or_more, min(len(data_60_or_more), int(TOTAL_ITEMS * 0.45)))
+    random.sample(data_less_than_40, min(len(data_less_than_40), int(TOTAL * 0.01)))
 )
-
 
 # Split the data into training (80%) and validation (20%) sets
 DATA_LENGTH = len(all_data)
@@ -153,3 +185,4 @@ save_to_json(VALIDATION_FILE_PATH, validation_data)
 # Print the number of translation pairs in each set
 print(f"Number of translation pairs in train.json: {len(train_data)}")
 print(f"Number of translation pairs in validation.json: {len(validation_data)}")
+print(TOTAL)
