@@ -120,4 +120,5 @@ dmypy.json
 # profiling files
 .prof
 
+.DS_Store
 # End of .gitignore
